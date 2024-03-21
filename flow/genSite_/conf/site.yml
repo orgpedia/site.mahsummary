@@ -1,0 +1,803 @@
+Home:
+  as: "\u0997\u09C3\u09B9"
+  bn: "\u09AC\u09BE\u09A1\u09BC\u09BF"
+  brx: "\u0928\u0916\u0930"
+  doi: "\u0918\u0930"
+  en: Home
+  gom: "\u0918\u0930"
+  gu: "\u0A98\u0AB0"
+  hi: "\u0918\u0930"
+  kn: "\u0CAE\u0CC1\u0C96\u0CAA\u0CC1\u0C9F"
+  ks: "\u06AF\u0627\u0631\u06CC"
+  mai: "\u0918\u0930"
+  ml: "\u0D35\u0D40\u0D1F\u0D4D"
+  mni: "\uABCC\uABE8\uABDD"
+  mr: "\u0918\u0930"
+  ne: "\u0918\u0930"
+  or: "\u0B18\u0B30"
+  pa: "\u0A18\u0A30"
+  sa: "\u0917\u0943\u0939\u092E\u094D\u200C"
+  sat: "\u1C5F\u1C5A\u1C6B\u1C5F"
+  sd: "\u0917\u0939\u0930"
+  ta: "\u0BB5\u0BC0\u0B9F\u0BC1"
+  te: "\u0C39\u0C4B\u0C2E\u0C4D"
+  ur: "\u06AF\u06BE\u0631"
+
+weekly_summary:
+  en: Weekly Summary
+  mr: साप्ताहिक सारांश
+  
+dept_title:
+  en: 'Weekly Summary: Department-wise'
+  mr: 'साप्ताहिक सारांश: विभागवार'
+
+district_title:
+  en: 'Weekly Summary: District-wise'
+  mr: 'साप्ताहिक सारांश: जिल्हावार'
+
+dept_summary:
+  en: Department-wise
+  mr: विभागवार
+
+district_summary:
+  en: District-wise
+  mr: जिल्हावार
+  
+  
+Search:
+  as: "\u09B8\u09A8\u09CD\u09A7\u09BE\u09A8"
+  bn: "\u0985\u09A8\u09C1\u09B8\u09A8\u09CD\u09A7\u09BE\u09A8 \u0995\u09B0\u09C1\
+    \u09A8"
+  brx: "\u0928\u093E\u0917\u093F\u0930\u0928\u093E\u092F"
+  doi: "\u0924\u092A\u093E\u0936"
+  en: Search
+  gom: "\u0938\u094B\u0926"
+  gu: "\u0AB6\u0ACB\u0AA7\u0ACB"
+  hi: "\u0916\u094B\u091C"
+  kn: "\u0CB9\u0CC1\u0CA1\u0CC1\u0C95\u0CBF"
+  ks: "\u062A\u0644\u0627\u0634"
+  mai: "\u0916\u094B\u091C\u0928\u093E\u0907"
+  ml: "\u0D24\u0D3F\u0D30\u0D2F\u0D41\u0D15"
+  mni: "\uABCA\uABE4\uABD5"
+  mr: "\u0936\u094B\u0927\u093E"
+  ne: "\u0916\u094B\u091C\u094D\u0928\u0941\u0939\u094B\u0938\u094D"
+  or: "\u0B38\u0B28\u0B4D\u0B27\u0B3E\u0B28 \u0B15\u0B30 |"
+  pa: "\u0A16\u0A4B\u0A1C"
+  sa: "\u0905\u0928\u094D\u0935\u0947\u0937\u0923"
+  sat: "\u1C5B\u1C5A\u1C5E\u1C5F\u1C5F\u1C65"
+  sd: "\u0922\u093C\u094B\u0932\u093E"
+  ta: "\u0BA4\u0BC7\u0B9F\u0BC1"
+  te: "\u0C35\u0C46\u0C24\u0C15\u0C02\u0C21\u0C3F"
+  ur: "\u062A\u0644\u0627\u0634 \u06A9\u0631\u06CC\u06BA\u06D4"
+
+mahGRs:
+  en: "Weekly Summary: Maharastra GRs"
+  mr: 'साप्ताहिक सारांश: महाराष्ट्र शासन निर्णय'
+
+keywords:
+  en: keywords
+  mr: 'मुख्य शब्द'
+
+disclaimer:
+  as: "\u0985\u09B8\u09CD\u09AC\u09C0\u0995\u09BE\u09F0"
+  bn: "\u09A6\u09BE\u09AC\u09BF\u09A4\u09CD\u09AF\u09BE\u0997"
+  brx: "\u0926\u093E\u092C\u093F \u0928\u093E\u0917\u093E\u0930\u0928\u093E\u092F"
+  doi: "\u0905\u0938\u094D\u0935\u0940\u0915\u0930\u0923 \u0915\u0930\u0928\u093E"
+  en: Disclaimer
+  gom: "\u0905\u0938\u094D\u0935\u0940\u0915\u0943\u0924\u0940 \u0915\u0930\u092A"
+  gu: "\u0A85\u0AB8\u0ACD\u0AB5\u0AC0\u0A95\u0AB0\u0AA3"
+  hi: "\u0905\u0938\u094D\u0935\u0940\u0915\u0930\u0923"
+  kn: "\u0CB9\u0C95\u0CCD\u0C95\u0CC1 \u0CA8\u0CBF\u0CB0\u0CBE\u0C95\u0CB0\u0CA3\
+    \u0CC6"
+  ks: "\u067E\u0631\u062A\u06CC\u06A9\u0634"
+  mai: "\u0905\u0938\u094D\u0935\u0940\u0915\u0930\u0923"
+  ml: "\u0D28\u0D3F\u0D30\u0D3E\u0D15\u0D30\u0D23\u0D02"
+  mni: "\uABCB\uABE5\uABD4\uABE3\uABDC \uABC4\uABE4\uABD5\uABE5\uABEB"
+  mr: "\u0905\u0938\u094D\u0935\u0940\u0915\u0930\u0923"
+  ne: "\u0905\u0938\u094D\u0935\u0940\u0915\u0930\u0923"
+  or: "\u0B2A\u0B4D\u0B30\u0B24\u0B4D\u0B5F\u0B3E\u0B16\u0B4D\u0B5F\u0B3E\u0B28\
+    \ |"
+  pa: "\u0A2C\u0A47\u0A26\u0A3E\u0A05\u0A35\u0A3E"
+  sa: "\u0905\u0938\u094D\u0935\u0940\u0915\u0930\u0923\u092E\u094D"
+  sat: "\u1C75\u1C6E \u1C6B\u1C5F\u1C75\u1C64"
+  sd: "\u0930\u0926\u094D\u0926 \u0920\u0941\u0930\u093F\u0905"
+  ta: "\u0BAE\u0BB1\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1"
+  te: "\u0C28\u0C3F\u0C30\u0C3E\u0C15\u0C30\u0C23"
+  ur: "\u0688\u0633 \u06A9\u0644\u06CC\u0645\u0631"
+  
+report_an_error:
+  as: "\u098F\u099F\u09BE \u09AD\u09C1\u09B2\u09F0 \u09AA\u09CD\u09F0\u09A4\u09BF\
+    \u09AC\u09C7\u09A6\u09A8 \u09A6\u09BF\u09AF\u09BC\u0995"
+  bn: "\u098F\u0995\u099F\u09BF \u09A4\u09CD\u09B0\u09C1\u099F\u09BF \u09B0\u09BF\
+    \u09AA\u09CB\u09B0\u09CD\u099F \u0995\u09B0\u09C1\u09A8"
+  brx: "\u0917\u094B\u0930\u094B\u0928\u094D\u0925\u093F \u092B\u094B\u0930\u092E\
+    \u093E\u092F\u0925\u093F"
+  doi: "\u0907\u0915 \u0924\u094D\u0930\u0941\u091F\u093F \u0926\u0940 \u0930\u093F\
+    \u092A\u094B\u0930\u094D\u091F \u0915\u0930\u094B"
+  en: Report an Error
+  gom: "\u0924\u094D\u0930\u0941\u091F\u0940 \u0928\u094B\u0902\u0926 \u0915\u0930\
+    \u091A\u0940"
+  gu: "\u0AAD\u0AC2\u0AB2\u0AA8\u0AC0 \u0A9C\u0ABE\u0AA3 \u0A95\u0AB0\u0ACB"
+  hi: "\u0924\u094D\u0930\u0941\u091F\u093F\u092F\u093E \u092C\u0924\u093E\u092F\
+    \u0947"
+  kn: "\u0CA6\u0CCB\u0CB7\u0CB5\u0CA8\u0CCD\u0CA8\u0CC1 \u0CB5\u0CB0\u0CA6\u0CBF\
+    \ \u0CAE\u0CBE\u0CA1\u0CBF"
+  ks: "\u0648\u0646\u0646 \u0648\u0627\u0634\u0641"
+  mai: "\u0915\u094B\u0928\u094B \u0924\u094D\u0930\u0941\u091F\u093F \u0930\u093F\
+    \u092A\u094B\u0930\u094D\u091F \u0915\u0930\u0942"
+  ml: "\u0D12\u0D30\u0D41 \u0D2A\u0D3F\u0D36\u0D15\u0D4D \u0D31\u0D3F\u0D2A\u0D4D\
+    \u0D2A\u0D4B\u0D7C\u0D1F\u0D4D\u0D1F\u0D4D \u0D1A\u0D46\u0D2F\u0D4D\u0D2F\u0D41\
+    \u0D15"
+  mni: "\uABD1\uABE6\uABD4\uABE5\uABD4 \uABD1\uABC3\uABE5 \uABD4\uABE4\uABC4\uABE3\
+    \uABD4\uABE0 \uABC7\uABE7\uABD5\uABE5\uABEB"
+  mr: "\u091A\u0941\u0915\u093E \u0938\u093E\u0902\u0917\u093E"
+  ne: "\u0924\u094D\u0930\u0941\u091F\u093F \u0930\u093F\u092A\u094B\u0930\u094D\
+    \u091F \u0917\u0930\u094D\u0928\u0941\u0939\u094B\u0938\u094D"
+  or: "\u0B0F\u0B15 \u0B24\u0B4D\u0B30\u0B41\u0B1F\u0B3F \u0B30\u0B3F\u0B2A\u0B4B\
+    \u0B30\u0B4D\u0B1F \u0B15\u0B30\u0B28\u0B4D\u0B24\u0B41 |"
+  pa: "\u0A07\u0A71\u0A15 \u0A17\u0A32\u0A24\u0A40 \u0A26\u0A40 \u0A30\u0A3F\u0A2A\
+    \u0A4B\u0A30\u0A1F \u0A15\u0A30\u0A4B"
+  sa: "\u0924\u094D\u0930\u0941\u091F\u093F\u0902 \u0938\u0942\u091A\u092F\u0928\
+    \u094D\u0924\u0941"
+  sat: "\u1C75\u1C66\u1C69\u1C5E \u1C65\u1C6E\u1C6A\u1C6E\u1C5B"
+  sd: "\u0939\u0920 \u0917\u0932\u0924\u0940 \u091C\u0940 \u0930\u093F\u092A\u094B\
+    \u0930\u094D\u0923 \u092C\u094D\u0930\u093F\u092F\u094B"
+  ta: "\u0B92\u0BB0\u0BC1 \u0BAA\u0BBF\u0BB4\u0BC8\u0BAF\u0BC8\u0BAA\u0BCD \u0BAA\
+    \u0BC1\u0B95\u0BBE\u0BB0\u0BB3\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  te: "\u0C32\u0C4B\u0C2A\u0C3E\u0C28\u0C4D\u0C28\u0C3F \u0C28\u0C3F\u0C35\u0C47\
+    \u0C26\u0C3F\u0C02\u0C1A\u0C02\u0C21\u0C3F"
+  ur: "\u063A\u0644\u0637\u06CC \u06A9\u06CC \u0627\u0637\u0644\u0627\u0639 \u062F\
+    \u06CC\u06BA\u06D4"
+
+view_on_github:
+  as: "GitHub \u09A4 \u099A\u09BE\u0993\u0995"
+  bn: "GitHub \u098F \u09A6\u09C7\u0996\u09C1\u09A8"
+  brx: "\u0928\u094B\u091C\u094B\u0930 \u0917\u093F\u091F\u0939\u092C"
+  doi: "\u0917\u093F\u091F\u0939\u092C \u092A\u0930 \u0926\u093F\u0915\u094D\u0916\
+    \u094B"
+  en: View on GitHub
+  gom: "GitHub \u091A\u0947\u0930 \u092A\u0933\u092F\u093E\u0924"
+  gu: "GitHub \u0AAA\u0AB0 \u0A9C\u0AC1\u0A93"
+  hi: "\u0917\u093F\u091F\u0939\u092C \u092A\u0930 \u0926\u0947\u0916\u0947\u0902"
+  kn: "GitHub \u0CA8\u0CB2\u0CCD\u0CB2\u0CBF \u0CB5\u0CC0\u0C95\u0CCD\u0CB7\u0CBF\
+    \u0CB8\u0CBF"
+  ks: "\u0648\u0686\u06BE\u0648 \u06AF\u0679\u06C1\u0628"
+  mai: "\u0917\u093F\u091F\u0939\u092C \u092A\u0930 \u0926\u0947\u0916\u0942"
+  ml: "GitHub-\u0D7D \u0D15\u0D3E\u0D23\u0D41\u0D15"
+  mni: "\uABD2\uABE4\uABC7\uABCD\uABD5\uABC7\uABE5 \uABCC\uABE6\uABE1\uABCE\uABEB"
+  mr: "\u0917\u093F\u091F\u0939\u092C \u0935\u0930 \u092A\u0939\u093E"
+  ne: "GitHub \u092E\u093E \u0939\u0947\u0930\u094D\u0928\u0941\u0939\u094B\u0938\
+    \u094D"
+  or: "GitHub \u0B30\u0B47 \u0B26\u0B47\u0B16\u0B28\u0B4D\u0B24\u0B41 |"
+  pa: "GitHub '\u0A24\u0A47 \u0A26\u0A47\u0A16\u0A4B"
+  sa: "\u0917\u093F\u091F\u0939\u092C \u0907\u0924\u094D\u092F\u0924\u094D\u0930\
+    \ \u092A\u0936\u094D\u092F\u0928\u094D\u0924\u0941"
+  sat: "\u1C6A\u1C64\u1C5B\u1C5F\u1C68 \u1C5C\u1C64\u1C64\u1C5B\u1C66\u1C69\u1C75"
+  sd: "GitHub \u0924\u0940 \u0920\u0941\u0938\u094B"
+  ta: "GitHub \u0B87\u0BB2\u0BCD \u0B95\u0BBE\u0BA3\u0BCD\u0B95"
+  te: "GitHub\u0C32\u0C4B \u0C35\u0C40\u0C15\u0C4D\u0C37\u0C3F\u0C02\u0C1A\u0C02\
+    \u0C21\u0C3F"
+  ur: "GitHub \u067E\u0631 \u062F\u06CC\u06A9\u06BE\u06CC\u06BA"
+    
+Languages:
+  as: "\u09AD\u09BE\u09B7\u09BE\u09B8\u09AE\u09C2\u09B9"
+  bn: "\u09AD\u09BE\u09B7\u09BE\u09B8\u09AE\u09C2\u09B9"
+  brx: "\u092D\u093E\u0936\u093E\u090F\u0902"
+  doi: "\u092D\u093E\u0936\u093E\u090F\u0902"
+  en: Languages
+  gom: "\u092D\u093E\u0938\u094B"
+  gu: "\u0AAD\u0ABE\u0AB7\u0ABE\u0A93"
+  hi: "\u092D\u093E\u0937\u093E\u090F\u0901"
+  kn: "\u0CAD\u0CBE\u0CB7\u0CC6\u0C97\u0CB3\u0CC1"
+  ks: "\u0632\u0628\u0627\u0646\u06CC"
+  mai: "\u092D\u093E\u0937\u093E\u090F\u0901"
+  ml: "\u0D2D\u0D3E\u0D37\u0D15\u0D7E"
+  mni: "\uABC2\uABE3\uABC2\uABC1\uABE4\uABE1\uABEB"
+  mr: "\u092D\u093E\u0937\u093E"
+  ne: "\u092D\u093E\u0937\u093E\u0939\u0930\u0941"
+  or: "\u0B2D\u0B3E\u0B37\u0B3E\u0B17\u0B41\u0B21\u0B3C\u0B3F\u0B15 |"
+  pa: "\u0A2D\u0A3E\u0A38\u0A3C\u0A3E\u0A35\u0A3E\u0A02"
+  sa: "\u092D\u093E\u0937\u093E\u0903"
+  sat: "\u1C6F\u1C5F\u1C68\u1C65\u1C64"
+  sd: "\u091C\u093C\u094B\u0932\u093F\u092F\u094B\u0928"
+  ta: "\u0BAE\u0BCA\u0BB4\u0BBF\u0B95\u0BB3\u0BCD"
+  te: "\u0C2D\u0C3E\u0C37\u0C32\u0C41"
+  ur: "\u0632\u0628\u0627\u0646\u06CC\u06BA"
+
+week:
+  en: Week
+  mr: आठवडा
+
+districts:
+  en: Districts
+  mr: जिल्हे
+
+district:
+  en: District
+  mr: जिल्हा
+  
+
+pages:
+  en: Pages
+  mr: पृष्ठे
+
+date:
+  en: Date
+  mr: तारीख
+
+archive_title:
+  en: 'Archive of Weekly Summaries'
+  mr: साप्ताहिक सारांशांचे संग्रहण
+
+Archives:
+  en: Archives
+  mr: संग्रहण
+
+latest_summary:
+  en: Latest Summary
+  mr: नवीनतम सारांश
+  
+'0':
+  as: "\u09E6"
+  bn: "\u09E6"
+  brx: "\u0966"
+  doi: "\u0966"
+  en: '0'
+  gom: "\u0966"
+  gu: "\u0AE6"
+  hi: "\u0966"
+  kn: "\u0CE6"
+  ks: "\u06F0"
+  mai: "\u0966"
+  ml: "\u0D66"
+  mni: "\uABF0"
+  mr: "\u0966"
+  ne: "\u0966"
+  or: "\u0B66"
+  pa: "\u0A66"
+  sa: "\u0966"
+  sat: "\u1C50"
+  sd: "\u0966"
+  ta: "\u0BE6"
+  te: "\u0C66"
+  ur: "\u06F0"
+'1':
+  as: "\u09E7"
+  bn: "\u09E7"
+  brx: "\u0967"
+  doi: "\u0967"
+  en: '1'
+  gom: "\u0967"
+  gu: "\u0AE7"
+  hi: "\u0967"
+  kn: "\u0CE7"
+  ks: "\u06F1"
+  mai: "\u0967"
+  ml: "\u0D67"
+  mni: "\uABF1"
+  mr: "\u0967"
+  ne: "\u0967"
+  or: "\u0B67"
+  pa: "\u0A67"
+  sa: "\u0967"
+  sat: "\u1C51"
+  sd: "\u0967"
+  ta: "\u0BE7"
+  te: "\u0C67"
+  ur: "\u06F1"
+'2':
+  as: "\u09E8"
+  bn: "\u09E8"
+  brx: "\u0968"
+  doi: "\u0968"
+  en: '2'
+  gom: "\u0968"
+  gu: "\u0AE8"
+  hi: "\u0968"
+  kn: "\u0CE8"
+  ks: "\u06F2"
+  mai: "\u0968"
+  ml: "\u0D68"
+  mni: "\uABF2"
+  mr: "\u0968"
+  ne: "\u0968"
+  or: "\u0B68"
+  pa: "\u0A68"
+  sa: "\u0968"
+  sat: "\u1C52"
+  sd: "\u0968"
+  ta: "\u0BE8"
+  te: "\u0C68"
+  ur: "\u06F2"
+'3':
+  as: "\u09E9"
+  bn: "\u09E9"
+  brx: "\u0969"
+  doi: "\u0969"
+  en: '3'
+  gom: "\u0969"
+  gu: "\u0AE9"
+  hi: "\u0969"
+  kn: "\u0CE9"
+  ks: "\u06F3"
+  mai: "\u0969"
+  ml: "\u0D69"
+  mni: "\uABF3"
+  mr: "\u0969"
+  ne: "\u0969"
+  or: "\u0B69"
+  pa: "\u0A69"
+  sa: "\u0969"
+  sat: "\u1C53"
+  sd: "\u0969"
+  ta: "\u0BE9"
+  te: "\u0C69"
+  ur: "\u06F3"
+'4':
+  as: "\u09EA"
+  bn: "\u09EA"
+  brx: "\u096A"
+  doi: "\u096A"
+  en: '4'
+  gom: "\u096A"
+  gu: "\u0AEA"
+  hi: "\u096A"
+  kn: "\u0CEA"
+  ks: "\u06F4"
+  mai: "\u096A"
+  ml: "\u0D6A"
+  mni: "\uABF4"
+  mr: "\u096A"
+  ne: "\u096A"
+  or: "\u0B6A"
+  pa: "\u0A6A"
+  sa: "\u096A"
+  sat: "\u1C54"
+  sd: "\u096A"
+  ta: "\u0BEA"
+  te: "\u0C6A"
+  ur: "\u06F4"
+'5':
+  as: "\u09EB"
+  bn: "\u09EB"
+  brx: "\u096B"
+  doi: "\u096B"
+  en: '5'
+  gom: "\u096B"
+  gu: "\u0AEB"
+  hi: "\u096B"
+  kn: "\u0CEB"
+  ks: "\u06F5"
+  mai: "\u096B"
+  ml: "\u0D6B"
+  mni: "\uABF5"
+  mr: "\u096B"
+  ne: "\u096B"
+  or: "\u0B6B"
+  pa: "\u0A6B"
+  sa: "\u096B"
+  sat: "\u1C55"
+  sd: "\u096B"
+  ta: "\u0BEB"
+  te: "\u0C6B"
+  ur: "\u06F5"
+'6':
+  as: "\u09EC"
+  bn: "\u09EC"
+  brx: "\u096C"
+  doi: "\u096C"
+  en: '6'
+  gom: "\u096C"
+  gu: "\u0AEC"
+  hi: "\u096C"
+  kn: "\u0CEC"
+  ks: "\u06F6"
+  mai: "\u096C"
+  ml: "\u0D6C"
+  mni: "\uABF6"
+  mr: "\u096C"
+  ne: "\u096C"
+  or: "\u0B6C"
+  pa: "\u0A6C"
+  sa: "\u096C"
+  sat: "\u1C56"
+  sd: "\u096C"
+  ta: "\u0BEC"
+  te: "\u0C6C"
+  ur: "\u06F6"
+'7':
+  as: "\u09ED"
+  bn: "\u09ED"
+  brx: "\u096D"
+  doi: "\u096D"
+  en: '7'
+  gom: "\u096D"
+  gu: "\u0AED"
+  hi: "\u096D"
+  kn: "\u0CED"
+  ks: "\u06F7"
+  mai: "\u096D"
+  ml: "\u0D6D"
+  mni: "\uABF7"
+  mr: "\u096D"
+  ne: "\u096D"
+  or: "\u0B6D"
+  pa: "\u0A6D"
+  sa: "\u096D"
+  sat: "\u1C57"
+  sd: "\u096D"
+  ta: "\u0BED"
+  te: "\u0C6D"
+  ur: "\u06F7"
+'8':
+  as: "\u09EE"
+  bn: "\u09EE"
+  brx: "\u096E"
+  doi: "\u096E"
+  en: '8'
+  gom: "\u096E"
+  gu: "\u0AEE"
+  hi: "\u096E"
+  kn: "\u0CEE"
+  ks: "\u06F8"
+  mai: "\u096E"
+  ml: "\u0D6E"
+  mni: "\uABF8"
+  mr: "\u096E"
+  ne: "\u096E"
+  or: "\u0B6E"
+  pa: "\u0A6E"
+  sa: "\u096E"
+  sat: "\u1C58"
+  sd: "\u096E"
+  ta: "\u0BEE"
+  te: "\u0C6E"
+  ur: "\u06F8"
+'9':
+  as: "\u09EF"
+  bn: "\u09EF"
+  brx: "\u096F"
+  doi: "\u096F"
+  en: '9'
+  gom: "\u096F"
+  gu: "\u0AEF"
+  hi: "\u096F"
+  kn: "\u0CEF"
+  ks: "\u06F9"
+  mai: "\u096F"
+  ml: "\u0D6F"
+  mni: "\uABF9"
+  mr: "\u096F"
+  ne: "\u096F"
+  or: "\u0B6F"
+  pa: "\u0A6F"
+  sa: "\u096F"
+  sat: "\u1C59"
+  sd: "\u096F"
+  ta: "\u0BEF"
+  te: "\u0C6F"
+  ur: "\u06F9"
+Ahmednagar:
+  en: Ahmednagar
+  mr: अहमदनगर
+Akola:
+  en: Akola
+  mr: अकोला
+Amravati:
+  en: Amravati
+  mr: अमरावती
+Aurangabad:
+  en: Aurangabad
+  mr: औरंगाबाद
+Beed:
+  en: Beed
+  mr: बीड
+Bhandara:
+  en: Bhandara
+  mr: भंडारा
+Buldhana:
+  en: Buldhana
+  mr: बुलढाणा
+Chandrapur:
+  en: Chandrapur
+  mr: चंद्रपूर
+Dhule:
+  en: Dhule
+  mr: धुळे
+Gadchiroli:
+  en: Gadchiroli
+  mr: गडचिरोली
+Gondia:
+  en: Gondia
+  mr: गोंदिया
+Hingoli:
+  en: Hingoli
+  mr: हिंगोली
+Jalgaon:
+  en: Jalgaon
+  mr: जळगाव
+Jalna:
+  en: Jalna
+  mr: जालना
+Kolhapur:
+  en: Kolhapur
+  mr: कोल्हापूर
+Latur:
+  en: Latur
+  mr: लातूर
+Mumbai:
+  en: Mumbai_City
+  mr: मुंबई_शहर
+Mumbai_City:
+  en: Mumbai_City
+  mr: मुंबई_शहर
+Mumbai_Suburban:
+  en: Mumbai_Suburban
+  mr: मुंबई_उपनगर
+'Mumbai Suburban':
+  en: 'Mumbai Suburban'
+  mr: 'मुंबई उपनगर'
+Nagpur:
+  en: Nagpur
+  mr: नागपूर
+Nanded:
+  en: Nanded
+  mr: नांदेड
+Nandurbar:
+  en: Nandurbar
+  mr: नंदुरबार
+Nashik:
+  en: Nashik
+  mr: नाशिक
+Osmanabad:
+  en: Osmanabad
+  mr: उस्मानाबाद
+Palghar:
+  en: Palghar
+  mr: पालघर
+Parbhani:
+  en: Parbhani
+  mr: परभणी
+Pune:
+  en: Pune
+  mr: पुणे
+Raigad:
+  en: Raigad
+  mr: रायगड
+Ratnagiri:
+  en: Ratnagiri
+  mr: रत्नागिरी
+Sangli:
+  en: Sangli
+  mr: सांगली
+Satara:
+  en: Satara
+  mr: सातारा
+Sindhudurg:
+  en: Sindhudurg
+  mr: सिंधुदुर्ग
+Solapur:
+  en: Solapur
+  mr: सोलापूर
+Thane:
+  en: Thane
+  mr: ठाणे
+Wardha:
+  en: Wardha
+  mr: वर्धा
+Washim:
+  en: Washim
+  mr: वाशिम
+Yavatmal:
+  en: Yavatmal
+  mr: यवतमाळ
+Miscellaneous:
+  en: Miscellaneous
+  mr: नानाविध
+Funds:
+  en: Funds
+  mr: निधी
+Personnel:
+  en: Personnel
+  mr: कार्मिक
+Jul:
+  en: Jul
+  mr: जुलै
+July:
+  en: July
+  mr: जुलै
+Aug:
+  en: Aug
+  mr: ऑगस्ट
+August:
+  en: August
+  mr: ऑग
+Sep:
+  en: Sep
+  mr: सप्टें
+September:
+  en: September
+  mr: सप्टेंबर
+Oct:
+  en: Oct
+  mr: ऑक्ट
+October:
+  en: October
+  mr: ऑक्टोबर
+Nov:
+  en: Nov
+  mr: नोव्हें
+November:
+  en: November
+  mr: नोव्हेंबर
+Dec:
+  en: Dec
+  mr: डिसें
+December:
+  en: December
+  mr: डिसेंबर
+Jan:
+  en: Jan
+  mr: जान
+January:
+  en: January
+  mr: जानेवारी
+Feb:
+  en: Feb
+  mr: फेब
+February:
+  en: February
+  mr: फेब्रुवारी
+Mar:
+  en: Mar
+  mr: मार्च
+March:
+  en: March
+  mr: मार्च
+Apr:
+  en: Apr
+  mr: एप्रि
+April:
+  en: April
+  mr: एप्रिल
+May:
+  en: May
+  mr: मे
+Jun:
+  en: Jun
+  mr: जून
+June:
+  en: Jun
+  mr: जून
+'Agriculture, Dairy Development, Animal Husbandry and Fisheries Department':
+  en: 'Agriculture, Dairy Development, Animal Husbandry and Fisheries Department'
+  mr: 'कृषी, पशुसंवर्धन, दुग्‍धव्‍यवसाय विकास व मत्‍स्‍यव्‍यवसाय विभाग'
+'Co-operation, Textiles and Marketing Department':
+  en: 'Co-operation, Textiles and Marketing Department'
+  mr: 'सहकार, पणन व वस्‍त्रोद्योग विभाग'
+'Environment Department':
+  en: 'Environment Department'
+  mr: 'पर्यावरण विभाग'
+'Finance Department':
+  en: 'Finance Department'
+  mr: 'वित्त विभाग'
+'Food, Civil Supplies and Consumer Protection Department':
+  en: 'Food, Civil Supplies and Consumer Protection Department'
+  mr: 'अन्‍न, नागरी पुरवठा व ग्राहक संरक्षण विभाग'
+'General Administration Department':
+  en: 'General Administration Department'
+  mr: 'सामान्य प्रशासन विभाग'
+'Higher and Technical Education Department':
+  en: 'Higher and Technical Education Department'
+  mr: 'उच्च व तंत्रशिक्षण विभाग'
+'Home Department':
+  en: 'Home Department'
+  mr: 'गृह विभाग'
+'Housing Department':
+  en: 'Housing Department'
+  mr: 'गृहनिर्माण विभाग'
+'Industries, Energy and Labour Department':
+  en: 'Industries, Energy and Labour Department'
+  mr: 'उद्योग, उर्जा व कामगार विभाग'
+'Information Technology Department':
+  en: 'Information Technology Department'
+  mr: 'माहिती तंत्रज्ञान विभाग'
+'Law and Judiciary Department':
+  en: 'Law and Judiciary Department'
+  mr: 'विधी व न्याय विभाग'
+'Marathi Language Department':
+  en: 'Marathi Language Department'
+  mr: 'मराठी भाषा विभाग'
+'Medical Education and Drugs Department':
+  en: 'Medical Education and Drugs Department'
+  mr: 'वैद्यकीय शिक्षण व औषधी द्रव्‍ये विभाग'
+'Minorities Development Department':
+  en: 'Minorities Development Department'
+  mr: 'अल्पसंख्याक विकास विभाग'
+'Other Backward Bahujan Welfare Department':
+  en: 'Other Backward Bahujan Welfare Department'
+  mr: 'इतर मागास बहुजन कल्याण विभाग'
+'Parliamentary Affairs Department':
+  en: 'Parliamentary Affairs Department'
+  mr: 'संसदीय कार्य विभाग'
+'Persons with Disabilities Welfare Department':
+  en: 'Persons with Disabilities Welfare Department'
+  mr: 'दिव्यांग कल्याण विभाग'
+'Planning Department':
+  en: 'Planning Department'
+  mr: 'नियोजन विभाग'
+'Public Health Department':
+  en: 'Public Health Department'
+  mr: 'सार्वजनिक आरोग्य विभाग'
+'Public Works Department':
+  en: 'Public Works Department'
+  mr: 'सार्वजनिक बांधकाम विभाग'
+'Revenue and Forest Department':
+  en: 'Revenue and Forest Department'
+  mr: 'महसूल व वन विभाग'
+'Rural Development Department':
+  en: 'Rural Development Department'
+  mr: 'ग्राम विकास विभाग'
+'School Education and Sports Department':
+  en: 'School Education and Sports Department'
+  mr: 'शालेय शिक्षण व क्रीडा विभाग'
+'Skill Development and Entrepreneurship Department':
+  en: 'Skill Development and Entrepreneurship Department'
+  mr: 'कौशल्य विकास व उदयोजकता विभाग'
+'Social Justice and Special Assistance Department':
+  en: 'Social Justice and Special Assistance Department'
+  mr: 'सामाजिक न्‍याय व विशेष सहाय्य विभाग'
+'Soil and Water Conservation Department':
+  en: 'Soil and Water Conservation Department'
+  mr: 'मृद व जलसंधारण विभाग'
+'Tourism and Cultural Affairs Department':
+  en: 'Tourism and Cultural Affairs Department'
+  mr: 'पर्यटन व सांस्कृतिक कार्य विभाग'
+'Tribal Development Department':
+  en: 'Tribal Development Department'
+  mr: 'आदिवासी विकास विभाग'
+'Urban Development Department':
+  en: 'Urban Development Department'
+  mr: 'नगर विकास विभाग'
+'Water Resources Department':
+  en: 'Water Resources Department'
+  mr: 'जलसंपदा विभाग'
+'Water Supply and Sanitation Department':
+  en: 'Water Supply and Sanitation Department'
+  mr: 'पाणीपुरवठा व स्वच्छता विभाग'
+'Women and Child Development Department':
+  en: 'Women and Child Development Department'
+  mr: 'महिला व बाल विकास विभाग'
+'rs.':
+  en: 'Rs.'
+  mr: 'रु.'
+crores:
+  en: crores
+  mr: कोटी
+    
+crore:
+  en: crore
+  mr: कोटी
+    
+lakhs:
+  en: lakhs
+  mr: लाख
+
+lakh:
+  en: lakh
+  mr: लाख
+
+'...':
+  en: '...'
+  mr: '...'
+
+text:
+  en: Text
+  mr: मजकूर
+
+english:
+  en: English
+  mr: इंग्रजी
+  
+
+  

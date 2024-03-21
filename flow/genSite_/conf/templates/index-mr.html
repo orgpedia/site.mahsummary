@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% include 'include/head.html' %}
+  </head>
+
+  <body>
+    {% from 'macros.html' import breadcrumb with context %}
+      {% include 'include/header.html' %}
+
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+	  {% include 'include/side_bar.html' %}
+      
+
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	    {% include 'include/search_results.html' %}	    	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    {{ breadcrumb([(site.Home, '')]) }}
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<span class="text-blue-500 font-bold text-xl md:text-2xl">{{ site.mahGRs }}&nbsp;&nbsp;</span>
+		      </div>
+                      <div class="border bg-white p-3 my-5 text-base">
+			<p class="pt-5">या ससंकेत स्थळवर महाराष्ट्र शासनाने जारी केलेल्या सरकारी निर्णयांचा साप्ताहिक सारांश आहे. सरकारी निर्णय या ससंकेत स्थळावरून मिळवले आहेत - <a class="text-blue-500" href="https://gr.maharashtra.gov.in/">https://gr.maharashtra.gov.in/</a>.
+
+			 <p class="pt-5">दर रविवारी मागील आठवड्यात जारी केलेल्या सरकारी निर्णय सह संदर्भित केले जाते. प्रत्येक सरकारी निर्णय वर जिल्हा, श्रेणी आणि सरकारी निर्णया मध्ये नमूद केलेल्या निधीच्या प्रमाणासह भाष्य केले जाते, त्यानंतर भाष्यांच्या आधारे साप्ताहिक सारांश तयार केला जातो. भविष्यात आम्ही आणखी भाष्ये जोडण्याची तसेच भाष्याची तपशीलता  वाढवण्याची योजना आखत आहोत.
+			  
+			  <p class="pt-5">आम्ही हे दोन साप्ताहिक सारांश प्रकाशित करत आहोत:
+			  
+			  <ul class="pl-5 list-disc list-outside text-base">
+			    <li class="py-2.5"><a class="text-blue-500" href="dept/summary.html">{{site.dept_title}}</a>
+			    <li class="py-2.5"><a class="text-blue-500" href="dist/summary.html">{{site.district_title}}</a>
+			  </ul>
+
+			  <p class="pt-5">या साइटवर तुम्हाला स्वारस्य असलेले सारांश निवडून तुम्ही हे सारांश ईमेल मध्ये देखील <a class="text-blue-500" href="">मिळवू</a> शकता. पूर्वीचे सारांश संग्रहण या <a class="text-blue-500" href="archive.html">ससंकेत स्थळवर</a> मिळू शकतात.
+
+			  <p class="pt-5">सध्या सारांश इंग्रजी, मराठीत प्रकाशित झाले आहेत.
+
+		      </div>
+		      
+                    </div>
+
+			
+                  </div>
+                </section>
+          </main>
+        </div>
+	{% include 'include/footer.html' %}
+    </body>
+</html>

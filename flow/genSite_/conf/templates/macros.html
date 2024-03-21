@@ -1,0 +1,124 @@
+
+{% macro breadcrumb(crumbs=[], last_id=-1) -%}
+<div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  {% for (name, href) in crumbs %}
+  {% if (loop.last) %}
+      {% if (last_id == -1) %}
+      <span class="font-bold text-black">{{ name }}</span>
+      {% else %}
+      <span id="{{last_id}}" class="font-bold text-black">{{ name }}</span>
+      {% endif %}
+
+
+
+  {% else %}
+  <a href="{{ href | replace(' ', '_') }}">
+    <span class="cursor-pointer">{{ name }}</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  {% endif %}
+  {% endfor %}
+  </div>
+  {% if site.doc_type == "department" and site.lang == "en" %}
+    <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('{{site.item_name}}', {{site.list_id}})">Subscribe</button>
+  {% endif %}
+</div>
+{% endmacro %}
+
+
+{% macro officer_tile(officer, site, tenure_type='officer') %}
+<div onclick="location.href='{{ officer.url }}';" style="cursor:pointer;"
+     class="bg-white p-5 flex flex-col justify-center items-center rounded-sm shadow-md">
+  <img src="{{ officer.image_url }}" class="w-[75px] h-[106px]" alt="{{ officer.full_name }}">
+  <div class="text-center mt-3.5">
+    <h4 class="text-base">{{ officer.full_name }}</h4>
+    {% if tenure_type == 'officer' %}
+    <p class="text-[11px] text-[#999999]">{{ site.tenure }}: {{ officer.tenure_str }}</p>
+    {% elif tenure_type == 'prime' %}
+    <p class="text-[11px] text-[#999999]">{{ site.tenure }}: {{ officer.prime_tenure_str }}</p>
+    {% else %}
+    <p class="text-[11px] text-[#999999]">{{ site.tenure }}: {{ officer.deputy_tenure_str }}</p>
+    {% endif %}
+
+  </div>
+</div>
+{% endmacro %}
+
+
+{% macro dept_line(name, url, num_depts, site ) %}
+{% if num_depts| int > 0 %}
+<div onclick="location.href='{{ url }}';" style="cursor:pointer;"
+     class="bg-white h-36 p-3 flex flex-col justify-center items-center rounded-sm shadow-md text-xs md:text-sm lg:text-base">
+  <div class="text-center mt-3.5 mb-3.5">
+    {{ name }} [{{num_depts}}]
+  </div>
+</div>
+{% else %}
+<div class="bg-white h-36 p-3 flex flex-col justify-center items-center rounded-sm shadow-md text-xs md:text-sm lg:text-base">
+  <div class="text-center mt-3.5 mb-3.5">
+    {{ name }} [{{num_depts}}]
+  </div>
+</div>
+{% endif %}
+{% endmacro %}
+
+
+{% macro officer_jsonld_info(officer) %}
+            {
+                "@type": "Person",
+                "image": "{{ officer.image_url }}",
+                "url": "{{ officer.url }}",
+                "name": "{{ officer.full_name }}",
+             }
+{% endmacro %}
+
+
+
+{% macro order_tile(order, site) %}
+<div onclick="location.href='{{order.url}}';" style="cursor:pointer;"
+     class="bg-white p-5 flex flex-col justify-center items-center rounded-sm shadow-md">
+ <img src="../../i/p2.svg">
+  <div class="text-center mt-3.5">
+    <h4 class="text-base">{{order.order_id}}</h4>
+    <p class="text-[11px] text-[#999999]">{{order.date_str}}</p>
+    <br>
+    <p class="text-[11px] text-[#999999]">{{ site.order_type }}:</p>
+    <p class="text-base">{{order.category}}</p>
+
+    <p class="text-[11px] text-[#999999]"># {{ site.order_details }}:</p>
+    <p class="text-base">{{order.num_details}}</p>
+  </div>
+</div>
+{% endmacro %}
+
+{% macro order_jsonld_info(order, site) %}
+            {
+                "@type": "Legislation",
+                "image": "{{ order.svg_pages[0] }}",
+                "url": "{{ site.page_url }}",
+                "name": "{{ order.order_id }}",
+             }
+{% endmacro %}
+
+
+{% macro sel_tenure_panel(tenure) %}
+<div id="t{{tenure.tenure_pos}}" class="bg-white border border-blue-500 border-b-0 lg:border lg:border-r-0 relative text-sm cursor-pointer" onclick="up({{ tenure.tenure_pos }})"> <!-- ignore -1 -->
+  <div id="tc{{officer.first_tenure.tenure_pos}}" class="p-2 w-full h-full min-w-[210px] lg:relative bg-white focus:bg-white z-20 lg:-right-1 -bottom-4 lg:-bottom-0 text-[#333333]">
+    <h4 class="font-semibold mb-2">{{ tenure.dept }}</h4>
+    <p>{{ tenure.role }}</p>
+  </div>
+</div>
+{% endmacro %}
+
+
+{% macro unsel_tenure_panel(tenure) %}
+<div id="t{{tenure.tenure_pos}}" class="bg-[#D9D9D9] border border-[#B8B8B8] lg:border-r-0 text-sm text-[#333333] cursor-pointer" onclick="up({{ tenure.tenure_pos }})"> <!-- ignore -1 -->
+  <div id="tc{{tenure.tenure_pos}}" class="p-2 w-full h-full min-w-[210px]">
+    <h4 class="font-semibold mb-2">{{ tenure.dept }}</h4>
+    <p>{{ tenure.role }}</p>
+  </div>
+</div>
+{% endmacro %}

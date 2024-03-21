@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% include 'include/head.html' %}
+  </head>
+
+  <body>
+    {% from 'macros.html' import breadcrumb with context %}
+      {% include 'include/header.html' %}
+
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+	  {% include 'include/side_bar.html' %}
+      
+
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	    {% include 'include/search_results.html' %}	    	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    {{ breadcrumb([(site.Home, '../index.html'), (site.title, '')]) }}
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<span class="text-blue-500 font-bold text-xl md:text-2xl">{{ site.title }}&nbsp;&nbsp;</span>
+			<span class="text-blue-500">
+			  {{site.week}} {{site.week_num}}: ({{site.start_date_str}} - {{site.end_date_str}})
+			</span>
+		      </div>
+		      
+                      <div class="grid grid-cols-3 md:grid-cols-4 gap-3 md:gap-5 lg:gap-7">
+			{% for (name, url, num_depts) in depts %}
+			{% from 'macros.html' import dept_line with context %}
+			{{ dept_line(name, url, num_depts, site) }}
+			{% endfor %}
+                      </div>
+                    </div>
+
+			
+                  </div>
+                </section>
+          </main>
+        </div>
+	{% include 'include/footer.html' %}
+    </body>
+</html>

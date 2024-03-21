@@ -1,0 +1,40 @@
+name: genSite
+
+on:
+  #schedule:
+  #  - cron: '30 16 * * *'  # Runs at 16:30 UTC, which is 10:00 PM IST
+
+  push:
+    branches: [ main ]
+
+jobs:
+  import_export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+            python-version: '3.8'  # specify your Python version
+
+      - name: Install Poetry
+        run: |
+          curl -sSL https://install.python-poetry.org | python3 -
+          echo "$HOME/.poetry/bin" >> $GITHUB_PATH
+
+      - name: checkout mahGRs
+        uses: actions/checkout@v4
+        with:
+          repository: orgpedia/mahGRs
+          path: import
+          sparse-checkout: |
+            GRs
+
+      - name: list files
+        run: ls -lR 'import'
+            

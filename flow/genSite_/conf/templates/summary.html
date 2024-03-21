@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% include 'include/head.html' %}
+  </head>
+
+  <body>
+    {% from 'macros.html' import breadcrumb with context %}
+      {% include 'include/header.html' %}
+
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+	  {% include 'include/side_bar.html' %}
+
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	    {% include 'include/search_results.html' %}	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    {% if site.doc_type == "department" %}
+		    {{ breadcrumb([ (site.Home, '../index.html'), (site.dept_title, site.year|int ~'-W'~site.week_num|int~'-summary.html'), ('Week ' ~ site.week_num, '')]) }}
+		    {% else %}
+		    {{ breadcrumb([ (site.Home, '../index.html'), (site.district_title, site.year|int ~'-W'~site.week_num|int~'-summary.html'), ('Week ' ~ site.week_num, '')]) }}		    
+		    {% endif %}
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">{{ site.title }}</h2>
+			<span class="text-blue-500">
+			  {{site.week}} {{site.week_num}}: ({{site.start_date_str}} - {{site.end_date_str}})
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      {% for (doc_type, docs) in depts.items() %}
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">{{ doc_type }} </h2>
+		      {% for doc in docs %}
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">{{ doc.text }}</h4>
+			  <div class="text-gray-500 text-sm">
+			    {% if doc.funds_amount %}
+			    <span class="font-semibold">{{site.Funds}}:</span> {{doc.funds_amount}}
+			    {% endif %}
+
+			    {% if doc.districts %}			    
+			    <span class="font-semibold">{{site.districts}}:</span> {{doc.districts}}
+			    {% endif %}			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="{{doc.url}}"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="{{doc.code}}.pdf">{{doc.code | truncate(12, True)}}.pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">{{site.text}}: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/{{doc.en_dept}}/{{doc.code}}.pdf.en.txt">{{site.english}}</a></div>
+				  <div class="mr-2">{{site.pages}}: {{doc.num_pages}}</div>
+				  <div>{{site.date}}: {{doc.date_str}}</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      {% endfor %}
+		      {% if not loop.last %}
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      {% endif %}		      
+			{% endfor %}
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+	{% include 'include/footer.html' %}
+    </body>
+</html>
