@@ -34,7 +34,22 @@ jobs:
           path: import/
           sparse-checkout-cone-mode: false
           sparse-checkout: GRs/*
+          
+      - name: Install dependencies
+        run: make install
 
-      - name: list files
-        run: ls -lR 'import'
+      - name: Generate site
+        run: make flow
+
+      - name: Export
+        run: make export
+
+      - name: Commit and push changes
+        id: commit-and-push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: actions export
+        
+        
+
             

@@ -40,7 +40,7 @@ format:
 	poetry run ruff format .
 
 
-export: format lint
+export: 
 	cp -r flow/genSite_/output/* docs/
 
 
