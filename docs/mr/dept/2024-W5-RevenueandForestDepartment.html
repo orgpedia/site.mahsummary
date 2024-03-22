@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>साप्ताहिक सारांश: महसूल व वन विभाग </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-mr.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                साप्ताहिक सारांश: महाराष्ट्र शासन निर्णय</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">शोधा</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="मुख्य शब्द" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en">English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr"selected>मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="शोधा...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          नवीनतम सारांश
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              विभागवार
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              जिल्हावार
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">संग्रहण</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    अस्वीकरण
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">घर</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2024-W5-summary.html">
+    <span class="cursor-pointer">साप्ताहिक सारांश: विभागवार</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week ५</span>
+
+
+
+  </div>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">साप्ताहिक सारांश: महसूल व वन विभाग</h2>
+			<span class="text-blue-500">
+			  आठवडा ५: (२९ जानेवारी २०२४ - ०३ फेब्रुवारी २०२४)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">निधी </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">&#34;महाराष्ट्र अनुसूचित जमातीच्या भोगवटदारांना झाडांची विक्री करणे (विनियमन) अधिनियम, १९६९ या अन्वये आदिवासी खातेदारांना प्रदाने&#34; (२४०६ ०६८६) निधी वितरण करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ६००.०० लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, चंद्रपूर, गडचिरोली, नागपूर, ठाणे, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311827564219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311827564219.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311827564219.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311827564219.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नैसर्गिक आपत्तीबाबत प्रतिसाद देण्यासाठी जनजागृती करण्यासाठीच्या माध्यम आराखड्यास प्रशासकीय व वित्तीय मान्यता मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311836511019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311836511019.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311836511019.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311836511019.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class=""></h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401301753277819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401301753277819.pdf">202401301....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301753277819.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301753277819.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३० जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">शेतामध्ये किटकनाशक फवारणी करीत असताना होणाऱ्या विषबाधा, धार्मिक ठिकाणी/सार्वजनिक ठिकाणी होणाऱ्या चेंगराचेंगरीच्या घटना तसेच निवासी इमारती कोसळण्याच्या घटनांमध्ये बाधित होणाऱ्या आपदग्रस्तांना मदत देण्याबाबत.....</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ४.०० लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अकोला, अमरावती, नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291527458719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291527458719.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291527458719.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291527458719.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">राज्य योजना सन २०२३-२४ निसर्ग संरक्षण व वन्यपशु व्यवस्थापन (कार्यक्रम) (२४०६ ०७७५) अंतर्गत चालू बाब प्रस्ताव.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. २४०६.०७७५ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021609460619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021609460619.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021609460619.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021609460619.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">केंद्र शासन पुरस्कृत वनवणवा प्रतिबंध व व्यवस्थापन योजनांतर्गत सन २०२३-२०२४ मधील पहिला हप्ता मंजूर करणेबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011645490819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011645490819.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011645490819.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011645490819.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सन २०२३-२४ करिता निसर्ग पर्यटन स्थळाचा विकास (२४०६-२२९५) या योजनेअंतर्गत मौ. सोनसळ, ता.कडेगांव जि.सांगली येथील श्री.चौरंगीनाथ या निसर्ग पर्यटन स्थळावर कार्यरत असलेल्या ६ अस्थायी पदांच्या वेतनावरील खर्च भागविण्याकरीता निधी वितरीत करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ८.४ लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नागपूर, सांगली
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401301810125619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401301810125619.pdf">202401301....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301810125619.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301810125619.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३० जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सन २०२३-२४ या आर्थिक वर्षाकरीता “सामुहिक पातळीवर ठोस वनरोपण कार्यक्रम” या योजनेकरीता (४४०६०४९२) लेखाशीषांतर्गत अनुदान वितरण करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ८३.६४ लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, चंद्रपूर, धुळे, गडचिरोली, कोल्हापूर, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021246453419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021246453419.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021246453419.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021246453419.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वन विभागाचे संगणकीकरण कार्यक्रमांतर्गत वन विभागाच्या क्षेत्रिय अधिकारी/ कर्मचारी यांना मोबाईल व इंटरनेट डाटा वापराकरीता वाढीव रक्कम प्रदान करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ५०० कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021750118919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021750118919.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021750118919.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021750118919.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">निलेखित वाहनांऐवजी नवीन वाहन खरेदी करण्यास मान्यता देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ३४.०० लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291516296019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291516296019.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291516296019.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291516296019.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र भासन</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401301749375719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401301749375719.pdf">202401301....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301749375719.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301749375719.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३० जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भूमि अभिलेख विभागासाठी ६०० GNSS Rovers, Controllers व Post Processing Software खरेदी करण्यासाठी निधी वितरीत करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ६१.१४ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291449251419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291449251419.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291449251419.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291449251419.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class=""></h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> औरंगाबाद, नांदेड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311129366119....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311129366119.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311129366119.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311129366119.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नोव्हेंबर व डिसेंबर, २०२३ या कालावधीतील अवेळी पावसामुळे झालेल्या शेती पिकांच्या नुकसानीकरिता मदत देण्यासाठी निधी वितरीत करण्यास मान्यता देणेबाबत (रब्बी हंगाम २०२३-२४ आदेश क्र.२)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, गोंदिया, मुंबई_शहर, नागपूर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311606462619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311606462619.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311606462619.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311606462619.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">कार्मिक </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अव्वल कारकून व मंडळ अधिकारी संवर्गातून नायब तहसिलदार संवर्गात निव्वळ तात्पुरत्या स्वरूपात नियमित पदोन्नती कोट्यातील रिक्त पदावर तसेच सरळसेवेच्या कोट्यातील पदांवर तदर्थ पदोन्नतीने पदस्थापना देणेबाबत (नागपूर विभाग).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> भंडारा, गडचिरोली, मुंबई_शहर, नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011220448919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011220448919.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011220448919.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011220448919.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सन २०२३ - २४ मध्ये अखिल भारतीय सेवा (कार्य मुल्यांकन अहवाल) नियम, २००७ प्रमाणे भारतीय वन सेवेतील अधिकाऱ्यांनी करुन घ्यावयाच्या वैद्यकीय तपासणी बाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291652395819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291652395819.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291652395819.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291652395819.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नायब तहसिलदार संवर्गातील अधिकाऱ्यांच्या बदलीने पदस्थापना. (नाशिक विभाग).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291155246619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291155246619.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291155246619.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291155246619.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अव्वल कारकून व मंडळ अधिकारी संवर्गातून नायब तहसिलदार संवर्गात निव्वळ तात्पुरत्या स्वरूपात नियमित पदोन्नती कोट्यातील रिक्त पदावर तसेच सरळसेवेच्या कोट्यातील पदांवर तदर्थ पदोन्नतीने पदस्थापना देणेबाबत (नाशिक विभाग).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अहमदनगर, धुळे, जळगाव, मुंबई_शहर, नंदुरबार, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291146343119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291146343119.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291146343119.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291146343119.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">श्री. निलेश शशांक वाघमारे, तत्का. निवासी नायब तहसिलदार, तहसिल कार्यालय श्रीगोंदा, जि. अहमदनगर यांना शासन सेवेत पुन:स्थापित करून पदस्थापना करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अहमदनगर, मुंबई_शहर, नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291148512419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291148512419.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291148512419.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291148512419.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भूमि अभिलेख विभागातील गट ‘’ क पदसमूह-२ मधून उप अधीक्षक भूमि अभिलेख, गट ‘’ बया संवर्गात तात्पुरत्या पदोन्नतीने पदस्थापना देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> पुणे, सातारा, सोलापूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011824289719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011824289719.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011824289719.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011824289719.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नाशिक विभागातील नायब तहसिलदार या संवर्गातील तदर्थ पदोन्नत्या नियमित करण्याबाबत (निवडसूची सन २०२०-२१).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291144017619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291144017619.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291144017619.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291144017619.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अव्वल कारकून व मंडळ अधिकारी संवर्गातून नायब तहसिलदार संवर्गात निव्वळ तात्पुरत्या स्वरूपात नियमित पदोन्नती कोट्यातील रिक्‍त पदावर तसेच सरळसेवेच्या कोट्यातील पदांवर तदर्थ पदोन्नतीने पदस्थापना देणेबाबत..... (कोंकण विभाग)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, मुंबई उपनगर, पालघर, रायगड, रत्नागिरी, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291136457719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291136457719.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291136457719.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291136457719.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नाशिक विभागातील तदर्थ पदोन्नतीने कार्यरत नायब तहसिलदार यांची सन २०२०-२१ या निवडसूची वर्षात सरळसेवेच्या कोटयातील रिक्त पदांवर तदर्थ पदोन्नती यापुढे चालू ठेवण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291139339519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291139339519.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291139339519.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291139339519.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अव्वल कारकून व मंडळ अधिकारी संवर्गातून नायब तहसिलदार संवर्गात निव्वळ तात्पुरत्या स्वरूपात नियमित पदोन्नती कोट्यातील रिक्त पदावर तसेच सरळसेवेच्या कोट्यातील पदांवर तदर्थ पदोन्नतीने पदस्थापना देणेबाबत (नागपूर विभाग).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> भंडारा, चंद्रपूर, गडचिरोली, गोंदिया, मुंबई_शहर, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291130061419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291130061419.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291130061419.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291130061419.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">उप जिल्हाधिकारी संवर्गातील अधिकाऱ्यांची बदलीने पदस्थापना...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> भंडारा, मुंबई_शहर, रायगड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311820184319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311820184319.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311820184319.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311820184319.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भूमि अभिलेख विभागातील गट ‘’ क पदसमूह-२ मधून उप अधीक्षक भूमि अभिलेख, गट ‘’ ब या संवर्गात तात्पुरत्या पदोन्नतीने पदस्थापना देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> हिंगोली, परभणी
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311810193219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311810193219.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311810193219.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311810193219.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भूमि अभिलेख विभागातील गट ‘’ क पदसमूह-२ मधून उप अधीक्षक भूमि अभिलेख, गट ‘’ ब या संवर्गात तात्पुरत्या पदोन्नतीने पदस्थापना देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> जळगाव, नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311817029819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311817029819.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311817029819.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311817029819.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नागपुर विभागातील नायब तहसिलदार या संवर्गातील तदर्थ पदोन्नत्या नियमित करण्याबाबत (निवडसूची सन २०२३-२४).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011216027319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011216027319.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011216027319.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011216027319.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नोंदणी व मुद्रांक विभागाच्या अधिपत्याखालील मौ.अनगर, ता. मोहोळ, जिल्हा सोलापूर येथे दुय्यम निबंधक कार्यालयासाठी पदनिर्मिती करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे, सोलापूर, ठाणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011556148919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011556148919.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011556148919.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011556148919.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नायब तहसिलदार पदावर पदोन्नतीने दिलेल्या पदस्थापनेत अंशत: बदल करणेबाबत (अमरावती विभाग)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, यवतमाळ
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291151446819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291151446819.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291151446819.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291151446819.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भूमि अभिलेख विभागातील गट -क  पदसमूह-२ मधून उप अधीक्षक भूमि अभिलेख, गट -ब  या संवर्गात तात्पुरत्या पदोन्नतीने पदस्थापना देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> बीड, जालना, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401301103075819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401301103075819.pdf">202401301....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301103075819.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301103075819.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३० जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नांदेड जिल्यातील उमरी तालुक्यातील पुरामुळे पुनर्वसित झालेल्या गावातील नागरी सुविधेच्या कामांना प्रशासकीय मान्यता प्रदान करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नांदेड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311401240319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311401240319.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311401240319.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311401240319.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नागपुर विभागातील नायब तहसिलदार या संवर्गातील तदर्थ पदोन्नत्या नियमित करण्याबाबत (निवडसूची सन २०२३-२४).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291123124719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291123124719.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291123124719.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291123124719.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सहाय्यक वन संरक्षक गट -अ (कनिष्ट्ठ श्रेणी) संवर्गाची दि.०१/०१/२०२३ रोजीची तात्पुरती ज्येष्ट्ठतासूची प्रसिद्ध करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> औरंगाबाद, नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401291703196319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401291703196319.pdf">202401291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291703196319.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401291703196319.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">नानाविध </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">जी.आय.एस.आधारीत तंत्रज्ञानाचा वापर करून तयार करण्यात आलेल्या मोजणी नकाशांवर अक्षांश व रेखांश नमूद करून ‘’ क प्रत उपलब्ध करून देणे व सदर मोजणी नकाशे भूमी अभिलेख विभागाच्या पोर्टलवर प्रसिध्द करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नंदुरबार, पुणे, वाशिम
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021514222519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021514222519.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021514222519.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021514222519.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">बाळासाहेब ठाकरे गोरेवाडा आंतरराष्ट्रीय प्राणी उद्यान, नागपूर येथील “वॉकिंग रेल थिमिंग” चे कामांच्या अंदाजपत्रकास प्रशासकीय मान्यता प्रदान करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401301445142419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401301445142419.pdf">202401301....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301445142419.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401301445142419.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३० जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">गावठाण विस्तार योजनेंतर्गत संपादित केलेल्या जमिनीच्या वाढीव मोबदला तसेच लोकसंख्या वाढीमुळे होणाऱ्या गावठाण विस्तारासाठी संपादित जमिनीचा मोबदला अदा करण्यासाठी नवीन लेखाशीर्ष निर्माण करण्याबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021240440619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021240440619.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021240440619.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021240440619.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">राज्य योजना सन २०२३-२४ गोरेवाडा येथील प्रस्तावित प्राणी संग्रहालयाची प्राथमिक कामे (४४०६-३८५८) या योजनेतर्गत निधी वितरीत करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021606103319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021606103319.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021606103319.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021606103319.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">उपविभागीय अधिकारी तथा भूसंपादन अधिकारी,श्रीरामपूर भाग, श्रीरामपूर, जिल्हा अहमदनगर यांचे नवीन स्वीय प्रपंजी लेखा (पी.एल.ए.) खाते सुरु करण्यास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अहमदनगर, मुंबई_शहर, नागपूर, नाशिक, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011211477519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011211477519.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011211477519.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011211477519.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">शाखा अभियंता, (गट-ब) पदावर दजोन्नती देण्याबाबत. श्री. सचिन रमेश वागदकर, कनिष्ट्ठ अभियंता (गट-क)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021521028419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021521028419.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021521028419.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021521028419.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अमरावती जिल्यातील वरुड तालुक्यातील सन १९९१ मधील अतिवृष्ट्टी/पुरामुळे बाधित २६ पूर पुनर्वसित गावांमध्ये सिमेंट काँकीट नाली बांधकाम या नागरी सुविधा कामांना प्रशासकीय मान्यता प्रदान करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202401311405371319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202401311405371319.pdf">202401311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311405371319.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202401311405371319.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ जान २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वेठबिगार कामगार पुनर्वसन केंद्रस्तरीय योजना, २०२१ साठी नवीन लेखाठीर्ष निर्माण करण्याबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402011227095019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402011227095019.pdf">202402011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011227095019.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402011227095019.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुणे वन विभागातील भांबुर्डा वनपरिक्षेत्रामधील मौजे बावधन स.नं. २१ येथील वन्यप्राण्यांकरीता रांझिट रिटमेंट सेंटरच्या विविध कामांच्या अंदाजपत्रकास प्रशासकीय मान्यता प्रदान करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नागपूर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021612560119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021612560119.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021612560119.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021612560119.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">राखीव वनाचे सव्हेक्षण, जमाबंदी व सिमांकन योजनेंतर्गत सन २०२३-२४ करिता निधी वितरीत करण्याबाबत.. (४४०६-००५३).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अहमदनगर, अकोला, अमरावती, भंडारा, चंद्रपूर, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402021538588219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402021538588219.pdf">202402021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021538588219.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202402021538588219.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०२ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-mr.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">अस्वीकरण</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=साप्ताहिक सारांश: महसूल व वन विभाग">चुका सांगा</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">गिटहब वर पहा</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>

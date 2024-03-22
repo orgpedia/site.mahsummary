@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>साप्ताहिक सारांश: जलसंपदा विभाग </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-mr.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                साप्ताहिक सारांश: महाराष्ट्र शासन निर्णय</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">शोधा</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="मुख्य शब्द" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en">English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr"selected>मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="शोधा...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          नवीनतम सारांश
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              विभागवार
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              जिल्हावार
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">संग्रहण</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    अस्वीकरण
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">घर</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2024-W9-summary.html">
+    <span class="cursor-pointer">साप्ताहिक सारांश: विभागवार</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week ९</span>
+
+
+
+  </div>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">साप्ताहिक सारांश: जलसंपदा विभाग</h2>
+			<span class="text-blue-500">
+			  आठवडा ९: (२६ फेब्रुवारी २०२४ - ०२ मार्च २०२४)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">निधी </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">ओतूर लघु पाटबंधारे योजना, ता. कळवण जि. नाशिक या योजनेच्या विशेष दुरुस्तीच्या प्रस्तावास प्रथम सुधारीत प्रशासकीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271309097127.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271309097127.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271309097127.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271309097127.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र सुवर्ण जयंती नगरोत्थान महाभियान” अंतर्गत नळ पाणी पुरवठा योजना ढाणकी ता. उमरखेड जि. यवतमाळ घरघुती पाणी वापरासाठी अमडापूर धरणातून कायम स्वरुपी बिगर सिंचन पाणी आरक्षण मिळणेबाबत मोठ्या प्रमाणात पाण्याचा हक्क (Bulk Water Entitlement)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नागपूर, यवतमाळ
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402291712370927.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402291712370927.pdf">202402291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402291712370927.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402291712370927.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">स्वर्गीय बाळासाहेब ठाकरे उपसा सिंचन योजना, सांगोला ता. सांगोला, जि. सोलापूर प्रकल्पाच्या रु. ८८३.७८ कोटी किंमतीच्या प्रथम सुधारित प्रशासकीय अहवालास मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ९२.८५ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नाशिक, पुणे, सोलापूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271446002127.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271446002127.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271446002127.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271446002127.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नांदूर मधमेश्वर प्रकल्पाच्या रु. २९९२.६४ कोटी किंमतीच्या चतुर्थ सुधारित प्रशासकीय अहवालास मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. २९९२.६४ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अहमदनगर, औरंगाबाद, जळगाव, नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403011214384227.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202403011214384227.pdf">202403011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011214384227.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011214384227.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ मार्च २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">तांदुळवाडी लघु प्रकल्प ता. पालम. जि.परभणी कामाचे अंदाजपत्रकास विशेष दुरूस्ती अंतर्गत प्रशासकीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> परभणी
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403011555547127.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202403011555547127.pdf">202403011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011555547127.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011555547127.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ मार्च २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">कार्मिक </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वान मोठा प्रकल्प, ता. तेल्हारा, जि. अकोला-या प्रकल्पाच्या जलाशयातून अमृत योजनेतंर्गत २.० शेगांव शहर पाणी पुरवठा योजनेकरीता ३.२२९ दलघमीचा कायमस्वरुपी अतिरिक्त पाणी आरक्षण मोठ्या प्रमाणात बिगर सिंचन पाणी हक्क (Bulk Water Entitlement) प्रस्तावास मंजुरी देणेबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अकोला, मुंबई_शहर, नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271719288827.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271719288827.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271719288827.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271719288827.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र अभियांत्रिकी (स्थापत्य) सेवा मुख्य परीक्षा-२०१३ मधील सहायक अभियंता श्रेणी-१ (स्थापत्य), गट-अ या पदावर नामनिदेशनाने नियुक्ती देणेबाबत-श्रीम.सायली रोहन जांभुळकर (पुर्वाश्रमीच्या श्रीम.सायली नितीन इनामके)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> औरंगाबाद, मुंबई_शहर, नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402261404188127.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402261404188127.pdf">202402261....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261404188127.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261404188127.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २६ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">उप विभागीय अभियंता संवर्गातील अधिकाऱ्यांची कार्यकारी अभियंता (स्थापत्य) पदावर पदोन्नतीने पदस्थापना.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> औरंगाबाद, कोल्हापूर, मुंबई_शहर, नागपूर, नंदुरबार, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402261905024027.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402261905024027.pdf">202402261....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261905024027.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261905024027.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २६ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">जयवंत शिक्षण प्रसारक मंडळ, वाघोली ता. हवेली जि. पुणे करिता बुकेगाव को. प. बंधा-यामधुन वाणिज्य वापरासाठी बिगरसिंचन पाणी आरक्षण मोठ्या प्रमाणात बिगर सिंचन पाणी हक्क (Bulk Water Entitlement) प्रस्ताव</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271513552227.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271513552227.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271513552227.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271513552227.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कनिष्ट्ठ अभियंता (स्थापत्य) राज्यस्तरीय निवड समिती, पुणे यांनी शिफारस केलेल्या कनिष्ट्ठ अभियंता (स्थापत्य) गट-ब (अराजपत्रित) या पदावर खेळाडू प्रवर्गातील उमेदवारांची नियुक्तीसह सविस्तर पदस्थापना.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402261247053427.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402261247053427.pdf">202402261....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261247053427.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261247053427.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २६ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र सुवर्ण जयंती नगरोत्थान महाभियान अंतर्गत कळंब नगरपरिषद, ता. कळंब, जि. धाराशिव पाणीपुरवठा योजनेसाठी मांजरा प्रकल्प, ता. केज, जि. बीड या प्रकल्पातुन पिण्यासाठी बिगर सिंचन मोठ्या प्रमाणात पाण्याचा हक्क (Bulk Water Entitlement) प्रस्तावास मंजुरी मिळणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> बीड, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271725273427.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271725273427.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271725273427.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271725273427.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र सुवर्ण जयंती नगरोत्थान महाअभियान अंतर्गत मैदंर्गी पाणी पुरवठा योजना ता. अक्कलकोट, जि. सोलापूर योजनेसाठी बिगर सिंचन मोठ्या प्रमाणात पाणी हक्क (Bulk Water Entitlement) प्रस्ताव</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे, सोलापूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271519380927.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271519380927.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271519380927.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271519380927.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नगर पंचायत कुही पाणी पुरवठा योजना ता. कुही जि. नागपूर या योजने करिता कन्हान नदीवरुन वाढीव पाणी ०.५७९ दलघमी चा मोठ्या प्रमाणात बिगर सिंचन पाणीहक्क (Bulk Water Entitlement)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नागपूर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271527482427.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271527482427.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271527482427.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271527482427.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अधीक्षक अभियंता, नांदेड पाटबंधारे मंडळ, नांदेड या कार्यालयाच्या अधिपत्याखालील कार्यकारी अभियंता, उध्र्व पैनगंगा प्रकल्प (भूवि) विभाग, नांदेड व त्या अंतर्गत उपविभाग कार्यालयातील नियत अस्थायी आस्थापनेवरील पदांना दिनांक ०१/०३/२०२४ ते दिनांक ३१/०८/२०२४ पयंत मुदतवाढ देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> नांदेड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403011532229527.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202403011532229527.pdf">202403011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011532229527.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011532229527.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ मार्च २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र सुवर्ण नगरोत्थान महाभियान अंतर्गत कन्नड नगरपरिषद पाणी पुरवठा योजनेसाठी अंबाडी मध्यम प्रकल्पातून वाढीव पाणी आरक्षण मिळणेबाबत बिगर सिंचन मोठया प्रमाणात पाण्याचा हक्क (Bulk Water Entitlement) प्रस्तावास मंजुरी मिळणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> औरंगाबाद, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271533497227.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271533497227.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271533497227.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271533497227.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अमृत २.० अंतर्गत मुखेड शहर वाढीव पाणी पुरवठा योजनेकरिता कुंद्राळा मध्यम प्रकल्पातून पिण्याचा पाणी हक्क आरक्षण, बिगर सिंचन मोठया प्रमाणात पाण्याचा हक्क (Bulk Water Entitlement) प्रस्तावास मंजुरी मिळणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नांदेड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402281532250127.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402281532250127.pdf">202402281....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402281532250127.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402281532250127.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २८ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र अभियांत्रिकी (यांत्रिकी) सेवा परिक्षा २०२१ मधील सहायक अभियंता श्रेणी-२ (यांत्रिकी) गट-ब (राजपत्रित) या पदावर नामनिदेशनाने तात्पुरती नियुक्ती देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402261809035627.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402261809035627.pdf">202402261....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261809035627.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261809035627.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २६ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कार्यकारी अभियंता (यांत्रिकी) या पदावर पदोन्नतीने पदस्थापना.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, बीड, मुंबई_शहर, नागपूर, नाशिक, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271418462227....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271418462227.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271418462227.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271418462227.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कागल नगरपरिषद, कागल पाणी पुरवठा योजना ता . कागल जि.कोल्हापूर, या योजनेस पिण्यासाठी पाणी आरक्षण घरगुती पाणी मधून मोठ्या प्रमाणात बिगर सिंचन पाणी हक्क (Bulk Water Entitlement) प्रस्ताव</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402271519554327.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402271519554327.pdf">202402271....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271519554327.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402271519554327.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २७ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">मुख्य अभियंता, जलविज्ञान व धरण सुरक्षितता, नाशिक या कार्यालयाच्या अधिपत्याखालील मंजूर नियत अस्थायी पदांना व रुपांतरीत अस्थायी पदांना दि. ०१/०३/२०२४ ते ३१/०८/२०२४ पयंत मुदतवाढ देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नाशिक, ठाणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403011230421127.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202403011230421127.pdf">202403011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011230421127.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011230421127.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ मार्च २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अधीक्षक अभियंता, कृष्ट्णा पाणी तंटा लवाद, पुणे यांच्या कार्यालयातील व त्याअंतर्गत विभाग उपविभाग कार्यालयातील मंजूर नियत अस्थायी पदांना दि.०१/०३/२०२४ ते ३१/०८/२०२४ पयंत मुदतवाढ मिळणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403011225351927.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202403011225351927.pdf">202403011....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011225351927.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202403011225351927.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ०१ मार्च २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">नानाविध </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">श्री.हनुमंत कोंडीबा पासलकर, दप्तर कारकून यांच्याकरिता दप्तर कारकून या संवर्गात एक अधिसंख्य पद निर्माण करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402291651174327.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402291651174327.pdf">202402291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402291651174327.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402291651174327.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र राज्याचे चर योजना मापदंड व कार्यपध्दती धोरण ठरविण्याकरिता आंतरविभागीय अभ्यासगटाच्या स्थापनेस मुदतवाढ देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402261458003027.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402261458003027.pdf">202402261....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261458003027.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402261458003027.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २६ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नलिकेद्वारे वितरण प्रणाली धोरणाबाबत मार्गदर्शक सूचना</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402281655092327....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402281655092327.pdf">202402281....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402281655092327.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402281655092327.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २८ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अधिक्षक अभियंता, कृष्ट्णा पाणी तंटा लवाद विशेष कक्ष, पुणे या कार्यालयाचे प्रशासकीय व तांत्रिक नियंत्रणात बदल करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नाशिक, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202402291609070827.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202402291609070827.pdf">202402291....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402291609070827.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Resources_Department/202402291609070827.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: २९ फेब २०२४</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-mr.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">अस्वीकरण</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=साप्ताहिक सारांश: जलसंपदा विभाग">चुका सांगा</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">गिटहब वर पहा</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>

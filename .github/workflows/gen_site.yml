@@ -41,9 +41,6 @@ jobs:
       - name: Generate site
         run: make flow
 
-      - name: Export
-        run: make export
-
       - name: Commit and push changes
         id: commit-and-push
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title> </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+    <script>
+      function getQueryParam(param) {
+	  const urlParams = new URLSearchParams(window.location.search);
+	  return urlParams.get(param);
+      }
+      const listName = getQueryParam('list');
+      const listID = getQueryParam('listID');
+    </script>
+  </head>
+  <body>
+        <header>
+          <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+	    <div class="font-bold text-xl px-5">
+	      Email Subscription
+	    </div>
+	  </div>
+	</header>
+        <main class="w-full min-h-screen">	
+	  <div class="p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+<h1 class="font-bold" >Subscribe for Weekly Summary of <span id="listNameDisplay"></span></h1>	    
+<!-- <form id="subscriptionForm" action="http://127.0.0.1:8787/subscribe" method="GET"> -->
+<form id="subscriptionForm" action="https://subscriber-manage.orgpedia-foundation.workers.dev/subscribe" method="GET">
+    <div class="p-2 mt-4">
+      <label class="mr-3" for="nameInput">Name (optional):</label>      
+      <input  class="border-2 pl-3" name="nameInput" type="text" id="nameInput" placeholder="your name">
+    </div>
+    <div class="p-2 mb-4">
+      <label class="mr-3" for="emailInput">Email (Required):</label>            
+      <input class="pl-3" name="emailInput" type="email" id="emailInput" placeholder="your email">
+    </div>
+  
+  <input name="listNameForm" type="hidden" id="listNameForm" value="" />
+  <input name="listIDForm" type="hidden" id="listIDForm" value="" />  
+  <br>
+  <!-- CORSS ISSUE -->
+  <!-- <button type="button" onclick="subscribe()">Subscribe</button> -->
+  <button class="bg-blue-500 text-white py-2.5 px-5 text-xs" type="submit">Subscribe</button>
+</form>
+	  </div>
+	</main>
+
+
+    <script>
+      document.getElementById("nameInput").focus();
+      document.getElementById("listNameDisplay").textContent = listName;
+      document.getElementById("listNameForm").value = listName;
+      document.getElementById("listIDForm").value = listID;    
+    </script>
+  </body>
+</html>
+
+	    
+
+	    

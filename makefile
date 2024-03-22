@@ -40,7 +40,3 @@ format:
 	poetry run ruff format .
 
 
-export: 
-	cp -r flow/genSite_/output/* docs/
-
-

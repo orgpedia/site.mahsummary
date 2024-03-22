@@ -61,7 +61,8 @@
 				<span title="{{doc.code}}.pdf">{{doc.code | truncate(12, True)}}.pdf</span>
 				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
 				  <div class="mr-2">{{site.text}}: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/{{doc.en_dept}}/{{doc.code}}.pdf.en.txt">{{site.english}}</a></div>
-				  <div class="mr-2">{{site.pages}}: {{doc.num_pages}}</div>
+				  <!-- <div class="mr-2">{{site.pages}}: {{doc.num_pages}}</div> -->
+				  <div class="mr-2">{{site.text}}: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/{{doc.en_dept}}/{{doc.code}}.pdf.mr.txt">{{site.marathi}}</a></div>
 				  <div>{{site.date}}: {{doc.date_str}}</div>
 				</div>
 			    </div>
