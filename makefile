@@ -27,7 +27,7 @@ install: pyproject.toml
 	npm ci
 
 import: 
-	ln -s $(GR_DIR) import/GRs
+	mkdir import
 
 flow: $(tasks)
 $(tasks):
