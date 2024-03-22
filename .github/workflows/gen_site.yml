@@ -1,11 +1,11 @@
 name: genSite
 
 on:
-  #schedule:
-  #  - cron: '30 16 * * *'  # Runs at 16:30 UTC, which is 10:00 PM IST
+  schedule:
+    - cron: '30 5 * * *'  # Runs at 5:30 UTC, which is 10:30 AM IST
 
-  push:
-    branches: [ main ]
+  # push:
+  #   branches: [ main ]
 
 jobs:
   import_export:
