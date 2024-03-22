@@ -32,7 +32,8 @@ jobs:
         with:
           repository: orgpedia/mahGRs
           path: import/
-          sparse-checkout: GRs/
+          sparse-checkout-cone-mode: false
+          sparse-checkout: GRs/*
 
       - name: list files
         run: ls -lR 'import'
