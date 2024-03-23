@@ -10,5 +10,8 @@
 - Regarding disbursement of funds for administrative expenses of 1 per cent under the scholarship scheme (excluding medical courses) for minority students of the state pursuing higher vocational and all courses after Class XII.\
   [202403201635585314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201635585314.pdf)
 
+- Regarding disbursement of grant (under program) to Urdu Sahitya Academy for the expenditure of various schemes to be implemented during the financial year 2023-24.\
+  [202403221559216314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221559216314.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

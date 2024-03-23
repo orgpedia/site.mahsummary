@@ -55,5 +55,14 @@
 - Superintending Engineer under Chief Engineer Special Projects, Water Resources Division Amravati, Amravati Irrigation Project Board, Amravati and 3 Divisions and 12 sub-divisional offices under 344 fixed temporary establishment and 2 converted temporary establishment posts from 01.03.2024 to dt. Regarding extension upto 31.08.2024.\
   [202403211455287527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211455287527.pdf)
 
+- Superintending Engineer, Amravati Irrigation Project Board, Amravati Subordinate Executive Engineer, Amravati Project Construction Department NO. 1, regarding the extension of the posts on fixed temporary and converted temporary establishment in three sub-divisional offices under Amravati from 01.03.2024 to 31.08.2024.\
+  [202403221644034927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221644034927.pdf)
+
+- Superintending Engineer, Yavatmal Irrigation Board, Yavatmal and Executive Engineer under him, Minor Irrigation Division, Pusad and Executive Engineer, Yavatmal Project Construction Division, Minor Irrigation/Survey Sub-Division under Yavatmal dated 01/03/2024 Regarding extension till 31/08/2024.\
+  [202403221637537227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221637537227.pdf)
+
+- Regarding the extension of tenure of the posts on fixed temporary and converted temporary establishment in the offices of the Superintending Engineer, Gosikhurd Project Board, Nagpur and the Divisions and Sub-Divisions under his jurisdiction from 01.03.2024 to 31.08.2024.\
+  [202403221255559027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221255559027.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

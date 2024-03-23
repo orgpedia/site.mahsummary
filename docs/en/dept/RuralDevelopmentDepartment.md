@@ -16,6 +16,18 @@
 - Regarding disbursement of funds for administrative expenditure for the Scheduled Caste Component (Scheduled Caste Measures) (SCP) category under the Deen Dayal Upadhyaya Grameen  Kaushalya Yojana (DDU-GKY) for the year 2023-24.\
   [202403211639115420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211639115420.pdf)
 
+- Regarding disbursement of grant for the year 2023-24 for distribution of salaries and allowances of officers and employees in the District Rural Development Ageancy.\
+  [202403221456539320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221456539320.pdf)
+
+- In the financial year 2023-24, the Central Governments share of funds for administrative expenditure incurred under the Pradhan Mantri Awas Yojana (Rural) (General) component is Rs. 31,60,00,000/- and State equivalent share Rs. 21,06,66,666/- regarding disbursement of funds\
+  [202403211500142420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211500142420.pdf)
+
+- For the year 2023-24 Mahila Kisan Sashaktikaran Pariyojana Funding for Tribal Area (TSP) Category.\
+  [202403221143201020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221143201020.pdf)
+
+- Regarding disbursement of funds for administrative expenses for general (GEN) category under Deen Dayal Upadhyaya Grameen  Kaushalya Yojana (DDU-GKY) for the year 2023-24.\
+  [202403211639187120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211639187120.pdf)
+
 ## Miscellaneous
 - For the year 2023-24 Mahila Kisan Sashaktikaran Pariyojana Funding for General Category.\
   [202403211756348320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211756348320.pdf)

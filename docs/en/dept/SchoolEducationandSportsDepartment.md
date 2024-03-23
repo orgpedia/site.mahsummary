@@ -16,6 +16,22 @@
 - Release of Grant-in aid to Local Bodies Schools for Non Salary purpose.\
   [202403211743234821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211743234821.pdf)
 
+- Hindkesari Maruti Mane Memorial of the Famous International Wrestling Stadium Kavthepiran, Ta. Miraj, Dist. Regarding setting up at Sangli. Regarding disbursement of funds for the financial year 2023-24.(4202 6255)\
+  [202403221704318121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221704318121.pdf)
+
+- All India Civil Services Powerlifting, Weightlifting and Bodybuilding Competition 2023-24\
+  [202403221221218321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221221218321.pdf)
+
+- Regarding fund release for implementation of Pradhan Mantri Poshan Shakti Nirman Yojana (PM-POSHAN) (General Head) for 2023-24\
+  [202403221739174921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221739174921.pdf)
+
+## Miscellaneous
+- All India Civil Service Athletics Competition 2023-24\
+  [202403221215415921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221215415921.pdf)
+
+- Regarding determining the responsibility of the office under the Department of School Education and setting up a coordination committee for the implementation of the Memorandum of Understanding with the Brihanmaharashtra Mandal, North America.\
+  [202403221655128121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221655128121.pdf)
+
 ## Personnel
 - Regarding payment of arrears of special teachers qualified under the Disability Inclusive Education Scheme (Secondary Level) Scheme.\
   [202403191531567021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191531567021.pdf)
@@ -52,6 +68,12 @@
 
 - Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
   [202403201823010321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201823010321.pdf)
+
+- Regarding administrative approval of expenditure on remuneration of teachers on contractual basis in Zilla Parishad schools\
+  [202403221203473421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221203473421....pdf)
+
+- Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
+  [202403221314074021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221314074021.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

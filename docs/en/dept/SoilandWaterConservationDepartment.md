@@ -10,5 +10,8 @@
 - Regarding disbursement of funds under Jalyukt Shivar Abhiyan, account head 4402 2781.\
   [202403181614423526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403181614423526...pdf)
 
+- Disbursement through RIDF loan under NABARD financing to Maharashtra Water Conservation Corporation (Year 2023-24)\
+  [202403221606379226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221606379226......pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

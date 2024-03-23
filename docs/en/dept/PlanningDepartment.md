@@ -10,6 +10,10 @@
 - Guidelines on proposals to be submitted for approval by the Committee of Secretaries.\
   [202403201808308516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201808308516.pdf)
 
+## Miscellaneous
+- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
+  [202403221555262916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221555262916.pdf)
+
 ## Personnel
 - Mahatma Gandhi National Rural Employment Guarantee Scheme - Regarding extension of temporary posts in Maharashtra, Nagpur Commissionerate, Divisional Commissioner/ Collector/ Zilla Parishad/ Taluka Office... d. 01.03.2024 to dt. 31.08.2024\
   [202403181848441316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403181848441316.pdf)

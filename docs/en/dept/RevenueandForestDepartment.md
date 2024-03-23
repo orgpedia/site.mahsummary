@@ -25,6 +25,24 @@
 - Regarding disbursement of funds under Kundal Development, Administration and Management Prabodhini (Forest) Kundal (Programme) (2415-1068) Scheme for the year 2023-24.\
   [202403211759082719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211759082719.pdf)
 
+- According to the State Annual Action Plan approved by the Central Government under the scheme 2023-24 National Bamboo Campaign (Centrally Sponsored Scheme), the central share of the second installment of the central share and corresponding state share funds for the tribal sector tribal area implementation scheme.\
+  [202403221508524219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221508524219.pdf)
+
+- For the year 2016-2017, Mauje Kodoli Sand Group No. 2433, 2438 and 2462 regarding the return of the proportionate amount of unexcavated sand from Panhala Sand Group. Mr. Shivaji Sarjerao Patil by Mr. Rupali Enterprises\
+  [202403221245410119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221245410119.pdf)
+
+- For the year 2016-2017, regarding return of proportionate amount of unexcavated sand from Mauje Kodoli Sand Group No.2427, Panhala. Mr. Shivaji Sarjerao Patil by Mr. Rupali Enterprises\
+  [202403221250511519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221250511519.pdf)
+
+- Regarding providing funds for scuba diving training to Indian Institute of Scuba Diving and Aquatic Sports (IISDA) at Sindhudurg.\
+  [202403221621463019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221621463019.pdf)
+
+- ONGOING MATTER PROPOSAL OF THE SCHEME (4415 0154) FOR TRAINING OF FOREST STAFF UNDER THE STATE SCHEME FOR THE YEAR 2023-24.\
+  [202403221636408219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221636408219.pdf)
+
+- Regarding disbursement of funds to Talathi and Mandal Officers for implementation of e-Farfar and e-Chavadi project in the entire state for the use of data cards at an amount of Rs.750/- per data card per month for the period April, 2023 to March, 2024.\
+  [202403221630204119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221630204119.pdf)
+
 ## Miscellaneous
 - Creation of 12 Supernumerary Assistant Collector Posts for Probationary (IAS) Batch-2023\
   [202403181604593119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403181604593119.pdf)
@@ -43,6 +61,12 @@
 
 - Establishment of Maharashtra Bamboo Development Board under State Scheme 2023-24 (2406-A185) regarding disbursement of funds.\
   [202403211802169919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211802169919.pdf)
+
+- Regarding appointment of Single Nodal Agency and Nodal Officer for Fund Distribution and Appropriation Management (PFMS) of Centrally Sponsored Schemes.\
+  [202403221618385119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221618385119.pdf)
+
+- 2023-24 under the scheme National Bamboo Mission (Centrally Sponsored Scheme) in accordance with the State Annual Action Plan approved by the Central Government to distribute the Central share of the second installment of the Central share and the corresponding State share funds for the Scheduled Caste Upyojana.\
+  [202403221459233619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221459233619.pdf)
 
 ## Personnel
 - Regarding the continuation of 2 temporary posts under non-planned scheme in the year 2024-25 under Instrument Asset Determination and Aadhaar Material Development Component.\

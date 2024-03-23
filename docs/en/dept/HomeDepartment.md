@@ -16,6 +16,9 @@
 - Regarding payment to PwC Company for the work done for the period from 20.9.2023 to 29.2.2024. appointed as Pune and Pimpri-Chinchwad City CCTV Project Consultant.\
   [202403211541495129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211541495129.pdf)
 
+- Regarding book adjustment of passenger tax of Rs.251,06,85,107/- for the period August 2023 due September 2023 (partially) to February 2024 due March 2024 (partially) as capital contribution of the Government to the M.S.R.T. Corporation.\
+  [202403221612364629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221612364629.pdf)
+
 ## Miscellaneous
 - Clearance letter regarding grant of administrative approval for payment of rent pending for more than one year from the office of Divisional Police Grievance Authority, Navi Mumbai (Kokan) from July 2021 to January 2022.\
   [202403191529583329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191529583329.pdf)
@@ -68,6 +71,18 @@
 
 - Mr. Rajesh Shantaram Gaikwad, Superintendent of Police, Office of the Commissioner of Police Brihanmumbai, regarding the creation of a supernumerary post in the cadre of Superintendent of Police.\
   [202403211529306029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211529306029.pdf)
+
+- Regarding extension of 27 temporary posts on the establishment of Maharashtra State Human Rights Commission.\
+  [202403221502596929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221502596929.pdf)
+
+- Regarding posting of officers in CPTP-7 (State Service Examination-2019) batch in State Excise Department.\
+  [202403221543019729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221543019729.pdf)
+
+- Continuation to the total 1244 temporary posts on the establishment of Directorate of Forensic Science Laboratories, Mumbai.\
+  [202403221448198929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221448198929.pdf)
+
+- Suspension of Shri Sampat Chavan, DySP, Solapur Railway\
+  [202403221356378529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221356378529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

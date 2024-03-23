@@ -43,6 +43,18 @@
 - Regarding disbursement of grant to the Mahatma Phule Agricultural University, Rahuri in the financial year 2023-24 for the matter of 35, grant for construction of capital stock... (program expenditure).\
   [202403211300549501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211300549501.pdf)
 
+- Regarding the provision of funds for the year 2023-24 to complete the projects selected in the year 2017-18 and 2018-19 under the scheme Promoting Group Farming of Farmers for Promotion and Empowerment of Group Farming.\
+  [202403221805557901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221805557901.pdf)
+
+- Regarding disbursement of grants to the Mahatma Phule Agricultural University, Rahuri under this head 31, Subsidiary Grants (Non-salary) in the financial year 2023-24 (2415 1086)...(State share 25 per cent) (Programme)\
+  [202403221818350401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221818350401.pdf)
+
+- Release of Rs. 1695.01668 lakh grants for NMEO (oilseed  tree born oilseed) for General category third installment in year 2023-24\
+  [202403221152080701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221152080701.pdf)
+
+- To implement Central Government assisted Pradhan Mantri Micro Food Processing Industries (PMFME) Yojana for the year 2023-24 for general category the third installment of Rs. 30,99,08,110/- regarding approving disbursement of funds...\
+  [202403221549511001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221549511001.pdf)
+
 ## Personnel
 - Regarding the continuation of the proposed 826 temporary and 171 additional posts under the office of the Commissioner, Dairy Development Department, Mumbai from 1/3/2024 to 31/8/2024 for the years 2023-24 and 2024-25.\
   [202403201732584301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201732584301.pdf)

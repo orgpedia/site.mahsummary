@@ -43,6 +43,12 @@
 - Regarding approval of organizing expenses of Lavani Mahotsav - 2023.\
   [202403211516545223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211516545223.pdf)
 
+- Kirtan / Samajprabodhan Mahotsav - 2023 regarding approval of organizing expenses.\
+  [202403221211530623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221211530623.pdf)
+
+- For the year 2023-24 under the State Training Policy of Officers/Employees of Group-A, Group-B (Gazetted/Non-Gazetted) and Group-C Cadre in the Sub-Division of Cultural Affairs in the Department of Tourism and Cultural Affairs (Self) and Regional Offices under the Sub-Division of Cultural Affairs Regarding administrative approval of technical training expenditure\
+  [202403221519473323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221519473323.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds to the Department of Skills, Employment, Entrepreneurship and Innovation for setting up Maharashtra International Centres under the umbrella scheme for Nectar of Independence.\
   [202403191437080023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191437080023.pdf)
