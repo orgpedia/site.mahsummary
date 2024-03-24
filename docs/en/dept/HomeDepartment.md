@@ -84,5 +84,8 @@
 - Suspension of Shri Sampat Chavan, DySP, Solapur Railway\
   [202403221356378529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221356378529.pdf)
 
+- Regarding transfer/posting of IPS officers.\
+  [202403221930465729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221930465729.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
