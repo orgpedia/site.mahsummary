@@ -1,22 +1,18 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 18 March 2024 - 23 March 2024
+**Date Range**: 25 March 2024 - 30 March 2024
 
 
 ## Funds
-- Regarding distribution of funds for Mahatma Jyotiba Phule Jan Arogya Yojana in the financial year 2023-24. (Account Head 2210G861) Government of Maharashtra\
-  [202403221158448522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221158448522.pdf)
+- Bharatratna Dr.Babasaheb Ambedkar Swadhar Yojana, Heading 2225, E777 for the financial year 2023-24 for the financial year 2023-24 regarding disbursement of sanctioned provision through supplementary demand in the budget session of February, 2024....\
+  [202403261550039422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261550039422.pdf)
+
+- Bharat Ratna Dr. Babasaheb Ambedkar Swadhar Yojana, Account Head 2225, E777 Winter of December, 2023 for the financial year 2023-24 under the scheme   Regarding the delivery of the approved provision by way of supplementary demand in the Convention....\
+  [202403261452325522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261452325522.pdf)
 
 ## Miscellaneous
-- Regarding the disbursement of funds in the financial year 2023-24 for the program for scheduled caste beneficiaries. (Account Heading 2852A031)\
-  [202403211205110222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211205110222.pdf)
-
-## Personnel
-- Regarding extension of temporary posts created for implementation of Centrally Sponsored Indira Gandhi National Old Age Pension Scheme.\
-  [202403191551587922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191551587922.pdf)
-
-- Implementation of the scheme of giving letter stalls to group workers. Regarding exclusion of schemes from direct benefit transfer process.\
-  [202403221254192122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221254192122.pdf)
+- Rajarshi Shahu Maharaj Merit Scholarship Scheme for 100 Scheduled Caste students of the state to pursue higher education in reputed educational institutions of the country Selection of students for the year 2023-24\
+  [202403261648192522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261648192522.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,91 +1,31 @@
 # Home Department
 
-**Date Range**: 18 March 2024 - 23 March 2024
+**Date Range**: 25 March 2024 - 30 March 2024
 
 
 ## Funds
-- Regarding payment of remuneration of 16 contract employees and management expenses to the Ms. Sumeet Facilities Ltd. company for implementing VPMS System for issuing Mantralaya Entry Pass to visitors for the period from 01.09.2023 to 31.03.2024.\
-  [202403181234442529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403181234442529.pdf)
+- Regarding purchase of digital franking machine for day-to-day operations of Regional Transport Office and giving administrative and financial approval for expenditure incurred thereon.\
+  [202403261437410829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261437410829.pdf)
 
-- Regarding remaining fees of Arbitrator in Civil Arbitration Petition No.65/2021 filed in Honble High Court, Bombay\
-  [202403201301256029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201301256029.pdf)
-
-- Regarding disbursement of funds for the thirty-second quarter installment of Pune as well as Pimpri-Chinchwad City CCTV Project.\
-  [202403211539532929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211539532929.pdf)
-
-- Regarding payment to PwC Company for the work done for the period from 20.9.2023 to 29.2.2024. appointed as Pune and Pimpri-Chinchwad City CCTV Project Consultant.\
-  [202403211541495129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211541495129.pdf)
-
-- Regarding book adjustment of passenger tax of Rs.251,06,85,107/- for the period August 2023 due September 2023 (partially) to February 2024 due March 2024 (partially) as capital contribution of the Government to the M.S.R.T. Corporation.\
-  [202403221612364629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221612364629.pdf)
+- Regarding disbursement of funds amounting to Rs.310.40 crores to Maharashtra State Road Transport Corporation for reimbursement of discounted price for the month of February, 2024...\
+  [202403261603545129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261603545129.pdf)
 
 ## Miscellaneous
-- Clearance letter regarding grant of administrative approval for payment of rent pending for more than one year from the office of Divisional Police Grievance Authority, Navi Mumbai (Kokan) from July 2021 to January 2022.\
-  [202403191529583329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191529583329.pdf)
-
-- Regarding giving administrative approval for payment of rent of the office of Divisional Police Complaints Authority, Navi Mumbai (Kokan) due for more than one year from July 2021 to January 2022.\
-  [202403181620133129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403181620133129.pdf)
-
-- Regarding District Allotment for District Attachment Training on account of candidates joining Transport Department for Combined Probationary Training Programme-9.\
-  [202403191830351529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191830351529.pdf)
-
-- Regarding extension of time to M.P.W.C as State Monitoring Organization (SPMU) for CCTNS project.\
-  [202403211547378329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211547378329.pdf)
-
-- Appointed as consultant to implement e-challan project in the state. Regarding extension of time to KPMG Company.....\
-  [202403211550195129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211550195129.pdf)
-
-- May appointed as a project consultant to install CCTV cameras in police stations in the state. Regarding extension of time to the company PWC....\
-  [202403211553473929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211553473929.pdf)
+- Regarding payment of remuneration of Additional Public Prosecutor,.\
+  [202403261444264929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261444264929.pdf)
 
 ## Personnel
-- Regarding the extension of tenure of a total of 106 temporary posts in the office of the State Mobile Emergency Column on the establishment of the Director, Civil Defence, State of Maharashtra, Mumbai. From 01.03.2024 to 31.8.2024.\
-  [202403191518545729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191518545729.pdf)
+- At various establishments of the Police Department Regarding extension of temporary posts...\
+  [202403261755101529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261755101529.pdf)
 
-- Regarding extension of Temporary post of Director General,  Deputy Director General, Home Guard as well as other 397 Temporary posts TOTAL 399 POSTS on the establishment of Director General of homegard, Maharashtra from dated 01.03.2024 to  dated 31.08.2024.\
-  [202403191522172529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191522172529.pdf)
+- Regarding extension of super numerory  posts in various establishments of Police Department...\
+  [202403261751285529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261751285529.pdf)
 
-- Regarding the extension 1101 temporary posts on the establishment of District/City police from the Highway Security Team in the State.\
-  [202403201307230329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201307230329.pdf)
+- Extension of 48 posts of Psychiatrist and 20 posts of various other categories in the offices of Commissioner of Police and Superintendent of Police and other offices under Director General of Police, M.R., from 01.03.2024 to 31.08.2024 to 31.08.2024 about giving.\
+  [202403261157184429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261157184429.pdf)
 
-- Regarding the extension to 1126 temporary posts on the establishment of the Police Commissioner, Brihanmumbai.\
-  [202403201312350729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201312350729.pdf)
-
-- Continuation to the total 62 temporary post on the establishment of Inspector General of Motor Transport Department, Pune.\
-  [202403201206030529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201206030529.pdf)
-
-- Various Transports in Maharashtra Police Force allocated to branches 2144 regarding extension of temporary posts\
-  [202403201330271429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201330271429.pdf)
-
-- Regarding the extension 1330 temporary posts in various offices under the Director General of Police, Maharashtra State, Mumbai.\
-  [202403201325483429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201325483429.pdf)
-
-- Regarding publication of Provisional Seniority List of Gazetted Group-A and B Cadre Officers on establishment of Civil Defense Directorate dated 01.01.2019, 01.01.2020, 01.01.2021, 01.01.2022 and 01.01.2023.\
-  [202403121554490929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403121554490929.pdf)
-
-- Regarding the creation of a supernumerary post in the cadre of Police Constable for late Sainath Dashrath Dhuri, Police Constable, Office of the Commissioner of Police, Brihanmumbai.\
-  [202403211527315129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211527315129.pdf)
-
-- Mr. Sushil Sanjay Bomble, Police Constable, Commissioner of Police, Nashik City Office, regarding the creation of a supernumerary post in the Police Constable cadre.\
-  [202403211532005329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211532005329.pdf)
-
-- Mr. Rajesh Shantaram Gaikwad, Superintendent of Police, Office of the Commissioner of Police Brihanmumbai, regarding the creation of a supernumerary post in the cadre of Superintendent of Police.\
-  [202403211529306029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403211529306029.pdf)
-
-- Regarding extension of 27 temporary posts on the establishment of Maharashtra State Human Rights Commission.\
-  [202403221502596929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221502596929.pdf)
-
-- Regarding posting of officers in CPTP-7 (State Service Examination-2019) batch in State Excise Department.\
-  [202403221543019729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221543019729.pdf)
-
-- Continuation to the total 1244 temporary posts on the establishment of Directorate of Forensic Science Laboratories, Mumbai.\
-  [202403221448198929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221448198929.pdf)
-
-- Suspension of Shri Sampat Chavan, DySP, Solapur Railway\
-  [202403221356378529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221356378529.pdf)
-
-- Regarding transfer/posting of IPS officers.\
-  [202403221930465729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221930465729.pdf)
+- Continuation of 4 temporary posts at Motor Accident Claims Tribunal, Pune\
+  [202403261559595729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261559595729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
