@@ -10,5 +10,85 @@
 - Regarding giving Assistant Grant in aid to Maharashtra Gramdan Mandal for the year 2023-24.\
   [202403261530264919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261530264919.pdf)
 
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271715009219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271715009219.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271656016419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271656016419.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271703399119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271703399119.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271656528419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271656528419.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system\
+  [202403271648470419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271648470419.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271713289919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271713289919.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271657584919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271657584919.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271723295819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271723295819.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271659069119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271659069119.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271709376519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271709376519.pdf)
+
+- Regarding making funds available to the tenderer in accordance with the policy of excavation, storage and sale of sand/sand through online system through Govt..\
+  [202403271726099219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271726099219.pdf)
+
+- Regarding making funds available to the tenderer in accordance with the policy of excavation, storage and sale of sand/sand through online system through Govt..\
+  [202403271653432419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271653432419.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271705167119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271705167119.pdf)
+
+- Regarding making funds available to the tenderer in accordance with the policy of excavation, storage and sale of sand/sand through online system through Govt..\
+  [202403271623020619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271623020619.pdf)
+
+- Requisition No. C-07-2406- Forestry and Wildlife, Regional Conservator of Forests under State Level Mandatory Scheme (2406 0042), Administration and Conservation (2406 0096), Afforestation and Soil Vapor Conservation (2406 0238), Central Plantation (2406 0256), Coordination by Government Agency (Tendu ) (2406 0452), regarding redistribution of funds available under the purpose of 11-Domestic travel expenses under the purpose of 14-Rent and taxes under the 7 heads of accounts namely Samupoyjan (Building Lakud) (2406 0472) and Forestry (2406 659) from the Government Agency.\
+  [202403271722116619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271722116619.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271647235619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271647235619.pdf)
+
+- A circular regarding approving the distribution of funds for the distribution of aid to the affected people due to the loss of agricultural crops and other property due to natural calamities in the state during the period 2020 to 2022...\
+  [202403271446225719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271446225719.pdf)
+
+## Miscellaneous
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271711180919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271711180919.pdf)
+
+- Regarding disbursement of amount for payment of pension for the financial year 2023-24 to the heirs of the persons who died in the riots of 1984.\
+  [202403271437323819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271437323819.pdf)
+
+## Personnel
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271716440519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271716440519.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271652441319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271652441319.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271650110019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271650110019.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271654133819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271654133819.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271707042319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271707042319.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271701141419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271701141419.pdf)
+
+- Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
+  [202403271645009119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271645009119.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

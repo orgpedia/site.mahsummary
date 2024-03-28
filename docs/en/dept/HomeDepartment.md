@@ -10,9 +10,24 @@
 - Regarding disbursement of funds amounting to Rs.310.40 crores to Maharashtra State Road Transport Corporation for reimbursement of discounted price for the month of February, 2024...\
   [202403261603545129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261603545129.pdf)
 
+- Regarding approval of arrears of electricity bills of Anti-Terrorism Squad Office.\
+  [202403271501218729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271501218729.pdf)
+
+- Regarding giving administrative and financial approval to property tax of Deputy Regional Transport Office, Navi Mumbai..\
+  [202403271522321629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271522321629.pdf)
+
+- Regarding disbursement of Quarter-25 installment funds for Mumbai City CCTV Project.\
+  [202403271258027329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271258027329.pdf)
+
 ## Miscellaneous
 - Regarding payment of remuneration of Additional Public Prosecutor,.\
   [202403261444264929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261444264929.pdf)
+
+- Regarding the administrative and financial approval of the expenses incurred for payment of rent arrears of the office of Regional Transport Office, Panvel...\
+  [202403271514398829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271514398829.pdf)
+
+- Regarding the administrative approval of the expenses incurred for payment of rent arrears of the office of Regional Transport Office,Akola\
+  [202403271710009129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271710009129.pdf)
 
 ## Personnel
 - At various establishments of the Police Department Regarding extension of temporary posts...\
@@ -26,6 +41,9 @@
 
 - Continuation of 4 temporary posts at Motor Accident Claims Tribunal, Pune\
   [202403261559595729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261559595729.pdf)
+
+- Regarding extension of temporary posts in State Excise Department from 01.03.2024 to 31.08.2024.....\
+  [202403271759508429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271759508429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

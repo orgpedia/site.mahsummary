@@ -13,5 +13,48 @@
 - Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2023-24, under 2210 G 861.\
   [202403201321361817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201321361817.pdf)
 
+- Regarding the distribution of State Share (40 percent) funds under 2210 G 494 (TSP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2023-24\
+  [202403201321579217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201321579217.pdf)
+
+- Regarding approval of pending payment of Leased Circuit Line for Internet facility taken from Bharat Sanchar Nigam Limited Pune for the office of Deputy Director, Health Services State Public Health Laboratory, Pune...\
+  [202403271118398617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271118398617.pdf)
+
+- Regarding disbursement of funds amounting to Rs.3.06 Crores to State Blood Transfusion Council, Mumbai from grant (22104473) for the year 2023-2024.\
+  [202403271536488917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271536488917.pdf)
+
+- Under the Deputy Director, Health Services State Public Health Laboratory, Pune Regarding approval of the pending rent payment of the office of Junior Scientific Officer District Public Health Laboratory Sangli..\
+  [202403271118510317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271118510317.pdf)
+
+- Regarding provision of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2023-24.  (30 percent payment amount from November 2023 to January 2024)\
+  [202403141744281717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403141744281717.pdf)
+
+- Regarding disbursement of funds for the Mahatma Jyotirao Phule Jan Arogya Yojana for the financial year 2023-24 under the head of account 2210 G 251.\
+  [202403201321405117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201321405117.pdf)
+
+- Regarding payment of difference of fuel price increase under Maharashtra Emergency Medical Services Project. (May November 2022 to November 2023)\
+  [202403141744227417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403141744227417.pdf)
+
+- Regarding disbursement of funds through State share (40) under the head of account 2210 G 449 (General) for Pradhan Mantri Jan Arogya Yojana for the financial year 2023-2024.\
+  [202403201321511717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201321511717.pdf)
+
+- Reimbursement of pending medical expenses to patients undergoing critical life support in private hospitals for swine flu disease.\
+  [202403271536550617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271536550617.pdf)
+
+- Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2023-24, under 2210 G 289 (TSP)\
+  [202403201322030717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201322030717.pdf)
+
+- Regarding payment of wages for overtime work done by contract cleaners of Regional Mental Hospital, Yerwada, Pune from July 2013 to 31 December, 2013\
+  [202403271119139217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271119139217.pdf)
+
+## Miscellaneous
+- Regarding disbursement of funds amounting to Rs.243.65 lakh under account head 2210F738 31 as central share for the financial year 2023-24 for tribal deployment (TSP) for programs under the Center sponsored National Rural Health Mission.\
+  [202403201719181517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201719181517.pdf)
+
+- Regarding approval of pending payment of Lokbharti Unemployed Seva Cooperative Society Limited, Mumba for the development and maintenance services provided for the cleaning and cleaning of the building and the garden at Arogya Bhavan, Mumbai .\
+  [202403271119017017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271119017017.pdf)
+
+- Under the Deputy Director, Health Services State Public Health Laboratory, Pune Regarding approval of the pending rent payment of the office of Junior Scientific Officer District Public Health Laboratory Kolhapur..\
+  [202403271118248217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271118248217.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

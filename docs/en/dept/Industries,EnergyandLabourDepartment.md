@@ -19,5 +19,27 @@
 - Regarding disbursement of Governement subsidy to the General Category Beneficiearies of solar agriculture pump under the Pradhan Mantri Kisan Urja Suraksha avm Utthan Mahabhiyan (KUSUM) Scheme.\
   [202403261800009410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261800009410.pdf)
 
+- Maharashtra Electric Vehicle Policy-2021 Incentive fund for creation of infrastructural charging system to Mahavitaran Company Rs. 4.74 crores regarding disbursement in cash. Requisition No. K-6 (heading 28015703)\
+  [202403261846585510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261846585510.pdf)
+
+- Regarding sanction of first phase grant for construction of common facility center of Industry Group Project, Multifruit Processing Cluster, Sindhudurg under the Grant Scheme to Industry Group Projects for creation of State Common Facility.\
+  [202403271633429110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271633429110.pdf)
+
+- Regarding sanction of final stage grant for construction of Common Facility Center of Industry Group Project of Food (Fruit) Processing Cluster, Chhatrapati Sambhajinagar under the Grant Scheme to Industry Group Projects for creation of State Common Facility.\
+  [202403271636285410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271636285410.pdf)
+
+- Under Maharashtra State Industrial Cluster Development Program (MSICDP) Sangha Textile Cluster Distt. Regarding the disbursement of the balance of the second phase eligible grant of the State Government for the construction of Common Facility Center of the Industrial Group Project, Akola.\
+  [202403271639500810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271639500810.pdf)
+
+## Miscellaneous
+- Regarding disbursement of grant-in-aid for non-salary expenditure to Maharashtra State Khadi and Village Industries Board, Mumbai for the financial year 2023-24. (For May Dec-2023).\
+  [202403271128218310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271128218310.pdf)
+
+- Regarding Disbursement of Final Phase Grant for Construction of Common Facility Center of Industrial Cluster Project of Textile Cluster, Rendal Dist.Kolhapur under Maharashtra State Industrial Cluster Development Program (MSI-CDP).\
+  [202403271630189110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271630189110.pdf)
+
+- Joint Director, Industrial Safety  Health, Vasai Office Devchhaya Adarsh Commercial Centre, 2nd  3rd Floor, Behind Gurdwara, Guru Nanaknagar, Ambadi Road, Vasai (West), Distt. Regarding shifting wages to new premises (on tenancy basis) at Palghar.\
+  [202403271249076110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271249076110.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

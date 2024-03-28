@@ -23,12 +23,21 @@
 - Regarding disbursement of 4th installment of funds of Scheduled Tribes (TSP) Sub Scheme for Centrally Sponsored Samagra Shiksha Program (Centre and State share).\
   [202403261623236521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261623236521.pdf)
 
+- Center Sponsored P. Regarding disbursement of first installment funds of Scheduled Tribes Sub Yojana (TSP) for M Janaman Program (Central Share).\
+  [202403271453119721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271453119721.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
   [202403261314594621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261314594621.pdf)
 
 - Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
   [202403261813366421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261813366421.pdf)
+
+- Regarding constitution of revised Grievance Redressal Committee for filing appeals/complaints against the order passed by the Zonal Officers on the application of teachers and non-teaching staff of recognized private aided/unaided/partially aided schools and educational institutions.\
+  [202403271638418721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271638418721.pdf)
+
+- Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
+  [202403271726339121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271726339121.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

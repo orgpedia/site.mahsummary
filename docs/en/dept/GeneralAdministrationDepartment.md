@@ -14,6 +14,9 @@
 - Redistribution of functions of Director (Information) (Administration) in Directorate General of Information and Public Relations (Headquarters)\
   [202403261233130907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261233130907.pdf)
 
+- Fund Distribution Order (Year 2023-24) Marathwada Administrative and Development Training Prabodhini Nathnagar (U.) Paithan, Distt. Connection of Express Feeder by Mahavitaran to Chhatrapati Sambhajinagar (Account Head 2070 0675)\
+  [202403271059044507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271059044507.pdf)
+
 ## Personnel
 - Regarding payment of salary of IAS Officers on waiting through General Administration Department.\
   [202403261802576407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261802576407.pdf)

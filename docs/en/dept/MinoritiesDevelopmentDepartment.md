@@ -1,17 +1,14 @@
 # Minorities Development Department
 
-**Date Range**: 18 March 2024 - 23 March 2024
+**Date Range**: 25 March 2024 - 30 March 2024
 
 
 ## Funds
-- Regarding disbursement of funds for allotment of scholarships under the Scholarship Scheme to the minority students of the State pursuing higher vocational and all courses after Class XII.\
-  [202403191739347114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403191739347114.pdf)
+- Regarding the distribution of available funds in the financial year 2023-24 for the savings group scheme being implemented for minority women under the special program of measures to be implemented for the rapid development of Marathwada, Vidarbha and North Maharashtra 2018.\
+  [202403271740585814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271740585814.pdf)
 
-- Regarding disbursement of funds for administrative expenses of 1 per cent under the scholarship scheme (excluding medical courses) for minority students of the state pursuing higher vocational and all courses after Class XII.\
-  [202403201635585314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201635585314.pdf)
-
-- Regarding disbursement of grant (under program) to Urdu Sahitya Academy for the expenditure of various schemes to be implemented during the financial year 2023-24.\
-  [202403221559216314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221559216314.pdf)
+- Regarding provision of grant for construction of workshop and administrative building of new Government Technical Training Institute for minority community at Muktainagar, District-Jalgaon. Distribution of funds for the year 2023-24\
+  [202403271713445914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271713445914.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
