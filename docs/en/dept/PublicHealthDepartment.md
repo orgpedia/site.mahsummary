@@ -46,6 +46,15 @@
 - Regarding payment of wages for overtime work done by contract cleaners of Regional Mental Hospital, Yerwada, Pune from July 2013 to 31 December, 2013\
   [202403271119139217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271119139217.pdf)
 
+- Arogya Bhavan, Mumbai for the development and maintenance services provided for the cleaning and cleaning of the building and the garden. Regarding approval of pending payment of Garudzep Swayamrojgar Seva Cooperative Society (Mary.), Satara...\
+  [202403281322380217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281322380217.pdf)
+
+- Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2023-24, under 2210 G 289 (TSP)\
+  [202403201322122617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201322122617.pdf)
+
+- Regarding allowing payment of pending payments of contract chauffeur services provided at Upazila Hospital, Sakoli and Rural Hospital, Adyal, District Bhandara, Bhandara District.\
+  [202403281052281917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281052281917.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds amounting to Rs.243.65 lakh under account head 2210F738 31 as central share for the financial year 2023-24 for tribal deployment (TSP) for programs under the Center sponsored National Rural Health Mission.\
   [202403201719181517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201719181517.pdf)
@@ -55,6 +64,49 @@
 
 - Under the Deputy Director, Health Services State Public Health Laboratory, Pune Regarding approval of the pending rent payment of the office of Junior Scientific Officer District Public Health Laboratory Kolhapur..\
   [202403271118248217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271118248217.pdf)
+
+- Regarding giving administrative approval for the repair cost of office vehicle under the jurisdiction of Deputy Director Health Services (Transport), Pune Directorate, Pune.\
+  [202403221357578817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221357578817.pdf)
+
+- Regarding payment of wages for overtime work done by contract cleaners of Regional mental Hospital, Yerwada, Pune from July 2013 to December 31, 2013\
+  [202403281322212517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281322212517.pdf)
+
+- Regarding giving administrative approval for the repair cost of office vehicle under the jurisdiction of Deputy Director Health Services (Transport), Pune Directorate, Pune.\
+  [202403281052335517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281052335517.pdf)
+
+- 40 regarding the approval of the certificate for approval and grant of payment of contract security services.\
+  [202403221358041117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221358041117.pdf)
+
+- Final Seniority List of Officers of Civil Surgeon Cadre in Maharashtra Medical  Health Service, Group-A as on 01.01.2023\
+  [202403281144071117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281144071117.pdf)
+
+## Personnel
+- Regarding continuation of 30 temporary posts in Department of Dentistry in Rural Hospitals of Satara District under Deputy Director, Health Services, Pune Board, Pune.\
+  [202403281322462717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281322462717.pdf)
+
+- Regarding continuation of 179 temporary post under ESI Scheme at the Establishment of Medical administrative office, ESI Scheme Mumbai, Pune and Nagpur from date 01.03.2024 to 31.08.2024.\
+  [202403271524168917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271524168917.pdf)
+
+- Regarding the continuation of the newly created 15 temporary posts at the Up-District Hospital, Vengurla, District Sindhudurg under the Deputy Director Health Services, Kolhapur Division, Kolhapur..\
+  [202403221357358617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221357358617.pdf)
+
+- Regarding the continuation of temporary posts under Deputy Director Health Services, Ch. Sambhajinagar Mandal, Ch. Sambhajinagar..\
+  [202403221357410017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221357410017.pdf)
+
+- Regarding continuation of temporary posts under Deputy Director, Health Services, Kolhapur Board.\
+  [202403221357462317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403221357462317.pdf)
+
+- A.N.M./G.N.M. Regarding continuation of temporary posts of Nursing School.\
+  [202403281052157217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281052157217.pdf)
+
+- Regarding the continuation of a total of 1135 temporary posts sanctioned from 01.03.2024 to 31.08.2024 in total 12 hospital establishments under the control of Commissioner, State Employees Insurance Scheme, Mumbai.\
+  [202403271524327817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271524327817.pdf)
+
+- Regarding the continuation of approved 29 temporary posts on the establishment of Commissioner under State Employees Insurance Scheme, State Employees Insurance Scheme, Mumbai from 01.03.2024 to 31.08.2024....\
+  [202403271524379917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271524379917.pdf)
+
+- Regarding continuation of 41 temporary posts under Commissionerate of Health Services, Mumbai.\
+  [202403281322302517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281322302517.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

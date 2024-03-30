@@ -19,6 +19,21 @@
 - Regarding disbursement of Quarter-25 installment funds for Mumbai City CCTV Project.\
   [202403271258027329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271258027329.pdf)
 
+- Regarding disbursement of Quarter-26 installment funds for Mumbai City CCTV Project.\
+  [202403291530576829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403291530576829.pdf)
+
+- Regarding giving administrative and financial approval to the expenses incurred for payment of arrears of village panchayat tax of the office at border check post, Nandani under the office of Regional Transport Office, Solapur...\
+  [202403281542067929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281542067929.pdf)
+
+- Regarding the deposit of Central Government funds under the scheme Special Assistance Scheme from the Central Government to States for Capital Investment under the PFMS system in the SNA account of the said scheme.\
+  [202403281835568329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281835568329.pdf)
+
+- Regarding approving the payment of M. Rosemarta Technologies Limited for running the Vehicle Inspection and Testing Center (I  C Centre) at Nashik.\
+  [202403281535272829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281535272829.pdf)
+
+- Under tribal component program ST in tribal areas. Regarding disbursement of funds for the scheme of development, construction and repair of depots.... (Head of Account  3055 0043)\
+  [202403281325072629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281325072629.pdf)
+
 ## Miscellaneous
 - Regarding payment of remuneration of Additional Public Prosecutor,.\
   [202403261444264929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261444264929.pdf)
@@ -44,6 +59,9 @@
 
 - Regarding extension of temporary posts in State Excise Department from 01.03.2024 to 31.08.2024.....\
   [202403271759508429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271759508429.pdf)
+
+- Security temporary posts from 01/03/2024 to Regarding extension till 31/08/2024\
+  [202403281445429029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281445429029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -61,12 +61,42 @@
 - A circular regarding approving the distribution of funds for the distribution of aid to the affected people due to the loss of agricultural crops and other property due to natural calamities in the state during the period 2020 to 2022...\
   [202403271446225719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271446225719.pdf)
 
+- To provide funds for the payment of incremental compensation of land acquired for rehabilitation of earthquake victims under section 28A of Land Acquisition Act, 1894 based on the judgment passed by the Civil Court\
+  [202403291429016619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403291429016619.pdf)
+
+- Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2023-24.\
+  [202403281509542919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281509542919.pdf)
+
+- As per the provisions of Central Sector Scheme for Bonded Labourer, 2021, sanction of funds to create Bonded Labourer Rehablitation Fund at district level\
+  [202403281232364819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281232364819.pdf)
+
+- Regarding disbursement of funds through reallocation under the scheme Construction of Administrative Building (4406-0026) for the year 2023-24.\
+  [202403281242428819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281242428819.pdf)
+
+- Sanctioning the payment of pending electricity bills of the office of the Collector, Mumbai City.\
+  [202403281208488719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281208488719.pdf)
+
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2023-24 (2406 8669).\
+  [202403281237491919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281237491919.pdf)
+
 ## Miscellaneous
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
   [202403271711180919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271711180919.pdf)
 
 - Regarding disbursement of amount for payment of pension for the financial year 2023-24 to the heirs of the persons who died in the riots of 1984.\
   [202403271437323819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271437323819.pdf)
+
+- Corrigendum -  Additional Commissioner and Deputy Commissioner of Konkan Division (G.A.D.) Konkan Division to approve the purchase of new vehicles in place of their old registered vehicles.\
+  [202403281645549419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281645549419.pdf)
+
+- Heavy rain/flood affected and rehabilitated Mauje Takli Bu. h Naigaon Dist. Regarding disbursement of funds for civic amenities works at Nanded.\
+  [202403281711447019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281711447019.pdf)
+
+- Regarding disbursement of funds for civic amenities works in Dharmabad Taluka of Nanded District affected by heavy rains/floods and resettled.\
+  [202403281708350119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281708350119.pdf)
+
+- Regarding disbursement of funds for civic amenities works in the resettled villages Nimbol and Ainpur (Taluka Raver) and Anturli (Taluka .Muktainagar) in Jalgaon District under Hatnoor Project.\
+  [202403281234392319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281234392319.pdf)
 
 ## Personnel
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
@@ -89,6 +119,12 @@
 
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
   [202403271645009119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271645009119.pdf)
+
+- Regarding extension of posts created for Disaster Management Division, Mantralaya.\
+  [202403281148226019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281148226019.pdf)
+
+- Mauje Koudgaon, Jintur, Dist. Regarding disbursement of funds for works of administratively approved civic facilities in flood affected village Parbhani.\
+  [202403281704573819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281704573819....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

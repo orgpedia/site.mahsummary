@@ -28,6 +28,15 @@
 - Budget grant 2023-2024 Demand Number Y-06, 4402 capital expenditure on soil and water conservation (non-plan) (4402 1148)\
   [202403271310051028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271310051028...pdf)
 
+- Regarding disbursement of funds under Swachh Bharat Mission (Gr.)Phase-II Under General Component (Central  Share) for the year 2023-24...\
+  [202403261546275128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261546275128.pdf)
+
+- Regarding disbursement of funds under Swachh Bharat Mission (Gr.)Phase-II Under General Component (State Share) for the year 2023-24...\
+  [202403261546376528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261546376528.pdf)
+
+- Regarding disbursement of grant to cover expenditure on measures actually completed to alleviate drinking water scarcity in rural areas during periods of scarcity.                    (Account Head 2215 A195)\
+  [202403281807189028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281807189028.pdf)
+
 ## Personnel
 - Regarding disbursement of funds with revised administrative approval for the cost of supplying water by tankers for the 350th coronation ceremony of Chhatrapati Shivaji Maharaj.\
   [202403261819500528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261819500528.pdf)

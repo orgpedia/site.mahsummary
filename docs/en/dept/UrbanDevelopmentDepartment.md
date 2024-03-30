@@ -20,5 +20,8 @@
 - Regarding amendment in the heading of disbursement of secondary loan of the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Rail 4 project.\
   [202403271736099225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271736099225.pdf)
 
+- Regarding the implementation of water supply and sewage projects under Nagarotthan Mahabhiyan\
+  [202403281152073525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281152073525.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
