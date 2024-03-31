@@ -49,6 +49,30 @@
 - Regarding disbursement of funds for implementation of Gram Bijotpadan Yojana (Scheduled Caste Category) in the year 2023-24 under Seed and Planting Material Scheme under Krishi Unnati Yojana.\
   [202403281305092501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281305092501.pdf)
 
+- Regarding disbursement of grants to Dr. Panjabrao Deshmukh Agricultural University, Akola for the financial year 2023-24 for 31, Subsidiary Grants (Non-salary)... (Programme)\
+  [202403301245207401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301245207401.pdf)
+
+- To settle eligible claims received under Gopinath Munde Farmers Accident Insurance Scheme between 07.04.2022 to 22.08.2022, Rs. Regarding disbursement of 3.18 crores..\
+  [202403301811251101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301811251101.pdf)
+
+- Regarding disbursement of funds sanctioned through supplementary demand for International Agricultural Facility Center under Dr.Punjabrao Deshmukh Agricultural University, Akola....\
+  [202403301728131001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301728131001.pdf)
+
+- Regarding disbursement of Rs.17.60 Crores to settle eligible claims received under Gopinath Munde Shetkari Accident Insurance Scheme between 23.08.2022 to 18.04.2023.\
+  [202403301811136301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301811136301.pdf)
+
+- Regarding financial approval of Rs.220.86 crores fund made available through reinvestment for implementation of special action plan for productivity enhancement and value chain development of cotton, soybean and other oilseed crops in the year 2023-24.\
+  [202403301827341201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301827341201.pdf)
+
+- Regarding disbursement of grants to Dr. Panjabrao Deshmukh Agricultural University, Akola for the financial year 2023-24 for 31, Subsidiary Grants (Non-salary)... (Programme)\
+  [202403301246182801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301246182801.pdf)
+
+- Regarding disbursement of grant to Dr.Punjabrao Deshmukh Agricultural University, Akola for the construction of 35 capital units in the financial year 2023-24... (Programme\
+  [202403301726181101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301726181101.pdf)
+
+- Dindayal Prabodhini Nilona, Yavatmal working under Dindayal Multi-Purpose Broadcasting Board, Yavatmal regarding disbursement of grant for Development of Agricultural Research and Training Infrastructure (Under Programme) (2415 1121)\
+  [202403301728500101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301728500101.pdf)
+
 ## Miscellaneous
 - Under the state sponsored scheme of organic farming/toxic free farming, Dr. Regarding disbursement of funds from the budgetary provision for the financial year 2023-24 to implement the Punjabrao Deshmukh Natural Farming Mission.\
   [202403271728180901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271728180901.pdf)

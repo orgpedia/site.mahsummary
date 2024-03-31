@@ -22,6 +22,9 @@
 - Regarding distribution of grant for Solapur Urdu Ghar in the year 2023-24.\
   [202403281745376814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281745376814.pdf)
 
+- Regarding disbursement of funds to the Maharashtra State Minority Commission for non-salary matters in the financial year 2023-24.\
+  [202403301805500514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301805500514.pdf)
+
 ## Miscellaneous
 - Regarding depositing amount for food of minority students in hostels of minority students in Aadhaar linked account Disbursement of funds for the year 2023-24\
   [202403281748277014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281748277014.pdf)

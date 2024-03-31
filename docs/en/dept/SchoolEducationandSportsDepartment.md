@@ -46,6 +46,21 @@
 - Regarding giving administrative approval for disbursement of non-salary grants to recognized aided primary, secondary and higher secondary schools in the state. Financial Year 2023-24\
   [202403291135411521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403291135411521.pdf)
 
+- Regarding Disbursement of Grants to District Sports Complexes for the financial year 2023-24- Head of Account (2204-1827)\
+  [202403301647052221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301647052221.pdf)
+
+- Distribution of funds for participation in All India Civil Services Competition.\
+  [202403301534436021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301534436021.pdf)
+
+- Regarding disbursement of the 4th installment funds under the general component under the Centrally Sponsored Samajra Shiksha Yojana under DIET AS CENTER OF EXCELLENCE for the empowerment of the district education and training institutes of Dharashiv, Nandurbar, Amravati, Nanded, Washim and Wardha in the state..... (Central share and state share)\
+  [202403301551410721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301551410721.pdf)
+
+- Regarding disbursement of funds for provision of arrears of washing and polishing allowances of training/ camps of National Student Army offices.\
+  [202403301708226821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301708226821.pdf)
+
+- Regarding disbursement of grants to Taluka Sports Complexes for the financial year 2023-24- Head of Account (2204-1792)\
+  [202403301622300821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301622300821.pdf)
+
 ## Miscellaneous
 - For the scheme PM SHRI (PM Schools for rising India) for the second week of the financial year 2023-24, the central share is Rs.31,70,00,000/- and the state share is Rs.21,13,00,000/- totaling Rs.52, 83,00,000/- regarding disbursement of funds.\
   [202403261241274421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261241274421....pdf)
@@ -95,6 +110,9 @@
 
 - Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
   [202403281848131121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281848131121.pdf)
+
+- Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
+  [202403301654293721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301654293721.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

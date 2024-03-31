@@ -34,6 +34,15 @@
 - Under tribal component program ST in tribal areas. Regarding disbursement of funds for the scheme of development, construction and repair of depots.... (Head of Account  3055 0043)\
   [202403281325072629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281325072629.pdf)
 
+- Regarding disbursement of funds of Rs.174.60 crore available and undistributed on BIMs under account head 2041 0018-33 to the Maharashtra State Road Transport Corporation for reimbursement of concession fare...\
+  [202403301806441129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301806441129.pdf)
+
+- Regarding disbursement of funds for payment of tenth quarter installment for Modernization of Police Control Rooms (DIAL-112) Project in the State.\
+  [202403301628070929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301628070929.pdf)
+
+- May appointed as a project consultant to install CCTV cameras in police stations in the state. Regarding payment to PWC companies for work done from 20.9.2023 to 29.2.2024.\
+  [202403301546435929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301546435929.pdf)
+
 ## Miscellaneous
 - Regarding payment of remuneration of Additional Public Prosecutor,.\
   [202403261444264929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261444264929.pdf)
@@ -43,6 +52,9 @@
 
 - Regarding the administrative approval of the expenses incurred for payment of rent arrears of the office of Regional Transport Office,Akola\
   [202403271710009129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271710009129.pdf)
+
+- Regarding making available a fund of Rs.3,35,430/- through redistribution for payment of outstanding dues of the unit Mounted Police to the Mumbai Police Force.\
+  [202403301624250829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301624250829.pdf)
 
 ## Personnel
 - At various establishments of the Police Department Regarding extension of temporary posts...\

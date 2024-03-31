@@ -55,6 +55,12 @@
 - Regarding allowing payment of pending payments of contract chauffeur services provided at Upazila Hospital, Sakoli and Rural Hospital, Adyal, District Bhandara, Bhandara District.\
   [202403281052281917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281052281917.pdf)
 
+- Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2023-24, under 2210 G 861.\
+  [202403201322169917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201322169917.pdf)
+
+- Regarding the distribution of State Share (40 percent) funds under 2210 G 888 (SCP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2023-24.\
+  [202403201322275017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201322275017.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds amounting to Rs.243.65 lakh under account head 2210F738 31 as central share for the financial year 2023-24 for tribal deployment (TSP) for programs under the Center sponsored National Rural Health Mission.\
   [202403201719181517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201719181517.pdf)
@@ -79,6 +85,9 @@
 
 - Final Seniority List of Officers of Civil Surgeon Cadre in Maharashtra Medical  Health Service, Group-A as on 01.01.2023\
   [202403281144071117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281144071117.pdf)
+
+- Regarding the payment of Functional Audit Dashboard/Software of 108 Maharashtra Emergency Medical Services Project through M/s. AKS Information Technology Services Pvt. Ltd.\
+  [202403141744074717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403141744074717.pdf)
 
 ## Personnel
 - Regarding continuation of 30 temporary posts in Department of Dentistry in Rural Hospitals of Satara District under Deputy Director, Health Services, Pune Board, Pune.\

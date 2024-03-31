@@ -29,5 +29,8 @@
 - Administrative approval to Government Medical College, Ratnagiri for the purchase of machinery and equipment from the state scheme.\
   [202403271821015813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271821015813....pdf)
 
+- GR Correction Sheet........ Regarding providing administrative approval for purchase of furniture under state scheme to Government Medical College, Miraj.\
+  [202403301140583913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301140583913.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

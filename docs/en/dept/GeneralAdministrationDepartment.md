@@ -19,6 +19,15 @@
 - Requisition No.A-4 (Mandatory/Deputy) Re-appropriation of provision under Head Account 2070- Other Administrative Services for the year 2023-24\
   [202403281459186607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281459186607.....pdf)
 
+- Disbursement of additional funds for construction of welfare center building of Maharashtra State Gazetted Officers Federation...\
+  [202403301827191307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301827191307.pdf)
+
+- Requisition No.A-4 (Mandatory/Definitive)    Re-appropriation of provision for the year 2023-24 under the principal head 2052, Secretariat-General Services\
+  [202403301336160307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301336160307.pdf)
+
+- Requisition No.A-4 (Programme/Acceptance)    Re-appropriation of provision under Head Heads 2052, Secretariat-General Services and 2070, Other Administrative Services for the year 2023-24\
+  [202403301822585007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301822585007.pdf)
+
 ## Miscellaneous
 - Redistribution of functions of Director (Information) (Administration) in Directorate General of Information and Public Relations (Headquarters)\
   [202403261233130907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261233130907.pdf)
@@ -40,6 +49,9 @@
 
 - Regarding implementation of eLeave Regarding submission of all leave applications through eHRMS system from April 01, 2024.\
   [202403281238182407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281238182407.pdf)
+
+- Requisition No.A-4 (Mandatory/Deputy) Re-appropriation of provision under Head Account 2070- Other Administrative Services for the year 2023-24\
+  [202403301323212107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301323212107.pdf)
 
 ## Personnel
 - Regarding payment of salary of IAS Officers on waiting through General Administration Department.\

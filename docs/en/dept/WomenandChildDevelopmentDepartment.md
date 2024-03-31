@@ -34,6 +34,9 @@
 - Disbursement of funds for Baby Care Kit Scheme\
   [202403261122274330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261122274330.pdf)
 
+- For the financial year 2023-24 regarding disbursement of revised estimates made under the scheme Abolition of Dowry System (Account Head 2235 1381) and Establishment of Multipurpose Community Centers for Women (Account Head 2235 2949).\
+  [202403281542366630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281542366630.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for the implementation of Child Helpline for the year 2023-24 under Mission Vatsalya, a centrally awarded scheme.\
   [202403271120548230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271120548230.pdf)

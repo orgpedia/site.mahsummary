@@ -22,6 +22,9 @@
 - Regarding disbursement of funds approved through supplementary demand in the winter session of the Legislature in December-2023 for the construction of Dr. Shankarao Chavan Abhyasika Complex building at Swami Ramanand Theertha Marathwada University, Nanded...\
   [202403281911589208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281911589208.pdf)
 
+- Dr. Babasaheb Ambedkar Marathwada University, Chhatrapati Sambhajinagar Peoples Leader Sr. Gopinath Munde about distributing funds to National Institute of Rural Development and Research....\
+  [202403301136588808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301136588808.pdf)
+
 ## Miscellaneous
 - Requisition No. W-4, 2205, for the financial year 2023-2024, regarding the provision of funds under the head 2205 0271 of the Directorate of Arts and Culture, Libraries through redeployment.\
   [202403261540138208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261540138208.pdf)

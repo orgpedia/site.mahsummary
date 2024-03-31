@@ -79,6 +79,30 @@
 - Release of fund under the Scheme Computerization of Forest Department in for the year 2023-24 (2406 8669).\
   [202403281237491919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281237491919.pdf)
 
+- Kai who died due to poisoning while spraying pesticides in the field. Regarding providing financial assistance to the heirs of Kishore Babu Rathod...\
+  [202403301532434719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301532434719.pdf)
+
+- Regarding disbursement of sanctioned funds through supplementary demand under the State Scheme Development of Nature Tourism Site (2406-2295) for the year 2023-24.\
+  [202403301603190719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301603190719.pdf)
+
+- As per order passed by Honble Supreme Court in Writ Petition (Civil) No.182/2001 dated 4th November, 2022 regarding sanction of interest amount on delayed assistance to the official heirs of persons missing and dead in riots/bomb blasts of 1992-93...\
+  [202403301536070719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301536070719.pdf)
+
+- Regarding giving administrative approval to the expenditure necessary for removal of silt from river Savitri as a flood alleviation measure at Mahad, District Raigad.\
+  [202403301545503919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301545503919.pdf)
+
+- Regarding release of funds for pre-monsoon works to be carried out under convergence (Top-up Model) under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2023-24.\
+  [202403301241476919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301241476919.pdf)
+
+- Regarding approving the disbursement of funds for the restoration of infrastructure damaged by heavy rains in Nagpur city on September 22, 2023 ...\
+  [202403301649281019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301649281019.pdf)
+
+- Regarding payment in respect of work at Narvel Benawane under National Cyclone Hazard Mitigation Project.\
+  [202403301134389519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301134389519.pdf)
+
+- Regarding technical assistance for comprehensive disaster planning, management and response in the Disaster Management Department and giving administrative approval to the Project Management Cell appointed by the Department for its implementation.\
+  [202403301136138619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301136138619.pdf)
+
 ## Miscellaneous
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
   [202403271711180919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271711180919.pdf)
@@ -97,6 +121,12 @@
 
 - Regarding disbursement of funds for civic amenities works in the resettled villages Nimbol and Ainpur (Taluka Raver) and Anturli (Taluka .Muktainagar) in Jalgaon District under Hatnoor Project.\
   [202403281234392319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281234392319.pdf)
+
+- Regarding disbursement of funds for the year 2023-24 under the scheme Computerization of Forest Department. (2406 8669)\
+  [202403301626230819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301626230819.pdf)
+
+- Regarding approval of payment of arrears of electricity dues of tap water supply schemes in drought-affected areas from scarcity fund.     Jalna Municipal Corporation.\
+  [202403301540406119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301540406119.pdf)
 
 ## Personnel
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
@@ -125,6 +155,9 @@
 
 - Mauje Koudgaon, Jintur, Dist. Regarding disbursement of funds for works of administratively approved civic facilities in flood affected village Parbhani.\
   [202403281704573819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281704573819....pdf)
+
+- Regarding Release of grant under the account head Eco Task Force Battalion (2406 A211) for the financial year 2023-24.\
+  [202403301713525819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301713525819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

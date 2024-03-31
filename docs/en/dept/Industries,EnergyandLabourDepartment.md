@@ -88,6 +88,21 @@
 - Regarding disbursement of subsidy amounting to Rs.42.74 Crores in cash to the Maha Distribution Company as Government share for Solar Farming Pumps of General Beneficiary Units under Kusum Component B Scheme. (Account Head No.28100902)\
   [202403281244493210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281244493210.pdf)
 
+- Regarding financial approval of expenditure to advertisement media plan to raise public awareness through advertisement against the undesirable practice of child labour in the financial year 2023-24 an amount of Rs. 7,41,455/-\
+  [202403301421506810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301421506810.pdf)
+
+- In the year 2023-24 To make provision through reinvestment scheme demand no. K-6, Heading 2801 Electricity and 2810 New and Renewable Energy\
+  [202403301715461010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301715461010.pdf)
+
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electricity Duty and Tax on Electricity against Subsidy to  Agriculture, Powerloom  Textile consumers for the year 2023-24\
+  [202403301721581010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301721581010.pdf)
+
+- Regarding distribution of State share fund to the Maharashtra State Electricity Distribution company Limited under CM Solar Scheme Phase-2  3\
+  [202403301321347710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301321347710.pdf)
+
+- Release of grant of Rs.100.00 crores for the year 2023-24 to MSEDCL for replacement of failed distribution transformer under Nirantar Veej Yojana.\
+  [202403301718027610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301718027610.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of grant-in-aid for non-salary expenditure to Maharashtra State Khadi and Village Industries Board, Mumbai for the financial year 2023-24. (For May Dec-2023).\
   [202403271128218310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271128218310.pdf)

@@ -37,6 +37,9 @@
 - Regarding the payment of advertisement payments of the Special Assistance Schemes through various media under the Media Plan for the year 2023-24 of the Department of Social Justice and Special Assistance.\
   [202403291154414322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403291154414322.pdf)
 
+- Regarding approval of advance expenditure for social audit of special assistance schemes under National Social Assistance Programme...\
+  [202403301657071522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301657071522.pdf)
+
 ## Miscellaneous
 - Rajarshi Shahu Maharaj Merit Scholarship Scheme for 100 Scheduled Caste students of the state to pursue higher education in reputed educational institutions of the country Selection of students for the year 2023-24\
   [202403261648192522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261648192522.pdf)
@@ -46,6 +49,9 @@
 
 - Regarding the payment of advertisement payments of the Special Assistance Schemes through various media under the Media Plan for the year 2023-24 of the Department of Social Justice and Special Assistance.\
   [202403291201141922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403291201141922.pdf)
+
+- Allocation of subsidy for the financial year 2023-24 for administrative expenses of Sanjay Gandhi Niradhar Grant Yojana and Shravanbal Seva State Pension Yojana.\
+  [202403301702225722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301702225722.pdf)
 
 ## Personnel
 - DBT developed for Sanjay Gandhi Niradhar Anudan Yojana and Shravanbal Seva Rajya Nivruttee Vetan Regarding payment of portal...\

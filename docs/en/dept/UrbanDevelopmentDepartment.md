@@ -16,6 +16,18 @@
 - Regarding disbursement of budgetary provision for the financial year 2023-24...Grant-in-aid\
   [202403271733413425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271733413425.pdf)
 
+- Corrigendum- Release of surcharge on stamp duty to Mumbai Metro Rail Project to the implementing agencies of the Vital Urban Transport Project of Mumbai, Nagpur and Pune Metro Railway from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949 for adjustment of outstanding principal and interest amount of Rs 1563 crore till March 2023. (FY 2023-24)\
+  [202403301411589125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301411589125.pdf)
+
+- Reimbursement of expenses incurred by Mumbai Metropolitan Region Development Authority for construction of late Shri. Balasaheb Thackeray National Memorial. (FY-2023-24)\
+  [202403301414227425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301414227425.pdf)
+
+- Release of State Government Equity for Nagpur Metro Railway Project to Maharashtra Rail Corporation Ltd. (FY 2023-24)\
+  [202403301724315925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301724315925.pdf)
+
+- Regarding disbursement of funds under the scheme Part-4- Financial Reform of Urban Local Bodies by making them eligible for Debt Bonds and Issuance of Debt Bonds of the Central Governments Special Assistance to States for Capital Investment 2023-24 (Milestone-2).\
+  [202403301814131125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301814131125.pdf)
+
 ## Miscellaneous
 - Regarding amendment in the heading of disbursement of secondary loan of the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Rail 4 project.\
   [202403271736099225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271736099225.pdf)
