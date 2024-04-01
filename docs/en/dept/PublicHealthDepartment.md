@@ -61,6 +61,12 @@
 - Regarding the distribution of State Share (40 percent) funds under 2210 G 888 (SCP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2023-24.\
   [202403201322275017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201322275017.pdf)
 
+- Regarding disbursement of Rs.321.88 lakhs from the provision for the year 2023-24 through reallocation of funds amounting to Rs.321.88 lakhs under account head 2210G609 of 40 of State share of Social Special Activities (SCSP) under Centrally Sponsored National Rural Health Mission.\
+  [202403261657530417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261657530417.pdf)
+
+- 40 of the State share for Tribal Scheme (TSP) under the Centrally Sponsored National Rural Health Mission of Rs.506.10 lakhs to be disbursed from the provision for the year 2023-24 through reallocation of Rs.506.10 lakhs under head 2210E455\
+  [202403261657580517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261657580517.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds amounting to Rs.243.65 lakh under account head 2210F738 31 as central share for the financial year 2023-24 for tribal deployment (TSP) for programs under the Center sponsored National Rural Health Mission.\
   [202403201719181517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403201719181517.pdf)

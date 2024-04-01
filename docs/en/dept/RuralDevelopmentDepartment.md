@@ -40,13 +40,34 @@
 - Corrigendum-fund distribution of the financial year 2023-2024 for 6 Government Gram Sevak Training Centers. Main Heading-24150624. (7th installment salary)\
   [202403281532154920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281532154920.pdf)
 
+- Under the Pradhan Mantri Awas Yojana (Rural) (General) component in the financial year 2023-24, the second part of the first installment of the share of the Central Government is Rs. 235,06,00,000/- and State equivalent share Rs. 156,70,66,666/- regarding disbursement of funds.\
+  [202403311442296620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311442296620.pdf)
+
+- Regarding disbursement of funds for administrative expenses for Tribal Area (TSP) category under Deen Dayal Upadhyaya Grameen  Kaushalya Yojana (DDU-GKY) for the year 2023-24.\
+  [202403301416025820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301416025820.pdf)
+
+- Under the Pradhan Mantri Awas Yojana (Rural) (Scheduled Caste Upyojana) (Vighyo) in the financial year 2023-24, the second part of the first installment of the Central Governments share is funded by Rs. 85,49,25,000/- and State Government share fund of Rs. 56,99,50,000/- regarding disbursement of funds.\
+  [202403311442364520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311442364520.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2023-24.\
+  [202403311136403920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311136403920.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for the year 2023-24 State Level Mahalakshmi Saras Exhibition as well as Divisional and District Level Sales Exhibitions.\
   [202403271303312120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271303312120.pdf)
 
+- Regarding disbursement of funds for administrative expenditure for the Scheduled Caste Component (Scheduled Caste Measures) (SCP) category under the Deen Dayal Upadhyaya Grameen  Kaushalya Yojana (DDU-GKY) for the year 2023-24.\
+  [202403311136464020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311136464020.pdf)
+
+- Regarding disbursement of funds for administrative expenses for general (GEN) category under Deen Dayal Upadhyaya Grameen  Kaushalya Yojana (DDU-GKY) for the year 2023-24.\
+  [202403311640264920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311640264920.pdf)
+
 ## Personnel
 - Regarding the continuation of temporary posts of Deputy Commissioners and Assistant Commissioners and Additional Chief Executive Officers created to strengthen the development cell in the Office of the Commissioner.\
   [202403261404462220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261404462220.pdf)
+
+- Regarding disbursement of funds for Tribal Component Program (TSP) under Maharashtra State Rural Livelihood Mission (MSRLM) for the year 2023-24.\
+  [202403311136339620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311136339620.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

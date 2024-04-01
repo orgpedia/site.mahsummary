@@ -16,5 +16,8 @@
 - Maharashtra State Disability Finance and Development Corporation Marya., Mumbai regarding disbursement of funds for the scheme Mobile Shop on Vehicle in the financial year 2023-24 (conditional) Heading - 2235 D257\
   [202403301900497535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301900497535.pdf)
 
+- Regarding disbursement of funds for the financial year 2023-24 in pursuance of survey of persons with disabilities in the state...\
+  [202403311709355035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311709355035.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

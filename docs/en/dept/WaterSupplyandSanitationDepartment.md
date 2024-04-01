@@ -37,6 +37,18 @@
 - Regarding disbursement of grant to cover expenditure on measures actually completed to alleviate drinking water scarcity in rural areas during periods of scarcity.                    (Account Head 2215 A195)\
   [202403281807189028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281807189028.pdf)
 
+- Regarding disbursement of funds under Swachh Bharat Mission (Gr.)Phase-II Under  Scheduled Tribes component (Central  Share) for the year 2023-24... ( 2215 9862)\
+  [202403261546552328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261546552328.pdf)
+
+- Regarding disbursement of funds under Swachh Bharat Mission (Gr.)Phase-II Under Schedule Caste Component (State  Share) for the year 2023-24...  2215 A\
+  [202403261546495028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261546495028.pdf)
+
+- Regarding disbursement of funds under Swachh Bharat Mission (Gr.)Phase-II Under  Scheduled Tribes component (State  Share) for the year 2023-24...  2215 A168\
+  [202403261547012728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261547012728.pdf)
+
+- Regarding disbursement of funds under Swachh Bharat Mission (Gr.)Phase-II Under Schedule Caste Component (Central Share) for the year 2023-24..  2215 A32\
+  [202403261546438728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261546438728.pdf)
+
 ## Personnel
 - Regarding disbursement of funds with revised administrative approval for the cost of supplying water by tankers for the 350th coronation ceremony of Chhatrapati Shivaji Maharaj.\
   [202403261819500528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261819500528.pdf)

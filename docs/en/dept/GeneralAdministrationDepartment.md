@@ -28,6 +28,12 @@
 - Requisition No.A-4 (Programme/Acceptance)    Re-appropriation of provision under Head Heads 2052, Secretariat-General Services and 2070, Other Administrative Services for the year 2023-24\
   [202403301822585007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301822585007.pdf)
 
+- DEMAND NO.A-4 (MANDATORY/APPROVED) RE-APPROPRIATION OF PROVISION IN THE PRINCIPAL HEAD 2052, SECRETARIAT-GENERAL SERVICES FOR THE YEAR 2023-24\
+  [202403311744339107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311744339107.pdf)
+
+- Regarding disbursement of grant to Maharashtra Airport Development Company for development of Mihan project\
+  [202403302030254307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403302030254307....pdf)
+
 ## Miscellaneous
 - Redistribution of functions of Director (Information) (Administration) in Directorate General of Information and Public Relations (Headquarters)\
   [202403261233130907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261233130907.pdf)
@@ -52,6 +58,9 @@
 
 - Requisition No.A-4 (Mandatory/Deputy) Re-appropriation of provision under Head Account 2070- Other Administrative Services for the year 2023-24\
   [202403301323212107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301323212107.pdf)
+
+- Regarding advice and guidance (End to End Key Solution) at all stages of the tender process, M.Ernst  Young Company, Mumbai, regarding consulting fees amounting to Rs. 73,92,110/- and receiving administrative and financial approval after the work.\
+  [202403311540444707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311540444707..pdf)
 
 ## Personnel
 - Regarding payment of salary of IAS Officers on waiting through General Administration Department.\

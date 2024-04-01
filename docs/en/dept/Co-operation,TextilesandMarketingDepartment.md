@@ -67,6 +67,43 @@
 - FY 2023-24 - Redistribution Requisition No. V-2 - Main Heading-3451, Secretarial Financial Services\
   [202403301643388102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301643388102.pdf)
 
+- Requisition No.V-2 (Programme)           Account Heading -3451 2755           Heading 3451 2971           Reallocation of Provisions in the year 2023-24.\
+  [202403311845185102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311845185102.pdf)
+
+- Regarding disbursement of funds to farmers affected by untimely rains and hailstorms in line with loan interest waiver.\
+  [202403311315403302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311315403302.pdf)
+
+- Regarding provision of 12 interest on loans from financial institutions to co-operative yarn mills. Mr. Mahesh Co-op Spinning Mills Ltd., Ichalkaranji, Dist. Kolhapur.\
+  [202403311502024502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311502024502.pdf)
+
+- Requisition No.V-2 (Programme) Principal Head 2425 Cooperation 2435- Other Agricultural Programs Reallocation of Provisions for the year 2023-24\
+  [202403311301114102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311301114102.pdf)
+
+- Regarding sanction of government share capital to cooperative yarn mills set up during the Eighth Five Year Plan period- Mahesh Co-op. Spinning Mills Ltd., Ichalkaranji, Tal.,  Hatkanangle, Dist. Kolhapur.\
+  [202403311257549302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311257549302.pdf)
+
+- Regarding sanction of government share capital to cooperative yarn mills set up during the twelfth five year plan period -- Govind Backward Class Cooperative Yarn Mills, Majalgaon, Tt. Majalgaon, Dist. Beed\
+  [202403311738237502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311738237502.pdf)
+
+- Regarding provision of 12 per cent interest on loans from financial institutions to co-operative yarn mills. Gautam Backward Class Cotton Growers Cooperative Yarn Mill Marya., Nimba, Tt. Parshivani, Dist.Nagpur.\
+  [202403311455119902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311455119902.pdf)
+
+- Regarding approving the disbursement and expenditure of funds to the general category beneficiaries under the Central Sector Scheme Silk Samajra-2 (ISDSI).\
+  [202403311206256702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311206256702.pdf)
+
+- Regarding providing funds for repair, renovation and ancillary works of the buildings of Regional Silk Office and District Silk Office at Pune...\
+  [202403311210468802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311210468802...pdf)
+
+- Regarding grant of Government share capital to cooperative yarn mills set up during the Twelfth Five Year Plan period Peoples leader Gopinathraoji Munde Backward Class Cooperative Yarn Mill, Cage, T. Cage Dist. Beed\
+  [202403311848165102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311848165102.pdf)
+
+- Regarding approval of government share capital to the co-operative yarn mills to be set up during the twelfth five year plan period- Ramdas Athawale Backward Class Cotton Producers Co-operative Spinning Mill Marya., Digras Taluka Digras District Yavatmal.\
+  [202403311300096202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311300096202.pdf)
+
+## Miscellaneous
+- Regarding provision of 12 interest on loans received from financial institutions to Co-operative Spinning Mills-Ajinkyatara Co-operative Spinning Mills., Shahoongar - Valse, Distt. Satara.\
+  [202403311450236702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311450236702.pdf)
+
 ## Personnel
 - Continuation of temporary posts for year 2024-25 Directorate of Marketing\
   [202403281516552702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281516552702.pdf)

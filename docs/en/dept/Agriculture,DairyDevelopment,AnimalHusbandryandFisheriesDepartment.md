@@ -73,6 +73,27 @@
 - Dindayal Prabodhini Nilona, Yavatmal working under Dindayal Multi-Purpose Broadcasting Board, Yavatmal regarding disbursement of grant for Development of Agricultural Research and Training Infrastructure (Under Programme) (2415 1121)\
   [202403301728500101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301728500101.pdf)
 
+- Regarding the disbursement of Rs.53.71732 lakhs of the balance of the fifth installment of State share for the general category in the year 2023-24 under the Agricultural Extension Sub Mission of the National Agricultural Extension and Technology Mission (NMAET) under the Assistance (Atma) Scheme for Improvements in Agricultural Extension Programs of the State.\
+  [202403311634324701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311634324701.pdf)
+
+- Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, under the State Assistance for Improvements in Agricultural Extension Programs (Atma) Scheme for the Scheduled Caste category for the year 2023-24, the rest of the fifth installment of Central share of Rs. 20.03370 lakhs and out of similar state share the balance Rs. 13.36244 lakhs totaling Rs. Regarding approving the disbursement of funds amounting to 33.39614 lakhs in the current year..\
+  [202403311833055101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311833055101....pdf)
+
+- Regarding disbursement of grant under tribal component program to Mahatma Phule Agricultural University, Rahuri Subordinate College of Agriculture, Nandurbar in the financial year 2023-24...\
+  [202403311727009301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311727009301.pdf)
+
+- Release of Rs.25.28333 lakh grants for FNS-commercial crop(cotton, sugarcane)programme under KrishiUnnati Scheme for ST category in year 2023-24\
+  [202403311812085101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311812085101.pdf)
+
+- Release of Rs. 498.84659 lakh grants under food and security mission Scheme for ST category in year 2023-24\
+  [202403311529526201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311529526201.pdf)
+
+- Regarding disbursement of Rs.88.48 crores made available through reinvestment for payment of award amount to various agricultural award winning farmers in the year 2022.\
+  [202403311532514601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311532514601.pdf)
+
+- Regarding disbursement of funds made available through reallocation to Mahatma Phule Agricultural University, Rahuri in the financial year 2023-24. (program)\
+  [202403311854060701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311854060701.pdf)
+
 ## Miscellaneous
 - Under the state sponsored scheme of organic farming/toxic free farming, Dr. Regarding disbursement of funds from the budgetary provision for the financial year 2023-24 to implement the Punjabrao Deshmukh Natural Farming Mission.\
   [202403271728180901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271728180901.pdf)

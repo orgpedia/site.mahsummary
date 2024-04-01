@@ -61,6 +61,21 @@
 - Regarding disbursement of grants to Taluka Sports Complexes for the financial year 2023-24- Head of Account (2204-1792)\
   [202403301622300821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301622300821.pdf)
 
+- Regarding the disbursement of funds to reimburse the expenditure incurred for inclusion of book pages in the textbooks of classes 2nd to 8th from the academic year 2023-24.\
+  [202403311507479521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311507479521.pdf)
+
+- Center Sponsored P. M. Regarding disbursement of first installment of Scheduled Tribes Sub Yojana (TSP) funds for Janaman program (State share).\
+  [202403311818565221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311818565221.pdf)
+
+- Regarding provision of funds through reallocation for effective implementation of Samajra Shiksha Yojana (State share)\
+  [202403311921571721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311921571721.pdf)
+
+- Examination Fee Waiver / Fee Reimbursement for students from drought affected villages\
+  [202403311504400321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311504400321.pdf)
+
+- Regarding provision of necessary funds for school sports competitions, Khelo India competitions and other sports competitions through reallocation-(Account No. 2204-5635)\
+  [202403311510400221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311510400221.pdf)
+
 ## Miscellaneous
 - For the scheme PM SHRI (PM Schools for rising India) for the second week of the financial year 2023-24, the central share is Rs.31,70,00,000/- and the state share is Rs.21,13,00,000/- totaling Rs.52, 83,00,000/- regarding disbursement of funds.\
   [202403261241274421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261241274421....pdf)
@@ -89,6 +104,12 @@
 - Regarding approving payment of remaining amount of payment for 146 computers and 6 printers procured through e-tender process under e-governance project\
   [202403281640483121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281640483121.pdf)
 
+- For the scheme PM SHRI (PM Schools for rising India) in the second quarter of the financial year 2023-24, the undistributed central share of Rs.28,000/- and state share of Rs.52,000/- for the second quarter of the year 2023-24 has been distributed. about doing\
+  [202403311734357521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311734357521.pdf)
+
+- Krida Maharishi Prof.D.Ba.Deodhar Krida Prabodhini Secondary and Higher Secondary School, Mhalunge, Balewadi regarding payment of salary of teachers and non-teaching staff...\
+  [202403311805135521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311805135521.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
   [202403261314594621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261314594621.pdf)
@@ -113,6 +134,12 @@
 
 - Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
   [202403301654293721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301654293721.pdf)
+
+- Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
+  [202403311440505021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311440505021.pdf)
+
+- Maharashtra Appropriation Act, 2023 Grant release for the year 2023-2024\
+  [202403311440084921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311440084921.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

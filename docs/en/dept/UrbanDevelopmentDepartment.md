@@ -28,6 +28,12 @@
 - Regarding disbursement of funds under the scheme Part-4- Financial Reform of Urban Local Bodies by making them eligible for Debt Bonds and Issuance of Debt Bonds of the Central Governments Special Assistance to States for Capital Investment 2023-24 (Milestone-2).\
   [202403301814131125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301814131125.pdf)
 
+- Regarding disbursement of grant-in-aid on the lines of the Central Government and the State Government to the families of officers/employees who died due to corona infection while performing their duties in the anti-Covid campaign in the KD Municipal Corporation area of the state.\
+  [202403311750101125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311750101125.pdf)
+
+- Deen Dayal Antyodaya Yojana Regarding Distribution of Centre-State Share under National Urban Livelihood Mission (NULM) for the financial year 2023-2024.\
+  [202403311720065025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311720065025.pdf)
+
 ## Miscellaneous
 - Regarding amendment in the heading of disbursement of secondary loan of the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Rail 4 project.\
   [202403271736099225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271736099225.pdf)

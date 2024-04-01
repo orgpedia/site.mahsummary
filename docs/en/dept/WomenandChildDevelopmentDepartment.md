@@ -37,6 +37,18 @@
 - For the financial year 2023-24 regarding disbursement of revised estimates made under the scheme Abolition of Dowry System (Account Head 2235 1381) and Establishment of Multipurpose Community Centers for Women (Account Head 2235 2949).\
   [202403281542366630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281542366630.pdf)
 
+- Fund distribution under the State share under the Poshan Abhiyan programme\
+  [202403301416165130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301416165130.pdf)
+
+- Regarding disbursement of funds for the component scheme Women Empowerment Centre under the sub-project Samarthya of the umbrella scheme Mission Shakti for the financial year 2023-24.\
+  [202403311505274530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311505274530.pdf)
+
+- Regarding the disbursement of funds under the objective 21- Supplies and Materials under the head 2235 1254 of the State Housing and Defense (Compulsory) Schemes in the financial year 2023-24...\
+  [202403281542227630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281542227630.pdf)
+
+- Disbursement of funds for Baby Care Kit Scheme\
+  [202403301359122530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301359122530.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for the implementation of Child Helpline for the year 2023-24 under Mission Vatsalya, a centrally awarded scheme.\
   [202403271120548230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271120548230.pdf)
@@ -44,12 +56,18 @@
 - Regarding disbursement of funds under 22510436 under 13-Ka expenditure for the renovation of the hall of the Secretary in the Department of Women and Child Development.\
   [202403281253248130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281253248130.pdf)
 
+- Regarding disbursement of funds for the implementation of the Swachhta Action Plan for the year 2023-24 under the Mission Vatsalya Scheme\
+  [202403281226396930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281226396930.pdf)
+
 ## Personnel
 - Regarding disbursement of funds for the component scheme Women Empowerment Center under sub-project Samarthya under the umbrella scheme Mission Shakti for the financial year 2023-24.\
   [202403261155055130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261155055130.pdf)
 
 - Regarding approval of expenditure of funds in SNA account for 31- Subsidiary Grant (Non-salary) under the component scheme One Stop Centre in the financial year 2023-24.\
   [202403281542160930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281542160930.pdf)
+
+- Regarding disbursement of grants to NGOs institutions for children under the Juvenile Justice (Care and Protection) Act, 2015\
+  [202403271121133830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271121133830.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

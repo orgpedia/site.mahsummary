@@ -40,6 +40,9 @@
 - Regarding approval of advance expenditure for social audit of special assistance schemes under National Social Assistance Programme...\
   [202403301657071522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301657071522.pdf)
 
+- Regarding approval to spend the funds budgeted for the year 2023-24 under Karmaveer Dadasaheb Gaikwad Empowerment and Self Esteem Yojana.\
+  [202403311549314622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311549314622.pdf)
+
 ## Miscellaneous
 - Rajarshi Shahu Maharaj Merit Scholarship Scheme for 100 Scheduled Caste students of the state to pursue higher education in reputed educational institutions of the country Selection of students for the year 2023-24\
   [202403261648192522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261648192522.pdf)

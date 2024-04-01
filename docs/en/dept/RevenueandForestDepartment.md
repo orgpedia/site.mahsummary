@@ -103,6 +103,33 @@
 - Regarding technical assistance for comprehensive disaster planning, management and response in the Disaster Management Department and giving administrative approval to the Project Management Cell appointed by the Department for its implementation.\
   [202403301136138619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301136138619.pdf)
 
+- Mahad, Dist. Regarding provision of fuel cost of Savitri river desilting plant for flood control at Raigad.\
+  [202403311709096419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311709096419.pdf)
+
+- Grant release for Van Mahotsav (24068551) for the year 2023-24\
+  [202403311436300819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311436300819.pdf)
+
+- Requisition No. C-07 2406- Forestry and Wildlife, Deputy Director, Social Forestry Department (2406 8524) (Mandatory) Regarding redistribution of funds available under the heads 11- Domestic Travel Expenses 13- Office Expenses and 14- Leases and Taxes.\
+  [202403311316271719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311316271719.pdf)
+
+- Regarding disbursement of grant under Gramparisar and Adivasi Development Program (2406 1521) Scheme under State Plan Year 2023-24.\
+  [202403311305195519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311305195519.pdf)
+
+- Requisition No. C-07 2406- Forestry and Wildlife, 101, Forest Conservation, Development and Rehabilitation (01) Administration and Conservation (01) (02) Survey, Landfilling and Demarcation of Forests (2406 0102) (Compulsory) In the scheme 02- Labour Regarding making the savings amount of Rs.4.00 crores available in the budget through re-investment in the objective 02- Wages under the scheme Samupoyjan (Bamboo) (2406 0499) (Mandatory) from the Government Agency.\
+  [202403311320264219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311320264219.pdf)
+
+- Requisition No. C-07 2406- Regarding making available through re-appropriation under the scheme Requisition No. C-07-2406 2161 the funds saved in the budget under Village Area and Tribal Development Program (2406 1521).\
+  [202403311312028919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311312028919.....pdf)
+
+- Regarding approving the disbursement of funds for urgent works of Beed Chichghat, Sihora, Mathani and Babadev Upsa Irrigation Schemes under Pench Upsa Irrigation Project in Nagpur Division\
+  [202403311434017819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311434017819.pdf)
+
+- Requisition No. C-07 2406- Forestry and Wildlife, Deputy Director, Social Forestry Department (2406 0096) (Mandatory) Regarding redistribution of funds available under head 11-Domestic travel expenses under head 3-Overtime Allowance.\
+  [202403311656010619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311656010619.pdf)
+
+- Regarding release of funds for committed works of afforestation under Important Roads/Railways/Canals/Bilateral Tree Plantation  Block Plantation Scheme under Massive Afforestation Program (4406 0492) for the financial year 2023-24.\
+  [202403311702384919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311702384919.pdf)
+
 ## Miscellaneous
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\
   [202403271711180919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271711180919.pdf)
@@ -127,6 +154,9 @@
 
 - Regarding approval of payment of arrears of electricity dues of tap water supply schemes in drought-affected areas from scarcity fund.     Jalna Municipal Corporation.\
   [202403301540406119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301540406119.pdf)
+
+- Allotment of subsidy for the year 2023-24 under the State Level Scheduled Caste Sub Scheme to the Scheduled Caste beneficiaries of the villages under the Protected Forest Area for the promotion of Cooking Gas, Bio Gas, Subsidy for Dairy Animals and Encouragement for Conservation of Tree Plantation.\
+  [202403311700031319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311700031319.pdf)
 
 ## Personnel
 - Regarding making funds available to tenderers as per Govts strategy for mining, storage and sale of sand/sand through online system.\

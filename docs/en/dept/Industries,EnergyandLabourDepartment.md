@@ -103,6 +103,27 @@
 - Release of grant of Rs.100.00 crores for the year 2023-24 to MSEDCL for replacement of failed distribution transformer under Nirantar Veej Yojana.\
   [202403301718027610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301718027610.pdf)
 
+- Release of grant of Rs.25.00 crores for the year 2023-24 under Tribal Sub Plan to MSEDCL for various electrification works under Nandurbar and Nashik District.\
+  [202403301739494310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301739494310.pdf)
+
+- Release of Rs.250.00 Crores by reappropriation to MSEDCL for release of AG Pump connections of paid pending AG Pump applicants after dt.31.03.2018 of general category of Vidharbh and Marathwada region under AG Policy 2020 under HVDS.\
+  [202403301743341010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301743341010.pdf)
+
+- Subsidy distribution to Mahavitaran Company for subvention in electricity tariff to agricultural pump consumers under tribal application Year 2023-24 Requisition no. T-5 (Head of Account 28015614)\
+  [202403301739560610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301739560610.pdf)
+
+- Regarding Adjustment from Share Capital to loan of Mahagenco for the Year 2023-24\
+  [202403301739405810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301739405810.pdf)
+
+- Solar Power Project, Sakri for this project K. F. W. Regarding adjustment of Rs.35.8509 Crores of loan received from German Bank to Maha Nirmidhi Company Limited- FY 2023-24.\
+  [202403311502034510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311502034510.pdf)
+
+- In the year 2023-24 To make provision through reinvestment scheme demand no. K-11, Heading Capital Expenditure on 4801 Power Projects and Loans for 6801 Power Projects\
+  [202403311458234510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311458234510.pdf)
+
+- Subsidy Disbursement Demand No.N-3 (Head of Account 28015661) in the year 2023-24 for concession in electricity tariff to Scheduled Caste Agricultural Pump Consumer Beneficiaries under Special Component Program of Social Justice Department.\
+  [202403301740041110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301740041110.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of grant-in-aid for non-salary expenditure to Maharashtra State Khadi and Village Industries Board, Mumbai for the financial year 2023-24. (For May Dec-2023).\
   [202403271128218310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271128218310.pdf)

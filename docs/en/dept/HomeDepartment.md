@@ -43,6 +43,21 @@
 - May appointed as a project consultant to install CCTV cameras in police stations in the state. Regarding payment to PWC companies for work done from 20.9.2023 to 29.2.2024.\
   [202403301546435929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301546435929.pdf)
 
+- Regarding disbursement of funds for the thirty-third quarter installment of Pune as well as Pimpri-Chinchwad City CCTV Project.\
+  [202403311800595029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311800595029.pdf)
+
+- Regarding disbursement of funds for works under Mumbai CCTV Phase-II Project.\
+  [202403311804355029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311804355029.pdf)
+
+- Regarding disbursement of funds for installation of CCTV cameras in police stations in the state.\
+  [202403311807445129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311807445129.pdf)
+
+- Regarding disbursement of funds for installation of CCTV cameras in police stations in the state.\
+  [202403311327209329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311327209329.pdf)
+
+- May appointed as Mumbai City CCTV Project Consultant. Regarding payment of work done for the period October 2023 to February 2024 to PWC companies.\
+  [202403311320444229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311320444229.pdf)
+
 ## Miscellaneous
 - Regarding payment of remuneration of Additional Public Prosecutor,.\
   [202403261444264929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261444264929.pdf)
@@ -55,6 +70,9 @@
 
 - Regarding making available a fund of Rs.3,35,430/- through redistribution for payment of outstanding dues of the unit Mounted Police to the Mumbai Police Force.\
   [202403301624250829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403301624250829.pdf)
+
+- May appointed as Pune and Pimpri-Chinchwad City CCTV Project Consultant. Regarding payment to PwC Company for the work done for the period from 20.9.2023 to 29.2.2024.\
+  [202403311324234329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403311324234329.pdf)
 
 ## Personnel
 - At various establishments of the Police Department Regarding extension of temporary posts...\
