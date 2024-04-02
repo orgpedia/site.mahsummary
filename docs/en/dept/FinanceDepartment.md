@@ -1,14 +1,11 @@
 # Finance Department
 
-**Date Range**: 25 March 2024 - 30 March 2024
+**Date Range**: 01 April 2024 - 06 April 2024
 
 
-## Miscellaneous
-- Constitute committee for submitting memorandum to 16th Finance Commission from Maharashtra State.\
-  [202403261538457305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261538457305.pdf)
-
-- Disbursement of funds in the year 2023-24.\
-  [202403271824466605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271824466605.pdf)
+## Personnel
+- Maharashtra Appropriation (vote on Accounts) Act, 2024 Distribution of Funds\
+  [202404011504552205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011504552205.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

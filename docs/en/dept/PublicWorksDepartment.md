@@ -1,20 +1,11 @@
 # Public Works Department
 
-**Date Range**: 25 March 2024 - 30 March 2024
+**Date Range**: 01 April 2024 - 06 April 2024
 
 
 ## Personnel
-- Regarding extension of temporary posts in the office under Chief Engineer (National Highways), Navi Mumbai.\
-  [202403271532539118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271532539118.pdf)
-
-- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Chhatrapati Sambhajinagar.\
-  [202403271537128918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271537128918.pdf)
-
-- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Nanded.\
-  [202403281739025618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281739025618.pdf)
-
-- Regarding extension of temporary posts in the office under Chief Architect, State of Maharashtra, Mumbai, Superintending Engineer (Mechanical), Public Works Department, Navi Mumbai.\
-  [202403281735095518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281735095518.pdf)
+- Regarding bringing the Electrical Branch of the Public Works Department under the jurisdiction of the Regional Division of the Construction Branch.\
+  [202404011648248818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011648248818..pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

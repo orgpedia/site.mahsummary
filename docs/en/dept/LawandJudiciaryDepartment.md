@@ -1,17 +1,11 @@
 # Law and Judiciary Department
 
-**Date Range**: 25 March 2024 - 30 March 2024
+**Date Range**: 01 April 2024 - 06 April 2024
 
 
 ## Miscellaneous
-- Revised rate of Dearness Allowance to the Judicial Officers/Retired Judicial Officers in the sub ordinate Judiciary of the State of Maharashtra.\
-  [202403261219248012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261219248012.pdf)
-
-- Year 2023-24 Budget Grant Demand No. J-5, 7610- Govt                          Loans to Employees etc. - (201)(00)(01) Allocation of House Construction Advances\
-  [202403281516392812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281516392812.pdf)
-
-- Revision of Fees and Allowances payable to the Law Officers and Panel Counsels in the State of Maharashtra.\
-  [202403281701037612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281701037612.pdf)
+- Regarding implementation of system and procedure of Virtual Personal Deposit Account for speedy disbursement and control of Subsidy under Manodhairya Yojana-Government Supplemental Letter.\
+  [202404011243028912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011243028912.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
