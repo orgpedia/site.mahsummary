@@ -7,6 +7,9 @@
 - Regarding provision of Air Ambulance facility for Lok Sabha General Election- Gadchiroli Division.\
   [202404011308020429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011308020429.pdf)
 
+- Declaring Additional Commissioner of Police, Police Communication and Information Technology, Mumbai as Head of Regional Division and Deputy Commissioner of Police, Police Communication and Information Technology, South Division, Mumbai as Head of Office and Government Decision, Home Department, dated 15.07. .2000 regarding partial amendment.\
+  [202404021700053729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021700053729.pdf)
+
 ## Personnel
 - Continuation of 24 temporary posts at M.A.C.T. Nagpur.\
   [202404011750483629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011750483629.pdf)

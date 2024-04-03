@@ -1,14 +1,11 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 25 March 2024 - 30 March 2024
+**Date Range**: 01 April 2024 - 06 April 2024
 
 
-## Funds
-- Regarding provision of funds for construction of new godowns under NABARDs Rural Infrastructure Development Fund (RIDF). (Year 2023-24)\
-  [202403281529515106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281529515106.pdf)
-
-- Vehicle no. MH-04-AN-3225 (Bolero Jeep) regarding approval of repair cost of vehicle\
-  [202403281251197906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281251197906.pdf)
+## Personnel
+- Provisional seniority list showing the status of officers of the post of Deputy Commissioner (Supply), Group - A as on 1.1.2022, 1.1.2023 and 1.1.2024...\
+  [202404021127425706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021127425706.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
