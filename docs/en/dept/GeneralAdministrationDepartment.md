@@ -20,6 +20,12 @@
 - Regarding compliance of order of Bombay high court, Aurangabad Bench in writ petition no 6990/2023 Shri. Mallikarjun sutar v/s Government of Maharashtra and other\
   [202404011458467907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011458467907.pdf)
 
+- Regarding extension of limit of withdrawal on abstract contingency bills to meet contingency expenses for Lok Sabha General Election-2024.\
+  [202404031142165807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031142165807.pdf)
+
+- Post Promotion Training of Joint Secretary /Deputy Secretary (Group-A).\
+  [202404031505289107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031505289107....pdf)
+
 ## Personnel
 - Regarding approval of continuation of temporary posts on establishment of Directorate of Aviation from 01.03.2024 to 28.02.2025.\
   [202404011511158507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011511158507.pdf)

@@ -50,5 +50,17 @@
 - Superintending Engineer, Yavatmal Irrigation Project Board, 3 Divisions and sub-divisions under Yavatmal on fixed temporary establishment and converted temporary establishment posts dt. Regarding sanctioning continuation from 01.03.2024 to 31.08.2024.\
   [202404021454041427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021454041427.pdf)
 
+- Regarding extension of tenure of posts on fixed temporary and converted temporary establishment in 2 divisions and 11 sub-divisions under Superintending Engineer, Nagpur Irrigation Board, Nagpur from 01.03.2024 to 31.08.2024.\
+  [202404031528510527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031528510527.pdf)
+
+- Beneficiary Development Authority, Nagpur and under this Authority Executive Engineer, Irrigation Project Division, Nagpur for fixed temporary and converted temporary establishment posts dt. Regarding extension of time from 01.03.2024 to 31.08.2024\
+  [202404031524288327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031524288327.pdf)
+
+- 4 Divisions and 19 Sub-Divisions under Superintending Engineer, Gosikhurd Upsa Irrigation Board, Ambadi (Bhandara) on fixed temporary establishment and converted temporary establishment posts of this office dt. 01.03.2024 to dt. Regarding extension till 31.08.2024.\
+  [202404031525056627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031525056627.pdf)
+
+- Regarding extension of fixed temporary and converted temporary posts in Palkhed and Mula Irrigation Divisional Office under Superintendent Engineer and Administrator, Benefit Area Development Authority, Nashik for the period from 01/03/2024 to 31/08/2024...\
+  [202404031443599327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031443599327.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

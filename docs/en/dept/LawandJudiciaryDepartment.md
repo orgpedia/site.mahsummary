@@ -13,5 +13,11 @@
 - Regarding outsourcing the services of 10 additional employees such as Clerk cum Typist-5 and peon-5 for the office of Government Advocate, High Court, Bench, Aurangabad.\
   [202404021614474812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021614474812.pdf)
 
+- Constitution  of promotion committee for promotion of Group C and Group D  employees in the Sherrif ( Nagarpal) of the  Mumbai office\
+  [202404031730417712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031730417712.pdf)
+
+- Constitution of committee to revise the staffing pattern of the 13 Government Pleader offices which are under the administrative control of the Law and Judiciary Department, Desk-8\
+  [202404031605066612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031605066612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
