@@ -16,5 +16,11 @@
 - provisional seniority list of Deputy controller (Gazetted, Group B) cadre as on 1 January, 2024\
   [202404031622066706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031622066706.pdf)
 
+- Regarding publication of provisional seniority list dated 01.01.2024 in the cadre of Manager Group B (Gazetted) in State Consumer Grievance Redressal Commission\
+  [202404041537531806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041537531806.pdf)
+
+- Regarding publication of provisional seniority list dated 01.01.2023 in the cadre of Manager Group B (Gazetted) in State Consumer Grievance Redressal Commission\
+  [202404041531124206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041531124206.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

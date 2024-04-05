@@ -3,6 +3,10 @@
 **Date Range**: 01 April 2024 - 06 April 2024
 
 
+## Miscellaneous
+- Regarding the declaration of Coordinating Officer for effective implementation of schemes through Maharashtra Research, Development and Training Prabodhini (Amrit), Pune..\
+  [202404041623400119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041623400119.pdf)
+
 ## Personnel
 - Land Acquisition Establishment - Pune Division Regarding extension of temporary teams of Special Land Acquisition Officers from 01.03.2024 to 31.08.2024\
   [202404021655379519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021655379519.pdf)
@@ -21,6 +25,15 @@
 
 - Land Acquisition Establishment - Konkan Division regarding extension of temporary teams of Special Land Acquisition Officers from 01.03.2024 to 31.08.2024.\
   [202404021813590219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021813590219.pdf)
+
+- Rehabilitation Institution Pune Division, Pune. Regarding extension of temporary posts created for rehabilitation of affected project victims due to water resource projects.\
+  [202404041106077619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041106077619.pdf)
+
+- Regarding approval for grant of extension for the period between 01.03.2024 to 31.08.2024 to 13 temporary posts of Land Acquisition, Rehabilitation and Resettlement  Authority , Nagpur.\
+  [202404041202525719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041202525719.pdf)
+
+- Regarding approval for grant of extension for the period between 01.03.2024 to 31.08.2024 to 13 temporary posts of Land Acquisition, Rehabilitation and Resettlement  Authority, Aurangabad.\
+  [202404041158253919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041158253919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
