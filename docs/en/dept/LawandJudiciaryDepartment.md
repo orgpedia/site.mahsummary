@@ -19,5 +19,8 @@
 - Constitution of committee to revise the staffing pattern of the 13 Government Pleader offices which are under the administrative control of the Law and Judiciary Department, Desk-8\
   [202404031605066612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031605066612.pdf)
 
+- To outsource the services of vacant posts of Steno Typist-1 and Clerk-Typist-13 for the office of Government pleader , High Court, Original side, Mumbai for a period of 1 year or till the said posts are filled, whichever is earlier.\
+  [202404051628502112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404051628502112.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

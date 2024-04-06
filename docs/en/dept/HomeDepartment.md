@@ -3,6 +3,10 @@
 **Date Range**: 01 April 2024 - 06 April 2024
 
 
+## Funds
+- Financial Rights Manual, 1978 Part-II - Home Department Govt. Decision for payment of food, insurance and incidental expenses of dog squads of State Police Force including Mumbai and bomb detection and disposal teams. Awarded vide 27/09/2013 Rs. 1.00 lakh/ per annum by raising the financial limit to Rs. 2.00 lakhs/per annum.\
+  [202404051814042229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404051814042229.pdf)
+
 ## Miscellaneous
 - Regarding provision of Air Ambulance facility for Lok Sabha General Election- Gadchiroli Division.\
   [202404011308020429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404011308020429.pdf)
