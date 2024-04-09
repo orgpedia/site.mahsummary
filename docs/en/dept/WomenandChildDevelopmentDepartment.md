@@ -1,11 +1,11 @@
 # Women and Child Development Department
 
-**Date Range**: 01 April 2024 - 06 April 2024
+**Date Range**: 08 April 2024 - 13 April 2024
 
 
 ## Miscellaneous
-- Grant release to NGOs working in the years 2016-17, 2017-18 and 2018-19 under the Centrally Sponsored Swadhar scheme.\
-  [202404051354223030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404051354223030.pdf)
+- Nodal Officer and Single Coordination Mechanism for Fund Distribution and Appropriation Management (PFMS) of Centrally Sponsored Schemes Regarding appointment of Nodal Officer and Single Nodal Agency for Fund Distribution and Appropriation Management (PFMS) of Centrally Sponsored Schemes.\
+  [202404081245127430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081245127430.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

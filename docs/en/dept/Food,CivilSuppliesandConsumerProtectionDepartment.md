@@ -1,26 +1,21 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 01 April 2024 - 06 April 2024
+**Date Range**: 08 April 2024 - 13 April 2024
 
+
+## Miscellaneous
+- Final Seniority List showing position of Assistant Controller Ration, Group - B Officers as on 01.01.2024...\
+  [202404081423190906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081423190906.pdf)
+
+- Final seniority list showing the position of officers working in the post of Assistant District Supply Officer, Group - B cadre as on 1.1.2024...\
+  [202404081424457206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081424457206.pdf)
 
 ## Personnel
-- Provisional seniority list showing the status of officers of the post of Deputy Commissioner (Supply), Group - A as on 1.1.2022, 1.1.2023 and 1.1.2024...\
-  [202404021127425706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404021127425706.pdf)
+- Provisional seniority list showing the position of officers in the post of Technical Officer, Group - B as on 01.01.2024...\
+  [202404081426357106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081426357106.pdf)
 
-- provisional seniority list of Joint controller (Gazetted, Group A) cadre as on 1 January, 2024\
-  [202404031624403006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031624403006.pdf)
-
-- provisional seniority list of Assistant controller (Gazetted, Group B) cadre as on 1 January, 2024\
-  [202404031627256706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031627256706.pdf)
-
-- provisional seniority list of Deputy controller (Gazetted, Group B) cadre as on 1 January, 2024\
-  [202404031622066706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404031622066706.pdf)
-
-- Regarding publication of provisional seniority list dated 01.01.2024 in the cadre of Manager Group B (Gazetted) in State Consumer Grievance Redressal Commission\
-  [202404041537531806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041537531806.pdf)
-
-- Regarding publication of provisional seniority list dated 01.01.2023 in the cadre of Manager Group B (Gazetted) in State Consumer Grievance Redressal Commission\
-  [202404041531124206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404041531124206.pdf)
+- Provisional seniority list showing position of Deputy Controller Ration, Group - A Officers as on 01.01.2024...\
+  [202404081421217306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081421217306.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
