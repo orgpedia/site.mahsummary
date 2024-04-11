@@ -17,5 +17,8 @@
 - Provisional seniority list showing position of Deputy Controller Ration, Group - A Officers as on 01.01.2024...\
   [202404081421217306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081421217306.pdf)
 
+- To Saction extension to 175 temporary post of the Legal metrology organization for the period between 1 march, 2024 to 31 August,2024\
+  [202404101813448506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404101813448506.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

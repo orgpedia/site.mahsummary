@@ -3,6 +3,10 @@
 **Date Range**: 08 April 2024 - 13 April 2024
 
 
+## Miscellaneous
+- Regarding the extension of the MoU with the insurance company selected for the existing combined Mahatma Jyotirao Phule Jan Arogya Yojana and Pradhan Mantri Jan Arogya Yojana\
+  [202404101527190917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404101527190917.pdf)
+
 ## Personnel
 - Regarding the extension of 442 temporary posts working under the Immunization/Scientific Program for the period from 01/03/2024 to 31/08/2024.\
   [202403271252134717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271252134717.pdf)
