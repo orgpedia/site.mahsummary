@@ -17,5 +17,8 @@
 - Regarding extension of 227 temporary posts sanctioned under Reproductive and Child Health Program for the period from 01/03/2024 to 31/08/2024.\
   [202403271252188417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271252188417.pdf)
 
+- Regarding extension of 190 temporary posts sanctioned under Family Welfare Program for the period from 01/03/2024 to 31/08/2024\
+  [202404121349292717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404121349292717.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
