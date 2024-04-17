@@ -1,24 +1,17 @@
 # Public Health Department
 
-**Date Range**: 08 April 2024 - 13 April 2024
+**Date Range**: 15 April 2024 - 20 April 2024
 
-
-## Miscellaneous
-- Regarding the extension of the MoU with the insurance company selected for the existing combined Mahatma Jyotirao Phule Jan Arogya Yojana and Pradhan Mantri Jan Arogya Yojana\
-  [202404101527190917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404101527190917.pdf)
 
 ## Personnel
-- Regarding the extension of 442 temporary posts working under the Immunization/Scientific Program for the period from 01/03/2024 to 31/08/2024.\
-  [202403271252134717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271252134717.pdf)
+- Regarding extension of One temporary post of Driver in the office of Divisional                                   Assistant Director, Family Welfare, Mother and Child Care, Pune dated.                                   01/03/2024 to dated. 31/08/2024.\
+  [202404121349394817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404121349394817.pdf)
 
-- Regarding continuation of 9405 temporary posts sanctioned under Family Welfare Program Scheme\
-  [202403271252068417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271252068417.pdf)
+- Regarding extension of 52 temporary posts in the establishment of State Health                                   Information and Vital Statistics Office dated.01/03/2024 to dated.31/08/2024.\
+  [202404121349476217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404121349476217.pdf)
 
-- Regarding extension of 227 temporary posts sanctioned under Reproductive and Child Health Program for the period from 01/03/2024 to 31/08/2024.\
-  [202403271252188417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403271252188417.pdf)
-
-- Regarding extension of 190 temporary posts sanctioned under Family Welfare Program for the period from 01/03/2024 to 31/08/2024\
-  [202404121349292717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404121349292717.pdf)
+- Regarding extension of 37 temporary posts created for implementation of                                    family welfare program for the period dated. 01/03/2024 to dated. 31/08/2024.\
+  [202404121350048017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404121350048017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

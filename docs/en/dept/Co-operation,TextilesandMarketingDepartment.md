@@ -1,11 +1,11 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 08 April 2024 - 13 April 2024
+**Date Range**: 15 April 2024 - 20 April 2024
 
 
-## Miscellaneous
-- Jaikisan Vegetable and Fruit Production Farmers Cooperative Society Marya. Regarding the opening of a new account for payment of dues to the Government from the proceeds of the sale of the assets of the institution as the Aurangabad institution went into liquidation.\
-  [202404081249037002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404081249037002.pdf)
+## Personnel
+- District Special Auditor Class-1, Co-operative Societies, Pune and seven related offices under this office Pune Mahanagar Transport Mahamandal Ltd. Regarding giving administrative and financial approval to relocate to the new premises in Pune and pay rent for the premises.\
+  [202404161135156102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404161135156102.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
