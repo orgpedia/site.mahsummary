@@ -13,5 +13,8 @@
 - Regarding extension of 37 temporary posts created for implementation of                                    family welfare program for the period dated. 01/03/2024 to dated. 31/08/2024.\
   [202404121350048017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404121350048017.pdf)
 
+- Regarding continuation of 1355 temporary posts under Deputy Director Health Services, Nagpur Board, Nagpur.\
+  [202403261202234517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403261202234517.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

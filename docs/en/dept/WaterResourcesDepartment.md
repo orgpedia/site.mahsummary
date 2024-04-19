@@ -31,5 +31,11 @@
 - Superintending Engineer, Buldhana Irrigation Project Board, Buldhana under the Board Office, Executive Engineer, Buldhana Irrigation Department, Buldhana and Executive Engineer, Washim Irrigation Department, Washim (Construction) on fixed temporary and converted temporary establishment posts in the Divisional Office from 01.03.2024 to Regarding getting extension for the period dated 31.08.2024.\
   [202404161801464927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404161801464927....pdf)
 
+- Superintending Engineer, Jigaon Project Irrigation Board, Shegaon and Minor Irrigation Department Karanja (Construction) and the posts on fixed temporary and converted temporary establishment in sub-divisions under his authority. 01.03.2024 to dt. Regarding extension upto 31.08.2024.\
+  [202404181147127027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181147127027....pdf)
+
+- Regarding publication of the final seniority list for the period of 01.01.2017 to 31.12.2022 of the cadre of Junior Engineer (Civil) in Water Resources Department.\
+  [202404181648251827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181648251827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
