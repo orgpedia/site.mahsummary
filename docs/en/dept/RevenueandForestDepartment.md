@@ -20,6 +20,9 @@
 - Minor Minerals-Kolhapur Mauje Bhadoli for the year 2014-15, Hatkanangle, Dist. Regarding recovery of proportionate amount of unexcavated sand from Group No. 833 to 843 at Kolhapur. Mr. More Babanrao Damame.\
   [202404181201063419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181201063419.pdf)
 
+- To open personal ledger account (PLA) for newly opened Joint District Registrar Class-1 and Collector of Stamps, Palghar\
+  [202404191724010119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191724010119.pdf)
+
 ## Personnel
 - Proforma Promotion of Indian Forest Service officer\
   [202404161200277019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404161200277019.pdf)

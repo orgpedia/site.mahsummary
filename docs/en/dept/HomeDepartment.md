@@ -7,6 +7,15 @@
 - Establishment of a State Level Monitoring Committee for all the matters related to prison.\
   [202404181833217829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181833217829.pdf)
 
+- Regarding promotion to the Junior Administrative Grade of Indian Police Service.\
+  [202404191922115029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191922115029.pdf)
+
+- Regarding the approval of the renewal of the agreement for leased premises for State Police Complaints Authority at MTNL Cooperage Exchange Building, Mumbai.\
+  [202404191219343229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191219343229.pdf)
+
+- Regarding fixation of revised rates for protection charges and recovery of cost of police protection provided to persons / institutions as per threat perception.\
+  [202404191619029329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191619029329.........pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list of officers in the cadre of Deputy Superintendent, Central Jails/ Superintendent, District Jails Class-2 dated 01.01.2024\
   [202404181137563829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181137563829.pdf)

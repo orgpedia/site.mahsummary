@@ -32,6 +32,27 @@
 - Fixation of pay for the post of State Information Commissioner- Shri. Shekhar Manohar Channe, State Information Commissioner, Konkan Bench\
   [202404181542240907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181542240907.pdf)
 
+- Regarding the implementation of Socially and Educationally Backward Classes Act 2024 in Maharashtra State..\
+  [202404191715092207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191715092207.pdf)
+
+- Post-promotion training-nomination of Joint Secretary /Deputy Secretary (Group-A)\
+  [202404191110592007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191110592007.pdf)
+
+- Regarding Election allowance to be paid to the officers/employees appointed for Polling/Counting work during General/ Bye-elections to Lok Sabha/Vidhan Sabha.\
+  [202404191251029307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191251029307.pdf)
+
+- Guidelines for disposal of e-mails received by government officials\
+  [202404191705145407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191705145407.pdf)
+
+- Posting- Mrs. S. K. Kanaviya, Senior Personal Assistant\
+  [202404191804456707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191804456707.pdf)
+
+- Regarding extension of deputation of Smt S. K. Kanaviya, Senior Personal Assistant.\
+  [202404191808055707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191808055707.pdf)
+
+- Post-promotion training-nomination of Joint Secretary /Deputy Secretary (Group-A) regarding omission\
+  [202404191106416607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191106416607.pdf)
+
 ## Personnel
 - Regarding upgradation and conversion of 1 post in the cadre of Cell Officer in the Office of the Chief Electoral Officer to the post of Assistant Director (Accounts) on a temporary basis.\
   [202404161215581507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404161215581507.pdf)

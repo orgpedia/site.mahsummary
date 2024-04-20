@@ -37,5 +37,8 @@
 - Regarding publication of the final seniority list for the period of 01.01.2017 to 31.12.2022 of the cadre of Junior Engineer (Civil) in Water Resources Department.\
   [202404181648251827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181648251827.pdf)
 
+- Continuation of temporary posts on the establishment of office of the Superintending Engineer, Irrigation Project Investigation Circle, Nagpur for the period of 01.03.2024 to 31.08.2024\
+  [202404191425148827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404191425148827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
