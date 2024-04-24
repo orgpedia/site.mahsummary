@@ -10,5 +10,12 @@
 - Forest Land-Raigad Diversion of 0.0765 ha. Reserve Forest land under Van (Sanrakshan Evam Sanvardhan) Adhiniyam, 1980 in favour of M/s. Bharti Airtel Ltd., Pune for laying of underground Optical Fiber Cable along the Road in RoW of NH-66 from Panvel to Pen Road in Raigad District in the State of Maharashtra.\
   [202404221755055619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404221755055619.pdf)
 
+## Personnel
+- Posting of IFS Probationers of 2022 Course for on Job Training (OJT).\
+  [202404231033134219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231033134219....pdf)
+
+- Rehabilitation Establishment Ch. Sambhajinagar Division Regarding the extension of the approved temporary posts in Ch.Sambhajinagar Division created for the rehabilitation work of Project IDPs from 01/03/2024 to 31/08/2024.\
+  [202404231529497319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231529497319.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

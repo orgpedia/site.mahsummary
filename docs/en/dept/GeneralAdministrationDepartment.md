@@ -10,5 +10,9 @@
 - Regarding Formation of Study Group for changes /improvements in Combined Probationary Training Programme (CPTP)\
   [202404221146101607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404221146101607.pdf)
 
+## Personnel
+- Regarding acquired of services for the functioning of Pay Errors Redressal Committee, 2024\
+  [202404231640453507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231640453507.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
