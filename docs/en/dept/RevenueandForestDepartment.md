@@ -17,5 +17,8 @@
 - Rehabilitation Establishment Ch. Sambhajinagar Division Regarding the extension of the approved temporary posts in Ch.Sambhajinagar Division created for the rehabilitation work of Project IDPs from 01/03/2024 to 31/08/2024.\
   [202404231529497319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231529497319.pdf)
 
+- Regarding   approval for granting extension for the period between 01.03.2024 to 31.08.2024 for 51 ad hoc posts on the establishment of  Office of Divisional Commissioner, Amravati and establishment of  Rehabilitation and Land Acquisition at District level in Amravati Revenue Division.\
+  [202404241645475519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241645475519.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
