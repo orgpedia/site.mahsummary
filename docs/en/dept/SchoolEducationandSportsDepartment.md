@@ -10,5 +10,9 @@
 - Regarding disbursement of remaining funds of Centrally Sponsored Samagra Shiksha (Primary Education, Secondary Education and Teacher Education) Sub-Yojana. (State share).\
   [202404241553525421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241553525421.pdf)
 
+## Miscellaneous
+- Completion of probation period of officer working on the post of Lecturer in Maharashtra Education Service (Education Empowerment Branch) Group-B.\
+  [202404251526077021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404251526077021.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

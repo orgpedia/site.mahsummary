@@ -20,5 +20,9 @@
 - Opening of Personal Deposit Account for the Court of Civil Judge Senior Division, Madha, Dist. Solapur\
   [202404231127147712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231127147712.pdf)
 
+## Personnel
+- Regarding extension of appointment to the post of Supernumerary Clerk-Typist in Group-C Cadre created on the establishment of Registrar of Partnership Firm, State of Maharashtra, Mumbai.\
+  [202404251540047112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404251540047112.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

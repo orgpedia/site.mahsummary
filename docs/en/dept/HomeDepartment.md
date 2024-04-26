@@ -11,5 +11,9 @@
 - Administrative Approval for the construction of 247 new Type-II Government Residences for Jail Officers/Employees in Thane Central Jail Complex\
   [202404241524097529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241524097529.pdf)
 
+## Personnel
+- Office Order of Visha-3(a) Board regarding three levels of presentation.\
+  [202404251105071029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404251105071029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

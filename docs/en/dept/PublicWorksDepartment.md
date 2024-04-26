@@ -10,5 +10,8 @@
 - Regarding the extension of the supernumerary post created for the employees working in the office under Chief Engineer, Public Works Regional Department, Pune.\
   [202404241654092218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241654092218.pdf)
 
+- Corrigendum in the final seniority list dated 01.01.2022 and dated 01.01.2023 of the cadre of Chief Engineer (Civil) in Public Works Department.\
+  [202404251753427218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404251753427218....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

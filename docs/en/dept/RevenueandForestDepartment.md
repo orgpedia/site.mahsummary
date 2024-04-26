@@ -20,5 +20,8 @@
 - Regarding   approval for granting extension for the period between 01.03.2024 to 31.08.2024 for 51 ad hoc posts on the establishment of  Office of Divisional Commissioner, Amravati and establishment of  Rehabilitation and Land Acquisition at District level in Amravati Revenue Division.\
   [202404241645475519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241645475519.pdf)
 
+- Renaming the post of Divisional Forest Officer (Planning) as Divisional Forest Officer, Land Records (Eastern Region), Nagpur and renaming the post of Conservator of Forests, Land Records (Eastern Region), Nagpur as Divisional Forest Officer, Land Records (Eastern Region), Nagpur East Pradesh), Nagpur regarding changing the same.\
+  [202404251114066619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404251114066619.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
