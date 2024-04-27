@@ -39,5 +39,8 @@
 - Regarding the continuation of 1050 temporary posts in 350 Taluka Health Officer offices in the state.\
   [202404241126299717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241126299717.pdf)
 
+- Regarding extension of 08 temporary posts in newly created Trauma Care Unit, Nawapur, Dist.Nandurbar\
+  [202404241126368017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241126368017.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

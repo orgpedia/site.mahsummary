@@ -11,6 +11,9 @@
 - Administrative Approval for the construction of 247 new Type-II Government Residences for Jail Officers/Employees in Thane Central Jail Complex\
   [202404241524097529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241524097529.pdf)
 
+- Regarding the reinstatement of Shri.Tanaji Dilip Barde, (suspended) Sub-Divisional Police Officer in Government service.\
+  [202404261737368329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404261737368329.pdf)
+
 ## Personnel
 - Office Order of Visha-3(a) Board regarding three levels of presentation.\
   [202404251105071029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404251105071029.pdf)
