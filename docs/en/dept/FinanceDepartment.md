@@ -1,15 +1,11 @@
 # Finance Department
 
-**Date Range**: 22 April 2024 - 27 April 2024
+**Date Range**: 29 April 2024 - 04 May 2024
 
 
-## Funds
-- Regarding the Government guaranteeing the amount of loan and interest thereon raised by the Maharashtra State Vidyut Vitratan Company, Limited from various financial institutions to pay the outstanding dues of the Mahanirti and Mahapareshan companies to the Mahavitran Company.\
-  [202404231207138505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231207138505.pdf)
-
-## Miscellaneous
-- Redressal of Wage Errors Committee regarding fixation of remuneration of the Chairman of 2024.\
-  [202404261718524005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404261718524005.pdf)
+## Personnel
+- Procedure to be followed in application of Maharashtra Civil Service (Pension) Rules 1982 to Government employees who joined government service on or after 1.11.2005 in case of advertisement before 1.11.2005\
+  [202405021426122405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021426122405.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
