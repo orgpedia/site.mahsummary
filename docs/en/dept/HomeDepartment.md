@@ -15,5 +15,11 @@
 - Office Order of Bud-2,  Board regarding three levels of presentation.\
   [202404301522177529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404301522177529.pdf)
 
+- Regarding transfers/posting of S.P.S. officers.\
+  [202405031715430429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031715430429.pdf)
+
+- Regarding transfers/posting of S.P.S. officers.\
+  [202405031712301729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031712301729.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

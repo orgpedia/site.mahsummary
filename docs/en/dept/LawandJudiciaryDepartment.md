@@ -10,5 +10,8 @@
 - Declaring Civil Judge senior Division,Karjat, District  Ahmednagar as Drawing and Disbursing officer.\
   [202404291633282112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291633282112.pdf)
 
+- Declaration of Drawing and Disbursing Officer for the office of the Government Pleader, Supreme Court, New Delhi\
+  [202405031559459612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031559459612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

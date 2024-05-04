@@ -27,5 +27,11 @@
 - regarding extension of 84 temporary posts in Taluka Health Officer office of District Health Officer, Zilla Parishad Thane/Alibag-Raigad/Palghar...\
   [202405021429571517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021429571517.pdf)
 
+- Regarding extension of 137 temporary posts of Medical Officers in Primary Health Center under Deputy Director, Health Services, Kolhapur Board, Kolhapur.\
+  [202404291227007317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291227007317.pdf)
+
+- Regarding extension of temporary posts in Health Institutions under Deputy Director, Health Services, Latur Board, Latur.\
+  [202404291227096617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291227096617.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

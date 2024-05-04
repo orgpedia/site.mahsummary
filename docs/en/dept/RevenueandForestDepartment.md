@@ -10,6 +10,9 @@
 - Regarding disbursement of funds for immediate assistance to the heirs of farmers who have committed suicide in the case of farmer suicide (Mandatory) (Datum)\
   [202405021646313119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021646313119.pdf)
 
+- Regarding release of funds for pre-monsoon works to be carried out under convergence (Top-up Model) under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
+  [202405031821404119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031821404119.pdf)
+
 ## Miscellaneous
 - Mauje Devalali, Dist. Regarding disbursement of funds for payment of increased compensation under section 18 of the Land Acquisition Act, 1894 for the new township at Osmanabad.\
   [202404291250033019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291250033019.pdf)
@@ -19,6 +22,9 @@
 
 - Regarding the Departmental inquiry cases  of  Group-A and Group-B (Gazetted) Cadre Officers in the Land Records Department\
   [202405021726391219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021726391219.pdf)
+
+- Regarding appointing a study group of experts in the department for business process re-engineering of notified services under the revenue department.\
+  [202405031654343419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031654343419.pdf)
 
 ## Personnel
 - Regarding creation of supernumerary posts. Mr. Vijay Dattu Puri, Forester.\
