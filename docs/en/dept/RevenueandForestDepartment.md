@@ -1,34 +1,22 @@
 # Revenue and Forest Department
 
-**Date Range**: 29 April 2024 - 04 May 2024
+**Date Range**: 06 May 2024 - 11 May 2024
 
 
 ## Funds
-- Mauje Palaswada, Warood Distt. Regarding the disbursement of funds for payment of increased compensation under Section 18 of the Land Acquisition Act, 1894 for the new township at Amravati.\
-  [202404291246556119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291246556119.pdf)
-
-- Regarding disbursement of funds for immediate assistance to the heirs of farmers who have committed suicide in the case of farmer suicide (Mandatory) (Datum)\
-  [202405021646313119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021646313119.pdf)
-
-- Regarding release of funds for pre-monsoon works to be carried out under convergence (Top-up Model) under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
-  [202405031821404119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031821404119.pdf)
+- Establishment of Maharashtra Bamboo Development Board under State Scheme 2024-25 (2406-A185) Regarding disbursement of funds for Maharashtra Bamboo Development Board.\
+  [202405061520145819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061520145819.pdf)
 
 ## Miscellaneous
-- Mauje Devalali, Dist. Regarding disbursement of funds for payment of increased compensation under section 18 of the Land Acquisition Act, 1894 for the new township at Osmanabad.\
-  [202404291250033019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291250033019.pdf)
-
-- Year 2024-25 Chandrapur Forest Administration, Development and Management to Prabodhini, Chandrapur (2415-1077) regarding disbursement of funds for 36-Assistant Grants (Salaries) under the scheme.\
-  [202405021708519719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021708519719.pdf)
-
-- Regarding the Departmental inquiry cases  of  Group-A and Group-B (Gazetted) Cadre Officers in the Land Records Department\
-  [202405021726391219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021726391219.pdf)
-
-- Regarding appointing a study group of experts in the department for business process re-engineering of notified services under the revenue department.\
-  [202405031654343419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405031654343419.pdf)
+- ONGOING MATTER PROPOSAL UNDER STATE PLAN YEAR 2024-25 Establishment of Maharashtra State Zoological Museum Authority (2406 A087).\
+  [202405061330022519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061330022519.pdf)
 
 ## Personnel
-- Regarding creation of supernumerary posts. Mr. Vijay Dattu Puri, Forester.\
-  [202405021154037819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405021154037819.pdf)
+- Land Acquisition Establishment - Konkan Division regarding extension of temporary teams of Special Land Acquisition Officers from 01.03.2024 to 31.08.2024.\
+  [202405061656404719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061656404719.pdf)
+
+- Regarding extension of 35 temporary posts in Land Acquisition Establishment in Konkan Division from 01.03.2024 to 31.08.2024.\
+  [202405061652555919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061652555919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
