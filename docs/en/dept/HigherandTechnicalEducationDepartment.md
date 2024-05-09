@@ -1,11 +1,15 @@
 # Higher and Technical Education Department
 
-**Date Range**: 22 April 2024 - 27 April 2024
+**Date Range**: 06 May 2024 - 11 May 2024
 
+
+## Miscellaneous
+- To create post of Director, knowledge resource centre in Punyashloka Ahilyadevi Holkar Solapur University.\
+  [202405081642534008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081642534008.pdf)
 
 ## Personnel
-- Regarding the extension of 11 months to the post of Clerk-Typist at Gokhale Institute of Political Science and Economics, Pune\
-  [202404261249377408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404261249377408.pdf)
+- Department of Higher and Technical Education, regarding continuation of temporary posts in ministerial (Proper) establishments.\
+  [202405081210109008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081210109008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

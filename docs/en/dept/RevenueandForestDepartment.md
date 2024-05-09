@@ -13,6 +13,9 @@
 - supplying temporary shelter centers (Tents) to Public Health Department. Regarding payment of Life Line Security and System.\
   [202405071158550119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405071158550119....pdf)
 
+- Regarding disbursement of funds under Kundal Development, Administration and Management Prabodhini (Forest) Kundal (Programme) (2415-1068) Scheme for the year 2024-25.\
+  [202405081203472019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081203472019.pdf)
+
 ## Miscellaneous
 - ONGOING MATTER PROPOSAL UNDER STATE PLAN YEAR 2024-25 Establishment of Maharashtra State Zoological Museum Authority (2406 A087).\
   [202405061330022519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061330022519.pdf)
@@ -26,6 +29,12 @@
 
 - Land Acquisition Establishment: Regarding extension of 3 temporary posts in the adjudication branch in the office of the Divisional Commissioner, Konkan Division from 01.03.2024 to 31.08.2024.\
   [202405071603116819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405071603116819.pdf)
+
+- 18 of the Land Acquisition Act, 1894 regarding the extension beyond 01.03.2024 of 38 temporary posts in 14 teams of assessors created to assist the Public Prosecutor in land acquisition contexts.\
+  [202405081459064219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081459064219.pdf)
+
+- Regarding extension of 91 temporary posts in Land Acquisition Establishment in Chhatrapati Sambhajinagar Division from 01.03.2024 to 31.08.2024.\
+  [202405081504002119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081504002119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
