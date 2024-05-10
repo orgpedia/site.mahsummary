@@ -30,5 +30,8 @@
 - Regarding approving as a special matter the proposal for special amendment of tap schemes in 10 villages of Jalkot, Latur and Ahmedpur talukas of Latur district under drinking water\
   [202405081102593828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081102593828.pdf)
 
+- Mulshi under tanchai in 2023-2024, Ta. Administrative approval for special amendment of Regional Tap Water Supply Scheme at Mulshi.\
+  [202405091705311128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091705311128.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
