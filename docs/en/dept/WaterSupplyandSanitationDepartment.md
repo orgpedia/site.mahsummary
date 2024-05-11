@@ -14,6 +14,24 @@
 - Regarding disbursement of funds with revised administrative approval for the cost of supplying water by tanker for the 350th coronation ceremony of Chhatrapati Shivaji Maharaj.\
   [202405061808398028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061808398028.pdf)
 
+- Provisional Final Seniority List of Assistant chemist Group-B Cadre in Groundwater Surveys and Development Agency Dated 01.01.2024\
+  [202405101138485628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101138485628.pdf)
+
+- Budget Grant 2024-2025 Requisition No. Y-04, 2702 Minor Irrigation Ground Water Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
+  [202405101139092328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101139092328.pdf)
+
+- Mulshi under tanchai in 2023-2024, Ta. Administrative approval for special amendment of Regional Tap Water Supply Scheme at Mulshi.\
+  [202405101731091328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101731091328.pdf)
+
+- Provisional Final Seniority List of Assistant Geophysicist Group-B Cadre in Groundwater Surveys and Development Agency Dated 01.01.2024\
+  [202405101138262428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101138262428.pdf)
+
+- Provisional Final Seniority List of Assistant Administrative Officer Group-B Cadre in Groundwater Surveys and Development Agency Dated 01.01.2024\
+  [202405101138563628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101138563628.pdf)
+
+- Budget grant 2023-2024 Demand Number Y-06, 4402 capital expenditure on soil and water conservation (non-plan) (4402 1148)\
+  [202405101139152628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101139152628.pdf)
+
 ## Personnel
 - Year 2023-24 under shortage Mauje Devani taluka of Latur district. Regarding giving administrative approval to the temporary water supply scheme here..\
   [202405081102521328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081102521328...pdf)
@@ -32,6 +50,9 @@
 
 - Mulshi under tanchai in 2023-2024, Ta. Administrative approval for special amendment of Regional Tap Water Supply Scheme at Mulshi.\
   [202405091705311128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091705311128.pdf)
+
+- Provisional Final Seniority List of Deputy Director Group-A Cadre in Groundwater Surveys and Development Agency Dated 01.01.2024.\
+  [202405101138192428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101138192428.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 06 May 2024 - 11 May 2024
 
 
+## Funds
+- Regarding disbursement of Rs.350 Crores to Maharashtra State Road Transport Corporation as reimbursement of discounted price for March, 2024\
+  [202405101735343029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101735343029.pdf)
+
 ## Miscellaneous
 - Suspension of Shri. Chandrakant Paraskar, Assistant Commandant, SRPF, Group 6, Dhule\
   [202405091633076829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091633076829.pdf)

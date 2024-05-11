@@ -11,5 +11,8 @@
 - Regarding establishment of Special Assistance Cell for providing reserved beds in charitable hospitals to patients belonging to Indigent and weaker sections in a transparent manner.\
   [202405091710326612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091710326612.pdf)
 
+- Legislation Internship Programme Order for Law Students.\
+  [202405101658402812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101658402812...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

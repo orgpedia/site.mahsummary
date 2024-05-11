@@ -17,5 +17,8 @@
 - Regarding obtaining administrative sanction for payment. Of the office of Deputy Divisional Agriculture Officer, Akola Subordinate District Fruit Nursery, Sirso, Tt. Murtijapur     Dist. Account Heading of Akola Office in the year 2020-21    2401 1722 under the heading (21) Materials and supplies under Pending of Rs.88,500/- purchased\
   [202405071143293601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405071143293601.pdf)
 
+- Final Seniority list as on 01.01.2024-Senior Administrative Officer, Group-A\
+  [202405101133287801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101133287801.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

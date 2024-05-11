@@ -13,5 +13,8 @@
 - Disbursement of funds for the financial year 2024-25 for General Entities under the Integrated Child Development Service Scheme\
   [202405081101379730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081101379730.pdf)
 
+- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2024-25\
+  [202405101201192430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101201192430.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

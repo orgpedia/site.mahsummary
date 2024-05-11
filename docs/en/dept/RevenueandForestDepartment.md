@@ -19,6 +19,9 @@
 - Development of nature tourism site for the year 2024-25 (2406-2295) under the state scheme of Mau. Regarding disbursement of funds to meet the salary expenses of 6 temporary posts working at Mr. Chauranginath nature tourism site in Sonsal, Kadegaon Dist.Sangli.\
   [202405091439380819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091439380819.pdf)
 
+- Regarding release of funds for pre-monsoon works to be carried out under convergence (Top-up Model) under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
+  [202405101711522719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101711522719.pdf)
+
 ## Miscellaneous
 - ONGOING MATTER PROPOSAL UNDER STATE PLAN YEAR 2024-25 Establishment of Maharashtra State Zoological Museum Authority (2406 A087).\
   [202405061330022519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061330022519.pdf)
@@ -47,6 +50,9 @@
 
 - Regarding the creation of surplus posts for Group-C cadre employees in Revenue Sectoral Establishments appointed from Scheduled Tribes but whose Caste Validity Certificate has been invalidated..\
   [202405091645070919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091645070919.pdf)
+
+- Regarding extension of tenure of total 13 temporary posts in the office of Land Acquisition, Rehabilitation and Resettlement Authority, Nagpur from 01.03.2024 to 31.08.2024........\
+  [202405101153504119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101153504119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
