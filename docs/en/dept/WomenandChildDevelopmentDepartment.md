@@ -1,20 +1,11 @@
 # Women and Child Development Department
 
-**Date Range**: 06 May 2024 - 11 May 2024
+**Date Range**: 13 May 2024 - 18 May 2024
 
 
 ## Funds
-- Regarding disbursement of funds for Cenrally sponsored programs such as Saksham Anganwadis, Drinking water facilities and toilet construction for Anganwadi centers\
-  [202405081101443330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081101443330.pdf)
-
-- Regarding disbursement of funds for payment of honorarium of Anganwadi worker and Anganwadi Helper.\
-  [202405061710035230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405061710035230.pdf)
-
-- Disbursement of funds for the financial year 2024-25 for General Entities under the Integrated Child Development Service Scheme\
-  [202405081101379730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405081101379730.pdf)
-
-- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2024-25\
-  [202405101201192430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405101201192430.pdf)
+- To disburse of funds for expenditure on architectural work regarded renovation of Department of Women and Child Development (Self) and cabin of Honble Secretary from the object 13-Office expenses under the budget head (2251 0436)\
+  [202405131448295330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405131448295330.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
