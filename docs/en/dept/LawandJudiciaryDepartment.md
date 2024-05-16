@@ -3,6 +3,10 @@
 **Date Range**: 13 May 2024 - 18 May 2024
 
 
+## Funds
+- Year 2024-25 Budget Grant Demand No. J-5, General Accounts Head 7610, Loans to Government Servants, etc., under sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
+  [202405151700521912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405151700521912...pdf)
+
 ## Miscellaneous
 - Regarding approval of outsourcing the services of  7 additional Stenographers (L.G) for the office of Government Pleader, High Court, Bench Nagpur.\
   [202405141529582112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405141529582112.pdf)

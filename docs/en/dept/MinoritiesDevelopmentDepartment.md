@@ -3,6 +3,10 @@
 **Date Range**: 13 May 2024 - 18 May 2024
 
 
+## Funds
+- Regarding disbursement of available funds for the financial year 2024-25 for the help line scheme to the Maharashtra State Minority Commission...\
+  [202405151723144614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405151723144614.pdf)
+
 ## Miscellaneous
 - Revised scholarship scheme regarding scholarships for students pursuing higher education from minority communities in the state.\
   [202405141257043414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405141257043414.pdf)
