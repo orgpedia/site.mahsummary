@@ -17,5 +17,8 @@
 - Regarding approval of outsourcing the services of a total of 22 vacant posts of Stenographer (H. G.) 2, Stenographer (L.G.)-1, Stenographer-3 and Clerk-Typist-16 in the office of Government Pleader, High Court, Appellate Side, Mumbai, for the period till regular staff are available on the said post either by direct service or by promotion.\
   [202405141533523512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405141533523512.pdf)
 
+- Prescribing Disposal Norms for Quasi-Judicial Work of Joint Charity Commissioners, Deputy Charity Commissioners and Assistant Charity Commissioners (excluding Judicial Officers) in the Charity Organisation.\
+  [202405161704306512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161704306512.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

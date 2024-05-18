@@ -13,5 +13,8 @@
 - Regarding disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro 2-A, 2-B, and 7 projects (Year 2024-25)\
   [202405141520300225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405141520300225.pdf)
 
+- Regarding disbursement of the budgetary provision for the financial year 2024-2025... Subsidiary Grant\
+  [202405161439338325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161439338325.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

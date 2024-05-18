@@ -1,15 +1,18 @@
 # Finance Department
 
-**Date Range**: 06 May 2024 - 11 May 2024
+**Date Range**: 13 May 2024 - 18 May 2024
 
 
 ## Funds
-- Regarding canceling the government guarantee for the amount of Rs.1000 crore bridge loan taken from HUDCO for the Mumbai Metro Marg-3 project being implemented through Mumbai Metro Rail Corporation.\
-  [202405091218301505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091218301505.pdf)
+- Regarding taking immediate action in respect of unclaimed deposits in Inoperative Bank Accounts of Government Offices, Local Swaraj Sansthas, Corporations and other institutions\
+  [202405161616470905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161616470905.pdf)
+
+- Regarding the cancellation of the government guarantee for the amount of Rs.1000 crore bridge loan taken from the State Bank of India for the Mumbai Metro Marg-3 project being implemented through the Mumbai Metro Rail Corporation.\
+  [202405171142461405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171142461405.pdf)
 
 ## Miscellaneous
-- Supplementary Demands for the Year 2024-2025. (June, 2024.)\
-  [202405071532487605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405071532487605.pdf)
+- Regarding return of unspent funds out of grants distributed by Govt.\
+  [202405171751595705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171751595705.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

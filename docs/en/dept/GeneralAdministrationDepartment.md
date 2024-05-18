@@ -16,5 +16,12 @@
 - Regarding inviting application for filling up the post of Additional Commissioner (Administration), Commissionerate, Soil and Water Conservation Department, Chhatrapati Sambhajinagar on deputation.\
   [202405151112240407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405151112240407.pdf)
 
+- Regarding permission to print Lokrajya (Marathi) magazine published by Directorate General of Information and Public Relations by private presses.\
+  [202405171537345507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171537345507.pdf)
+
+## Personnel
+- Temporary promotion to the post of Joint Secretary.\
+  [202405161624184907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161624184907.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

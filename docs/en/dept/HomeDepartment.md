@@ -7,5 +7,9 @@
 - Regarding Sanction of Professional Fees to         Adv.Balbir Singh, Special Prosecutor\
   [202405151253060129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405151253060129.pdf)
 
+## Personnel
+- Provisional Seniority List of Deputy Superintendent (Group-B) Cadre in State Excise Department as on 01.01.2023.\
+  [202405161711134829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161711134829.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

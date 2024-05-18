@@ -1,15 +1,18 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 06 May 2024 - 11 May 2024
+**Date Range**: 13 May 2024 - 18 May 2024
 
-
-## Funds
-- Regarding the extension of the subsidy project for sugarcane cutting machine under the National Agricultural Development Scheme in the financial year 2024-2025\
-  [202405091122351902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091122351902.pdf)
 
 ## Miscellaneous
-- Regarding sanctioning the opening of new account heads for the scheme of setting up modern orange processing centers at Nagpur, Katol and Kalameshwar, Dist.Nagpur, Morshi, Dist.Amravati and Sangrampur, Dist.Buldhana...\
-  [202405091400401302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405091400401302.pdf)
+- Regarding approval of the new account heading for depositing principal and interest after disbursing margin money loan for working capital to cooperative sugar mills routed through State Government from National Cooperative Development Corporation (NCDC).\
+  [202405171249534402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171249534402.pdf)
+
+## Personnel
+- Regarding the creation of notional posts of 1 Legal Officer and 3 Assistant Legal Officers\
+  [202405171700365702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171700365702.pdf)
+
+- Regarding the sale of Government Vehicle No. MH-01-AN-4041 (Honda City) purchased and registered through the Department of Cooperatives, Marketing and Textiles (Self)...\
+  [202405171804365702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171804365702.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
