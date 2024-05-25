@@ -3,6 +3,10 @@
 **Date Range**: 20 May 2024 - 25 May 2024
 
 
+## Funds
+- Regarding formation of Project Implementation Committee under Directorate General of Information and Public Relations to implement e-Governance project.\
+  [202405241612460007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405241612460007.pdf)
+
 ## Miscellaneous
 - Regarding extension of deputation of officers in the cadre of Deputy Secretary - Smt. Reena Vitthal Phansekar, Deputy Secretary\
   [202405221826524807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405221826524807.pdf)

@@ -7,6 +7,9 @@
 - Regarding approval of payment of interest on loan received from HUDCO\
   [202405211510472617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405211510472617.pdf)
 
+- Regarding the payment of Penal Interest to the State Health Societies for the delay in receiving the funds distributed by the Central Government under the 15th Finance Commission for the financial year 2021-22 and 2022-23.\
+  [202405161132447217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161132447217.pdf)
+
 ## Miscellaneous
 - - Maharashtra Medical and Health Services Group-A Dr. Richa Rajendra Belgamwar, Medical Officer, Prof. A.K. Saikhed, District Health Officer, Zilla Parishad, Dist. Regarding Yavatmals resignation.\
   [202404231116113117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116113117.pdf)
