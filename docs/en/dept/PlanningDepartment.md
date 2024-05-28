@@ -1,11 +1,11 @@
 # Planning Department
 
-**Date Range**: 13 May 2024 - 18 May 2024
+**Date Range**: 27 May 2024 - 01 June 2024
 
 
-## Personnel
-- Regarding General Transfer-2024 of Officers in the cadre of Research Officer/Statistical Officer, Group-B (Gazetted) in the establishment of Directorate of Finance and Statistics as per transfer policy through counselling.\
-  [202405161508410916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161508410916.pdf)
+## Funds
+- Regarding disbursement of funds for the year 2024-25 under the Lonar Sarovar Development Plan for various works covered under Forest Department and Public Works Department.\
+  [202405271439343316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405271439343316.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
