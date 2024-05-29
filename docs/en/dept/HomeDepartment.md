@@ -1,11 +1,18 @@
 # Home Department
 
-**Date Range**: 20 May 2024 - 25 May 2024
+**Date Range**: 27 May 2024 - 01 June 2024
 
 
 ## Miscellaneous
-- financial year 2024-25  to increase the medical amenities in prison scheme,  administrative approval for the purchase of water cooler with purifier\
-  [202405211433310729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405211433310729.pdf)
+- Regarding publication of final service seniority scale of Deputy Inspector General of Prisons cadre on 01.01.2024.\
+  [202405281623135429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281623135429.pdf)
+
+- Regarding fixing the revised scheme of posts at the establishment of the Commissioner General, Home Guard, State of Maharashtra, Mumbai under the jurisdiction of the Home Department.\
+  [202405281451066329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281451066329.pdf)
+
+## Personnel
+- Provisional Seniority List of Personal Assistant/Administrative Officer/Structural  Procedures Officer Cadre as on 01.01.2024\
+  [202405281627185429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281627185429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
