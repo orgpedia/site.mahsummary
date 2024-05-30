@@ -1,11 +1,11 @@
 # Rural Development Department
 
-**Date Range**: 20 May 2024 - 25 May 2024
+**Date Range**: 27 May 2024 - 01 June 2024
 
 
-## Miscellaneous
-- Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2024-25.\
-  [202405211739122920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405211739122920.pdf)
+## Personnel
+- Regarding the extension of 43 temporary post sanctioned for keeping provident fund accounts of Zilla Parishad employees.\
+  [202405291227057120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291227057120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
