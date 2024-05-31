@@ -1,15 +1,15 @@
 # Finance Department
 
-**Date Range**: 20 May 2024 - 25 May 2024
+**Date Range**: 27 May 2024 - 01 June 2024
 
 
-## Funds
-- Purchase of bags for distribution of additional budget publications to members of the legislature and others during the June, 2024 session.\
-  [202405241557488505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405241557488505.pdf)
+## Miscellaneous
+- Procedure for  granting Family pension/Invalid pension and Death gratuity/Retirement gratuity to the employees Covered under DCPS/NPS\
+  [202405301144048805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301144048805.pdf)
 
 ## Personnel
-- Regarding implementation of e-PPO, e-GPO, e-CPO system for all 19 District Treasury Offices under the jurisdiction of Accountant General (Lt.  A.) - 2, Maharashtra, Nagpur.....\
-  [202405221758418205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405221758418205.pdf)
+- Regarding service continuation for the purpose of retirement gratuity of the employees whose first appointment is on and 01.11.2005  and whose is covered under DCPS/NPS\
+  [202405301147298705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301147298705.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

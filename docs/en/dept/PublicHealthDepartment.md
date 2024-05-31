@@ -14,6 +14,9 @@
 - Regarding approval of payment of interest on loan received from HUDCO.\
   [202405291408157117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291408157117.pdf)
 
+- Regarding declaration as Head of Office and Drawing and Disbursement Officer for the office of Rural Hospital, Jeur, District Solapur.\
+  [202405301402229017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301402229017.pdf)
+
 ## Personnel
 - District Hospital, Nandurbar under the Deputy Director Health Services, Nashik Mandal, Nashik. 10 temporary posts of  A.N.M. Nursing School and G.N.M. Regarding continuation of 26 temporary posts of Nursing School.\
   [202405281219205017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281219205017.pdf)

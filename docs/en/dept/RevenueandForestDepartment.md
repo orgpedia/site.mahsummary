@@ -20,6 +20,9 @@
 - Regarding the extension of time to take the services of Mr. Balasaheb Laxmanrao Deshmukh, a retired government officer, as a critical employee, to represent the government in the Honble Court in the court case of the Subordinate Forest Department of Aurangabad Forest Department.\
   [202405281607396019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281607396019.pdf)
 
+- Regarding approval of expenditure for grant of charitable assistance to the next of kin of a person who has died due to the disease of Covid-19...\
+  [202405291204573019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291204573019.pdf)
+
 ## Personnel
 - Regarding restructuring of Civil Service Board for posting by transfer / promotion of Group-A and Group-B (Gazetted) cadre officers in Maharashtra Forest Service.\
   [202405281201129419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281201129419.pdf)

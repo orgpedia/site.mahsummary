@@ -47,5 +47,20 @@
 - Seniority list Provisional seniority list of officers in the cadre of Director (Information) Group-A (Senior) upto 01.01.2024.\
   [202405291519017107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291519017107.pdf)
 
+- Interdepartmental Transfer Order 2024 Higher Grade Stenographer\
+  [202405301401244807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301401244807.pdf)
+
+- Interdepartmental Transfer Order 2024 Lower Grade Stenographer and Steno Typist\
+  [202405301404082107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301404082107.pdf)
+
+- Regarding the administrative approval for the implementation of Media Plan in the financial year 2024-25 in relation to the measures taken by the government in relation to Maratha reservation as well as the various schemes and programs implemented...\
+  [202405301448298907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301448298907.pdf)
+
+- Clerk-Typist Transfer 2024.\
+  [202405301406508807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301406508807.pdf)
+
+- Transfer 2024  Assistant Section Officer.\
+  [202405301357318807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301357318807.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
