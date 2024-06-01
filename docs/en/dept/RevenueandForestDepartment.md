@@ -23,9 +23,21 @@
 - Regarding approval of expenditure for grant of charitable assistance to the next of kin of a person who has died due to the disease of Covid-19...\
   [202405291204573019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291204573019.pdf)
 
+- Funds for Salary and Allowances of Officers/Employees of Special Tiger Conservation Force\
+  [202405311233480319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311233480319.pdf)
+
+- Year 2024-25 regarding disbursement of funds under the Scheme (2406 0481) for Cooperative Scheme (Firewood and Coal) by Government Agency.\
+  [202405311501052619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311501052619.pdf)
+
 ## Personnel
 - Regarding restructuring of Civil Service Board for posting by transfer / promotion of Group-A and Group-B (Gazetted) cadre officers in Maharashtra Forest Service.\
   [202405281201129419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281201129419.pdf)
+
+- By supplying temporary shelter center (Tent) and fire rescue sheet, May. Regarding payment of first installment to Life Line Security and System.\
+  [202405311251025119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311251025119.pdf)
+
+- By supplying temporary shelter center (Tent) and fire rescue sheet, May. Regarding payment of second installment to Life Line Security and System.\
+  [202405311253446119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311253446119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

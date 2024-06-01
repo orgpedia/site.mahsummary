@@ -13,6 +13,9 @@
 - Regarding Opening of Personal Deposit Account Account in favor of Judge, Family Court, Belapur....\
   [202405291749438212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291749438212.pdf)
 
+- Creation of one fictitious post of mali ( Garden worker) designation for the court building of District Court, Akola and approval to the expenditure to fill it on the basic of contractual outsourcing\
+  [202405311145114112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311145114112.pdf)
+
 ## Personnel
 - Regarding appointment by promotion on vacant post in the cadre of Establishment Officer (Group-B/Gazetted) in the Office of Government Pleader, High Court, Bench Nagpur.\
   [202405291551269912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291551269912.pdf)

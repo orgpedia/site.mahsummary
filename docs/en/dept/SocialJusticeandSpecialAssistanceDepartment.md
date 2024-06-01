@@ -14,5 +14,8 @@
 - Regarding disbursement of funds from the budget provision for the year 2024-25 for the amount of difference to be paid to the insurance company for insurance premium of scheduled category for Mahatma Jyotirao Phule Jan Arogya Yojana. (Account Head 2210G861)\
   [202405301454538922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301454538922.pdf)
 
+- Regarding the extension of time to the post of Additional Commissioner, Social Welfare, Pune. Dr. Dinesh Doke, Additional Chief Executive Officer (Selection Grade)\
+  [202405311602304522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311602304522.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

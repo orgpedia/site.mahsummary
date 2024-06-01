@@ -10,5 +10,9 @@
 - With regard to amending the Government order granting recognition to the existing colleges under expansion for new course of study/subject, new batch, new faculty for the academic year 2023-24...(purification sheet)\
   [202405281108306608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281108306608.pdf)
 
+## Personnel
+- To publish the list of transferable officers and list of vacancies in Maharashtra Education Service, Group-B under the Directorate of Higher Education.\
+  [202405311806342608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311806342608.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

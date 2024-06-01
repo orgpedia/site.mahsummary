@@ -3,6 +3,10 @@
 **Date Range**: 27 May 2024 - 01 June 2024
 
 
+## Funds
+- Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Prabodhini, Amravati Assistant Grant Year 2024-25 (Compulsory) (First Installment)\
+  [202405311522160607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311522160607...pdf)
+
 ## Miscellaneous
 - Regarding giving date of regular promotion to the post of Joint Secretary.\
   [202405271658209807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405271658209807.pdf)

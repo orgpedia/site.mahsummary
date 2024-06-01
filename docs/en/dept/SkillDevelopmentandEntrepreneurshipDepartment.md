@@ -10,5 +10,8 @@
 - Regarding release of Provisional Seniority List dated 01/01/2023 of Officers of Skill Development, Employment and Entrepreneurship Guidance Officer (Group-B) Cadre...\
   [202405291640487603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291640487603.pdf)
 
+- Mr. Narendra Sridhar Kanphade, Retired Director of Art, Directorate of Vocational Education and Training, Mumbai regarding promotion date to the post of Director of Art.\
+  [202405311536517603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311536517603.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

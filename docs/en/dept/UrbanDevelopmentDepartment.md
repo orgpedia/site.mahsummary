@@ -1,20 +1,14 @@
 # Urban Development Department
 
-**Date Range**: 13 May 2024 - 18 May 2024
+**Date Range**: 27 May 2024 - 01 June 2024
 
 
 ## Funds
-- Scheme of Financial Assistance for Expansion and Modernization of Fire Services under 15th Finance Commission. Regarding opening of new account heading.\
-  [202405131425122725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405131425122725.pdf)
+- Regarding the opening of new account heads for disbursing interest free subordinated loan of the State Government to the Mumbai Metropolitan Region Development Authority for Mumbai Metro Marg - 10 Gaymukh - Shivaji Chowk (Mira Road) project and for recovery of the said loan principal from the Authority.\
+  [202405311802120725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311802120725.pdf)
 
-- Regarding Disbursement of Secondary Loan Assistance of State Government to Mumbai Metro Rail Corporation in Mumbai Metro Rail Line-3 Project (Year 2024-25)\
-  [202405141525078225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405141525078225.pdf)
-
-- Regarding disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro 2-A, 2-B, and 7 projects (Year 2024-25)\
-  [202405141520300225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405141520300225.pdf)
-
-- Regarding disbursement of the budgetary provision for the financial year 2024-2025... Subsidiary Grant\
-  [202405161439338325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161439338325.pdf)
+- Regarding the opening of a new account for disbursing the loan amount of the New Development Bank to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Route-6 project, for recovery of the loan as well as for recovery of interest on the loan taken.\
+  [202405311759012625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311759012625.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

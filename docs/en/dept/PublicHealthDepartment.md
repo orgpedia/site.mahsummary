@@ -27,5 +27,8 @@
 - ANM under Deputy Director Health Services, Nashik Board, Nashik. Regarding continuation of 10 temporary posts in Nursing Training College, General Hospital, Malegaon.\
   [202404291227204217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291227204217.pdf)
 
+- Regarding continuation of 130 temporary posts in Dental Department in District/ Sub-district/ Rural Hospital under Deputy Director, Health Services, Akola Mandal, Akola.\
+  [202405301624298917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301624298917.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
