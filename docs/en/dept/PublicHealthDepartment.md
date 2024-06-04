@@ -1,34 +1,21 @@
 # Public Health Department
 
-**Date Range**: 27 May 2024 - 01 June 2024
+**Date Range**: 03 June 2024 - 08 June 2024
 
 
 ## Funds
-- Regarding the grant of ex-gratia assistance to the families of employees who die of infection with the Covid-19 virus while performing their duties related to Covid-19.-Sharad Sukhlal Teli, Jr. clerk\
-  [202405271230053217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405271230053217.pdf)
+- Regarding disbursement of funds for the Mahatma Jyotirao Phule Jan Arogya Yojana for the financial year 2024-25 under the head of account 2210 G 251.\
+  [202406031108522417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031108522417.pdf)
+
+- Regarding disbursement of funds through State share (40) under the head of account 2210 G 449 (General) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-2025.\
+  [202406031108582917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031108582917.pdf)
 
 ## Miscellaneous
-- Maharashtra Medical and Health Services Group-A  Dr. Tushar Dinkar Katkar, Medical Officer,  P.H.C. Shirsi, T.Q. Shirala, Dist. Sangli Regarding his resignation.\
-  [202404231116317217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116317217.pdf)
+- Maharashtra Medical and Health Services Group-A   Dr. Pravin Balasaheb Dumane, Medical Officer, P.HC Samudravani, Dist.Dharashiv  Regarding his resignation\
+  [202404231116378717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116378717.pdf)
 
-- Regarding approval of payment of interest on loan received from HUDCO.\
-  [202405291408157117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291408157117.pdf)
-
-- Regarding declaration as Head of Office and Drawing and Disbursement Officer for the office of Rural Hospital, Jeur, District Solapur.\
-  [202405301402229017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301402229017.pdf)
-
-## Personnel
-- District Hospital, Nandurbar under the Deputy Director Health Services, Nashik Mandal, Nashik. 10 temporary posts of  A.N.M. Nursing School and G.N.M. Regarding continuation of 26 temporary posts of Nursing School.\
-  [202405281219205017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281219205017.pdf)
-
-- Regarding continuation of 07 temporary posts of Laboratory Technician (Water Sampling) under rural hospitals in the Deputy Director, Thane circle.\
-  [202405281101365417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281101365417.pdf)
-
-- ANM under Deputy Director Health Services, Nashik Board, Nashik. Regarding continuation of 10 temporary posts in Nursing Training College, General Hospital, Malegaon.\
-  [202404291227204217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291227204217.pdf)
-
-- Regarding continuation of 130 temporary posts in Dental Department in District/ Sub-district/ Rural Hospital under Deputy Director, Health Services, Akola Mandal, Akola.\
-  [202405301624298917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301624298917.pdf)
+- Regarding the establishment of standard guidelines for follow-up procedures for medical abortion beyond 24 weeks.\
+  [202405311424340617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311424340617....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

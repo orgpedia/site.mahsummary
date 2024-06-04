@@ -1,21 +1,18 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 27 May 2024 - 01 June 2024
+**Date Range**: 03 June 2024 - 08 June 2024
 
 
 ## Funds
-- Grant Release head 22151843.\
-  [202405291558587328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291558587328.pdf)
+- Regarding approval of special amendment proposals for Tap Water Supply Schemes in Chiplun Taluk of Ratnagiri District under Drinking Water Scarcity as Special Matter.\
+  [202406031744254328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031744254328.pdf)
 
-- Life insurance due on June 1, 2024 Corporation Loan Installment (Rural)  Cash grant for repayment (Head of Account 2215 1173)\
-  [202405301821099228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301821099228.pdf)
+## Miscellaneous
+- Budget Grant 2024-2025 Requisition No. Y-06, 4402 Capital Expenditure on Soil and Water Conservation (Non-Plan) (4402 1148)\
+  [202406031113499428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031113499428.pdf)
 
-- To release the grants for the expenditure of salaries and Allowances of State and District level Officers/Employees working on deputation under Jal Jeevan Mission. ( , -Grant in aids (Salaries))\
-  [202405311313130528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311313130528.pdf)
-
-## Personnel
-- Provisional Final Seniority List of Senior Drilling Engineer Group-A Cadre Officers in Ground Water Survey and Development Agency Till Date 01/01/2024\
-  [202405291558479528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291558479528.pdf)
+- Budget Grant 2024-2025 Requisition No. Y-04, 2702 Minor Irrigation Ground Water Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
+  [202406031113388828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031113388828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
