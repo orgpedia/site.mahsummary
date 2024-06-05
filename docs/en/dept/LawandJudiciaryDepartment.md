@@ -1,24 +1,11 @@
 # Law and Judiciary Department
 
-**Date Range**: 27 May 2024 - 01 June 2024
+**Date Range**: 03 June 2024 - 08 June 2024
 
 
 ## Miscellaneous
-- Declaration of District Judge and Additional Sessions Judge, Rahata, District  Ahmednagar, as  Drawing and Disbursing Officer.\
-  [202405281541418912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281541418912.pdf)
-
-- Year 2024-25 Budget Grant Demand No. J-5, 7610- Govt Loans to etc. - (201)(00)(01) Allocation of advance for house Building.\
-  [202405281529105312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405281529105312.pdf)
-
-- Regarding Opening of Personal Deposit Account Account in favor of Judge, Family Court, Belapur....\
-  [202405291749438212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291749438212.pdf)
-
-- Creation of one fictitious post of mali ( Garden worker) designation for the court building of District Court, Akola and approval to the expenditure to fill it on the basic of contractual outsourcing\
-  [202405311145114112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311145114112.pdf)
-
-## Personnel
-- Regarding appointment by promotion on vacant post in the cadre of Establishment Officer (Group-B/Gazetted) in the Office of Government Pleader, High Court, Bench Nagpur.\
-  [202405291551269912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291551269912.pdf)
+- Regarding fixing the rates of honorarium to be paid to the lecturers under the Vidhi Vidhan Internship initiative started in the Law and Legislature Branch of the Department of Law and Justice.\
+  [202406041128067412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041128067412.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -17,5 +17,18 @@
 - Regarding the establishment of standard guidelines for follow-up procedures for medical abortion beyond 24 weeks.\
   [202405311424340617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405311424340617....pdf)
 
+- Dr. Regarding the fixed age retirement of Subhash Shamrao Ghatkar, Medical Officer, Group-A.\
+  [202404231116448617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116448617.pdf)
+
+- Dr. Regarding the prescribed age of retirement of Mahendra Govindrao Bharne, Medical Officer, Group-A.\
+  [202406041450488517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041450488517.pdf)
+
+## Personnel
+- Regarding extension of temporary posts in health institutions in the state.\
+  [202404291227250717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291227250717.pdf)
+
+- Regarding continuation of temporary posts in Health Institutions under Deputy Director Health Services, Mumbai circle, Thane..\
+  [202406041413017717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041413017717.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
