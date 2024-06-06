@@ -14,6 +14,15 @@
 - CPTP-9  Desk officer cadre joining order.\
   [202406041644568907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041644568907.pdf)
 
+- Regarding extension of deputation of Smt. M. M. Pardeshi, Assistant Section Officer.\
+  [202406051652588207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051652588207.pdf)
+
+- Filling the post of deputation basis\
+  [202406051748176107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051748176107.pdf)
+
+- Basic Training for Clerk-Typist Cadre of Ministry of Training in the year 2023-2024 under State Training Policy\
+  [202406051232499307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051232499307.pdf)
+
 ## Personnel
 - CPTP 8 A  desk officer regarding training -  Smt. S. A. Magar\
   [202406041702252207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041702252207.pdf)

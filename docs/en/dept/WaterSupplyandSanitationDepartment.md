@@ -14,5 +14,15 @@
 - Budget Grant 2024-2025 Requisition No. Y-04, 2702 Minor Irrigation Ground Water Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
   [202406031113388828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031113388828.pdf)
 
+## Personnel
+- Provisional Final Seniority List of Deputy Engineer (Mechanical), Group-A Cadre Officers in Ground Water Survey and Development Agency (01 Jan, 2024)\
+  [202406051522494828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051522494828.pdf)
+
+- Regarding approval of special amendment proposal for 39 Tap Water Supply Schemes in Amravati District under Drinking Water Scarcity as Special Matter.\
+  [202406051552290828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051552290828.pdf)
+
+- Regarding giving administrative approval to 2 temporary tap water supply schemes in Tivasa taluka of Amravati district under scarcity year 2023-24...\
+  [202406051551579628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051551579628.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,15 @@
 - Regarding disbursement of funds through State share (40) under the head of account 2210 G 449 (General) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-2025.\
   [202406031108582917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031108582917.pdf)
 
+- Regarding giving administrative approval to a total of 19 newly created health institutions in the state for starting contract feeding services.\
+  [202406051122054217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051122054217.pdf)
+
+- Regarding the distribution of State Share (40 percent) funds under 2210 G 888 (SCP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-25.\
+  [202406051522381717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051522381717.pdf)
+
+- Regarding giving administrative approval for starting laundry, feeding service, security service and sanitation service at District Women and Child Hospital, Yavatmal.\
+  [202406051122175317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051122175317.pdf)
+
 ## Miscellaneous
 - Maharashtra Medical and Health Services Group-A   Dr. Pravin Balasaheb Dumane, Medical Officer, P.HC Samudravani, Dist.Dharashiv  Regarding his resignation\
   [202404231116378717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116378717.pdf)
@@ -23,12 +32,27 @@
 - Dr. Regarding the prescribed age of retirement of Mahendra Govindrao Bharne, Medical Officer, Group-A.\
   [202406041450488517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041450488517.pdf)
 
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202406051645345317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051645345317.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in health institutions in the state.\
   [202404291227250717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404291227250717.pdf)
 
 - Regarding continuation of temporary posts in Health Institutions under Deputy Director Health Services, Mumbai circle, Thane..\
   [202406041413017717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041413017717.pdf)
+
+- Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2024-25 under 2210 G 861.\
+  [202406051522291317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051522291317.pdf)
+
+- Provisional Seniority List dated 01.01.2024 for the post of Anesthetist Specialist in Specialist Cadre in Maharashtra Medical  Health Service, Group-A\
+  [202406051259039417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051259039417.pdf)
+
+- Provisional Seniority List dated 01.01.2024 for the post of Ophthalmic Surgeon in Specialist Cadre in Maharashtra Medical and Health Service, Group-A\
+  [202406051258523317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051258523317.pdf)
+
+- Provisional seniority list dated 01.01.2024 for the post of Gynaecologist and Obstetrician in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
+  [202406051258585017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051258585017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
