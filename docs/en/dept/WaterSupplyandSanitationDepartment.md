@@ -24,5 +24,8 @@
 - Regarding giving administrative approval to 2 temporary tap water supply schemes in Tivasa taluka of Amravati district under scarcity year 2023-24...\
   [202406051551579628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051551579628.pdf)
 
+- Grant release head 2215 1881 (10-Contractual Services)\
+  [202406061641385728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061641385728.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

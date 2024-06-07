@@ -1,15 +1,11 @@
 # Rural Development Department
 
-**Date Range**: 27 May 2024 - 01 June 2024
+**Date Range**: 03 June 2024 - 08 June 2024
 
-
-## Miscellaneous
-- Regarding grants for Zilla Parishad, Panchayat Samiti and Gram Panchayat elections.\
-  [202405301348484420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405301348484420.pdf)
 
 ## Personnel
-- Regarding the extension of 43 temporary post sanctioned for keeping provident fund accounts of Zilla Parishad employees.\
-  [202405291227057120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405291227057120.pdf)
+- Regarding publish of provisional seniority list of officers in Maharashtra Development Service, Group-B from 1.1.2022 to 31.12.2023\
+  [202406061124488120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061124488120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

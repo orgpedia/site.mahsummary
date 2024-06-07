@@ -10,5 +10,8 @@
 - Regarding increase in permanent advance amount.\
   [202406051640442108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051640442108....pdf)
 
+- Regarding the inclusion of the institution in the district level plan Development of Government Colleges to be implemented under the District Annual Plan (General)...\
+  [202406061703013408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061703013408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

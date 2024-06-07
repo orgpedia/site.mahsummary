@@ -19,6 +19,12 @@
 - Regarding giving administrative approval for starting laundry, feeding service, security service and sanitation service at District Women and Child Hospital, Yavatmal.\
   [202406051122175317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051122175317.pdf)
 
+- Regarding giving administrative approval to budget and plan for furniture and gas pipeline work at 50-bed Sub district  Hospital and 20-bed Trauma Care Center in Vadgaon Maval Dist Pune....\
+  [202406051523219617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051523219617...pdf)
+
+- Regarding disbursement of an amount of Rs.24816.92 lakhs for the period April, 2024 to June, 2024 to ASHA volunteers and group promoters from the budget provision of the state government for the year 2024-25 under the general scheme for the National Rural Health Program under the Centrally Sponsored National Health Mission.\
+  [202405161132519717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161132519717.pdf)
+
 ## Miscellaneous
 - Maharashtra Medical and Health Services Group-A   Dr. Pravin Balasaheb Dumane, Medical Officer, P.HC Samudravani, Dist.Dharashiv  Regarding his resignation\
   [202404231116378717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116378717.pdf)
