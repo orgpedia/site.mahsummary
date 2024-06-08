@@ -25,6 +25,9 @@
 - Regarding disbursement of an amount of Rs.24816.92 lakhs for the period April, 2024 to June, 2024 to ASHA volunteers and group promoters from the budget provision of the state government for the year 2024-25 under the general scheme for the National Rural Health Program under the Centrally Sponsored National Health Mission.\
   [202405161132519717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405161132519717.pdf)
 
+- Regarding giving administrative approval to the budget and plans for building repair and residential repair work at Rural Hospital, Nagarsool District. Nashik\
+  [202404181835452417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404181835452417.pdf)
+
 ## Miscellaneous
 - Maharashtra Medical and Health Services Group-A   Dr. Pravin Balasaheb Dumane, Medical Officer, P.HC Samudravani, Dist.Dharashiv  Regarding his resignation\
   [202404231116378717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404231116378717.pdf)
@@ -40,6 +43,15 @@
 
 - Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
   [202406051645345317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051645345317.pdf)
+
+- Regarding giving administrative approval for the purchase of materials, machinery and equipment for strengthening the laboratories of the State Public Health Laboratory, Pune and 22 other districts under the Public Health Department.\
+  [202406051523069617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051523069617.pdf)
+
+- Regarding giving administrative approval to the budget and plan for the construction of a 400-bed hospital upgradation at Hinganghat, Dist-Wardha.\
+  [202404241126566717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202404241126566717.pdf)
+
+- Regarding the inclusion of representatives of senior citizens on the State Grievance Redressal Committee and District Monitoring and Grievance Redressal Committee under the Mahatma Jyotirao Phule Jan Arogya Yojana.\
+  [202406071144342717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071144342717.pdf)
 
 ## Personnel
 - Regarding extension of temporary posts in health institutions in the state.\

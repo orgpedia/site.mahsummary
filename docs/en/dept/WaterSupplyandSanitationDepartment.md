@@ -14,6 +14,9 @@
 - Budget Grant 2024-2025 Requisition No. Y-04, 2702 Minor Irrigation Ground Water Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
   [202406031113388828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031113388828.pdf)
 
+- Regarding formation of a State level study committee to study/verify aspects of Incinerator capacity, utility in rural areas, ease of maintenance, environment friendliness (Air scrubber) etc. under Swachh Bharat Abhiyan (Rural) phase-II....\
+  [202406051254206328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051254206328.pdf)
+
 ## Personnel
 - Provisional Final Seniority List of Deputy Engineer (Mechanical), Group-A Cadre Officers in Ground Water Survey and Development Agency (01 Jan, 2024)\
   [202406051522494828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051522494828.pdf)

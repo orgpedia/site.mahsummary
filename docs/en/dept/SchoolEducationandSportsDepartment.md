@@ -23,5 +23,11 @@
 - Mr. Siyaram Education Institute, Chhatrapati Sambhajinagar Conducted by Major G. K. Regarding the proposal to transfer the management of Ghuge Maharashtra Public School Nashik Road Aurangabad to Al Manhal Educational Culture and Welfare Society, Chhatrapati Sambhajinagar.\
   [202406061717250421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061717250421.pdf)
 
+- Regarding transfer of management of Khwaja Urdu Primary School, Chikalthana, Chhatrapati Sambhajinagar to Teherik Education and Welfare Society, Chhatrapati Sambhajinagar run by Al Manhal Educational, Cultural and Social Service Institution, Chhatrapati Sambhajinagar.\
+  [202406071804041321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071804041321.pdf)
+
+- New Grand Education Society, Kamthi Distt. Nagpur Conducted by: New Hindi Higher Primary School Kamthiroad Distt. Regarding the proposal for transfer of management of Nagpur Higher Primary School to Grand Education Society, Nagpur.\
+  [202406071808583221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071808583221.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

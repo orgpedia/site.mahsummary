@@ -23,6 +23,12 @@
 - Basic Training for Clerk-Typist Cadre of Ministry of Training in the year 2023-2024 under State Training Policy\
   [202406051232499307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051232499307.pdf)
 
+- Cancelation of Supernumerary post created for Shri. Alka Aasai\
+  [202406071702584007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071702584007.pdf)
+
+- Filling the post of deputation basis\
+  [202406071527335307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071527335307....pdf)
+
 ## Personnel
 - CPTP 8 A  desk officer regarding training -  Smt. S. A. Magar\
   [202406041702252207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041702252207.pdf)
@@ -35,6 +41,9 @@
 
 - Redressal of Pay Errors Committee, regarding engagement of the services of Assistant Room Officers for the work of 2024\
   [202406041752468007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041752468007.pdf)
+
+- Marathwada Administrative and Development Training Prabodhini Nathnagar (North) Paithan, Dist.Chhatrapati Sambhajinagar regarding appointment on the post of Registrar and Assistant Professor by deputation.\
+  [202406071509523007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071509523007....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

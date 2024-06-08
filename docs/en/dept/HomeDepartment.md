@@ -20,6 +20,9 @@
 - Regarding giving approval to outsource (Maharashtra State Security Corporation) the services of 500 manpower on the establishment of Mira-Bhainder-Vasai-Virar Police Commissionerate.\
   [202406061151477429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061151477429.pdf)
 
+- Regarding approving the revised scheme for a total of 124 posts in the offices of Motor Accident Claims Tribunal, Mumbai and State Transport Appellate Tribunal, State of Maharashtra, Mumbai.\
+  [202406071641321929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071641321929.pdf)
+
 ## Personnel
 - Regarding transfer/posting of I.P.S. officers.\
   [202406031409383529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031409383529.pdf)
