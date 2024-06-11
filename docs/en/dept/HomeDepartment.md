@@ -1,31 +1,28 @@
 # Home Department
 
-**Date Range**: 03 June 2024 - 08 June 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
 
 ## Funds
-- Financial year 2024-25 -Administrative Approval for purchase of full height turnstile gate, T.V display, C.C.T.V. cameras  under Modernization of security system in prisons Scheme\
-  [202406031230192129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031230192129.pdf)
+- Regarding disbursement of funds amounting to Rs.24,53,20,000/- as Mobilization to LT Technology Services Pvt Ltd (Consortium lead) and KPMG India LLP (Consortium Member) system integrators appointed for cyber security project.\
+  [202406101216408029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101216408029.pdf)
 
-- Regarding disbursement of funds amounting to Rs.250.00 crores to Maharashtra State Road Transport Corporation for the reimbursement of discounted price for the month of April, 2024...\
-  [202406051802109929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051802109929.pdf)
-
-- Regarding reimbursement of concessional values received by Maharashtra State Road Transport Corporation and book adjustment of Rs.82.34 crores of passenger tax payable to Govt.\
-  [202406051806370029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051806370029.pdf)
-
-- Regarding disbursement of funds amounting to Rs.250.00 crores to Maharashtra State Road Transport Corporation for development works under account head 3055 0052-35 Modernization of Bus Station and other facilities under the programme.\
-  [202406061246121029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061246121029.pdf)
+- Regarding Administrative approval of the 04 Quarterly payment to M/s Secutech Automation India Pvt. Ltd. the implementing co. for facility Managemnt serivice, annual maintenance contract (Opex Quarterly payment) of work under Mantralaya Security Projectunder Home Dept.\
+  [202406101509032629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101509032629.pdf)
 
 ## Miscellaneous
-- Regarding giving approval to outsource (Maharashtra State Security Corporation) the services of 500 manpower on the establishment of Mira-Bhainder-Vasai-Virar Police Commissionerate.\
-  [202406061151477429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061151477429.pdf)
+- Subject in English : Appointment of Presenting Officer in the Departmental Enquiry of Shri. Sachin Bari, DySP\
+  [202406061642021329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061642021329.pdf)
 
-- Regarding approving the revised scheme for a total of 124 posts in the offices of Motor Accident Claims Tribunal, Mumbai and State Transport Appellate Tribunal, State of Maharashtra, Mumbai.\
-  [202406071641321929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071641321929.pdf)
+- Regarding the formation of a committee to conduct a high-level inquiry into the illegal billboard collapse incident at Ghatkopar, Mumbai....\
+  [202406101459500529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101459500529.pdf)
+
+- Appointment of Enquiry Officer in the Departmental Enquiry of Shri. Sachin Bari, DySP\
+  [202406061641541429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061641541429.pdf)
 
 ## Personnel
-- Regarding transfer/posting of I.P.S. officers.\
-  [202406031409383529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031409383529.pdf)
+- Transfer request in the cadre of Motor Vehicle Inspector.\
+  [202406101719478629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101719478629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

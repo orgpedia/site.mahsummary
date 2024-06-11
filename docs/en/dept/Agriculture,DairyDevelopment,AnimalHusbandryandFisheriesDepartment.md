@@ -1,27 +1,19 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 03 June 2024 - 08 June 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
 
 ## Funds
-- Regarding giving administrative approval to the program of Rs. 7500.00 lakh to implement the Chief Ministers Agriculture and Food Processing Scheme in the year 2024-25.\
-  [202406031535075601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031535075601.pdf)
-
-- Regarding giving administrative approval to implement the National Horticulture Mission in the State in the year 2024-25 under Krishi Unnati Yojana-Integrated Horticulture Development Mission (MIDH).\
-  [202406041510177201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041510177201.pdf)
-
-- Regarding disbursement of funds of Rs.1.00 crore for Nanaji Deshmukh Krishi Sanjeevani Project for the financial year 2024-25.\
-  [202406051438369501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051438369501.pdf)
-
-- Regarding disbursement of Rs.78.938 lakh funds and Rs.4.00 lakhs for office expenses for the period of January, 2024 and April, 2024 to June, 2024, a total of Rs.82.938 lakh funds...\
-  [202406071521440101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071521440101.pdf)
-
-- Administrative approval for annual action plan of  Food  Nutrition Security-Food grains and Commercial Crops for the year 2024-25\
-  [202406071714076701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071714076701.pdf)
+- Regarding giving administrative and financial sanction to the expenditure of Rs.1,71,644/- for minor repair work of office and bull shed at Taluka Seed Multiplication Centre, Valgaon, Dhanora Gurav and Chandur Railway Dist.Amravati.\
+  [202406101649321101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101649321101.pdf)
 
 ## Miscellaneous
-- Regarding disbursement of grant under tribal component program to Mahatma Phule Agricultural University, Rahuri Subordinate College of Agriculture, Nandurbar in the financial year 2024-25...\
-  [202406051739595601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051739595601.pdf)
+- Stuttgart, Germany. D. 10th June to 15th June, 2024 (Including Travel Period) Foreign Tour of Shri.Raosaheb Bhagde, B.P.S., Commissioner (Agriculture), Commissionerate of Agriculture, State of Maharashtra, Pune.....\
+  [202406101715088601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101715088601.pdf)
+
+## Personnel
+- Maharashtra Fisheries Service - Fisheries Development Officer, Fisheries Training Officer, Curator, Training and Extension Officer (Technical) Regarding appointment to the post of Group-B (Advertisement No.4/2020) through direct service.\
+  [202406101230118201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101230118201.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
