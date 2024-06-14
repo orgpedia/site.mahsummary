@@ -1,17 +1,11 @@
 # Higher and Technical Education Department
 
-**Date Range**: 03 June 2024 - 08 June 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
 
 ## Miscellaneous
-- Regarding approval of opening of new account for depositing edition fee received for establishment of Cluster University.\
-  [202406031627429408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031627429408.pdf)
-
-- Regarding increase in permanent advance amount.\
-  [202406051640442108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051640442108....pdf)
-
-- Regarding the inclusion of the institution in the district level plan Development of Government Colleges to be implemented under the District Annual Plan (General)...\
-  [202406061703013408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061703013408.pdf)
+- About to Make available technical Resources from MAHAIT for HTE  SEVARTH system.\
+  [202406121537073208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121537073208.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

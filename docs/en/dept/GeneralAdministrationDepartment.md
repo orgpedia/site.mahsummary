@@ -1,49 +1,45 @@
 # General Administration Department
 
-**Date Range**: 03 June 2024 - 08 June 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
-
-## Funds
-- Grant release for  yashada year 2024-25\
-  [202406031135143907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406031135143907.pdf)
 
 ## Miscellaneous
-- Deputation Order. Shri. Kishor Nanaware , Desk officer.\
-  [202406041639179907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041639179907.pdf)
+- Regarding filling posts in various authorities under Urban Development Department on deputation.\
+  [202406131302383507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131302383507.pdf)
 
-- CPTP-9  Desk officer cadre joining order.\
-  [202406041644568907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041644568907.pdf)
+- Regarding the extension of the proposal to outsource the services of 10 posts of Driver Group-C cadre in the Directorate General of Information and Public Relations and Subordinate Offices.\
+  [202406111526274507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111526274507.pdf)
 
-- Regarding extension of deputation of Smt. M. M. Pardeshi, Assistant Section Officer.\
-  [202406051652588207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051652588207.pdf)
+- Regarding the reconstitution of the Departmental Review Committee for testing the eligibility of Group-A and Group-B officers in the Directorate General of Information and Public Relations to continue in service beyond the age of 50/55 years.\
+  [202406111522279307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111522279307.pdf)
+
+- Deputation order. Smt Yogita Dangare, Desk Officer.\
+  [202406111113409907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111113409907.pdf)
+
+- Regarding filling up the vacant post of Assistant Section Officer cadre in the office of Slum Rehabilitation Authority, Pune by deputation.\
+  [202406111736080407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111736080407.pdf)
+
+- Regarding the promotion of 1 post in the cadre of Account Officer to the cadre of Assistant Director in the establishment of General Administration Department (Self)...\
+  [202406121527444707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121527444707.pdf)
 
 - Filling the post of deputation basis\
-  [202406051748176107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051748176107.pdf)
+  [202406111118299907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111118299907.pdf)
 
-- Basic Training for Clerk-Typist Cadre of Ministry of Training in the year 2023-2024 under State Training Policy\
-  [202406051232499307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051232499307.pdf)
-
-- Cancelation of Supernumerary post created for Shri. Alka Aasai\
-  [202406071702584007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071702584007.pdf)
-
-- Filling the post of deputation basis\
-  [202406071527335307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071527335307....pdf)
+- Regarding conducting the training class for the Departmental Examination 2024 for promotion to the post of Assistant Section Officer.\
+  [202406131452563607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131452563607.pdf)
 
 ## Personnel
-- CPTP 8 A  desk officer regarding training -  Smt. S. A. Magar\
-  [202406041702252207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041702252207.pdf)
+- Seniority List Final seniority list of officers in the cadre of Deputy Director (Information) Group-A (Senior) upto 01.01.2023.\
+  [202406111516080207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111516080207.pdf)
 
-- CPTP-9  Desk officer cadre temporary posting order.\
-  [202406041657127907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041657127907.pdf)
+- Mid-term transfer of Joint Secretary /Deputy Secretary Cadre.\
+  [202406111803136207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111803136207.pdf)
 
-- Temporary promotion to the post of Joint Secretary.\
-  [202406041529479507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041529479507.pdf)
+- Promotion to Deputy Secretary Cadre\
+  [202406111758228607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111758228607.pdf)
 
-- Redressal of Pay Errors Committee, regarding engagement of the services of Assistant Room Officers for the work of 2024\
-  [202406041752468007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406041752468007.pdf)
-
-- Marathwada Administrative and Development Training Prabodhini Nathnagar (North) Paithan, Dist.Chhatrapati Sambhajinagar regarding appointment on the post of Registrar and Assistant Professor by deputation.\
-  [202406071509523007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071509523007....pdf)
+- Revised posting of Deputy Secretary Cadre.\
+  [202406111806032207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111806032207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

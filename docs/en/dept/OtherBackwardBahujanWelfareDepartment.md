@@ -3,9 +3,19 @@
 **Date Range**: 10 June 2024 - 15 June 2024
 
 
+## Funds
+- Regarding providing funds for Modi Awas Gharkul Yojana\
+  [202406121702502034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121702502034.pdf)
+
+- Regarding disbursement of funds under Foreign Scholarship Scheme during the financial year 2024-25\
+  [202406111728557534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111728557534.pdf)
+
 ## Miscellaneous
 - Regarding implementation of Modi Awas Gharkul Scheme for Other Backward Classes, Exempt Castes and Nomadic Tribes and beneficiaries of Special Backward Classes in the State.\
   [202406101700212734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101700212734.pdf)
+
+- Regarding the revision of norms in the scheme for providing education to Dhangar community students belonging to Nomadic Tribe-C category in reputed residential schools of English medium in cities....\
+  [202406131627553734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131627553734.pdf)
 
 ## Personnel
 - Appointment and posting by deputation Shri. Ms. m. Nerlikar, Tehsildar\

@@ -1,18 +1,17 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 13 May 2024 - 18 May 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
-
-## Funds
-- Distribution of funds under Special Component Scheme for Scheduled Caste category under Centrally Sponsored Pradhan Mantri Krishi Sinchai Yojana - Watershed Development Component 2.0.\
-  [202405171558552326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171558552326.pdf)
 
 ## Personnel
-- Provisional seniority list dated 01-01-2020 of the cadre of Water Conservation Officer, Group-B (Gazetted) in Soil and Water Conservation Department\
-  [202405171640115726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171640115726....pdf)
+- Regarding promotion and posting in the cadre of Regional Water Conservation Officer/Regional Vigilance and Quality Control Officer (Construction). (Election Year - 2023-24)\
+  [202406121757116026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121757116026.pdf)
 
-- Provisional seniority list dated 01-01-2021 of the cadre of Water Conservation Officer, Group-B (Gazetted) in Soil and Water Conservation Department\
-  [202405171649011926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202405171649011926....pdf)
+- Regarding appointment of probationary candidates to the post of Water Conservation Officer (Civil) Group-B (Gazetted) in Maharashtra Engineering (Civil) Service Examination 2019\
+  [202406121259158826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121259158826.pdf)
+
+- Regarding appointment of probationary candidates to the post of Water Conservation Officer (Civil) Group-B (Gazetted) in Maharashtra Engineering (Civil) Service Examination 2019\
+  [202406121300547126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121300547126.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

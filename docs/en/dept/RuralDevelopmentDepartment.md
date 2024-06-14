@@ -1,19 +1,70 @@
 # Rural Development Department
 
-**Date Range**: 03 June 2024 - 08 June 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
 
 ## Funds
-- District Rural Development System - Regarding disbursement of grant for the year 2024-25 for distribution of salaries and allowances of administrative officers and employees.\
-  [202406071144593120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071144593120.pdf)
+- Regarding disbursement of funds of Rs.10.00 crores for development works under the development plan of Shri Sant Sewalal Maharaj, Pohradevi Manora District Washim pilgrimage site.\
+  [202406111021110020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111021110020.pdf)
+
+- Regarding disbursement of funds of Rs.10.00 crores for the works in the development plan of the pilgrimage area of Umari and Pohradevi, Manora, District Washim.\
+  [202406111021199920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111021199920.pdf)
 
 ## Miscellaneous
-- According New  Administrative Approval to the work under MMGSY-II in Dharashiv District\
-  [202406061451173620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061451173620.pdf)
+- Regarding the inclusion of non-plan roads in Hingoli Taluka (Dist-Hingoli)  as a Village Road in the Road Development Plan 2001-21.\
+  [202406111527180320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111527180320.pdf)
+
+- Regarding the downgrading of major district roads in Gondia taluka of Gondia district and keeping the same number again to other district roads and rural roads.\
+  [202406111455545920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111455545920.pdf)
+
+- Regarding the inclusion of non-plan roads in Wadwani Taluka (Dist-Beed)  as a Village Road in the Road Development Plan 2001-21.\
+  [202406111527110420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111527110420.pdf)
+
+- Regarding the inclusion of non-plan roads in Haveli Taluka (Dist-Pune)  as a Village Road in the Road Development Plan 2001-21.\
+  [202406111527036120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111527036120.pdf)
+
+- According New  Administrative Approval to the work under RD MMGSY-II scheme from Kolhapur District\
+  [202406111237260020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111237260020.pdf)
 
 ## Personnel
-- Regarding publish of provisional seniority list of officers in Maharashtra Development Service, Group-B from 1.1.2022 to 31.12.2023\
-  [202406061124488120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061124488120.pdf)
+- Maharashtra Development Services, Group-A Block Development Officer cadre - Posting Order\
+  [202406101555076120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101555076120.pdf)
+
+- Regarding the Change in Regular Posting of Block Development Officers, Group-A in Combined Probationary Training Program (CPTP)-7- Shri. Vivek M. Gund, Block Development Officer\
+  [202406101552375520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101552375520.pdf)
+
+- Regarding the Regular Posting of Assistant Block Development Officers, Group-B in Combined Probationary Training Program (CPTP)-7, who have been recommended on the basis of State Services Examination-2019- Shri. Mahesh Behekar, Assistant Block Development Officer\
+  [202406101554178420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101554178420.pdf)
+
+- Regarding the Regular Posting of Assistant Block Development Officers, Group-B in Combined Probationary Training Program (CPTP)-7, who have been recommended on the basis of State Services Examination-2019- Shri. Ajitkumar Bangar, Assistant Block Development Officer\
+  [202406101553318720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101553318720.pdf)
+
+- Regarding the posting of Assistant Block Development Officer, Group-B cadre officer in Maharashtra Development Service  Shri. Pratik D. Channawar\
+  [202406101554247720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101554247720.pdf)
+
+- Consolidated State Level Final Seniority List of Junior Engineers,  District Technical Services, Class-3 (Water Supply) in Zilla Parishad as on 01.01.2023 and 01.01.2024\
+  [202406131719299520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131719299520.pdf)
+
+- Regarding the Regular Posting of Assistant Block Development Officers, Group-B in Combined Probationary Training Program (CPTP)-7, who have been recommended on the basis of State Services Examination-2019- Shri. Mahesh Pandhare, Assistant Block Development Officer\
+  [202406101553256020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101553256020.pdf)
+
+- Regarding the Regular Posting of Assistant Block Development Officers, Group-B in Combined Probationary Training Program (CPTP)-7, who have been recommended on the basis of State Services Examination-2019- Shri. Uday Jadhav, Assistant Block Development Officer\
+  [202406101553123220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101553123220.pdf)
+
+- Regarding the Regular Posting of Assistant Block Development Officers, Group-B in Combined Probationary Training Program (CPTP)-7, who have been recommended on the basis of State Services Examination-2019- Smt. Pallavi Lande, Assistant Block Development Officer\
+  [202406101553406520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101553406520.pdf)
+
+- Regarding the Regular Posting of Assistant Block Development Officers, Group-B in Combined Probationary Training Program (CPTP)-7, who have been recommended on the basis of State Services Examination-2019- Shri. Akshay Bhagat, Assistant Block Development Officer\
+  [202406101553195620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101553195620.pdf)
+
+- Revised Policy for Inter-District Transfers of Teaching Cadre of Zilla Parishad\
+  [202406121427071920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121427071920.pdf)
+
+- Regarding request Transfer of Assistant Block Development officers, Group-B cadre in Maharashtra Development Services  Shri. P. M. Madavi, Assistant Block Development officer\
+  [202406101554370220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101554370220.pdf)
+
+- Regarding the Change in Regular Posting of Block Development Officers, Group-A in Combined Probationary Training Program (CPTP)-7- Smt. Poonam B. Rane, Block Development Officer\
+  [202406101553059120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101553059120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

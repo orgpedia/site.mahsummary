@@ -1,18 +1,14 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 03 June 2024 - 08 June 2024
+**Date Range**: 10 June 2024 - 15 June 2024
 
 
-## Funds
-- Regarding permission of Government of Maharashtra under section 68 of Electricity Act 2003 for Construction of 220 KV EHV Transmission line from M/s Ultratech Cement Limited Awarpur Cement Works to Ultratech Cement Limited Manikgad Cement works.\
-  [202406051307197610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051307197610.pdf)
+## Personnel
+- Regarding fixing the procedure for appointment of teachers on hourly basis as per the new scheme in N. M. Lokhande Maharashtra Institute of Labor Science, Mumbai and Nagpur\
+  [202406111746290510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111746290510.pdf)
 
-- Revised administrative approval for work of installation of 7 no. of new 33/11 kv substation at Reguntha, Aheri, Permilli and Kamlapur Dist. Gadchiroli and Maveshi, Padalne Dist. Ahmadnagar and Devdhari Dist. Yavatmal.\
-  [202406051703288210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051703288210.pdf)
-
-## Miscellaneous
-- Regarding providing administrative approval for electrification of unelectrified settlements in Surgana Taluka of Nashik District.\
-  [202406051707202810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406051707202810.pdf)
+- N.M. Lokhande Maharashtra Institute of Labour Science, regarding temporary permanent establishment at Mumbai and Nagpur\
+  [202406111740520410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111740520410.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
