@@ -10,9 +10,15 @@
 - Implementation of Restructed Weather Based Crop Insurance Scheme in State for Mrig and Ambiya Bahar from 2024-25 to 2025-26.\
   [202406121717353301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121717353301.......pdf)
 
+- Fund release for financial year 2024-25 for Nanaji Deshmukh Krushi Sanjivani Prakalp.\
+  [202406141517475301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141517475301....pdf)
+
 ## Miscellaneous
 - Stuttgart, Germany. D. 10th June to 15th June, 2024 (Including Travel Period) Foreign Tour of Shri.Raosaheb Bhagde, B.P.S., Commissioner (Agriculture), Commissionerate of Agriculture, State of Maharashtra, Pune.....\
   [202406101715088601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101715088601.pdf)
+
+- Regarding levying service fee of Rs.20/- per animal for pre-slaughter inspection of scheduled animals to be sacrificed on the occasion of Bakri Eid festival in the year 2024.\
+  [202406141604487501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141604487501.pdf)
 
 ## Personnel
 - Maharashtra Fisheries Service - Fisheries Development Officer, Fisheries Training Officer, Curator, Training and Extension Officer (Technical) Regarding appointment to the post of Group-B (Advertisement No.4/2020) through direct service.\

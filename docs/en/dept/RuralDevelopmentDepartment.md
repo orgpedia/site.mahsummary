@@ -10,6 +10,21 @@
 - Regarding disbursement of funds of Rs.10.00 crores for the works in the development plan of the pilgrimage area of Umari and Pohradevi, Manora, District Washim.\
   [202406111021199920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111021199920.pdf)
 
+- Ashadhiwari- 2024 On the occasion of Ashadhi Ekadashi, distributing funds for the work of providing temporary toilets and other facilities to the devotees accompanying the palanquin of Sant Nivrutinath Maharaj in Nashik district.\
+  [202406141130134720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141130134720.pdf)
+
+- Ashadhiwari- 2024 On the occasion of Ashadhi Ekadashi, disbursement of funds for the work of providing temporary toilets and other facilities to the devotees accompanying the palanquin of Sant Muktai in Jalgaon district.\
+  [202406141130193520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141130193520.pdf)
+
+- Ashadhiwari - 2024 Pune, Satara, Solapur on the occasion of Ashadhi Ekadashi Various passing through these districts To the devotees who are with the saints of stay to provide sanitary facilities Provision of temporary toilets at the site Regarding disbursement of funds for works to be done.\
+  [202406141129495920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141129495920.pdf)
+
+- Ashadhiwari - 2024 On the occasion of Ashadhi Ekadashi, giving subsidy to the Gram Panchayats on the palanquin route to provide facilities to the pilgrims accompanying the palanquins of various saints traveling through the districts of Pune, Satara, Solapur.\
+  [202406141130005720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141130005720.pdf)
+
+- Ashadhiwari- 2024 Satara and Solapur on the occasion of Ashadhi Ekadashi Various passing through these districts To the devotees who are with the saints Regarding disbursement of additional funds for the provision of temporary toilets and other facilities at the place of stay.\
+  [202406141130055320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141130055320.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Hingoli Taluka (Dist-Hingoli)  as a Village Road in the Road Development Plan 2001-21.\
   [202406111527180320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111527180320.pdf)

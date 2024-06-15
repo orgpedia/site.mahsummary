@@ -81,5 +81,8 @@
 - Administrative Approval for Purchased of Machinary   Equipment From State Plan Grant for the year 2024-25 for  ENT Department at Shree Chatrapati Shivaji Maharaj General Hospital, Solapur\
   [202406071832114813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406071832114813.pdf)
 
+- Administrative approval for purchase of furniture under the State Scheme to Vilasrao Deshmukh Government Medical College, Latur\
+  [202406131112182713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131112182713.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

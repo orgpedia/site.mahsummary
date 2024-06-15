@@ -13,6 +13,9 @@
 - Regarding disbursement of funds amounting to Rs.24,53,20,000/- as Mobilization to LT Technology Services Pvt Ltd (Consortium lead) and KPMG India LLP (Consortium Member) system integrators appointed for cyber security project.\
   [202406121802128429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121802128429.pdf)
 
+- Maharashtra State Road Transport Corporation under account heading 3055 0052-35 Modernization of Bus Stands and other facilities under Programme LNG of old diesel vehicles. Regarding disbursement of funds amounting to Rs.40.00 crore for conversion and maintenance of vehicles...\
+  [202406141536568029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141536568029.pdf)
+
 ## Miscellaneous
 - Subject in English : Appointment of Presenting Officer in the Departmental Enquiry of Shri. Sachin Bari, DySP\
   [202406061642021329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061642021329.pdf)

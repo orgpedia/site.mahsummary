@@ -23,5 +23,8 @@
 - Opening of Personal Deposit Account  for -  District  Additional Sessions Judge, Kallamb,  District Dharashiv ( Osmanabad).\
   [202406121554065912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121554065912.pdf)
 
+- Declaration of Disitrict and  Additional  Sessions Judge at Phaltan, District Satara , as Drawing and    Disbursing Officer.\
+  [202406141753065312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141753065312.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
