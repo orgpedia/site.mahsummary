@@ -1,18 +1,20 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 10 June 2024 - 15 June 2024
+**Date Range**: 17 June 2024 - 22 June 2024
 
 
-## Miscellaneous
-- Regarding giving administrative and financial approval to the budget for the renovation of District Industries Centre, Thane office.\
-  [202406141127294810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141127294810.pdf)
+## Funds
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Textile consumers for the year 2024-25\
+  [202406181506221610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181506221610.pdf)
 
-## Personnel
-- Regarding fixing the procedure for appointment of teachers on hourly basis as per the new scheme in N. M. Lokhande Maharashtra Institute of Labor Science, Mumbai and Nagpur\
-  [202406111746290510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111746290510.pdf)
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Industrial consumers for the year 2024-25 Revenue collected\
+  [202406181503404310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181503404310...pdf)
 
-- N.M. Lokhande Maharashtra Institute of Labour Science, regarding temporary permanent establishment at Mumbai and Nagpur\
-  [202406111740520410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111740520410.pdf)
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Agricultural pump consumers for the year 2024-25\
+  [202406181525461610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181525461610.pdf)
+
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Power loom consumers for the year 2024-25\
+  [202406181512534310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181512534310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

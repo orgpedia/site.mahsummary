@@ -1,37 +1,18 @@
 # Home Department
 
-**Date Range**: 10 June 2024 - 15 June 2024
+**Date Range**: 17 June 2024 - 22 June 2024
 
 
 ## Funds
-- Regarding disbursement of funds amounting to Rs.24,53,20,000/- as Mobilization to LT Technology Services Pvt Ltd (Consortium lead) and KPMG India LLP (Consortium Member) system integrators appointed for cyber security project.\
-  [202406101216408029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101216408029.pdf)
-
-- Regarding Administrative approval of the 04 Quarterly payment to M/s Secutech Automation India Pvt. Ltd. the implementing co. for facility Managemnt serivice, annual maintenance contract (Opex Quarterly payment) of work under Mantralaya Security Projectunder Home Dept.\
-  [202406101509032629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101509032629.pdf)
-
-- Regarding disbursement of funds amounting to Rs.24,53,20,000/- as Mobilization to LT Technology Services Pvt Ltd (Consortium lead) and KPMG India LLP (Consortium Member) system integrators appointed for cyber security project.\
-  [202406121802128429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121802128429.pdf)
-
-- Maharashtra State Road Transport Corporation under account heading 3055 0052-35 Modernization of Bus Stands and other facilities under Programme LNG of old diesel vehicles. Regarding disbursement of funds amounting to Rs.40.00 crore for conversion and maintenance of vehicles...\
-  [202406141536568029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406141536568029.pdf)
+- Regarding administrative Approval for irrigation rehabilitation expenditure for Area 10 H.R in Group No.308, Mauje Umroli, New Palghar District Jail at Palghar.Dist.\
+  [202406181604538329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181604538329.pdf)
 
 ## Miscellaneous
-- Subject in English : Appointment of Presenting Officer in the Departmental Enquiry of Shri. Sachin Bari, DySP\
-  [202406061642021329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061642021329.pdf)
+- Regarding revised restructuring as per approved diagram of State Excise Department.....\
+  [202406181650372629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181650372629....pdf)
 
-- Regarding the formation of a committee to conduct a high-level inquiry into the illegal billboard collapse incident at Ghatkopar, Mumbai....\
-  [202406101459500529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101459500529.pdf)
-
-- Appointment of Enquiry Officer in the Departmental Enquiry of Shri. Sachin Bari, DySP\
-  [202406061641541429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061641541429.pdf)
-
-- Regarding the extension of the post of independent competent authority and ancillary staff for effective implementation of the Protection of Interest of Maharashtra Depositors (Financial Establishment) Act, 1999.\
-  [202406121444412829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406121444412829.pdf)
-
-## Personnel
-- Transfer request in the cadre of Motor Vehicle Inspector.\
-  [202406101719478629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101719478629.pdf)
+- Regarding determination of scope of posts as per revised restructuring of State Excise Department\
+  [202406181650443129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181650443129...............pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

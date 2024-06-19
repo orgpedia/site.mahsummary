@@ -1,14 +1,11 @@
 # Public Works Department
 
-**Date Range**: 10 June 2024 - 15 June 2024
+**Date Range**: 17 June 2024 - 22 June 2024
 
 
-## Personnel
-- Regarding creation of 1 post of Superintending Engineer for Maharashtra State Infrastructure Development Corporation(MSIDC)\
-  [202406101125218718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101125218718.pdf)
-
-- Dated 01/01/2016, Dated 01/01/2017, Dated 01/01/2018, Dated 01/01/2019, Dated 01/01/2020 of the cadre of Superintending Engineer (Electrical) in Public Works Department. Final seniority list on 01/01/2021, 01/01/2022, 01/01/2023 and 01/01/2024.\
-  [202406101517469718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406101517469718.pdf)
+## Miscellaneous
+- Corrigendum of the final seniority list published on 11.12.2020 for the period 01.01.1989 to 31.12.2018 of Civil Engineering Assistant cadre.\
+  [202406181202408918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181202408918.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
