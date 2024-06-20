@@ -14,5 +14,15 @@
 - Regarding determination of scope of posts as per revised restructuring of State Excise Department\
   [202406181650443129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181650443129...............pdf)
 
+- Regarding the Appointment and fees of Mr. Siddharth Dharmadhikari, Chief Public Prosecutor, Supreme Court, New Delhi, Assistant Mr. Aaditya Pande and Ms. Gunjan Mangla.\
+  [202406191440345929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191440345929.pdf)
+
+- Regarding Extension of Surrender Scheme for Naxalites.\
+  [202406191443114829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191443114829.pdf)
+
+## Personnel
+- Regarding transfer/posting of I.P.S. officers.\
+  [202406191826547229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191826547229.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

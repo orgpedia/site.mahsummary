@@ -7,6 +7,9 @@
 - 10 photographs for the Directorate General of Information and Public Relations in the financial year 2024-25 (Still) cameras and their utility as well A total of 10 movie (video) cameras and their  1,92,09,328 for general welfare purchases Regarding obtaining administrative and financial approval of expenditure\
   [202406181512212407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181512212407.pdf)
 
+- Increase Permenant Advance\
+  [202406191230214007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191230214007.pdf)
+
 ## Miscellaneous
 - Regarding giving administrative and financial approval to repair and renovation works of Maharashtra State Information Commission, Konkan Bench.\
   [202406181533170407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181533170407.pdf)

@@ -1,18 +1,18 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 10 June 2024 - 15 June 2024
+**Date Range**: 17 June 2024 - 22 June 2024
 
 
 ## Funds
-- Regarding approving the extension of term of the apprentice candidates and the cost of stipend for new appointment under the Shreyas Apprenticeship Scheme of the Central Government.\
-  [202406061615156823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406061615156823.pdf)
-
-- Regarding approval of Tourism Marketing Plan 2024-25 for the financial year 2024-25\
-  [202406131134402523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131134402523.pdf)
+- Regarding giving the status of A class tourist spot to Srikshetra Rajureshwar Mahaganpati, Rajur, Sub-district Bhokardan, District Jalna in Jalna city.\
+  [202406191550446823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191550446823.pdf)
 
 ## Miscellaneous
-- Regarding cancellation of approval of administratively approved works under Regional Tourism Development Scheme 2023-24 regarding giving administrative approval to new works.\
-  [202406131528203723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406131528203723.pdf)
+- Pursuant to the change in the implementation system of new works approved administratively under the Regional Tourism Development Plan....\
+  [202406191546363323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191546363323.pdf)
+
+- Khanderi Fort, Alibaug, Dist. Final notification regarding declaration of Raigad as State Protected Monument\
+  [202406191700106023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191700106023.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

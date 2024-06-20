@@ -16,5 +16,9 @@
 - Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Power loom consumers for the year 2024-25\
   [202406181512534310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181512534310.pdf)
 
+## Miscellaneous
+- Regarding the recommendation / cancellation of appointment by the Maharashtra Public Service Commission for appointment by nomination to the post of Assistant Director, Group B of the Director, Directorate of Industrial Safety and Health, Mumbai.\
+  [202406191242372910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191242372910.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
