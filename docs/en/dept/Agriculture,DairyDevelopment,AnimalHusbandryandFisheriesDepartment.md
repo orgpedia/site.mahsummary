@@ -16,6 +16,9 @@
 - Regarding disbursement of Rs.25.72 crore under the Gopinath Munde Farmers Accident Safety Grant Scheme in the financial year 2024-25.\
   [202406191632343301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191632343301.pdf)
 
+- Regarding disbursement of first installment fund for general category under Agricultural Mechanization Sub Mission in the year 2024-25.\
+  [202406201134229901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201134229901.pdf)
+
 ## Personnel
 - Regarding promotion from Maharashtra Agricultural Service, Group-B (Junior) to Maharashtra Agricultural Service, Group-B.....\
   [202406181551101601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181551101601.pdf)

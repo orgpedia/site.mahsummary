@@ -14,9 +14,27 @@
 - Regarding giving administrative and financial approval to repair and renovation works of Maharashtra State Information Commission, Konkan Bench.\
   [202406181533170407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181533170407.pdf)
 
+- One week in-service Training Programme Year 2024-25 for AIS officers\
+  [202406201625474907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201625474907.pdf)
+
+- Regarding declaration of result of Assistant Section Officer Post Recruitment Training Examination 2023.\
+  [202406201507235507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201507235507.pdf)
+
 ## Personnel
 - CPTP-9 Desk officer cadre temporary posting order.\
   [202406181139060007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181139060007.pdf)
+
+- Clerk-Typist (Marathi/ English) Exam-2022 Allotment of candidates recommended by Maharashtra Public Service Commission from the waiting list to the post of Clerk-Typist (Marathi/ English) in the Mantralaya and various offices of the State Government in Brihanmumbai.\
+  [202406201431224807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201431224807.....pdf)
+
+- Mid-term transfer of Under Secretary\
+  [202406201831030707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201831030707.pdf)
+
+- Temporary promotion to the post of Under Secretary from Section Officer Cadre\
+  [202406201826435007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201826435007.pdf)
+
+- Regarding finalization of provisional seniority from 01.01.2018 to 01.01.2023 of Deputy Secretary cadre.\
+  [202406201503359907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201503359907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
