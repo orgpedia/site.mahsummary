@@ -20,9 +20,15 @@
 - Regarding Extension of Surrender Scheme for Naxalites.\
   [202406191443114829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191443114829.pdf)
 
+- In Ratnagiri and Sangli divisions, Rep. Regarding allowing 50 percent free travel concession to women, 50 percent to senior citizens between 65 years to 75 years and 100 percent free travel concession to senior citizens above 75 years in the city bus transport run by the corporation.\
+  [202406211712411929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211712411929.pdf)
+
 ## Personnel
 - Regarding transfer/posting of I.P.S. officers.\
   [202406191826547229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191826547229.pdf)
+
+- Provisional Seniority List of Superintendent (Group-A) Cadre in State Excise Department as on 01.01.2023 and 01.01.2024.\
+  [202406211743259929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211743259929.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

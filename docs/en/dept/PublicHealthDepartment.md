@@ -23,9 +23,18 @@
 - Maharashtra Medical and Health Services, regarding cancellation of appointment of candidates who have not attended the document verification among the candidates recommended by the nomination for the post of Medical Officer, Group-A, in the cadre of Group-A.\
   [202406111235570017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111235570017.pdf)
 
+- Regarding declaration as Head of Office and Drawing and Disbursement Officer for the office of sub district Hospital, Lohagaon, Pune.\
+  [202406211113426017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211113426017.pdf)
+
 ## Personnel
 - Regarding giving administrative approval to pay the compensation amount for 10 acres of land in Survey No.37 at Latur to Vasantrao Naik Marathwada Agricultural University, Parbhani for the District Hospital, Latur.\
   [202406191239493117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191239493117.pdf)
+
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate\
+  [202406111236080017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111236080017.pdf)
+
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate\
+  [202406111236150117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406111236150117.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

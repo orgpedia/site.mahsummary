@@ -19,6 +19,9 @@
 - Regarding disbursement of first installment fund for general category under Agricultural Mechanization Sub Mission in the year 2024-25.\
   [202406201134229901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201134229901.pdf)
 
+- Release of Rs.87.70 Cr. grant under RKVY- Per Drop More Crop (Micro Irrigation), (General category) for FY 2024-25.\
+  [202406211750220301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211750220301.pdf)
+
 ## Personnel
 - Regarding promotion from Maharashtra Agricultural Service, Group-B (Junior) to Maharashtra Agricultural Service, Group-B.....\
   [202406181551101601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181551101601.pdf)

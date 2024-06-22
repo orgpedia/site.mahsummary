@@ -20,6 +20,9 @@
 - Annual Plan Year 2024-25 regarding disbursement of funds under the head of Promotion, Publicity and Training (2406 8589).\
   [202406201523264719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201523264719.pdf)
 
+- Forest Land-Satara Re-Diversion of 0.026 ha. of Forest land under Van (Sanrakshan Evam Sanvardhan) Adhiniyam, 1980 in favour of M/s. Bharti Airtel Ltd., Pune for laying of underground Optical Fiber Cable Within RoW of the Existing Road at Village Kombadwadi, Taluka - Koregaon, District-Satara  in the State of Maharashtra.\
+  [202406211447509919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211447509919.pdf)
+
 ## Personnel
 - Transfer of Mr. Shivaji Hanumant Bhosale, District Superintendent Land Records, Washim..\
   [202406201752381919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201752381919.pdf)

@@ -10,6 +10,12 @@
 - Increase Permenant Advance\
   [202406191230214007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191230214007.pdf)
 
+- Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Prabodhini, Amravati Assistant Grant Year 2024-25 (Compulsory) (Second Installment)\
+  [202406211642496507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211642496507.pdf)
+
+- Regarding giving advice and guidance (End to End Key Solution) at all stages of the tender process, to approve the disbursement of consulting fees of Rs.36,77,234/- of M.Ernst  Young Company, Mumbai from the provision of the financial year 2024-25\
+  [202406211110176507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211110176507.pdf)
+
 ## Miscellaneous
 - Regarding giving administrative and financial approval to repair and renovation works of Maharashtra State Information Commission, Konkan Bench.\
   [202406181533170407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181533170407.pdf)

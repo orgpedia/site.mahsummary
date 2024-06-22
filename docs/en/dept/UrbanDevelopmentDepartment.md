@@ -7,6 +7,9 @@
 - Release of surcharge on stamp duty to Mumbai Metro Rail Project to the implementing agencies of the Vital Urban Transport Project of Mumbai, Nagpur and Pune Metro Railway from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949. (FY 2024-25)\
   [202406201637404925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201637404925.pdf)
 
+- Release of State Government Subordinate Debt for Nagpur Metro Railway Project to Maharashtra Rail Corporation Ltd. (FY 2024-25)\
+  [202406211421276225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211421276225.pdf)
+
 ## Miscellaneous
 - Regarding opening of new account head for PM E-Bus Seva Yojana sponsored by Central Government.\
   [202406191149242925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191149242925.pdf)
