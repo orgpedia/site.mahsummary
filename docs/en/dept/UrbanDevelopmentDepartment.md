@@ -1,24 +1,33 @@
 # Urban Development Department
 
-**Date Range**: 17 June 2024 - 22 June 2024
+**Date Range**: 24 June 2024 - 29 June 2024
 
 
 ## Funds
-- Release of surcharge on stamp duty to Mumbai Metro Rail Project to the implementing agencies of the Vital Urban Transport Project of Mumbai, Nagpur and Pune Metro Railway from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949. (FY 2024-25)\
-  [202406201637404925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201637404925.pdf)
+- Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro Rail Line-6 (Swami Samarth Nagar - Jogeshwari - Vikhroli) project. (Year 2024-25)\
+  [202406241811571325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241811571325.pdf)
 
-- Release of State Government Subordinate Debt for Nagpur Metro Railway Project to Maharashtra Rail Corporation Ltd. (FY 2024-25)\
-  [202406211421276225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211421276225.pdf)
+- Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro-7 (Andheri (East) - Dahisar (East)) Project. (Year 2024-25)\
+  [202406241821411525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241821411525.pdf)
 
-## Miscellaneous
-- Regarding opening of new account head for PM E-Bus Seva Yojana sponsored by Central Government.\
-  [202406191149242925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191149242925.pdf)
+- Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro Rail Line-5 (Thane-Kalyan-Bhiwandi) project. (Year 2024-25)\
+  [202406241808326425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241808326425.pdf)
 
-- Regarding the formation of a study committee to prepare a Standard Operating Procedure (SOP) for Civil Local Self-Government bodies to protect the rights of the dead in the state.\
-  [202406191800198525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191800198525.pdf)
+- Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro-2B (DN Nagar-Mandale) project. (Year 2024-25)\
+  [202406241816445225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241816445225.pdf)
 
-- Regarding approval of the Akola Municipal Corporation Recruitment Rules 2024.\
-  [202406201649352925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201649352925.pdf)
+- Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro-2A, (Dahisar(East)-DN Nagar) project. (Year 2024-25)\
+  [202406241814183125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241814183125.pdf)
+
+- Regarding disbursement of State Government secondary loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro-4 Wadala-Ghatkopar-Mulund-Thane-Kasarvadvali and 4A Kasarvadvali-Gaymukh projects. (Year 2024-25)\
+  [202406241819090725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241819090725.pdf)
+
+- Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro Route-9 (Dahisar to Mira-Bhainder) and Route-7A (Andheri-Chhatrapati Shivaji Maharaj International Airport) projects. (Year 2024-25)\
+  [202406241824268925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241824268925.pdf)
+
+## Personnel
+- Nagpur Municipal Corporation Establishment Regarding the approval of the Government regarding the permanent classification of the services of Mr.  Kamlesh Prakash Partwar, Mohrir on the post of Clerk in the establishment of Akola Municipal Corporation.\
+  [202406241757053925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241757053925.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,24 +1,36 @@
 # School Education and Sports Department
 
-**Date Range**: 17 June 2024 - 22 June 2024
+**Date Range**: 24 June 2024 - 29 June 2024
 
-
-## Funds
-- Regarding giving first administrative approval to District / Taluka Sports Complexes as per approval of State Sports Committee\
-  [202406211638300721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211638300721.pdf)
 
 ## Miscellaneous
-- Consolidate instructions regarding 5-percentage reservation for sports person within the preview of Government, Semi Govt. and other institutes under the Govt.\
-  [202406201727439621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201727439621.pdf)
+- Selection committee for approval of honorarium given to senior sportspersons and titled wrestlers of Maharashtra who have performed outstandingly at national and international level.\
+  [202406241155101221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241155101221.pdf)
 
-- As per the decision of the Hon. High Court, Bombay in Writ Petition No. 11587/2019 Janseva Shikshan Sanstha, Sanchilit Janseva High School, Thergaon, District Kolhapur vs. Government of Maharashtra and others to declare the school eligible for Grant in aid.\
-  [202406201735504421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201735504421.pdf)
+## Personnel
+- Vishwabharat Education Institute Vaijapur, Distt. Chhatrapati Sambhajinagar Run Urdu Primary School Vaijapur, Distt. Regarding transfer of management of Chhatrapati Sambhajinagar School to Datar Charitable Society, Parbhani.\
+  [202406241828271321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241828271321.pdf)
 
-- Regarding to organize a competition to promote Nutrition Garden activities in schools under Pradhan Mantri Poshan Shakti Nirman Yojana.\
-  [202406211739239721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211739239721.pdf)
+- Regarding the transfer of management of P.R. Pote Patil International School, Amravati to P. R. Pote Patil Education and Welfare Trust, Camp Road, Amravati, run by Maratha Shikshan Sanstha, Ashti, District Wardha.\
+  [202406241845066221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241845066221.pdf)
 
-- Regarding implementation of road safety initiative...\
-  [202406211800417921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211800417921.pdf)
+- Regarding transfer of management of Rohan Higher Primary School, Manewada Road, Nagpur run by Navodaya Shikshan Sanstha, Nagpur to Sriram Swami Shikshan Sanstha, Nagpur.\
+  [202406241836085221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241836085221.pdf)
+
+- Janata Shikshan Sanstha, Kudli, Dist.Ratnagiri Run Secondary School, Kudli, Dist.Ratnagiri to Netaji Subhash Chandra Bose Shikshan Prasarak Mandal, Kasegaon, Dist.Solapur regarding transfer of management.\
+  [202406241839238821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241839238821.pdf)
+
+- Regarding transfer of management of the school run by Vidyadham Pratisthan Chhatrapati Sambhajinagar to Vidyadham Public School Aurangpura, Chhatrapati Sambhajinagar, to Renuka Mahila Vikas Sevabhavi Sanstha, Chhatrapati Sambhajinagar\
+  [202406241831054721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241831054721.pdf)
+
+- Balakrishna Multipurpose Educational Institute, Masala, Dist.Nagpur run Buddhishta Residential School, Sihora/Kanhan, Dist.Nagpur School, Kamthi Naka No.2, Nagpur regarding relocation.\
+  [202406241833487021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241833487021.pdf)
+
+- Indian Institute of Education, Navargaon Self-Owned. Balaji Patil Borkar Arts and Science Junior College, Palasgaon (Jat), Chandrapur Dist. Regarding migration to Chandrapur.\
+  [202406241847505321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241847505321.pdf)
+
+- Regarding transfer of management of Sri Bhagwan Vidya Prasarak Mandal, Beed operated Mahatma Phule Secondary and Higher Secondary School, Charhata, Beed to Kai Rambhau (Anna) Khade Charitable Institution, Laxminagar, Latur.\
+  [202406241842390421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241842390421.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
