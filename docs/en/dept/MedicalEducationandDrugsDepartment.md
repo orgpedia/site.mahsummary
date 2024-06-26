@@ -1,34 +1,28 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 17 June 2024 - 22 June 2024
+**Date Range**: 24 June 2024 - 29 June 2024
 
 
 ## Funds
-- Administrative Approval for Advance Heart Operation Complex from state plan grant at Sasoon General Hospital, Pune\
-  [202406201808412113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201808412113.pdf)
+- Regarding approval of building on rent for the newly constructed college, Government Medical College, Hingoli.\
+  [202406251238587213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251238587213.pdf)
 
-- Administrative Approval for purchase of Machinary  Equipment from state plan grant at chatrapati pramilaraje general hospital, kolhapur\
-  [202406201808495113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201808495113.pdf)
-
-- Administrative Approval For Purchase of Machinary  Equipment from state plane grant at Chatrapati Pramilaraje General Hospital, Kolhapur\
-  [202406201808561013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201808561013.pdf)
+- Regarding approval to take building on rent for the newly constructed college, Government Medical College, Jalna.\
+  [202406251238543813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251238543813.pdf)
 
 ## Miscellaneous
-- Regarding approving the opening of Private Account Account (PLA) for the institution Government Medical College, Sindhudurg.\
-  [202406181728581813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181728581813.pdf)
+- Regarding approval to provide four wheeler vehicles on lease to Heads of Offices/Superintendents in the organizations under the Directorate for government work.\
+  [202406241447515513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241447515513.pdf)
 
-- Administrative approval for Estimate of Construction  of Retrofitting   at Govt. Medical College  Bhandara\
-  [202406181850132013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181850132013.pdf)
+- Construction of Forensic Building for Rajashree Chhatrapati Shahu Maharaj Medical College at Shenda Park Kolhapur\
+  [202406251239114913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251239114913.pdf)
 
-- Administrative approval for Estimate of Retrofitting of Nurses Quarters at Govt. College  Bhandara\
-  [202406181850268713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181850268713.pdf)
+- Administrative Approval for  of construction  estimate of  Concreat of internal roads  vehical parking in campus at Rajarshi Chatrapati Shahu Maharaj Government Medical College, Shendapark, Kolhapur\
+  [202406251239163813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251239163813.pdf)
 
 ## Personnel
-- Administrative Approval for Purchase of Machinary  Equipment from state plan grant at Vilasrao Deshmukh Government Medical College, Latur\
-  [202406211726053513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211726053513.pdf)
-
-- Administrative Approval For Purchase of Machinary  Equipment from state plan grant at Shri Chatrapati  Shivaji Maharaj General Hospital, Solapur\
-  [202406211726134613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406211726134613.pdf)
+- Regarding the transfer of the buildings under the possession of Shri Bhausaheb Hire Government Medical College and General Hospital, Dhule to the Public Health Department.\
+  [202406251536569913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251536569913.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
