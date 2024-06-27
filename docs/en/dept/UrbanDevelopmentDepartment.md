@@ -25,9 +25,15 @@
 - Regarding disbursement of secondary loan of State Government to Mumbai Metropolitan Region Development Authority for Mumbai Metro Route-9 (Dahisar to Mira-Bhainder) and Route-7A (Andheri-Chhatrapati Shivaji Maharaj International Airport) projects. (Year 2024-25)\
   [202406241824268925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241824268925.pdf)
 
+- Regarding disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro 2-A, 2-B, and 7 projects (Year 2024-25)\
+  [202406261456492725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261456492725.pdf)
+
 ## Miscellaneous
 - Regarding constitution of coordination committee for making recommendations to the government regarding setting up of Urban Transport Fund (UTF) at the state government level and the allocation of the said fund and also to control and coordinate vital urban transport projects.\
   [202406251451394225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251451394225...pdf)
+
+- M.Royal Western India Turf Club Ltd. in Schedule W of the Mumbai Municipal Corporation Act, 1888. Regarding the revision of the rate of rental charge admissible on Government land granted to them under lease agreement.\
+  [202406261833403225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261833403225.pdf)
 
 ## Personnel
 - Nagpur Municipal Corporation Establishment Regarding the approval of the Government regarding the permanent classification of the services of Mr.  Kamlesh Prakash Partwar, Mohrir on the post of Clerk in the establishment of Akola Municipal Corporation.\

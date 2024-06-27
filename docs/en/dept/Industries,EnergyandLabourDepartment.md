@@ -11,5 +11,11 @@
 - Regarding promotion of Additional Commissioner Labour, Group-A\
   [202406251340487210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251340487210.pdf)
 
+- Regarding giving regular posting to Deputy Director of Industries (Technical), Group-A cadre who have been recommended under State Services Main Examination-2019 and have completed training under Combined Probationary Training Program-7\
+  [202406261253012310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261253012310.pdf)
+
+- Regarding transfers of regular employees in Mathadi Boards and Private Security Guard Boards\
+  [202406261434522610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261434522610.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

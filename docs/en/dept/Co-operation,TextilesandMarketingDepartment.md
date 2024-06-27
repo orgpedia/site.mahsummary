@@ -14,5 +14,8 @@
 - One time Special settlement scheme for The Karmala urban co- operative bank ltd. Karmala\
   [202406251554223502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251554223502.pdf)
 
+- Regarding fixing the terms and conditions for subsidy of Rs.1.50 per unit of electricity sold to Mahavitaran by projects for Bagan based co-generation of sugar mills in the State.\
+  [202406261647482902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261647482902.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

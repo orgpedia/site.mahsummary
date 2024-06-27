@@ -16,5 +16,9 @@
 - Regarding granting administrative approval to the budget for the proposed conservation wall construction at Mauje Amdapur, T.Chikhali, District Buldhana. . (Corrigendum)\
   [202406241710306427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241710306427.pdf)
 
+## Personnel
+- Regarding cancellation of temporary appointment by nomination to the post of Assistant Engineer, Grade-1 (Civil), Group-A in Maharashtra Engineering (Civil) Services Main Examination-2021.....\
+  [202406261140593027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261140593027.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
