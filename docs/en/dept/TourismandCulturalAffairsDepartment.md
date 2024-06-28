@@ -14,5 +14,8 @@
 - Soneri Mahal, And regarding giving B-1 tender and revised administrative approval for the preservation and repair work of the State Protected Monument of District Chhatrapati Sambhajinagar...\
   [202406261711373223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261711373223.pdf)
 
+- Regarding constitution of committee for implementation of Swachhata Green Leaf Rating.\
+  [202406271008197423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271008197423.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

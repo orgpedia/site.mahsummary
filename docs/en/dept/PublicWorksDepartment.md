@@ -1,14 +1,15 @@
 # Public Works Department
 
-**Date Range**: 17 June 2024 - 22 June 2024
+**Date Range**: 24 June 2024 - 29 June 2024
 
+
+## Funds
+- Approval of reimbursement for payment of medical expenses. Mr. Jayant Janardhan Yadav, Majoor\
+  [202406271133139318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271133139318.pdf)
 
 ## Miscellaneous
-- Corrigendum of the final seniority list published on 11.12.2020 for the period 01.01.1989 to 31.12.2018 of Civil Engineering Assistant cadre.\
-  [202406181202408918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406181202408918.pdf)
-
-- CORRIGENDUM upgradation Malakoli-Waghdarwadi-Chondi-Prajima-59 Dagdasawangi-Umaraj-R.M.56 Prajima-68 Talyaki Wadi to Prajima-69 road in Loha Taluka of Nanded District as Major District Road.\
-  [202406201723476818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406201723476818.pdf)
+- Upgradation of other district road to Major District Road in taluka Aambegaon at distrct Pune.\
+  [202406271205525018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271205525018.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

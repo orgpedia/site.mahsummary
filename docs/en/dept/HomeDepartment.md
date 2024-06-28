@@ -20,6 +20,12 @@
 - Administrative Approval for Construction of Main compound wall of Kalyan District Prison\
   [202406261507564429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261507564429.pdf)
 
+- Regarding payment of professional fees to Adv. Mr.  Ajay Miser. Arising out of the crime filed under Gu.No.No.75/2022 at Po.Tha.Vedantnagar. High District and Sessions Court No.-8 Aurangabad for judicial proceedings in this Court.\
+  [202406271528409729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271528409729.pdf)
+
+- Regarding constitution of State Maritime  Waterway Transport Committee.\
+  [202406271701163829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271701163829.pdf)
+
 ## Personnel
 - Guidelines on Admission of Ministry Visitors\
   [202406251653455729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251653455729.pdf)

@@ -29,5 +29,8 @@
 - According New Administrative Approval to the work under RD MMGSY-II scheme from Bhandara Distst\
   [202406261527440320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261527440320.pdf)
 
+- Relaxation of the condition of selecting the minimum 03 km road length criteria under Mukhyamantri Gram Sadak Yojana Phase-2 (Batch-1).\
+  [202406271054023620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271054023620.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

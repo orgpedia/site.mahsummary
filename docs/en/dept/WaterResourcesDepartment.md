@@ -20,5 +20,8 @@
 - Regarding cancellation of temporary appointment by nomination to the post of Assistant Engineer, Grade-1 (Civil), Group-A in Maharashtra Engineering (Civil) Services Main Examination-2021.....\
   [202406261140593027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261140593027.pdf)
 
+- Temporary Seniority List of Assistant Engineer Grade-1 (Civil), Group-A  as on 01.01.2024\
+  [202406271604569827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271604569827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

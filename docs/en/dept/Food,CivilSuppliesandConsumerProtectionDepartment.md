@@ -7,6 +7,10 @@
 - Regarding revision of district wise quota under National Food Security Act, 2013 based on information on Ration Management System (RCMS)\
   [202406261736444306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261736444306....pdf)
 
+## Miscellaneous
+- Regarding termination of deputation of Mr. Prashant Shantaram Awte, District Supply Officer, Pune on the said post...\
+  [202406271824020206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271824020206.pdf)
+
 ## Personnel
 - Regarding returning the services of Mr. Dadasaheb Raghunath Gite, Foodgrain Distribution Officer, Pune (original cadre Deputy Collector, Group-A) to the Revenue and Forest Department...\
   [202406251505417506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251505417506.pdf)

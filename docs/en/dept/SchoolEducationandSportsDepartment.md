@@ -14,6 +14,9 @@
 - Pallavi Secondary School, Dudhamala, run by Ayurveda Utkarsh Mandal, Vidarbha Pradesh, Nagpur. Dhanora Dist. Mauja Pendhari of Gadchiroli, an unaided secondary school of Marathi medium (8th to 10th standard). Dhanora Dist. Regarding shifting to Gadchiroli.\
   [202406261837232321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261837232321....pdf)
 
+- Maharashtra Education Service Group-B (Education Branch) to complete the post of Senior Lecturer on Probationary Competent.\
+  [202406271240207221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271240207221...pdf)
+
 ## Personnel
 - Vishwabharat Education Institute Vaijapur, Distt. Chhatrapati Sambhajinagar Run Urdu Primary School Vaijapur, Distt. Regarding transfer of management of Chhatrapati Sambhajinagar School to Datar Charitable Society, Parbhani.\
   [202406241828271321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241828271321.pdf)

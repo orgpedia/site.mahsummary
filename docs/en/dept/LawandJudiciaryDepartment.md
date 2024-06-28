@@ -29,5 +29,15 @@
 - Construction of total 8 Residential Quarters 2 for District Judges, 2 for Civil Judge (S.D.), 4 for Civil Judge (J.D.) at Ghodnadi-Shirur, Dist Pune.\
   [202406261259514412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261259514412.pdf)
 
+- To accord revised administrative approval for purchase of new labai vahan for the use of Honble High Court of Bombay.\
+  [202406271626453812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271626453812.pdf)
+
+- Outsourcing of the services of Lower Grade Stenographer -6 and Clerk-Typist-18 in the Office of Government Pleader, High Court, Bench at Aurangabad.\
+  [202406271143054112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271143054112.pdf)
+
+## Personnel
+- According administrative approval for acquiring space in CTO-Annexue building and space of customer services centre  legal section on rental basis for official use of Honble High Court of  Bombay.\
+  [202406271059372812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271059372812.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

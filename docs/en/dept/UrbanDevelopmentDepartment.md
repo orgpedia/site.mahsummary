@@ -28,6 +28,9 @@
 - Regarding disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro 2-A, 2-B, and 7 projects (Year 2024-25)\
   [202406261456492725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261456492725.pdf)
 
+- To disburse the loan received from the external financial institution, Asian Infrastructure Investment Bank (AIIB) and OPEC Fund for International Development (OFID) for the Mumbai Metro Marg-5 (Thane-Bhiwandi-Kalyan) project to the authority and to recover the loan principal from the authority and recover the interest on the loan. About opening a new account to do.\
+  [202406271539376525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271539376525.pdf)
+
 ## Miscellaneous
 - Regarding constitution of coordination committee for making recommendations to the government regarding setting up of Urban Transport Fund (UTF) at the state government level and the allocation of the said fund and also to control and coordinate vital urban transport projects.\
   [202406251451394225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251451394225...pdf)
