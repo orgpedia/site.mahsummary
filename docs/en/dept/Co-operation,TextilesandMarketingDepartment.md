@@ -7,6 +7,9 @@
 - Equity contribution to Maharashtra Cooperative Development Corporation under Atal Financial Assistance Scheme for Cooperative Societies (44250712) 32-contribution\
   [202406251154533302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251154533302.pdf)
 
+- Regarding release of funds for Maharashtra State Cashew Board for the year 2024-25...\
+  [202406281155000302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281155000302.pdf)
+
 ## Miscellaneous
 - Regarding the extension of Atal Financial Assistance Scheme for Cooperative Societies for the year 2024-25\
   [202406241514176302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241514176302.pdf)

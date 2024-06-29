@@ -23,5 +23,8 @@
 - Temporary Seniority List of Assistant Engineer Grade-1 (Civil), Group-A  as on 01.01.2024\
   [202406271604569827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271604569827.pdf)
 
+- Provisional seniority list for the cadre of Chief Engineer (Mechanical) in Water Resources Department as on 01.01.2024.\
+  [202406281447360827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281447360827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

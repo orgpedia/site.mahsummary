@@ -16,9 +16,15 @@
 - Second Registrar Grade-1, Chimur, Distt. Regarding giving administrative approval for new building construction of office Chandrapur.\
   [202406271118561219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271118561219.pdf)
 
+- Regarding approving the purchase of materials to be supplied to the response system of the Indian Army for search and rescue operations from the funds received for capacity building and preparedness.\
+  [202406281244134619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281244134619.pdf)
+
 ## Miscellaneous
 - Regarding the suspension of Mr. Sanjay Munjajirao Ghodjakar, Associate Sub-Registrar Class-2, Kurla No.4.\
   [202406261209042319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261209042319.pdf)
+
+- Floods caused by heavy rains, landslides or large cracks in the ground, landslides or landslides etc. In accordance with the rehabilitation of these disaster-prone villages and the provision of civil facilities, dt. Government Decision issued on October 14, 2022 regarding the inclusion of the natural calamity earthquake.\
+  [202406281605186719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281605186719.pdf)
 
 ## Personnel
 - Post by promotion from Assistant Conservator of Forests, Group-A (Junior Grade) to Divisional Forest Officer, Group-A (Senior Grade).\

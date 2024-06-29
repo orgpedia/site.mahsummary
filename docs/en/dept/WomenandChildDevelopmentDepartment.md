@@ -10,6 +10,9 @@
 - Regarding disbursement of funds budgeted for the financial year 2024-25 for the Lake Ladki scheme.\
   [202406241328213430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241328213430.pdf)
 
+- Regarding approval of Mukhyamantri-Mazi Ladki Bahin Scheme in the State of Maharashtra\
+  [202406281814018230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281814018230.pdf)
+
 ## Miscellaneous
 - Services of 5 Consultants of KPMG Institute for Department of Women and Child Development (self) and Office under the Department from 20/09/2023 to Dt. Granting continuation upto 31.03.2024.\
   [202406261549032830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261549032830.pdf)

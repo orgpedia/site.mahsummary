@@ -38,6 +38,9 @@
 - M.Royal Western India Turf Club Ltd. in Schedule W of the Mumbai Municipal Corporation Act, 1888. Regarding the revision of the rate of rental charge admissible on Government land granted to them under lease agreement.\
   [202406261833403225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261833403225.pdf)
 
+- To appoint SNA, Nodal officer  independent Bank Account for Centrally Sponsored pm-e Bus Sewa Scheme.\
+  [202406281116172925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281116172925.pdf)
+
 ## Personnel
 - Nagpur Municipal Corporation Establishment Regarding the approval of the Government regarding the permanent classification of the services of Mr.  Kamlesh Prakash Partwar, Mohrir on the post of Clerk in the establishment of Akola Municipal Corporation.\
   [202406241757053925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241757053925.pdf)

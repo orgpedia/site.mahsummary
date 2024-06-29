@@ -26,6 +26,12 @@
 - Regarding authorizing the Joint Secretary/Deputy Secretary (College Education), Department of Higher and Technical Education to sign the plans of Savitri Devi Phule Womens Hostel, Charni Road, Mumbai from the Government level...\
   [202406271441419408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271441419408.pdf)
 
+- Probation completion of Lecturer in Government polytechnic, Maharashtra Polytechnic Teachers Group-A.\
+  [202406281734310708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281734310708.pdf)
+
+- Probation completion of Lecturer in Government polytechnic, Maharashtra Polytechnic Teachers Group-A.\
+  [202406281731451208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281731451208.pdf)
+
 ## Personnel
 - To cancel the order regarding transferring the services of Mr. Manoj Hedau, Assistant Professor (Civil) to the supernumerary post\
   [202406261513013008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261513013008.pdf)

@@ -7,6 +7,12 @@
 - 251 to 600 ha. Disbursement of funds for new/in-progress projects Dist. Ahmednagar (Former Maharashtra Division)\
   [202406241426261526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241426261526.pdf)
 
+- Regarding the distribution of funds under the scheme of GDGS -District-Satara.\
+  [202406281429510726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281429510726..pdf)
+
+- Regarding the distribution of funds under the scheme of GDGS - District - Pune.\
+  [202406281425553726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281425553726.pdf)
+
 ## Miscellaneous
 - Regarding inclusion of Mr. Suresh Devsingh Jadhav, Branch Engineer who has been deputed to Soil and Water Conservation Departmen\
   [202406241659242026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241659242026.pdf)

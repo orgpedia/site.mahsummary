@@ -26,6 +26,9 @@
 - Regarding constitution of State Maritime  Waterway Transport Committee.\
   [202406271701163829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271701163829.pdf)
 
+- Appointed as project consultant to implement modernization project of police control rooms (DIAL-112) in the state. Regarding extension of time to Ernst  Young.\
+  [202406281655529729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281655529729.pdf)
+
 ## Personnel
 - Guidelines on Admission of Ministry Visitors\
   [202406251653455729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251653455729.pdf)
@@ -35,6 +38,9 @@
 
 - Regular Select List, 2023-24; Regarding posting-on-promotion to posts in the cadre of Armed Superintendent of Police/ Commandant, S.R.P.F..\
   [202406261544405729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261544405729.pdf)
+
+- Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
+  [202406281703111129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281703111129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

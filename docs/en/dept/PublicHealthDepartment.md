@@ -47,6 +47,12 @@
 - Regarding approval of new Primary Health Center at Mauje Wathoda, Ta. Warud, Dist. Amravati.\
   [202406261144579117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261144579117.pdf)
 
+- Regarding approval of 60 bedded womens hospital as a special matter at Majalgaon, District Beed.\
+  [202406191240272917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406191240272917.pdf)
+
+- Regarding  administrative approval for purchase of 72 units of Biomedical Waste Disinfection System Microwave Based Machine for Pre-Treatment on Biomedical Waste generated in the 72 Hospitals operating under  Public Health Department of the State of  amount Rs.82,04,89,400/- Head 2210 K 088, 31- Subsidiary Grants( Non Salary) in financial year 2024-25\
+  [202406281646211317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281646211317.pdf)
+
 ## Personnel
 - Regarding the distribution of State Share (40 percent) funds under 2210 G 494 (TSP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-25\
   [202406241448098317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241448098317.pdf)

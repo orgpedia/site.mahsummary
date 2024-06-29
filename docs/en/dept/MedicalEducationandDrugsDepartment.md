@@ -10,6 +10,9 @@
 - Regarding approval to take building on rent for the newly constructed college, Government Medical College, Jalna.\
   [202406251238543813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251238543813.pdf)
 
+- Administrative Approval for purchase of Machinary  Equipment from state plan Grant at  Punyashlok Ahilyadevi Holkar Government Medical College  Hospital  Baramati\
+  [202406271845140013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271845140013.pdf)
+
 ## Miscellaneous
 - Regarding approval to provide four wheeler vehicles on lease to Heads of Offices/Superintendents in the organizations under the Directorate for government work.\
   [202406241447515513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241447515513.pdf)

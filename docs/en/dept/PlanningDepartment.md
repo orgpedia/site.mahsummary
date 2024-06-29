@@ -22,6 +22,18 @@
 - Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
   [202406271655552316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271655552316.pdf)
 
+- Regarding implementation of SOP for plantation of bamboo as well as other trees under mission mode under Green Maharashtra program under Mahatma Gandhi National Rural Employment Guarantee Scheme.\
+  [202406271531018916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271531018916.pdf)
+
+- Regarding approving the bamboo plantation cost norm under the Mahatma Gandhi National Rural Employment Guarantee Scheme.\
+  [202406271524228416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271524228416.pdf)
+
+- Regarding disbursement of funds Rs.130.00 crores to the Annasaheb Patil Economically Backward Development Corporation.\
+  [202406281054150416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281054150416....pdf)
+
+- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
+  [202406281207585016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281207585016.pdf)
+
 ## Miscellaneous
 - Vehicle review by Planning (own) Department as per approval of State Level Vehicle Review Committee\
   [202406251658293216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251658293216.pdf)

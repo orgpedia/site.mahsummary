@@ -17,6 +17,18 @@
 - Maharashtra Education Service Group-B (Education Branch) to complete the post of Senior Lecturer on Probationary Competent.\
   [202406271240207221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271240207221...pdf)
 
+- Regarding upgradation of Di. Ba. Patil Vidyalaya, Panvel an English Secondary School run by Panvel Municipal Corporation, on self-financed basis.\
+  [202406281532091521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281532091521.pdf)
+
+- Regarding upgradation of Police public school, amravati an primary School run by Police welfare, on self-financed basis.\
+  [202406281538462121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281538462121.pdf)
+
+- Permission  to  Upgrade  primary and Higher Primary to Secondary  Class (9th and 10th) to  Zilha  Parishad  Primary school, Vasewadi (Sanaswadi), Tq. shirur, Dist. Pune.\
+  [202406281539042421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281539042421.pdf)
+
+- Maharashtra Education Service, Group-A (Education Empowerment Branch) Cadre Senior Lecturer Year wise Final Seniority List from 01.01.2022 to 31.12.2022 ... Corrigendum\
+  [202406281643061121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281643061121.pdf)
+
 ## Personnel
 - Vishwabharat Education Institute Vaijapur, Distt. Chhatrapati Sambhajinagar Run Urdu Primary School Vaijapur, Distt. Regarding transfer of management of Chhatrapati Sambhajinagar School to Datar Charitable Society, Parbhani.\
   [202406241828271321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241828271321.pdf)
@@ -50,6 +62,30 @@
 
 - Rajarshi Samaj Enlightenment and Development Institute, Patan, Dist.Satara Run New English School, Kolekarwadi, Dist. Regarding relocation of Satara School, Patan, Satara.\
   [202406261833212021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261833212021.pdf)
+
+- Jijamata Education Institute, Phulenagar Nanded Conducted by Jijamata Primary School, Phulenagar, Nanded, Shri. Regarding transfer of management to Sharda Bhavan Education Society, Nanded.\
+  [202406281902018721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281902018721.pdf)
+
+- Rural Maratha Multipurpose Education Broadcasting Board, Tandulwali, Distt. Buldana operated by Ka. Bhaskar Rao Shingane School, Anchali, Distt. Buldhana Marathi School, Mauje Vadgaonmali, Distt. Regarding migration to Buldhana.\
+  [202406281841284121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281841284121.pdf)
+
+- Kamal Educational and Social Institute, Pachora, District Jalgaon, run by Shri. Regarding relocation of Venkatesh Secondary School, Parola, Dist.Jalgaon to Sandanshiv Nagar, Parola, Dist.Jalgaon.\
+  [202406281850513021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281850513021.pdf)
+
+- Kai Dadasaheb Apte Shikshan Sanstha, Chhatrapati Sambhajinagar run by Bal Vidya Mandir Primary School, Chhatrapati Sambhajinagar regarding relocation of this school to Swapnapnagari Garkheda area, Chhatrapati Sambhajinagar.\
+  [202406281847421521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281847421521.pdf)
+
+- Shri.Sai Shikshan Prasarak Mandal, Khatgaon, Distt. Nanded operated by Shri. Satya Sai Baba Primary School, Anandnagar, Nanded, Shri. Regarding transfer of management to Sharda Bhavan Education Society, Nanded.\
+  [202406281859399321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281859399321.pdf)
+
+- Sai Prem Rural Development Institute, Yavatmal Conducted School of Excellence, Lohara Distt. Regarding the transfer of management of the school, Yavatmal, to Shri.Balaji Rural Development Education Institute, Yavatmal.\
+  [202406281854001421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281854001421.pdf)
+
+- Mr. Sangameshwar Education Broadcasting Board Degalur, Distt. Nanded Run Adarsh Primary School, Industrial Estate, Kalamanuri, Distt. Regarding relocation of Hingoli School, Construction Town Taroda (B.) Nanded.\
+  [202406281844288621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281844288621.pdf)
+
+- Mrs. Savitribai Barne Multi-Purpose Institution, Pune operated by Mrs. Mrs. Regarding transfer of management of Savitribai Barane Primary School, Thergaon, Pune to Bhagwan Baba Youth Welfare and Cultural Development Foundation, Pune.\
+  [202406281856221921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281856221921.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

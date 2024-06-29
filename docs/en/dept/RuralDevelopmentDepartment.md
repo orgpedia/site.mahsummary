@@ -32,5 +32,8 @@
 - Relaxation of the condition of selecting the minimum 03 km road length criteria under Mukhyamantri Gram Sadak Yojana Phase-2 (Batch-1).\
   [202406271054023620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271054023620.pdf)
 
+- Regarding purchase of technology / equipment to all disabled officers / employees working in Zilla Parishad\
+  [202406281641159620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281641159620.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
