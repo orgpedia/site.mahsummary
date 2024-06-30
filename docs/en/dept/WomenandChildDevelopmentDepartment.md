@@ -17,5 +17,8 @@
 - Services of 5 Consultants of KPMG Institute for Department of Women and Child Development (self) and Office under the Department from 20/09/2023 to Dt. Granting continuation upto 31.03.2024.\
   [202406261549032830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261549032830.pdf)
 
+- Regarding deputation to the post of Statistical Officer, Group-B (Gazetted) in the Office of Women and Child Development Commissionerate under Women and Child Development Department.\
+  [202406281814192930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281814192930.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
