@@ -1,46 +1,18 @@
 # Home Department
 
-**Date Range**: 24 June 2024 - 29 June 2024
+**Date Range**: 01 July 2024 - 06 July 2024
 
 
 ## Funds
-- Regarding payment of rent amount of helicopter taken on hire basis from Pawanhans Ltd., Mumbai.\
-  [202406251225509229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251225509229.pdf)
-
-- regarding the provision of funds for the payment of Rs.1,68,847/- for the maintenance and repair of computers in the office of the Special Inspector General of Police, Cyber.\
-  [202406261133593829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261133593829.pdf)
+- Corrigendum - Construction of Main compound wall of Kalyan District Prison\
+  [202407011818178429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011818178429.pdf)
 
 ## Miscellaneous
-- Corrigendum  Classification of prisons  Regarding administrative approval of Rs.14,96,03,000/- for construction of Baramati city Sub Jail\
-  [202406241445464629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241445464629.pdf)
+- Financial Year 2024-25 Administrative Approval for purchase of  raw materials for prison industry in the state...\
+  [202407011814042529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011814042529.pdf)
 
-- Suspension of Md. Quaiser Khalid, IPS (MH:1997), ADG, PCR, Maharashtra State, Mumbai\
-  [202406251442528829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251442528829.pdf)
-
-- Administrative Approval for Construction of Main compound wall of Kalyan District Prison\
-  [202406261507564429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261507564429.pdf)
-
-- Regarding payment of professional fees to Adv. Mr.  Ajay Miser. Arising out of the crime filed under Gu.No.No.75/2022 at Po.Tha.Vedantnagar. High District and Sessions Court No.-8 Aurangabad for judicial proceedings in this Court.\
-  [202406271528409729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271528409729.pdf)
-
-- Regarding constitution of State Maritime  Waterway Transport Committee.\
-  [202406271701163829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271701163829.pdf)
-
-- Appointed as project consultant to implement modernization project of police control rooms (DIAL-112) in the state. Regarding extension of time to Ernst  Young.\
-  [202406281655529729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281655529729.pdf)
-
-## Personnel
-- Guidelines on Admission of Ministry Visitors\
-  [202406251653455729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251653455729.pdf)
-
-- Regarding transfer/posting of I.P.S. officers.\
-  [202406251914545029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251914545029.pdf)
-
-- Regular Select List, 2023-24; Regarding posting-on-promotion to posts in the cadre of Armed Superintendent of Police/ Commandant, S.R.P.F..\
-  [202406261544405729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261544405729.pdf)
-
-- Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
-  [202406281703111129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281703111129.pdf)
+- Regarding the constitution of a selection committee for filling up Group-A vacancies in the Directorate of Civil Defence from retired officers of the Armed Forces.\
+  [202407011451477629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011451477629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

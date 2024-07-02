@@ -1,19 +1,11 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 24 June 2024 - 29 June 2024
+**Date Range**: 01 July 2024 - 06 July 2024
 
-
-## Funds
-- Regarding revision of district wise quota under National Food Security Act, 2013 based on information on Ration Management System (RCMS)\
-  [202406261736444306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261736444306....pdf)
 
 ## Miscellaneous
-- Regarding termination of deputation of Mr. Prashant Shantaram Awte, District Supply Officer, Pune on the said post...\
-  [202406271824020206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271824020206.pdf)
-
-## Personnel
-- Regarding returning the services of Mr. Dadasaheb Raghunath Gite, Foodgrain Distribution Officer, Pune (original cadre Deputy Collector, Group-A) to the Revenue and Forest Department...\
-  [202406251505417506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251505417506.pdf)
+- Legal metrological, Inspectors, Group-B (Gazetted)  Final Seniority List Date 01,01, 2024\
+  [202407011508596506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011508596506.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

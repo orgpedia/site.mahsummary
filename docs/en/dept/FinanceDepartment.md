@@ -1,14 +1,11 @@
 # Finance Department
 
-**Date Range**: 24 June 2024 - 29 June 2024
+**Date Range**: 01 July 2024 - 06 July 2024
 
 
-## Miscellaneous
-- Regarding determining the procedure to be followed so that accurate and objective information of unspent government funds remaining in all bank accounts at the level of government offices is available at the government level through the Budget Forecasting, Disbursement and Control System.\
-  [202406251559179105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251559179105.pdf)
-
-- Regarding applicability of pay scale sanctioned to Selection Stenographer Cadre to the post of Personal Assistant (Group B) in Sales Tax Department.\
-  [202406251612359905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251612359905.pdf)
+## Personnel
+- Allotment of Recommended Candidates for the post of Technical Assistant in the Directorate of Insurance, from Maharashtra Group-C Main Examination -2023.\
+  [202407011613557105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011613557105.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

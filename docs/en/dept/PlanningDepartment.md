@@ -1,42 +1,27 @@
 # Planning Department
 
-**Date Range**: 24 June 2024 - 29 June 2024
+**Date Range**: 01 July 2024 - 06 July 2024
 
 
 ## Funds
 - Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202406251532074816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251532074816.pdf)
-
-- Regarding distribution of funds in Srikshetra Jejuri Gad Pilgrimage Development Scheme, Taluka Purandar, District Pune for the year 2024-25.\
-  [202406261702018316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261702018316.pdf)
+  [202407011518496316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011518496316.pdf)
 
 - Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202406261643162916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261643162916.pdf)
+  [202407011515483316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011515483316.pdf)
 
-- Clarification regarding provision of funds for provision of specified civic services and facilities within the area of Urban Local Self-Government Bodies\
-  [202406271659366316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271659366316.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202406271654580116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271654580116.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202406271655552316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271655552316.pdf)
-
-- Regarding implementation of SOP for plantation of bamboo as well as other trees under mission mode under Green Maharashtra program under Mahatma Gandhi National Rural Employment Guarantee Scheme.\
-  [202406271531018916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271531018916.pdf)
-
-- Regarding approving the bamboo plantation cost norm under the Mahatma Gandhi National Rural Employment Guarantee Scheme.\
-  [202406271524228416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271524228416.pdf)
-
-- Regarding disbursement of funds Rs.130.00 crores to the Annasaheb Patil Economically Backward Development Corporation.\
-  [202406281054150416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281054150416....pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202406281207585016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281207585016.pdf)
+- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
+  [202407011508446016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011508446016.pdf)
 
 ## Miscellaneous
-- Vehicle review by Planning (own) Department as per approval of State Level Vehicle Review Committee\
-  [202406251658293216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251658293216.pdf)
+- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
+  [202407011504346816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011504346816.pdf)
+
+- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
+  [202407011512189716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011512189716.pdf)
+
+- Sanction of scholarship for pursuing Higher Education in abroad - Maharaja Sayajirao Gaikwad Sarthi Gunwant Scholarship for Higher Education Abroad for the academic year 2023-24 (Phase II)\
+  [202407011158257616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011158257616.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

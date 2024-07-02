@@ -1,36 +1,39 @@
 # General Administration Department
 
-**Date Range**: 24 June 2024 - 29 June 2024
+**Date Range**: 01 July 2024 - 06 July 2024
 
-
-## Funds
-- Regarding obtaining administrative and financial approval for the purchase of computers in the Directorate General of Information and Public Relations\
-  [202406271539494707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271539494707.pdf)
 
 ## Miscellaneous
-- Filling the post of deputation basis\
-  [202406241548481007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406241548481007..pdf)
+- General Election to Loksabha 2024- Honorarium to State, District and Tahasil level Gazzeted officers on Election Duty.\
+  [202407011606268007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011606268007.pdf)
 
-- Marathwada Administrative and Development Training Prabodhini Nathnagar (North) Paithan, Dist.Chhatrapati Sambhajinagar regarding appointment on deputation to the post of Librarian Class-3.\
-  [202406251127115107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406251127115107.pdf)
+- General Election to Loksabha- 2024- Overtime for State, Division, District and Tahsil Level Non-Gazzetted Employees on Election Duty.\
+  [202407011608123407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011608123407.pdf)
 
-- Limit for intimation in respect of transaction in sale  purchase of share, securities, debentures etc.  reg. AIS\
-  [202406271235296507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271235296507.pdf)
+- Repatriation from Deputation- Shri. Chandrakant A. Vibhute, Deputy Secretary\
+  [202407011652474607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011652474607.pdf)
 
-- Filling up the post of Langauge Instructor in Lal Bahadur Shastri National Academy of Administration LBSNAA, Mussoorie\
-  [202406271241500807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271241500807.pdf)
+- Appointments of Under Secretary on deputation basis regarding Smt Indira Manish Bhargav, Under Secretary\
+  [202407011713507307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011713507307.pdf)
 
-- Explanatory instructions to the prescribed procedure regarding termination of the Membership of the NPS and depositing the amount thereof in the Provident Fund Account where Old Pension Scheme Implemented in the case of IAS officers.\
-  [202406271556038307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271556038307.pdf)
+- Regarding making available a new Head of Account to provide funds for construction of Facility Centre for Indian Administrative Services (IAS) Officers, In Mumbai.\
+  [202407011313186707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011313186707.pdf)
 
-- Appointment to the post of Additional Comptroller of the Governors Household on deputation basis.\
-  [202406281803038807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281803038807.pdf)
+- General Election to Loksabha 2024- Honorarium to Assistant Expenditure Observer /Sector Officer /Sector Police officers on Election Duty.\
+  [202407011602303407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011602303407.pdf)
 
-- Appointment to the post of Deputy Director (Administration) in the office of Commissioner, Employees State Insurance Scheme, Mumbai on deputation basis\
-  [202406281759365807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281759365807.pdf)
+- Appointments of Under Secretary on deputation basis regarding Smt Kranti Bhirmrao Patil\
+  [202407011706071807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011706071807.pdf)
 
-- Guidelines for issuance of Caste Certificate and Non-Criminal Certificate to be issued pursuant to the implementation of the Reservation Act, 2024 for Socially and Educationally Backward Classes in the State of Maharashtra...\
-  [202406281751103007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281751103007.pdf)
+## Personnel
+- Transfer of Deputy Secretary-Shri. S.A. Chandanshive.\
+  [202407011659064607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011659064607.pdf)
+
+- Partial change in posting after promotion of  Joint Secretary cadre-Sh. S. R. Chaure.\
+  [202407011655196707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011655196707.pdf)
+
+- Appointments of Under Secretary on deputation basis regarding Smt Dipali Chandrakant Diwate, Under Secretary\
+  [202407011709483507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011709483507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
