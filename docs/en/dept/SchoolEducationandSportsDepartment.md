@@ -32,5 +32,8 @@
 - Regarding shifting of Junior College, Varana Womens College, Yelur, District Kolhapur, to Malkapur District Kolhapur, run by Shri.Varana Division Board of Education, Warnanagar.\
   [202407011834414121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011834414121.pdf)
 
+- Regarding transfer of management of Adarsh Vidyalaya, Dombivli (East) Dist.Thane run by Vidyavikas Mandal, Dombivli District Thane to Prahlad Shikshan Mandal, Thane.\
+  [202407021816470921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021816470921.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

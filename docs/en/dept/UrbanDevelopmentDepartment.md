@@ -3,6 +3,22 @@
 **Date Range**: 01 July 2024 - 06 July 2024
 
 
+## Funds
+- Administrative Approval for Green Space Project of Chimur Municipal Council Under AMRUT (8.67  Cr)\
+  [202407011206196325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011206196325.pdf)
+
+- Regarding issuing revised government resolution regarding the revised project cost and revised financial pattern of the Mumbai Metro Line-3 (Colaba-Bandra-Seepz) in accordance with the approval of the Central Government for the revised project cost of the Mumbai Metro Line-3 project.\
+  [202407021326157125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021326157125.pdf)
+
+- Administrative Approval for Lendi lake Rejuvenation Project of Lonar Municipal Council Under AMRUT (17.46   Cr)\
+  [202407011206373525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011206373525.pdf)
+
+- Administrative Approval for Green Space Project of Chikhali Municipal Council Under AMRUT (14.09  Cr)\
+  [202407011206319725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011206319725.pdf)
+
+- Administrative Approval for Vayazadi lake Rejuvenation Project of Chikhali Municipal Council Under AMRUT (9.98   Cr)\
+  [202407021046160425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021046160425.pdf)
+
 ## Miscellaneous
 - Approval to the resolution number 1693 passed in the 156th meeting of the Mumbai Metropolitan Region Development Authority regarding the report submitted by the independent study group on strategic acquisition of Mumbai Metro Line-1 (Versova-Andheri-Ghatkopar) and the strategic acquisition of the said route by the Authority.\
   [202407011531074925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011531074925.pdf)

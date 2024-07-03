@@ -11,5 +11,9 @@
 - Regarding giving revised administrative approval to tap water supply scheme Under Jal Jeevan Mission Program at  Mau. mendhla ta. Kalamba Dist.Yavatmal.\
   [202406281743483728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281743483728.pdf)
 
+## Personnel
+- Mr. Rajendra Katpallivar, Chief Engineer, Water Resources Department  The period of deputation in Maharashtra Jeevan Pradhikaran ends.\
+  [202407021745033728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021745033728.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

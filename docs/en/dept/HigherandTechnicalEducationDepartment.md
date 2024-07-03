@@ -19,5 +19,8 @@
 - Regarding extending the period of Chhatrapati Shivaji Maharaj Charitra Sadhana Publication Committee.\
   [202407011153044608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011153044608.pdf)
 
+- As per the National Education Policy, 2020, regarding the implementation of revised degree and post-graduate courses in all non-agricultural universities, affiliated colleges, autonomous colleges and higher education institutions of the state from the academic year 2024-25.\
+  [202407021237226908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021237226908.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
