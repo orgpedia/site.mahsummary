@@ -11,5 +11,9 @@
 - Opening of Personal Deposit Account  for -  District  Additional Sessions Judge, Mukhed,  District Nanded.\
   [202407021803112312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021803112312.pdf)
 
+## Personnel
+- Designation as Single Nodal Agency and Nodal Officer for release of fund via SNA SPARSH  of the centrally Sponsored scheme Development Infrastructure Facilities for Judiciary implemented by Law and Judiciary Department.\
+  [202407031203084912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031203084912.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

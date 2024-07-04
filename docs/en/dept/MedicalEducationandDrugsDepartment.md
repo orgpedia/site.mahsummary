@@ -3,6 +3,10 @@
 **Date Range**: 01 July 2024 - 06 July 2024
 
 
+## Funds
+- Administrative Approval for purchased of machinary  equipment from state plan grant for year 2024-25 at Pediatric department of  swami ramanand tirth  rural government college Ambajoai\
+  [202407021440257213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021440257213.pdf)
+
 ## Miscellaneous
 - Regarding approval of opening of Personal Account (PLA) for the institution Government Medical College and Hospital, Jalna.\
   [202407011802486313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011802486313.pdf)

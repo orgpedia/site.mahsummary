@@ -38,5 +38,15 @@
 - Regarding the extension of time till March 31, 2025 for the completion of the approved works in the development plans implemented through the Planning Department for the development of pilgrimage sites and providing infrastructural civic facilities...\
   [202407021434357416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021434357416.pdf)
 
+## Personnel
+- Regarding creation of surplus post for Group-B (Gazetted) cadre officers in the Directorate of Finance and Statistics appointed from Scheduled Tribes category but caste certificate invalidated - Smt. Rekha Rajanna Kudmulwar, Statistical Officer, Tribal Research and Training Institute, Pune.\
+  [202407031549558916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031549558916.pdf)
+
+- Regarding posting of Joint Director, Group-A cadre officers on establishment of Directorate of Finance and Statistics by promotion to Additional Director, Group-A cadre..\
+  [202407031314281116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031314281116.pdf)
+
+- Regarding transfers on administrative grounds of the Additional Director, Group-A cadre officers in the Directorate of Finance and Statistics.\
+  [202407031311254516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031311254516.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

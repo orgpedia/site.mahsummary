@@ -20,5 +20,8 @@
 - Additional Commissioner, Tribal Development, Amravati and A.A.V.P., Kinwat, Dist., under Tribal Development Department. Nanded under Ka. Ulhas Memorial Trust, Kandahar, Tel. Kandahar, Dist. Nanded Vdara Conducted Sadguru Madhyamik Adivasi Ashram School Bahadarpura Tt. Kandahar, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to the aided ashram school, Nanded.\
   [202407021831539924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021831539924.pdf)
 
+- Additional Commissioner, Tribal Development, Nagpur and A. come Vs. Q., Bhandara, T. Dist. Vishwashil Education Institute under Bhandara, Dhargaon, Tel. Dist. Subsidized Tribal Ashram School run by Bhandara, Madgi, Tt. Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to the aided ashram school, Bhandara.\
+  [202407031251166224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031251166224.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

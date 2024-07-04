@@ -13,6 +13,9 @@
 - To implement MPIS (Mumbai Police Information System) role base system at the establishment of Commissioner of Police, Brihanmumbai to provide 2 manpower services of software developer experts through outsourcing for 1 year and the estimated annual cost required for the same is Rs. 20.00 lacs (notional amount of Rupees twenty lacs only) regarding granting administrative sanction.\
   [202407021322367129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021322367129.pdf)
 
+- Mauje Vatole, p. Patan, Dist. Regarding grant of administrative approval for construction of Independent Training Center for State Excise Department at Satara.\
+  [202407031815402029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031815402029.pdf)
+
 ## Miscellaneous
 - Financial Year 2024-25 Administrative Approval for purchase of  raw materials for prison industry in the state...\
   [202407011814042529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011814042529.pdf)
@@ -25,6 +28,9 @@
 
 - Administrative Approval for Baramati District Jail Class 3 Construction of Officers and staff residence quarters and other construction works\
   [202407021812013529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021812013529.pdf)
+
+- Regarding posting on promotion to the Selection Grade of I.P.S.\
+  [202407031841593929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031841593929.pdf)
 
 ## Personnel
 - Regarding posting of Shri. Abhijit Manjare, Inspector of Motor Vehicles after reinstatement in government service.\
@@ -62,6 +68,18 @@
 
 - About request transfer of Inspector of Motot Vehicles.\
   [202407021704110829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021704110829.pdf)
+
+- Regarding transfers/postings of officers of Deputy Superintendent of Police/Assistant Commissioner of Police, Police Communication and Information Technology Department cadre.\
+  [202407031822328629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031822328629.pdf)
+
+- Regarding transfers/postings of officers of Armed Deputy Superintendent of Police/Assistant Commandant, S.R.P.F. cadre.\
+  [202407031809576929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031809576929.pdf)
+
+- Regarding publication of final service seniority list of Superintendent of Jail Department, District Jail Class-2/ Deputy Superintendent, Central Jail cadre officer on 01.01.2024\
+  [202407031104094729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031104094729.pdf)
+
+- Regarding transfers/postings of officers of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed) cadre.\
+  [202407031810228829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031810228829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,6 +16,18 @@
 - Regarding giving administrative approval to the budget and plans for the construction of upgrading the building by 30 Bed Rural Hospital, At Adyal, Dist. Bhandara to  50-bed sub-district hospital\
   [202407021556030017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556030017.pdf)
 
+- To approve the purchase of medicines and equipment from the funds received from District Planning Committee for the purchase of medicines  for the subordinate health care sector under the Department of Public Health\
+  [202407031710018017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031710018017.pdf)
+
+- Mangalvedha, Dist. Regarding giving administrative approval to the budget and plan for the construction of a 100-bed sub-district hospital building and accommodation by upgrading the 30-bed rural hospital at Solapur...\
+  [202407031206293917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031206293917.pdf)
+
+- Regarding giving administrative approval to the budget for the construction of the main building and officer/staff quarters of the upgraded 100-bed sub-district hospital at Rural Hospital, Ashti, District Beed.\
+  [202407011733403817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011733403817.pdf)
+
+- Regarding giving administrative approval to the budget for construction of new trauma care center building at Majalgaon as well as construction of officer/staff accommodation of Upazila Hospital.\
+  [202407011733464817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011733464817.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of 30-bed capacity rural hospital at. Arjuni Morgaon, Dist. Gondia to 50-bed Sub-district hospital.\
   [202406261145032417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261145032417.pdf)
@@ -40,6 +52,9 @@
 
 - Maharashtra Medical and Health Services, regarding cancellation of appointment of candidates who have not attended the document verification among the candidates recommended by the nomination for the post of Medical Officer, Group-A, in the cadre of Group-A.\
   [202407011208142717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011208142717.pdf)
+
+- Regarding giving administrative approval to the budget and plans for building construction of 100 bedded womens hospital, Warud, District Amravati.\
+  [202407021556087417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556087417.pdf)
 
 ## Personnel
 - Regarding continuation of 17 temporary posts Under Deputy Director, Health Services, Pune Division, Pune, Sub District Hospital, Karad, Distt. Satara.\

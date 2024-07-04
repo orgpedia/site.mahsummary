@@ -22,5 +22,15 @@
 - As per the National Education Policy, 2020, regarding the implementation of revised degree and post-graduate courses in all non-agricultural universities, affiliated colleges, autonomous colleges and higher education institutions of the state from the academic year 2024-25.\
   [202407021237226908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021237226908.pdf)
 
+- As per the approval given by the All India Technical Education Council, regarding the approval of the government to start a new engineering college on permanent unaided basis from the academic year 2024-25... Shri.Anandrao Abitkar College of Engineering, M.PO.Pal, T.Bhudargarh, D.Kolhapur\
+  [202407031648068008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031648068008.pdf)
+
+- Regarding approval of the Government to change the address of the Institute of Architecture Course from the academic year 2023-24.\
+  [202407031645138408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031645138408.pdf)
+
+## Personnel
+- Regarding creation of supernumerary posts for employees appointed from Scheduled Tribe category, but unable to produce Scheduled Caste Validity Certificate. (Rashtrasant Tukdoji Maharaj Nagpur University.)\
+  [202407031241335108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031241335108.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

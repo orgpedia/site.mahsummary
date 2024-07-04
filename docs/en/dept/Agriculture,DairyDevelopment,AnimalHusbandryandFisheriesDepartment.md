@@ -7,6 +7,9 @@
 - Final disbursement of first installment of rule category for implementation of Dry Area Development (RAD) Program under RKVY Capteria for the year 2024-25.\
   [202407011522503001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011522503001....pdf)
 
+- Regarding granting administrative approval for construction of administrative offices, various laboratories and auditorium under new Krishi Bhavan building at Chhatrapati Sambhajinagar.\
+  [202407031834002001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031834002001.pdf)
+
 ## Miscellaneous
 - Regarding giving administrative approval to the project Containerized Disease-free Production of Citrus Planting Material and Technology Dissemination of Indian Council of Agriculture Research (ICAR)- Central Citrus Research Institute (CCRI) under National Agricultural Development Scheme (DPR).- Cancellation\
   [202407021050426701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021050426701.pdf)

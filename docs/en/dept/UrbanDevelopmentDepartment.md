@@ -19,6 +19,9 @@
 - Administrative Approval for Vayazadi lake Rejuvenation Project of Chikhali Municipal Council Under AMRUT (9.98   Cr)\
   [202407021046160425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021046160425.pdf)
 
+- Administrative Approval to  Water Supply Project of Mehakar Municipal Council Under AMRUT 2.0 (38.35   Cr)\
+  [202407021046410025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021046410025.pdf)
+
 ## Miscellaneous
 - Approval to the resolution number 1693 passed in the 156th meeting of the Mumbai Metropolitan Region Development Authority regarding the report submitted by the independent study group on strategic acquisition of Mumbai Metro Line-1 (Versova-Andheri-Ghatkopar) and the strategic acquisition of the said route by the Authority.\
   [202407011531074925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011531074925.pdf)

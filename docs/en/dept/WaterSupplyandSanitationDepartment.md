@@ -15,5 +15,8 @@
 - Mr. Rajendra Katpallivar, Chief Engineer, Water Resources Department  The period of deputation in Maharashtra Jeevan Pradhikaran ends.\
   [202407021745033728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021745033728.pdf)
 
+- Regarding cancellation of promotion (ZP to MJP)\
+  [202407031515044128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031515044128.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
