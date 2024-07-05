@@ -23,5 +23,8 @@
 - Pospondign the election of Thane District majur Cooperative society.\
   [202407031738160102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031738160102.pdf)
 
+- Extention to One Time Settlement scheme of Urban Co-Opertive Bank\
+  [202407041430405002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041430405002.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

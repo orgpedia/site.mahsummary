@@ -25,6 +25,15 @@
 - Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
   [202407021232006916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021232006916.pdf)
 
+- Clarification regarding provision of funds for provision of specified civic services and facilities within the area of Urban Local Self-Government Bodies\
+  [202407041537062116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041537062116.pdf)
+
+- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
+  [202407041541355716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041541355716.pdf)
+
+- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
+  [202407041537165216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041537165216.pdf)
+
 ## Miscellaneous
 - Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
   [202407011504346816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011504346816.pdf)
@@ -38,6 +47,9 @@
 - Regarding the extension of time till March 31, 2025 for the completion of the approved works in the development plans implemented through the Planning Department for the development of pilgrimage sites and providing infrastructural civic facilities...\
   [202407021434357416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021434357416.pdf)
 
+- Development plan for creating basic facilities at Shegaon on the occasion of Shree Gajanan Maharaj Samadhi Centenary:- Regarding extending the deadline for self registration account.\
+  [202407041744546116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041744546116.pdf)
+
 ## Personnel
 - Regarding creation of surplus post for Group-B (Gazetted) cadre officers in the Directorate of Finance and Statistics appointed from Scheduled Tribes category but caste certificate invalidated - Smt. Rekha Rajanna Kudmulwar, Statistical Officer, Tribal Research and Training Institute, Pune.\
   [202407031549558916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031549558916.pdf)
@@ -47,6 +59,9 @@
 
 - Regarding transfers on administrative grounds of the Additional Director, Group-A cadre officers in the Directorate of Finance and Statistics.\
   [202407031311254516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031311254516.pdf)
+
+- Regarding the transfer of Deputy Director, Group-A cadre officers in the Directorate of Finance and Statistics..\
+  [202407041239205316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041239205316.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

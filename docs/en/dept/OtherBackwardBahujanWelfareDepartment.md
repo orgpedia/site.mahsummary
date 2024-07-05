@@ -1,11 +1,15 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 24 June 2024 - 29 June 2024
+**Date Range**: 01 July 2024 - 06 July 2024
 
 
-## Miscellaneous
-- Regarding appointment on deputation to the post of Joint Director Mr. Santosh Ashok Harale, Project Director\
-  [202406271613496134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406271613496134.pdf)
+## Funds
+- Regarding giving administrative approval to Mahatma Jyotiba Phule Research and Training Institute (Mahajyoti) for construction of 7 floors building in Nagpur.....\
+  [202407041450065534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041450065534.pdf)
+
+## Personnel
+- Appointment and posting by deputation Shri. Dhanshree Balasaheb Shankardas- Bhambure, Tehsildar\
+  [202407041709566034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041709566034.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

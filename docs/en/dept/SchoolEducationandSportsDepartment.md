@@ -35,5 +35,8 @@
 - Regarding transfer of management of Adarsh Vidyalaya, Dombivli (East) Dist.Thane run by Vidyavikas Mandal, Dombivli District Thane to Prahlad Shikshan Mandal, Thane.\
   [202407021816470921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021816470921.pdf)
 
+- Regarding the transfer of management of Sri Sant Tukaram Vidyalaya Kalyana, Dist.Buldhana, a multi-purpose educational, social, cultural sports backward class institution, Kalyana, Dist.\
+  [202407041754420321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041754420321...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

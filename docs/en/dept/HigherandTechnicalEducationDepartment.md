@@ -28,6 +28,12 @@
 - Regarding approval of the Government to change the address of the Institute of Architecture Course from the academic year 2023-24.\
   [202407031645138408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031645138408.pdf)
 
+- Regarding the formation of a Cabinet Sub-Committee to study the sanctioning of grants to womens colleges on permanent unaided basis in Naxal affected tribal areas....\
+  [202407041133336508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041133336508.pdf)
+
+- Regarding approval to start a new institution of Diploma in Pharmacology course on permanent unaided basis.\
+  [202407041749210608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041749210608.pdf)
+
 ## Personnel
 - Regarding creation of supernumerary posts for employees appointed from Scheduled Tribe category, but unable to produce Scheduled Caste Validity Certificate. (Rashtrasant Tukdoji Maharaj Nagpur University.)\
   [202407031241335108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031241335108.pdf)

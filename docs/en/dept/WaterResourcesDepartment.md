@@ -36,5 +36,8 @@
 - Regarding publication of the provisional seniority list dated 01.01.2024 of the cadre of Superintending Engineer (Mechanical) in the department.\
   [202407031713301927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031713301927.pdf)
 
+- Increased water Bulk Water Entitlement reservation proposal for  Islampur Municipal Council, under Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan Tal. Walwa Dist.  Sangli from Krishna River Bahe KT Weir.\
+  [202407041622568427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041622568427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

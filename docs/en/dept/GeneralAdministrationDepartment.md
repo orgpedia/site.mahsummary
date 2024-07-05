@@ -37,6 +37,9 @@
 - Government Transport Service under General Administration Department, Worli, Mumbai. Regarding the increase in the washing allowance of the vehicle drivers here.\
   [202407031650070607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031650070607.pdf)
 
+- filling the post of deputation basis.\
+  [202407041725276107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041725276107.pdf)
+
 ## Personnel
 - Transfer of Deputy Secretary-Shri. S.A. Chandanshive.\
   [202407011659064607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011659064607.pdf)

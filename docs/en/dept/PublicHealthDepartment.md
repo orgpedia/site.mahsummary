@@ -28,6 +28,12 @@
 - Regarding giving administrative approval to the budget for construction of new trauma care center building at Majalgaon as well as construction of officer/staff accommodation of Upazila Hospital.\
   [202407011733464817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011733464817.pdf)
 
+- Regarding the grant of ex-gratia assistance to the families of employees who die of infection with the Covid-19 virus while performing their duties related to Covid-19.- Laxman Dulaji Bele, Driver\
+  [202407041245335617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041245335617.pdf)
+
+- Regarding the grant of ex-gratia assistance to the families of employees who die of infection with the Covid-19 virus while performing their duties related to Covid-19.-Sajjan Dnyandev Kabmble, attendant.\
+  [202407041245595317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041245595317.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of 30-bed capacity rural hospital at. Arjuni Morgaon, Dist. Gondia to 50-bed Sub-district hospital.\
   [202406261145032417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261145032417.pdf)

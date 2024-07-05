@@ -22,6 +22,24 @@
 - Administrative Approval to  Water Supply Project of Mehakar Municipal Council Under AMRUT 2.0 (38.35   Cr)\
   [202407021046410025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021046410025.pdf)
 
+- Nagarothan Mahabhiyan - Administrative Approval for Ichalkaranji Sewerage Project.\
+  [202407031742032125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031742032125.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Alibaug Water Supply Project.\
+  [202407041425445525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041425445525.pdf)
+
+- Administrative Approval to  Water Supply Project of Hinganghat Municipal Council Under AMRUT 2.0 (43.86   Cr)\
+  [202407041249547225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041249547225.pdf)
+
+- Administrative Approval to  Sewerage Project of  Kolhapur Municipal Corporation Under AMRUT 2.0  (139.08  Cr.)\
+  [202407041811014925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041811014925.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Kagal Water Supply Project.\
+  [202407041625085925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041625085925.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Gondia Water Supply Project.\
+  [202407041249425225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041249425225.pdf)
+
 ## Miscellaneous
 - Approval to the resolution number 1693 passed in the 156th meeting of the Mumbai Metropolitan Region Development Authority regarding the report submitted by the independent study group on strategic acquisition of Mumbai Metro Line-1 (Versova-Andheri-Ghatkopar) and the strategic acquisition of the said route by the Authority.\
   [202407011531074925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011531074925.pdf)

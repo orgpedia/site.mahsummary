@@ -31,6 +31,9 @@
 - Regarding release of funds for pre-monsoon works to be carried out under convergence (Top-up Model) under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
   [202407031532104519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031532104519.pdf)
 
+- Regarding payment of second installment for supplying the Inflatable Rubber Boat  (IRB) by GANESHMFG PVT.\
+  [202407041703491619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041703491619.pdf)
+
 ## Miscellaneous
 - Regarding regularization of ad-hoc promotion granted to Forest Officer, Group-B from Forester cadre.\
   [202406281645321419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406281645321419.pdf)
@@ -47,9 +50,15 @@
 - Corrigendum  Government Resolution regarding Proposal of Survey Settlements and demarcation of forests (4406 0053) for the year of 2024-25.\
   [202407031601521219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031601521219.pdf)
 
+- Forest Land-Raigad. Diversion of 8.9440 ha. out of 9.04 ha. Protected Forest land under section-2 of the Van (Samvardhan Evam Sanrakshan) Adhiniyam, 1980 for Establishment of Medicinal Tree Plantation and establishment of cultivation facility project at Village- Donvat, Taluka- Khalapur, District- Raigad.\
+  [202407041558095819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041558095819.pdf)
+
 ## Personnel
 - Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune. Dist. Survey No. at Amravati. 1.44 out of 29. R and Survey no. Area in 133 is 0.81 ha.R. Thats a total of 2.25. 2.24 of r. Regarding making R land available on rent lease basis for 30 years without occupancy fee and revenue free.\
   [202407031546101219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031546101219....pdf)
+
+- Forest Land-Ahmednagar Diversion of 0.3711 ha. of Forest land under Van (Sanrakshan Evam Sanvardhan) Adhiniyam, 1980 in favour of M/s Jio Digital Fiber Private Ltd., Pune for laying of Underground Optical Fiber Cable within RoW of existing road from Ghargaon to Ane in Taluka Sangamner and Parner Division Ahmednagar in the State of Maharashtra.\
+  [202407041715270019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041715270019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
