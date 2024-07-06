@@ -34,6 +34,9 @@
 - Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
   [202407041537165216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041537165216.pdf)
 
+- Release of Rs. 45.66 Crore to Chhatrapati Shahu Maharaj Research, Training and Human Development Institution (SARATHI), Pune.\
+  [202407051616490016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051616490016.pdf)
+
 ## Miscellaneous
 - Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
   [202407011504346816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011504346816.pdf)

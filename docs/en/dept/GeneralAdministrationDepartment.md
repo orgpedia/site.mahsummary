@@ -40,6 +40,15 @@
 - filling the post of deputation basis.\
   [202407041725276107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041725276107.pdf)
 
+- Regarding appointment on deputation to the post of Hostel and Yard Manager Class-3 in the Departmental Administrative Training Institute Nashik.\
+  [202407051211099207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051211099207.pdf)
+
+- Change in the name of sub department - Reforms Organization and Methodology of General Administration Department\
+  [202407051728250207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051728250207.pdf)
+
+- Regarding approval of financial assistance from the Chief Ministers Charitable Endowment Fund. Buldana\
+  [202407051616409207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051616409207.pdf)
+
 ## Personnel
 - Transfer of Deputy Secretary-Shri. S.A. Chandanshive.\
   [202407011659064607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011659064607.pdf)
@@ -52,6 +61,9 @@
 
 - Regarding extension of time for transfer. shri.vijay s.patil, desk officer\
   [202407031722138907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031722138907.pdf)
+
+- Regarding the relieve from the committee formed under the chairmanship of Honorable Justice shri. Sandeep Shinde (retd.)- shri. Rasik A. Khadse.\
+  [202407051732194307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051732194307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

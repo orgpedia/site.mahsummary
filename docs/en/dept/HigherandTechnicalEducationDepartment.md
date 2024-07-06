@@ -34,6 +34,9 @@
 - Regarding approval to start a new institution of Diploma in Pharmacology course on permanent unaided basis.\
   [202407041749210608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041749210608.pdf)
 
+- As per the approval of the Pharmacy Council of India, New Delhi, for starting a new institute in the state from the academic year 2023-24, starting a new course in the existing institute, increasing the admission capacity of the existing course.\
+  [202407051411169608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051411169608.pdf)
+
 ## Personnel
 - Regarding creation of supernumerary posts for employees appointed from Scheduled Tribe category, but unable to produce Scheduled Caste Validity Certificate. (Rashtrasant Tukdoji Maharaj Nagpur University.)\
   [202407031241335108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031241335108.pdf)

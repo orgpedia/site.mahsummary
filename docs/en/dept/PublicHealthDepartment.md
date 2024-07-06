@@ -34,6 +34,12 @@
 - Regarding the grant of ex-gratia assistance to the families of employees who die of infection with the Covid-19 virus while performing their duties related to Covid-19.-Sajjan Dnyandev Kabmble, attendant.\
   [202407041245595317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041245595317.pdf)
 
+- Regarding disbursement of funds for the Mahatma Jyotirao Phule Jan Arogya Yojana for the financial year 2024-25 under the head of account 2210 G 251.\
+  [202407051437019417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051437019417.pdf)
+
+- Regarding disbursement of funds through State share (40) under the head of account 2210 G 449 (General) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-2025.\
+  [202407051437099617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051437099617.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of 30-bed capacity rural hospital at. Arjuni Morgaon, Dist. Gondia to 50-bed Sub-district hospital.\
   [202406261145032417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202406261145032417.pdf)
@@ -61,6 +67,15 @@
 
 - Regarding giving administrative approval to the budget and plans for building construction of 100 bedded womens hospital, Warud, District Amravati.\
   [202407021556087417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556087417.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202407011208218117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011208218117.pdf.pdf)
+
+- Regarding acceptance of resignation of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202407051115418217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051115418217.pdf)
+
+- Regarding acceptance of resignation of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202407051116145917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051116145917.pdf)
 
 ## Personnel
 - Regarding continuation of 17 temporary posts Under Deputy Director, Health Services, Pune Division, Pune, Sub District Hospital, Karad, Distt. Satara.\

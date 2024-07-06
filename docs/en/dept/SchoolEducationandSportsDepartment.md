@@ -7,6 +7,12 @@
 - Regarding felicitating the players and their mentors who have made the name of the state bright at the international level by giving incentive prizes...\
   [202407011619273421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011619273421.pdf)
 
+- Regarding relocation of Silver Spring Foundation, Pune run Vidyashram Primary School, Kothrud, Pune to Warje Malwadi, Pune.\
+  [202407051842090921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051842090921.pdf)
+
+- Regarding implementation of road safety initiative\
+  [202407051537437221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051537437221.pdf)
+
 ## Personnel
 - Regarding relocation of Sant Baludev Maharaj Vidyalaya, Sabalkhed Dist.Beed to Mauje Patoda, Dist.Beed run by Anand Charitable Institution, Ashti Dist.Beed.\
   [202407011900371521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011900371521.pdf)
@@ -37,6 +43,9 @@
 
 - Regarding the transfer of management of Sri Sant Tukaram Vidyalaya Kalyana, Dist.Buldhana, a multi-purpose educational, social, cultural sports backward class institution, Kalyana, Dist.\
   [202407041754420321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041754420321...pdf)
+
+- Regarding the constitution of a committee to create a permanent cadre of part-time directors in upper primary schools in local self-government bodies.\
+  [202407051752050321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051752050321.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

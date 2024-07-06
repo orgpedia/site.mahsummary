@@ -53,6 +53,9 @@
 - Forest Land-Raigad. Diversion of 8.9440 ha. out of 9.04 ha. Protected Forest land under section-2 of the Van (Samvardhan Evam Sanrakshan) Adhiniyam, 1980 for Establishment of Medicinal Tree Plantation and establishment of cultivation facility project at Village- Donvat, Taluka- Khalapur, District- Raigad.\
   [202407041558095819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041558095819.pdf)
 
+- Floods due to heavy rains, landslides or large cracks in the ground, landslides or landslides etc. In order to take a decision regarding the rehabilitation of affected and disaster-prone villages, Mr. Regarding the formation of an expert committee to assist the Cabinet Sub-Committee...\
+  [202407051602499019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051602499019.pdf)
+
 ## Personnel
 - Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune. Dist. Survey No. at Amravati. 1.44 out of 29. R and Survey no. Area in 133 is 0.81 ha.R. Thats a total of 2.25. 2.24 of r. Regarding making R land available on rent lease basis for 30 years without occupancy fee and revenue free.\
   [202407031546101219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031546101219....pdf)

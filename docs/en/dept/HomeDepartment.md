@@ -38,6 +38,12 @@
 - Regarding grant of administrative approval for construction of administrative building of office of Inspector, State Excise, Gondia.\
   [202407041720418329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041720418329.pdf)
 
+- Regarding giving administrative approval to the construction of CCTV system in Thane City Police Commissionerate Circles 1, 2, 3 (Integration), 4 and 5 at a total cost of Rs.492,89,41,167/-.\
+  [202407051728460129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051728460129.pdf)
+
+- Regarding the creation of 116 Supernumerary  posts of Police Sub-Inspectors on the establishment of Maharashtra Police Academy, Nashik..\
+  [202407051754490329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051754490329.pdf)
+
 ## Personnel
 - Regarding posting of Shri. Abhijit Manjare, Inspector of Motor Vehicles after reinstatement in government service.\
   [202407021807050629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021807050629.pdf)

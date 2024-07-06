@@ -11,6 +11,9 @@
 - Upgradation of other district road to Major District Road in taluka Shirur at distrct Pune.\
   [202407031127135118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031127135118.pdf)
 
+- Regarding updating the website of Public Works Department and Offices under the Department.\
+  [202407051141022518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051141022518.pdf)
+
 ## Personnel
 - Final seniority list dated 01.01.2024 of the cadre of Assistant Executive Engineer (Civil) in Public Works Department.\
   [202407021740410018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021740410018.pdf)

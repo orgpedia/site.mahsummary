@@ -47,5 +47,8 @@
 - TO give the stay to Administrative approval of Amravati road project  approved under Nagarotthan Mahabhiyan.\
   [202407011206262725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011206262725.pdf)
 
+- Regarding reimbursement of express of Pune Metropolitan Region Development Authority.\
+  [202407051146339225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051146339225.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
