@@ -1,43 +1,33 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 01 July 2024 - 06 July 2024
+**Date Range**: 08 July 2024 - 13 July 2024
 
 
 ## Funds
-- Final disbursement of first installment of rule category for implementation of Dry Area Development (RAD) Program under RKVY Capteria for the year 2024-25.\
-  [202407011522503001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011522503001....pdf)
+- Giving administrative approval for implementation of Seed Village Scheme (SVS) in the year 2024-25 under the Centrally Sponsored Scheme for Food and Nutrition Security under Krishi Unnati Yojana (formerly SMSP Yojana).\
+  [202407091504085201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091504085201.pdf)
 
-- Regarding granting administrative approval for construction of administrative offices, various laboratories and auditorium under new Krishi Bhavan building at Chhatrapati Sambhajinagar.\
-  [202407031834002001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031834002001.pdf)
+- Regarding disbursement of first installment of Rs.985.00 lakh funds for the general category in the year 2024-25 under the Agricultural Extension Sub Mission of the National Agricultural Extension and Technology Mission (NMAET) under the Assistance (Atma) Scheme for Improvements in Agricultural Extension Programs of the State.\
+  [202407091218387801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091218387801.pdf)
 
-- Regarding grant of administrative approval for implementation of Assistance for Improvements in Agricultural Extension Programs (ATMA) Scheme for the year 2024-25 under the National Agricultural Extension and Technology Mission (NMAET) under the Agricultural Extension sub-mission.\
-  [202407041420585501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041420585501....pdf)
+- Disbursement of Rs.10.40 crores to Scheduled Tribe under the Rashtriya Krishi Vikas Yojana- Per Drop More Crop for the year 2024-25\
+  [202407091551317801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091551317801.pdf)
 
-- To implement the State Sponsored Agricultural Mechanization Scheme in the year 2024-25 Rs. Regarding giving administrative approval to the program of 150 crore fund.....\
-  [202407041617390001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041617390001.pdf)
+- In the financial year 2024-25, Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme and Regarding disbursement of subsidy under Dr. Panjabrao Deshmukh Hostel Subsistence Allowance Scheme. (under program)\
+  [202407091713303101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091713303101.pdf)
 
-- Released of Rs 6.60 Crore  amount fund of FY 2024-25 under Rashtriya Krushi Vikas Yojana (DPR) for TSP category.\
-  [202407051740479801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051740479801.pdf)
+- Regarding giving administrative approval to implement the scheme to train government employees for technical training under the State Training Policy in the year 2024-25...\
+  [202407091653224001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091653224001.pdf)
 
-- Regarding disbursement of remaining State share insurance premium amounting to Rs.303,70,20,848/- under Comprehensive Crop Insurance Scheme Kharif 2023 to crop insurance companies implementing the scheme.\
-  [202407051553576401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051553576401.pdf)
+- Regarding giving administrative approval to the training and capacity building program of Rs.1534.64 lakh fund to be implemented at Vanamati and Rameti under the National Agricultural Development Scheme Raftar in the year 2022-23, year 2023-24 and year 2024-25 for officers, field staff and Atma Samiti members.\
+  [202407091655327001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091655327001.pdf)
 
-- Released of Rs 8.35 Crore  amount fund of FY 2024-25 under Rashtriya Krushi Vikas Yojana (DPR) for SC category.\
-  [202407051736311201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051736311201.pdf)
-
-## Miscellaneous
-- Regarding giving administrative approval to the project Containerized Disease-free Production of Citrus Planting Material and Technology Dissemination of Indian Council of Agriculture Research (ICAR)- Central Citrus Research Institute (CCRI) under National Agricultural Development Scheme (DPR).- Cancellation\
-  [202407021050426701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021050426701.pdf)
-
-- Under the Comprehensive Crop Insurance Scheme, the remaining state share subsidy amount towards crop insurance premium for Rabi season 2023-24 is Rs. 733,57,73,871/- regarding disbursement of the amount to the crop insurance companies implementing the scheme.\
-  [202407051601596401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051601596401.pdf)
+- Release of Rs. 17.40 Cr. for FY 2024-25 for individual farm pond component under Chief Minister Shashwat Krishi Sinchan Yojana\
+  [202407091548073801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091548073801.pdf)
 
 ## Personnel
-- Release fund of Scheduled Tribes for Implementation of Centrally Sponsored Scheme-Green Revolution-KrishoNnati Yojana-Mission for integrated Development Horticulture (MIDH) Horticulture Mission in the year 2024-25. (First Installment)\
-  [202407041226099301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041226099301.pdf)
-
-- Release fund of Scheduled Caste category for implementation of National Horticulture Mission in the year 2024-25 under Krishi Unnati Yojana - Integrated Horticulture Development Mission (MIDH)- (First Installment)\
-  [202407051053128901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051053128901.pdf)
+- Regarding publication of the final seniority list dated 01/01/2024 of Maharashtra Agricultural Service, Group-A, Deputy Director of Agriculture cadre.\
+  [202407091525493901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091525493901.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

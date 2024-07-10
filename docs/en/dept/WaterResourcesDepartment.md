@@ -1,43 +1,15 @@
 # Water Resources Department
 
-**Date Range**: 01 July 2024 - 06 July 2024
+**Date Range**: 08 July 2024 - 13 July 2024
 
 
 ## Funds
-- Mauje Lavali, p. Kannada, Distt. Ch. Regarding grant of administrative approval to the proposal for the budget for the work of the flood retaining wall along the river Shivana at Sambhajinagar.\
-  [202407021239257027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021239257027.pdf)
-
-- Mauje. Kaulav, District Radhanagari, Dist. Regarding grant of administrative approval to the proposal for the budget for the work of flood retaining wall along Bhogavati river at Kolhapur. . (Corrigendum)\
-  [202407021248292727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021248292727.pdf)
-
-- Mauje Sai Kade, p. Patan, Dist. Regarding grant of administrative approval to the proposal for the work of flood protection wall in Dalit Vasti and Gavthan area situated on the bank of river Wang in Satara.\
-  [202407021255157027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021255157027.pdf)
-
-## Miscellaneous
-- In the provisional seniority list dated 01.01.2022 and 01.01.2023 of the cadre of Chief Engineer (Civil) in Water Resources Department, Mr. Jayant G. Gawli Regarding revision of seniority of Chief Engineer.\
-  [202407011708147127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011708147127.pdf)
-
-- Accord administrative approval to.the work of flood retaining wall along the river Koyana at Mauje Varunji, Tal..  Karad, Dist Satara\
-  [202407021257097127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021257097127.pdf)
-
-- Accord administrative approval to.the work of flood retaining wall along the river Solashi at Mauje Yerne Badruk, Tal..  Mahabaleshwar, Dist Satara\
-  [202407021302593427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021302593427.pdf)
-
-- Mauje Yerne Khurd, T. Mahabaleshwar, Dist. Regarding grant of administrative approval to the proposal for the work of flood retaining wall along the river Wang at Satara.\
-  [202407021306007127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021306007127.pdf)
+- Accord administrative approval to.the work of flood retaining wall along the river panchanadi       at   Panchanadi , Tal..  Dapoli, Dist Ratnagiri\
+  [202407091537594027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091537594027.pdf)
 
 ## Personnel
-- Provisional seniority list dated 01.01.2024 for the cadre of Executive Engineer (Electrical) in Water Resources Department.\
-  [202407011715125327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011715125327.pdf)
-
-- Provisional seniority list dated 01.01.2024 for the cadre of Superintending Engineer (Civil) in Water Resources Department.\
-  [202407031712205727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031712205727.pdf)
-
-- Regarding publication of the provisional seniority list dated 01.01.2024 of the cadre of Superintending Engineer (Mechanical) in the department.\
-  [202407031713301927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031713301927.pdf)
-
-- Increased water Bulk Water Entitlement reservation proposal for  Islampur Municipal Council, under Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan Tal. Walwa Dist.  Sangli from Krishna River Bahe KT Weir.\
-  [202407041622568427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041622568427.pdf)
+- Administrative approval under Extension and Improvement to work of providing  closed  canal system  from Saver village in the Command  area of Aner Medium Project Tal. Shirpur Dist. Dhule for Feeding bandharas on Nallas.\
+  [202407091146298827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091146298827.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

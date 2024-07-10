@@ -1,70 +1,18 @@
 # Planning Department
 
-**Date Range**: 01 July 2024 - 06 July 2024
+**Date Range**: 08 July 2024 - 13 July 2024
 
 
 ## Funds
-- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202407011518496316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011518496316.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202407011515483316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011515483316.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202407011508446016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011508446016.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202407021226017016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021226017016.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202407021228556816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021228556816.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202407021234413516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021234413516.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202407021232006916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021232006916.pdf)
-
-- Clarification regarding provision of funds for provision of specified civic services and facilities within the area of Urban Local Self-Government Bodies\
-  [202407041537062116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041537062116.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
-  [202407041541355716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041541355716.pdf)
-
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202407041537165216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041537165216.pdf)
-
-- Release of Rs. 45.66 Crore to Chhatrapati Shahu Maharaj Research, Training and Human Development Institution (SARATHI), Pune.\
-  [202407051616490016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051616490016.pdf)
+- Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune Departmental Office, Hostel, Study Center, etc. at Mauje Navsari, Dist.Amravati. Regarding giving administrative approval to the building construction of the matter.\
+  [202407091432380316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091432380316....pdf)
 
 ## Miscellaneous
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
-  [202407011504346816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011504346816.pdf)
+- Regarding cultivation of fodder crops under Mahatma Gandhi National Rural Employment Guarantee Scheme on Gayran/ individual land as a measure against fodder shortage in probable drought conditions.\
+  [202407091753253916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091753253916.pdf)
 
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies.\
-  [202407011512189716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011512189716.pdf)
-
-- Sanction of scholarship for pursuing Higher Education in abroad - Maharaja Sayajirao Gaikwad Sarthi Gunwant Scholarship for Higher Education Abroad for the academic year 2023-24 (Phase II)\
-  [202407011158257616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407011158257616.pdf)
-
-- Regarding the extension of time till March 31, 2025 for the completion of the approved works in the development plans implemented through the Planning Department for the development of pilgrimage sites and providing infrastructural civic facilities...\
-  [202407021434357416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021434357416.pdf)
-
-- Development plan for creating basic facilities at Shegaon on the occasion of Shree Gajanan Maharaj Samadhi Centenary:- Regarding extending the deadline for self registration account.\
-  [202407041744546116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041744546116.pdf)
-
-## Personnel
-- Regarding creation of surplus post for Group-B (Gazetted) cadre officers in the Directorate of Finance and Statistics appointed from Scheduled Tribes category but caste certificate invalidated - Smt. Rekha Rajanna Kudmulwar, Statistical Officer, Tribal Research and Training Institute, Pune.\
-  [202407031549558916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031549558916.pdf)
-
-- Regarding posting of Joint Director, Group-A cadre officers on establishment of Directorate of Finance and Statistics by promotion to Additional Director, Group-A cadre..\
-  [202407031314281116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031314281116.pdf)
-
-- Regarding transfers on administrative grounds of the Additional Director, Group-A cadre officers in the Directorate of Finance and Statistics.\
-  [202407031311254516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407031311254516.pdf)
-
-- Regarding the transfer of Deputy Director, Group-A cadre officers in the Directorate of Finance and Statistics..\
-  [202407041239205316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407041239205316.pdf)
+- CORRIGENDUM Regarding setting up Kandachal as a godown for storing onions under the Mahatma Gandhi National Rural Employment Guarantee Scheme.\
+  [202407091432419616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091432419616.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
