@@ -20,5 +20,12 @@
 - Regarding the creation of 01 additional post of Assistant Collector under the batch of Probationary Officer-2023....IAS\
   [202407091824566319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091824566319.pdf)
 
+## Personnel
+- Regarding extension of supernumerary posts of 02 candidates in Probationary Tehsildar Cadre.\
+  [202407101508178919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101508178919.pdf)
+
+- Regarding extension of supernumerary posts of 02 candidates in Probationary Tehsildar Cadre.\
+  [202407101511347019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101511347019.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

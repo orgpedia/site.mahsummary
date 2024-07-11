@@ -25,6 +25,10 @@
 - Release of Rs. 17.40 Cr. for FY 2024-25 for individual farm pond component under Chief Minister Shashwat Krishi Sinchan Yojana\
   [202407091548073801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091548073801.pdf)
 
+## Miscellaneous
+- Mahatma Phule Agricultural University, Rahuri Sub-Divisional College of Agriculture, Nandurbar regarding disbursement of grant under tribal component program for the financial year 2024-25...\
+  [202407101155382401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101155382401.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list dated 01/01/2024 of Maharashtra Agricultural Service, Group-A, Deputy Director of Agriculture cadre.\
   [202407091525493901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091525493901.pdf)

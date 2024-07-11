@@ -14,5 +14,8 @@
 - Regarding temporary promotion to the post of Additional Labor Commissioner (Group-A) S-25 (Rs.78,800-2,09,200).\
   [202407081323288610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081323288610.pdf)
 
+- Regarding the recommendation / cancellation of appointment by the Maharashtra Public Service Commission for appointment by nomination to the post of Assistant Director on Establishment, Group B of the Director, Directorate of Industrial Safety and Health, Mumbai.\
+  [202407101427480410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101427480410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

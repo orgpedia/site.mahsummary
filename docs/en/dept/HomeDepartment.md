@@ -10,6 +10,9 @@
 - Financial year 2024-25 Administrative Approval for purchase of  Deep Search Metal Detector (DSMD) under Modernization of security system in prisons Scheme\
   [202407091618324329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091618324329.pdf)
 
+- Regarding giving administrative approval to the budget amounting to Rs.29,43,63,467/- for the work Repair of retaining wall at Geeta Nagar, Colaba, Mumbai.\
+  [202407101159041029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101159041029.pdf)
+
 ## Miscellaneous
 - Regarding declaring the post of Accounts Officer as Drawing and Disbursing Officer in the remaining 15 Regional Transport Offices out of total 24 Regional Transport Offices in the Motor Vehicle Division of the Home (Transport) Department except 9 Regional Transport Offices which have been promoted.\
   [202407091527470929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091527470929.pdf)
@@ -19,6 +22,15 @@
 
 - Superintendent Central Jail Cadre Officer Regarding publication of final service seniority scale as on Dt.  01.01.2024.\
   [202407091511494029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091511494029.pdf)
+
+- Sanctioning of professional Fees to Adv. Ajay Misar as a Special Public Prosecutor for conducting the case in Honble Metropolitan Magistrate, Mumbai and Honble Sessions Court, Mumbai which is arising out of C.R.No. 28/2023 registered with the Malbar Hill Police Station, Mumbai\
+  [202407101656004129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101656004129.pdf)
+
+- (Corrigendum) Sanctioning of professional Fees to Adv. Janardhan Navale  as a Special Public Prosecutor for conducting the cases in the Honble Courts which are arising out of C.R.No.192/2007 registered at Kranti Chowk Police Station, Ch.Sambhajinagar.\
+  [202407101548596329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101548596329.pdf)
+
+- Regarding extension of time to the company M/s. PWC appointed as a project consultant to install CCTV cameras in police stations in the state.....\
+  [202407101237456329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101237456329.pdf)
 
 ## Personnel
 - Regarding transfers/postings of Indian police services officers.\

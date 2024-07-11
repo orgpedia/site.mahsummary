@@ -127,6 +127,15 @@
 - Regarding giving administrative approval to solid waste management project of Dhanora Nagar Panchayat, District Gadchiroli under Swachh Maharashtra Mission (No.) 2.0.\
   [202407091845357325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091845357325.pdf)
 
+- Administrative Approval to Water Supply Project of Ambarnath Municipal Council Under AMRUT 2.0 (258.29 Cr)\
+  [202407101345004825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101345004825.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Gangakhed Water Supply Project.\
+  [202407101450316625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101450316625.pdf)
+
+- Administrative Approval for Khokad lake Rejuvenation Project of Chandwad Municipal Council Under AMRUT (9.33  Cr)\
+  [202407101345074125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101345074125.pdf)
+
 ## Miscellaneous
 - Regarding approving revision in the pay scale and designation of certain cadres in the approved scheme of the Kalyan-Dombivli Municipal Corporation.\
   [202407081439290825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081439290825.pdf)

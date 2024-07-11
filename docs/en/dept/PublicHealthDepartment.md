@@ -28,6 +28,12 @@
 - Regarding approval of new Primary Health Center at Mauje Tilwani,  Tal-Kopargaon Dist-Ahmednagar.\
   [202407081305195017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305195017.pdf)
 
+- Regarding approving the upgradation of 30-bed Rural Hospital in  Khardi Tal -  Shahapur, Dist. Thane to 50-bed Upazila Hospital as a special matter.\
+  [202407081322552117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081322552117.pdf)
+
+- Regarding approving the upgradation of 100 bedded sub-district hospital to 200 bedded general hospital at Panvel Distt. Raigad..\
+  [202407081323000917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081323000917.pdf)
+
 ## Personnel
 - Regarding upgradation of primary health center at Khapar, Tal-Akkalkuwa, Dist- Nandurbar to 30 bed capacity rural hospital.\
   [202407021556277517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556277517.pdf)

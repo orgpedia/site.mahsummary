@@ -38,5 +38,35 @@
 - As per the approval given by the All India Technical Education Council, regarding the approval of the Government to start a new Engineering College on permanent unaided basis from the academic year 2024-25... Devi Mahalakshmi College of Engineering and Technology, Titwala, District Thane\
   [202407091229514008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091229514008.pdf)
 
+- Regarding approval by the All India Council of Technical Education, New Delhi for starting a new institute of degree course on unaided basis in the State from the academic year 2024-25 to Research Development and Evaluation Training, Armored Corps Center and School, Ahmednagar.\
+  [202407101811019008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101811019008.pdf)
+
+- Regarding approval of the Government pursuant to the approval given by the All India Council of Technical Education, New Delhi to start a new unaided degree institution in the State from the academic year 2024-25.\
+  [202407101818180508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101818180508.pdf)
+
+- According to the approval given by the All India Technical Education Council, regarding the approval of the government to start a new college on permanent unaided basis from the academic year 2024-25... Dr. S.C. Gulhane Prerna College of Management and Technology, Vihirgaon, Nagpur\
+  [202407101835472008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101835472008.pdf)
+
+- Regarding the provision of medical facilities to students in all degree, diploma, post-graduate and similar course institutions in aided, unaided/ permanent unaided educational institutions under the jurisdiction of the Department of Higher and Technical Education.\
+  [202407101257436108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101257436108.pdf)
+
+- As per the approval given by the All India Council of Technical Education, regarding the approval of the Government to start a new college on permanent unaided basis from the academic year 2024-25... Devagiri College, Chhatrapati Sambhajinagar.\
+  [202407101832396308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101832396308.pdf)
+
+- According to the approval given by the All India Technical Education Council, regarding the approval of the government to start a new college on permanent unaided basis from the academic year 2024-25... Dr. A.P.J. Abdul Kalam College of Management, Tumsar, Dist.Bhandara.\
+  [202407101838207808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101838207808.pdf)
+
+- Regarding approval of the Government to change the name of the existing unaided educational institutions trusts from the academic year 2024-25 as per the approval given by the All India Technical Education Council...\
+  [202407101840493408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101840493408.pdf)
+
+- Regarding service review of Group-A  Group-B (Gazetted) officers on establishment of Directorate of Higher Education on completion of 50/55 years of age or 30 years of qualifying service...\
+  [202407101653488908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101653488908.pdf)
+
+- Regarding approval of the Government pursuant to the approval given by the All India Council of Technical Education, New Delhi to start a new unaided degree institution in the State from the academic year 2024-25.\
+  [202407101812271408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101812271408.pdf)
+
+- Regarding Government approval for starting new courses in the existing institute from the academic year 2023-24 as per the approval of Pharmacy Council of India, New Delhi, as well as changing the name of the institute.\
+  [202407101844425908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101844425908.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
