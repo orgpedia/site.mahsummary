@@ -17,6 +17,9 @@
 - Additional Commissioner under Tribal Development Department, Tribal Development, Nagpur and Amol Education Institute under A.A.V.P., Deori, Thana, Tt. Amgaon, Dist. Subsidized Ashram School run by Gondia Vdara Thana Amgaon, Distt. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School, Gondia.\
   [202407101226245124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101226245124.pdf)
 
+- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and A.A.V.P., Dhule under Khandesh Kanya Sw. Smita Patil Educational Service Society, Shirpur, Tt. Shirpur, Dhule Vdara Subsidized Ashram School Jalod, Tt. Shirpur, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School, Dhule.\
+  [202407111753453024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111753453024.pdf)
+
 ## Personnel
 - Regarding regularization of employees working on daily/ hourly basis in Govt. Ashram Schools/ Hostels in Tribal Development Department.\
   [202407081530511824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081530511824.pdf)

@@ -7,6 +7,9 @@
 - Regarding granting 100 percent benefit instead of 50 percent of education fee and examination fee to girls belonging to Economically Weaker Sections (EWS), Socially and Educationally Backward Classes (SEBC) and Other Backward Classes (OBC) categories taking admission in vocational courses...\
   [202407091429374008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091429374008.pdf)
 
+- Regarding disbursement of funds for Dr. Panjabrao Deshmukh Hostel Subsistence Allowance Scheme in the year 2024-25...\
+  [202407101221292908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101221292908.pdf)
+
 ## Miscellaneous
 - Regarding granting the approval of Government to start a new Institute imparting Diploma engineering education on permanent unaided basis  in the State from the academic year 2024-25 according to the approval of AICTE, New Delhi.\
   [202407091224447908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091224447908.pdf)
@@ -67,6 +70,21 @@
 
 - Regarding Government approval for starting new courses in the existing institute from the academic year 2023-24 as per the approval of Pharmacy Council of India, New Delhi, as well as changing the name of the institute.\
   [202407101844425908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101844425908.pdf)
+
+- As per the approval given by the All India Technical Education Council, regarding the approval of the Government to start a new Engineering College on permanent unaided basis from the academic year 2024-25... Sant Eknath College of Engineering, Nipani Bhalgaon, Chhatrapati Sambhajinagar\
+  [202407111701320108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111701320108.pdf)
+
+- According to the approval given by the All India Technical Education Council, regarding the approval of the government to start a new college on permanent unaided basis from the academic year 2024-25... Tulsakar Institute of Science and Technology, Hinganghat, Wardha\
+  [202407111520087108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111520087108.pdf)
+
+- Higher and Technical Education Department. Investment Option to the employees in educational institutions covered under NPS.\
+  [202407111205175408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111205175408....pdf)
+
+- Regarding the approval of the Council of Architecture, New Delhi, for starting Diploma in Architecture on permanent unaided basis from the academic year 2024-25 in existing unaided course institutes in the State.\
+  [202407111804356208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111804356208.pdf)
+
+- Regarding granting Government approval for starting new courses in the existing institutions in the State from the academic year 2024-25, increasing the admission capacity of the existing courses, restoring the previously reduced admission etc.\
+  [202407111732494608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111732494608.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

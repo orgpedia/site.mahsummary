@@ -34,6 +34,15 @@
 - Regarding approving the upgradation of 100 bedded sub-district hospital to 200 bedded general hospital at Panvel Distt. Raigad..\
   [202407081323000917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081323000917.pdf)
 
+- Regarding approval of 100 bedded super multispecialty hospital at Mauje Watul, Rajapur, District Ratnagiri.\
+  [202407111214225617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111214225617.pdf)
+
+- Regarding upgradation of Primary Health Center at Hanegaon, Dist.Degalur, Dist.Nanded to 30 bedded rural hospital.\
+  [202407111232049017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111232049017.pdf)
+
+- Regarding the establishment of 2 rural hospitals, 5 primary health centers and 50 sub-centres in Nandurbar district as per the action to be taken  under the Tribal Health Action Plan of the Central Government.\
+  [202407081306093417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081306093417.pdf)
+
 ## Personnel
 - Regarding upgradation of primary health center at Khapar, Tal-Akkalkuwa, Dist- Nandurbar to 30 bed capacity rural hospital.\
   [202407021556277517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556277517.pdf)

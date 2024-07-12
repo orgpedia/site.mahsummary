@@ -38,6 +38,15 @@
 - Provisional Seniority list of clerk typist of mantralaya department eligible for promotion to post of Assistant Section officer - Provisional Seniority list As on 01.01.2024\
   [202407101128182107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101128182107.....pdf)
 
+- Clerk-Typist (Marathi/English) Examination-2013 Recommended by Maharashtra Public Service Commission Shri. Regarding cancellation of allotment of Bhatlondhe.\
+  [202407111302475307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111302475307.pdf)
+
+- Filling the post of deputation basis\
+  [202407111536073107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111536073107....pdf)
+
+- Filling the post of deputation basis\
+  [202407111534030307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111534030307.pdf)
+
 ## Personnel
 - Transfer of Deputy /Joint Secretary.\
   [202407091722558007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091722558007.pdf)

@@ -136,12 +136,24 @@
 - Administrative Approval for Khokad lake Rejuvenation Project of Chandwad Municipal Council Under AMRUT (9.33  Cr)\
   [202407101345074125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101345074125.pdf)
 
+- . Nagarothan Mahabhiyan - Administrative Approval for Indapur Municipal Corporation Sewerage Project.\
+  [202407101700023925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101700023925.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Patoda Water Supply Project.\
+  [202407101700105625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101700105625.pdf)
+
+- Administrative Approval to  Sewerage Project of Gondia Municipal Council Under AMRUT 2.0  (Rs. 249.68 )\
+  [202407101450383725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101450383725.pdf)
+
 ## Miscellaneous
 - Regarding approving revision in the pay scale and designation of certain cadres in the approved scheme of the Kalyan-Dombivli Municipal Corporation.\
   [202407081439290825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081439290825.pdf)
 
 - Dr. Mahesh Shankarrao Patil, who is working on honorarium basis in Latur City Municipal Corporation, has been regularly inducted into the service of the Municipal Corporation on the sanctioned and vacant post of Medical Officer (other than national and state program/ birth, death and marriage registration) in the Municipal Corporation.\
   [202407081534504225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081534504225.pdf)
+
+- Mauje-Chinchwad Haveli, Dist. Survey No. 57/3pai, 57/4pai and 57/5pai of Pune. Regarding interchange of jurisdictional areas.\
+  [202407111548012925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111548012925.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

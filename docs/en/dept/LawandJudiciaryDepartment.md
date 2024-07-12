@@ -17,5 +17,11 @@
 - Constitution of Review Committee and Representation Committee for service review of Group B (Non-Gazetted), Group-C and D employees in the Charity Organization after attaining 50/55 years of age or 30 years of qualifying service.\
   [202407091305318512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091305318512.pdf)
 
+- Regarding opening of Personal Deposit Account for civil proceedings for District  Additional Session  Court Vita,  Dist - Sangli.\
+  [202407111452507712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111452507712.pdf)
+
+- Regarding opening of Personal Deposit Account for Criminal proceedings for District  Additional Session Court Vita,  Dist - Sangli.\
+  [202407111445222612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111445222612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

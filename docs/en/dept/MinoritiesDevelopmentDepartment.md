@@ -16,5 +16,9 @@
 - Regarding disbursement of grant-in-aid for Establishment expenditure for the financial year 2024-25 to the office of Maharashtra State Urdu Sahitya Akademi, Mumbai.\
   [202407101340155214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101340155214.pdf)
 
+## Miscellaneous
+- Regarding approval of revised establishment for the try member Maharashtra State Waqf Tribunal\
+  [202407111525540914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111525540914.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

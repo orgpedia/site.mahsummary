@@ -25,6 +25,18 @@
 - Release of Rs. 17.40 Cr. for FY 2024-25 for individual farm pond component under Chief Minister Shashwat Krishi Sinchan Yojana\
   [202407091548073801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091548073801.pdf)
 
+- Regarding giving administrative approval for construction of Veterinary College in Ahmednagar District under the Maharashtra University of Animal and Fisheries Science.\
+  [202407111503007001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111503007001.pdf)
+
+- Regarding disbursement of first installment of funds to Scheduled Tribes for implementation of Dry Area Development (RAD) Program under RKVY Cafeteria in the year 2024-25.\
+  [202407111136231101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111136231101.pdf)
+
+- Regarding disbursement of general category funds for implementation of Soil Health and Fertility Program (SHF) under National Agricultural Development Scheme (RKVY) in the year 2024-25.\
+  [202407111447036201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111447036201.pdf)
+
+- Vegetable nursery and fruit plantation major head 2401 1722  sub head 27 minor work   In  the financial year 2024-25 construction of  nursery work  Rs.3.12 crore are sanctioned.\
+  [202407111105103101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111105103101.pdf)
+
 ## Miscellaneous
 - Mahatma Phule Agricultural University, Rahuri Sub-Divisional College of Agriculture, Nandurbar regarding disbursement of grant under tribal component program for the financial year 2024-25...\
   [202407101155382401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101155382401.pdf)
