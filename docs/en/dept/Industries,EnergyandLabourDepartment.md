@@ -14,6 +14,9 @@
 - Leadership  Managerial Skills, Management from 16/09/2024 to 23/09/2024 at New York, Los Angeles, Fresno, Fresno Orlando (United State) by Shri.Narendra Bhoite, Co-Director, Ahmednagar.  Business Administration (ST 025) regarding permission to participate in this training.\
   [202407111801589410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111801589410.pdf)
 
+- Regarding extending the period of electricity duty waiver concession to industrial units in Vidarbha and Marathwada Division.\
+  [202407101424295710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101424295710.pdf)
+
 ## Personnel
 - Regarding temporary promotion to the post of Additional Labor Commissioner (Group-A) S-25 (Rs.78,800-2,09,200).\
   [202407081323288610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081323288610.pdf)

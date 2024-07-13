@@ -43,6 +43,9 @@
 - Regarding the establishment of 2 rural hospitals, 5 primary health centers and 50 sub-centres in Nandurbar district as per the action to be taken  under the Tribal Health Action Plan of the Central Government.\
   [202407081306093417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081306093417.pdf)
 
+- Regarding disbursing an amount of Rs.8272.30 lakhs for the month of April 2024 to ASHA volunteers and group promoters from the budget provision of the state government for the year 2024-25 under the general plan for the National Rural Health Program under the Centrally Sponsored National Health Mission.\
+  [202407111446454317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111446454317.pdf)
+
 ## Personnel
 - Regarding upgradation of primary health center at Khapar, Tal-Akkalkuwa, Dist- Nandurbar to 30 bed capacity rural hospital.\
   [202407021556277517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556277517.pdf)

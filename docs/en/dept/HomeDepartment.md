@@ -13,6 +13,9 @@
 - Regarding giving administrative approval to the budget amounting to Rs.29,43,63,467/- for the work Repair of retaining wall at Geeta Nagar, Colaba, Mumbai.\
   [202407101159041029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101159041029.pdf)
 
+- Regarding disbursement of funds amounting to Rs.230.06 crores to Maharashtra State Road Transport Corporation for May, 2024 as reimbursement of discounted price...\
+  [202407121407522629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121407522629.pdf)
+
 ## Miscellaneous
 - Regarding declaring the post of Accounts Officer as Drawing and Disbursing Officer in the remaining 15 Regional Transport Offices out of total 24 Regional Transport Offices in the Motor Vehicle Division of the Home (Transport) Department except 9 Regional Transport Offices which have been promoted.\
   [202407091527470929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091527470929.pdf)
@@ -47,6 +50,9 @@
 
 - Regarding publication of final service seniority scale of Additional Superintendent, Central Jails/ Superintendent, District Jail Class-I cadre officers on 01.01.2024.\
   [202407091515085029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091515085029.pdf)
+
+- Regarding direct service appointment to the post of Assistant Chemical Analyst, Group-B (Gazetted) in the Directorate of Judicial Scientific Laboratories, Mumbai under the Directorate General (Judicial  Technical), State of Maharashtra, Mumbai under the Home Department.\
+  [202407121610396029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121610396029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

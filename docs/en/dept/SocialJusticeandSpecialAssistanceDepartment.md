@@ -13,5 +13,8 @@
 - Regarding the distribution of funds to the Scheduled Caste category in the financial year 2024-25 under the Centrally Sponsored National Sustainable Agriculture Mission, Dry Water Area Development (RKVY-RAFTAR) scheme. Central share (heading 2401B161) State share (heading 2401B179)\
   [202407111519265122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111519265122.pdf)
 
+- Regarding disbursement of funds for the centrally sponsored Land Health and Fertility Mission to Scheduled Castes in the financial year 2024-25(Central Share Heading 2402 A 255) (State Share Heading 2402 A 264)\
+  [202407121651324622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121651324622.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

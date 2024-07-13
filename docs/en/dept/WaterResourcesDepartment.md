@@ -13,6 +13,12 @@
 - Administrative Approval Under Special Repairs to Right bank Damaged Portion of Manjur K.T.Weir Tal . Kopargaon Dist Ahmednagar.\
   [202407101539073527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101539073527.pdf)
 
+- Pentipaka Irrigation Scheme T. Sironcha Distt. Regarding giving administrative approval to the work budget for the survey, conceptualization and preparation of detailed project report of Gadchiroli sub-irrigation scheme.\
+  [202407121741532427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121741532427.pdf)
+
+- Takeda Irrigation Scheme Sironcha Dist. Regarding giving administrative approval to the work budget for surveying, conceptualization and preparation of detailed project report for the sub-irrigation scheme of Gadchiroli.\
+  [202407121746373727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121746373727.pdf)
+
 ## Miscellaneous
 - To constitute the expert committee for conducting the review of demarcation of flood lines in pune city.\
   [202407101149147627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101149147627.pdf)

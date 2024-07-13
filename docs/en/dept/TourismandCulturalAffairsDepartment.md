@@ -29,5 +29,8 @@
 - Regarding the administrative and financial approval of expenditure for curation of exhibition of 12 forts nominated for World Heritage under the heading Maratha Military Forts.\
   [202407111813312923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111813312923.pdf)
 
+- Regarding giving administrative and financial approval to the proposal for installation of metal detectors at the main gate of Shri Chhatrapati Shivaji Maharaj Museum, Satara for the security of Shivshastrashauryagatha exhibition....\
+  [202407121754117223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121754117223.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

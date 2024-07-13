@@ -47,6 +47,24 @@
 - Filling the post of deputation basis\
   [202407111534030307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111534030307.pdf)
 
+- Regarding revised criteria for appointment as Special Executive Officer.\
+  [202407121653532507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121653532507.pdf)
+
+- On effective use of e-office systems in Ministerial Administrative Departments.\
+  [202407121521225707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121521225707.pdf)
+
+- Appointment by Deputation -Shri. Khalid B. Arab, Joint  Secretary.\
+  [202407121148028007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121148028007.pdf)
+
+- Regarding honoring/reasonable honoring of persons subjected to detention during the period of emergency.... Smt. Savita Prakash More.\
+  [202407121300354807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121300354807.pdf)
+
+- Basic Training for Clerk-Typist Cadre of Ministry of Training in the year 2024-2025 under State Training Policy\
+  [202407121705352607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121705352607.pdf)
+
+- Regarding the creation of Post of Peon\
+  [202407121529178007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121529178007.pdf)
+
 ## Personnel
 - Transfer of Deputy /Joint Secretary.\
   [202407091722558007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091722558007.pdf)

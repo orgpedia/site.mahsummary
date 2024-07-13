@@ -37,13 +37,34 @@
 - Vegetable nursery and fruit plantation major head 2401 1722  sub head 27 minor work   In  the financial year 2024-25 construction of  nursery work  Rs.3.12 crore are sanctioned.\
   [202407111105103101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111105103101.pdf)
 
+- Regarding disbursement of first installment of funds to Scheduled Castes for implementation of Dry Area Development (RAD) Program under RKVY Cafeteria in the year 2024-25.\
+  [202407121549479301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121549479301.pdf)
+
+- Regarding disbursement of the first installment of funds for the Scheduled Caste category under the Agricultural Mechanization Sub Mission in the year 2024-25.\
+  [202407121544088301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121544088301...pdf)
+
+- Regarding giving administrative approval for implementation of Paramparagat Krushi Vikas Yojna (PKVY) under Rashtriya krushi Vikas Yojna  (RKVY) in the year 2024-25.\
+  [202407121207598401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121207598401.pdf)
+
+- Regarding disbursement of funds for implementation of Soil Health and Fertility Program (SHF) under Rashtriya Krushi VIkas Yojna (RKVY) for Scheduled Tribes in the year 2024-25.\
+  [202407121254252601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121254252601...pdf)
+
 ## Miscellaneous
 - Mahatma Phule Agricultural University, Rahuri Sub-Divisional College of Agriculture, Nandurbar regarding disbursement of grant under tribal component program for the financial year 2024-25...\
   [202407101155382401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407101155382401.pdf)
 
+- Creation of 03 new budget heads for Centrally Sponsored Livestock Health  Disease Control Program (LH  DCP) under Schedule Caste Component Plan.\
+  [202407121700387601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121700387601....pdf)
+
+- Release of Rs.115.00 lakh grant under RKVY- Per Drop More Crop (Micro Irrigation), (General category) for FY 2024-25.\
+  [202407121546342601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121546342601.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list dated 01/01/2024 of Maharashtra Agricultural Service, Group-A, Deputy Director of Agriculture cadre.\
   [202407091525493901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091525493901.pdf)
+
+- Regarding giving administrative approval for implementation of 100 percent centrally sponsored scheme for timely reporting of area of major crops in Maharashtra state in the year 2024-25.\
+  [202407121614202501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121614202501.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

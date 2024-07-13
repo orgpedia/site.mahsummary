@@ -86,5 +86,8 @@
 - Regarding granting Government approval for starting new courses in the existing institutions in the State from the academic year 2024-25, increasing the admission capacity of the existing courses, restoring the previously reduced admission etc.\
   [202407111732494608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111732494608.pdf)
 
+- Prof. Jestharaj Bhalchandra Joshi, Professor, Dr. Regarding appointment of Homi Bhabha National Institute, Mumbai as Chancellor of Institute of Chemical Technology.\
+  [202407121835057908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121835057908...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

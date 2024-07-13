@@ -20,6 +20,9 @@
 - Administrative approval for purchase of machinery and equipment under the State Scheme to Sir J.J. Hospitals and Grant Government Medical College, Mumbai (corrigendum)\
   [202407091715443913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091715443913.pdf)
 
+- Construction of 1)  150 Capacity Boys Hostel, 2) 150 Capacity of Girls Hostel, 3) 125 RMO  125 Intern Gents Quarters, 4) 125 RMO  125 Intern Ladies Quarters and 5) 150 Capacity Nursing Hostel and Training Centre at Rajarshree Chhtrapati Shahu Maharaj Medical College at Shenda Park, Kolhapur\
+  [202407111121393113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111121393113.pdf)
+
 ## Personnel
 - Regarding creation of post for newly established 430 bedded hospital at Government Medical Collage and Hospital, Ratnagiri\
   [202407081522511613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081522511613.pdf)
