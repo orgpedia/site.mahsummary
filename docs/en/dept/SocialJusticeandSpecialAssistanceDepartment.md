@@ -16,5 +16,11 @@
 - Regarding disbursement of funds for the centrally sponsored Land Health and Fertility Mission to Scheduled Castes in the financial year 2024-25(Central Share Heading 2402 A 255) (State Share Heading 2402 A 264)\
   [202407121651324622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121651324622.pdf)
 
+- Regarding approving the implementation of Mukhyamantri Tirtha Darshan Yojana to provide free opportunity to the senior citizens of 60 years of age and above from all religions of Maharashtra State.\
+  [202407141449472222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407141449472222.pdf.pdf)
+
+- Kirtankar from Maharashtra state   And regarding establishment of Chief Minister Warkari Corporation to provide facilities to the Warkari\
+  [202407141449544022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407141449544022.pdf.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
