@@ -1,22 +1,17 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 08 July 2024 - 13 July 2024
+**Date Range**: 15 July 2024 - 20 July 2024
 
 
 ## Funds
-- Regarding providing post-action approval and funds to the proposal of 3522 individual Gharkul beneficiaries in Chandrapur district under Yashwantrao Chavan Mukta Colony Yojana.\
-  [202407111657283034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111657283034.pdf)
+- Regarding changes in the work in Osmanabad District which has been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202407161450550734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161450550734.pdf)
 
-## Miscellaneous
-- Regarding appointment by deputation Smt. Swati Gurulinga Swamy, Chief Clerk, Sub Divisional Officers Office, Ambajogai, Dist. Beed\
-  [202407091440271834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091440271834.pdf)
+- Regarding provision of ex-works approval and funds to 1 individual Gharkul beneficiary in Nanded district under Yashwantrao Chavan Mukta Colony Yojana.\
+  [202407161456556734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161456556734.pdf)
 
-- Declaration of drawing and disbursing and control officer for disbursing funds in connection with implementation of Dyanjyoti Savitribai Phule Aadhaar Yojana.\
-  [202407121559432534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407121559432534.pdf)
-
-## Personnel
-- Regarding approval of the proposal of the beneficiaries recommended by the District Level Committee, Sindhudurg under Punyashlok Ahilya Devi Holkar Gharkool Yojana.\
-  [202407111715393534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111715393534.pdf)
+- Administrative approval has been given under Vasantrao Naik Tanda Vasti Improvement Scheme. Regarding change in work in Sambhajinagar district.\
+  [202407161454160834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161454160834.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

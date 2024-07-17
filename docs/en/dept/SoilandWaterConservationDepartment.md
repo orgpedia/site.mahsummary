@@ -1,17 +1,11 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 08 July 2024 - 13 July 2024
+**Date Range**: 15 July 2024 - 20 July 2024
 
 
-## Personnel
-- Regarding promotion and posting in the cadre of Regional Water Conservation Officer/Regional Vigilance and Quality Control Officer (Construction). (Election Year - 2023-24)\
-  [202407091237556926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091237556926.pdf)
-
-- Regarding posting on promotion in the cadre of Regional Water Conservation Officer/Regional Vigilance and Quality Control Officer (Construction). (Election Year - 2023-24)\
-  [202407091243048426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091243048426.pdf)
-
-- Regarding the transfer of Mr. Vasant Baburao Galphade, Regional Water Conservation Officer, Soil and Water Conservation Department, Chhatrapati Sambhajinagar.\
-  [202407091232558426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407091232558426.pdf)
+## Funds
+- Minor Irrigation Scheme in the year 2024-25 under Tribal Component Program Pendhari, Murbad, Dist. Disbursement of funds for purchase of land and other works of the project Thane Account Head 4702 7721\
+  [202407161729262626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161729262626.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
