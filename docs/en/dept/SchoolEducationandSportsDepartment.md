@@ -18,5 +18,14 @@
 - To publish the list of Group-B Officers due for transfer and the list of vacant posts, in Maharashtra Education Service (Administration Branch)/(Education Empowerment Branch) and in General State Service (Administration Branch).\
   [202407161156126721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161156126721.pdf)
 
+- Maharashtra Education Service Group-A (Education Empowerment Branch) Cadre of Principal Post Dt. 01.01.2023 dt. Regarding the publication of provisional seniority on 31.12.2023 i.e. on 01.01.2024.\
+  [202407181209593921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181209593921.pdf)
+
+- Maharashtra Education Service Group-A (Education Empowerment Branch) Senior Lecturer Post Dt. 01.01.2023 dt. Regarding the publication of provisional seniority on 31.12.2023 i.e. on 01.01.2024.\
+  [202407181215559921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181215559921.pdf)
+
+- Maharashtra Education Service Group-B (Education Empowerment Branch) Cadre post of Senior Lecturer Dt. 01.01.2023 dt. Regarding the publication of provisional seniority on 31.12.2023 i.e. on 01.01.2024.\
+  [202407181216247121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181216247121.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

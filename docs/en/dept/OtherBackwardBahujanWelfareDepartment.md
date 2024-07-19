@@ -13,5 +13,12 @@
 - Administrative approval has been given under Vasantrao Naik Tanda Vasti Improvement Scheme. Regarding change in work in Sambhajinagar district.\
   [202407161454160834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161454160834.pdf)
 
+- Regarding giving administrative approval to Mahatma Jyotiba Phule Research and Training Institute (Mahajyoti) for construction of 12 storey building in Nagpur.....\
+  [202407181504519234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181504519234.pdf)
+
+## Personnel
+- Regarding increase in subsidy to the beneficiaries of Kanyadan scheme under financial assistance for newly married couple belonging to Vijabhaj, Imav and Bimapra categories who get married by participating in mass marriage ceremony.\
+  [202407181706187934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181706187934.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

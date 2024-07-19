@@ -11,6 +11,9 @@
 - regarding  revised guidelines about quality control and quality assurance of Project works under water resources department\
   [202407161716349927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161716349927.pdf)
 
+- Comprehensive guidelines for routine maintenance and repair works of irrigation projects\
+  [202407181600570627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181600570627.pdf)
+
 ## Personnel
 - Accord Administrative approval to additional  water reservation for pen nagar parishad  tal pen dist raigad from ambeghar mi scheme tal pen dist raigad\
   [202407161231217027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161231217027.pdf)

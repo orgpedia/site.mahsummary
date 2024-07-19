@@ -3,6 +3,13 @@
 **Date Range**: 15 July 2024 - 20 July 2024
 
 
+## Funds
+- Regarding disbursement of first installment of funds to Scheduled Tribes under Agricultural Mechanization Sub Mission in the year 2024-25.\
+  [202407181241147001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181241147001.pdf)
+
+- Commissioner (Animal Husbandry) Maharashtra State At. Bilakhed,  Tal.Chalisgaon, Dist. Jalgaon  9.81 out of the land held by regarding extradition to land revenue department\
+  [202407181639238301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181639238301.pdf)
+
 ## Miscellaneous
 - Under Pradhan Mantri Crop Insurance Yojana, farmers have been allowed to fill online insurance application in Kharif season 2024. Regarding extension upto 31.07.2024.\
   [202407151838370601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151838370601.pdf)

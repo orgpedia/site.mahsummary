@@ -88,5 +88,9 @@
 - Regarding final approval of new colleges for academic year 2024-25.\
   [202407151123356108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151123356108.pdf)
 
+## Personnel
+- Regarding creation of supernumerary posts for employees appointed from Scheduled Tribe category, but unable to produce Scheduled Caste Validity Certificate. (Rashtrasant Tukdoji Maharaj Nagpur University)\
+  [202407181223439808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181223439808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,57 +1,27 @@
 # Public Health Department
 
-**Date Range**: 08 July 2024 - 13 July 2024
+**Date Range**: 15 July 2024 - 20 July 2024
 
+
+## Funds
+- 60 of Central share from Tribal Sub-Yojana for the year 2024-25 under Centrally Sponsored National Rural Health Mission under the head of account 2210F738 Rs.4007.00 lakhs and 40 of the States share regarding disbursement of grant amounting to Rs.2671.33 lakhs under account head 2210E455 totaling Rs.6678.33 lakhs.\
+  [202407181514304717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181514304717.pdf)
+
+- Regarding giving administrative approval to the budget and plan for the construction of the main building of the 50-bed sub-district hospital Murbad, District Thane\
+  [202407161522231817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161522231817.pdf)
+
+- Regarding disbursement of Rs.4864.03 lakh from the budget provision of the year 2024-25 as state share as 40 from the account head 22105246 in the form of Kind Grant under the Centrally sponsored National Health Mission for the year 2024-25.\
+  [202407111447121617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111447121617.pdf)
 
 ## Miscellaneous
-- Regarding upgradation of 30-bed capacity rural hospital to 100-bed Sub-district hospital. at. Ghoti, Tal. Igatpuri Dist. Nashik\
-  [202407081305463317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305463317.pdf)
+- Regarding giving administrative approval to the budget and plans for the construction of Officers/Staff Residence at Rural Hospital, Loni, Tal. Rahata, Dist. Ahmednagar.\
+  [202407181702005817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181702005817.pdf)
 
-- Regarding approval of upgradation of Rural Hospital, Sangola Tal Sangola Dist Solapur as a special matter...from 30 bedded to 50 bedded Upazila Hospital\
-  [202407081322463017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081322463017.pdf)
+- Regarding the formation of a committee to reduce infant mortality and maternal mortality in the state.\
+  [202407111447070017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111447070017.pdf)
 
-- Regarding upgradation of 30-bed rural hospital to 50-bed sub-district hospital at. Bhusawal Dist. Jalgaon.\
-  [202407081305319517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305319517.pdf)
-
-- Regarding upgradation of primary health center to 30 bedded rural hospital at. Raipur Tal. Dist.  Buldhana\
-  [202407081305521417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305521417.pdf)
-
-- Regarding upgradation of 30-bed capacity rural hospital to 100-bed sub-district hospital at. Dindori, Dist. Nashik\
-  [202407081305581417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305581417.pdf)
-
-- Regarding upgradation of 30-bed capacity rural hospital to 50-bed sub-district hospital at. Harsul, Tal. Trimbakeshwar Dist. Nashik\
-  [202407081306033017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081306033017.pdf)
-
-- Regarding upgradation of 30 bedded rural hospital at Akkalkuwa, Dist-Nandurbar to 50 bedded Sub district Hospital.\
-  [202407021556415317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556415317.pdf)
-
-- Regarding approval of new Primary Health Center at Mauje Tilwani,  Tal-Kopargaon Dist-Ahmednagar.\
-  [202407081305195017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305195017.pdf)
-
-- Regarding approving the upgradation of 30-bed Rural Hospital in  Khardi Tal -  Shahapur, Dist. Thane to 50-bed Upazila Hospital as a special matter.\
-  [202407081322552117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081322552117.pdf)
-
-- Regarding approving the upgradation of 100 bedded sub-district hospital to 200 bedded general hospital at Panvel Distt. Raigad..\
-  [202407081323000917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081323000917.pdf)
-
-- Regarding approval of 100 bedded super multispecialty hospital at Mauje Watul, Rajapur, District Ratnagiri.\
-  [202407111214225617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111214225617.pdf)
-
-- Regarding upgradation of Primary Health Center at Hanegaon, Dist.Degalur, Dist.Nanded to 30 bedded rural hospital.\
-  [202407111232049017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111232049017.pdf)
-
-- Regarding the establishment of 2 rural hospitals, 5 primary health centers and 50 sub-centres in Nandurbar district as per the action to be taken  under the Tribal Health Action Plan of the Central Government.\
-  [202407081306093417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081306093417.pdf)
-
-- Regarding disbursing an amount of Rs.8272.30 lakhs for the month of April 2024 to ASHA volunteers and group promoters from the budget provision of the state government for the year 2024-25 under the general plan for the National Rural Health Program under the Centrally Sponsored National Health Mission.\
-  [202407111446454317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111446454317.pdf)
-
-## Personnel
-- Regarding upgradation of primary health center at Khapar, Tal-Akkalkuwa, Dist- Nandurbar to 30 bed capacity rural hospital.\
-  [202407021556277517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407021556277517.pdf)
-
-- Regarding continuation of temporary post of District Health Officer, at Washim under Deputy Director, Health Services, Akola Board, Akola.\
-  [202407081305408417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081305408417.pdf)
+- Regarding giving administrative approval to the budget and plans for the construction of Officers/Staff Residence at Rural Hospital,Rahata, Tal. Rahata, Dist. Ahmednagar.\
+  [202407181702266817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181702266817.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

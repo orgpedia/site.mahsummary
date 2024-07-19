@@ -3,6 +3,10 @@
 **Date Range**: 15 July 2024 - 20 July 2024
 
 
+## Funds
+- Regarding disbursement of funds for works under Mumbai CCTV Phase-II Project.\
+  [202407181558142929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181558142929.pdf)
+
 ## Miscellaneous
 - Regarding appointment of Competent Authority in respect of procurement process to be carried out through prisons in the State.\
   [202407151342433129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151342433129.pdf)
