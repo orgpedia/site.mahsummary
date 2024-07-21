@@ -19,6 +19,9 @@
 - Regarding approval of opening of Personal Ledger Account (PLA) for the Health Unit, Palghar.\
   [202407181259439813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181259439813.pdf)
 
+- Establishment of New Government Medical College and affiliated hospital At  Gokuldas Tejpal Rugnalaya Parisar, Mumbai\
+  [202407181500536013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181500536013.pdf)
+
 ## Personnel
 - Administrative approval for the purchase of machinery and equipment under the state scheme to the Government Medical College and Hospital, Chandrapur.\
   [202407161819370613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161819370613.pdf)

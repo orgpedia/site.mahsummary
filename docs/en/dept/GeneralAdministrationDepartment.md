@@ -14,6 +14,12 @@
 - Regarding the recalculation of the marks obtained in the Assistant Section Officer Post-Entry Training Examination 2023 result.\
   [202407181800379807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181800379807.pdf)
 
+- Calling for applications for Post-Entry Training Examination for Clerks-Typists in Ministry Department-Year 2024.\
+  [202407191512319207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191512319207.pdf)
+
+- To fill up the posts of Chief Administrative Officer and Establishment Officer (Vigilance) in Maharashtra Jeevan  Authority on deputation.\
+  [202407191748079007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191748079007.pdf)
+
 ## Personnel
 - Regarding the filling up of Group-B (Non-Gazetted) and Group-C (Excluding Driver) cadre posts in all government offices under the jurisdiction of the State Government through Maharashtra Public Service Commission.\
   [202407181554469807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181554469807.pdf)

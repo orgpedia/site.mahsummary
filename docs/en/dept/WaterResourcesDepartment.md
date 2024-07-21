@@ -18,5 +18,8 @@
 - Accord Administrative approval to additional  water reservation for pen nagar parishad  tal pen dist raigad from ambeghar mi scheme tal pen dist raigad\
   [202407161231217027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161231217027.pdf)
 
+- Regarding providing detailed posting of candidates from Konkan and Nashik Revenue Department appointed from waiting list for the post of Junior Engineer (Civil) Group-B (Non-Gazetted) recommended by Junior Engineer (Civil) State Level Selection Committee, Pune.\
+  [202407191123309227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191123309227.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

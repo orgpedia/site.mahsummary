@@ -88,9 +88,24 @@
 - Regarding final approval of new colleges for academic year 2024-25.\
   [202407151123356108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151123356108.pdf)
 
+- Regarding non-receipt of tuition fees by educational institutions at the time of admission from eligible students and students belonging to Economically Backward (EBC), Economically Weaker Sections (EWS), Socially and Educationally Backward Class (SEBC) and Other Backward Class (OBC) categories...\
+  [202407191857335408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191857335408.pdf)
+
+- As per the approval given by the All India Technical Education Council, regarding the approval of the Government to start a new college on permanent unaided basis from the academic year 2024-25... Farate Patil Management Institute of Shri.Wagheshwar Village Development Foundation, Shirur, Dist.Pune\
+  [202407191815049408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191815049408.pdf)
+
+- As per the approval of All India Council of Technical Education, New Delhi, in Pune Division under the Directorate of Technical Education, to start new courses from the academic year 2024-25 in the existing unaided institutions of MCA Faculty, to increase the admission capacity...\
+  [202407191815100208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191815100208.pdf)
+
+- Regarding the constitution of a committee to monitor the academic and administrative functioning of private universities.\
+  [202407191158249108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191158249108.pdf)
+
 ## Personnel
 - Regarding creation of supernumerary posts for employees appointed from Scheduled Tribe category, but unable to produce Scheduled Caste Validity Certificate. (Rashtrasant Tukdoji Maharaj Nagpur University)\
   [202407181223439808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181223439808.pdf)
+
+- Regarding approval to lease 515 beds from Ashimara Housing Company for student accommodation at Maharashtra National Law University, Mumbai.\
+  [202407191145113008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191145113008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

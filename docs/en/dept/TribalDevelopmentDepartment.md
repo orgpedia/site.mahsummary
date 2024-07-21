@@ -14,6 +14,12 @@
 - Under Tribal Development Department Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Dhule, under Kisan Vidya Prasarak Sanstha Shirpur, Distt. Mahatma Gandhi Madhyamik Ashram School Rohini, run by Dhule. Shirpur, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School, Dhule.\
   [202407181457356324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181457356324....pdf)
 
+- Additional Commissioner, Tribal Development, Nashik and A. come Vs. Q., Educational Institution under Kalwan, Malegaon, Distt. Subsidized Primary/Secondary Tribal Ashram School Subhashwadi run by Nashik Vdara, Malegaon, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to the Ashram School, Nashik.\
+  [202407191154440924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191154440924.....pdf)
+
+- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and Satpura Sarvodaya Mandal under A.A.V.P., Taloda, Dhadgaon, Distt. Funded Ashram School Jamana run by Nandurbar Institute, T. Akkalkuwa, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School Nandurbar.\
+  [202407191151109824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191151109824..pdf)
+
 ## Personnel
 - Integrated Tribal Development Project, Chintamani Womens Education Society under Dhule, Pimple, Tt. Ammalner, Dist. Jalgaon Managed Subsidized Ashram School, Jogshelu, Tt. Shindkheda, Dist. Dhule shifted the ashram school to Mauje Tamaswadi, Distt. Regarding shifting to Dhule\
   [202407181501324624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181501324624.pdf)

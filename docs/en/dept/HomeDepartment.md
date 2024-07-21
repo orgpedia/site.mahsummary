@@ -17,5 +17,8 @@
 - Financial Year 2024-25 Administrative approval for purchase of  equipments for E-prisons (ICJS) LAN system for State prisons.\
   [202407151436231229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151436231229.pdf)
 
+- REGIONAL TRANSPORT OFFICE, MUMBAI (CENTRAL) TO GIVE ADMINISTRATIVE AND FINANCIAL APPROVAL TO THE ESTIMATE FOR THE CONSTRUCTION OF OFFICE BUILDING AT TADAEV, MUMBAI.\
+  [202407191603538629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191603538629.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

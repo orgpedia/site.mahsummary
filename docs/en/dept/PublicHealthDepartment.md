@@ -13,6 +13,12 @@
 - Regarding disbursement of Rs.4864.03 lakh from the budget provision of the year 2024-25 as state share as 40 from the account head 22105246 in the form of Kind Grant under the Centrally sponsored National Health Mission for the year 2024-25.\
   [202407111447121617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111447121617.pdf)
 
+- 5061.00 lakhs under central share under head 2210G592 and state share under head 2210G609 for Scheduled Caste Category (SCSP) in the financial year 2024-25 for programs under Centrally sponsored National Rural Health Mission. 3374.00 lakhs for disbursement of total funds amounting to Rs.8435.00 lakhs.\
+  [202407181514350417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181514350417.pdf)
+
+- Regarding disbursement of Grants to NGOs on rehabilitation basis during the financial year 2024-2025 for leprosy prevention.\
+  [202407191037500517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191037500517.pdf)
+
 ## Miscellaneous
 - Regarding giving administrative approval to the budget and plans for the construction of Officers/Staff Residence at Rural Hospital, Loni, Tal. Rahata, Dist. Ahmednagar.\
   [202407181702005817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181702005817.pdf)

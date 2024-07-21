@@ -14,5 +14,9 @@
 - Maharashtra State Cashew Board - Regarding appointment of Independent Directors...\
   [202407181300259902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181300259902.pdf)
 
+## Personnel
+- Appointment of member by nomination to Maharashtra State Agricultural Marketing Board.\
+  [202407191220178402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191220178402.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

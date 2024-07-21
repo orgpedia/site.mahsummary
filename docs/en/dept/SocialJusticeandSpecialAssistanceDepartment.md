@@ -25,6 +25,10 @@
 - Regarding sanction of increased financial assistance under the scheme Financial Assistance to Scheduled Caste Cooperative Societies. Anand Backward Class Industrial Producers Co-operative Society Marya., Ganori, Phulumbri Distt. Aurangabad.\
   [202407161844473922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161844473922...pdf)
 
+## Miscellaneous
+- Regarding the charge of the posts of Managing Director and Registrar, Annabhau Sathe Research and Training Institute (RTI).\
+  [202407191832251322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191832251322.pdf)
+
 ## Personnel
 - Parmarth Seva Samiti, Paral, Mumbai regarding allotment of flats under Mumbai City Development Scheme\
   [202407161623410922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161623410922.pdf)

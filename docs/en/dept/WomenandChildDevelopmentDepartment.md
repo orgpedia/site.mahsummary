@@ -7,6 +7,9 @@
 - Regarding formation of committee for implementation of Early Childhood Care and Education (ECCE) policy for Anganwadis under Integrated Child Development Services Scheme.\
   [202407161145095730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161145095730.pdf)
 
+- Regarding the formation of various committees for effective implementation of the scheme Mukhyamantri Majhi Ladki Bahin\
+  [202407191257027430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191257027430.pdf)
+
 ## Personnel
 - Regarding the formation of various committees for the effective implementation of the scheme Mukhyamantri Mazi Ladki Bahin.\
   [202407151851361230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151851361230.pdf)
