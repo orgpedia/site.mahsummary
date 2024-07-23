@@ -1,31 +1,15 @@
 # School Education and Sports Department
 
-**Date Range**: 15 July 2024 - 20 July 2024
+**Date Range**: 22 July 2024 - 27 July 2024
 
 
 ## Funds
-- Regarding implementation of Mahavachan Utsav-2024 in all medium and all management schools of the state in the year 2024-25.\
-  [202407161203099421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161203099421.pdf)
+- Regarding disbursement of funds for the celebration of National Sports Day in each district of Maharashtra State.\
+  [202407221326179021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221326179021...pdf)
 
 ## Miscellaneous
-- Regarding upgradation of Army Primary school, Pulgav, Vardha on self-financed basis.\
-  [202407161241562421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161241562421.pdf)
-
-- Regarding determining the responsibility of the offices under the Department of School Education and Sports and setting up a Coordination Committee to implement the Memorandum of Understanding with the Edogawa India Cultural Center and Tokyo Marathi Mandal.\
-  [202407161207032721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161207032721.pdf)
-
-## Personnel
-- To publish the list of Group-B Officers due for transfer and the list of vacant posts, in Maharashtra Education Service (Administration Branch)/(Education Empowerment Branch) and in General State Service (Administration Branch).\
-  [202407161156126721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161156126721.pdf)
-
-- Maharashtra Education Service Group-A (Education Empowerment Branch) Cadre of Principal Post Dt. 01.01.2023 dt. Regarding the publication of provisional seniority on 31.12.2023 i.e. on 01.01.2024.\
-  [202407181209593921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181209593921.pdf)
-
-- Maharashtra Education Service Group-A (Education Empowerment Branch) Senior Lecturer Post Dt. 01.01.2023 dt. Regarding the publication of provisional seniority on 31.12.2023 i.e. on 01.01.2024.\
-  [202407181215559921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181215559921.pdf)
-
-- Maharashtra Education Service Group-B (Education Empowerment Branch) Cadre post of Senior Lecturer Dt. 01.01.2023 dt. Regarding the publication of provisional seniority on 31.12.2023 i.e. on 01.01.2024.\
-  [202407181216247121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181216247121.pdf)
+- Reorganization of the State Level Action Group constituted under the Chairmanship of Honble Minister (School Education) to deliberate on the measures to be taken in line with the supply of skilled manpower to the European countries as per their demand.\
+  [202407221605280421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221605280421.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
