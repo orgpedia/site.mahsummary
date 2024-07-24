@@ -11,5 +11,18 @@
 - Regarding posting of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP-8) for independent charge of the post of Block Development Officer, Group-A- Shri. Shubham Jadhav, Probationary Block Development Officer\
   [202407221649407620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221649407620.pdf)
 
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Pune district.\
+  [202407221649543820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221649543820.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Amravati district.\
+  [202407221510039420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221510039420.pdf)
+
+## Personnel
+- Regarding giving administrative approval to advertisement media plan for publicity of Rural Development Department Schemes.\
+  [202407221849413120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221849413120.pdf)
+
+- Maharashtra Development Service, Group-A, Block Development Officer- Posting order.\
+  [202407231111121920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231111121920.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

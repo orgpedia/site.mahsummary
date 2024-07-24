@@ -7,6 +7,9 @@
 - To release grant for the scheme of  Implementation of E Governance Project under the TSP in financial year 2024-25. (CRC 2251 0848)\
   [202407221118147224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118147224.pdf)
 
+- To release grant for the scheme of  Maintenance-Repairs of Office Buildings under the TSP in financial year 2024-25. (CRC 2059 4567)\
+  [202407221118317724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118317724.pdf)
+
 ## Miscellaneous
 - Under Tribal Development Department Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Taloda under Shri Sainath Education Institution, Pratappur, Tt. Taloda, Dist. Nandurbar Vdara Subsidized Ashram School Jambhipani, Tt. Akkalkuwa, Dist. Regarding sanctioning Nandurbar Ashram School to start classes from Class 8th to Class 10th from the academic year 2024-25.\
   [202407221554377624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221554377624.pdf)

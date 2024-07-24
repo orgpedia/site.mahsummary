@@ -1,24 +1,36 @@
 # Home Department
 
-**Date Range**: 15 July 2024 - 20 July 2024
+**Date Range**: 22 July 2024 - 27 July 2024
 
 
 ## Funds
-- Regarding disbursement of funds for works under Mumbai CCTV Phase-II Project.\
-  [202407181558142929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181558142929.pdf)
+- MSRTC Regarding giving administrative and financial approval to the budget for the reconstruction of bus stand and depot at Malegaon in Nashik Division of the Republic of the Corporation...\
+  [202407231609511729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231609511729.pdf)
 
-## Miscellaneous
-- Regarding appointment of Competent Authority in respect of procurement process to be carried out through prisons in the State.\
-  [202407151342433129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151342433129.pdf)
+- Regarding procurement of Mobile Forensic Vehicles in the State of Maharashtra for implementation of Bharatiy nagarik Suraksha Sanhita-2023.\
+  [202407231140278529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231140278529.pdf)
 
-- Motor Accident Claims Tribunal, Mehkar, District Buldhana Regarding Opening of Private Account (P.L.A.).\
-  [202407151557051229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151557051229.pdf)
+- Regarding giving administrative and financial approval to the budget for the reconstruction of Amravati Central Bus Stand in MSRTC Amravati Division...\
+  [202407231600320429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231600320429.pdf)
 
-- Financial Year 2024-25 Administrative approval for purchase of  equipments for E-prisons (ICJS) LAN system for State prisons.\
-  [202407151436231229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407151436231229.pdf)
+- MSRTC  Regarding giving administrative and financial approval to the cost estimate for the reconstruction of Shirur Tajband Bus Stand in MSRTC  Latur division of the Corporation...\
+  [202407231606199629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231606199629.pdf)
 
-- REGIONAL TRANSPORT OFFICE, MUMBAI (CENTRAL) TO GIVE ADMINISTRATIVE AND FINANCIAL APPROVAL TO THE ESTIMATE FOR THE CONSTRUCTION OF OFFICE BUILDING AT TADAEV, MUMBAI.\
-  [202407191603538629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191603538629.pdf)
+- Regarding giving independent powers of investigation and control to the office of Additional Director General of Police, Financial Offenses Branch, State of Maharashtra, Mumbai...\
+  [202407231525571129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231525571129.pdf)
+
+## Personnel
+- Regarding transfer/posting of S.P.S. officers.\
+  [202407231332251129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231332251129.pdf)
+
+- Regarding transfer/posting of I.P.S. officer.\
+  [202407231919133629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231919133629.pdf)
+
+- Regarding transfer of request of Deputy Regional Transport Officer...\
+  [202407231507190329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231507190329.pdf)
+
+- Regarding transfer/posting of I.P.S. officer.\
+  [202407231924595929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231924595929.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

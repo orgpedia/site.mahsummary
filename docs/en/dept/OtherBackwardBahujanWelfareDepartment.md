@@ -10,6 +10,9 @@
 - Regarding changing the implementation mechanism of works given administrative approval for the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
   [202407221749228234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221749228234.pdf)
 
+- Regarding making funds available for administratively sanctioned works in the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202407231608011534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231608011534.pdf)
+
 ## Miscellaneous
 - Under the Yashwantrao Chavan Mukt Vasahat Yojana, Gram Panchayat Gorgaon B., T. Regarding providing ex post approval and funds for construction of 1 colony for 20 beneficiaries at Chopda, District Jalgaon.\
   [202407221753213934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221753213934.pdf)
