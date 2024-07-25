@@ -85,5 +85,9 @@
 - Regarding the approval to conduct the course under the initiative Learn and Earn jointly run by Maharashtra State Board of Technical Education, Mumbai and Me.Majestic Solutions India Pvt. Ltd. Pune.\
   [202407231549364908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231549364908.pdf)
 
+## Personnel
+- Termination of Government Services - Shri. Mohammad Mudassir Ahmed Mohammad Yousuf, Lecturer in Civil Engineering, Government polytechnic, Nanded.\
+  [202407241440562008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241440562008.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

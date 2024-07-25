@@ -17,5 +17,14 @@
 - Provisional seniority list dated 01/01/2024 of Deputy Engineer (Electrical), Graduate in Public Works Department.\
   [202407231145394918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231145394918.pdf)
 
+- Transfers / Posting of Officers in Executive Engineer (Civil) Cadre.\
+  [202407241540400618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241540400618.pdf)
+
+- Promotion order of Shri. Yadav, Junior Engineer (Diploma Holder) on the post of Sub Divisional Officer (Civil), Public Works Department\
+  [202407241149337318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241149337318.pdf)
+
+- Promotion order of Shri. Survanshi, Junior Engineer (Diploma Holder) on the post of Sub Divisional Officer (Civil), Public Works Department\
+  [202407241155096618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241155096618.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

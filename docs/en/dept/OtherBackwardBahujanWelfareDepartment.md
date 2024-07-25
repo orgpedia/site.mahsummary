@@ -13,6 +13,9 @@
 - Regarding making funds available for administratively sanctioned works in the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
   [202407231608011534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231608011534.pdf)
 
+- Regarding providing post-action approval and funds to the proposal of 1546 individual Gharkul beneficiaries in Ch. Sambhajinagar district under Yashwantrao Chavan Mukta Colony Yojana.\
+  [202407241633266634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241633266634...pdf)
+
 ## Miscellaneous
 - Under the Yashwantrao Chavan Mukt Vasahat Yojana, Gram Panchayat Gorgaon B., T. Regarding providing ex post approval and funds for construction of 1 colony for 20 beneficiaries at Chopda, District Jalgaon.\
   [202407221753213934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221753213934.pdf)

@@ -17,6 +17,12 @@
 - Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Amravati district.\
   [202407221510039420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221510039420.pdf)
 
+- Combined state level final seniority list of District Technical Service, Class-3 (Electrical  Mechanical) Cadre Junior Engineers dated 01.01.2023 and 01.01.2024 in Zilla Parishad.\
+  [202407241659402020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241659402020.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Nanded district.\
+  [202407231700389120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231700389120.pdf)
+
 ## Personnel
 - Regarding giving administrative approval to advertisement media plan for publicity of Rural Development Department Schemes.\
   [202407221849413120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221849413120.pdf)

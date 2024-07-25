@@ -29,9 +29,21 @@
 - Regarding relocation of Veterinary Hospital Category 2 in Mahabaleshwar Taluka, District Satara...1. Veterinary Hospital Category 2 Metgutad  2. Veterinary Hospital Category- 2 Manghar\
   [202407231615137101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231615137101.pdf)
 
+- Project Officer, Integrated Tribal Project, Pen, Distt. Raigad for office Pen Distt. Commissioner (Animal Husbandry) at Raigad regarding transfer of 20.00 Guntas of land to the Revenue Department out of the land belonging to the State of Maharashtra.\
+  [202407241324241401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241324241401.pdf)
+
+- Taluka Fruit Plantation Wakdi, District Gadchiroli  From 18/4/2022 to 24/9/2022 Pending payment of Rs.93,477/- under account head 2401 1722 (21) Regarding obtaining approvals under the heading Materials and Supplies.\
+  [202407241257369901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241257369901.pdf)
+
 ## Personnel
 - Regarding posting on promotion to the post of Joint Commissioner of Fisheries (Inland)(Technical)\
   [202407231529377701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231529377701.pdf)
+
+- Regarding giving administrative approval to implement the 100 per cent Centrally sponsored Scheme of Agriculture Enumeration in the State in the year 2024-25.\
+  [202407241749581501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241749581501.pdf)
+
+- Regarding publication of provisional seniority list dated 1/1/2004 of Maharashtra Agricultural Service, Group-A Cadre...\
+  [202407241513575201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241513575201.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

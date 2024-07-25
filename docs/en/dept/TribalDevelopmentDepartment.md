@@ -20,5 +20,17 @@
 - Additional Commissioner, Tribal Development, Thane under Tribal Development Department and A. come Vs. Q., Ghodegaon, T. Ambegaon, Dist. Tribal Education Institute under Pune, Junnar (Chawand), Tel. Junnar, Distt. Subsidized Ashram School Junnar (Chawand) run by the organization Pune, St. Junnar, Distt. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School, Pune.\
   [202407221841297824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221841297824.pdf)
 
+- Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Nashik, under Tribal Education Dissemination Society Ghoti Bu. h Igatpuri, Dist. Subsidized Primary and Secondary Ashram School Dahalewadi run by Nashik. Trimbakeshwar, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Nashik Ashram School from the academic year 2024-25.\
+  [202407241741452624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241741452624.pdf)
+
+- Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Kalwan, Distt. Snehbandhan Tribal Education Institute under Nashik, Pratapgad, Tel. Surgana, Dist. Funded Ashram School Mankhed run by the organization Nashik, Tt. Surgana, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Ashram School, Nashik from the academic year 2024-25.\
+  [202407241741246524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241741246524.pdf)
+
+- Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Kalwan, Dist. Shri Shanaishwar Charitable Society Nandgaon under Nashik, Distt. Funded Ashram School Nayadongari, run by the organization Nashik. Nandgaon, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Ashram School, Nashik from the academic year 2024-25.\
+  [202407241747496524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241747496524.pdf)
+
+- Additional Commissioner under Tribal Development Department, Tribal Development, Nagpur and A.A.V.P., Aheri Smt. Pushpa Priyadevi Education Board, Tt. Aheri, Dist. Gadchiroli Vdara run Smt. Pushpa Priyadevi Aided Ashram School Kishtapur, Tt. Aheri, Dist. Regarding giving approval to Ashram School Gadchiroli to start classes from class 8th to 10th from the academic year 2024-25.\
+  [202407241451186624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241451186624.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

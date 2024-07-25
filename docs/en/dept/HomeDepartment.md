@@ -19,6 +19,13 @@
 - Regarding giving independent powers of investigation and control to the office of Additional Director General of Police, Financial Offenses Branch, State of Maharashtra, Mumbai...\
   [202407231525571129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231525571129.pdf)
 
+## Miscellaneous
+- Maharashtra Auto-Rickshaw and Metered Taxi Driver Welfare Board.\
+  [202407241507129729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241507129729.pdf)
+
+- Maharashtra Auto-Rickshaw and Metered Taxi Drivers Welfare Board Rules of Procedure/Working.\
+  [202407241511240129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241511240129.pdf)
+
 ## Personnel
 - Regarding transfer/posting of S.P.S. officers.\
   [202407231332251129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231332251129.pdf)
