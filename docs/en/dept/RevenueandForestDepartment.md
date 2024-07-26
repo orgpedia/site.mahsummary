@@ -32,6 +32,18 @@
 - Regarding commencement of  new additional Tehsil office at Angar in  Mohol taluka of Solapur District\
   [202407241550023019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241550023019.pdf)
 
+- Establishment of LAND ACQUISITION, REHABILITAION  RESETTLEMENT  AUTHORITY at AMRAVATI  NASHIK\
+  [202407251059116319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251059116319.pdf)
+
+- Mr. Sangeetha Rao S. Patil, Retd., Justice, Bombay High Court regarding the continuation of appointment to the post of President, Ga-Hane Settlement Authority, Sardar Sarovar Project, Nandurbar.\
+  [202407251545446019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251545446019.pdf)
+
+- Dated 01/01/2019, 01/01/2020, 01/01/2021, 01/01/2022 and 01/01/2023 of Assistant Forest Conservator Group-A (Junior Grade) Cadre Regarding final seniority list.\
+  [202407251518345919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251518345919.pdf)
+
+- Establishment of  state REHABILITAION  RESETTLEMENT  REVIEW  MONITORING  UNIT\
+  [202407251103326219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251103326219.pdf)
+
 ## Personnel
 - Regarding regularization of ad-hoc promotions in the cadre of Naib Tehsildar in Nashik Division (Electoral Year 2022-23).\
   [202407241636276719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241636276719.pdf)
@@ -47,6 +59,9 @@
 
 - Regarding allotment and posting of Revenue Division to Probationary Naib Tehsildar (Group-B Gazetted) trained under Combined Probationary Training Program-7 (CPTP-7).....\
   [202407241715036819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241715036819.pdf)
+
+- Regarding the constitution of a study group to study and recommend to the Government from the point of view of making the notified services more easily available to the public under the Maharashtra Public Service Rights Act, 2015.\
+  [202407251445002319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251445002319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

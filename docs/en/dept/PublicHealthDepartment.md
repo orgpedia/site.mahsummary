@@ -20,5 +20,21 @@
 - Pachod, Dist. Ch. Regarding upgradation of 30-bed rural hospital at Sambhajinagar to 50-bed up-district hospital.\
   [202407111215197617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111215197617.pdf)
 
+- Regarding the probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
+  [202407251051236217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251051236217.pdf)
+
+- Regarding provision of notional skilled and notional unskilled contract manpower to newly established and upgraded health institutions.\
+  [202407111215142117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111215142117.pdf)
+
+## Personnel
+- Provisional Seniority List dated 01.01.2024 for the post of Pediatrician in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
+  [202407251145547617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251145547617.pdf)
+
+- Provisional Seniority List dated 01.01.2024 for the post of Psychiatric Physician in Specialist Cadre in Maharashtra Medical and Health Service, Group-A\
+  [202407251145496117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251145496117.pdf)
+
+- Provisional Seniority List dated 01.01.2024 for the post of Orthopeadic Surgeon  in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
+  [202407251146006217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251146006217.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

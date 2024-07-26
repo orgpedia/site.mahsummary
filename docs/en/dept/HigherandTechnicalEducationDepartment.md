@@ -85,6 +85,18 @@
 - Regarding the approval to conduct the course under the initiative Learn and Earn jointly run by Maharashtra State Board of Technical Education, Mumbai and Me.Majestic Solutions India Pvt. Ltd. Pune.\
   [202407231549364908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231549364908.pdf)
 
+- As per the approval of All India Council of Technical Education, New Delhi, regarding the approval of the Government to start a new course from the academic year 2024-25 in the existing unaided institution of Faculty of Hotel Management and Catering Technology, Pune Division under Directorate of Technical Education...\
+  [202407251609042508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251609042508.pdf)
+
+- Regarding the approval of the Government to start the new Post Graduate Degree course from the academic year 2023-24 to the existing unaided institution as per the approval of Pharmacy Council of India, New Delhi.\
+  [202407251613334108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251613334108.pdf)
+
+- Regarding the approval of the Government to start the new Post Graduate Degree course from the academic year 2023-24 to the existing unaided institution as per the approval of Pharmacy Council of India, New Delhi.\
+  [202407251611356008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251611356008.pdf)
+
+- As per the approval of the Pharmacy Council of India, New Delhi, regarding increasing the admission capacity of the post graduate course in the existing unaided institution from the academic year 2023-24.\
+  [202407251608411908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251608411908.pdf)
+
 ## Personnel
 - Termination of Government Services - Shri. Mohammad Mudassir Ahmed Mohammad Yousuf, Lecturer in Civil Engineering, Government polytechnic, Nanded.\
   [202407241440562008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241440562008.pdf)

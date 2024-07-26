@@ -35,6 +35,9 @@
 - Taluka Fruit Plantation Wakdi, District Gadchiroli  From 18/4/2022 to 24/9/2022 Pending payment of Rs.93,477/- under account head 2401 1722 (21) Regarding obtaining approvals under the heading Materials and Supplies.\
   [202407241257369901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241257369901.pdf)
 
+- Administrative Sanction to Implement Centrally Sponsored NLM-National Livestock Mission Scheme from the year 2021-22.\
+  [202407251709386401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251709386401.pdf)
+
 ## Personnel
 - Regarding posting on promotion to the post of Joint Commissioner of Fisheries (Inland)(Technical)\
   [202407231529377701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231529377701.pdf)

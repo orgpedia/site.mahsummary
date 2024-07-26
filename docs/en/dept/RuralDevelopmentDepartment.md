@@ -23,6 +23,9 @@
 - Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Nanded district.\
   [202407231700389120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231700389120.pdf)
 
+- District Rural Development System- Administration (Central share 60 and State share 40) regarding converting this scheme into State scheme and implementing it as 100 State scheme...\
+  [202407251659356120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251659356120.pdf)
+
 ## Personnel
 - Regarding giving administrative approval to advertisement media plan for publicity of Rural Development Department Schemes.\
   [202407221849413120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221849413120.pdf)

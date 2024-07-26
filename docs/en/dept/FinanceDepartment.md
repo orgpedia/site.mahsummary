@@ -7,5 +7,9 @@
 - Renewal of Medical Reimbursement of Group Insurance Scheme for State Working/ Retired Employees and All India Services Officers.\
   [202407231041119605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231041119605.pdf)
 
+## Personnel
+- Maharashtra Appropriation Act,2024 Fund Distribution\
+  [202407251105446605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251105446605.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

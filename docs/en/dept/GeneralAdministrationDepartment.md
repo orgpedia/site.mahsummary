@@ -17,6 +17,12 @@
 - Repatriation from Deputation- Shri. P. J. Thakur, Deputy Secretary\
   [202407231637558707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231637558707.pdf)
 
+- Delegation of financial power to administrative department in part- 2 of Financial Power Rules book 1978 in respect of election related expenditure regarding.. Incorporation of new Financial Powers\
+  [202407251456141907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251456141907.pdf)
+
+- Regarding the appointment of Honble Minister of Maharashtra State as District Guardian Minister.\
+  [202407251108364307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251108364307.pdf)
+
 ## Personnel
 - Year wise final seniority list of Higher Grade Stenographer cadre in mantralaya department for the period from 01.01.2018 to 01.01.2023.\
   [202407221757061107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221757061107.pdf)

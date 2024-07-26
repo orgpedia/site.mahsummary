@@ -26,5 +26,8 @@
 - Promotion order of Shri. Survanshi, Junior Engineer (Diploma Holder) on the post of Sub Divisional Officer (Civil), Public Works Department\
   [202407241155096618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241155096618.pdf)
 
+- Final seniority list dated 01.01.2022, 01.01.2023 and 01.01.2024 of Assistant Engineer (Civil) Category-1 in Public Works Department.\
+  [202407251308057118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251308057118.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
