@@ -23,5 +23,9 @@
 - Regarding purchase and construction of fire fighting vehicle under Maharashtra Fire Safety Mission implemented in Municipal Corporation / Municipalities.\
   [202407241651330225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241651330225.pdf)
 
+## Personnel
+- Amnesty scheme for the lands under Section 20 of ULCR act exempted for industrial purpose in the region of maharashtra industrial development corporation.\
+  [202407261547105925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261547105925.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,6 +13,9 @@
 - Regarding disbursement of general category funds for implementation of Parangparagat Krushi Vikas Yojana  (PKVY) under Rashtriya Krushi Vikas Yojana  (RKVY) in the year 2024-25.\
   [202407231828282201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231828282201.pdf)
 
+- Administrative approval for the implementation of the scheme of planting fruit trees and vegetables in the backyards of tribal families in the tribal districts of the state in the year 2024-25.\
+  [202407261110372201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261110372201.pdf)
+
 ## Miscellaneous
 - Regarding contracting as per Government of Indias guidelines while rearing poultry on contract basis.\
   [202407221701599401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221701599401.pdf)

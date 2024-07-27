@@ -14,5 +14,8 @@
 - Regarding filling up the posts of Matoshree Old Age Home through external system.\
   [202407251304011422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251304011422...pdf)
 
+- Regarding approving the formation of administrative department purchase committee and technical committee for implementing the state level scheme From Manhole to Machinehole for the Welfare of Manual Scavengers.\
+  [202407261106573322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261106573322.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

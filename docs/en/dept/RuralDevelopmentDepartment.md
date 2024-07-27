@@ -7,6 +7,12 @@
 - Regarding disbursement of funds for Tribal Component Program (TSP) under Maharashtra State Rural Livelihood Mission (MSRLM) for the year 2024-25.\
   [202407221753038720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221753038720.pdf)
 
+- Regarding the Administrative Approval and Distribution of funds for the construction of a Cultural Hall in the Memory of Punyashlok Ahilya Devi Holkar.(Year 2024-25) (Chandrapur and Kolhapur)\
+  [202407261243015520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261243015520.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2024-25.\
+  [202407261105556420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261105556420.pdf)
+
 ## Miscellaneous
 - Regarding posting of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP-8) for independent charge of the post of Block Development Officer, Group-A- Shri. Shubham Jadhav, Probationary Block Development Officer\
   [202407221649407620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221649407620.pdf)
@@ -25,6 +31,12 @@
 
 - District Rural Development System- Administration (Central share 60 and State share 40) regarding converting this scheme into State scheme and implementing it as 100 State scheme...\
   [202407251659356120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251659356120.pdf)
+
+- Regarding the appointment of Single Nodal Agency and Nodal Officer for the  State Disha Committee.\
+  [202407261243160620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261243160620.pdf)
+
+- Regarding the formation of a committee to recommend the construction of a War Memorial of Chhatrapati Shivaji Maharaj at Mauje Umbarkhind (Vijaybhumi), Tal.Khalapur, Dist. Raigad\
+  [202407261138240820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261138240820.pdf)
 
 ## Personnel
 - Regarding giving administrative approval to advertisement media plan for publicity of Rural Development Department Schemes.\

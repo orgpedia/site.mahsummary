@@ -97,6 +97,12 @@
 - As per the approval of the Pharmacy Council of India, New Delhi, regarding increasing the admission capacity of the post graduate course in the existing unaided institution from the academic year 2023-24.\
   [202407251608411908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251608411908.pdf)
 
+- Regarding the appointment of Nodal Technical Organization to assist the Directorate of RUSA in connection with the technical supervision and coordination of work in projects sanctioned under the PM-USHA scheme.\
+  [202407261450247008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261450247008.pdf)
+
+- As per the approval of the Council of Architecture, New Delhi, regarding the approval of the Government to start a new Masters degree course in the existing Institute of Architecture from the academic year 2024-25...\
+  [202407261759511008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261759511008.pdf)
+
 ## Personnel
 - Termination of Government Services - Shri. Mohammad Mudassir Ahmed Mohammad Yousuf, Lecturer in Civil Engineering, Government polytechnic, Nanded.\
   [202407241440562008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241440562008.pdf)

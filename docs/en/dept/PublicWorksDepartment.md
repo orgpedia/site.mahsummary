@@ -3,6 +3,10 @@
 **Date Range**: 22 July 2024 - 27 July 2024
 
 
+## Funds
+- Approval to revised project cost of Swatantryveer Savarkar Sea Link (Versova - Bandra Sea Link),\
+  [202407261055283718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261055283718.pdf)
+
 ## Miscellaneous
 - Upgradation of other district road and village roas to Major District Road in taluka Khed, Ambegaon and Shirur at distrct Pune.\
   [202407231446441218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231446441218.pdf)
@@ -12,6 +16,9 @@
 
 - Upgradation of other district road and village roas to Major District Road in taluka Patan at distrct Satara.\
   [202407231451095418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231451095418.pdf)
+
+- To declare Drawing and Disbursing Officer for the newly created office of Superintending Engineer, Public Works Circle, Sindhudurg under Chief Engineer, Public Works Region,  Konkan.\
+  [202407251628127618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251628127618.pdf)
 
 ## Personnel
 - Provisional seniority list dated 01/01/2024 of Deputy Engineer (Electrical), Graduate in Public Works Department.\

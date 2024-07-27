@@ -26,6 +26,9 @@
 - Regarding provision of notional skilled and notional unskilled contract manpower to newly established and upgraded health institutions.\
   [202407111215142117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111215142117.pdf)
 
+- Regarding  administrative approval  for purchase of Centhaquine Citrate 1.0 mg medicine  for Divisional Referral Services Hospital, Nashik  under Head 2210 K 088, 31- Subsidiary Grants (Non-Salary)  of an amount of Rs.49,25,000/- in the financial year 2024-25\
+  [202407251519272817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251519272817.pdf)
+
 ## Personnel
 - Provisional Seniority List dated 01.01.2024 for the post of Pediatrician in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
   [202407251145547617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251145547617.pdf)

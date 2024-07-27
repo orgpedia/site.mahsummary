@@ -31,6 +31,18 @@
 - Administrative approval- Construction of 3 residential quarters for Civil Judges (J.D.) on the existing (G2) residential building Pragati situated in the premises of the District Court Beed.\
   [202407231622127812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231622127812.pdf)
 
+- Administrative approval- construction of two residential quarters for Civil Judges (J.D) by demolishing the existing residential quarters at Rajapur, District Ratnagiri.\
+  [202407261647415612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261647415612.pdf)
+
+- Administrative approval- Construction of two residences for the Civil Judge (J.D.) at Mhaswad, District Satara.\
+  [202407261643325512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261643325512.pdf)
+
+- Administrative approval- Construction of protective wall around court building at Pachora, District Jalgaon.\
+  [202407261629466712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261629466712.pdf)
+
+- Administrative approval- Construction of two Residential quarters for Civil Judges (J.D.) at Kudal, District Sindhudurg.\
+  [202407261633268112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261633268112.pdf)
+
 ## Miscellaneous
 - Regarding opening of Personal Deposit Account  for -  Civil Judge Senior Division, Kallam District Dharashiv  ( Osmanabad)\
   [202407221737148712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221737148712.pdf)
@@ -49,6 +61,19 @@
 
 - Administrative approval- Construction of two residential quarters for Judicial officers of Family Court at Satara\
   [202407231639564012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231639564012.pdf)
+
+- Administrative approval- Construction of family court building (basement ground  3 floors) (2 court halls) at Satara.\
+  [202407261637542112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261637542112.pdf)
+
+- Administrative approval- Construction of two residential quarters for Civil Judges (J.D) and six residences for judicial staff at Mandangad, District Ratnagiri.\
+  [202407261640309812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261640309812.pdf)
+
+- Administrative approval- Construction of a new residential quarter for the Civil Judge (J.D.) and Judicial Magistrate First Class at Phulumbri, Dist.  Chhatrapati Sambhajinagar.\
+  [202407261626069812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261626069812.pdf)
+
+## Personnel
+- Administrative approval to the Training Policy 2024 for the officers working in the Legislative Branch in Law and Judiciary Department\
+  [202407261446457612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261446457612.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

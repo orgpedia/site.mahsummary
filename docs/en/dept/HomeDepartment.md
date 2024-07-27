@@ -22,6 +22,9 @@
 - Regarding establishment of resettlement center in the state for resettlement of foreign nationals whose visa period has expired, foreign nationals released from prison and foreign nationals who have not returned home due to various reasons.\
   [202407251317139729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251317139729.pdf)
 
+- Regarding approval of the revised recurring and non-recurring expenditure incurred for the Mounted Police Unit at the establishment of the Commissioner of Police, Brihanmumbai.\
+  [202407261614566729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261614566729.pdf)
+
 ## Miscellaneous
 - Maharashtra Auto-Rickshaw and Metered Taxi Driver Welfare Board.\
   [202407241507129729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241507129729.pdf)
@@ -31,6 +34,12 @@
 
 - Regarding declaring Member, Motor Accident Claims Tribunal, Ambad, District Jalna as Head of Office and Drawing and Disbursing Officer.\
   [202407251624070329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251624070329.pdf)
+
+- Final Seniority List as on 01.01.2024 of Personal Assistant/Administrative Officer/Structural  Procedures Officer Cadre.\
+  [202407261610280829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261610280829.pdf)
+
+- Financial Year 2024-25  Administrative Approval for purchase of equipment amounting to Rs.80,30,000/- Under Implementation of E-prisons project aimed at computerization of all prisons in the state (central share 100) scheme\
+  [202407261556295629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261556295629.pdf)
 
 ## Personnel
 - Regarding transfer/posting of S.P.S. officers.\
@@ -53,6 +62,9 @@
 
 - Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
   [202407251251341429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251251341429.pdf)
+
+- Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police, Police Communication and Information Technology.\
+  [202407261211455529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261211455529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,5 +7,9 @@
 - Administrative approval under special repairs to British era Diversion weir near Phaphora village on Bori River  its Flood Channel.\
   [202407231340579227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231340579227.pdf)
 
+## Miscellaneous
+- Joining service of Shri Sanjay Madhukar Belsare, Secretary, Water Resources Department in the cadre of Maharashtra Education Service (Junior) and Assistant Executive Engineer (Civil)\
+  [202407261811445427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261811445427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

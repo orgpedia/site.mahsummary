@@ -10,5 +10,8 @@
 - Regarding publication of the final seniority list of Joint Registrar Co-operative Society Group-A on 1/1/2023\
   [202407251446465602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251446465602.pdf)
 
+- Regarding disbursement of funds for Maharashtra State Cashew Board for the year 2024-25...\
+  [202407261445275402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261445275402.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

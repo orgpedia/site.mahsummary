@@ -23,6 +23,12 @@
 - Regarding the appointment of Honble Minister of Maharashtra State as District Guardian Minister.\
   [202407251108364307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251108364307.pdf)
 
+- Regarding approval of printing of Aapla Mantralaya magazine  published by Directorate General of Information and Public Relations  by private printing press.\
+  [202407261128212407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261128212407.pdf)
+
+- Regarding the use of Sandes Instant messaging App in Governmet work.\
+  [202407261620226807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261620226807.pdf)
+
 ## Personnel
 - Year wise final seniority list of Higher Grade Stenographer cadre in mantralaya department for the period from 01.01.2018 to 01.01.2023.\
   [202407221757061107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221757061107.pdf)

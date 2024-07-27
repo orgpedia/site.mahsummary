@@ -20,5 +20,9 @@
 - Guidelines for implementing garden activities in schools under Pradhan Mantri Poshan Shakti Nirman Yojana.\
   [202407251453404321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251453404321.pdf)
 
+## Personnel
+- Maharashtra Appropriation Act, 2024 Grant release for the year 2024-2025\
+  [202407261632565621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261632565621.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
