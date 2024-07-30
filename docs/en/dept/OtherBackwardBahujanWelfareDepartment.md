@@ -1,24 +1,27 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 22 July 2024 - 27 July 2024
+**Date Range**: 29 July 2024 - 03 August 2024
 
 
 ## Funds
-- Regarding providing post-action approval and funds to the proposal of 259 individual Gharkul beneficiaries in Beed district under Yashwantrao Chavan Mukt Colony Yojana.\
-  [202407221751062234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221751062234.pdf)
-
-- Regarding changing the implementation mechanism of works given administrative approval for the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
-  [202407221749228234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221749228234.pdf)
-
 - Regarding making funds available for administratively sanctioned works in the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
-  [202407231608011534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231608011534.pdf)
+  [202407291530384234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291530384234.pdf)
 
-- Regarding providing post-action approval and funds to the proposal of 1546 individual Gharkul beneficiaries in Ch. Sambhajinagar district under Yashwantrao Chavan Mukta Colony Yojana.\
-  [202407241633266634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241633266634...pdf)
+- Regarding installation of modern Green Writing Board, Mathematical Drawing Equipment Box in Primary, Secondary and Higher Secondary Ashram Schools of Vijabhaj Category run on subsidized basis under Other Backward Bahujan Welfare Department.\
+  [202407291928084234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291928084234.pdf)
 
-## Miscellaneous
-- Under the Yashwantrao Chavan Mukt Vasahat Yojana, Gram Panchayat Gorgaon B., T. Regarding providing ex post approval and funds for construction of 1 colony for 20 beneficiaries at Chopda, District Jalgaon.\
-  [202407221753213934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221753213934.pdf)
+- Regarding giving administrative approval for provision of modern open gymnasium for physical growth of students in private aided 65 higher secondary ashram schools of Vijabhaj category under Other Backward Bahujan Welfare Department.\
+  [202407291924224434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291924224434.pdf)
+
+- Regarding installation of commercial washing machines in primary, secondary and higher secondary ashram schools of Vijabhaj category run on subsidized basis under Other Backward Bahujan Welfare Department.\
+  [202407291921564434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291921564434.pdf)
+
+- Regarding approval of the proposal of the beneficiaries recommended by the District Level Committee, Chandrapur under Punyashlok Ahilya Devi Holkar Gharkool Yojana.\
+  [202407291218254534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291218254534.pdf)
+
+## Personnel
+- Regarding approval of the proposal of the beneficiaries recommended by the District Level Committee, Chhatrapati Sambhajinagar under Punyashlok Ahilya Devi Holkar Gharkool Yojana.\
+  [202407291230354534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291230354534.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

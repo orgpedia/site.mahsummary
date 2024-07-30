@@ -1,43 +1,18 @@
 # Public Health Department
 
-**Date Range**: 22 July 2024 - 27 July 2024
+**Date Range**: 29 July 2024 - 03 August 2024
 
 
 ## Funds
-- Regarding disbursement of an amount of Rs.16544.62 lakhs for the period May, 2024 to June, 2024 to ASHA volunteers and group promoters from the budget provision of the state government for the year 2024-25 under the general plan for the National Rural Health Program under the Centrally Sponsored National Health Mission.\
-  [202407181514409817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181514409817.pdf)
-
-- Approval for  disbursing and spending  of an amount of Rs.1.50 crore For the establishment expenses of Maharashtra Medical goods Procurement  authority under Head 2210 K 014 31-Subsidiary Grants (Non-salary) in  financial year 2024-25 .\
-  [202407231204111817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231204111817.pdf)
-
-- Regarding disbursement of Grants-in-aid to 12 Hospital based NGOs during the financial year 2024-25 for Leprosy Prevention...\
-  [202407241236096717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241236096717.pdf)
+- Regarding giving administrative approval to the budget and plan for hospital building construction at    30 Bed Rural Hospital Boisar,   Dist Palghar.\
+  [202407291310244417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291310244417.pdf)
 
 ## Miscellaneous
-- Regarding the extension of time for the proposal for contract sanitation in Regional Psychiatric Hospitals, Thane, Pune, Ratnagiri and Nagpur in the state.\
-  [202407241037316817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241037316817.pdf)
+- Regarding grant of administrative approval for Modular Surgery House (OT) and Modular Intensive Care Unit (ICU) in Trauma Care Unit under Public Health Department.\
+  [202407081306196717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081306196717.pdf)
 
-- Pachod, Dist. Ch. Regarding upgradation of 30-bed rural hospital at Sambhajinagar to 50-bed up-district hospital.\
-  [202407111215197617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111215197617.pdf)
-
-- Regarding the probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
-  [202407251051236217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251051236217.pdf)
-
-- Regarding provision of notional skilled and notional unskilled contract manpower to newly established and upgraded health institutions.\
-  [202407111215142117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111215142117.pdf)
-
-- Regarding  administrative approval  for purchase of Centhaquine Citrate 1.0 mg medicine  for Divisional Referral Services Hospital, Nashik  under Head 2210 K 088, 31- Subsidiary Grants (Non-Salary)  of an amount of Rs.49,25,000/- in the financial year 2024-25\
-  [202407251519272817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251519272817.pdf)
-
-## Personnel
-- Provisional Seniority List dated 01.01.2024 for the post of Pediatrician in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
-  [202407251145547617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251145547617.pdf)
-
-- Provisional Seniority List dated 01.01.2024 for the post of Psychiatric Physician in Specialist Cadre in Maharashtra Medical and Health Service, Group-A\
-  [202407251145496117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251145496117.pdf)
-
-- Provisional Seniority List dated 01.01.2024 for the post of Orthopeadic Surgeon  in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
-  [202407251146006217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251146006217.pdf)
+- Regarding giving administrative approval to the budget for construction of residence for officers and employees of  Rural Hospital, Khanivade, Vasai Dist. Palghar.\
+  [202407291310184517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291310184517.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

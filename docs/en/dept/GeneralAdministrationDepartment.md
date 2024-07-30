@@ -1,76 +1,30 @@
 # General Administration Department
 
-**Date Range**: 22 July 2024 - 27 July 2024
+**Date Range**: 29 July 2024 - 03 August 2024
 
-
-## Funds
-- Regarding disbursement of grant to Maharashtra Airport Development Company for development of Mihan project.\
-  [202407231624246207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231624246207...pdf)
 
 ## Miscellaneous
-- Regarding giving six months time to candidates to submit caste validity certificate for admission in educational institutions in engineering, medical and other professional courses for the academic year 2024-25...\
-  [202407221601298707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221601298707.pdf)
+- Regarding preparation of media plan and estimated expenditure of Rs.270,05,00,000/- for implementation of Special Publicity Campaign by Directorate General of Information and Public Relations during the financial year 2024-25.\
+  [202407291500404407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291500404407.pdf)
 
-- Regular Promotion from post of Clerk-Typist to Assistant Section Officer, Select List year 2016-2017\
-  [202407221259577707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221259577707.pdf)
+- Formation of recommendation committee to suggest names for Padma Award 2025 to central government.\
+  [202407291526384407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291526384407.pdf)
 
-- Repatriation from Deputation- Shri. P. J. Thakur, Deputy Secretary\
-  [202407231637558707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231637558707.pdf)
+- Regarding extension of time to deputation. Smt.Ranjana Kumre, Desk Officer.\
+  [202407291643296007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291643296007.pdf)
 
-- Delegation of financial power to administrative department in part- 2 of Financial Power Rules book 1978 in respect of election related expenditure regarding.. Incorporation of new Financial Powers\
-  [202407251456141907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251456141907.pdf)
+- Appointment to the post of General Manager, Group-A in in Mantralaya Canteen on deputation basis\
+  [202407291731074307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291731074307.pdf)
 
-- Regarding the appointment of Honble Minister of Maharashtra State as District Guardian Minister.\
-  [202407251108364307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251108364307.pdf)
+- Reorganization of central postal center near Ministry main entrance to receive mail sent by citizens as well as field offices to Ministry administrative departments.\
+  [202407291136455207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291136455207....pdf)
 
-- Regarding approval of printing of Aapla Mantralaya magazine  published by Directorate General of Information and Public Relations  by private printing press.\
-  [202407261128212407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261128212407.pdf)
-
-- Regarding the use of Sandes Instant messaging App in Governmet work.\
-  [202407261620226807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261620226807.pdf)
+- Deputation Order. Smt Kadija Naikwade, Desk officer.\
+  [202407291640207807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291640207807.pdf)
 
 ## Personnel
-- Year wise final seniority list of Higher Grade Stenographer cadre in mantralaya department for the period from 01.01.2018 to 01.01.2023.\
-  [202407221757061107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221757061107.pdf)
-
-- Final Seniority List of Lower Grade Stenographer in Mantralaya Department dated 01.01.2024\
-  [202407221806456607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221806456607.pdf)
-
-- Final Seniority List of Selection Grade Stenographer in Mantralaya Department dated 01.01.2024\
-  [202407221814381107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221814381107.pdf)
-
-- Year wise final seniority list of Selection Grade Stenographer cadre in mantralaya department for the period from 01.01.2018 to 01.01.2023.\
-  [202407221811468507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221811468507.pdf)
-
-- Year wise final seniority list of Senior Personal Assistant cadre in mantralaya department for the period from 01.01.2018 to 01.01.2023.\
-  [202407221817427507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221817427507.pdf)
-
-- Year wise final seniority list of Lower Grade Stenographer cadre in mantralaya department for the period from 01.01.2018 to 01.01.2023.\
-  [202407221804057607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221804057607.pdf)
-
-- Final Seniority List of Senior Personal Assistants in Mantralaya Department dated 01.01.2024\
-  [202407221820366807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221820366807.pdf)
-
-- Final Seniority List of Higher Grade Stenographer in Mantralaya Department dated 01.01.2024\
-  [202407221800422407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221800422407.pdf)
-
-- Partial change in posting after promotion of Deputy Secretary cadre- Shri. S.E. Andhale.\
-  [202407231640431107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231640431107.pdf)
-
-- Promotion to the post of Under Secretary from Section officer cadre\
-  [202407231648260407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231648260407........pdf)
-
-- Transfer of Deputy Secretary- Smt. A. B. Yamgar.\
-  [202407231634029607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231634029607.pdf)
-
-- Transfer of Under Secretary.\
-  [202407231644080907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231644080907.pdf)
-
-- Transfer of Sri. Jayant Atmaram Vispute, Under Secretary\
-  [202407231658183307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231658183307.pdf)
-
-- Change in posting of officers promoted to the post of Under Secretary\
-  [202407231653153007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231653153007.pdf)
+- According to the Rights of Persons with Disabilities Act, 2016, regarding the implementation of reservation for disabled employees in promotion to the lowest rung of group A from 30.6.2016...\
+  [202407291558065507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291558065507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

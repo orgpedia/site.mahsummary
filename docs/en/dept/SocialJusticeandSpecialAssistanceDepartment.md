@@ -1,21 +1,27 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 22 July 2024 - 27 July 2024
+**Date Range**: 29 July 2024 - 03 August 2024
 
 
 ## Funds
-- Regarding approving the distribution of subsidy of Rs.20,000/- per Dindi to Dindis accompanying 10 palanquins for the year 2024 for Ashadhi Ekadashi Yatra at Pilgrimage Pandharpur.\
-  [202407241800212322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241800212322.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Jayatara Backward Class Industrial Producers Co-operative Society Marya., Ichalkaranji District. Ichalkaranji District. Kolhapur.\
+  [202407291813017422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291813017422.pdf)
 
-- Maharashtra State Tribal Research and Training Institute (TRTI), Pune, Dr. Babasaheb Ambedkar Research and Training Institute (BARTI), Pune, Chhatrapati Shahu Maharaj Research and Training Institute (Sarathi), Pune, Mahatma Jyotiba Phule Research and Training Institute (Mahajyoti), Nagpur and Maharashtra Research and Training Prabodhini (Amrit), Mumbai and others Regarding determining a comprehensive policy to bring necessary parity in the scheme of post-scholarships, training, skill development and foreign scholarships implemented through the departments or to be implemented through similar autonomous bodies.\
-  [202407251546130722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251546130722...pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Jeet Backward Class Industrial Cooperative Society Marya., Mangaon Dist. Hatkanangle Dist. Kolhapur.\
+  [202407291819077022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291819077022.pdf)
 
-## Miscellaneous
-- Regarding filling up the posts of Matoshree Old Age Home through external system.\
-  [202407251304011422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251304011422...pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Yash Backward Class Industrial Producers Cooperative Society Marya., Sirasmarg, Tt. Gevrai, Dist. Beed.\
+  [202407291822584322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291822584322.pdf)
 
-- Regarding approving the formation of administrative department purchase committee and technical committee for implementing the state level scheme From Manhole to Machinehole for the Welfare of Manual Scavengers.\
-  [202407261106573322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261106573322.pdf)
+- Regarding the disbursement of the first instalment for Scheduled Castes under the Assistance for Extension Reforms in Agricultural Extension Programs of the State (Atma) out of the budgetary funds of the year 2024-25. Central share (heading 2401B301)State Share (Account Head 2401B312)\
+  [202407291726595322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291726595322.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Constitution Backward Class Industrial Producers Co-operative Society Marya., Kekatpangri, Tt. Gevrai, Dist. Beed\
+  [202407291826346822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291826346822.pdf)
+
+## Personnel
+- Regarding implementation of prevailing scholarship reimbursement scheme of the government for the students of professional courses in Abhimat University of the State...\
+  [202407291606494322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291606494322.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
