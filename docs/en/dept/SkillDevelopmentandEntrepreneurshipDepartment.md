@@ -3,6 +3,10 @@
 **Date Range**: 29 July 2024 - 03 August 2024
 
 
+## Funds
+- Making the State name distributed under Maharashtrian Societies (Programme). (Year 2024-25 Prakash No. ZA-2 Account Head 2230 A343 )\
+  [202407301744548403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301744548403.pdf)
+
 ## Miscellaneous
 - Regarding giving administrative approval to the admission rules and training fee rules to be implemented for the government and private industrial training institutes for the admission from August 2015 session for the government and private industrial training institutes in the state.\
   [202407291409084403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291409084403.pdf)

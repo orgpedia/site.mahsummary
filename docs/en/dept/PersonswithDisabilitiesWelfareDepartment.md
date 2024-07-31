@@ -1,15 +1,14 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 15 July 2024 - 20 July 2024
+**Date Range**: 29 July 2024 - 03 August 2024
 
-
-## Funds
-- Grant-in-policy for Special Schools/Workshops/MDC Homes.\
-  [202407161623388635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407161623388635.pdf)
 
 ## Miscellaneous
-- Government approval for extension of appointment of administrator to mukbadhir audyogik sanstha shankarnagar nagpur\
-  [202407191308289135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407191308289135.pdf)
+- Regarding selection of rehabilitation homes for mentally ill persons through voluntary organizations.\
+  [202407301244586335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301244586335.pdf)
+
+- Actions taken as per the provisions of the policy laid down regarding recognition of grant/ Non-Grant Schools of disabled.\
+  [202407301530453935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301530453935.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
