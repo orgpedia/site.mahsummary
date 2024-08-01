@@ -26,5 +26,11 @@
 - Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2024-25.\
   [202407301153549620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301153549620.pdf)
 
+- State Level Consolidated Provisional Seniority List of District Technical Service, Class-3 (Agricultural) Cadre Extension Officers in Zilla Parishad as on 01.01.2024.\
+  [202407311618580020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311618580020.pdf)
+
+- Provisional Seniority List of Assistant Livestock Development Officer in District Technical Service, Class-3 (Animal Husbandry) Cadre in Zilla Parishad as on 01.01.2024.\
+  [202407311615447020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311615447020.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

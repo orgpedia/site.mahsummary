@@ -10,5 +10,9 @@
 - Actions taken as per the provisions of the policy laid down regarding recognition of grant/ Non-Grant Schools of disabled.\
   [202407301530453935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301530453935.pdf)
 
+## Personnel
+- transfer of the management of Indrayani special school for MR children  from Indrayani Manovikas Sanstha Akola to Rashtrasant Shikshan Sanskruti Dnyanpith Masod.\
+  [202407311126523435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311126523435.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

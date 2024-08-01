@@ -28,6 +28,34 @@
 - Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Hon. Common. Sanjay Singh Gaikwad Backward Class Industrial Producers Cooperative Society Marya., Majgaon Distt. Panhala Dist. Kolhapur.\
   [202407301303572622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301303572622.......pdf)
 
+- Distribution of grant for the financial year 2024-25 to the Scheduled Caste beneficiaries under the Shravanbal Seva State Pension Scheme.\
+  [202407311811342522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311811342522.pdf)
+
+- Distribution of grant for the financial year 2024-25 to the general beneficiaries of Shravanbal Seva Rajya Nivrutti Vetan Yojna\
+  [202407311802384422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311802384422.pdf)
+
+- Distribution of subsidy for the financial year 2024-25 to the Scheduled Caste beneficiaries under the Sanjay Gandhi Niradhar Anudan  Yojana\
+  [202407311824012022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311824012022.pdf)
+
+- Disbursement of subsidy for the financial year 2024-25 to general beneficiaries of Sanjay Gandhi Niradhar Anudan Yojana\
+  [202407311804220322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311804220322.pdf)
+
+- Disbursement of grant for the financial year 2024-25 to Scheduled Tribe beneficiaries under Sanjay Gandhi Niradhar Anudan Yojana\
+  [202407311829563422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311829563422.pdf)
+
+## Miscellaneous
+- Ramai Awas Yojana (Urban Area) for Scheduled Caste, Neo-Buddhist groups regarding Gharkul...\
+  [202407311834443322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311834443322.pdf)
+
+- Regarding the reconstitution of the Senior Citizen Executive Committee (State Executive Council) under the Chairmanship of the Chief Secretary as per the provisions of Maharashtra State Comprehensive Senior Citizen Policy-2013.\
+  [202407311512578822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311512578822.pdf)
+
+- Distribution of grant for the financial year 2024-25 to the Scheduled Tribe beneficiaries under the Shravanbal Seva Rajya Nivrutti Vetan.\
+  [202407311817583422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311817583422.pdf)
+
+- Regarding cancellation of appointment of Non-Governmental Members in Senior Citizens Executive Committee (State Executive Council) under the Chairmanship of Chief Secretary as per provisions of Maharashtra State Comprehensive Senior Citizens Policy-2013.\
+  [202407311505034722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311505034722.pdf)
+
 ## Personnel
 - Regarding implementation of prevailing scholarship reimbursement scheme of the government for the students of professional courses in Abhimat University of the State...\
   [202407291606494322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291606494322.pdf)

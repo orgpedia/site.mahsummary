@@ -44,5 +44,8 @@
 - Regarding giving Revised administrative approval to the village kharbadi ta. Motala .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202407291912564228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291912564228.pdf)
 
+- Regarding giving Revised administrative approval to the village fhardapur ta. Motala .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202407291912434328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291912434328.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

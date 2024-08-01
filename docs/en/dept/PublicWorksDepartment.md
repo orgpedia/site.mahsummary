@@ -1,40 +1,14 @@
 # Public Works Department
 
-**Date Range**: 22 July 2024 - 27 July 2024
+**Date Range**: 29 July 2024 - 03 August 2024
 
 
 ## Funds
-- Approval to revised project cost of Swatantryveer Savarkar Sea Link (Versova - Bandra Sea Link),\
-  [202407261055283718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407261055283718.pdf)
+- Regarding approval of HUDCO Loan of Rs.5500 Crores Acqmisition of Pune Ring Road (East)\
+  [202407311839057318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311839057318.pdf)
 
-## Miscellaneous
-- Upgradation of other district road and village roas to Major District Road in taluka Khed, Ambegaon and Shirur at distrct Pune.\
-  [202407231446441218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231446441218.pdf)
-
-- Corrigendum Civil Engineering Assistant cadre from 01.01.1989 to 31.12.2018. Revision in the final seniority list published on 11.12.2020.\
-  [202407231158450518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231158450518.pdf)
-
-- Upgradation of other district road and village roas to Major District Road in taluka Patan at distrct Satara.\
-  [202407231451095418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231451095418.pdf)
-
-- To declare Drawing and Disbursing Officer for the newly created office of Superintending Engineer, Public Works Circle, Sindhudurg under Chief Engineer, Public Works Region,  Konkan.\
-  [202407251628127618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251628127618.pdf)
-
-## Personnel
-- Provisional seniority list dated 01/01/2024 of Deputy Engineer (Electrical), Graduate in Public Works Department.\
-  [202407231145394918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407231145394918.pdf)
-
-- Transfers / Posting of Officers in Executive Engineer (Civil) Cadre.\
-  [202407241540400618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241540400618.pdf)
-
-- Promotion order of Shri. Yadav, Junior Engineer (Diploma Holder) on the post of Sub Divisional Officer (Civil), Public Works Department\
-  [202407241149337318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241149337318.pdf)
-
-- Promotion order of Shri. Survanshi, Junior Engineer (Diploma Holder) on the post of Sub Divisional Officer (Civil), Public Works Department\
-  [202407241155096618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407241155096618.pdf)
-
-- Final seniority list dated 01.01.2022, 01.01.2023 and 01.01.2024 of Assistant Engineer (Civil) Category-1 in Public Works Department.\
-  [202407251308057118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407251308057118.pdf)
+- Regarding approval of total Rs.27750 Crores debt instruments - Rs.22250 Crores debt instruments for Virar-Alibag Multimodal Corridor and Rs.5500 Crores debt instruments for Pune Ring Road (East)\
+  [202407311844143418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311844143418.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,12 +25,24 @@
 - Regarding the extension of time to the Joint Committee chaired by Honble Justice Shri.Sandeep Shinde (Retd)...\
   [202407301839424107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301839424107.pdf)
 
+- Appointment to post of Dy. Commissioner, Panvel Municipal Corporation on deputation basis Shri. Prasenjeet Dnyanesh Karlekar, Under Secretary\
+  [202407311827000407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311827000407....pdf)
+
+- Regarding appointment of consultant for computerization of office of Maharashtra Public Service Commission.\
+  [202407311455517007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311455517007.pdf)
+
+- Filling the post of deputation basis. (extension of advertisement)\
+  [202407311239344707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311239344707.pdf)
+
 ## Personnel
 - According to the Rights of Persons with Disabilities Act, 2016, regarding the implementation of reservation for disabled employees in promotion to the lowest rung of group A from 30.6.2016...\
   [202407291558065507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291558065507.pdf)
 
 - Marathwada Administrative and Development Training Prabodhini Nathnagar (North) Paithan, District Chhatrapati Sambhajinagar for the post of Director (Group-A) by upgradation and appointment on deputation.\
   [202407301719193707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301719193707.pdf)
+
+- Regarding   Selection Grade Pay Scale of S-27 to  Deputy Secretary.\
+  [202407311830385707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311830385707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,15 @@
 - Under the Agricultural Extension sub-mission of the National Agricultural Extension and Technology Mission (NMAET), the first installment of Rs. Regarding approving the disbursement of funds amounting to 147.50 lakhs in the current year..\
   [202407301526434801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301526434801.pdf)
 
+- Release of Rs.85.00 lakh. grant under RKVY- Per Drop More Crop (Micro Irrigation), (SCSP category) for FY 2024-25.\
+  [202407311456503501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311456503501.pdf)
+
+- Regarding approving the media plan for the promotion and publicity of the Department of Agriculture.\
+  [202407311301569601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311301569601.pdf)
+
+- Release of Rs.13.15 Cr. grant under RKVY- Per Drop More Crop (Micro Irrigation), (SCSP category) for FY 2024-25.\
+  [202407311500146301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311500146301.pdf)
+
 ## Miscellaneous
 - June 2022 to August 2022 - Taluka Multiplication seed farm of Dumri Dist.Nagpur, Pending Rs.66,662/- under Major head- 2401 0261 -item  (21) Materials and Supplies Regarding obtaining administrative sanction for payment.\
   [202407291205017001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291205017001.pdf)
@@ -34,6 +43,9 @@
 
 - Release of fund for the implementation of Hon. Balasaheb Thackeray (Haridra) Research and Training Center in Hingoli District in 2024-25\
   [202407301226025001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301226025001.pdf)
+
+- Organisation of Animal Husbandry Fortnight from August 1, 2024 to August 15, 2024.\
+  [202407311656184201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311656184201.pdf)
 
 ## Personnel
 - Regarding posting of officers in Maharashtra Agricultural Service, Group-B Cadre\
