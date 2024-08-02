@@ -25,6 +25,9 @@
 - Regarding giving Revised administrative approval to the village sidhkhed ta. Motala .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202407291835434328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291835434328.pdf)
 
+- To release STC (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission ( Budget Head 2215 A061)\
+  [202408011553139128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011553139128.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the village aadvihir ta. Motala .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202407291912524328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291912524328.pdf)
@@ -46,6 +49,9 @@
 
 - Regarding giving Revised administrative approval to the village fhardapur ta. Motala .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202407291912434328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291912434328.pdf)
+
+- Regarding the revision of ZP promotion quota for appointment by selection/promotion of Junior Engineers/Branch Engineers (Civil) in the District to the post of Deputy-Engineer (Civil)  in the Maharashtra Jeevan Pradhikaran.\
+  [202408011453092128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011453092128.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

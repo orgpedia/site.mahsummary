@@ -34,6 +34,9 @@
 - District Hospital Thane for the construction of a 900 bedded hospital for the Regional Psychiatric Hospital, Thane on the premises of Health and Family Welfare Training Center in Thane regarding the administrative approval of the work budget for the relocation of the hospital. (Rs. 23,80,595/-)\
   [202407301545401817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301545401817.pdf)
 
+- With regard to getting approval to outsource security guard services in primary health centers in 34 districts across the state...\
+  [202407111214415717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111214415717.pdf)
+
 ## Miscellaneous
 - Regarding grant of administrative approval for Modular Surgery House (OT) and Modular Intensive Care Unit (ICU) in Trauma Care Unit under Public Health Department.\
   [202407081306196717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407081306196717.pdf)
@@ -67,6 +70,25 @@
 
 - Regarding disbursing an amount of Rs.16544.62 lakhs for the month of May to June, 2024 to ASHA volunteers and group promoters from the budget provision of the state government for the year 2024-25 under the general plan for the National Rural Health Program under the Centrally Sponsored National Health Mission.\
   [202407181514512217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407181514512217.pdf)
+
+- Regarding  administrative approval for  total  purchase  of 62 items of medicinal materials and laboratory materials, insecticides and other items required for the treatment of national malaria and fileria programme under account heads 2210 5157, 2210 5166, 2210 0585, 2210 0602 and 2210  0611 of total purchase amount of Rs.5,10,56,490/- in the financial year 2024-25.\
+  [202407311606014717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311606014717.pdf)
+
+- Regarding approving upgradation of 30-bed rural hospital at  Tal. Pandharpur, Dist. Solapur to 50-bed up-district hospital as a special matter...\
+  [202408011526223317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011526223317.pdf)
+
+- Protean eGov Technologies Ltd. is one of the 700 Hindu Hrudayasmarat Balasaheb Thackeray Aap Dawakhana launched in the state to provide free healthcare services to the common and poor citizens living in the slums of various cities of the state. Regarding giving administrative approval to start Digital Health transformation Initiative from Corporate Social Responsibility (CSR) funds received from this company.\
+  [202408011232196617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011232196617.pdf)
+
+- Regarding  corrigendum for administrative approval of the purchase of 72 units of Biomedical Waste Disinfection System (Microwave Based) machines for pre-treatment of bio medical waste generated in 72 hospitals operating under the control of Public Health Department in the state\
+  [202407311605533417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311605533417.pdf)
+
+- Regarding Administrative approval  for expenditure of  total  35 items such as medicinal materials, laboratory materials, insecticides and other items required for the treatment of national malaria and fileria programme of  a total of Rs. 2,00,43,507/- in the financial year 2024-25.\
+  [202407311606113517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311606113517.pdf)
+
+## Personnel
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate...\
+  [202407051116549117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051116549117.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

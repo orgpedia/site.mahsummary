@@ -14,9 +14,18 @@
 - In Stuttgart, Germany. Dt.  31st July to 02nd August, 2024 (including travel period) Visit of a delegation led by Honble Minister (School Education), Government of Maharashtra.\
   [202407301653063821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301653063821.pdf)
 
+- Regarding Completion of Probationary Period of Superintendents and Officers of Similar Posts in Group-B Cadre of General State Service (Administrative Branch).\
+  [202408011441563021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011441563021.pdf)
+
+- Regarding opening of new heading implementation of Centrally Sponsored Scheme Pradhan Mantri Janjati Adivasi Nyaya Mahabhiyan (PM-JANMAN) TSP (Central Share) (State Share)\
+  [202408011728286221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011728286221....pdf)
+
 ## Personnel
 - Muslim Education Society Nandura, Dist. Regarding relocation of Buldana operated Inayatia Girls High School, Nawabpura, Nandura to Gaibi Nagar, Nandura.\
   [202407311838513021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311838513021.pdf)
+
+- Maharashtra Appropriation Act, 2024 Grant release for the year 2024-2025\
+  [202408011727042921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011727042921.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

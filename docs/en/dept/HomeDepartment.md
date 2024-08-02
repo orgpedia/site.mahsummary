@@ -13,6 +13,9 @@
 - Regarding giving administrative approval to the action plan for the financial year 2024-25 to 2027-28 for procurement of 2298 vehicles deficient as per vehicle sanction policy in the State Police Force.\
   [202407311225304929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311225304929.pdf)
 
+- Regarding approving the creation of a new batch of State Reserve Police Force at Varangaon, Bhusawal, Dist. Jalgaon.\
+  [202408011522313129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011522313129.pdf)
+
 ## Miscellaneous
 - Fixing the terms of reference of the inquiry committee appointed to conduct a high-level inquiry into the incident of illegal Hoarding collapse at Ghatkopar, Mumbai.\
   [202407291503384429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291503384429.pdf)
@@ -32,9 +35,18 @@
 - Sanctioning of professional Fees to Adv. Kailashchandra Vyas as a Special Public Prosecutor for conducting the case in Honble Secial Session Court and Honble High Court, Mumbai which is arising out of C.R.No. 347/2017 registered with the Shivaji Nagar Police Station, Pune.\
   [202407311540486929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311540486929.pdf)
 
+- Maharashtra Auto-Rickshaw and Metered Taxi Driver Welfare Board.\
+  [202408011548180229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011548180229.pdf)
+
+- Mr. Tushar Mehta, Solicitor General of India on behalf of the Government of Maharashtra Regarding sanction of professional fee to him in the case of appearing before the Hon. Supreme Court.\
+  [202408011556318429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011556318429.pdf)
+
 ## Personnel
 - Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
   [202407311504432029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311504432029.pdf)
+
+- Regarding transfer of enforcement powers of Section 37 of Indian Civil Security Code 2023 to Director General of Police, State of Maharashtra.\
+  [202408011432509929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011432509929....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

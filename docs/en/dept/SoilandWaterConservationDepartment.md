@@ -20,5 +20,11 @@
 - Regarding Repartition of services of Mr.Rajendra Pandurang Dhum, Assistant Engineer Grade-1 to Water Resources Department...\
   [202407301051264126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301051264126.pdf)
 
+- Maharashtra Engineering (Civil) Services Examination 2021 recommended by Maharashtra Public Service Commission for posting of probationary candidates to the post of Sub-Divisional Water Conservation Officer (Civil) Group-A and other equivalent posts.\
+  [202408011720209526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011720209526.pdf)
+
+- Maharashtra Engineering (Civil) Service Examination 2021 Recommended by Maharashtra Public Service Commission regarding posting of probationary candidates to the post of Sub-Divisional Water Conservation Officer (Civil) Group-A and other equivalent posts (Partial Changes)\
+  [202408011721193126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011721193126.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

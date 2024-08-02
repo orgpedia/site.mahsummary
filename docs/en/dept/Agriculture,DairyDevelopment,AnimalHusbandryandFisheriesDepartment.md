@@ -54,5 +54,8 @@
 - Regarding giving administrative approval for implementation of 100 per cent centrally sponsored scheme to improve crop statistics in the state in the year 2024-25.\
   [202407301749306101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301749306101.pdf)
 
+- Commissioner, Government Milk Chilling Center under Dairy Development Department, survey no. Regarding transfer of 1 acre land at 426 to Revenue and Forest Department...\
+  [202408011748497001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011748497001.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -34,6 +34,12 @@
 - Filling the post of deputation basis. (extension of advertisement)\
   [202407311239344707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311239344707.pdf)
 
+- Appointment on Deputation- Smt. Sarita R. Bandekar Deshmukh,  Joint  Secretary.\
+  [202408011434255307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011434255307.pdf)
+
+- Dr. Panjabrao Deshmukh, Vidarbha Administrative and Development Training Prabodhini, Amravati regarding appointment as Assistant Professor Class-1 on deputation.\
+  [202408011536329407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011536329407.pdf)
+
 ## Personnel
 - According to the Rights of Persons with Disabilities Act, 2016, regarding the implementation of reservation for disabled employees in promotion to the lowest rung of group A from 30.6.2016...\
   [202407291558065507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291558065507.pdf)

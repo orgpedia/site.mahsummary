@@ -22,9 +22,18 @@
 - Regarding grant of ex-gratia assistance to the families of employees who died due to corona virus infection while performing duties related to Covid-19 Late Subhash Gundu Gaikwad, Talathi, Waki Gherdi, Sangola District, Solapur District\
   [202407311500285119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311500285119.pdf)
 
+- Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
+  [202408011301587819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011301587819.pdf)
+
 ## Miscellaneous
 - Regarding the celebration of  Revenue Fortnight-2024 from Revenue Day (1st August, 2024) in the State  through the Revenue Department.\
   [202407301757393819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301757393819.pdf.pdf)
+
+- Appointment to the post of Principal  Chief Conservator  of  Forests (Head of Forest  Force), Maharashtra State\
+  [202408011743163019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011743163019.pdf)
+
+- In pursuance of the order of the Hon.  Supreme Court, the guidelines in respect of stay orders in respect of quasi-judicial cases pending before the Revenue Officers and Authorities under the Land Act...\
+  [202408011459109819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011459109819.pdf)
 
 ## Personnel
 - Regarding formulation of procedures for implementation of World Bank assisted Maharashtra Resilience  Development Program (MRDP) for flood disaster control in Krishna, Bhima basins of Kolhapur and Sangli districts.\
@@ -56,6 +65,108 @@
 
 - Regarding transfer of Naib Tehsildar cadre officers to another revenue department by changing their original revenue department on a permanent basis.....\
   [202407312009513219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312009513219.pdf)
+
+- Degree in posting by promotion to the post of Naib Tehsildar: Alteration (Nasih Division)\
+  [202407312320293419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312320293419.pdf)
+
+- Regarding deputation of officers in Naib Tehsildar cadre (Nashik Division)\
+  [202407312320117419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312320117419.pdf)
+
+- Regarding posting of officers in the Naib Tehsildar cadre by transfer (Permanent) ( Amravati Division).\
+  [202407312319500219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319500219.pdf)
+
+- Regarding posting by ad-hoc promotion from Top Clerk and Circle Officer Cadre to Naib Tehsildar Cadre on a purely temporary basis in Direct Service Quota posts..... (Konkan Division)\
+  [202408011914388119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011914388119.pdf)
+
+- Regarding posting of officers in the cadre of Naib Tehsildar (Permanent) (Konkan Division)\
+  [202407312319375119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319375119.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202407311557303019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557303019.pdf)
+
+- Regarding deputation of officers in Naib Tehsildar cadre (Amravati Division)\
+  [202407312319270119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319270119....pdf)
+
+- Regarding transfer of Naib Tehsildar cadre officers to another revenue department by changing their original revenue department on a permanent basis.....\
+  [202407312320228919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312320228919.pdf)
+
+- Mr. Kiran Sundar Amburle, Naib Tehsildar, Competent Authority No.6 Malad, Distt. Regarding appointment of Mumbai Suburban by deputation.\
+  [202407312320176719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312320176719.pdf)
+
+- Appointment by deputation Regarding the appointment of Dr.Santosh Venikar, Deputy Collector (Land Acquisition) (Benefit Area), Yavatmal on deputation to the post of Registrar, Vasantrao Naik Marathwada Agricultural University, Parbhani...\
+  [202407311557419119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557419119.pdf)
+
+- Regarding transfer of posts to officers in Naib Tehsildar cadre..... (Nagpur Division)\
+  [202407312319119419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319119419.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Kokan Division)\
+  [202407311556143419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311556143419.pdf)
+
+- Appointment by deputation Mr. Dinesh Ku-Hade, Tehsildar\
+  [202407311557011619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557011619.pdf)
+
+- Regarding posting of officers in Naib Tehsildar cadre by transfer.... (Regular) (Pune Division)\
+  [202407312319183419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319183419.pdf)
+
+- Appointment by deputation Mr. Regarding appointment of Nirbhay Jain as Registrar and Assistant Professor, Vanamati, Nagpur on deputation...\
+  [202407311557355719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557355719.pdf)
+
+- Regarding transfer of post to Naib Tehsildar Cadre Officers (Permanent) (Nashik Division)\
+  [202407312320416319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312320416319.pdf)
+
+- Appointment by deputation Dr. Regarding appointment of Priyanka Shantaram Patil, Deputy Collector (Rohyo), Beed as Deputy Collector (Land and Revenue Manager), Mumbai Metropolitan Region Development Authority, Mumbai on deputation...\
+  [202407311556541619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311556541619.pdf)
+
+- Regarding transfer of posts to Naib Tehsildar cadre officers..... (Pune Division)\
+  [202407312319262919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319262919.pdf)
+
+- Appointment by deputation Mr. Regarding appointment of Deepak Chavan, Deputy Collector (Rohyo), Thane as Deputy Collector, Mumbai Metropolitan Region Development Authority, Mumbai on deputation...\
+  [202407311557083419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557083419.pdf)
+
+- Appointment by deputation Regarding appointment of Mrs. Sujata Gandhe, Deputy Collector (General), Wardha as Competent Authority, Mumbai-Nagpur-Jharsuguda Pipe Line Project, Land Acquisition, Nagpur on deputation...\
+  [202407311557477919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557477919.pdf)
+
+- Mrs. Avanti Ajay Mayekar, Naib Tehsildar (Revenue), Tehsil Office Kurla (Mulund), Distt. Regarding appointment of Mumbai Suburban by deputation.\
+  [202407312319562819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319562819.pdf)
+
+- Appointment by deputation Shri Sunil Shinde, Deputy Collector, Land Acquisition, Vidarbha Irrigation Development Corporation no. 3, of Nagpur Regarding appointment on deputation to the post of Deputy Collector, Mumbai Metropolitan Region Development Authority, Mumbai...\
+  [202407311557546819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557546819.pdf)
+
+- Regarding posting of officers in the cadre of Naib Tehsildar by transfer.... (Regular) (Chatrapati Sambhajinagar Division)\
+  [202407312318485619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312318485619.pdf)
+
+- Regarding transfer of posts to Naib Tehsildar cadre officers.... (Permanent) (Nagpur Division)\
+  [202407312319061619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319061619.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Nashik Division)\
+  [202407311557151819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557151819.pdf)
+
+- Regarding transfer of post to Naib Tehsildar cadre officers (Konkan Division)\
+  [202407312319435019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312319435019..pdf)
+
+- Appointment by deputation Mr. Ibrahim Chaudhary, Deputy Collector, presently, awaiting appointment Regarding appointment on deputation to the post of Deputy Commissioner, Pune Municipal Corporation, Pune...\
+  [202407311556070419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311556070419.pdf)
+
+- Regarding transfer of posts to officers in Naib Tehsildar cadre..... (Chhatrapati Sambhajinagar Division)\
+  [202407312318596819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407312318596819.pdf)
+
+- Appointment by deputation Mr. Regarding the appointment of Gopinath Thombre, Deputy Collector (General), Thane to the post of Deputy Chief Officer (Panan), MHADA, Mumbai on deputation...\
+  [202407311556207119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311556207119.pdf)
+
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Electoral Year 2023-24).\
+  [202408011917402319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011917402319.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202407311555475019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311555475019.pdf)
+
+- Appointment by deputation By Smt. Dipti Suryavanshi, Deputy Collector (Rohyo), Pune Regarding appointment on deputation to the post of Deputy Collector, Pune Metropolitan Region Development Authority, Pune...\
+  [202407311557233719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311557233719.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Chhatrapati Sambhajinagar Division)\
+  [202407311556280719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311556280719.pdf)
+
+- Appointment by deputation Mrs. Aarti Bhosale, Deputy Collector and Head of Department, Barti, Pune Regarding appointment on deputation to the post of Deputy Commissioner, Thane Municipal Corporation...\
+  [202407311555390619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311555390619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

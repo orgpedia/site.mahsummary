@@ -7,6 +7,9 @@
 - To release grant for the scheme of  Jal Jeevan Mission (State Share 50) under the TSP in financial year 2024-25.  state share( CRC 2215 A061)\
   [202407221118471324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118471324.pdf)
 
+- To release grant for the scheme of major head of general education under the TSP in the financial year 2024-25. (CRC 2202 1901, 2202 1948  2202 H973)\
+  [202407221118518424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118518424.pdf)
+
 ## Miscellaneous
 - Under Tribal Development Department, Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Kalwan under Shri Kapaleshwar Shikshan Prasarak Mandal Talwade Digar Vdara operated subsidized ashram school Palasadare, Tt. Malegaon, Dist. Regarding giving approval to Ashram School Nashik to start classes from class 8th to 10th from the academic year 2024-25.\
   [202407301658123824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301658123824.pdf)
@@ -16,6 +19,12 @@
 
 - Under Tribal Development Department Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Nashik, under Mahatma Phule Multipurpose Institution, Jayanagar, Tt. Shahada, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Nandurbar Vdara Aided Primary and Secondary Ashram School Mahiravani, Dist.Nashik.\
   [202407311849150224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311849150224.pdf)
+
+- Regarding providing basic facilities to the tribal people.\
+  [202408011235553024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011235553024.pdf)
+
+- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and Adarsh Samata Shikshan Prasarak Mandal under A.A.V.P., Kalwan, Alangun, Tt. Surgana, Dist. Nashik Vdara Subsidized Ashram School Khirdi, Tt. Surgana, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Ashram School, Nashik from the academic year 2024-25.\
+  [202408011713482824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011713482824.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -14,5 +14,8 @@
 - Regarding assignment of additional charge of the post of Director, Directorate of Vocational Education and Training, State of Maharashtra, Mumbai.\
   [202407311520330503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311520330503....pdf)
 
+- Regarding declaring Virtual Personal Deposit Account Administrator to the Finance and Accounts Officer, M.R. K. Vidyapith for speedy disbursement and control of Subsidiary Grants for Maharashtra State Skills University...\
+  [202408011700493303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011700493303.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
