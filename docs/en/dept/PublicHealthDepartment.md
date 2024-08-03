@@ -86,9 +86,21 @@
 - Regarding Administrative approval  for expenditure of  total  35 items such as medicinal materials, laboratory materials, insecticides and other items required for the treatment of national malaria and fileria programme of  a total of Rs. 2,00,43,507/- in the financial year 2024-25.\
   [202407311606113517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311606113517.pdf)
 
+- Regarding upgradation of primary health center at  Kingaon, Ahmedpur Dist. Latur to 30 bedded rural hospital.\
+  [202407111214473017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111214473017.pdf)
+
+- Regarding the conversion of the sub-centre at  Mauje Nandeshwar District Mangalvedha,  Solapur into a primary health center as a special matter\
+  [202408011526283117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011526283117.pdf)
+
 ## Personnel
 - Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate...\
   [202407051116549117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051116549117.pdf)
+
+- Regarding the selection of a married woman Government servant for reimbursement of medical expenses of her parents or her parents-in-law who are totally dependent on her and living with her....\
+  [202408011149363217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011149363217.pdf)
+
+- Regarding cancellation of the Government circular issued on 16th December, 2021 regarding admission of Medical Officers Group-A who are in unauthorized absence for Post Graduate Degree / Degree at the zonal level.\
+  [202407301203154017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301203154017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

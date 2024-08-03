@@ -10,6 +10,9 @@
 - To release grant for the scheme of major head of general education under the TSP in the financial year 2024-25. (CRC 2202 1901, 2202 1948  2202 H973)\
   [202407221118518424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118518424.pdf)
 
+- Regarding the approval of development works under the scheme for provision of basic facilities within villages ( 2225 D 743) from provision for Thakkar Bappa Adivasi Vasti Sudhar Yojana for the financial year 2024-25. (Integrated Tribal Development Project, Dewari, District Gondia)\
+  [202408021727169424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021727169424.pdf)
+
 ## Miscellaneous
 - Under Tribal Development Department, Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Kalwan under Shri Kapaleshwar Shikshan Prasarak Mandal Talwade Digar Vdara operated subsidized ashram school Palasadare, Tt. Malegaon, Dist. Regarding giving approval to Ashram School Nashik to start classes from class 8th to 10th from the academic year 2024-25.\
   [202407301658123824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301658123824.pdf)
@@ -25,6 +28,16 @@
 
 - Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and Adarsh Samata Shikshan Prasarak Mandal under A.A.V.P., Kalwan, Alangun, Tt. Surgana, Dist. Nashik Vdara Subsidized Ashram School Khirdi, Tt. Surgana, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Ashram School, Nashik from the academic year 2024-25.\
   [202408011713482824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011713482824.pdf)
+
+- To release grant for the scheme of committed expenditure scheme under the TSP in financial year 2024-25.\
+  [202408011242331024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242331024.pdf)
+
+- To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2024-25. (Scheme expenditure-BCW schemes)\
+  [202408011242283224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242283224.pdf)
+
+## Personnel
+- To release grant for  Centrally Sponsored Schemes under the Annual Tribal Component Program 2024-25.\
+  [202408011242223124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242223124.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

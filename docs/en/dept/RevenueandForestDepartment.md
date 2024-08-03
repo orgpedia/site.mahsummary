@@ -25,6 +25,15 @@
 - Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
   [202408011301587819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011301587819.pdf)
 
+- Fund of Rs 18 lakh transfer to NCRMP-II Bank Account from the head of 2245 2621. The budgeted amount is Rs 5 Cr and release amount is Rs 60 Lakh\
+  [202408021041524119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021041524119.pdf)
+
+- In the state from January, 2024 to May, 2024, to provide assistance to the affected people due to the damage of agricultural crops due to unseasonal rains in various districts...\
+  [202408021834242619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021834242619.pdf)
+
+- Fort Vishalgarh, In connection with the damage caused during the agitation at Shahuwadi, District Kolhapur, regarding providing additional assistance...\
+  [202408021719441419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021719441419.pdf)
+
 ## Miscellaneous
 - Regarding the celebration of  Revenue Fortnight-2024 from Revenue Day (1st August, 2024) in the State  through the Revenue Department.\
   [202407301757393819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301757393819.pdf.pdf)
@@ -34,6 +43,12 @@
 
 - In pursuance of the order of the Hon.  Supreme Court, the guidelines in respect of stay orders in respect of quasi-judicial cases pending before the Revenue Officers and Authorities under the Land Act...\
   [202408011459109819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011459109819.pdf)
+
+- Regarding grant of administrative approval for civic amenities works in resettled villages of Varud taluka of Amravati district.\
+  [202408021813350219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021813350219.pdf)
+
+- Regarding additional criterion Normalized Difference Vegetation Index (NDVI) to determine crop damage...\
+  [202408021840022719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021840022719.pdf)
 
 ## Personnel
 - Regarding formulation of procedures for implementation of World Bank assisted Maharashtra Resilience  Development Program (MRDP) for flood disaster control in Krishna, Bhima basins of Kolhapur and Sangli districts.\
@@ -167,6 +182,24 @@
 
 - Appointment by deputation Mrs. Aarti Bhosale, Deputy Collector and Head of Department, Barti, Pune Regarding appointment on deputation to the post of Deputy Commissioner, Thane Municipal Corporation...\
   [202407311555390619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311555390619.pdf)
+
+- Regarding transfer of Smt. Seema Deshmukh, District Superintendent of Land Records\
+  [202408021647067419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021647067419.pdf)
+
+- Regarding posting by ad hoc promotion from Top Clerk Cadre to Naib Tehsildar Cadre on a purely temporary basis in direct service quota posts (Nagpur Division).\
+  [202408021243572619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021243572619.pdf)
+
+- Regarding the transfer of officers in the cadre of Additional Collector (Selection Grade).\
+  [202408021540102019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021540102019.pdf)
+
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Nagpur Division (Electoral Year 2023-24).\
+  [202408021244349419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021244349419.pdf)
+
+- Reorganization of Mangrove Cell forming North Konkan and South Konkan Division.\
+  [202408021818011519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021818011519.pdf)
+
+- Regarding Promotion in  Deputy Director of Land Records cadre\
+  [202408021649014719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021649014719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

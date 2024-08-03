@@ -28,6 +28,9 @@
 - Release of Rs.13.15 Cr. grant under RKVY- Per Drop More Crop (Micro Irrigation), (SCSP category) for FY 2024-25.\
   [202407311500146301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311500146301.pdf)
 
+- Regarding approval of media plan for promotion and publicity of animal husbandry department..\
+  [202408021722068501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021722068501.pdf)
+
 ## Miscellaneous
 - June 2022 to August 2022 - Taluka Multiplication seed farm of Dumri Dist.Nagpur, Pending Rs.66,662/- under Major head- 2401 0261 -item  (21) Materials and Supplies Regarding obtaining administrative sanction for payment.\
   [202407291205017001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291205017001.pdf)

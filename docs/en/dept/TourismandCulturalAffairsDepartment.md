@@ -65,5 +65,8 @@
 - Mr. Sujitkumar Keshav Ugle, Deputy Commissioner of State Revenue, (Maha Development), Mumbai, on deputation as Director in the office of Directorate of Archives, Mumbai....\
   [202407291208344523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291208344523.pdf)
 
+- Regarding the appointment of a study group of experts in the department for Business Process Re-engineering of notified services under the Department of Tourism.\
+  [202408021239247123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021239247123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

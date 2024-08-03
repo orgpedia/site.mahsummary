@@ -34,6 +34,9 @@
 - Proposal for Bulk Water Entitlement from Pavana Reservoir to Pune Metropolitan Region Development Authority, Pune for developing Tiger and Lion Point at Kurwande, Sub-district Maval, District Pune.\
   [202408011511152927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011511152927.pdf)
 
+- Regarding submission of proposals/estimates for administrative approval and revised administrative approval under the Special Repairs/Extensions and Improvements/Flood Protection Works/Dam Safety Act, 2021 to the Government through the State Level Technical Advisory Committee.\
+  [202408021705409427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021705409427.pdf)
+
 ## Miscellaneous
 - Policy for development of Pumped Storage Projects (PSPs), PSPs cum LIS and co-located PSP-Solar/Other Renewable Energy Hybrid Projects through Public Private Partnership\
   [202407311817034627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311817034627....pdf)

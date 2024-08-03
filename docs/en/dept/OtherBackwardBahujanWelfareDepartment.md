@@ -31,6 +31,10 @@
 - Regarding disbursement of funds under Foreign Scholarship Scheme in the financial year 2024-25.\
   [202408011604462934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011604462934.pdf)
 
+## Miscellaneous
+- Regarding upgradation (conversion) of part-time librarians to full-time librarians in Vijabhaj category ashram schools run on subsidized basis under Other Backward Bahujan Welfare Department.\
+  [202408021758482634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021758482634.pdf)
+
 ## Personnel
 - Regarding approval of the proposal of the beneficiaries recommended by the District Level Committee, Chhatrapati Sambhajinagar under Punyashlok Ahilya Devi Holkar Gharkool Yojana.\
   [202407291230354534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291230354534.pdf)

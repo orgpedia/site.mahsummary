@@ -43,6 +43,15 @@
 - Disbursement of grant for the financial year 2024-25 to Scheduled Tribe beneficiaries under Sanjay Gandhi Niradhar Anudan Yojana\
   [202407311829563422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311829563422.pdf)
 
+- Bharat Ratna Dr. Babasaheb Ambedkar Swadhar Yojana, Heading 2225, E777 Regarding disbursement of sanctioned provision under the scheme\
+  [202408021840549222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021840549222.pdf)
+
+- Regarding disbursement of funds to Scheduled Caste category in the financial year 2024-25 under the Conventional Agricultural Development Scheme under the centrally sponsored National Agricultural Development Scheme (RKVY).  Central share (heading 2401B203)\
+  [202408021153092722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021153092722.pdf)
+
+- Mauje Kamathi, Distt. Nagpur Dr. Regarding giving administrative approval for the construction of Multi-Purpose Training Center and Vipassana Meditation Center in the area of Babasaheb Ambedkar Memorial..\
+  [202408021836565222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021836565222.pdf)
+
 ## Miscellaneous
 - Ramai Awas Yojana (Urban Area) for Scheduled Caste, Neo-Buddhist groups regarding Gharkul...\
   [202407311834443322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311834443322.pdf)

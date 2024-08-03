@@ -3,6 +3,10 @@
 **Date Range**: 29 July 2024 - 03 August 2024
 
 
+## Funds
+- Regarding disbursement of grant-in-aid to Yashda, Pune for expenditure on training under the Right to Information Act, 2005\
+  [202408021713262807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021713262807.pdf)
+
 ## Miscellaneous
 - Regarding preparation of media plan and estimated expenditure of Rs.270,05,00,000/- for implementation of Special Publicity Campaign by Directorate General of Information and Public Relations during the financial year 2024-25.\
   [202407291500404407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291500404407.pdf)
@@ -40,6 +44,12 @@
 - Dr. Panjabrao Deshmukh, Vidarbha Administrative and Development Training Prabodhini, Amravati regarding appointment as Assistant Professor Class-1 on deputation.\
   [202408011536329407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011536329407.pdf)
 
+- Regarding taking flats on rent basis For Judicial Officers in Brihanmumbai\
+  [202408021341443507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021341443507.pdf)
+
+- Appointment on deputation to the post of Project Assistant in Vasantrao Naik State Agricultural Extension Management Training Institute, Nagpur. Smt Prajakta Patil, Assistant Section Officer\
+  [202408021738279607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021738279607.pdf)
+
 ## Personnel
 - According to the Rights of Persons with Disabilities Act, 2016, regarding the implementation of reservation for disabled employees in promotion to the lowest rung of group A from 30.6.2016...\
   [202407291558065507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291558065507.pdf)
@@ -49,6 +59,9 @@
 
 - Regarding   Selection Grade Pay Scale of S-27 to  Deputy Secretary.\
   [202407311830385707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311830385707.pdf)
+
+- Ad-hoc Promotion to the post of Desk officer.\
+  [202408021527013007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021527013007.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

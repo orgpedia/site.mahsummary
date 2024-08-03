@@ -10,6 +10,9 @@
 - CIVIL COURT SENIOR LEVEL, DAUND, NO. Daund, Dist. Regarding approval of opening of personal deposit account for civil suit amount before this Court, Pune.\
   [202408011537471012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011537471012.pdf)
 
+- Opening of 3 Personal Deposit Account  for -  District  Additional Sessions Judge, Paranda,  District Osmanabad.\
+  [202408021216078712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021216078712.pdf)
+
 ## Personnel
 - Open new Budget head to budget fund under scheme Construction of office buildings under Law and Judiciary Department.\
   [202407301256415012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301256415012.pdf)

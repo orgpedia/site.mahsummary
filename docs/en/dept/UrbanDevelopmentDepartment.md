@@ -7,6 +7,12 @@
 - Nagarothan Mahabhiyan - Administrative Approval for Sillod Road Development Project.\
   [202408011144167625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011144167625.pdf)
 
+- Nagarothan Mahabhiyan - Administrative Approval for Mohol Municipal Council Sewerage Project.\
+  [202407311816244325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311816244325.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Pachora Road Development Project.\
+  [202408011144020225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011144020225.pdf)
+
 ## Miscellaneous
 - Vehicles Review-Directorate of Town Planning and Valuation.\
   [202407311301332625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311301332625.pdf)

@@ -16,6 +16,12 @@
 - Regarding approving the creation of a new batch of State Reserve Police Force at Varangaon, Bhusawal, Dist. Jalgaon.\
   [202408011522313129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011522313129.pdf)
 
+- Regarding giving administrative approval for water supply improvement charges, electricity supply charges and other expenses for office building site of Regional Transport Office, Panvel.\
+  [202408021210349229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021210349229...pdf)
+
+- Regarding disbursement of funds amounting to Rs.300.00 Crore to Maharashtra State Road Transport Corporation as reimbursement of concessional price for June, 2024...\
+  [202408021732272929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021732272929.pdf)
+
 ## Miscellaneous
 - Fixing the terms of reference of the inquiry committee appointed to conduct a high-level inquiry into the incident of illegal Hoarding collapse at Ghatkopar, Mumbai.\
   [202407291503384429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291503384429.pdf)
@@ -40,6 +46,9 @@
 
 - Mr. Tushar Mehta, Solicitor General of India on behalf of the Government of Maharashtra Regarding sanction of professional fee to him in the case of appearing before the Hon. Supreme Court.\
   [202408011556318429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011556318429.pdf)
+
+- Regarding the approval of the renewal of the agreement of leased premises for State Police Complaints Authority at Cooperage Exchange Building, Mumbai.\
+  [202408021603158829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021603158829.pdf)
 
 ## Personnel
 - Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
