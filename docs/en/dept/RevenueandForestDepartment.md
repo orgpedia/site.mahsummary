@@ -201,5 +201,89 @@
 - Regarding Promotion in  Deputy Director of Land Records cadre\
   [202408021649014719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021649014719.pdf)
 
+- Transfer of Officers in Tehsildar Cadre (Amravati Division)\
+  [202408031924113619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031924113619.pdf)
+
+- Appointment by deputation Smt. Smita Mohite, Tehsildar\
+  [202408031931125819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031931125819.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202408031945141219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031945141219.pdf)
+
+- Appointment by deputation Mr. Aruna Jadhav, Tehsildar\
+  [202408031900109219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031900109219.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Nagpur Division)\
+  [202408031912248219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031912248219.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer... Konkan Division\
+  [202408032044257819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032044257819.pdf)
+
+- Appointment by deputation Mr. Vijay Talekar, Tehsildar\
+  [202408031938467719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031938467719.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202408031938220419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031938220419.pdf)
+
+- Appointment by deputation Narendra Kulkarni, Tehsildar\
+  [202408031906002219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031906002219.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Kokan Division)\
+  [202408031918367519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031918367519.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202408031941097919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031941097919.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer... Chhatrapati Sambhajinagar\
+  [202408032028432119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032028432119.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Pune Division)\
+  [202408031908422219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031908422219.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer... Amravati Division\
+  [202408032021012519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032021012519.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer... Nagpur Division\
+  [202408032044310319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032044310319.pdf)
+
+- Appointment by deputation Mr. Vikas Naik, Deputy Collector (Land Acquisition) Metrocentre-3 Panvel on deputation to the post of Joint Chief Executive Officer, Maharashtra State Innovation Society, Skills, Employment, Entrepreneurship and Innovation Department...\
+  [202408032036495719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032036495719.pdf)
+
+- Appointment by deputation Shri.Rahul Sarang, Tehsildar\
+  [202408031916112719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031916112719.pdf)
+
+- Appointment by deputation Smt Shilpa Kamthe, Tehsildar\
+  [202408031923113819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031923113819.pdf)
+
+- Appointment by deputation Mr. Ravindra Ranjane, Tehsildar\
+  [202408031912276919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031912276919.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Chhatrapati Sambhajinagar Division)\
+  [202408031859004719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031859004719.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer... Nashik Division\
+  [202408032049044119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032049044119.pdf)
+
+- Appointment by deputation Mr. Hanumant Jagtap, Tehsildar\
+  [202408031943214419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031943214419.pdf)
+
+- Appointment by deputation Smt Sarika Kadam, Tehsildar\
+  [202408031927062219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031927062219.pdf)
+
+- Transfer of Officers in Tehsildar Cadre (Nashik Division)\
+  [202408031929587319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031929587319.pdf)
+
+- Appointment by deputation Smt Varsha Manale, Tehsildar\
+  [202408031919332119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031919332119.pdf)
+
+- Appointment by deputation Mr. Prashanthi Mane, Tehsildar\
+  [202408031908533919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031908533919.pdf)
+
+- Posting of Officers in Sub Collector Cadre by Transfer... Pune Division\
+  [202408032022232319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408032022232319.pdf)
+
+- Appointment by deputation Mr. Ayub Tamboli, Tehsildar\
+  [202408031935122219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408031935122219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
