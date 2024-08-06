@@ -1,64 +1,17 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 29 July 2024 - 03 August 2024
+**Date Range**: 05 August 2024 - 10 August 2024
 
 
 ## Funds
-- Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, Central share of the first installment of funds for Scheduled Tribes to implement the Assistance for Improvements in Agricultural Extension Programs (ATMA) Scheme of the State for the year 2024-25 is Rs. 70.50 lakhs and State share Rs. 47.00 lakhs for the total amount of Rs.117.50 lakhs for the current year.\
-  [202407291331324401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291331324401.pdf)
+- Regarding the change in the scheme Raje Yashwantrao Holkar Mahamesh Yojana...\
+  [202408051734577601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051734577601.pdf)
 
-- Regarding providing financial support to cotton and soybean farmers in Kharif season of 2023.\
-  [202407291753274401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291753274401.pdf)
+- Regarding disbursement of the first installment of funds for the Scheduled Caste category under the Rashtiya Krushi Vikas Yojana (RKVY) for the implementation of the Paramparagat Krushi Vikas Yojana (PKVY) in the year 2024-25.\
+  [202408051527347801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051527347801.pdf)
 
-- Regarding additional administrative approval for Capital Seed component for the year 2024-25 under Prime Minister Scheme for Formalization of Micro Food Enterprises (PMFME)\
-  [202407301740279401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301740279401.pdf)
-
-- To give Administrative grant for Implementation of Crop Pest Surveillance and Advisory Project (CROPSAP) scheme for management of pest and diseases on major crops in the state.\
-  [202407301827173701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301827173701.pdf)
-
-- Under the Agricultural Extension sub-mission of the National Agricultural Extension and Technology Mission (NMAET), the first installment of Rs. Regarding approving the disbursement of funds amounting to 147.50 lakhs in the current year..\
-  [202407301526434801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301526434801.pdf)
-
-- Release of Rs.85.00 lakh. grant under RKVY- Per Drop More Crop (Micro Irrigation), (SCSP category) for FY 2024-25.\
-  [202407311456503501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311456503501.pdf)
-
-- Regarding approving the media plan for the promotion and publicity of the Department of Agriculture.\
-  [202407311301569601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311301569601.pdf)
-
-- Release of Rs.13.15 Cr. grant under RKVY- Per Drop More Crop (Micro Irrigation), (SCSP category) for FY 2024-25.\
-  [202407311500146301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311500146301.pdf)
-
-- Regarding approval of media plan for promotion and publicity of animal husbandry department..\
-  [202408021722068501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021722068501.pdf)
-
-## Miscellaneous
-- June 2022 to August 2022 - Taluka Multiplication seed farm of Dumri Dist.Nagpur, Pending Rs.66,662/- under Major head- 2401 0261 -item  (21) Materials and Supplies Regarding obtaining administrative sanction for payment.\
-  [202407291205017001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291205017001.pdf)
-
-- Regarding establishment of District Animal Welfare Committee and State Animal Welfare Coordinating Committee in the districts of the state.\
-  [202407291444545501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291444545501.pdf)
-
-- Taluka Seed Multiplication farm, Dumri Dist.Nagpur payment of  December 2022 to February 2023 Major head 2401 0261- under the head of Wages  (02) Pending payment of Rs.15,000/- Regarding obtaining administrative approval.\
-  [202407291508546801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291508546801.pdf)
-
-- Regarding provision of various 03 new Heads of Accounts under Tribal Sector Implementation Scheme under Centrally Sponsored Animal Health  Disease Control Program (LH  DCP).\
-  [202407301252413901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301252413901.pdf)
-
-- Release of fund for the implementation of Hon. Balasaheb Thackeray (Haridra) Research and Training Center in Hingoli District in 2024-25\
-  [202407301226025001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301226025001.pdf)
-
-- Organisation of Animal Husbandry Fortnight from August 1, 2024 to August 15, 2024.\
-  [202407311656184201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311656184201.pdf)
-
-## Personnel
-- Regarding posting of officers in Maharashtra Agricultural Service, Group-B Cadre\
-  [202407301609387701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301609387701.pdf)
-
-- Regarding giving administrative approval for implementation of 100 per cent centrally sponsored scheme to improve crop statistics in the state in the year 2024-25.\
-  [202407301749306101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301749306101.pdf)
-
-- Commissioner, Government Milk Chilling Center under Dairy Development Department, survey no. Regarding transfer of 1 acre land at 426 to Revenue and Forest Department...\
-  [202408011748497001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011748497001.pdf)
+- Regarding disbursement of the first installment of funds for the Scheduled Tribes category under the  Rashtiya Krushi Vikas Yojana (RKVY) for the implementation of the Paramparagat Krushi Vikas Yojana (PKVY) in the year 2024-25.\
+  [202408051524031701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051524031701.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

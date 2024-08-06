@@ -1,43 +1,24 @@
 # Tribal Development Department
 
-**Date Range**: 29 July 2024 - 03 August 2024
+**Date Range**: 05 August 2024 - 10 August 2024
 
 
 ## Funds
-- To release grant for the scheme of  Jal Jeevan Mission (State Share 50) under the TSP in financial year 2024-25.  state share( CRC 2215 A061)\
-  [202407221118471324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118471324.pdf)
+- To release grant for the scheme of  Construction of Ashram school (OTSP) under the TSP in financial year 2024-25. CRC -4225 1118\
+  [202408011243104424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011243104424.pdf)
 
-- To release grant for the scheme of major head of general education under the TSP in the financial year 2024-25. (CRC 2202 1901, 2202 1948  2202 H973)\
-  [202407221118518424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407221118518424.pdf)
+- To release grant for the scheme of Construction of English Medium Tribal School under the TSP in financial year 2024-25. (CRC 4225 0532)\
+  [202408011242483924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242483924.pdf)
 
-- Regarding the approval of development works under the scheme for provision of basic facilities within villages ( 2225 D 743) from provision for Thakkar Bappa Adivasi Vasti Sudhar Yojana for the financial year 2024-25. (Integrated Tribal Development Project, Dewari, District Gondia)\
-  [202408021727169424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021727169424.pdf)
+- To release grant for the scheme of Construction of Hostels (OTSP)  under the TSP in financial year 2024-25. CRC 4225 1092\
+  [202408011242588024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242588024.pdf)
+
+- To release grant for the scheme of Construction - General Pol Accommodation.(Scheme) under the TSP in financial year 2024-25. CRC -4059 0233.\
+  [202408011242433924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242433924.pdf)
 
 ## Miscellaneous
-- Under Tribal Development Department, Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Kalwan under Shri Kapaleshwar Shikshan Prasarak Mandal Talwade Digar Vdara operated subsidized ashram school Palasadare, Tt. Malegaon, Dist. Regarding giving approval to Ashram School Nashik to start classes from class 8th to 10th from the academic year 2024-25.\
-  [202407301658123824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301658123824.pdf)
-
-- Regarding approval of scheme guidelines for implementing the scheme Comprehensive Dental Treatment For Students Of Ashram Schools sanctioned under the Special Central Assistance Scheme.\
-  [202407301438138824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301438138824.pdf)
-
-- Under Tribal Development Department Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Nashik, under Mahatma Phule Multipurpose Institution, Jayanagar, Tt. Shahada, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Nandurbar Vdara Aided Primary and Secondary Ashram School Mahiravani, Dist.Nashik.\
-  [202407311849150224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311849150224.pdf)
-
-- Regarding providing basic facilities to the tribal people.\
-  [202408011235553024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011235553024.pdf)
-
-- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and Adarsh Samata Shikshan Prasarak Mandal under A.A.V.P., Kalwan, Alangun, Tt. Surgana, Dist. Nashik Vdara Subsidized Ashram School Khirdi, Tt. Surgana, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Ashram School, Nashik from the academic year 2024-25.\
-  [202408011713482824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011713482824.pdf)
-
-- To release grant for the scheme of committed expenditure scheme under the TSP in financial year 2024-25.\
-  [202408011242331024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242331024.pdf)
-
-- To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2024-25. (Scheme expenditure-BCW schemes)\
-  [202408011242283224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242283224.pdf)
-
-## Personnel
-- To release grant for  Centrally Sponsored Schemes under the Annual Tribal Component Program 2024-25.\
-  [202408011242223124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011242223124.pdf)
+- Regarding the classification of works for maintenance and repair schemes of Government Ashram Schools/ Hostel buildings in Tribal Sub-Plan Area (TSP) as well as Out-of-Tribal Sub-Plan Area (OTSP) under the Construction Management Cell of Tribal Development Department.\
+  [202408051544421524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051544421524.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

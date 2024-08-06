@@ -1,43 +1,25 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 29 July 2024 - 03 August 2024
+**Date Range**: 05 August 2024 - 10 August 2024
 
 
 ## Funds
+- Regarding lifting of moratorium on works under Vasantrao Naik Tanda Vasti Improvement Scheme in Nanded District.\
+  [202408051437373034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051437373034.pdf)
+
 - Regarding making funds available for administratively sanctioned works in the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
-  [202407291530384234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291530384234.pdf)
-
-- Regarding installation of modern Green Writing Board, Mathematical Drawing Equipment Box in Primary, Secondary and Higher Secondary Ashram Schools of Vijabhaj Category run on subsidized basis under Other Backward Bahujan Welfare Department.\
-  [202407291928084234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291928084234.pdf)
-
-- Regarding giving administrative approval for provision of modern open gymnasium for physical growth of students in private aided 65 higher secondary ashram schools of Vijabhaj category under Other Backward Bahujan Welfare Department.\
-  [202407291924224434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291924224434.pdf)
-
-- Regarding installation of commercial washing machines in primary, secondary and higher secondary ashram schools of Vijabhaj category run on subsidized basis under Other Backward Bahujan Welfare Department.\
-  [202407291921564434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291921564434.pdf)
-
-- Regarding approval of the proposal of the beneficiaries recommended by the District Level Committee, Chandrapur under Punyashlok Ahilya Devi Holkar Gharkool Yojana.\
-  [202407291218254534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291218254534.pdf)
-
-- Regarding installation of modern Green Writing Board, Mathematical Drawing Equipment Box in Primary, Secondary and Higher Secondary Ashram Schools of Vijabhaj Category run on subsidized basis under Other Backward Bahujan Welfare Department.\
-  [202407311707482734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311707482734.pdf)
-
-- Regarding giving administrative approval for provision of modern open gymnasium for physical growth of students in private aided 65 higher secondary ashram schools of Vijabhaj category under Other Backward Bahujan Welfare Department.\
-  [202407311704206834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311704206834.pdf)
-
-- Regarding installation of commercial washing machines in primary, secondary and higher secondary ashram schools of Vijabhaj category run on subsidized basis under Other Backward Bahujan Welfare Department.\
-  [202407311700218034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311700218034.pdf)
-
-- Regarding disbursement of funds under Foreign Scholarship Scheme in the financial year 2024-25.\
-  [202408011604462934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011604462934.pdf)
+  [202408051440516534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051440516534.pdf)
 
 ## Miscellaneous
-- Regarding upgradation (conversion) of part-time librarians to full-time librarians in Vijabhaj category ashram schools run on subsidized basis under Other Backward Bahujan Welfare Department.\
-  [202408021758482634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021758482634.pdf)
+- Regarding setting up of a committee in Banjara dominated Nanded district to suggest works to be undertaken under Vasantrao Naik Tanda/Slum Improvement Scheme and Yashwantrao Chavan Mukta Vasahat Scheme.\
+  [202408051435233934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051435233934.pdf)
+
+- Regarding modification of the work in Ahmednagar district which has been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202408051439181634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051439181634.pdf)
 
 ## Personnel
-- Regarding approval of the proposal of the beneficiaries recommended by the District Level Committee, Chhatrapati Sambhajinagar under Punyashlok Ahilya Devi Holkar Gharkool Yojana.\
-  [202407291230354534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407291230354534.pdf)
+- Appointment and posting by deputation Smt. S. M. Nerlikar, Tehsildar\
+  [202408051448421534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051448421534.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
