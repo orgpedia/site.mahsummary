@@ -10,5 +10,8 @@
 - Regarding approving provision of services to Vehicle Drivers through External Mechanism from the contractor for office of the Controller Legal Metrology Department.\
   [202408051453581006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051453581006.pdf)
 
+- Regarding temporary promotion and posting of Assistant District Supply Officer, Group-B Cadre in Food, Civil Supplies and Consumer Protection Department...  Mr. Laxman Bapu Mane.\
+  [202408061839319306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061839319306.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

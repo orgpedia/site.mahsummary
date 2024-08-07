@@ -10,6 +10,18 @@
 - Rural Hospital, Talasari District Talasari Distt. Regarding approving the upgradation of Palghar from 30 bedded to 100 bedded Upazila Hospital as a special matter...\
   [202408051251582517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051251582517.pdf)
 
+- Regarding acceptance of resignation of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202407051117059117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051117059117.pdf)
+
+- Rural Hospital, Talasari District Talasari Distt. Regarding approving the upgradation of Palghar from 30 bedded to 100 bedded Upazila Hospital as a special matter...\
+  [202408061054201317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061054201317.pdf)
+
+- Regarding approving the upgradation of Primary Health Center Dolkhamb, T. Shahapur Dist. Thane to 30 bedded rural hospital as a special case...\
+  [202408061054152917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061054152917.pdf)
+
+- Regarding upgradation of sub-centre at Mauje Darphal sub-centre Madha, district Solapur to primary health centre..\
+  [202408061054051217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061054051217.pdf)
+
 ## Personnel
 - Provisional Seniority List dated 01.01.2024 for the post of Medical Officer (Ear, Nose, Throat Specialist) in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
   [202408051059152117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051059152117.pdf)

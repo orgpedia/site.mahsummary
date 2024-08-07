@@ -3,6 +3,10 @@
 **Date Range**: 05 August 2024 - 10 August 2024
 
 
+## Funds
+- Maharashtra State Ex-Servicemen Corporation for Security Guard Posts for Government College of Nursing (B.Sc.), Vishnupuri, Nanded. (MESCO) regarding approval of payment by the organization\
+  [202408061045161313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061045161313.pdf)
+
 ## Miscellaneous
 - Approval to start B. A. M.S. course with intake capacity of 100 students at Godavari Foundation, Godavari Hospital Building, Bhaskar Market, M.J. College Road, Jalgaon Managed by Dr. Gunwantrao Sarode Ayurveda Medical College, Hospital and Research Centre, Group No. 57/1, 57/2 Jalgaon Khurd, Jalgaon-Bhusawal Road, National Highway-6, Distt. Jalgaon\
   [202408051615317513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051615317513.pdf)

@@ -17,6 +17,12 @@
 - Regarding modification of the work in Ahmednagar district which has been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
   [202408051439181634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051439181634.pdf)
 
+- As per the recommendations in the report No. 56 submitted by the State Backward Classes Commission to the Government regarding inclusion, amendment and deletion of new castes in the list of Other Backward Classes, Exempt Castes, Nomadic Tribes and Special Backward Classes in the State of Maharashtra.\
+  [202408061249008834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061249008834.pdf)
+
+- As per the recommendations in the report no.56 submitted by the State Backward Classes Commission to the Government regarding new inclusion, amendment and deletion of castes in the lists of nomadic tribes in the state of Maharashtra.\
+  [202408061241518934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061241518934.pdf)
+
 ## Personnel
 - Appointment and posting by deputation Smt. S. M. Nerlikar, Tehsildar\
   [202408051448421534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051448421534.pdf)

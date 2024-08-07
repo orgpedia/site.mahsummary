@@ -10,5 +10,9 @@
 - Regarding disbursement of funds in the financial year 2024-25 for the scheme Increase in Human Development Index (Programme).  (Head of Account 2053A153)\
   [202408051244252722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051244252722.pdf)
 
+## Personnel
+- Regarding disbursement of funds of Centrally Sponsored Schemes under the Annual Scheduled Caste Upyojana 2024-25.\
+  [202408061153314122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061153314122.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
