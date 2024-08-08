@@ -22,6 +22,9 @@
 - Fund distribution of the financial year 2024-2025 for Gramsevak Training Center,Gargoti Kolhapur Budget Grants  Major Account Head - 24150321 (2nd installment salary)\
   [202408051740541420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051740541420.pdf)
 
+- Regarding transfer of land 6338.10 Sq.Mts in C.S.No.238/222/223/224/237 of Panchayat Samiti, Khed, Dist-Pune to the Revenue and Forest Department for classification to the Public Works Department for the purpose of constructing a new central administrative building.\
+  [202408061536125320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061536125320.pdf)
+
 ## Miscellaneous
 - State Level Consolidated Revised Final Seniority List dated 01.01.2023 of District Technical Service, Class-3 (Accounts) Cadre Assistant Accounts Officer in Zilla Parishad.\
   [202408051612248320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051612248320.pdf)
@@ -43,6 +46,9 @@
 
 - Fund distribution of the financial year 2024-2025 for 6 Government Gram Sevak Training Centers. Major  Account Head -24150624.  (2nd installment salary)\
   [202408051741052320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051741052320.pdf)
+
+- Corrigendum of consolidated state level final seniority list dated 01.01.2023 and dated 01.01.2024 of Junior Engineer in District Technical Service, Class-3 (Water Supply) cadre in Zilla Parishad\
+  [202408061657235120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061657235120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

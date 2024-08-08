@@ -10,6 +10,12 @@
 - Financial assistance of Rs 10 Crore to the state of Assam\
   [202408061256293019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061256293019.pdf)
 
+- Regarding disbursement of funds under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2024-25.\
+  [202408071246272619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071246272619...pdf)
+
+- Regarding giving administrative approval to the new building construction of the office of Joint Sub-Registrar Class-2, Chalisgaon-1, District-Jalgaon.\
+  [202408071713279119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071713279119.pdf)
+
 ## Miscellaneous
 - State Plan Year 2024-25 Establishment of Wildlife Sanctuaries (2406 2232) Current Affairs Proposal.\
   [202408051601454419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051601454419.pdf)
@@ -68,6 +74,15 @@
 
 - Regarding posting of officers in the cadre of Naib Tehsildar by transfer (Permanent) ( Amravati Division).\
   [202408061950553319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061950553319.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202408071748330619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071748330619.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202408071743481219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071743481219.pdf)
+
+- Mauje Ambad for expansion to Maharashtra Industrial Development Corporation, Pt. Dist. G.No. of Nashik. Area 2.14 out of 43. R and C.No. Area 13.86 out of 72. Regarding approving the provision of 16.00 hectares of government land free of charge.\
+  [202408071529295319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071529295319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

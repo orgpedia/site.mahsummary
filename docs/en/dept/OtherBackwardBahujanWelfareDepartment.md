@@ -10,6 +10,9 @@
 - Regarding making funds available for administratively sanctioned works in the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
   [202408051440516534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051440516534.pdf)
 
+- Regarding disbursement of funds under Foreign Scholarship Scheme during the financial year 2024-25\
+  [202408071423404434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071423404434.pdf)
+
 ## Miscellaneous
 - Regarding setting up of a committee in Banjara dominated Nanded district to suggest works to be undertaken under Vasantrao Naik Tanda/Slum Improvement Scheme and Yashwantrao Chavan Mukta Vasahat Scheme.\
   [202408051435233934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051435233934.pdf)

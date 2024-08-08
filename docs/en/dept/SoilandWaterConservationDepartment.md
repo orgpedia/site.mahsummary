@@ -1,30 +1,20 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 29 July 2024 - 03 August 2024
+**Date Range**: 05 August 2024 - 10 August 2024
 
 
-## Miscellaneous
-- Final seniority supplementary list dated 01.01.2019 of Sub Divisional Water Conservation Officer (Construction) Group-A in Soil and Water Conservation Department.\
-  [202407311402067126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311402067126.pdf)
+## Funds
+- Release of funds under GDGS SCHEME  to SOLAPUR\
+  [202408071753141026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071753141026.pdf)
 
-- Final seniority list dated 01.01.2020 of Sub Divisional Water Conservation Officer (Construction) Group-A cadre in Soil and Water Conservation Department.\
-  [202407311411316626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311411316626.pdf)
+- Release of funds under GDGS SCHEME  to AMARAVATI District\
+  [202408071750166826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071750166826.pdf)
 
-- Final seniority supplementary list dated 01.01.2021 of Sub Divisional Water Conservation Officer (Construction) Group-A in Soil and Water Conservation Department.\
-  [202407311410245326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311410245326.pdf)
+- Release of funds under GDGS SCHEME  to Nagpur District\
+  [202408071747514626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071747514626.pdf)
 
-- Final seniority supplementary list dated 01.01.2018 of Sub Divisional Water Conservation Officer (Construction) Group-A cadre in Soil and Water Conservation Department\
-  [202407311358265026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311358265026.pdf)
-
-## Personnel
-- Regarding Repartition of services of Mr.Rajendra Pandurang Dhum, Assistant Engineer Grade-1 to Water Resources Department...\
-  [202407301051264126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407301051264126.pdf)
-
-- Maharashtra Engineering (Civil) Services Examination 2021 recommended by Maharashtra Public Service Commission for posting of probationary candidates to the post of Sub-Divisional Water Conservation Officer (Civil) Group-A and other equivalent posts.\
-  [202408011720209526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011720209526.pdf)
-
-- Maharashtra Engineering (Civil) Service Examination 2021 Recommended by Maharashtra Public Service Commission regarding posting of probationary candidates to the post of Sub-Divisional Water Conservation Officer (Civil) Group-A and other equivalent posts (Partial Changes)\
-  [202408011721193126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408011721193126.pdf)
+- Release of funds under GDGS SCHEME  to BID District\
+  [202408071744085626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071744085626.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

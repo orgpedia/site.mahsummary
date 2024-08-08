@@ -14,5 +14,12 @@
 - Regarding the grant of confidential allowance at revised rates to the employees of the Confidential and Lottery Department at Government Central Press Mumbai.\
   [202408051533258310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051533258310.pdf)
 
+- Regarding Implementation of Central Governments revised guidelines of Micrositting for development of wind power projects in the state.....Corrigendum\
+  [202408071550406510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071550406510....pdf)
+
+## Personnel
+- Regarding extension of supernumerary post created for Shri.P.P.Nimje, Research Assistant in the office of N. M. Lokhande Maharashtra Institute of Labour Science, Mumbai.\
+  [202408071506520510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071506520510.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
