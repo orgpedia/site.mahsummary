@@ -13,6 +13,9 @@
 - Regarding disbursement of long term loans to backward class co-operative yarn mills... Regarding sanction of loan to cotton mills in the financial year 2024-25.\
   [202408071545259422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071545259422.pdf)
 
+- Regarding the amendments in the scheme Mukhyamantri Tirtha Darshan Yojana.\
+  [202408081753501722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081753501722.pdf)
+
 ## Personnel
 - Regarding disbursement of funds of Centrally Sponsored Schemes under the Annual Scheduled Caste Upyojana 2024-25.\
   [202408061153314122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061153314122.pdf)

@@ -25,6 +25,12 @@
 - Release of fund to implement Chief Minister Agriculture and Food Processing Scheme for the year 2024-25.\
   [202408071149391401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071149391401.pdf)
 
+- For administrative expenses under Pradhan Mantri Crop Insurance Scheme Rs. 19,02,50,000/- regarding disbursement of the amount.\
+  [202408081724043301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081724043301.pdf)
+
+- In the year 2024-25 Mr. Balasaheb Thackeray regarding distribution of funds of Rs.30.00 crores for agribusiness and rural projects....\
+  [202408081040566001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081040566001....pdf)
+
 ## Miscellaneous
 - Regarding approving the addition of Agricultural College, Babhulgaon, Yevla, Dist.Nashik on permanent unaided basis of Jagdamba Education Society, Yevla Dist.Yevla, Dist.Nashik under Mahatma Phule Agricultural University, Rahuri.\
   [202408061551181101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061551181101.pdf)
@@ -35,6 +41,12 @@
 
 - Regarding publication of final seniority list of Maharashtra Agricultural Service, Group-A cadre as on 1/1/2004.....\
   [202408071557536901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071557536901.pdf)
+
+- Regarding appointment on deputation to the post of Registrar, Vasantrao Naik Marathwada Agricultural University, Parbhani. Mr. Santosh Sitaram Venikar, Deputy Collector\
+  [202408081903416401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081903416401.pdf)
+
+- Release fund of Scheduled Caste category for implementation of National Horticulture Mission in the year 2024-25 under Krishi Unnati Yojana - Integrated Horticulture Development Mission (MIDH)- (Second Installment)\
+  [202408081359190301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081359190301.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

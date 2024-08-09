@@ -23,6 +23,15 @@
 - State Plan Year 2024-25 Dr. Regarding disbursement of funds under Shyama Prasad Mukherjee Jan-Forest Development Scheme (2406-8711).\
   [202408051604432319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051604432319.pdf)
 
+- Regarding provision of funds for expenditure on Talathi training programs under the State Training Policy.....\
+  [202408081104011219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081104011219.pdf)
+
+- For the year 2024-25 under account head 2245 2194 on minus (-) letter of authorization to authorize withdrawal of amount from treasury.\
+  [202408081802149919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081802149919.pdf)
+
+- Regarding grant of administrative approval to 2 estimates of construction of chainlink facing in connection with translocation of wildlife at Pench Tiger Reserve.\
+  [202408081538549319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081538549319.pdf)
+
 ## Personnel
 - Posting of Officers in Deputy Collector Cadre by Transfer...\
   [202408062024004819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408062024004819...pdf)
@@ -83,6 +92,9 @@
 
 - Mauje Ambad for expansion to Maharashtra Industrial Development Corporation, Pt. Dist. G.No. of Nashik. Area 2.14 out of 43. R and C.No. Area 13.86 out of 72. Regarding approving the provision of 16.00 hectares of government land free of charge.\
   [202408071529295319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071529295319.pdf)
+
+- Regarding helping citizens affected by natural calamities such as heavy rains and floods during the period from June to October, 2024 at special rates....\
+  [202408081753382919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081753382919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

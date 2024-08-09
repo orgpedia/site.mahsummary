@@ -10,6 +10,9 @@
 - Nagarothan Mahabhiyan - Administrative Approval for Indapur Municipal Council Sewerage Project.\
   [202408071113540825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071113540825.pdf)
 
+- Nagarothan Mahabhiyan - Administrative Approval for Nilanga Municipal Council Sewerage Project.\
+  [202408071746405725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071746405725.pdf)
+
 ## Miscellaneous
 - Regarding the creation of a post to make the post available on deputation from the cadre of Director, Urban Design and Valuation at the establishment of Mumbai Metropolitan Region Development Authority.\
   [202408061650251825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061650251825.pdf)

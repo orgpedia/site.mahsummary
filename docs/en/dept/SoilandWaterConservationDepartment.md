@@ -16,5 +16,15 @@
 - Release of funds under GDGS SCHEME  to BID District\
   [202408071744085626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071744085626.pdf)
 
+- Release of funds under GDGS SCHEME  to Nanded District\
+  [202408081731424426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081731424426.pdf)
+
+- Release of funds under GDGS SCHEME  to AKOLA District\
+  [202408081727222926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081727222926.pdf)
+
+## Personnel
+- Regarding the transfer of 5 schemes under Government head to the head of Maharashtra Water Conservation Corporation, Chhatrapati Sambhajinagar\
+  [202408081734382426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081734382426.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

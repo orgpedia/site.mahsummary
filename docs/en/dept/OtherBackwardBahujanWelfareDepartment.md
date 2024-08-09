@@ -13,6 +13,9 @@
 - Regarding disbursement of funds under Foreign Scholarship Scheme during the financial year 2024-25\
   [202408071423404434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071423404434.pdf)
 
+- Regarding disbursement of funds sanctioned under 31 Subsidiary Grants (Non-Salary) for the financial year 2024-25 to Mahajyoti Jyotiba Phule Research and Training Institute (Mahajyoti), Nagpur...\
+  [202408081700530334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081700530334.pdf)
+
 ## Miscellaneous
 - Regarding setting up of a committee in Banjara dominated Nanded district to suggest works to be undertaken under Vasantrao Naik Tanda/Slum Improvement Scheme and Yashwantrao Chavan Mukta Vasahat Scheme.\
   [202408051435233934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051435233934.pdf)
@@ -25,6 +28,9 @@
 
 - As per the recommendations in the report no.56 submitted by the State Backward Classes Commission to the Government regarding new inclusion, amendment and deletion of castes in the lists of nomadic tribes in the state of Maharashtra.\
   [202408061241518934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061241518934.pdf)
+
+- With regard to declaring withdrawal and disbursement as well as control officer for disbursement of funds for running hostels for students belonging to Other Backward Classes, Freed Castes, Nomadic Tribes and Special Backward Classes...\
+  [202408081456594634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081456594634.pdf)
 
 ## Personnel
 - Appointment and posting by deputation Smt. S. M. Nerlikar, Tehsildar\

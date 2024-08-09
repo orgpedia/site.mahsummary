@@ -10,6 +10,9 @@
 - Regarding establishment of new Railway Police Station at Ratnagiri on Konkan Railway, creation of posts therefor and approval of recurring and non-recurring expenditure incurred thereon.\
   [202408071525142329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071525142329.pdf)
 
+- Regarding reimbursement of concessional values received by Maharashtra State Road Transport Corporation and book adjustment of Rs.82.34 crores of passenger tax payable to Govt.\
+  [202408081730132429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081730132429.pdf)
+
 ## Miscellaneous
 - Regarding appointment of Nodal Officers at State level and Constituent level for Narcotics Control.\
   [202408061647091529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061647091529.pdf)
@@ -28,6 +31,9 @@
 
 - Sanctioning of professional Fees to Adv. Ajay Misar as a Special Public Prosecutor for conducting the case in the Sessions Court, Alibag Raigad and Court of Chief Judicial Magistrate at Alibag-Raigad which is arising out of C.R.No. 59/2018 registered with the Alibag Police Station.\
   [202408071622220429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071622220429.pdf)
+
+- Sanctioning of professional Fees to Adv.Amin Solkar as a Special Public Prosecutor for conducting the case in the Honble High Court which is arising out of C.R.No. 568/2020 registered with the Nagpada Police Station.\
+  [202408081427494029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081427494029.pdf)
 
 ## Personnel
 - Regarding transfers/postings of S.P.S. Officers\

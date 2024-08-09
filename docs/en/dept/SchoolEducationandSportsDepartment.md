@@ -14,6 +14,9 @@
 - Regarding disbursement of the first installment of the Scheduled Castes Upyojana (SCP) for the Centrally Sponsored Samajra Shiksha (Primary Education, Secondary Education and Teacher Education) programme. (Central Share and State Share).\
   [202408071438592621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071438592621.pdf)
 
+- Promotion to the post of Superitendent in General State Service Group-B (Administrative Branch).\
+  [202408081427549421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081427549421.pdf)
+
 ## Personnel
 - To release grant for the scheme of Construction of Hostels (TSP)  under the TSP in financial year 2024-25. CRC 4225 1083\
   [202408051738171621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051738171621.pdf)

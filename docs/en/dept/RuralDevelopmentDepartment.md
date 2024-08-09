@@ -50,5 +50,8 @@
 - Corrigendum of consolidated state level final seniority list dated 01.01.2023 and dated 01.01.2024 of Junior Engineer in District Technical Service, Class-3 (Water Supply) cadre in Zilla Parishad\
   [202408061657235120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061657235120.pdf)
 
+- Administrative Approval for Construction of Residential Quarters for Officers and                  Staff of Panchayat Samiti, Navapur, (District Nandurbar)\
+  [202408071505067320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071505067320.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

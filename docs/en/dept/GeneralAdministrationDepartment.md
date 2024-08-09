@@ -10,6 +10,9 @@
 - Integrated Probationary Training Program For the financial year 2024-25, disbursement of grants for the four months of July to October, 2024 under the head 36-Assistance Grants (Pay) for combined probationary training program to Vanamati, Nagpur for the financial year 2024-25.\
   [202408071509228907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071509228907.pdf)
 
+- Supplementary Statement of Expenditure for the year 2024-25 presented in the June-July, 2024 Session of the Legislature.\
+  [202408081703105607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081703105607.pdf)
+
 ## Miscellaneous
 - Desk Officer training  programme (Year-2024)\
   [202408051459061607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051459061607......pdf)

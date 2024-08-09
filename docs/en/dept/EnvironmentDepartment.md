@@ -124,5 +124,8 @@
 - Regarding giving administrative approval to the Detailed Project Report (DPR) submitted by the local bodies for the works to be undertaken out of the prize money received under Majhi Vasundhara Abhiyan 3.0.  Khanivade Gram Panchayat\
   [202408061321464504.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061321464504.pdf)
 
+- Regarding giving administrative approval to the Detailed Project Report (DPR) submitted by the local bodies for the works to be undertaken out of the prize money received under Majhi Vasundhara Abhiyan 3.0.  Shinde Gram Panchayat\
+  [202408081148372204.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081148372204.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

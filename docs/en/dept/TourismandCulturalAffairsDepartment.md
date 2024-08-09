@@ -13,5 +13,12 @@
 - Regarding giving administrative approval to Darshanika Department for conducting a seminar on Gazetteers : Past, Present and Future and the expenses incurred for the same...\
   [202408051522306323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051522306323.pdf)
 
+- Regarding sanction of purchase expenditure of Patrika (Magazines) by Maharashtra State Hindi Sahitya Akademi\
+  [202408071537558823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071537558823.pdf)
+
+## Miscellaneous
+- Regarding the inclusion of the name of a non-government member in the selection committee for the art field of Kirtan under the State Cultural Award Scheme.\
+  [202408081542135123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081542135123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

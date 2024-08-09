@@ -7,6 +7,9 @@
 - Central Govt Sponsored A.N.M. and G.N. M. Regarding obtaining administrative approval for the purchase of ten 32 seater non AC buses from the grant available from the Central\
   [202408071515484117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071515484117.pdf)
 
+- Regarding  administrative approval for the purchase of  Kapad-chopad (Linen) for District/ Divisional Referral Services/ Female/ General/ Upazila/ Rural/ Cottage/ Trauma and other hospitals under the control of Joint Director Health Services, Hospitals (State) Mumbai account head 2210 0146 ,21- Supply and material of amount Rs. 10,50,16,600/- in the financial year 2024-25\
+  [202408081704413217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081704413217.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of sub-centre at Mauje Darphal sub-centre Madha, district Solapur to primary health centre..\
   [202408051251515317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051251515317.pdf)
@@ -35,6 +38,21 @@
 - Regarding approval of new Primary Health Center at Mauje Parla, Taluka Vaijapur, District Chhatrapati Sambhaji Nagar.\
   [202407111214584717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407111214584717.pdf)
 
+- Regarding upgradation of 100 bedded Sub district to 200 bedded General Hospital at Tumsar, Dist. Bhandara.\
+  [202407311522533417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311522533417.pdf)
+
+- Regarding upgradation of primary health center to 30 bedded rural hospital at Varathi, Ta. Mohadi, Dist. Bhandara.\
+  [202407311522593517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311522593517.pdf)
+
+- Regarding upgradation of 100 bed Sub-district Hospital to 200 bed General Hospital  at Chopra Dist. Jalgaon.\
+  [202407311523127617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311523127617.pdf)
+
+- Regarding upgradation of 30 bedded rural hospital to 50 bedded Sub district hospital at Mohadi, dist. Bhandara.\
+  [202407311523070417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311523070417.pdf)
+
+- Regarding approval as a special matter for establishment of 1000 bedded general hospital with all facilities at  Mauje Pandharpur, Dist. Solapur\
+  [202408081719555717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081719555717.pdf)
+
 ## Personnel
 - Provisional Seniority List dated 01.01.2024 for the post of Medical Officer (Ear, Nose, Throat Specialist) in Specialist Cadre in Maharashtra Medical  Health Service, Group-A.\
   [202408051059152117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051059152117.pdf)
@@ -44,6 +62,9 @@
 
 - Dr. Regarding Voluntary Retirement of Ashok Tamanna Sanadi, Medical Officer, Group-A\
   [202407051117279117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407051117279117.pdf)
+
+- Mauje Naladurg, Tal. Tuljapur, Dist. Primary Health Center Mauje Masala (Khurd) at Dharashiv, Htt. Tuljapur, Dist. Regarding relocation to Dharashiv.\
+  [202408071709275417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071709275417.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
