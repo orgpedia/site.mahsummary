@@ -17,6 +17,12 @@
 - Promotion to the post of Superitendent in General State Service Group-B (Administrative Branch).\
   [202408081427549421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081427549421.pdf)
 
+- Maharashtra Education Service, Group-A (Education Empowerment Branch) on completion of the probationary period for the post of Senior Lecturer in the cadre.\
+  [202408091520254621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091520254621.pdf)
+
+- Regarding Completion of Probationary Period of Officers Appointed Directly in Maharashtra Education Service Group-B Cadre\
+  [202408091520401121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091520401121.pdf)
+
 ## Personnel
 - To release grant for the scheme of Construction of Hostels (TSP)  under the TSP in financial year 2024-25. CRC 4225 1083\
   [202408051738171621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051738171621.pdf)

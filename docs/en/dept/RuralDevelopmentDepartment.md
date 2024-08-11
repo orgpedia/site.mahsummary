@@ -25,6 +25,9 @@
 - Regarding transfer of land 6338.10 Sq.Mts in C.S.No.238/222/223/224/237 of Panchayat Samiti, Khed, Dist-Pune to the Revenue and Forest Department for classification to the Public Works Department for the purpose of constructing a new central administrative building.\
   [202408061536125320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061536125320.pdf)
 
+- Regarding implementation of Awas Yojana (Rural) in the state for eligible families belonging to primitive tribes (Kolam, Katkari and Madia Gond) under the Centrally sponsored Pradhan Mantri Janjati Adivasi Nyaya Mahabhiyan (PM-JANMAN).\
+  [202408091136013320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091136013320.pdf)
+
 ## Miscellaneous
 - State Level Consolidated Revised Final Seniority List dated 01.01.2023 of District Technical Service, Class-3 (Accounts) Cadre Assistant Accounts Officer in Zilla Parishad.\
   [202408051612248320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051612248320.pdf)
@@ -52,6 +55,96 @@
 
 - Administrative Approval for Construction of Residential Quarters for Officers and                  Staff of Panchayat Samiti, Navapur, (District Nandurbar)\
   [202408071505067320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071505067320.pdf)
+
+- Administrative approval for Furniture and Sub Work of  Panchayat Samiti Biloli (Dist. Nanded)\
+  [202408071504492520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071504492520.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627073620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627073620.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629420320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629420320.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628249520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628249520.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629135220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629135220.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627129620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627129620.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629182120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629182120.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628359720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628359720.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627328520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627328520.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628459720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628459720.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628571220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628571220.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627175620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627175620.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629340920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629340920.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627519620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627519620.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628409120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628409120.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629281520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629281520.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627219820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627219820.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629226320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629226320.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627271720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627271720.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627462220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627462220.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627023820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627023820.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629086820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629086820.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628312620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628312620.pdf)
+
+- Regarding the appointment of 2 non-government members in the committee under the chairmanship of Chief Executive Officer, Zilla Parishad, Thane under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091626417020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091626417020.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091626504520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091626504520.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091626563420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091626563420.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629380220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629380220.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091629021320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091629021320.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091628519720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091628519720.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee under the chairmanship of Collector and Chief Executive Officer under Sant Sewalal Maharaj Banjara / Laman Tanda Samrudhi Yojana.\
+  [202408091627401520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091627401520.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

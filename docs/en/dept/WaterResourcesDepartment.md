@@ -25,6 +25,19 @@
 - Mauje Borgaon, Walwa, Dist. Regarding grant of administrative approval to the work proposal of flood protection wall on the right bank of river Krishna in Bramhananda Maharaj Mutt along river Krishna at Sangli.\
   [202408081612035327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081612035327.pdf)
 
+- First Revised Administrative Approval to the Biladi M.I.Scheme, Tal.Dist.Nandurbar having the estimated cost of Rs.13.25 crore.\
+  [202408091411468827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091411468827.pdf)
+
+- Administrative approval under special repairs of K.T.Weir Singanhaalli Tal Jat Dist Sangli.\
+  [202408091451109327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091451109327.pdf)
+
+- Administrative approval under special repairs for repair work of dam and waste weir of Sonpethwadi M.I. tal Mukhed Dist Nanded\
+  [202408091451039927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091451039927.pdf)
+
+## Miscellaneous
+- Promotion of the Technical Assistant and Sub-overseers as overseer.\
+  [202408091251595327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091251595327.pdf)
+
 ## Personnel
 - Regarding temporary promotion from the cadre of Superintending Engineer (Mechanical) to the cadre of Chief Engineer (Mechanical).\
   [202408051813561727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051813561727.pdf)
@@ -40,6 +53,9 @@
 
 - Chief Engineer, Water Resources Department, Nagpur under Regional Minor Irrigation Cell, Nagpur on fixed temporary establishment from 01.03.2024 to dt. Regarding getting extension till 31.08.2024.\
   [202408081536000727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081536000727.pdf)
+
+- Adminstrative Approval under Special Repairs of Godavari Right Bank canal Distributory No 19  of Nandur madmeshwar project on  Godavari River.\
+  [202408091458523527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091458523527.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

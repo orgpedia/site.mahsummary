@@ -23,9 +23,15 @@
 - Maharashtra State Khadi and Village Industries Board regarding appointment on deputation to the post of Joint Chief Executive Officer...\
   [202408071707090810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071707090810.pdf)
 
+- Provisional Seniority List for Assistant Electrical Inspector, Group-A as on dated 01/01/2024.\
+  [202408091659079110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091659079110.pdf)
+
 ## Personnel
 - Regarding extension of supernumerary post created for Shri.P.P.Nimje, Research Assistant in the office of N. M. Lokhande Maharashtra Institute of Labour Science, Mumbai.\
   [202408071506520510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071506520510.pdf)
+
+- Regarding extension of time to join the post of Deputy Director, Group-A and Assistant Director, Group-B sponsored by Maharashtra Public Service Commission on establishment of Directorate of Industrial Safety and Health\
+  [202408091634389710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091634389710.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

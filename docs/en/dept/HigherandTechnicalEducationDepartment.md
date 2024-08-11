@@ -91,5 +91,17 @@
 - Regarding the approval of the Government to start the new post graduate degree course from the academic year 2023-24 to the existing unaided institution as per the approval of Pharmacy Council of India, New Delhi.\
   [202408081837192408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081837192408.pdf)
 
+- Regarding the approval of the Government to increase the admission capacity of the Post Graduate Course in the existing Institute of Pharmacy from the academic year 2023-24 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202408091711513508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091711513508.pdf)
+
+- A committee to give hearing A.R., D.R. in Mumbai University.\
+  [202408091622568008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091622568008.pdf)
+
+- Regarding approval of the Government to change the name of the existing institute from the academic year 2024-25 as per approval of Pharmacy Council of India, New Delhi.\
+  [202408091714345808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091714345808.pdf)
+
+- Regarding Termination of Probationary Period.  Assistant Secretary (Technical), Maharashtra State Board of Technical Education, Mumbai.\
+  [202408091745171608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091745171608.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

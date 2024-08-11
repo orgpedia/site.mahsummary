@@ -22,6 +22,10 @@
 - Release of funds under GDGS SCHEME  to AKOLA District\
   [202408081727222926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081727222926.pdf)
 
+## Miscellaneous
+- Regarding constitution of Departmental Review Committee.\
+  [202408091742189626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091742189626.pdf)
+
 ## Personnel
 - Regarding the transfer of 5 schemes under Government head to the head of Maharashtra Water Conservation Corporation, Chhatrapati Sambhajinagar\
   [202408081734382426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081734382426.pdf)

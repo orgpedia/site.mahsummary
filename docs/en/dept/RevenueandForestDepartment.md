@@ -16,6 +16,18 @@
 - Regarding giving administrative approval to the new building construction of the office of Joint Sub-Registrar Class-2, Chalisgaon-1, District-Jalgaon.\
   [202408071713279119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071713279119.pdf)
 
+- Requisition No. C-7 Principal Head 2406 Forestry and Wildlife, 01 Forestry, 101 (11) Forest Conservation and Development (11) (29) 52 Empowerment of Mobile Team (State) (2406 2161) Out of the funds available under the objective 50-Other Expenditure Funds amounting to Rs.55.14 lakhs, redistributed under the objective 51- Motor Vehicles, for purchase of 06 new vehicles instead of 06 vehicles written off.\
+  [202408091118029719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091118029719.pdf)
+
+- Regarding procurement of materials for response systems of ARMY, NDRF and SDRF for search and rescue operations from funds received for capacity building and preparedness.\
+  [202408091814196319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091814196319.pdf)
+
+- Regarding granting administrative approval to implement Apada Mitra training program in the remaining 16 districts of the state from funds received for capacity building and preparedness.\
+  [202408091932470919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091932470919.pdf)
+
+- Regarding procurement of materials for the District Disaster Management Authority for search and rescue operations from the funds received for capacity building and preparedness.\
+  [202408091820140219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091820140219.pdf)
+
 ## Miscellaneous
 - State Plan Year 2024-25 Establishment of Wildlife Sanctuaries (2406 2232) Current Affairs Proposal.\
   [202408051601454419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051601454419.pdf)
@@ -31,6 +43,12 @@
 
 - Regarding grant of administrative approval to 2 estimates of construction of chainlink facing in connection with translocation of wildlife at Pench Tiger Reserve.\
   [202408081538549319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081538549319.pdf)
+
+- Regarding implementation of the system and procedure of Virtual Personnel Deposit Account to the Drawing and Disbursing Officers for speedy disbursement and control of Subsidy Grants.\
+  [202408091327377019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091327377019.pdf)
+
+- Regarding calculation of occupancy price of the alternate land given to project affected persons of irrigation projects in the state\
+  [202408091155015519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091155015519.pdf)
 
 ## Personnel
 - Posting of Officers in Deputy Collector Cadre by Transfer...\
@@ -95,6 +113,15 @@
 
 - Regarding helping citizens affected by natural calamities such as heavy rains and floods during the period from June to October, 2024 at special rates....\
   [202408081753382919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081753382919.pdf)
+
+- Appointment by deputation Mr. Prashant Dhake, Deputy Collector and Mr. Regarding the appointment of Special Task Officer of the Legislative Assembly Speaker on the post of Deputy Director, Maharashtra Tourism Development Corporation, Konkan Division...\
+  [202408091648543419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091648543419.pdf)
+
+- Appointment by deputation Regarding appointment of Mrs. Vaishali Lambhate, Deputy Collector, CIDCO, Navi Mumbai as Deputy Collector-2 (Special Cell), Slum Rehabilitation Authority, Mumbai on deputation...\
+  [202408091648539319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091648539319.pdf)
+
+- Mauje Irshalwadi, Regarding providing administrative approval and funds for setting up a temporary shelter center for the survivors of landslides due to heavy rains at Khalapur.\
+  [202408091727357119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091727357119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

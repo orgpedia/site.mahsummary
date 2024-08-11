@@ -20,5 +20,8 @@
 - Regarding the inclusion of the name of a non-government member in the selection committee for the art field of Kirtan under the State Cultural Award Scheme.\
   [202408081542135123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081542135123.pdf)
 
+- Deod, And District Proposal for final notification to declare Katalshilp at Ratnagiri as a State Protected Monument.\
+  [202408091232112323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091232112323.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

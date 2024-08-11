@@ -25,6 +25,9 @@
 - To release grant for the scheme of  Maintenance Allowance to Students Studying in Sainik School (Scheme) under the TSP in financial year 2024-25. CRC (2225 F102)\
   [202408071026475024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071026475024.pdf)
 
+- To release grant for the scheme of Chief Minister Solar Agriculture Pump Scheme under the TSP in financial year 2024-25. (CRC 2810 0974)\
+  [202408071026530924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071026530924.pdf)
+
 ## Miscellaneous
 - Regarding the classification of works for maintenance and repair schemes of Government Ashram Schools/ Hostel buildings in Tribal Sub-Plan Area (TSP) as well as Out-of-Tribal Sub-Plan Area (OTSP) under the Construction Management Cell of Tribal Development Department.\
   [202408051544421524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051544421524.pdf)
@@ -43,6 +46,18 @@
 
 - To release grant for the scheme of district annual sub plan under the TSP in financial year 2024-25. Demand no T-9,T-10\
   [202408071026408724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071026408724.pdf)
+
+- Under Tribal Development Department Additional Commissioner, Tribal Development, Nagpur and A.A.V.P., Nagpur, under Jai Bhawani Multipurpose Education Institute, Umred, Distt. Nagpur Vdara Aided Tribal Primary / Secondary Ashram School, Mangrud, Tt. Bhiwapur, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School, Nagpur.\
+  [202408091606314524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091606314524.pdf)
+
+- Regarding the declaration of Drawing and Disbursing Officers as well as Controlling Officers.....\
+  [202408071026589524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071026589524.pdf)
+
+- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and Social Reform Committee under A.A.V.P., Kalwan, Distt. Nashik Vdara Subsidized Ashram School Navibej, Tt. Kalwan, Dist. Regarding giving approval to Ashram School Nashik to start classes from class 8th to 10th from the academic year 2024-25.\
+  [202408091603045524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091603045524.pdf)
+
+- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and A.A.V.P., Godavari Board of Education under Kalavan, Nashik Vdara-run Subsidized Ashram School Sheri, Tt. Deola, Dist. Regarding giving approval to Ashram School Nashik to start classes from 8th to 10th class from the academic year 2024-25.\
+  [202408091611553724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091611553724.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

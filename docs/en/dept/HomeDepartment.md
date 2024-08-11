@@ -35,6 +35,9 @@
 - Sanctioning of professional Fees to Adv.Amin Solkar as a Special Public Prosecutor for conducting the case in the Honble High Court which is arising out of C.R.No. 568/2020 registered with the Nagpada Police Station.\
   [202408081427494029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081427494029.pdf)
 
+- Of the Superintendent of Jail Department, District Jail Class-2/ Deputy Superintendent, Central Jail Cadre Officer. Regarding publication of revised final service seniority scale on 01.01.2023 and 01.01.2024.\
+  [202408091536279829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091536279829.pdf)
+
 ## Personnel
 - Regarding transfers/postings of S.P.S. Officers\
   [202408062009401029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408062009401029.pdf)

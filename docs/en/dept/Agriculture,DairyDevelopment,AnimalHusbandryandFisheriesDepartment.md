@@ -31,9 +31,24 @@
 - In the year 2024-25 Mr. Balasaheb Thackeray regarding distribution of funds of Rs.30.00 crores for agribusiness and rural projects....\
   [202408081040566001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081040566001....pdf)
 
+- With regard to approving the strengthening of Indigenous Cow Research and Training Center at Mahatma Phule Agricultural College, Rahuri Under Agricultural College, Pune....\
+  [202408091837340901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091837340901.pdf)
+
+- Release of fund for the implementation of Hon. Balasaheb Thackeray (Haridra) Research and Training Center in Hingoli District in 2024-25.\
+  [202408091655549701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091655549701.pdf)
+
 ## Miscellaneous
 - Regarding approving the addition of Agricultural College, Babhulgaon, Yevla, Dist.Nashik on permanent unaided basis of Jagdamba Education Society, Yevla Dist.Yevla, Dist.Nashik under Mahatma Phule Agricultural University, Rahuri.\
   [202408061551181101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061551181101.pdf)
+
+- Regarding the establishment of State Coordination Committee and District Coordination Committee for the Eleventh Agricultural Census 2021-22.\
+  [202408091708109801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091708109801.pdf)
+
+- Regarding the effective celebration of World Fisheries Day in the State on 21st November...\
+  [202408091510355101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091510355101.pdf)
+
+- Government Corrigendum-Vasantrao Naik Marathwada Agricultural University, Parbhani Under School of Agriculture, Latur regarding making available 10 acres of land in Survey No.37 for District Hospital, Latur...\
+  [202408091133044001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091133044001.pdf)
 
 ## Personnel
 - Release fund of Scheduled Tribes for Implementation of Centrally Sponsored Scheme-Green Revolution-KrishoNnati Yojana-Mission for integrated Development Horticulture (MIDH) Horticulture Mission in the year 2024-25. (Second Installment)\

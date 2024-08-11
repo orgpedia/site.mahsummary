@@ -23,6 +23,12 @@
 - Interim Seniority list of clerk typist of mantralaya department eligible for promotion to post of Assistant Section officer - Interim Seniority list As on 01.01.2024\
   [202408061452181207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061452181207.pdf)
 
+- Regarding filling up the vacancy in the cadre of Senior Inspector in the office of Other Backward Bahujan Welfare Regional Office, Amravati by deputation.\
+  [202408091630219507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091630219507.pdf)
+
+- Foundation Training, under State Training Policy  to Mantralaya cadre Assistant Section Officer.\
+  [202408091626459507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091626459507.pdf)
+
 ## Personnel
 - Regarding creation of supernumerary posts for officers/employees of Maharashtra Public Service Commission appointed from Scheduled Tribes category but unable to submit Caste Validity Certificate.\
   [202408071447459407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071447459407.pdf)
