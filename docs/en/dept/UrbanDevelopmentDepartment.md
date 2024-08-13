@@ -1,24 +1,19 @@
 # Urban Development Department
 
-**Date Range**: 05 August 2024 - 10 August 2024
+**Date Range**: 12 August 2024 - 17 August 2024
 
 
 ## Funds
-- Approval to the Revised Funding pattern for  implementation of Pune Metro Rail Project extension Line from Swargate to Katraj (Corridor-2A) equity Share Model\
-  [202408071545481025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071545481025.pdf)
-
-- Nagarothan Mahabhiyan - Administrative Approval for Indapur Municipal Council Sewerage Project.\
-  [202408071113540825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071113540825.pdf)
-
-- Nagarothan Mahabhiyan - Administrative Approval for Nilanga Municipal Council Sewerage Project.\
-  [202408071746405725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071746405725.pdf)
-
-- Nagarothan Mahabhiyan - Administrative Approval for Sindkhedraja Municipal Council Sewerage Project.\
-  [202408081619342725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081619342725.pdf)
+- Regarding approving the revised draft and signing of the Tripartite Memorandum of Understanding (MoU) to be executed in connection with the implementation of the PCMC-Nigdi Metro Rail Corridor-1A project.\
+  [202408121253084125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121253084125.....pdf)
 
 ## Miscellaneous
-- Regarding the creation of a post to make the post available on deputation from the cadre of Director, Urban Design and Valuation at the establishment of Mumbai Metropolitan Region Development Authority.\
-  [202408061650251825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408061650251825.pdf)
+- Regarding the creation of supernumerary posts for the probationary training period of the candidates of Principal Group-B cadre selected by direct service from Maharashtra Public Service Commission.\
+  [202408121803532725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121803532725.pdf)
+
+## Personnel
+- Regarding allotment of plot at Kharghar, Navi Mumbai for educational and social purpose of Dhangar Samaj\
+  [202408121500307925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121500307925.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

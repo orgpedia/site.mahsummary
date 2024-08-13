@@ -1,61 +1,18 @@
 # Water Resources Department
 
-**Date Range**: 05 August 2024 - 10 August 2024
+**Date Range**: 12 August 2024 - 17 August 2024
 
 
 ## Funds
-- First Revised Administrative approval to Conversion of Right Bank Canal Km 0 to 6.54 into Pipe distribution Network of Dahikute M.I.Project Taluka Malegaon Dist Nashik\
-  [202408071616360627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071616360627.pdf)
+- Kulthe Small Project Administrative approval under special amendment for the repair of various constructions on the canal under District Dhule.\
+  [202408121721195127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121721195127.pdf)
 
-- First Revised Administrative Approval to Conversion of Main Canal km 11 and Zodage Distributory km 7 into Pipe Distribution Network of Dahikute M.I.Project Taluka Malegaon Dist Nashik\
-  [202408071628020927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071628020927.pdf)
-
-- Administrative Approval Under Special  Repairs to K.T.Weir Potegaon Taluka Karmala Dist Solapur.\
-  [202408071624308227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071624308227.pdf)
-
-- Administrative Approval under Special repairs to K.T.Weir Badalagi Taluka South Solapur .Dist solapur.\
-  [202408071611379627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071611379627.pdf)
-
-- Mauje Pangra, p. Kannada, Distt. Ch. Regarding granting administrative approval to the proposal for the budget for the work of flood protection wall along the river Pangra village at Sambhajinagar.\
-  [202408081607582727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081607582727.pdf)
-
-- Mauje Varkhed, T. Chikhli. Regarding granting administrative approval to the construction of the proposed conservation wall in District Buldhana.\
-  [202408081609374427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081609374427.pdf)
-
-- Mauje Borgaon, Walwa, Dist. Regarding grant of administrative approval to the work proposal of flood protection wall on the right bank of river Krishna in Bramhananda Maharaj Mutt along river Krishna at Sangli.\
-  [202408081612035327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081612035327.pdf)
-
-- First Revised Administrative Approval to the Biladi M.I.Scheme, Tal.Dist.Nandurbar having the estimated cost of Rs.13.25 crore.\
-  [202408091411468827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091411468827.pdf)
-
-- Administrative approval under special repairs of K.T.Weir Singanhaalli Tal Jat Dist Sangli.\
-  [202408091451109327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091451109327.pdf)
-
-- Administrative approval under special repairs for repair work of dam and waste weir of Sonpethwadi M.I. tal Mukhed Dist Nanded\
-  [202408091451039927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091451039927.pdf)
-
-## Miscellaneous
-- Promotion of the Technical Assistant and Sub-overseers as overseer.\
-  [202408091251595327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091251595327.pdf)
+- Administrative Approval under special Repairs to Repairs work of Various Canal Structures of   Sayyad Nagar Bhandhara M.I.Project Taluka  Dist Dhule\
+  [202408121729132727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121729132727.pdf)
 
 ## Personnel
-- Regarding temporary promotion from the cadre of Superintending Engineer (Mechanical) to the cadre of Chief Engineer (Mechanical).\
-  [202408051813561727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051813561727.pdf)
-
-- Regarding relieve of officers from water resources department who have been optioned for permanent adjustment in Soil and Water Conservation Department\
-  [202408051608040627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408051608040627.pdf)
-
-- Regarding cancellation of appointment to the post of Assistant Engineer Grade-2 (Electrical  Mechanical) Group-B in Maharashtra Electrical  Mechanical Engineering Services Main Examination 2022.\
-  [202408071449003727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071449003727.pdf)
-
-- Adminstrative Approval Under Special repairs to repair work of waste weir, embankment, and toe drain of Sarvadi Storage tank Taluka Umarga Dist Dharashiv\
-  [202408071620436827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071620436827.pdf)
-
-- Chief Engineer, Water Resources Department, Nagpur under Regional Minor Irrigation Cell, Nagpur on fixed temporary establishment from 01.03.2024 to dt. Regarding getting extension till 31.08.2024.\
-  [202408081536000727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408081536000727.pdf)
-
-- Adminstrative Approval under Special Repairs of Godavari Right Bank canal Distributory No 19  of Nandur madmeshwar project on  Godavari River.\
-  [202408091458523527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408091458523527.pdf)
+- Administrative Approval under special Repairs to Repairs work of Various Canal Structures of   Purmepada M.I.Project Taluka  Dist Dhule\
+  [202408121725316627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121725316627.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
