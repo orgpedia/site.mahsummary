@@ -11,5 +11,15 @@
 - Forest Land-Gadchiroli Re-Diversion of 1.7670 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtal Limited, Pune for laying underground Optical Fiber Cable within Right of Way of the existing road of Wadsa- Purada- Malewada route in Wadsa and Kurkheda Forest Division, District - Gadchiroli in the State of Maharashtra.\
   [202408121622342319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121622342319.pdf)
 
+- Regarding disbursement of funds under the State Scheme Development of Nature Tourism Site (2406-2295) for the year 2024-25.\
+  [202408131236481219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131236481219.pdf)
+
+## Personnel
+- Post by promotion to Assistant Conservator of Forests, Group-A (Junior Grade) from Conservator of Forests, Group-B.\
+  [202408131724037319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131724037319.pdf)
+
+- Post by promotion to Assistant Conservator of Forests, Group-A (Junior Grade) from Conservator of Forests, Group-B.\
+  [202408131728437719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131728437719.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

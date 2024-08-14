@@ -14,5 +14,8 @@
 - Hon. Bench of High Court, Bombay, Aurangabad regarding approval of annual recurring cost of Rs.44,997/- (Excl.GST) for operation of 2 Mbps NIC Leased Line to 10 mbps Connection for Court.\
   [202408121230590212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121230590212.pdf)
 
+- Conferring Selection Grade Pay Scale to the officers in cadre of Deputy charity Commissioner, Group-A in the Charity Organization (Selection  List Year 2023-24)\
+  [202408131518330512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131518330512.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,9 @@
 - To appoint by deputation at  State Service Rights Commission, Konkan- Shri. Ravindra V. Gurav, Joint Secretary.\
   [202408121650127807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121650127807.pdf)
 
+- Regarding promotion from the post of Stenographer to the post of Lower Grade Stenographer\
+  [202408131710165007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131710165007.pdf)
+
 ## Personnel
 - Temporary promotion to the post of Deputy Secretary .\
   [202408121646223507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121646223507.pdf)
@@ -34,6 +37,9 @@
 
 - Regarding the increase in dress and washing allowance of the officers/employees working under the Etiquette Sub-Division of the General Administration Department...\
   [202408121507504907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121507504907.pdf)
+
+- Regarding promotion from the post of Lower Grade Stenographer to the post of Higher Grade Stenographer\
+  [202408131707267207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131707267207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

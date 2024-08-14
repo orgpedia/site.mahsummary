@@ -14,5 +14,8 @@
 - Administrative Approval under special Repairs to Repairs work of Various Canal Structures of   Purmepada M.I.Project Taluka  Dist Dhule\
   [202408121725316627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121725316627.pdf)
 
+- To Cancel the Appointment of Assistant Executive Engineer Grade 1\
+  [202408131714129727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131714129727.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

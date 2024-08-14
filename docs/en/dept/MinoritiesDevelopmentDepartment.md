@@ -1,17 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 29 July 2024 - 03 August 2024
+**Date Range**: 12 August 2024 - 17 August 2024
 
 
 ## Funds
-- Regarding disbursement of grant to Maharashtra State Minorities Commission for salary and wage matters for the financial year 2024-25 from July, 2024 to September, 2024.\
-  [202407311123155414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311123155414.pdf)
-
-- Regarding disbursement of grant (Central Share  State Share) for Construction of Study Center at Pusad, Nagar Parishad in Yavatmal District under Centrally Sponsored Pradhan Mantri Jan Vikas Program (PMJVK) for the year 2019-20.\
-  [202408021438460514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021438460514.pdf)
-
-- Regarding disbursement of grant (Central Share  State Share) for Construction of Public Toilets at Pusad, Nagar Parishad of Yavatmal District under Centrally Sponsored Pradhan Mantri Jan Vikas Program (PMJVK) for the year 2019-20.\
-  [202408021438252814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408021438252814.pdf)
+- To start 2nd/3rd cycle in existing industrial training institutes in minority dominated areas of the state... Allocation of funds for the year 2024-25.\
+  [202408131743547214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131743547214.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
