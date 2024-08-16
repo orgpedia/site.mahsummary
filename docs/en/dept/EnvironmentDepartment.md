@@ -13,5 +13,9 @@
 - Under the State Lake Conservation Scheme Atpadi, Dist. Regarding grant of final approval along with administrative approval to Atpadi Lake at Sangli.\
   [202408131616097504.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131616097504.pdf)
 
+## Miscellaneous
+- Regarding setting up of a committee consisting of Deputy Secretaries of Government Departments concerned with implementation mechanisms to examine the feasibility of entering into agreements with various organizations for the maintenance, cultivation and irrigation of bamboo plantations on government, public and community forest rights land under the Bamboo Plantation Initiative.\
+  [202408141241327904.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141241327904.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

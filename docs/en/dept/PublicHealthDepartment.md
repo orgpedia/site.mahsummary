@@ -35,5 +35,29 @@
 - Regarding the sanction of a new sub-centre as a special matter under Gondia Taluka area of Gondia District.\
   [202407311522233417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202407311522233417.pdf)
 
+- Regarding approval of a new primary health center as a special matter at Mauje Shetphale, Tal. Attpadi, District Sangli.\
+  [202408131747327517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131747327517.pdf)
+
+- Regarding upgradation of 30-bed capacity rural hospital  to 50-bed sub-district hospital at Umred, Dist. Nagpur.\
+  [202408131551429417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131551429417.pdf)
+
+- Regarding approval of new primary health center as special matter at Mauje Banpethwadi, Tal. Patan, Dist. Satara.\
+  [202408131747272517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131747272517.pdf)
+
+- Regarding approval of a new 30-bed rural hospital as a special matter at Mauje Ped, Tal. Tasgaon, Dist. Sangli..\
+  [202408131747217417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131747217417.pdf)
+
+- Regarding approval of Primary Health Center at Mauje Jharre, Taluka Atpadi, District Sangli..\
+  [202408131747376417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131747376417.pdf)
+
+- Regarding sanction of sub-centre at Mauje Banpuri, Taluka Atpadi, District Sangli...\
+  [202408131748329117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131748329117.pdf)
+
+- Regarding approval of sub-centre at Mauje Vantal, Taluka Umarga, District Dharashiv..\
+  [202408071710180617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071710180617.pdf)
+
+- Regarding approval of Trauma Care Center at Rural Hospital, Shiradhon, Tal. Kalamb, District Dharashiv.\
+  [202408131748383017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131748383017.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
