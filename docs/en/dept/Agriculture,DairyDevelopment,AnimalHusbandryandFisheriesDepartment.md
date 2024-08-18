@@ -22,6 +22,12 @@
 - Regarding approval to open a separate bank account for the scheme of financial assistance to cotton and soybean farmers in Kharif season of 2023.\
   [202408141638170401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141638170401.pdf)
 
+- Regarding disbursement of grant to Dr.Punjabrao Deshmukh Agricultural University, Akola under this head of account (2415 1101) in the financial year 2024-25 for 31- Subsidiary Grants (Non-Salary)..(State share 25 percent) (Programme)\
+  [202408161644166801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161644166801.pdf)
+
+- Hon. Complaint at Labor Court, Ahmednagar  In IDA No.42/2003 dated 29/8/2022  According to the result,  21 daily laborers were paid Rs.47,30,197/- Regarding approval to do.\
+  [202408161640446201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161640446201.pdf)
+
 ## Miscellaneous
 - Regarding approval to open Pooling Account for Cluster Development Programme under Integrated Horticulture Development Program.\
   [202408121156420001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121156420001....pdf)

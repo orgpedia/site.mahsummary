@@ -17,6 +17,9 @@
 - Regarding the application of the provisions of the departmental examination rules for the posts of Assistant Engineer Grade-2 and Junior Engineer in the Water Resources Department to the posts of Assistant Engineer Grade-2 and Junior Engineer in Public Works Department\
   [202408131520147418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131520147418.pdf)
 
+- Guidelines regarding action to be taken to fill potholes within specified time limit on PWD  Roads and National Highways.\
+  [202408161730481218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161730481218....pdf)
+
 ## Personnel
 - Promotion and posting from the cadre of Chief Engineer (Civil) to the cadre of Secretary and Deputy Secretary (Technical).\
   [202408121247578218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121247578218.pdf)
@@ -32,6 +35,9 @@
 
 - Promotion and posting from the lower cadre of Executive Engineer (Civil) to the senior cadre of Superintending Engineer (Civil).\
   [202408141454079518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141454079518.pdf)
+
+- Regarding bringing the divisions and sub-divisional offices under the charge of the Coastal Engineer Public Works Board, Bandra, Mumbai under the charge of the Chief Engineer, Public Works Regional Department, Konkan.\
+  [202408161634326818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161634326818.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 12 August 2024 - 17 August 2024
 
 
+## Funds
+- Regarding changes in the works in Kolhapur district which have been given administrative approval under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202408161725038634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161725038634.pdf)
+
 ## Miscellaneous
 - Regarding permission to teach Maths and Science as optional subject in English medium in privately aided ashramshalas/vidyaniketans/ ashramshalas for children of sugarcane workers of Vijabhaj Category under Other Backward Bahujan Welfare Department...\
   [202408121732397934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121732397934.pdf)
@@ -39,6 +43,12 @@
 
 - Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Mahatma Phule Rural Development Charitable Society Managed by Mahatma Phule Public School, Jalkot, Tt. Jalkot, Dist. Latur\
   [202408131704367434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131704367434.pdf)
+
+- Regarding extending the period of deputation on the office of Director, Other Backward Bahujan Welfare Directorate Pune Office Chief Clerk. Smt. Rohini Pramod Danane,\
+  [202408161553586234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161553586234.pdf)
+
+- Regarding changes in the works of Ch. Sambhajinagar district which have been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202408161722431634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161722431634.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

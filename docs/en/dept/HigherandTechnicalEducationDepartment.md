@@ -17,5 +17,17 @@
 - As per the approval of All India Council of Technical Education, New Delhi, regarding the approval of the Government to start Dual Integrated Course from the academic year 2024-25 in the existing unaided institute of Faculty of Engineering and Technology in Chhatrapati Sambhajinagar Division under Directorate of Technical Education....\
   [202408131740577408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131740577408.pdf)
 
+- With regard to amending the Government decision for final approval of new colleges for the academic year 2024-25.\
+  [202408161125176408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161125176408.pdf)
+
+- Regarding final approval of new colleges for academic year 2024-25.\
+  [202408161130091508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161130091508.pdf)
+
+- With regard to amending the Government decision for final approval of new colleges for the academic year 2024-25.\
+  [202408161133519308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161133519308.pdf)
+
+- National Service Scheme. State Level Award 2022-23\
+  [202408141901507208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141901507208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

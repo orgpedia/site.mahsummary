@@ -10,6 +10,9 @@
 - DISTRIBUTION OF BUDGET GRANT FOR THE YEAR 2024-25 UNDER ACCOUNTANT HEAD 2235, PENSION TO FREEDOM FIGHTERS AND THEIR DEPENDENTS, ETC., ( 22350015 ) (May August and September, 2024)\
   [202408141632518207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141632518207.pdf)
 
+- Under the Maharashtra Gaurav Puraskar Scheme and regarding providing financial assistance to disabled/disabled jawans in war/war-like situations/security related operations.\
+  [202408161554209407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161554209407.pdf)
+
 ## Miscellaneous
 - Extension to  Deputation- Shri. Somnath V. Potare,  Deputy Secretary\
   [202408121658037807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121658037807.pdf)
@@ -37,6 +40,15 @@
 
 - Smt. Rupa S. Shinde, clerk-typist, from the committee constituted under the chairmanship of Honble Justice Mr. Sandeep Shinde (Retd.).\
   [202408141648017007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141648017007.pdf)
+
+- Cancel Training Order- Training after promotion- Desk Officer Cadre.\
+  [202408161748106207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161748106207.pdf)
+
+- To fill the post of Administrative Officer in the State Marathi Development Institute, Mumbai on deputation from the cadre of Under Secretary.\
+  [202408161113356307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161113356307.pdf)
+
+- Year wise final seniority lists of Under Secretary for period 01.01.2018 to 01.01.2023\
+  [202408161116366407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161116366407...pdf)
 
 ## Personnel
 - Temporary promotion to the post of Deputy Secretary .\

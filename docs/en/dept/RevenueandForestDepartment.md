@@ -13,6 +13,9 @@
 - Regarding making funds available to the Department of Water Supply and Sanitation for water supply measures to be implemented to alleviate the shortage in Talukas/Revenue Boards declared under drought/drought-like conditions in the State.\
   [202408141308085619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141308085619.pdf)
 
+- Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
+  [202408161535256319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161535256319.pdf)
+
 ## Miscellaneous
 - Forest Land-Gadchiroli Re-Diversion of 1.7670 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtal Limited, Pune for laying underground Optical Fiber Cable within Right of Way of the existing road of Wadsa- Purada- Malewada route in Wadsa and Kurkheda Forest Division, District - Gadchiroli in the State of Maharashtra.\
   [202408121622342319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121622342319.pdf)
@@ -41,6 +44,24 @@
 
 - Posting of officers in Deputy Superintendant of Land Records cadre by transfer\
   [202408141726137119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141726137119.pdf)
+
+- Posting of officer - Shri. Shivdas Sudam Gund, District Superintendent of Land Records\
+  [202408161515496919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161515496919.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202408161834326119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161834326119.pdf)
+
+- Posting of Officers in Sub Collector Cadre by Transfer\
+  [202408161837066619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161837066619.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202408161840186219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161840186219.pdf)
+
+- regarding removal of restriction in respect of reserved for rehabilitation recorded in 7/12 extract of  lands in benefit zone of irrigation projects in sangli district\
+  [202408141622227119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141622227119.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202408161838386319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161838386319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

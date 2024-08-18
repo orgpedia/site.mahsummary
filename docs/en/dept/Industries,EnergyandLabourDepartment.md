@@ -10,6 +10,10 @@
 - Consolidated order regarding the establishment of committees for the ambitious initiative of the central government, PM Gati Shakti National Master Plan.\
   [202408121448506110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121448506110.pdf)
 
+## Miscellaneous
+- Regarding approving the budget for relocating the high pressure electric line passing through the said premises as the Government premises have been acquired for the office of the Industrial and Labor Court, Bhandara.\
+  [202408161049150110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161049150110.pdf)
+
 ## Personnel
 - Final Common Seniority List of officers in the cadre of Deputy Director, Group-A, Bashpke, dated 01.01.2024.\
   [202408121737367810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121737367810.pdf)

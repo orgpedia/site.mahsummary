@@ -13,6 +13,9 @@
 - Regarding giving administrative approval to the proposal amounting to Rs.13,12,200/- for the purchase of computer equipment for the Family Court, Aurangabad as well as various departments under its jurisdiction.\
   [202408141442217012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141442217012.pdf)
 
+- Revised Administrative Approval for Construction of the first floor of the court building at Paithan ,District Chhatrapati Sambhajinagar.\
+  [202408161453086212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161453086212.pdf)
+
 ## Miscellaneous
 - Hon. Bench of High Court, Bombay, Aurangabad regarding approval of annual recurring cost of Rs.44,997/- (Excl.GST) for operation of 2 Mbps NIC Leased Line to 10 mbps Connection for Court.\
   [202408121230590212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121230590212.pdf)
@@ -22,6 +25,9 @@
 
 - Opening of 3 Personal Deposit Accounts  for the court of  District  Additional Sessions court, Kaij, District Beed.\
   [202408141629247112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141629247112.pdf)
+
+- Revise Administrative approval for Construction of New court building at Himaynagar, District Nanded.\
+  [202408161449403212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161449403212.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -38,5 +38,8 @@
 - Regarding announcing Tamashasmaragyi Withabai Narayangavankar Jeevan Gaurav Award for the year 2023 and 2024.\
   [202408121719161123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121719161123.pdf)
 
+- Regarding giving administrative approval for the organization of 58th and 59th Maharashtra State Marathi Film Awards.\
+  [202408141819329123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141819329123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

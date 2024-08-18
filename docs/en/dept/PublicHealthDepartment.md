@@ -59,5 +59,8 @@
 - Regarding approval of Trauma Care Center at Rural Hospital, Shiradhon, Tal. Kalamb, District Dharashiv.\
   [202408131748383017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131748383017.pdf)
 
+- Regarding approval for 100 percent purchase of medicines, materials and equipment from the district level theough the subsidy available from various sources at district level  in the financial year 2024-25.\
+  [202408161643256217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161643256217.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

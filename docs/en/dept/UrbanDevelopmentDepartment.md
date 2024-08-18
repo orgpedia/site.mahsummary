@@ -298,9 +298,33 @@
 - Under Swachh Maharashtra Mission (No.) 2.0, Akluj Municipal Council, Distt. Regarding giving administrative approval to solid waste management project of Solapur.\
   [202408141841038925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141841038925.pdf)
 
+- regarding Sanction of professional fees Adv. Mr. Ranjit Kumar, Special Counsel, Hon. High Court, Delhi\
+  [202408161707497225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161707497225.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Shendurni Municipal Council Sewerage Project.\
+  [202408161102478225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161102478225.pdf)
+
+- Administrative Approval to  Water Supply Project of  Bhusaval Municipal Council Under AMRUT 2.0 (Rs. 136.74 )\
+  [202408141941596025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141941596025.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Koregaon Water Supply Project.\
+  [202408141941242325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141941242325.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for Nashirabad Municipal Council Sewerage Project.\
+  [202408141941535325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408141941535325.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval  for Chikhali Water Supply Project.\
+  [202408142058596825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408142058596825.pdf)
+
 ## Miscellaneous
 - Regarding the creation of supernumerary posts for the probationary training period of the candidates of Principal Group-B cadre selected by direct service from Maharashtra Public Service Commission.\
   [202408121803532725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121803532725.pdf)
+
+- regarding Sanction of professional fees Adv. Mr. Girish Godbole, Special Counsel, Hon. High Court, Bombay\
+  [202408161701131825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161701131825....pdf)
+
+- Deputation on the post of Executive Engineer, Pune Metropolitan Region Development Authority (PMRDA)\
+  [202408161157167625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161157167625...pdf)
 
 ## Personnel
 - Regarding allotment of plot at Kharghar, Navi Mumbai for educational and social purpose of Dhangar Samaj\
