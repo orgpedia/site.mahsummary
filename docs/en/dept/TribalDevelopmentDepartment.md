@@ -1,39 +1,11 @@
 # Tribal Development Department
 
-**Date Range**: 12 August 2024 - 17 August 2024
+**Date Range**: 19 August 2024 - 24 August 2024
 
-
-## Funds
-- To release grant for the scheme of Mahatma Jyotirao Fule Jan Arogya Yojna under the TSP in financial year 2024-25. CRC (2210 G289)\
-  [202408071027097524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071027097524.pdf)
-
-- To release grant for the scheme of National Rural Health Mission under the TSP in financial year 2024-25. state share(CRC 2210 E455)\
-  [202408071027042924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071027042924.pdf)
-
-- To release grant for the scheme of Pradhan Mantri Jan Arogya Yojana under the TSP in financial year 2024-25. (CRC-2210 G494)\
-  [202408071027152624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071027152624.pdf)
-
-- To release grant for the scheme of Assistance to Division for Tribal Student in Military School under the TSP in financial year 2024-25. (CRC 2202 H973)\
-  [202408071027265724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071027265724.pdf)
-
-- Regarding Sanction of Long term Loan to Scheduled Tribe Co-operative Textile Mills\
-  [202408131115357524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131115357524.pdf)
-
-- To release grant for the scheme of  Grant-in-aid to Krishi Vidyapeeth under the TSP in financial year 2024-25. (CRC 2401 8291)\
-  [202408071027210724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408071027210724.pdf)
 
 ## Miscellaneous
-- Additional Commissioner, Tribal Development, Nagpur and Project Officer, A.A.V.P Wardha, Internal Vidyaniketan Education Institute, Sindi (Railway), Tt. Selu, Dist. Subsidized Tribal Ashram School Dahegaon (Gosavi) run by Wardha Vdara, Selu, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to Ashram School, Wardha.\
-  [202408121926337724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121926337724.pdf)
-
-- Under Tribal Development Department Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Nashik Under Maratha Vidya Prasarak Samaj Nashik Vdara Run Primary Ashram School Kachurli, Tt. Trimbakeshwar, Dist. Regarding giving approval to Ashram School Nashik to start classes from class 8th to 10th from the academic year 2024-25.\
-  [202408121540537624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121540537624.pdf)
-
-- Additional Commissioner under Tribal Development Department, Tribal Development, Nashik and A.A.V.P., Kalwan under Maratha Vidya Prasarak Samaj, Nashik Vdara Run Subsidized Ashram School Mohpada, Tt. Surgana, Dist. Regarding approval to start affiliated Junior College (Class 11th  12th, Arts  Science Branch) to Ashram School, Nashik from the academic year 2024-25.\
-  [202408121546140924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121546140924.pdf)
-
-- Under Tribal Development Department Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Dhule Mr. Kanhaiyalal Maharaj Trust Samode, Tt. Sakri, Dist. Dhule Vdara Subsidized Primary Ashram School Jebapur, Tt. Sakri, Dist. Regarding approval to start Ashram School Dhule from the academic year 2024-25 from class 8th to 10th.\
-  [202408131725427424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131725427424.pdf)
+- Regarding the implementation of Shabari Adivasi Gharkul Yojana in urban areas\
+  [202408191202272524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191202272524.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
