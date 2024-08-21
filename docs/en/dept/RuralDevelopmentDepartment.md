@@ -7,6 +7,9 @@
 - Regarding implementation of the system and procedure of Virtual Personal Deposit Account (VPDA) for drawing and disbursing officers and other non-government implementing authorities under the control of Rural Development Department for speedy disbursement and control of Subsidy Grant.\
   [202408191034430420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191034430420.pdf)
 
+- Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2024-25.\
+  [202408201054494720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201054494720.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Madha Taluka (Dist-Solapur)  as a Village Road in the Road Development Plan 2001-21\
   [202408191201014220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191201014220.pdf)
@@ -85,6 +88,33 @@
 
 - Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
   [202408191115276620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191115276620.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
+  [202408191116485420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191116485420.pdf)
+
+- Uppgradation of village road to Other District Road in Taluka Patan at District Satara.\
+  [202408191201413320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191201413320.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
+  [202408191116594220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191116594220.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
+  [202408191117164620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191117164620.pdf)
+
+- According Administrative Approval to the upgradation of under  State Fund MMGSY-II IN Dharashiv District\
+  [202408191114313020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191114313020.pdf)
+
+- Regarding the inclusion of non-plan roads in Khanapur Taluka (Dist-Sangli)  as a Village Road in the Road Development Plan 2001-21\
+  [202408191201337020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191201337020.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Beed district.\
+  [202408191114233120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191114233120.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
+  [202408191117280820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191117280820.pdf)
+
+- Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
+  [202408191115086220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191115086220.pdf)
 
 ## Personnel
 - Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Pune Division...\

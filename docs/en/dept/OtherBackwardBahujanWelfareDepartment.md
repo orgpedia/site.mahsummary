@@ -1,54 +1,47 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 12 August 2024 - 17 August 2024
+**Date Range**: 19 August 2024 - 24 August 2024
 
-
-## Funds
-- Regarding changes in the works in Kolhapur district which have been given administrative approval under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
-  [202408161725038634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161725038634.pdf)
 
 ## Miscellaneous
-- Regarding permission to teach Maths and Science as optional subject in English medium in privately aided ashramshalas/vidyaniketans/ ashramshalas for children of sugarcane workers of Vijabhaj Category under Other Backward Bahujan Welfare Department...\
-  [202408121732397934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121732397934.pdf)
+- Regarding the selection of school under the scheme to educate the students of Dhangar community belonging to nomadic tribe-c category in reputed residential schools of English medium in cities. Janartha Gram Vikas Sevabhavi Sanstha Teerthpuri Operated Little Star English School, Teerthpuri, Tt. dense, Dist. Jalna\
+  [202408201529360034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201529360034.pdf)
 
-- 2023-24      () (2406 0775)    . Bhaaky jamt-ka pravargtla dhanagara samjtla vidyrthynn aharntla igraj mdhyamcy nmkita nivs mmadhy ikaa d y yjanntargata nivaa karayta lly sa sana 2024-25 y aikaika varkart vhva vidyrth pravsa mnyat dbbata. Sulcan blhkara smjika va bahuuddiya ikaa sansth sancalita jnvara pablika skula, bhnasahivar, t. Nvs, ji. Ahamadanagara Show more 370 / 5,000 Regarding the approval of increased student admission for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in the cities. Sulochana Belhekar Institute of Social and Multipurpose Education Operated Dnyaneshwar Public School, Bhansahivare, h Nevasa, Dist. Ahmednagar\
-  [202408121606595634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121606595634.pdf)
+- Regarding appointment on deputation to the post of Other Backward Bahujan Welfare Officer (Group-B) in the office of Regional Deputy Director, Other Backward Bahujan Welfare (Regional) Department, Amravati. Mr. Prashant Ganesh Rao Deshmukh, Nayab Tehsildar, Tehsil Office Tivasa, Distt. Amravati.\
+  [202408201315141734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201315141734.pdf)
 
-- Regarding the approval of increased student admission for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in the cities. Sulochana Belhekar Institute of Social and Multipurpose Education Operated Dnyaneshwar International School, Bhansahivare, h Nevasa, Dist. Ahmednagar\
-  [202408121609494834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408121609494834.pdf)
+- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Purna Kaveri Education Institute, Sillod Conducted Little Wonders School, Sillod, Distt. Chhatrapati Sambhajinagar\
+  [202408201452037534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201452037534.pdf)
 
-- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Pawanputra Education Society, Vadzire, Tel. Parner, Dist. Ahmadnagar Conducted Vadzire English Medium School and Junior College, Vadzire, Ta. Parner, Dist. Ahmednagar\
-  [202408131703551534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131703551534.pdf)
+- Regarding the selection of school under the scheme to educate the students of Dhangar community belonging to nomadic tribe-c category in reputed residential schools of English medium in cities. Dr. K.D. Shendge Charitable Trust, Umarga run by Dr. K.D. Shendge English School, Bhosga, T. Lohara, Dist. Dharashiva\
+  [202408201447044834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201447044834.pdf)
 
-- Regarding approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Sahyog Sevabhavi Sanstha, Nanded Conducted Indira International Public School, Vishnupuri, Distt. Nanded\
-  [202408131657050134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131657050134.pdf)
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Om Narayan Industrial Training Institute, Partur, Distt. Jalna Operated Sarika English School, Kajala, T. Badnapur, Dist. Jalna\
+  [202408201441562134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201441562134.pdf)
 
-- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Vishwabharti Public Service Establishment, Sonpeth, Sonpeth, Distt. Parbhani Run Vision Public School, Sonpeth, T. Sonpeth, Dist. parbhani\
-  [202408131713570134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131713570134.pdf)
+- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Advanced Maharashtra Board, Degalur Sanchalit Gyan Saraswati English School, Rampur Road, Degalur, Tt. Degalur, Distt. Nanded\
+  [202408201447134834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201447134834.....pdf)
 
-- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Balkrishna Charitable Institution, Wadi Tuljapur, Tel. Wasmat District Hingoli Run Hi-Tech Primary, Middle  Higher Secondary School, Erandeshwar (Zero FATA), Htt. Purna, Dist. parbhani\
-  [202408131719073434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131719073434.pdf)
+- Regarding appointment on deputation to the post of Other Backward Bahujan Welfare Officer (Group-B) in the office of Assistant Director, Other Backward Bahujan Welfare Department, Amravati. Mr. Rajesh Nilkanth Chaudhary, Nayab Tehsildar, (Sangayo) Tehsil Office Chandur Bazar, Distt. Amravati\
+  [202408201315197334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201315197334.pdf)
 
-- Regarding approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Mr. Ramrao Naik Multi-Purpose Charitable Institution, Munsiram Tanda, Tt. Sonpeth, Dist. Parbhani Sanchalit Ka. MANSINGH NAIK ENGLISH PRIMARY TO HIGHER SECONDARY SCHOOL, MUNSIRAM TANDA (SAYKHEDA), ST. Sonpeth, Dist. parbhani\
-  [202408131708046934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131708046934.pdf)
+- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Jaibhavani Multipurpose Charitable Institution, Avalgaon, Tt. Sonpeth, Dist. Parbhani Run Jijamata Public School, Sonpeth, T. Sonpeth, Dist. parbhani\
+  [202408201444353934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201444353934.pdf)
 
-- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Patil Kamalabai Ganeshpurkar Education Institute, Nanded Conducted Rajshree Public School, Vasrani Latur Phata, Nanded, Tel. Dist. Nanded\
-  [202408131711187634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131711187634.pdf)
+- Regarding approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Shahu Maharaj Multi-Purpose Charitable Organization and Education Broadcasting Board, Ashti, Tt. Ashti, Dist. Beed operated Saigyan Primary and Secondary English School, Ashti, T. Ashti, Dist. Beed\
+  [202408201508495034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201508495034.pdf)
 
-- Regarding the selection of schools under this scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in reputed English medium residential schools in cities. Mr. Ramrao Naik Multi-Purpose Charitable Institution, Munsiram Tanda, Tt. Sonpeth, Dist. Parbhani Sanchalit Shri Ramrao Naik English School, Munsiram Tanda, T. Sonpeth, Dist. parbhani\
-  [202408131701457534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131701457534.pdf)
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Om Narayan Industrial Training Institute, Partur, Distt. Jalna Run Raigad English School, Golpangri, Tt. Dist. Jalna\
+  [202408201525529934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201525529934.pdf)
 
-- Regarding the selection of school under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in reputed residential schools of English medium in cities. Vishwashanti Education Broadcasting Board, Jaffrabad, Tel. Jaffrabad, Dist. Jalna Sanchalit Gnanasagar English School, Sipora (Am) Htt. Jaffrabad, Dist. Jalna\
-  [202408131658597334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131658597334.pdf)
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. OM NARAYAN INDUSTRIAL TRAINING INSTITUTE, PARTUR, JALNA DISTRICT SHIVRAI ENGLISH SCHOOL, GANESHNAGAR, DIST. Jalna\
+  [202408201537357034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201537357034.pdf)
 
-- Regarding the approval of increased student intake for the academic year 2024-25 to the school selected under the scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in English medium residential schools in the cities. Mahatma Phule Rural Development Charitable Society Managed by Mahatma Phule Public School, Jalkot, Tt. Jalkot, Dist. Latur\
-  [202408131704367434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131704367434.pdf)
+- Regarding the selection of school under the scheme to educate the students of Dhangar community belonging to nomadic tribe-c category in reputed residential schools of English medium in cities. MALHAR EDUCATIONAL AND MULTIPURPOSE EDUCATION INSTITUTE, CHANDUR BAZAR, ST. Chandur, Dist. Amravati Chanchalit Punyashlok Ahilya Devi Holkar Public School and Jr. College, Kolvihir, T. Morshi, Dist. Amravati\
+  [202408201444506834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201444506834.pdf)
 
-- Regarding extending the period of deputation on the office of Director, Other Backward Bahujan Welfare Directorate Pune Office Chief Clerk. Smt. Rohini Pramod Danane,\
-  [202408161553586234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161553586234.pdf)
-
-- Regarding changes in the works of Ch. Sambhajinagar district which have been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
-  [202408161722431634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161722431634.pdf)
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Om Narayan Industrial Training Institute, Partur, Distt. Jalna Run Parashuram English School, Pankheda, T. Badnapur, Dist. Jalna\
+  [202408201521455034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201521455034.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

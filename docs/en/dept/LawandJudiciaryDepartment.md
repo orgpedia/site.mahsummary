@@ -11,5 +11,8 @@
 - according administrative approval to make admissible the post-retirement benefits to the Chief Justices/Judges who were appointed as Judges of Bombay high court but retired or retiring from other High Courts.\
   [202408191740543012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191740543012.pdf)
 
+- Regarding pay fixation of employees after promotion to the post of additional registrar (Sessions) Registrar (Sessions), Additional Registrar (Civil) and registrar (Civil) in city Civil and sessions court, Mumbai.\
+  [202408201503383512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201503383512.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
