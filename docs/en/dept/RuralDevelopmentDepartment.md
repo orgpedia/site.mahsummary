@@ -10,6 +10,15 @@
 - Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2024-25.\
   [202408201054494720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201054494720.pdf)
 
+- Revised Administrative Approval for Construction of Residential Quarters  for Officers and Staff of  Panchayat Samiti Parali, (District Beed).\
+  [202408191548538420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548538420.pdf)
+
+- Revised Administrative Approval for Construction of Residential Quarters                    for Officers and Staff of  Panchayat Samiti Jintur, (District Parbhani).\
+  [202408191548482120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548482120.pdf)
+
+- Revised Administrative Approval for Construction of Residential Quarters                    for Officers and Staff of  Panchayat Samiti Selu, (District Parbhani).\
+  [202408191548408520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548408520.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Madha Taluka (Dist-Solapur)  as a Village Road in the Road Development Plan 2001-21\
   [202408191201014220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191201014220.pdf)
@@ -115,6 +124,12 @@
 
 - Regarding the appointment of 2 non-governmental members in the committee  the chairmanship of Collector under Sant Sevalal Maharaj Banjara / Laman Tanda Samriddhi Yojana.\
   [202408191115086220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191115086220.pdf)
+
+- Approval for Construction of 72 Grampanchayat Building under Hon. Balasaheb Thackrey Smruti Matoshree Grampanchayat Bandhani Yojana (Dist. Akola).\
+  [202408191548265820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548265820.pdf)
+
+- Approval for Construction of 18 Grampanchayat Building under Hon. Balasaheb Thackrey Smruti Matoshree Grampanchayat Bandhani Yojana (Dist. Ahmednagar).\
+  [202408191548332820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548332820.pdf)
 
 ## Personnel
 - Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Pune Division...\

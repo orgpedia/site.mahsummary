@@ -10,5 +10,9 @@
 - Nandigram Medical Cooperative Society, M. Nanded. Conducted by Mr. Regarding provision of Government share capital as special matter in the ratio of 1:9 financing to Guruji Hospital, Chhatrapati Chowk, Purna Road, Nanded.\
   [202408201830562102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201830562102.pdf)
 
+## Miscellaneous
+- Integrated and Sustainable Textile Industry Policy 2023-28. Regarding determination of machinery eligible for benefit of capital subsidy under Maha-Technology Upgradation Fund Scheme (Maha-TUFS)\
+  [202408211447529902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211447529902.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

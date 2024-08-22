@@ -3,6 +3,13 @@
 **Date Range**: 19 August 2024 - 24 August 2024
 
 
+## Funds
+- Regarding provision of Fire Protection Device/System in primary, secondary and higher secondary ashram schools of Vijabhaj class run on subsidized basis under Other Backward Bahujan Welfare Department.\
+  [202408211832027934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211832027934.pdf)
+
+- Regarding provision of Steel Dining Table in Ashramshalas of Vijabhaj Category run on subsidized basis under Other Backward Bahujan Welfare Department.\
+  [202408211834354334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211834354334.pdf)
+
 ## Miscellaneous
 - Regarding the selection of school under the scheme to educate the students of Dhangar community belonging to nomadic tribe-c category in reputed residential schools of English medium in cities. Janartha Gram Vikas Sevabhavi Sanstha Teerthpuri Operated Little Star English School, Teerthpuri, Tt. dense, Dist. Jalna\
   [202408201529360034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201529360034.pdf)
@@ -42,6 +49,15 @@
 
 - Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Om Narayan Industrial Training Institute, Partur, Distt. Jalna Run Parashuram English School, Pankheda, T. Badnapur, Dist. Jalna\
   [202408201521455034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201521455034.pdf)
+
+- Regarding fixing the procedures/guidelines for the scheme to apply financial concessions in fee for competitive examination to the unemployed youth of Dhangar community belonging to nomadic tribe-C category.\
+  [202408211827501434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211827501434.pdf)
+
+- Hon. Chairman, National Commission for Backward Classes, New Delhi Their months are March 2024, June 2024 and July 2024 Payment of fuel expenses on vehicle arrangements for the period Regarding approval of Rs.1,69,353/-.\
+  [202408211513500334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211513500334.pdf)
+
+- Regarding appointment on deputation to the post of Joint Director Mr. Prashant Shamrao Shirke, Project Director, District Rural System, Gadchiroli\
+  [202408211553445634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211553445634.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -33,5 +33,8 @@
 - Regarding transfers of Group-A and Group-B cadre officers in Directorate General of Information and Public Relations -August, 2024.\
   [202408201741333207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201741333207.pdf)
 
+- CPTP 8 - Regular Posting order of desk officer Cadre.\
+  [202408211649395207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211649395207.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -32,6 +32,12 @@
 - Regarding giving administrative approval to the construction budget for toilet, bathroom and water drainage repair at District Hospital, Beed.\
   [202408131748597417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131748597417.pdf)
 
+- Regarding upgradation of primary health center to 30 bed capacity rural hospital at Udayanagar (Undri), Taluka-Chikhli, Dist- Buldhana\
+  [202408131551569517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131551569517.pdf)
+
+- Regarding approving the establishment of a new rural hospital with a capacity of 30 beds at Mauje Dhodap, Taluka-Chikhali, Distt- Buldhana.\
+  [202408131552027417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131552027417.pdf)
+
 ## Personnel
 - Regarding the distribution of State Share (40 percent) funds under 2210 G 494 (TSP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-25\
   [202408161042363417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161042363417.....pdf)

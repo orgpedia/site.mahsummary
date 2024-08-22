@@ -10,6 +10,9 @@
 - Regarding disbursement of funds for construction of International Agricultural Facility Center at Nagpur under Dr. Panjabrao Deshmukh Agricultural University, Akola...\
   [202408201109592801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201109592801.pdf)
 
+- Regarding setting up virtual classrooms, digital classrooms and smart classrooms for the colleges under all the four agricultural universities in the state, as well as giving administrative approval for purchasing the materials required for installing the VDO conference system...\
+  [202408211214097401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211214097401.pdf)
+
 ## Miscellaneous
 - Regarding approving opening of separate savings accounts in nationalized banks for 100 central share under Pradhan Mantri Formalization of Micro Food Processing Enterprises\
   [202408191431367101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191431367101.pdf)

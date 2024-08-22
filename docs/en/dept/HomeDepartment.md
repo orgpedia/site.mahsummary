@@ -16,6 +16,15 @@
 - Regarding the revised administrative approval for the budget estimate of 49.74 crores for the construction of a Ro-Ro jetty at Borivali, Taluka and District Mumbai Suburban under the Sagarmala project\
   [202408201724014729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201724014729.pdf)
 
+- Regarding giving administrative and financial approval to the budget for renovation/repair of building at Regional Transport Office, Nashik.\
+  [202408211150464629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211150464629.pdf)
+
+- Regarding administrative and financial approval for the expenses incurred for the training of newly appointed Assistant Motor Vehicle Inspectors in the Department of Motor Vehicles at Central Institute of Road Transport, Pune\
+  [202408211154514629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211154514629.pdf)
+
+- Regarding giving administrative and financial approval for purchase of new interceptor vehicle as well as Vehicle Top Mounted Radar Device on the said Vehicles for Flying Squads in the State.\
+  [202408211154230229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211154230229.pdf)
+
 ## Miscellaneous
 - Corrigendum - About forming a committee for solving financial and important issues of MSRTC workers...\
   [202408191449014729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191449014729.pdf)
@@ -25,6 +34,19 @@
 
 - Regarding the name of Maharashtra Auto-Rickshaw and Metered Taxi Driver Welfare Board.\
   [202408201424597029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201424597029.pdf)
+
+- Combined full service review at the age of 50/55 years in the Category of Assistant Regional Transport officer and Motor Vehicle Inspector  Cadre.\
+  [202408211152244729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211152244729.pdf)
+
+## Personnel
+- Regarding transfers/postings of S.P.S.officers.\
+  [202408202226494829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408202226494829.pdf)
+
+- Regarding transfers/postings of S.P.S.officers.\
+  [202408202233464829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408202233464829.pdf)
+
+- Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
+  [202408202226555029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408202226555029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
