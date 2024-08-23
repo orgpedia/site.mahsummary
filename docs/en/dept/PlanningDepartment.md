@@ -11,6 +11,15 @@
 - Regarding nomination as Nominee Member on Mumbai Suburban District Planning Committee...\
   [202408191612064916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191612064916.pdf)
 
+- Regarding nomination as Nominee Member on Latur District Planning Committee...\
+  [202408221641137016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221641137016.pdf)
+
+- Regarding nomination as Special Invitee to Jalna District Planning Committee...\
+  [202408221641554916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221641554916.pdf)
+
+- Regarding nomination as Special Invitee to Jalna District Planning Committee...\
+  [202408221644393416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221644393416.pdf)
+
 ## Personnel
 - Regarding the creation of a comprehensive database of government employees. Employees Master Database (EMDb)\
   [202408191444570016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191444570016.pdf)

@@ -20,6 +20,9 @@
 - Regarding inclusion of daily paid employees working in Chhatrapati Sambhajinagar Municipal Corporation in sanctioned and vacant posts in the Municipal Corporation\
   [202408201714514425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201714514425.pdf)
 
+- Regarding approval of the Pune Metropolitan Region Development Authority Services (Access to Services and Classification of Services) Regulations, 2023\
+  [202408221541287925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221541287925.pdf)
+
 ## Personnel
 - City Survey No. at Dombivli East. 6397 or 3219.20 sq.m. Apulaki Healthcare Pvt. Ltd. for 30 years to develop modern cancer hospital and hostel on public private partnership (build, operate and transfer) basis on the plot. Ltd. Regarding providing space to this agency at a nominal rate of Rs.1/-.\
   [202408201755571425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201755571425.pdf)

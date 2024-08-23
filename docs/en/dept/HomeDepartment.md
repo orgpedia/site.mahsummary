@@ -25,6 +25,18 @@
 - Regarding giving administrative and financial approval for purchase of new interceptor vehicle as well as Vehicle Top Mounted Radar Device on the said Vehicles for Flying Squads in the State.\
   [202408211154230229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211154230229.pdf)
 
+- Regarding giving administrative and financial approval to the cost estimate for setting up an electric charging station for buses running on electric system at Tarabai Park, ST Colony premises in Kolhapur Division...\
+  [202408221648254829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221648254829.pdf)
+
+- Regarding giving administrative and financial approval to the cost estimate for setting up an electric charging station for buses running on electric system in the premises of Dhule Agar in Dhule Division...\
+  [202408221652247529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221652247529.pdf)
+
+- Regarding the administrative and financial approval of the cost estimate for setting up an electric charging station for buses running on electric system in the premises of Sawedi Depo in Ahmednagar Division...\
+  [202408221647134029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221647134029.....pdf)
+
+- Administrative approval to expenditure of Training at Maharashtra Police Academy Nashik for 4 ARTO of Motor Vehicle Department\
+  [202408221514354129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221514354129.pdf)
+
 ## Miscellaneous
 - Corrigendum - About forming a committee for solving financial and important issues of MSRTC workers...\
   [202408191449014729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191449014729.pdf)
@@ -47,6 +59,9 @@
 
 - Regular Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
   [202408202226555029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408202226555029.pdf)
+
+- Regarding transfer/posting of I.P.S./S.P.S officer.\
+  [202408222017490429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408222017490429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

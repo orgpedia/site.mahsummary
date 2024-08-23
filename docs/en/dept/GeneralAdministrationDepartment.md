@@ -26,6 +26,12 @@
 - In service one week training of A.I.S.\
   [202408201654059107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201654059107.pdf)
 
+- Deputation Order. Smt. Kirti A.Nikam, Desk Officer, Fianance Department\
+  [202408221104397207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221104397207.pdf)
+
+- creation of 3 regular posts of Vehicle Drivers for Maharashtra Administrative Tribunal Office.\
+  [202408221508387607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221508387607.pdf)
+
 ## Personnel
 - Hon. Chief Ministers Secretariat, Hon. Chief Ministers Office in Government Residence, A.M.U.S. And M.R.A. Regarding extension of appointment of supplier for supply of writing materials, computer materials and other materials for his office as well as ministerial establishment offices (Manastha-1,2 and 3).\
   [202408201609139107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201609139107...pdf)

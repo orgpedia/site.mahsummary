@@ -13,6 +13,12 @@
 - Regarding setting up virtual classrooms, digital classrooms and smart classrooms for the colleges under all the four agricultural universities in the state, as well as giving administrative approval for purchasing the materials required for installing the VDO conference system...\
   [202408211214097401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211214097401.pdf)
 
+- Regarding giving administrative approval for repair and renovation work of Padmashri Shamrao Kadam Rest House building at Parbhani Headquarters under Vasantrao Naik Marathwada Agricultural University, Parbhani.\
+  [202408221702343901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221702343901.pdf)
+
+- Regarding granting administrative approval for purchase of skill laboratory material (vocational insect) for the students of various colleges under all the four agricultural universities of the state...\
+  [202408221707561901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221707561901.pdf)
+
 ## Miscellaneous
 - Regarding approving opening of separate savings accounts in nationalized banks for 100 central share under Pradhan Mantri Formalization of Micro Food Processing Enterprises\
   [202408191431367101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191431367101.pdf)
@@ -28,6 +34,9 @@
 
 - Change in Structure of Technical Specification Committee Constituted as per State Purchase Policy for purchase procedure of Animal Husbandry Department.\
   [202408201617328701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201617328701.pdf)
+
+- Regarding formation of district level committee to prevent milk adulteration...\
+  [202408221723423601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221723423601.pdf)
 
 ## Personnel
 - Regarding declaring the Drawing and Disbursing Officer of the Commissioner, Dairy Development Department as Virtual Personal Deposit Account Administrator (VPDAA) for speedy disbursement and control of Subsidy.\

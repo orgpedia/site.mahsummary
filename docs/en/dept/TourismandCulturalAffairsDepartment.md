@@ -26,5 +26,8 @@
 - Regarding establishment of Pratapgarh Fort Development Authority.\
   [202408211225467223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211225467223.pdf)
 
+- Chitrapati V. Shantaram Jeevan Gaurav Award and Chitrapati V. Regarding the announcement of Shantaram Special Contribution Award - 2023 as well as Raj Kapoor Lifetime Achievement Award and Raj Kapoor Special Contribution Award - 2023.\
+  [202408221516357823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221516357823.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

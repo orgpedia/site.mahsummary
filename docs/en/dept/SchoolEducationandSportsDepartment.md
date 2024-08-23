@@ -3,6 +3,10 @@
 **Date Range**: 19 August 2024 - 24 August 2024
 
 
+## Funds
+- Regarding providing financial assistance to the athletes of the state who have qualified for the Olympic Games in Paris, France...\
+  [202408221854050521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221854050521.pdf)
+
 ## Miscellaneous
 - Regarding government approval for computer shorthand exams.\
   [202408201500014821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201500014821.pdf)
@@ -19,6 +23,9 @@
 - Regarding the appointment of two non-governmental members with outstanding achievements in the field of education to the State Selection Committee for the selection process for Krantijyoti Savitrimai Phule State Teacher Merit Award for the year 2023-24\
   [202408211441524421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211441524421.pdf)
 
+- Regarding the constitution of a committee to make recommendations regarding the issue of contractual employees under the Samagra Shiksha Yojana.\
+  [202408221141125721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221141125721.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
   [202408201449236021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201449236021.pdf)
@@ -31,6 +38,9 @@
 
 - Regarding formation of study groups in line with reforms in teacher recruitment in the state.\
   [202408201610268621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201610268621.pdf)
+
+- Regarding the transfer of management of Shivaji Village Agricultural Development Board, Khamgaon, Dist.Solapur run secondary school Agalgaon, Dist.Solapur to Bharatmata Multipurpose Sanstha Barshi, Dist.Solapur.\
+  [202408221222212021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221222212021.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

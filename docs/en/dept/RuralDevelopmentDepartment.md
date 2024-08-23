@@ -131,6 +131,15 @@
 - Approval for Construction of 18 Grampanchayat Building under Hon. Balasaheb Thackrey Smruti Matoshree Grampanchayat Bandhani Yojana (Dist. Ahmednagar).\
   [202408191548332820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548332820.pdf)
 
+- Supplementary demand fund distribution for financial year 2024-25 to 11 Panchayat Raj Training Centers under 36, Grants-in-aid (Salary)  Main Account Head-20530574. (Budget session of June 2024)\
+  [202408211524236920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211524236920.pdf)
+
+- Supplementary demand fund distribution for financial year 2024-25 to Composit Training Center, Gargoti, Dist. Kolhapur under 36, Grants-in-aid (Salary). (Budget session of June 2024)\
+  [202408211524034420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211524034420.pdf)
+
+- Supplementary demand fund distribution for financial year 2024-25 to Gram Sevak Training Centre, Kosbad Hill, Gargoti, Amravati under 36, Grants-in-aid (Salary). Main Heading-24150312, 24150321, 24150339.  (Budget session of June 2024)\
+  [202408211524134420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211524134420.pdf)
+
 ## Personnel
 - Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Pune Division...\
   [202408161743017420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161743017420.pdf)

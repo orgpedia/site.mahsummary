@@ -16,6 +16,12 @@
 - Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2024-25, under 2210 G 289 (TSP)\
   [202408161042314817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161042314817.....pdf)
 
+- Regarding approval of payment of interest on loan received from HUDCO.\
+  [202408221517224117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221517224117.pdf)
+
+- Regarding approval of payment of pending payments for security guard services rendered through Outsourcing services.\
+  [202408131749105817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131749105817.pdf)
+
 ## Miscellaneous
 - Maharashtra Reappropriation Act, 2024. Distribution of Funds for the year 2024-2025\
   [202408191528378617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191528378617.pdf)
@@ -38,9 +44,18 @@
 - Regarding approving the establishment of a new rural hospital with a capacity of 30 beds at Mauje Dhodap, Taluka-Chikhali, Distt- Buldhana.\
   [202408131552027417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408131552027417.pdf)
 
+- Regarding approving establishment of primary health center  Mauje Shirol, Shahapur, Dist.   Thane as a special matter.\
+  [202408221718392817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221718392817.pdf)
+
 ## Personnel
 - Regarding the distribution of State Share (40 percent) funds under 2210 G 494 (TSP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-25\
   [202408161042363417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408161042363417.....pdf)
+
+- Regarding temporary promotion to the post in the cadre of District Health Officer (Post Graduate).\
+  [202408201533405017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201533405017.pdf)
+
+- Regarding promotion on a temporary basis to the post of Civil Surgeon (Masters Degree holder).\
+  [202408201533344817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201533344817.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
