@@ -19,6 +19,9 @@
 - Revised Administrative Approval for Construction of Residential Quarters                    for Officers and Staff of  Panchayat Samiti Selu, (District Parbhani).\
   [202408191548408520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191548408520.pdf)
 
+- Circular - Development Of Rural Places Under Development B Class Rural Pilgrimage Works Estimates Official Statutory Democratic Balumama Devalaya, At. Adamapur, Teh. Bhudargadh Dist. Kolhapur.\
+  [202408221723338920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221723338920.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Madha Taluka (Dist-Solapur)  as a Village Road in the Road Development Plan 2001-21\
   [202408191201014220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191201014220.pdf)

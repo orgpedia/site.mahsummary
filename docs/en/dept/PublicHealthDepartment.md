@@ -57,5 +57,8 @@
 - Regarding promotion on a temporary basis to the post of Civil Surgeon (Masters Degree holder).\
   [202408201533344817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201533344817.pdf)
 
+- Provisional seniority list dated 01.01.2024 for the post of X-Ray Specialist in Specialist cadre in Maharashtra Medical and Health Service, Group-A.\
+  [202408231124343917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231124343917.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

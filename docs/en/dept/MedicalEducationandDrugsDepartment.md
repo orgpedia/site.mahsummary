@@ -31,6 +31,9 @@
 - Administrative approval for the purchase of hostel furniture under the State Scheme to the Government Medical College, Mumbai\
   [202408211447154613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211447154613.pdf)
 
+- Regarding approving the services of Security Guards in Government Medical Colleges and Affiliated Hospitals at Jalgaon and Dhule under the Department.\
+  [202408211139128413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211139128413.pdf)
+
 ## Miscellaneous
 - Regarding approval of First Year B.A.M.S. college.  Om Shanti Bahuddeshiya Shikshan Sanstha, Chhatrapati Sambhajinagar Guru Mishri Ayurved College and Matoshree Badambai Motilalji Desarada Hospital, Shelgaon, Tal. Badnapur, Dist. Jalna.\
   [202408211528209713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211528209713.pdf)
@@ -50,6 +53,18 @@
 - Administrative approval for furniture at Government Medical College, Buldhana\
   [202408211447004513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211447004513.pdf)
 
+- Regarding approval of First year M. B. B.S. Sri Ramachandra Institute of Medical Sciences (SRIMS), Chhatrapati Sambhajinagar Medical College by Dr. Babasaheb Ambedkar Medical Foundation, Dr. Hedgewar Hospital, Chhatrapati Sambhajinagar\
+  [202408231711500713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231711500713.pdf)
+
+- regarding the filling up of the posts of Security Guards for the  Punyashlok  Ahilyadevi Holkar Government Medical College, Baramati.\
+  [202408231146404213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231146404213.pdf)
+
+- Gangadhar Shastri Gune, Ayurved Mahavidyalaya and Hospital, G.S. Gune Chowk, Vishrambaug, Ahmednagar give permission to increase intake capacity from 50 to 60 of Under Graduate Ayurveda Course\
+  [202408231159334213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231159334213.pdf.pdf)
+
+- Regarding approving the opening of Personel Ledger Account (PLA) for Chhatrapati Sambhaji Maharaj Government Medical College and Hospital, Satara.\
+  [202408221527284313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221527284313.pdf)
+
 ## Personnel
 - Administrative approval for the purchase of machinery and equipment under the state scheme to Government Medical College and Hospital, Miraj, District Sangli\
   [202408191232436413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191232436413.pdf)
@@ -59,6 +74,9 @@
 
 - Administrative approval for the purchase of furniture under the state scheme to Government Medical College, Nashik\
   [202408211447200513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211447200513.pdf)
+
+- Regarding alternative site for setting up a new Government Medical College with an intake capacity of 100 students and an attached 430 bedded hospital at Jalna.\
+  [202408231250373613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231250373613.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

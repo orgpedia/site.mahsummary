@@ -32,6 +32,15 @@
 - creation of 3 regular posts of Vehicle Drivers for Maharashtra Administrative Tribunal Office.\
   [202408221508387607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221508387607.pdf)
 
+- Re-introduction of scheme for honoring/reasonable tribute to persons subjected to detention during emergency period..... Regarding the distribution of funds for the months of August and September 2024...\
+  [202408231528049407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231528049407.pdf)
+
+- Filling the post of deputation basis\
+  [202408231807460807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231807460807.pdf)
+
+- Regarding sanction of financial assistance from the Chief Ministers Charitable Endowment Fund. Maharashtrian Mandal, Sadashiv Peth, Tilak Road, Pune.\
+  [202408231157380007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231157380007.pdf)
+
 ## Personnel
 - Hon. Chief Ministers Secretariat, Hon. Chief Ministers Office in Government Residence, A.M.U.S. And M.R.A. Regarding extension of appointment of supplier for supply of writing materials, computer materials and other materials for his office as well as ministerial establishment offices (Manastha-1,2 and 3).\
   [202408201609139107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201609139107...pdf)
@@ -41,6 +50,27 @@
 
 - CPTP 8 - Regular Posting order of desk officer Cadre.\
   [202408211649395207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211649395207.pdf)
+
+- Regarding the promotion of 1 post in the cadre of Deputy Secretary to the cadre of Joint Secretary on the establishment of the General Administration Department (Self)...\
+  [202408231715598107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231715598107.pdf)
+
+- Repatriation from Deputation- Shri. Ashok S. Kayande, Under Secretary\
+  [202408231816471607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231816471607.pdf)
+
+- Ad-hoc Promotion to the post of Desk officer\
+  [202408231801308707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231801308707.pdf)
+
+- Regarding partial change of posting after promotion to the post of Desk Officer\
+  [202408231804347607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231804347607.pdf)
+
+- Mid-Term Transfer-2024 Assistant Section Officer.\
+  [202408231818157407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231818157407.pdf)
+
+- Repatriation from Deputation- Shri. Amol S. Mutyal, Deputy Secretary\
+  [202408231814190507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231814190507.pdf)
+
+- Temporary promotion to the post of Joint Secretary.\
+  [202408231812056407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231812056407.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

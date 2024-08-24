@@ -7,6 +7,9 @@
 - Regarding providing financial assistance to the athletes of the state who have qualified for the Olympic Games in Paris, France...\
   [202408221854050521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221854050521.pdf)
 
+- Regarding the grant of insurance cover/concessional assistance to the families of employees who die of corona virus infection while on duty related to Covid-19. Kai (Mr.) Rajendra Ratan Chavan, Co. Teacher\
+  [202408231503495721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231503495721..pdf)
+
 ## Miscellaneous
 - Regarding government approval for computer shorthand exams.\
   [202408201500014821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201500014821.pdf)
@@ -26,6 +29,9 @@
 - Regarding the constitution of a committee to make recommendations regarding the issue of contractual employees under the Samagra Shiksha Yojana.\
   [202408221141125721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221141125721.pdf)
 
+- Regarding classification of educational and non educational works for teachers.\
+  [202408231809497621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231809497621.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
   [202408201449236021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201449236021.pdf)
@@ -41,6 +47,9 @@
 
 - Regarding the transfer of management of Shivaji Village Agricultural Development Board, Khamgaon, Dist.Solapur run secondary school Agalgaon, Dist.Solapur to Bharatmata Multipurpose Sanstha Barshi, Dist.Solapur.\
   [202408221222212021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221222212021.pdf)
+
+- Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025\
+  [202408231609150321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231609150321.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

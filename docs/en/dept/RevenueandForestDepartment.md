@@ -25,6 +25,9 @@
 - Year 2024-25 to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur (2415-1077) regarding disbursement of funds for 31-Assistant Grants (non-salary) under the scheme.\
   [202408221444461019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221444461019.pdf)
 
+- Regarding Mauje Dusalgaon, Gangakhed, Dist. Parbhani. for the year 2014-2015, return of unexcavated sand from Sand Ghat at  -- M.S Pandit Transport Through Shri. Ravikant Kundlik Pandit, Res. Pokharani, Gangakhed, Dist. parbhani\
+  [202408231704154619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231704154619.pdf)
+
 ## Miscellaneous
 - Corrigendum  Government Resolution regarding Proposal of Survey Settlements and demarcation of forests (4406 0053) for the year of 2024-25.\
   [202408201830380219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408201830380219.pdf)
@@ -34,6 +37,12 @@
 
 - Regarding the continuation of ad hoc promotion of Naib Tehsildar working on ad hoc promotion in Amravati Division in the selection year 2022-23 to vacant posts in direct service quota.\
   [202408221752534419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221752534419.pdf)
+
+- Forest Land-Pune Diversion of 0.3312 ha of Reserved Forest land in favour of Lonavala Municipal Council, Lonavala for construction of road passing through Forest Survey No. 57 of Village- Bhushi, Taluka- Maval, District- Pune in the State of Maharashtra.\
+  [202408231741539919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231741539919.pdf)
+
+- Forest Land-Pune Diversion of 0.95 ha. Reserved Forest land for establishment  development of Van Samriddhi Udyan (A Park for Forest  Tourism information and Wildlife Habitat Development) at Village Kanheri, Tal. Baramati, Dist. Pune in the State of Maharashtra.\
+  [202408231738578019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231738578019.pdf)
 
 ## Personnel
 - Posting of officers in Tehsildar cadre by transfer\
@@ -65,6 +74,15 @@
 
 - Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Amravati Division (Electoral Year 2023-24).\
   [202408221750027019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221750027019.pdf)
+
+- Regarding creation of surplus posts for conducting On the Job Training (OJT) training for officers of 2022 batch in Indian Forest Service..\
+  [202408231458008619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231458008619.pdf)
+
+- Appointment by deputation Regarding appointment of Smt. Vijaya Yadav, Deputy Collector currently awaiting appointment as Deputy Commissioner, Sangli-Miraj-Kupwad Municipal Corporation, Sangli on deputation...\
+  [202408222200150819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408222200150819.pdf)
+
+- Appointment by deputation Mr. Regarding appointment of Soham Viaal, Resident Deputy Collector, Jalna to the post of Director (Administration), State Workers Insurance Scheme, Mumbai on deputation...\
+  [202408222203009119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408222203009119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

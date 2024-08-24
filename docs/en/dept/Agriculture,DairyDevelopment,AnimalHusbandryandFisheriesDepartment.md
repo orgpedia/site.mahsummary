@@ -19,6 +19,15 @@
 - Regarding granting administrative approval for purchase of skill laboratory material (vocational insect) for the students of various colleges under all the four agricultural universities of the state...\
   [202408221707561901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221707561901.pdf)
 
+- Regarding disbursement of grant to Dr.Bala Saheb Sawant Kokan Agricultural University, Dapoli for the financial year 2024-25 (2415 1095) under the head 31- Subsidiary Grants (Non-salary). (State share 25 percent) (Programme)\
+  [202408231502163601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231502163601.pdf)
+
+- Regarding disbursement of grant-in-aid to Mahatma Phule Agricultural University, Rahuri in the financial year 2024-25 (2415 1086) under this head 31- Subsidiary Grants (Non-salary) (State share 25 percent) (Programme)\
+  [202408231458459801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231458459801.pdf)
+
+- Regarding disbursement of grant under tribal component program to Mahatma Phule Agricultural University, Rahuri Subordinate College of Agriculture, Nandurbar in the financial year 2024-25...\
+  [202408231239016101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231239016101.pdf)
+
 ## Miscellaneous
 - Regarding approving opening of separate savings accounts in nationalized banks for 100 central share under Pradhan Mantri Formalization of Micro Food Processing Enterprises\
   [202408191431367101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191431367101.pdf)

@@ -7,6 +7,9 @@
 - Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
   [202408191220030116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191220030116.pdf)
 
+- Regarding provision of funds for provision of specified civil services and facilities in the area of Civil Local Self-Government Organisations...\
+  [202408231446561516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231446561516.pdf)
+
 ## Miscellaneous
 - Regarding nomination as Nominee Member on Mumbai Suburban District Planning Committee...\
   [202408191612064916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191612064916.pdf)

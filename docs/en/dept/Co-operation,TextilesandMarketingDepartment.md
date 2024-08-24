@@ -14,5 +14,8 @@
 - Integrated and Sustainable Textile Industry Policy 2023-28. Regarding determination of machinery eligible for benefit of capital subsidy under Maha-Technology Upgradation Fund Scheme (Maha-TUFS)\
   [202408211447529902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211447529902.pdf)
 
+- Regarding the opening of a new account head for the beneficiaries of the Scheduled Tribe category under the Central Sector Scheme Silk Samajra-2 (ISDSI)...\
+  [202408231209508802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231209508802.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

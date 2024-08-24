@@ -37,6 +37,18 @@
 - Administrative approval to expenditure of Training at Maharashtra Police Academy Nashik for 4 ARTO of Motor Vehicle Department\
   [202408221514354129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221514354129.pdf)
 
+- Development of Cruise Terminal at Bhagwati Port Dist.Ratnagiri, regarding the administrative approval of the budget for this work at a cost of Rs.302,42,10,171/- under Sagarmala Project (Account Head 3051 1891)\
+  [202408231627081829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231627081829.pdf)
+
+- Regarding administrative approval for the expenditure of Mantralaya Security Project Phase-II\
+  [202408231722336529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231722336529.pdf)
+
+- Regarding the provision of funds under the scheme Community Policing implemented by the police to reduce the crime rate by creating awareness and religious harmony in the society\
+  [202408231453450229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231453450229.pdf)
+
+- Regarding construction of breakwater wall and ro-ro jetty and construction of similar facilities at Revdanda, Sub-district Alibag, District Raigad, providing administrative approval for this work.\
+  [202408231712040629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231712040629.pdf)
+
 ## Miscellaneous
 - Corrigendum - About forming a committee for solving financial and important issues of MSRTC workers...\
   [202408191449014729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191449014729.pdf)
@@ -50,6 +62,9 @@
 - Combined full service review at the age of 50/55 years in the Category of Assistant Regional Transport officer and Motor Vehicle Inspector  Cadre.\
   [202408211152244729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408211152244729.pdf)
 
+- Regarding promotion of I.P.S. officer.\
+  [202408231719283729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231719283729.pdf)
+
 ## Personnel
 - Regarding transfers/postings of S.P.S.officers.\
   [202408202226494829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408202226494829.pdf)
@@ -62,6 +77,12 @@
 
 - Regarding transfer/posting of I.P.S./S.P.S officer.\
   [202408222017490429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408222017490429.pdf)
+
+- Regarding release of provisional seniority list of Deputy Commissioner (Retd.) (Group-A) cadre in State Excise Department dated 01.01.2023 and 01.01.2024.\
+  [202408231704244229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231704244229.pdf)
+
+- Regarding transfers/postings of S.P.S. officers\
+  [202408231104586829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231104586829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
