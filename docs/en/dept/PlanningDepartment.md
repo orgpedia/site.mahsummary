@@ -1,31 +1,26 @@
 # Planning Department
 
-**Date Range**: 19 August 2024 - 24 August 2024
+**Date Range**: 26 August 2024 - 31 August 2024
 
 
 ## Funds
-- Regarding provision of funds for provision of specified civic services and facilities within the area of urban local self-government bodies\
-  [202408191220030116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191220030116.pdf)
+- Development and beautification of the Samadhi of Shri Sant Jaganade Maharaj at Mauje Sudumbare, T. Maval, Dist. Pune under Shri Kshetra Dehu, Alandi, Bhandara Dongar, Pandharpur and Palkhital/Marg Development Scheme regarding the distribution of funds. Year 2024-25\
+  [202408261559415516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261559415516.pdf)
 
-- Regarding provision of funds for provision of specified civil services and facilities in the area of Civil Local Self-Government Organisations...\
-  [202408231446561516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408231446561516.pdf)
+- Tiger and Lions Point Development Plan in Kurwande District Maval, District Pune regarding the distribution of funds. Year 2024-25\
+  [202408261603034716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261603034716.pdf)
 
-## Miscellaneous
-- Regarding nomination as Nominee Member on Mumbai Suburban District Planning Committee...\
-  [202408191612064916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191612064916.pdf)
+- Regarding Sri Malojiraje Bhosales Gadhi and Hazrat Chandshahwali Baba Dargah Development Plan regarding the distribution of funds. Year 2024-25\
+  [202408261556508116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261556508116.pdf)
 
-- Regarding nomination as Nominee Member on Latur District Planning Committee...\
-  [202408221641137016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221641137016.pdf)
+- Regarding Rajmata Saibai Memorial Development Plan Fund Distribution. Year 2024-25\
+  [202408261550119616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261550119616.pdf)
 
-- Regarding nomination as Special Invitee to Jalna District Planning Committee...\
-  [202408221641554916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221641554916.pdf)
+- Regarding Hutatma Shivram Hari Rajguru Janmsthala Premises Development Plan fund distribution. Year 2024-25\
+  [202408261553472316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261553472316.pdf)
 
-- Regarding nomination as Special Invitee to Jalna District Planning Committee...\
-  [202408221644393416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408221644393416.pdf)
-
-## Personnel
-- Regarding the creation of a comprehensive database of government employees. Employees Master Database (EMDb)\
-  [202408191444570016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191444570016.pdf)
+- Regarding Pandharpur Temple Development Plan Fund Distribution. Year 2024-25\
+  [202408261546093216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261546093216.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
