@@ -19,5 +19,8 @@
 - Regarding giving administrative approval to the annual work plan of Rs.321.30 crores approved for the year 2024-2025 of subsidy project for sugarcane harvesting under National Agricultural Development Scheme.\
   [202408261857142402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261857142402.pdf)
 
+- Integrated and Sustainable Textile Industry Policy 2023-28. Guidelines for Capital Subsidy Scheme for Textile Projects in the State.\
+  [202408281215261502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281215261502.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

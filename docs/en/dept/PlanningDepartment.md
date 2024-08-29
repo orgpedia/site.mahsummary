@@ -22,5 +22,12 @@
 - Regarding Pandharpur Temple Development Plan Fund Distribution. Year 2024-25\
   [202408261546093216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261546093216.pdf)
 
+- Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
+  [202408281231011516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281231011516.pdf)
+
+## Miscellaneous
+- Regarding nomination of special invitees to Gondia District Planning Committee...\
+  [202408281722251916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281722251916.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

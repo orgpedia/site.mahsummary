@@ -14,5 +14,8 @@
 - Regarding expansion of scope along with improvement in implementation of scheme Mukhyamantri-Majhi Ladki Bahin.\
   [202408261254082330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261254082330.pdf)
 
+- Regarding grant of registration certificate to NGOs under the Juvenile Justice (Care and Protection) Act, 2015 and amendment 2021.\
+  [202408281035161630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281035161630.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

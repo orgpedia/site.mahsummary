@@ -10,6 +10,9 @@
 - Regarding modification of works in Gadchiroli district which have been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
   [202408261810382434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261810382434.pdf)
 
+- Regarding disbursement of funds under Modi Awas Gharkul Scheme.\
+  [202408281534081434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281534081434.pdf)
+
 ## Miscellaneous
 - Other backward Bahujans are being implemented through the department For promotion and publicity of upcoming schemes Administrative and financial approval.\
   [202408261639417234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261639417234.pdf)
@@ -25,6 +28,9 @@
 
 - Regarding the selection of schools under this scheme to educate the students of Dhangar community belonging to nomadic tribe-C category in reputed English medium residential schools in cities. Venkateswara Human Development Board, Beed, Distt. Beed operated Eaglewood English School, Phule Pimpalgaon, T. Majalgaon, Dist. Beed\
   [202408261445070234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261445070234.pdf)
+
+- Regarding sanction of long term loan to cooperative cotton mills of Dhangar community belonging to nomadic tribe-C category in the state.\
+  [202408281703596634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281703596634.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
