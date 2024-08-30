@@ -32,5 +32,17 @@
 - Regarding sanction of long term loan to cooperative cotton mills of Dhangar community belonging to nomadic tribe-C category in the state.\
   [202408281703596634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281703596634.pdf)
 
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Shri Swami Samarth Education Society, Wanjarwada, T. Jalkot, Dist. Latur Conducted Sm. Sanskar Bharti Vidyalaya Public School, Bortal, Tt. Udgir, Dist. Latur\
+  [202408291438391334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291438391334.pdf)
+
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Mr. GAJANAN MULTI PURPOSE CHARITABLE SOCIETY, GEVRAI, ST. Gevrai, Dist. Beed Conducted New Era Public School, Gevarai, St. Gevrai, Dist. Beed\
+  [202408291434091034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291434091034.pdf)
+
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Krishnai Multipurpose Charitable Institution, Davangaon, Tt. Udgir, Dist. Latur Conducted Vidyabharati Public School, Shehal, Tt. Udgir, Dist. Latur\
+  [202408291431181134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291431181134.pdf)
+
+- Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Shrikrishna Multipurpose Charitable Institution, Beed Conducted Siddhivinayak English School, Limbaganesh, T. Dist. Beed\
+  [202408291436281034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291436281034.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

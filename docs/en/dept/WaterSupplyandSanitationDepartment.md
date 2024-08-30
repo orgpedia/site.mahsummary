@@ -76,6 +76,18 @@
 - Regarding giving Revised administrative approval to the village lapali ta- Motala .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202408261655368928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261655368928.pdf)
 
+- Revised Administrative approval to Mauja Kumbhitola, G.P. Kumbhitola, Ta.Arjuni/Morgaon, Dist.Gondia water supply scheme Under JJM.\
+  [202408291119359828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291119359828.pdf)
+
+- Revised Administrative approval to Mauja Baki/Mendhaki, G.P. Baki/Mendhaki, Ta. Sadak/Arjuni, Dist.Gondia water supply scheme Under JJM.\
+  [202408291119314728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291119314728.pdf)
+
+- Revised Administrative approval to Mauja Heti (Khamkhurra), G.P. Khamkhurra, Ta.Arjuni/Morgaon, Dist.Gondia water supply scheme Under JJM.\
+  [202408291119559028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291119559028.pdf)
+
+- Regarding giving administrative approval to the proposal for purchase of Portable Multi-parameter Water Testing Device for analysis of water samples for Divisional Laboratories, Pune and Nashik under Jal Jeevan Mission Programme.\
+  [202408291211042428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291211042428.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the village dhasalwadi ta. buldhana .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202408261656545728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261656545728.pdf)
@@ -137,6 +149,18 @@
 
 - Revised Administrative approval to Mauja Wadhna, G.P.Mohadi, Ta.Mauda, Dist.Nagpur water supply scheme Under JJM.\
   [202408261645497628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261645497628.pdf)
+
+- Revised Administrative approval to Mauja Makkatola, Durgutola G.P. Makkatola, Ta. Salkesa, Dist.Gondia water supply scheme Under JJM.\
+  [202408291119420428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291119420428.pdf)
+
+- Revised Administrative approval to Mauja Kitali, Ta.Bramhapuri, Dist.Chandrapur water supply scheme Under JJM.\
+  [202408291119259228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291119259228.pdf)
+
+- Revised Administrative approval to Mauja Salangtola, Dagotola G.P. Karutola, Ta. Salkesa, Dist.Gondia water supply scheme Under JJM.\
+  [202408291119499628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291119499628.pdf)
+
+- Regarding the temporary promotion and posting of Junior Engineer (Graduate/Diploma)(Civil) in Zilla Parishad to the post of Deputy Engineer (Civil) in the establishment of Maharashtra Jeevan Pradhikaran.\
+  [202408291231165628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291231165628.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

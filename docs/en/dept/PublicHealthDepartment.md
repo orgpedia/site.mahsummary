@@ -7,6 +7,9 @@
 - Regarding implementation of grace grant to Asha volunteers and group promoters working under National Health Mission.\
   [202408191507474617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191507474617.pdf)
 
+- Regarding disbursement of funds for the Mahatma Jyotirao Phule Jan Arogya Yojana for the financial year 2024-25 under the head of account 2210 G 251.\
+  [202408281451358917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281451358917..pdf)
+
 ## Miscellaneous
 - Regarding the reconstitution of the High Level Committee for  Prevention and Control of Communicable Diseases\
   [202408261151033517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261151033517.pdf)

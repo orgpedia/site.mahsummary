@@ -50,5 +50,11 @@
 - Probation completion lecturer in government polytechnic\
   [202408281714401508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281714401508.pdf)
 
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. (Ekdant College of Pharmacy, Umred,  Dist.Nagpur)\
+  [202408291219010008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291219010008.pdf)
+
+- 1) Deccan College and Institute of Post Graduate Research, Pune, 2) Gokhale Institute of Economics and Political Science, Pune and 3) Tilak Maharashtra University, Pune for the benefit of medical expenses reimbursement scheme to the teaching and non-teaching staff of all the three reputed universities.\
+  [202408291642441008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291642441008.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

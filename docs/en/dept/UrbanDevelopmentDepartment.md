@@ -10,6 +10,9 @@
 - Nagarothan Mahabhiyan - Administrative Approval for Ambarnath Water Supply Project.\
   [202408261836101125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261836101125.pdf)
 
+- Nagarothan Mahabhiyan - Administrative Approval for Dharmabad Water Supply Project.\
+  [202408291659431425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291659431425.pdf)
+
 ## Miscellaneous
 - Tata Memorial Center through Thane Municipal Corporation (an institution funded by Department of Atomic Energy, Government of India) and M. Regarding establishment of cancer hospital in Thane Municipal Corporation area as per Tripartite Memorandum of Understanding with Jito Educational and Medical Trust.\
   [202408261322042325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261322042325.pdf)
