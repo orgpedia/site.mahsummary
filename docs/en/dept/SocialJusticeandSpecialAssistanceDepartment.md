@@ -14,5 +14,8 @@
 - Regarding increase in salary of the posts of Legal Officer (Group-A), Legal Officer (Group-B), Legal Assistant, Public Relations Officer and Computer Operator...\
   [202408261156582422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261156582422.pdf)
 
+- Regarding the selection of students for Rajarshi Shahu Maharaj Pardeshi Scholarship Scheme for the year 2024-25 for the education of boys and girls belonging to Scheduled Castes and Neo-Buddhists...\
+  [202408301749071122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301749071122.............pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

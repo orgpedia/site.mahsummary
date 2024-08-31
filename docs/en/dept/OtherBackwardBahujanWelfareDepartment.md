@@ -44,5 +44,11 @@
 - Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Shrikrishna Multipurpose Charitable Institution, Beed Conducted Siddhivinayak English School, Limbaganesh, T. Dist. Beed\
   [202408291436281034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291436281034.pdf)
 
+- Director in the approved revised format for Regional Offices of Other Backward Bahujan Welfare Department, Group-B (Non-Gazetted), Group-C and Group-D Cadres in the quota of nominations under Ex-Secondary Service Selection Boards (outside Maharashtra Public Service Commission) under the establishment of Directorate of Other Backward Bahujan Welfare, Pune Regarding the constitution of State Level Selection Committee for filling up the posts through direct service.\
+  [202408301632301634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301632301634.pdf)
+
+- Regarding disbursement of funds under Foreign Scholarship Scheme in the financial year 2024-25.\
+  [202408301450481634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301450481634.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

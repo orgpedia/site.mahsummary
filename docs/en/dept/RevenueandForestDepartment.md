@@ -22,6 +22,12 @@
 - Regarding disbursement of funds for civic amenities works in the resettled villages of Mauje Sangvi Badalkot, Puloj and Sugaon Bhose in Pandharpur Taluka of Solapur District under Ujani Project.\
   [202408291638347019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291638347019.pdf)
 
+- Regarding grant of administrative approval for civic amenities works in flood-rehabilitated village in Naigaon Taluka of Nanded District.\
+  [202408301510012019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301510012019.pdf)
+
+- Respected Mr. Atal Bihari Vajpayee Botanical Garden, Visapur regarding providing administrative approval to the work budget for Providing Supply and erection of Landscape and Building Thematic lighting\
+  [202408301642548619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301642548619.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
   [202408281248531619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281248531619.pdf)
@@ -38,6 +44,9 @@
 - Regarding provision of funds for emoluments of 42 posts of Divisional Disaster Management Coordinator and District Disaster Management Officer.\
   [202408291740270919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291740270919.pdf)
 
+- Various revenue offices, residences under main head 4059 0799 regarding administrative approval of work...\
+  [202408301733143819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301733143819..pdf)
+
 ## Personnel
 - Provisional consolidated seniority scale showing status as on 01.01.2013 of Sub Collector cadre officers for the period 01.01.2007 to 31.12.2012\
   [202408281951291719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281951291719..pdf)
@@ -50,6 +59,18 @@
 
 - Posting of Officers in Deputy Collector Cadre by Transfer...\
   [202408291743336119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291743336119.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202408301527533819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301527533819.pdf)
+
+- Regarding allotment and posting of Revenue Department to Probationary Tehsildars in Combined Probationary Training Program-7.\
+  [202408301618553019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301618553019.pdf)
+
+- Regarding posting by transfer of officers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted).\
+  [202408301514216719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301514216719.pdf)
+
+- Regarding posting by transfer of officers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted).\
+  [202408301515375519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301515375519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

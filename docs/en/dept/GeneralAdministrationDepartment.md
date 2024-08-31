@@ -13,6 +13,9 @@
 - Subsidiary Grant (Compulsory) to Yashwantrao Chavan Development Administration Prabodhini, Pune, disbursement of funds for the year 2024-2025 under Account Head 2070 0532.\
   [202408291248124907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291248124907.pdf)
 
+- Grant release for CPTP Training to YASHADA Training Centre Pune 2024-25\
+  [202408301110170907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301110170907....pdf)
+
 ## Miscellaneous
 - Regarding sending demand letter for direct service posts under Maharashtra Public Service Commission in Government Service without delay to Maharashtra Public Service Commission....\
   [202408261418598707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261418598707.pdf)
@@ -40,6 +43,15 @@
 
 - Regarding repatriation of Shri. A.M. Bhokare and Shri. S.S. Hake, Clerk cum typist\
   [202408291747041007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291747041007.pdf)
+
+- Filling the post of deputation basis\
+  [202408301738583407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301738583407......pdf)
+
+- Regarding settlement of pending complaints on CPGRAMS Version 1.0 portal of Central Government from 01.09.2024 to 15.09.2024 through special campaign...\
+  [202408301638548607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301638548607.pdf)
+
+- Regarding appointment to the post Department of Soldiers Welfare, State of Maharashtra, Pune Director (Group-A) on his establishment\
+  [202408301648047707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301648047707.pdf)
 
 ## Personnel
 - Assistant Section officer (Main) Exam 2022 Allotment of Waiting List Candidate as Assistant Section Officer in Mantralaya Department and office of Maharashtra Public Service Commission.\

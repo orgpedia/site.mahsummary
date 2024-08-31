@@ -56,5 +56,23 @@
 - 1) Deccan College and Institute of Post Graduate Research, Pune, 2) Gokhale Institute of Economics and Political Science, Pune and 3) Tilak Maharashtra University, Pune for the benefit of medical expenses reimbursement scheme to the teaching and non-teaching staff of all the three reputed universities.\
   [202408291642441008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291642441008.pdf)
 
+- Pursuant to the approval given by the All India Technical Education Council, regarding the approval of the Government to start a new institute of vocational course from the academic year 2024-25 on permanent unaided basis - rectification sheet Sudarshan Education Foundations Sarasam College of Management and Technology, Palashiwadi, Dist.Baramati, Dist.Pune\
+  [202408301911021508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301911021508.pdf)
+
+- Regarding the approval of the Government to start a new Masters degree course in the existing Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202408301506085008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301506085008.pdf)
+
+- From the academic year 2024-25 as per the approval of All India Council of Technical Education, New Delhi B.M.S. Regarding government approval to start the course...\
+  [202408301509124608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301509124608.pdf)
+
+- Regarding approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202408301503320208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301503320208.pdf)
+
+- Regarding approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202408301456279108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301456279108.pdf)
+
+- Regarding the reconstitution of the Steering Committee to recommend and guide measures to overcome the difficulties arising in connection with the implementation of the National Education Policy, 2020 in the State.\
+  [202408301822099808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301822099808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

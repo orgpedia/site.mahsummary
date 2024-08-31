@@ -22,5 +22,12 @@
 - Integrated and Sustainable Textile Industry Policy 2023-28. Guidelines for Capital Subsidy Scheme for Textile Projects in the State.\
   [202408281215261502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281215261502.pdf)
 
+## Personnel
+- Promotion and posting on ad hoc basis from Assistant Registrar Co-operative Societies Group-B to Deputy Registrar Co-operative Societies Group-A.\
+  [202408301427301502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301427301502.pdf)
+
+- Promotion and posting on ad hoc basis from Assistant Registrar Co-operative Societies Group-B to Deputy Registrar Co-operative Societies Group-A.\
+  [202408301431378502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301431378502.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,6 +25,9 @@
 - Regarding provision of funds for provision of specified civic services and facilities in the area of Civil Local Self-Government Bodies...\
   [202408281231011516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281231011516.pdf)
 
+- Sacrifice place of Swarajya rakshak Dharamveer Chhatrapati Sambhaji Maharaj Mauje Tulapur Ta. Haveli and Mausoleum place Smarak Vadhu Bu. Regarding disbursement of funds in the year 2024-25 under Shirur Dist.Pune Development Plan.\
+  [202408301810192416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301810192416.pdf)
+
 ## Miscellaneous
 - Regarding nomination of special invitees to Gondia District Planning Committee...\
   [202408281722251916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281722251916.pdf)
