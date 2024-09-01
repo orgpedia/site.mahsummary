@@ -32,5 +32,12 @@
 - Regarding nomination of special invitees to Gondia District Planning Committee...\
   [202408281722251916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281722251916.pdf)
 
+## Personnel
+- Request transfers of Research Officer / Statistical Officer on the cadre of Directorate of Economics and Statistics.\
+  [202408311323355916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311323355916.pdf)
+
+- Regular Transfers of Research Officer / Statistical Officer on the cadre of Directorate of Economics and Statistics for year 2024\
+  [202408311302184016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311302184016.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

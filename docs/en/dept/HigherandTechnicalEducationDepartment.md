@@ -74,5 +74,21 @@
 - Regarding the reconstitution of the Steering Committee to recommend and guide measures to overcome the difficulties arising in connection with the implementation of the National Education Policy, 2020 in the State.\
   [202408301822099808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301822099808.pdf)
 
+## Personnel
+- Posting of Administrative Officers in Directorate of Technical Education\
+  [202408311643208808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311643208808.pdf)
+
+- Periodic Transfers 2024 Associate and Assistant Professors, Government College of Pharmacy\
+  [202408311637598808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311637598808.pdf)
+
+- Regarding Transfers of Principal, HOD and Lecturers in Government Polytechnic, Maharashtra Polytechnic Teachers Group-A of 2024.\
+  [202408311545475708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311545475708.pdf)
+
+- Transfers 2024,  Administrative Officers in Directorate of Technical Education\
+  [202408311633599508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311633599508.pdf)
+
+- Periodic Transfers 2024 Assistant Professors, Government College of Engineering\
+  [202408311629465108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311629465108.....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

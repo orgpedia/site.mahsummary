@@ -151,6 +151,30 @@
 - Revised Administrative approval to Mauja Khedi, G.P. Ajni, Ta. Savner, Dist. Nagpur water supply scheme Under JJM.\
   [202408291127166428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291127166428.pdf)
 
+- Revised Administrative approval to Mou. Borggoan (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131278328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131278328.pdf)
+
+- Revised Administrative approval to Mou. Hanumant khede Kh (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131471028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131471028.pdf)
+
+- Revised Administrative approval to Mou. Ghardi (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301132215428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301132215428.pdf)
+
+- Revised Administrative approval to Mou. Bhokani (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131326828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131326828.pdf)
+
+- Revised Administrative approval to Mou. Karanj (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131087028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131087028.pdf)
+
+- Revised Administrative approval to Mou. Patharad Kh (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131230728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131230728.pdf)
+
+- Revised Administrative approval to Mou. Sonwad Kh (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301132363928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301132363928.pdf)
+
+- Revised Administrative approval to Mou. Waghalud Kh (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131424228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131424228.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the village dhasalwadi ta. buldhana .dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202408261656545728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261656545728.pdf)
@@ -251,6 +275,42 @@
 
 - Corrigendum - Regarding the temporary promotion and posting of Junior Engineer (Graduate/Diploma)(Civil) in Zilla Parishad to the post of Deputy Engineer (Civil) in the establishment of Maharashtra Jeevan Pradhikaran.\
   [202408301124304528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301124304528.pdf)
+
+- Revised Administrative approval to Mou. Bhadali Kh (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301130590828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301130590828.pdf)
+
+- Revised Administrative approval to Mou. Wadali (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131375028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131375028.pdf)
+
+- Revised Administrative approval to Mou. Ukhalwadi (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301132261428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301132261428.pdf)
+
+- Revised Administrative approval to Mou. Nanded (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131590928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131590928.pdf)
+
+- Revised Administrative approval to Mou. Kavthal (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131134528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131134528.pdf)
+
+- Revised Administrative approval to Mou. Bhadali Bk(Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131542628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131542628.pdf)
+
+- Revised Administrative approval to Mou. Mhasavad (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131040628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131040628.pdf)
+
+- Revised Administrative approval to Mou. Sakare (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301132120928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301132120928.pdf)
+
+- Revised Administrative approval to Mou. Ridhur (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301132170628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301132170628.pdf)
+
+- Revised Administrative approval to Mou. Ukhalwadi (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301132306728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301132306728.pdf)
+
+- Revised Administrative approval to Mou. Dhanora (Tal. Dharangaon, Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301130533228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301130533228.pdf)
+
+- Revised Administrative approval to Mou. Kinod (Tal., Dist.Jalgaon) water supply sceme Under JJM.\
+  [202408301131177828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301131177828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

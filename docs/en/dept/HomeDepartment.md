@@ -51,5 +51,8 @@
 - Supplementary Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
   [202408301931290729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301931290729.pdf)
 
+- General Transfer of Personal Assistant/Administrative Officer/Structure and Procedure Officer, Group B Gazetted Officers in Prison Department, Year-2024.\
+  [202408311245352529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311245352529.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
