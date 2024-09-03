@@ -1,94 +1,22 @@
 # Higher and Technical Education Department
 
-**Date Range**: 26 August 2024 - 31 August 2024
+**Date Range**: 02 September 2024 - 07 September 2024
 
 
 ## Funds
-- Regarding giving administrative and financial approval to the Publicity Media Plan for the educational curriculum to be implemented through the Maharashtra State Board of Technical Education, Mumbai.\
-  [202408281448058208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281448058208.pdf)
+- Maharashtra National Law University, Nagpur, regarding acceptance of government liability for the rental amount of the hostel building taken on lease for the accommodation of the students of the University...\
+  [202409021527516708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021527516708...pdf)
 
 ## Miscellaneous
-- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25 as per approval of Pharmacy Council of India, New Delhi.  (Ashirwad College of Pharmacy, At. Jamnapur, Sakoli, Dist. Bhandara)\
-  [202408261239202508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261239202508.pdf)
+- As per the approval of the Council of Architecture, New Delhi, with regard to Government approval of the existing Bachelors and Masters degree courses in the Institute of Architecture from the academic year 2024-25 as well as the change of University...\
+  [202409021521540508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021521540508.pdf)
 
-- From the academic year 2024-25, the institutions of BBA, BCA under the jurisdiction of the All India Council of Technical Education, New Delhi, and also the courses in the said institutions...\
-  [202408261503313108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261503313108.pdf)
-
-- As per the approval of the Pharmacy Council of India, New Delhi, regarding the approval of the Government to start a new Post Graduate Course in the Institute of the existing Graduate Pharmacology Course from the academic year 2024-25.\
-  [202408261517129408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261517129408.pdf)
-
-- From the academic year 2024-25, the institutions of BBA, BCA under the jurisdiction of the All India Council of Technical Education, New Delhi, and also the courses in the said institutions...\
-  [202408261506562308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261506562308.pdf)
-
-- As per the approval of the Pharmacy Council of India, New Delhi, regarding the approval of the Government to start a new Masters degree course in the institution of the existing Degree Pharmacology course from the academic year 2024-25.\
-  [202408261510422308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261510422308.pdf)
-
-- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25 as per approval of Pharmacy Council of India, New Delhi. (Annapurna Institute of Pharmaceutical Science and Research, Chhatrapati Sambhajinagar)\
-  [202408261229182608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261229182608.pdf)
-
-- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
-  [202408261513597908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261513597908.pdf)
-
-- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25 as per approval of Pharmacy Council of India, New Delhi.  (Imperial College of Pharmacy,Gondia)\
-  [202408261235202608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408261235202608.pdf)
-
-- Regarding approval to start new diploma course on permanent unaided basis in the institution of existing degree pharmacy course from the academic year 2024-25. (Balasaheb Desai College of Pharmacy , Kolhapur)\
-  [202408281609117808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281609117808.pdf)
-
-- Regarding amending the Government decision for approval of new subject/course, additional batch, faculty under extension for the academic year 2024-25.\
-  [202408281134029808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281134029808.pdf)
-
-- As per the approval of the All India Council of Technical Education, New Delhi regarding the approval of the Government to start a new degree course from the academic year 2024-25 in the existing unaided degree institute....\
-  [202408281806291408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281806291408.pdf)
-
-- BBA, BBM, BMS, BCA, MBA Integrated and MCA Integrated course institutes under All India Council of Technical Education, New Delhi from the academic year 2024-25. Also, regarding government approval of the courses in the said institutes - government Corrigendum.\
-  [202408281617387908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281617387908.pdf)
-
-- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
-  [202408281730161308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281730161308.pdf)
-
-- Probation completion lecturer in government polytechnic\
-  [202408281714401508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281714401508.pdf)
-
-- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. (Ekdant College of Pharmacy, Umred,  Dist.Nagpur)\
-  [202408291219010008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291219010008.pdf)
-
-- 1) Deccan College and Institute of Post Graduate Research, Pune, 2) Gokhale Institute of Economics and Political Science, Pune and 3) Tilak Maharashtra University, Pune for the benefit of medical expenses reimbursement scheme to the teaching and non-teaching staff of all the three reputed universities.\
-  [202408291642441008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408291642441008.pdf)
-
-- Pursuant to the approval given by the All India Technical Education Council, regarding the approval of the Government to start a new institute of vocational course from the academic year 2024-25 on permanent unaided basis - rectification sheet Sudarshan Education Foundations Sarasam College of Management and Technology, Palashiwadi, Dist.Baramati, Dist.Pune\
-  [202408301911021508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301911021508.pdf)
-
-- Regarding the approval of the Government to start a new Masters degree course in the existing Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
-  [202408301506085008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301506085008.pdf)
-
-- From the academic year 2024-25 as per the approval of All India Council of Technical Education, New Delhi B.M.S. Regarding government approval to start the course...\
-  [202408301509124608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301509124608.pdf)
-
-- Regarding approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
-  [202408301503320208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301503320208.pdf)
-
-- Regarding approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
-  [202408301456279108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301456279108.pdf)
-
-- Regarding the reconstitution of the Steering Committee to recommend and guide measures to overcome the difficulties arising in connection with the implementation of the National Education Policy, 2020 in the State.\
-  [202408301822099808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408301822099808.pdf)
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. (Kalavati Institute of Pharmacy, Chatrapati Sambhajinagar)\
+  [202409021532398908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021532398908.pdf)
 
 ## Personnel
-- Posting of Administrative Officers in Directorate of Technical Education\
-  [202408311643208808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311643208808.pdf)
-
-- Periodic Transfers 2024 Associate and Assistant Professors, Government College of Pharmacy\
-  [202408311637598808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311637598808.pdf)
-
-- Regarding Transfers of Principal, HOD and Lecturers in Government Polytechnic, Maharashtra Polytechnic Teachers Group-A of 2024.\
-  [202408311545475708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311545475708.pdf)
-
-- Transfers 2024,  Administrative Officers in Directorate of Technical Education\
-  [202408311633599508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311633599508.pdf)
-
-- Periodic Transfers 2024 Assistant Professors, Government College of Engineering\
-  [202408311629465108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408311629465108.....pdf)
+- Regarding the constitution of a committee to submit a detailed report on matters relating to social work colleges.\
+  [202409021754187108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021754187108.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
