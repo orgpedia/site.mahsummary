@@ -13,6 +13,21 @@
 - Regarding ex-gratia assistance to the families of employees who died due to Covid infection while performing the duties related to  Covid-19.  (Late Shri.Rajendra Kashinath Shinde , Inspector of Motor Vehicles)\
   [202409031209029329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031209029329.pdf)
 
+- Regarding giving administrative and financial approval to the cost estimate for reconstruction of Satara Central Bus Stand in Satara Division of Maharashtra State Transport Corporation...\
+  [202409041710399429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041710399429.pdf)
+
+- EPBX System will be installed in the offices of Motor Accident Claims Tribunal, Mumbai and State Transport Appellate Tribunal, Mumbai for sanctioning a total amount of Rs.1,37,300/-...\
+  [202409041812229329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041812229329.pdf)
+
+- Regarding disbursement of funds amounting to Rs.300.00 Crore to Maharashtra State Road Transport Corporation as reimbursement of discounted price for Mahe July, 2024...\
+  [202409041517199529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041517199529.pdf)
+
+- Regarding giving administrative and financial approval to the budget for the reconstruction of Mahabaleshwar Bus Stand in Satara Division of Maharashtra State Road Transport Corporation...\
+  [202409041713206429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041713206429.pdf)
+
+- Regarding giving administrative and financial approval to the cost estimate for reconstruction of Y Bus Stand in Satara Division of Maharashtra State Transport Corporation...\
+  [202409041706219629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041706219629.pdf)
+
 ## Miscellaneous
 - Regarding prescribing the seven patterns prepared for the system. Indian Parliament has passed three Acts namely Indian Judicial Code 2023, Indian Civil Security Code 2023 and Indian Evidence Act 2023. Considering the fact that the implementation of the said new laws is taking place from 1.7.2024, the National Crime Research Bureau (N.C.R.B.) as per the above new laws C.C.T.N.S.\
   [202409021740159929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021740159929......pdf)
@@ -22,6 +37,12 @@
 
 - Regarding appointing a study group of expert persons in the Department for Business Process Re-engineering of notified services under Motor Vehicle Department.\
   [202409031308264829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031308264829.pdf)
+
+- Regarding constitution of State Maritime  Waterway Transport Committee.\
+  [202409041135341929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041135341929.pdf)
+
+- Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
+  [202409041322503129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041322503129.pdf)
 
 ## Personnel
 - Regional Transport Officers request regarding transfer...\

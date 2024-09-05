@@ -31,6 +31,12 @@
 - Regarding the financial approval of the expenses incurred for the seminar on Gazetteers : Past, Present and Future organized by Darshanika Department on 05th and 06th August, 2024...\
   [202409031513149523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031513149523.pdf)
 
+- Regarding giving government sponsorship to Dapoli festival and giving administrative approval to the remuneration expenses of artists participating in this festival.\
+  [202409031303063523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031303063523.pdf)
+
+- Grant scheme for grant of experimental grants to theater production organizations for new theater productions.\
+  [202409031459374623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031459374623.pdf)
+
 ## Miscellaneous
 - Regarding extending the deadline for submission of applications to the Public Ganeshotsav Mandals of the State for participating in the 2024 Public Ganeshotsav Competition...\
   [202409031513214723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031513214723.pdf)
@@ -55,6 +61,9 @@
 
 - Regarding granting financial approval to special cultural program organized for third party community.\
   [202409021638561923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021638561923.pdf)
+
+- Regarding preparation of form for shadowing eligible entities under New Tourism Policy-2024, setting up of sub-committee to provide information/assistance to steering committee.\
+  [202409041625118323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041625118323.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

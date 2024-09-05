@@ -48,5 +48,11 @@
 - Shri Balaji (Ed.) Shikshan Prasarak Mandal, Parbhani Conducted, Srishail Mallikarjun Vidyalaya, Arvi Shivar, Latur regarding shifting of Subhedar to Ramji Nagar, Latur.\
   [202409031300456521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031300456521.pdf)
 
+- Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025\
+  [202409041802589421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041802589421.pdf)
+
+- Jijamata Rural Education Broadcasting Board, Loha, Distt. Regarding relocation of Nanded operated B.G.Pawar English School, Loha, District Nanded to Siddeshwar Road, Latur.\
+  [202409041113072421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041113072421.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
