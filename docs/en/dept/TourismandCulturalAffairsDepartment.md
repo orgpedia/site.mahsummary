@@ -37,6 +37,12 @@
 - Grant scheme for grant of experimental grants to theater production organizations for new theater productions.\
   [202409031459374623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031459374623.pdf)
 
+- Regarding the financial approval of the expenses incurred for welcoming the Sant Palkhi at Isbavi on the occasion of Devshayani Ashadhi Ekadashi.\
+  [202409051540191123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051540191123.pdf)
+
+- On the occasion of Ashadhi Wari, regarding the approval of the expenses of organizing cultural programs in the five revenue departments of the state.\
+  [202409051537094323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051537094323.pdf)
+
 ## Miscellaneous
 - Regarding extending the deadline for submission of applications to the Public Ganeshotsav Mandals of the State for participating in the 2024 Public Ganeshotsav Competition...\
   [202409031513214723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031513214723.pdf)
@@ -64,6 +70,15 @@
 
 - Regarding preparation of form for shadowing eligible entities under New Tourism Policy-2024, setting up of sub-committee to provide information/assistance to steering committee.\
   [202409041625118323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041625118323.pdf)
+
+- Regarding the financial approval of the expenses of organizing spiritual and cultural programs of Bhaktirang in Mumbai on the occasion of Ashadhi Vari.\
+  [202409051543148923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051543148923.pdf)
+
+- Regarding granting financial assistance to encourage the production of quality Marathi films.\
+  [202409051238163923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051238163923.pdf)
+
+- Regarding outsourcing the services of 39 vacant posts in Group-D cadre at the establishment of Directorate of Archives, Mumbai and giving administrative approval for the expenditure incurred thereon.\
+  [202409041042536323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041042536323.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

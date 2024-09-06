@@ -20,6 +20,12 @@
 - With regard to post-commissioning extension of the supernumerary post created for Mr. Pravin Rukhmaji Nandanwar, Junior Clerk, working under the office of Chief Engineer, Public Works Regional Department, Amravati.\
   [202409041129439518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041129439518.pdf)
 
+- Upgradation of other district road to Major District Road in taluka Shiroal at distrct Kolhapur.\
+  [202409051134463318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051134463318.pdf)
+
+- Superintending Engineer, S. B. Circle, Regarding creation of surplus posts for the employees whose caste claims of Scheduled Tribes under Amravati have been invalidated and extension of said surplus posts.....\
+  [202409051643494418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051643494418.pdf)
+
 ## Personnel
 - Promotion order of Junior Engineer on the post of Sub Divisional Officer (Civil), Public Works Department (Select List 2021-22)\
   [202409021820540318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021820540318....pdf)
@@ -38,6 +44,9 @@
 
 - Transfer / Posting of Officer in Chief Engineer (Civil) Cadre\
   [202409041451249418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041451249418.pdf)
+
+- Regarding shifting of Divisional Office of Public Works Department, Akola to Akot under Chief Engineer, Public Works Regional Department, Amravati.\
+  [202409051647391218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051647391218.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

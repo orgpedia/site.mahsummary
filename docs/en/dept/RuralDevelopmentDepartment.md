@@ -7,6 +7,9 @@
 - Administrative Approval for Construction of  Dharni Panchayat Samiti New Administrative Building (Dist. Amravati)\
   [202409041214350920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041214350920.pdf)
 
+- Regarding disbursement of funds by giving administrative approval to the budget for development works to be carried out at rural pilgrimage sites. Jugaidevi Mandir Yelavane Jugai Tal Shahuwadi Dist Kolhapur.\
+  [202409041117446920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041117446920.pdf)
+
 ## Miscellaneous
 - Corrigendum of consolidated state level final seniority list dated 01.01.2023 and dated 01.01.2024 of Junior Engineer in District Technical Service, Class-3 (Water Supply) cadre in Zilla Parishad.\
   [202409021615037220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021615037220.pdf)
@@ -22,6 +25,9 @@
 
 - Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Buldhana district.\
   [202409041143169720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041143169720...pdf)
+
+- Consolidated State Level Final Seniority List as on 01.01.2024 of District Technical Service, (Class-3) Construction) Cadre Junior Engineer (Graduate) in Zilla Parishad.\
+  [202409041653349420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041653349420.pdf)
 
 ## Personnel
 - Appointment of Retired Deputy Engineer on Contract basis for MRRDA\

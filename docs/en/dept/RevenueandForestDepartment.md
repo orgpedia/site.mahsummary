@@ -19,6 +19,21 @@
 - Respected Mr. Atal Bihari Vajpayee Botanical Garden, Visapur Subdistrict Ballarpur Dist.Chandrapur Regarding providing administrative approval to the budget for the Planetarium Dome and the work budget for Acoustic treatment, Furniture and Ancillary.\
   [202409041819269919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041819269919.pdf)
 
+- Regarding providing assistance to the affected people due to untimely rains/ heavy rains in various districts in the state from November, 2023 to July, 2024.\
+  [202409051658072419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051658072419.pdf)
+
+- various offices under the Registration and Stamps Department Purchase of a new vehicle in exchange for an old written-off vehicle Regarding approval to do.\
+  [202409051755172219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051755172219.pdf)
+
+- Regarding grant of administrative approval to civic aminities works in flood-rehabilitated villages Digras and Dabha (Taluka Jintur District Parbhani)\
+  [202409051516009019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051516009019.pdf)
+
+- Regarding grant of administrative approval to civic aminities works in flood-rehabilitated village Kuadgaon (Taluka Jintur District Parbhani)\
+  [202409051513034819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051513034819.pdf)
+
+- Regarding granting administrative approval to the budget for construction of Vanbhavan joint administrative building for the office of Wildlife Akola, Social Forestry, Akola of the Forest Department at Akola.\
+  [202409051307455719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051307455719.pdf)
+
 ## Miscellaneous
 - Mauje Sanswadi, Shirur, Distt. G.No. in Pune. 1200 regarding the then Hon. With regard to the withdrawal of the order passed by the Minister of State (Revenue)...\
   [202409031201065519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031201065519.pdf)
@@ -41,6 +56,9 @@
 - Forest Land-Nagpur Re- diversion of 0.3993 ha. of Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtal Limited, Nagpur for laying underground Optical Fiber Cable along the existing RoW of Tal Paoni-Umred-Nagpur Road in Nagpur District under Nagpur Forest Division in the state of Maharashtra.\
   [202409041752499419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041752499419.pdf)
 
+- Regarding the change in the facility of withdrawing the amount on negative authorization letter.\
+  [202409051242008419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051242008419.pdf)
+
 ## Personnel
 - Post by promotion in Self Assistant, Group-A (Gazetted) Cadre.\
   [202409021217146819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021217146819.pdf)
@@ -50,6 +68,21 @@
 
 - Regarding to create additional posts of Range Forest Officer and Forester.\
   [202409041659055319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041659055319.pdf)
+
+- Regarding grant of administrative approval to civil aminities works in flood-rehabilitated village Rajura Kh. and Berli Kh. (Taluka Mukhed, District Nanded)\
+  [202409051518358919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051518358919.pdf)
+
+- Transfer requests of officers in the cadre of Divisional Forest Officers in the Forest Department.\
+  [202409051805542519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051805542519.pdf)
+
+- Regarding posting by promotion / transfer of officers in the Indian Forest Service.\
+  [202409051952116919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051952116919.pdf)
+
+- Post by promotion from Assistant Conservator of Forests, Group-A (Junior Grade) to Divisional Forest Officer, Group-A (Senior Grade).\
+  [202409051808492419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051808492419.pdf)
+
+- Regarding the transfer of Assistant Conservator of Forests, Group-A cadre.\
+  [202409051802364719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051802364719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -44,6 +44,15 @@
 - Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
   [202409041322503129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041322503129.pdf)
 
+- Sanctioning of professional Fees to Adv.Ranjeet Sangle as a Special Public Prosecutor for conducting the case in the Session Court, Mumbai which is arising out of C.R.No.16/2024 registered at Yellow Gate Police Station,Mumbai.\
+  [202409051616168929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051616168929.pdf)
+
+- Regarding transfer/posting of I.P.S. officer.\
+  [202409051936458129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051936458129.pdf)
+
+- Probationary B.P.S. Regarding appointment of officers.\
+  [202409051945069029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051945069029.pdf)
+
 ## Personnel
 - Regional Transport Officers request regarding transfer...\
   [202409031313499929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031313499929.pdf)
@@ -53,6 +62,15 @@
 
 - Regarding promotion to the post of Regional Transport Officer.\
   [202409031318049929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031318049929.pdf)
+
+- Regarding transfers/postings of S.P.S.officers.\
+  [202409051821568929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051821568929.pdf)
+
+- Regarding transfer/posting of I.P.S. officer.\
+  [202409051942019029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051942019029.pdf)
+
+- Regarding transfers/postings of S.P.S.officers.\
+  [202409051824589129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051824589129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

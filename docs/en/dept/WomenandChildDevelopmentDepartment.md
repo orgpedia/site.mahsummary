@@ -14,5 +14,8 @@
 - Regarding expansion of scope along with improvement in implementation of scheme Mukhyamantri-Majhi Ladki Bahin.\
   [202409021810570330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021810570330.pdf)
 
+- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2024-25\
+  [202409051713303530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051713303530.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

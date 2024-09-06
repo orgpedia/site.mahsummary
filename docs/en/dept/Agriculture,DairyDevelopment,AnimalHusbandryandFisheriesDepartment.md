@@ -25,6 +25,12 @@
 - Release of fund under PMFME Scheme for the year 2024-25 of ST Category (First Installment)- Regards\
   [202409041825353801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041825353801.pdf)
 
+- Release of funds of Rs.56,00,000/- for the Nanaji Deshmukh Krushi Sanjeevani Project for the financial year 2024-25.\
+  [202409051339455601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051339455601....pdf)
+
+- Regarding the disbursement of funds of Rs.12392.00 lakhs as a supplementary subsidy to the subsidy given under the (Micro Irrigation) component in the year 2024-25 under the Chief Ministers Sustainable Agriculture Irrigation Scheme...\
+  [202409051829541201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051829541201.pdf)
+
 ## Miscellaneous
 - Regarding increase in wage rate of labor services provided for crop harvesting experiments\
   [202409021542301101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021542301101.pdf)
@@ -32,9 +38,15 @@
 - Regarding distribution of subsidy to one Goshala in each taluka under the new revised Govardhan Govansh Seva Kendra Yojana.\
   [202409041212109201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041212109201...pdf)
 
+- Mr. Mayur Mantri, Financial Advisor Chartered Accountant Hon. Balasaheb Thackeray regarding the cancellation of his appointment as a nominated member in the Executive Board of Haridra (Turmeric) Research and Training Centre.\
+  [202409051245246001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051245246001.pdf)
+
 ## Personnel
 - Declaring Commissioner, Fisheries Department Drawing and Disbursing Officer as Virtual Personal Deposit Account Administrator (VPDAA) for expeditious disbursement and control of Subsidy Grant.\
   [202409041350439401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041350439401.pdf)
+
+- Mauje Ajra Distt to expand Ajra Industrial Area. Government area of Kolhapur is 6.99 ha. And the government area at Mauje Parewadi is 10.73. A total of 17.72 is Rs. Regarding transfer of land to Department of Industries, Energy and Labor for establishment of industrial zone on R area.\
+  [202409051751238901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051751238901.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

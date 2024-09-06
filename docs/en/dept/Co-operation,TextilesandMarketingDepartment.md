@@ -10,6 +10,9 @@
 - Release of fund for the year 2024-25 under scheme - Assistance for Strengthening of  District Central Co-operative Banks under STCCS (2425 2524)\
   [202409041545166902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041545166902.pdf)
 
+- Vasantdada Sugar Institute (Bud.) regarding grant-in-aid for research for the financial year 2022-2023 to the institution, Haveli District, Pune.\
+  [202409051528304102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051528304102.pdf)
+
 ## Miscellaneous
 - Regarding relaxation of registration condition required for application of additional power tariff rebate of Rs.0.75 per unit to loom units having added power more than 27 HP but less than 201 HP and Rs.1.00 per unit to loom units having added power less than 27 HP.\
   [202409021826350302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021826350302.pdf)

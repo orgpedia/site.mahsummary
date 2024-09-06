@@ -7,5 +7,8 @@
 - SSDIT for providing a computerized system for handling foreign scholarship cases implemented by various departments of the Ministry. Regarding providing services of Solution, Nashik\
   [202409021125060224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021125060224...pdf)
 
+- To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2024-25. (Scheme Expenditure-BCW scheme)\
+  [202408281736051424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408281736051424.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

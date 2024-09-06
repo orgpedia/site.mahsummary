@@ -31,6 +31,30 @@
 - Appointment on Deputation -Shri. Gajanan B. Gurav, Deputy Secretary.\
   [202409041716055107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041716055107.pdf)
 
+- Regarding the extension of the contract for the provision of aviation management services for the government aircraft Cessna Citation 560 XLS VT-VDD and the government helicopter Airbus H145 VT GOV.\
+  [202409051443574507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051443574507.pdf)
+
+- Deputation Order. Smt Arati Patil, Desk officer.\
+  [202409051215029007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051215029007.pdf)
+
+- Regarding giving six months time to candidates to submit caste validity certificate for admission in educational institutions in engineering, medical and other professional courses for the academic year 2024-25...\
+  [202409051452148907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051452148907.pdf)
+
+- Yashwantrao Chavan Development Administration Prabodhini (Yashda), Pune and Vasantrao Naik State Agricultural Extension Management Training Institute (Vanamati), Nagpur to fill the vacant posts by deputation.\
+  [202409051324061407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051324061407.pdf)
+
+- Regarding the extension of the maintenance and upkeep contract for the government-owned Cessna Citation 560 XLS VT-VDD aircraft.\
+  [202409051439132107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051439132107.pdf)
+
+- Deputation Order. Smt Varsha Samant, Desk officer.\
+  [202409051217217407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051217217407.pdf)
+
+- Regarding extension of time to deputation. Smt.Shaila Jangam, Desk Officer.\
+  [202409051219394207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051219394207.pdf)
+
+- Promotion from Higher Grade Stenographer to Selection Grade Stenographer   - 2024\
+  [202409051314516607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051314516607.pdf)
+
 ## Personnel
 - regarding extension of time Bandra Kurla Complex Administrative Building Ground Floor Plot No. 4 to 8. allotted to Mahanagar Gas Limited.\
   [202409031745091307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031745091307.pdf)
@@ -43,6 +67,15 @@
 
 - Transfer of Under Secretary- Shri. Bhaskar K. Bansode, Under Secretary.\
   [202409041723355607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041723355607.pdf)
+
+- Mid-Term Transfer-2024 Assistant Section Officer.\
+  [202409051321119007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051321119007.pdf)
+
+- Inter-Departmental Transfer Mr. Satish Jaywant Check, Clerk Typist\
+  [202409051311038007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051311038007.pdf)
+
+- Promotion from Selection Grade Stenographer to Senior Personal Assistant - 2024\
+  [202409051318156507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051318156507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,12 +13,18 @@
 - Regarding approving the disbursement of funds to the state of Baden Wuttenberg in Germany under the pilot project for providing skilled manpower in various sectors in Maharashtra.\
   [202409021749490321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021749490321.pdf)
 
+- Reimbursement of tuition fees for students admitted to 25 reserved seats under RTE Rs. 6920.00 regarding provision of attention.\
+  [202409051654372621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051654372621.pdf)
+
 ## Miscellaneous
 - To declare the controlling as well as drawing and disbursing officer for the withdrawal and disbursement of grants under the PradhanMantri Poshan Shakti Nirman Yojana.\
   [202409021816220121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021816220121.pdf)
 
 - National Student Army Scheme- Regarding the increase in the rate of food allowance given to the part-time officers and students of the National Student Army.\
   [202409021846158421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021846158421.pdf)
+
+- Kranti Jyoti Savitrimai Phule State Teacher Merit Award for 2023-24.\
+  [202409051022299021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051022299021.pdf)
 
 ## Personnel
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
@@ -53,6 +59,9 @@
 
 - Jijamata Rural Education Broadcasting Board, Loha, Distt. Regarding relocation of Nanded operated B.G.Pawar English School, Loha, District Nanded to Siddeshwar Road, Latur.\
   [202409041113072421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041113072421.pdf)
+
+- Regarding recruitment of retired teachers / D.Ed, BEd qualified candidates in schools with 20 and less than 20 seats of local bodies on purely contractual basis.\
+  [202409051814057521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051814057521.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

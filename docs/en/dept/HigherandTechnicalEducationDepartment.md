@@ -38,6 +38,15 @@
 - B.B.A from the academic year 2024-25 as per approval given by All India Council of Technical Education, New Delhi. Regarding government approval to start the course...\
   [202409041511109408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041511109408.pdf)
 
+- As per the approval of the All India Council of Technical Education, New Delhi, regarding the approval of the Government to start the new Design (Design) degree course from the academic year 2024-25 in the existing unaided institute...\
+  [202409051053499108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051053499108.pdf)
+
+- Regarding amending the Government Decision for approval of new subjects/courses, additional batch, faculty under extension for the academic year 2024-25.\
+  [202409051717385008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051717385008.pdf)
+
+- Academic year 2024-25 Regarding approval of new courses/ specialization subjects/subjects, additional batch/faculty under expansion in existing colleges. (court case)\
+  [202409051720195908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051720195908.pdf)
+
 ## Personnel
 - Regarding the constitution of a committee to submit a detailed report on matters relating to social work colleges.\
   [202409021754187108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021754187108.pdf)
