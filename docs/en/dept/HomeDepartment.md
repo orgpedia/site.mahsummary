@@ -53,6 +53,12 @@
 - Probationary B.P.S. Regarding appointment of officers.\
   [202409051945069029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051945069029.pdf)
 
+- Administrative approval for purchase of video Conferencing Units for E Seva Kendra for financial year 2024-25\
+  [202409061505274529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061505274529.pdf)
+
+- Regarding the redeveloped plots to be given in lieu of service accommodation to the employees of the Jail Department residing in  B.D.D. chalis..\
+  [202409061549478929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061549478929.pdf)
+
 ## Personnel
 - Regional Transport Officers request regarding transfer...\
   [202409031313499929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031313499929.pdf)
@@ -71,6 +77,9 @@
 
 - Regarding transfers/postings of S.P.S.officers.\
   [202409051824589129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051824589129.pdf)
+
+- Regarding transfer/posting of S.P.S. officer.\
+  [202409061934311129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061934311129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

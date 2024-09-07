@@ -16,6 +16,9 @@
 - Reimbursement of tuition fees for students admitted to 25 reserved seats under RTE Rs. 6920.00 regarding provision of attention.\
   [202409051654372621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051654372621.pdf)
 
+- Regarding the disbursement of the first installment of the Scheduled Tribes Implementation Scheme (TSP) for the financial year 2024-25 for the Centrally sponsored Samagra Shiksha (Primary Education, Secondary Education and Teacher Education) programme. (Central Share and State Share).\
+  [202409061142338221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061142338221.pdf)
+
 ## Miscellaneous
 - To declare the controlling as well as drawing and disbursing officer for the withdrawal and disbursement of grants under the PradhanMantri Poshan Shakti Nirman Yojana.\
   [202409021816220121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021816220121.pdf)
@@ -25,6 +28,9 @@
 
 - Kranti Jyoti Savitrimai Phule State Teacher Merit Award for 2023-24.\
   [202409051022299021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051022299021.pdf)
+
+- Regarding formation of Reformed Grievance Redressal Committee for redressal of grievances of teachers and non-teaching staff of recognized private aided/unaided/partially aided schools and educational institutions.\
+  [202409061646398821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061646398821.pdf)
 
 ## Personnel
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\

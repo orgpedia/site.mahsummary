@@ -55,6 +55,15 @@
 - Promotion from Higher Grade Stenographer to Selection Grade Stenographer   - 2024\
   [202409051314516607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051314516607.pdf)
 
+- Regarding sanction of pay scale of the post of Ministerial Under Secretary to District Soldier Welfare Officers.\
+  [202409061243309307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061243309307.pdf)
+
+- Regarding filling the vacancy in the cadre of Section Officer/Superintendent in the office of Maharashtra Life Authority, Belapur, Navi Mumbai by deputation.\
+  [202409061751050107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061751050107.pdf)
+
+- Promotion from Selection Grade Stenographer to Senior Personal Assistant - 2024\
+  [202409061722572907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061722572907.pdf)
+
 ## Personnel
 - regarding extension of time Bandra Kurla Complex Administrative Building Ground Floor Plot No. 4 to 8. allotted to Mahanagar Gas Limited.\
   [202409031745091307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031745091307.pdf)

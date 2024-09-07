@@ -47,12 +47,24 @@
 - Academic year 2024-25 Regarding approval of new courses/ specialization subjects/subjects, additional batch/faculty under expansion in existing colleges. (court case)\
   [202409051720195908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051720195908.pdf)
 
+- Regarding permission to use the brand Harit Mahacity Compost in the functional area of urban local bodies of the state after examining the compost produced from wet waste. . Regarding inclusion of laboratory in the authorized laboratories. of  Dr.  Panjabrao Deshmukh Agricultural University, Akola.\
+  [202409061511463208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061511463208.pdf)
+
+- Laxminarayan Innovative Technology (LIT) University, Nagpur University regarding the opening of a new account head...\
+  [202409061454595808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061454595808.pdf)
+
+- As per the approval of the Council of Architecture, New Delhi, regarding the approval of the Government to start a new Masters degree course in the existing Institute of Architecture from the academic year 2024-25...\
+  [202409061043263808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061043263808.pdf)
+
 ## Personnel
 - Regarding the constitution of a committee to submit a detailed report on matters relating to social work colleges.\
   [202409021754187108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021754187108.pdf)
 
 - Vasantrao Naik Government Institute of Arts and Social Sciences, Nagpur in possession of Mauje Sitabardi, District Nagpur (City), Dist.Nagpur Land Survey No.302, Nagar Land Survey No.1848 total area 29684.10 sq.m. Out of 377.519 sq.m. Regarding transfer of land to revenue and forest department.\
   [202409041150359508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041150359508.pdf)
+
+- Riddhapur, Dist. Regarding the opening of a new head office for the Marathi Language University at Amravati...\
+  [202409061452503408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061452503408.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

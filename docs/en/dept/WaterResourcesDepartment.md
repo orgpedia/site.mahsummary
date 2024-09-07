@@ -32,6 +32,9 @@
 - Navin Mutha Right Canal of Khadakwasla Project Km. 1 to 34 km. Administrative Approval for Alternate Khadakwasla - Fursungi Tunnel Project.\
   [202409051746113427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051746113427.pdf)
 
+- Regarding establishment of Dam Safety Cell as per provision of Dam Safety Act 2021....\
+  [202409061316564727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061316564727.pdf)
+
 ## Personnel
 - Temporary promotion of Junior Engineer / Section Engineer (Mechanical)  to Deputy Engineer (Mechanical). Select list for the year 2022-2023.\
   [202409021450080527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021450080527.pdf)

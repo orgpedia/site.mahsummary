@@ -10,5 +10,9 @@
 - Introduction of second cycle for minority students in existing Government Technical Colleges.Disbursement of funds for the year 2024-25.\
   [202409041231249514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041231249514.pdf)
 
+## Miscellaneous
+- Regarding regularization of services of 24 employees working on contract basis at Maulana Azad Minority Economic Development Corporation Limited, Mumbai establishment...\
+  [202409061545541714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061545541714...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

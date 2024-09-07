@@ -43,6 +43,9 @@
 - On the occasion of Ashadhi Wari, regarding the approval of the expenses of organizing cultural programs in the five revenue departments of the state.\
   [202409051537094323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051537094323.pdf)
 
+- Regarding disbursing funds for the construction of the theater at Late G.D.Madgulkar Theater, Atpadi, District Sangli.\
+  [202409061313176223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061313176223.pdf)
+
 ## Miscellaneous
 - Regarding extending the deadline for submission of applications to the Public Ganeshotsav Mandals of the State for participating in the 2024 Public Ganeshotsav Competition...\
   [202409031513214723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031513214723.pdf)
@@ -79,6 +82,15 @@
 
 - Regarding outsourcing the services of 39 vacant posts in Group-D cadre at the establishment of Directorate of Archives, Mumbai and giving administrative approval for the expenditure incurred thereon.\
   [202409041042536323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041042536323.pdf)
+
+- 62nd Maharashtra State Amateur Marathi Drama Competition, Final Round and 20th Maharashtra State Childrens Drama Competition, Final Round regarding approval of expenditure on organizing the competition.\
+  [202409051753244323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051753244323.pdf)
+
+- Regarding approval of cultural programs to be held on the occasion of Annabhau Sathes birth anniversary.\
+  [202409051753293323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051753293323.pdf)
+
+- Regarding appointment of Non-Government Members to Maharashtra State Hindi Sahitya Akademi\
+  [202409051753174323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051753174323.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

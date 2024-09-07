@@ -26,5 +26,8 @@
 - Regarding giving administrative approval to the proposal of Rs.2,39,400/- for the purchase of 6 printers for the office of Department of Law and Justice, Ministry, Mumbai Branch-Chhatrapati Sambhajinagar.\
   [202409051129515312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051129515312.pdf)
 
+- Year 2024-25 Budget Grant Demand No. J-5, Heading 7610 Loans to Government Servants, etc., under sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
+  [202409061555562912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061555562912.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

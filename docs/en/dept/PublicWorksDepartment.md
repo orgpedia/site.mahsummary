@@ -48,5 +48,29 @@
 - Regarding shifting of Divisional Office of Public Works Department, Akola to Akot under Chief Engineer, Public Works Regional Department, Amravati.\
   [202409051647391218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051647391218.pdf)
 
+- Posting order of Shri D.S.Bangar, Sub Divisional Engineer (Civil), Public Works Department\
+  [202409061626393718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061626393718.pdf)
+
+- Change in Posting order of promoted Sub Divisional Officer (Civil), Public Works Department\
+  [202409061629294318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061629294318.pdf)
+
+- Change in Posting order of Shri G.T.Ghevande, promoted Sub Divisional Engineer (Civil), Public Works Department\
+  [202409061628073118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061628073118.pdf)
+
+- Cancellation of Transfer order of Shri. S.D.Kamat, Deputy Engineer (Civil), Public Works Department\
+  [202409061634461118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061634461118.pdf)
+
+- Change in Posting order of Shri. S.M. Shinde, promoted Sub Divisional Engineer (Civil), Public Works Department\
+  [202409061637340918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061637340918.pdf)
+
+- Change in Posting order of Shri D.A.Patil, promoted Sub Divisional Officer (Civil), Public Works Department\
+  [202409061621258518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061621258518.pdf)
+
+- Change in Posting order of promoted Sub Divisional Officer (Civil), Public Works Department\
+  [202409061632371918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061632371918.pdf)
+
+- Change in Posting order of Sandesh Eknath Satpute, promoted Sub Divisional Engineer (Civil), Public Works Department\
+  [202409061636067518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061636067518.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

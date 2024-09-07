@@ -31,6 +31,9 @@
 - Regarding the disbursement of funds of Rs.12392.00 lakhs as a supplementary subsidy to the subsidy given under the (Micro Irrigation) component in the year 2024-25 under the Chief Ministers Sustainable Agriculture Irrigation Scheme...\
   [202409051829541201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051829541201.pdf)
 
+- Regarding disbursement of grants to the Mahatma Phule Agricultural University, Rahuri for the financial year 2024-25 31, for Subsidiary Grants (Non-Salary)..(Mandatory)\
+  [202409061159389001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061159389001...pdf)
+
 ## Miscellaneous
 - Regarding increase in wage rate of labor services provided for crop harvesting experiments\
   [202409021542301101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021542301101.pdf)

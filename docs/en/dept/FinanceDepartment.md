@@ -10,5 +10,9 @@
 - Determining the terms and conditions regarding the loan received from the Small Industries Development Bank under the SIDBI Cluster Development Fund SCDF scheme, appointing and responsibilities of the Nodal Officer and opening the ledger\
   [202409041514139605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041514139605.pdf)
 
+## Personnel
+- Delegation of powers to the administrative departments for extending continuation to the temporary posts\
+  [202409061536277305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061536277305.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -34,6 +34,21 @@
 - Regarding granting administrative approval to the budget for construction of Vanbhavan joint administrative building for the office of Wildlife Akola, Social Forestry, Akola of the Forest Department at Akola.\
   [202409051307455719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051307455719.pdf)
 
+- Siddheshwar Peth, Mauje Kasbe, T. North Solapur, Distt. At Solapur No. 6166 Area 2023 sq.m. Taking this income as B-2 form of government, the total collected as Nazarana is Rs. 58,30,245/- regarding refund of amount.\
+  [202409061527439719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061527439719...pdf)
+
+- As per the order of the Honble Court regarding granting approval to Srinivasan Valdi Vayyatu as a special matter to pay the interest amount on stamp duty refund amount from Registration and Stamp Department Account Head 2030 0109-13- Office Expenses....\
+  [202409061149408519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061149408519.pdf)
+
+- Centrally sponsored scheme year 2024-25 Regarding disbursement of funds under the general component under the centrally sponsored scheme Tiger Project.\
+  [202409061708404219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061708404219.pdf)
+
+- Mauje, Pusesavli, Dist. Regarding granting financial assistance to the heirs of the person who died in the communal riots at Satara on 10/09/2023.\
+  [202409061643358619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061643358619.pdf)
+
+- Centrally sponsored scheme year 2024-25 Regarding disbursement of funds for the measures to be taken in response to the damage caused by wild elephants in the Kolhapur Forest Circle under the Centrally Sponsored Scheme Tiger and Elephant Project.\
+  [202409061711488719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061711488719.pdf)
+
 ## Miscellaneous
 - Mauje Sanswadi, Shirur, Distt. G.No. in Pune. 1200 regarding the then Hon. With regard to the withdrawal of the order passed by the Minister of State (Revenue)...\
   [202409031201065519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409031201065519.pdf)
@@ -58,6 +73,12 @@
 
 - Regarding the change in the facility of withdrawing the amount on negative authorization letter.\
   [202409051242008419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051242008419.pdf)
+
+- Year 2024-25 to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur (2415-1077) regarding disbursement of funds for 36-Assistant Grants (Salaries) under the scheme.\
+  [202409061300446619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061300446619.pdf)
+
+- State Plan Year 2024-25 Disbursement of funds for construction of protective wall (4406 3849) in Sanjay Gandhi National Park.\
+  [202409061714199619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061714199619.pdf)
 
 ## Personnel
 - Post by promotion in Self Assistant, Group-A (Gazetted) Cadre.\
