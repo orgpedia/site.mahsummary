@@ -1,18 +1,15 @@
 # Minorities Development Department
 
-**Date Range**: 02 September 2024 - 07 September 2024
+**Date Range**: 09 September 2024 - 14 September 2024
 
 
 ## Funds
-- Regarding distribution of funds to the Maharashtra State Haj Committee for the financial year 2024-25...\
-  [202409021707170314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021707170314.pdf)
-
-- Introduction of second cycle for minority students in existing Government Technical Colleges.Disbursement of funds for the year 2024-25.\
-  [202409041231249514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041231249514.pdf)
+- Regarding disbursement of grant for election to appointment of members from  Category of mutawallis of the 1auqaf having an annual income of rupees one lakh and above,  on Maharashtra State Waqf Board. Chhatrpatti Sambhaji nagar.\
+  [202409091526057514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091526057514.pdf)
 
 ## Miscellaneous
-- Regarding regularization of services of 24 employees working on contract basis at Maulana Azad Minority Economic Development Corporation Limited, Mumbai establishment...\
-  [202409061545541714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061545541714...pdf)
+- Regarding fixing the policy for filling up the posts in the Maharashtra State Minorities Commissionerate by deputation.\
+  [202409091700564114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091700564114.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
