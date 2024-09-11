@@ -40,6 +40,15 @@
 - Killed due to flood due to heavy rain. Regarding providing financial assistance to the heirs of Madhusudan Shravan Meshram.\
   [202409091622354019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091622354019.pdf)
 
+- With regard to providing assistance to farmers as a special matter for the loss of crops due to incessant rains (outside the criteria of heavy rains) during the rainy season of 2022...\
+  [202409101535228519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101535228519.pdf)
+
+- Regarding payment of essential commodities released from NDRR Store in emergency situations.\
+  [202409101203492719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101203492719.pdf)
+
+- of land acquired for the rehabilitation of earthquake victims. According to the decision given by the High Court regarding the granting of administrative approval for payment of increased compensation under Section 28-A of the Land Acquisition Act, 1894...\
+  [202409101221183719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101221183719.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in the resettled villages of Patan Taluka of Satara District under Koyna Project.\
   [202409091518527419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091518527419.pdf)
@@ -65,6 +74,27 @@
 
 - Regarding reinstatement and posting in government service..\
   [202409091630363419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091630363419.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202409101729541319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101729541319.pdf)
+
+- Partial modification of posting orders  (Tehsildar Cadre)\
+  [202409101723298019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101723298019.pdf)
+
+- Appointment by deputation Mr. Vishal Daundkar, Tehsildar\
+  [202409101735019019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101735019019.pdf)
+
+- Appointment by deputation Mr. Vikas Garudkar, Tehsildar\
+  [202409101733237019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101733237019.pdf)
+
+- Of Tehsildar Cadre Officers Posting\
+  [202409101732031419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101732031419.pdf)
+
+- Post by promotion to Assistant Conservator of Forests, Group-A (Junior Grade) from Conservator of Forests, Group-B.\
+  [202409101453027219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101453027219.pdf)
+
+- Of Tehsildar Cadre Officers Appointment by transfer\
+  [202409101727074419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101727074419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,24 +1,15 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 02 September 2024 - 07 September 2024
+**Date Range**: 09 September 2024 - 14 September 2024
 
-
-## Funds
-- Agricultural Produce Market Committee, Ambajogai, Dist. Beed Regarding giving administrative approval to the budget for construction of new Shetkari Bhawan...\
-  [202409041200359902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041200359902.pdf)
-
-- Release of fund for the year 2024-25 under scheme - Assistance for Strengthening of  District Central Co-operative Banks under STCCS (2425 2524)\
-  [202409041545166902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409041545166902.pdf)
-
-- Vasantdada Sugar Institute (Bud.) regarding grant-in-aid for research for the financial year 2022-2023 to the institution, Haveli District, Pune.\
-  [202409051528304102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409051528304102.pdf)
 
 ## Miscellaneous
-- Regarding relaxation of registration condition required for application of additional power tariff rebate of Rs.0.75 per unit to loom units having added power more than 27 HP but less than 201 HP and Rs.1.00 per unit to loom units having added power less than 27 HP.\
-  [202409021826350302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021826350302.pdf)
+- Regarding the amendment of the policy dated 13.09.2023 regarding providing term loan under Government guarantee from Maharashtra State Cooperative Bank to the Cooperative Sugar Mills in financial difficulty in the State.\
+  [202409101740253902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101740253902.pdf)
 
-- Regarding the remuneration of the Chairman of the Control Committee established in connection with the sale and development of land for textile mills in Bombay.\
-  [202409021548590502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409021548590502.pdf)
+## Personnel
+- Regarding extension of temporary posts on the establishment of State Co-operative Election Authority.\
+  [202409101423458702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101423458702.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
