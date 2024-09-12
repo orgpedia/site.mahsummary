@@ -22,12 +22,18 @@
 - Nagarothan Mahabhiyan - Administrative    Approval for Vita Water Supply Project.\
   [202409091213453925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091213453925.pdf)
 
+- Administrative Approval to  Water Supply Project of  Jalgaon Municipal Corporation Under AMRUT 2.0 (179.39 Cr)\
+  [202409111158214225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111158214225.pdf)
+
 ## Miscellaneous
 - Mauje Morivali, District Ambernath Dist.Thane Group No.11, Plot No.13 to 21, 11A plot reservation No.148-Constructed for hospital on lease to Government Medical College, Ambernath.\
   [202409091823537225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091823537225.pdf)
 
 - Regarding the amendment of service entry rule for the post in Nagpur Municipal Corporation Deputy Commissioner Cadre.\
   [202409101647285725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101647285725...pdf)
+
+- Regarding the implementation of three benefits under improved in-service guaranteed progression scheme for State level municipal council cadre employees and employees of municipal councils/municipal panchayats.\
+  [202409111734366025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111734366025.pdf)
 
 ## Personnel
 - Nagarothan Mahabhiyan - Administrative Approval for Umari Water Supply Project.\

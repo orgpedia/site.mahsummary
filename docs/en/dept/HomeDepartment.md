@@ -16,6 +16,9 @@
 - Dharamveer Anand Dighe Saheb Distribution of Funds for Maharashtra Auto-Rickshaw and Metered Taxi Driver Welfare Board.\
   [202409101154588829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101154588829.pdf)
 
+- Regarding approving delivery of demand-side incentives under Maharashtra Electric Vehicle Policy-2021.\
+  [202409111541206729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111541206729.pdf)
+
 ## Personnel
 - Regarding transfer of request of Motor Vehicle Inspector.\
   [202409091529057329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091529057329.pdf)

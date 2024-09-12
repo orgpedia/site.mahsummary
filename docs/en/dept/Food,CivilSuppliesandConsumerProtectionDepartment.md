@@ -3,6 +3,10 @@
 **Date Range**: 09 September 2024 - 14 September 2024
 
 
+## Miscellaneous
+- Additional Driage of 0.5  for marketing year 2023-25 for paddy.\
+  [202409111753057106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111753057106.pdf)
+
 ## Personnel
 - Regarding the partial change in the post given by temporary promotion in the cadre of Inspection Officer (Supply) in the Department of Food, Civil Supplies and Consumer Protection... Chhatrapati Sambhajinagar Division :\
   [202409101716356906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101716356906.pdf)

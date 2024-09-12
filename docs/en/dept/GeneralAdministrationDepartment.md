@@ -13,5 +13,20 @@
 - Seniority wise list for promotion on the post of Mantralaya Clerk- Typist Group-C as on 01-01-2024 (Final) from Mantralaya Group-D Employees.\
   [202409101223277907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101223277907.pdf)
 
+- Regarding appointment of agencies to provide air vehicles (helicopters and airplanes) on hire basis for air travel of VIPs.\
+  [202409111438226907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111438226907.pdf)
+
+- Foundation Training, under State Training Policy to Mantralaya cadre Assistant Section Officer.\
+  [202409111528536407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111528536407.pdf)
+
+- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of August and September, 2024\
+  [202409111137157707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111137157707.pdf)
+
+- Regarding more effective implementation of Aapse Sarkar 1.0 Seva system..\
+  [202409111810034807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111810034807.pdf)
+
+- Yashwantrao Chavan Development Administration Prabodhini, Pune regarding appointment as Associate Professor on deputation.- Mrs. Sarita Sunil Narke\
+  [202409111122146307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111122146307.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

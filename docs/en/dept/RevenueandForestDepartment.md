@@ -49,12 +49,30 @@
 - of land acquired for the rehabilitation of earthquake victims. According to the decision given by the High Court regarding the granting of administrative approval for payment of increased compensation under Section 28-A of the Land Acquisition Act, 1894...\
   [202409101221183719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101221183719.pdf)
 
+- Allocation of grants for civic amenities works in rehabilitated village in Javli Taluka of Satara District under Koyna project\
+  [202409111153486219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111153486219.pdf)
+
+- Regarding disbursement of funds under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2024-25.\
+  [202409111645247019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111645247019.pdf)
+
+- Allocation of grants for civic amenities works in rehabilitated village in Javli Taluka of Satara District under Koyna project\
+  [202409111156153019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111156153019.pdf)
+
+- Regarding grant of administrative approval to civil aminities works in flood-rehabilitated village Yeli (Taluka Loha, District Nanded)\
+  [202409111423407219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111423407219.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in the resettled villages of Patan Taluka of Satara District under Koyna Project.\
   [202409091518527419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091518527419.pdf)
 
 - Regarding disbursement of funds for civic amenities works in resettled villages of Patan Taluka of Satara District under Koyna Project.\
   [202409091509491819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091509491819.pdf)
+
+- Regarding Commencement of new Additional Tehsil Office at Angar in Mohol Taluka of Solapur District\
+  [202409111546574119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111546574119.pdf)
+
+- Allocation of grants for civic amenities works in rehabilitated village Atkali in Biloli Taluka of Nanded District\
+  [202409111420467219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111420467219.pdf)
 
 ## Personnel
 - To provide administrative approval for civic amenities works in rehabiliatated villages Baudhdhwadi, Boladwadi and Hasrewadi east Taluka Chiplun of Ratnagiri District\
@@ -95,6 +113,9 @@
 
 - Of Tehsildar Cadre Officers Appointment by transfer\
   [202409101727074419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101727074419.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202409111844351619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111844351619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

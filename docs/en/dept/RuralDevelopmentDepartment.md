@@ -34,5 +34,8 @@
 - Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Amravati district.\
   [202409091648207420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091648207420.pdf)
 
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Sangli district.\
+  [202409091648105420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091648105420.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,12 @@
 - Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2024-25 under 2210 G 861.\
   [202409091704488517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091704488517.pdf)
 
+- Regarding giving administrative approval to the budget and plans for construction of 20-bed Trauma Care Unit at Sub-district Hospital, Morshi Dist.  Amravati.\
+  [202409101058578217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101058578217.pdf)
+
+- Regarding administrative approval for purchase of 20 Brain Scanner Machine for 10 Trauma Care Units under the control of Public Health Department Of  Head 2210 K088,  31-Subsidiary Grants (Non-Salary)  of Rs.3,40,00,000/-in the financial year 2024-25.\
+  [202409111750140017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111750140017.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of 200 bedded general hospital to 300 bedded general hospital at Khamgaon, Dist. Buldhana.\
   [202409061109371217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061109371217.pdf)
@@ -58,6 +64,28 @@
 
 - Maharashtra Medical and Health Services Group-A   Dr. Pathan Ahmed Hussain Amjad Hussain,  Medical Officer, Primary Health Center Goregaon,   T. Sengaon, Dist. Regarding Hingolis resignation.\
   [202409101441177017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101441177017.pdf)
+
+- Regarding giving administrative approval for purchase of materials, equipment and materials for strengthening the laboratories of State Public Health Laboratory, Pune and 22 other districts under the authority of Public Health Department...\
+  [202409111059103517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111059103517.pdf)
+
+- Regarding giving administrative approval to the budget for various constructions in the Chest   hospital at Aundh, Pune.\
+  [202409111059180117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111059180117.pdf)
+
+- Regarding acceptance of resignation of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202409101441357217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101441357217.pdf)
+
+- Regarding giving administrative approval to the budget and plans for the construction of officer and staff accommodation at Rural Hospital, Dodi (Bk) Tal. Sinnar Dist. Nashik.\
+  [202409101058422917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101058422917.pdf)
+
+- Maharashtra Medical and Health Services Group-A   Dr. Dipali Govind Bhawari, Medical Officer, P.H.C. Savargaon, Dist. Pune  Regarding his resignation.\
+  [202409101441428317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101441428317.pdf)
+
+## Personnel
+- Regarding continuation of 2173 temporary posts under Deputy Director, Health Services, Nashik Board, Nashik.\
+  [202409101058528817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101058528817.pdf)
+
+- Regarding extension of 10 temporary posts in the office of Deputy Director, Health Services, State Health Education and Liaison Department, Pune.\
+  [202409101058479717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101058479717.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
