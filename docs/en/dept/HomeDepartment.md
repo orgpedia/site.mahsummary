@@ -26,5 +26,11 @@
 - Regarding transfer of request of Motor Vehicle Inspector.\
   [202409101812524929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101812524929.pdf)
 
+- Regarding request transfer of Inspector of Motor Vehicles.\
+  [202409121901337829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121901337829.pdf)
+
+- Regarding request transfer of Inspector of Motor Vehicles.\
+  [202409121905229129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121905229129.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

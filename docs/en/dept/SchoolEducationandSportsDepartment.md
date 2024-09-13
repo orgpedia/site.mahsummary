@@ -27,5 +27,8 @@
 - Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025\
   [202409101625042721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101625042721.pdf)
 
+- Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
+  [202409121143089921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121143089921.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

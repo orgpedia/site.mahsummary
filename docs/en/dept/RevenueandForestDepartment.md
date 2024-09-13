@@ -61,6 +61,9 @@
 - Regarding grant of administrative approval to civil aminities works in flood-rehabilitated village Yeli (Taluka Loha, District Nanded)\
   [202409111423407219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111423407219.pdf)
 
+- Regarding grant of administrative approval for civil amenity works in flood rehabilitated villages in Nanded district.\
+  [202409121628348419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121628348419.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in the resettled villages of Patan Taluka of Satara District under Koyna Project.\
   [202409091518527419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091518527419.pdf)
@@ -73,6 +76,18 @@
 
 - Allocation of grants for civic amenities works in rehabilitated village Atkali in Biloli Taluka of Nanded District\
   [202409111420467219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111420467219.pdf)
+
+- Forest Land-Satara Diversion of 0.0135 ha of forest land in favour of Shri. Madhukar Kashinath Shinde, Satara for laying of underground water pipeline for agricultural purposes of Compt. No. 879, Gut No. 195A in Satara District in the State of Maharashtra.\
+  [202409121138122919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121138122919.pdf)
+
+- Forest Land- Gadchiroli  Diversion of 1.2729 ha. Forest Land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtel Ltd., Pune for laying of underground Optical Fiber Cable along the Road in RoW of SH-382, ODR-65, ODR-21 and VR-125 from Arenda to Pirimili to Yerminar route in Aheri Tehsil of Dist. Gadchiroli in the State of Maharashtra.\
+  [202409121140466419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121140466419.pdf)
+
+- Forest Land- Gadchiroli  Diversion of 1.1968 ha. Forest Land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtel Ltd., Pune for laying of underground Optical Fiber Cable along the Road in RoW of VR-340, MDR-22, SH- 381,VR-160, VR-15, ODR-22, VR-153, ODR- 21 and VR-146 from Pandewahi (S) to Pirimili in Etapalli and Aheri Tehsil of Dist. Gadchiroli in the State of Maharashtra.\
+  [202409121135483719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121135483719.pdf)
+
+- Regarding disbursement of funds under the scheme Construction of Administrative Building (4406-0026) for the year 2024-25.\
+  [202409121730007919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121730007919.pdf)
 
 ## Personnel
 - To provide administrative approval for civic amenities works in rehabiliatated villages Baudhdhwadi, Boladwadi and Hasrewadi east Taluka Chiplun of Ratnagiri District\

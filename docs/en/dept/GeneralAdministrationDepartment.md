@@ -28,5 +28,11 @@
 - Yashwantrao Chavan Development Administration Prabodhini, Pune regarding appointment as Associate Professor on deputation.- Mrs. Sarita Sunil Narke\
   [202409111122146307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111122146307.pdf)
 
+- Regarding the appointment of STATE NODAL OFFICER as STATE NODAL OFFICER, National Information Science Centre, Maharashtra, Mumbai for the complaint received on CPGRAMS (PG PORTAL) system of the Central Government.\
+  [202409121826127907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121826127907.pdf)
+
+- Regarding declaration of Virtual Personal Deposit Account Administrator for Drawing and Disbursing Officers and Non-Governmental Implementing Authorities for speedy disbursement and control of Subsidiary Grants....\
+  [202409121517348007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121517348007.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

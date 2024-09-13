@@ -43,6 +43,18 @@
 - Revised Administrative approval to Mauja Nandgaon, Ta. Sindewahi, Dist. Chandrapur water supply scheme Under JJM.\
   [202409091133058528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091133058528.pdf)
 
+- To release SCC (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission (Budget head 2215 A097)\
+  [202409111648526728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111648526728.pdf)
+
+- To release STC (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission ( Budget Head 2215 A061)\
+  [202409111600575128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111600575128.pdf)
+
+- To release General (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission ( Budget Head 2215 2071)\
+  [202409111600466428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111600466428.pdf)
+
+- Regarding fund release to State Water and Sanitation Mission for Water quality Monitoring Surveillance support fund under Jal Jeevan Mission                                        (Budget head 2215 9971 -State Share)\
+  [202409111600521428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111600521428.pdf)
+
 ## Miscellaneous
 - To establish a  State Level Technical Advisory Committee to scrutinise revised administrative approval proposals.\
   [202409101723448128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101723448128.pdf)

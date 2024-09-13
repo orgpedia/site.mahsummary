@@ -37,5 +37,12 @@
 - Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research and                   Development Scheme in Sangli district.\
   [202409091648105420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091648105420.pdf)
 
+## Personnel
+- Regarding the continuation of temporary posts sanctioned for the office of Divisional Commissioner\
+  [202409121132427920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121132427920.pdf)
+
+- Regarding the extension  for the posts of officers and employees in the District Rural Development Agency from 01.09.2024 to 28.02.2025.\
+  [202409121531148020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121531148020.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

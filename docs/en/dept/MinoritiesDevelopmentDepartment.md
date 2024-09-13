@@ -11,5 +11,9 @@
 - Regarding fixing the policy for filling up the posts in the Maharashtra State Minorities Commissionerate by deputation.\
   [202409091700564114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091700564114.pdf)
 
+## Personnel
+- Mr. Regarding regularization of services of Abdus Salam Azmi alias Shahid Nadeem, Deputy Editor (Urdu) (Retd.), Maharashtra State Urdu Sahitya Akademi, Mumbai.\
+  [202409121132081114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121132081114.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,6 +16,12 @@
 - Regarding administrative approval for purchase of 20 Brain Scanner Machine for 10 Trauma Care Units under the control of Public Health Department Of  Head 2210 K088,  31-Subsidiary Grants (Non-Salary)  of Rs.3,40,00,000/-in the financial year 2024-25.\
   [202409111750140017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111750140017.pdf)
 
+- Regarding the distribution of State Share (40 percent) funds under 2210 G 888 (SCP) for Pradhan Mantri Jan Arogya Yojana for the financial year 2024-25.\
+  [202409111453032017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111453032017.pdf)
+
+- Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2024-25 under 2210 G 861.\
+  [202409091704549917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091704549917.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of 200 bedded general hospital to 300 bedded general hospital at Khamgaon, Dist. Buldhana.\
   [202409061109371217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061109371217.pdf)
