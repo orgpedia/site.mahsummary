@@ -37,6 +37,15 @@
 - Administrative Approval to  Sewerage Project of  Mira-Bhaindar Municipal Corporation Under AMRUT 2.0  (Rs. 66.81 )\
   [202409121055252725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121055252725.pdf)
 
+- Nagarothan Mahabhiyan - Administrative Approval for   Pimpalner Road Development Project.\
+  [202409131712177625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131712177625.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for   Bhandara Road Development Project.\
+  [202409131712117525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131712117525.pdf)
+
+- Nagarothan Mahabhiyan - Administrative Approval for   Amravati Road Development Project.\
+  [202409121547528925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121547528925.pdf)
+
 ## Miscellaneous
 - Mauje Morivali, District Ambernath Dist.Thane Group No.11, Plot No.13 to 21, 11A plot reservation No.148-Constructed for hospital on lease to Government Medical College, Ambernath.\
   [202409091823537225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091823537225.pdf)
@@ -49,6 +58,12 @@
 
 - Regarding Government approval for direct allotment of land to Shri.Venkatesh Shikshan Prasarak Mandal for school.\
   [202409121406322825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121406322825.pdf)
+
+- Regarding appointment on deputation to the vacant post of Joint Chief Executive Officer (Administration) at the establishment of Chhatrapati Sambhajinagar Metropolitan Region Development Authority.\
+  [202409131135418925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131135418925.pdf)
+
+- Chhatrapati Sambhajinagar Metropolitan Region Development Authority, Chhatrapati Sambhajinagar to determine the terms and conditions of appointment to the office and posts\
+  [202409131814045925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131814045925.pdf)
 
 ## Personnel
 - Nagarothan Mahabhiyan - Administrative Approval for Umari Water Supply Project.\

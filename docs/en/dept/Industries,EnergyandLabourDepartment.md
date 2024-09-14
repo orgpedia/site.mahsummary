@@ -7,6 +7,15 @@
 - Released subsidy for electricity tariff  Year 2024-25. M.Lotus Industries, Santacruz, Mumbai.\
   [202409101556506910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101556506910.pdf)
 
+- Extension and expansion in coverage for MSKVY 2.0 for relaible and uninterrrupted power supply to 100 agricultural pumps of farmers in the State.\
+  [202409131303169010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131303169010.pdf)
+
+- Regarding giving administrative approval to the proposal received under the Scheme for Creation and Development of Industrial Infrastructure in the State (2024-25)\
+  [202409121028141210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121028141210.pdf)
+
+- Providing government guarantee on loan taken by MSEDCL for payment of arrears and current month bills of power supplyer\
+  [202409131306432310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131306432310.pdf)
+
 ## Miscellaneous
 - of the post of Assistant Electrical Inspector, Group-A (Gazetted) under the Power Department d. Final Seniority List on 01/01/2024...\
   [202409101427034210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101427034210...pdf)

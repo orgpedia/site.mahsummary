@@ -34,5 +34,12 @@
 - Regarding declaration of Virtual Personal Deposit Account Administrator for Drawing and Disbursing Officers and Non-Governmental Implementing Authorities for speedy disbursement and control of Subsidiary Grants....\
   [202409121517348007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121517348007.pdf)
 
+- Appointment of District Guardian Secretary\
+  [202409131919382707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131919382707.pdf)
+
+## Personnel
+- Regarding extension of tenure of total 13 temporary posts in the office of Land Acquisition, Rehabilitation and Resettlement Authority, Nagpur from 01.03.2024 to 31.08.2024........\
+  [202409131441219107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131441219107.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

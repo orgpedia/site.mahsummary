@@ -20,5 +20,11 @@
 - Regarding the partial modification of the posting granted by temporary promotion to the cadre of Inspecting Officer (Supply)/Circular Officer, Group-B (Gazetted) in the Department of Food, Civil Supplies and Consumer Protection... Nagpur Division :\
   [202409101717219206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101717219206.pdf)
 
+- Gajanan Tekale, Assistant District Supply Officer, Buldana regarding the additional charge of the vacant post of District Supply Officer, Buldana...\
+  [202409131155084406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131155084406.pdf)
+
+- Regarding request transfer of Deputy Controller Rationing/ District Supply Officer, Group-A...\
+  [202409131155226406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131155226406.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

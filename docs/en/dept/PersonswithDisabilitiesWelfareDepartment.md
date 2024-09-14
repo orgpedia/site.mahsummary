@@ -13,5 +13,9 @@
 - constitution of Departmental Promotion Committee for granting the benefit of Assured Progression Scheme under Revised Service of Three Benefits to Gazetted / Non-Gazetted Officers / Employees of Disability Welfare Department in Seventh Pay Commission.\
   [202409101216391135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101216391135.pdf)
 
+## Personnel
+- Continuation to 350 Temporary Post on the Establishment of Commissionerate of Disabilities Welfare Department, Pune Period 01.09.2024 to 28.02.2025\
+  [202409131433290735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131433290735.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -22,6 +22,12 @@
 - Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2024-25 under 2210 G 861.\
   [202409091704549917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091704549917.pdf)
 
+- Regarding Grants (Non-Salary) to be made available by redistribution to Maharashtra Medical Supplies Authority, Mumbai under Account Head 2210 0217, 21- Balance of Rs.47,68,000/- under the purpose of Supplies and Materials to meet pending payments of cloth-chopadchi (linen) purchased during the year 2023-24 Account Head 2210 0217, 31- Asst.\
+  [202409121647531517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121647531517.pdf)
+
+- Regarding revised administrative Approval at Divisional Referral Service Hospitals, Nashik and Amravati for purchase of medical equipment and materials under the head 2210 K 088 31- Subsidiary Grants (Non-Salary) of Rs.132,63,97,561/-.In the financial year 2024-25.\
+  [202409121648038117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121648038117.pdf)
+
 ## Miscellaneous
 - Regarding upgradation of 200 bedded general hospital to 300 bedded general hospital at Khamgaon, Dist. Buldhana.\
   [202409061109371217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409061109371217.pdf)
@@ -85,6 +91,12 @@
 
 - Maharashtra Medical and Health Services Group-A   Dr. Dipali Govind Bhawari, Medical Officer, P.H.C. Savargaon, Dist. Pune  Regarding his resignation.\
   [202409101441428317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101441428317.pdf)
+
+- Declaration of appointing authorities of various Group C and D Cadres working under Public Health Department..\
+  [202409121547337917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121547337917.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202409091423039317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091423039317.pdf)
 
 ## Personnel
 - Regarding continuation of 2173 temporary posts under Deputy Director, Health Services, Nashik Board, Nashik.\

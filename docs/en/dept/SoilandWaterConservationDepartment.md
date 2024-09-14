@@ -57,5 +57,8 @@
 - Regarding transfer of services of Mr. Sujit Hambirrao Suryavanshi, Assistant Engineer Grade-2 to Water Resources Department.\
   [202409101212094026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101212094026.pdf)
 
+- Co.P. Bhandara Shirur Ta. Shirur, Dist. Regarding granting administrative approval to the work of Beed...\
+  [202409131203193026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131203193026.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

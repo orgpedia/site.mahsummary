@@ -17,6 +17,9 @@
 - Regarding approval for the advertisement of various schemes / activities of the Women and Child Development Department in the financial year 2024-25.\
   [202409091849237330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091849237330.pdf)
 
+- Regarding approving the provision of pink e-rickshaw for employment to needy women in the state...\
+  [202409131538407830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131538407830....pdf)
+
 ## Personnel
 - Regarding implementation of the system and procedure of Virtual Personal Deposit Accountfor Women and Child Development Department.\
   [202409091218553030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091218553030.pdf)

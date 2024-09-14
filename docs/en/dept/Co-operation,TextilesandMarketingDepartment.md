@@ -18,5 +18,8 @@
 - Regarding extension of temporary posts on the establishment of State Co-operative Election Authority.\
   [202409101423458702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101423458702.pdf)
 
+- Continuation of 52 temporary posts of establishment of Commissioner (Textiles) Nagpur and Commissioner Co-operation and Registrar Co-operative Societies\
+  [202409131236079602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131236079602.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

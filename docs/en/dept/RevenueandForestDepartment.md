@@ -64,6 +64,12 @@
 - Regarding grant of administrative approval for civil amenity works in flood rehabilitated villages in Nanded district.\
   [202409121628348419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121628348419.pdf)
 
+- Administrative approval for installation of CCTV for surveillance of Mangrove land in Mumbai metropolitan area, Approval of Detailed Project Proposal (DPR) and Request for Proposal (RFP) for installation and maintenance of CCTV of Rs. 119.88 crores.\
+  [202409131850394119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131850394119.pdf)
+
+- During August - September 2021, Shevgaon, Distt. Regarding provision of funds towards the expenditure incurred on the dam system of the affected river bank due to flood situation due to heavy rains in Ahmednagar taluk.\
+  [202409131110188319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131110188319.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in the resettled villages of Patan Taluka of Satara District under Koyna Project.\
   [202409091518527419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091518527419.pdf)
@@ -131,6 +137,30 @@
 
 - Posting of officers in Tehsildar cadre by transfer\
   [202409111844351619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111844351619.pdf)
+
+- Regarding posting of officers in Naib Tehsildar cadre..\
+  [202409131844117519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131844117519.pdf)
+
+- Regarding transfer of posts to officers in Naib Tehsildar cadre..... (Pune Division)\
+  [202409131809098619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131809098619.pdf)
+
+- Regarding transfer of post to Naib Tehsildar Cadre (Amravati Division)\
+  [202409131751541919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131751541919.pdf)
+
+- Regarding transfer of post to Naib Tehsildar Cadre Officers (Nashik Division)\
+  [202409131805507519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131805507519.pdf)
+
+- Regarding transfer of posts to Naib Tehsildar Cadre Officers (Konkan Division)\
+  [202409131803160019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131803160019.pdf)
+
+- Regarding transfer of posts to Naib Tehsildar cadre officers... (Nagpur Division)\
+  [202409131758177519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131758177519.pdf)
+
+- Regarding transfer of posts to Naib Tehsildar cadre officers...(Pune Division)\
+  [202409131800297819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131800297819.pdf)
+
+- Regarding transfer of posts to Naib Tehsildar cadre officers... (Chhatrapati Sambhajinagar Division)\
+  [202409131754520519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131754520519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -55,9 +55,18 @@
 - Regarding fund release to State Water and Sanitation Mission for Water quality Monitoring Surveillance support fund under Jal Jeevan Mission                                        (Budget head 2215 9971 -State Share)\
   [202409111600521428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111600521428.pdf)
 
+- Regarding the disbursement of funds for the first phase of the first installment received under the State share component under the Scheduled Tribes component under the Budgetary Grants Year 2024-25 Swachh Bharat Abhiyan (GRA) Phase-2... (Account Head 2215 A168)\
+  [202409131514291528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131514291528.pdf.pdf)
+
+- Regarding disbursement of funds for the first phase of the first installment received under the central share component under the Scheduled Tribes component under the Budgetary Grant Year 2024-25 Swachh Bharat Abhiyan (GRA) Phase-2... (Account Head 2215 9862)\
+  [202409131514227428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131514227428.pdf.pdf)
+
 ## Miscellaneous
 - To establish a  State Level Technical Advisory Committee to scrutinise revised administrative approval proposals.\
   [202409101723448128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101723448128.pdf)
+
+- To release the grants for the expenditure of salaries and Allowances of State and District level Officers/Employees working on deputation under Jal Jeevan Mission. (2215 9971, 36-Grant in aids (Salaries))\
+  [202409131124389628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131124389628.pdf)
 
 ## Personnel
 - Revised Administrative approval to Mou. Humbarde (Tal. Shindhkeda, Dist.Dhule) water supply sceme Under JJM.\

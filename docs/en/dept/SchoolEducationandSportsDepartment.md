@@ -16,6 +16,15 @@
 - Mauje Padegaon, Dist. N.C. on the site at Chhatrapati Sambhajinagar. C. Regarding giving administrative approval to the budget for the construction of the Academy.\
   [202409111813249521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111813249521.pdf)
 
+- Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19. Kai.(Mr.) Maruti Dinkar Gawli, Teacher\
+  [202409131645433321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131645433321.pdf)
+
+- Regarding the implementation of mathematics integration system on a pilot basis for local government schools.\
+  [202409131451432621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131451432621.pdf)
+
+- Olympian himself. Pai Khashaba Jadhav Residential Wrestling Complex, Goleshwar, Tt. Karad District To build Satara and for that Rs. 2575.15 regarding approval of revised budget of lakhs.\
+  [202409131710051921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131710051921.pdf)
+
 ## Miscellaneous
 - Year 2024-25 Disbursement of Funds 31 - Subsidiary Grants / Non Salary 50 - Other Expenditure\
   [202409091457484421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091457484421.....pdf)
@@ -23,12 +32,24 @@
 - National Student Army Scheme. Regarding the increase in the rate of washing and polishing allowance given to the students of Rashtriya Chhatra Sena.\
   [202409111202398021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111202398021.pdf)
 
+- Regarding the implementation of the act to make the teaching and study of Marathi language compulsory in all schools of government and private management of all mediums in the state.\
+  [202409131943482221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131943482221.pdf)
+
+- Regarding increase in honorarium of Data Entry Operators working under PradhanMantri Poshan Shakti Nirman scheme\
+  [202409131935112321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131935112321.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025\
   [202409101625042721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101625042721.pdf)
 
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
   [202409121143089921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121143089921.pdf)
+
+- Maharashtra Education Service (Administrative Branch) Administrative Transfer of Officers in Group-B- Deputy Educational Officers and the like\
+  [202409131932447621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131932447621.pdf)
+
+- Regarding declaration of Drawing and Disbursing Officer of Sports Department as Virtual Personal Deposit Account Administrator (VPDAA) for expeditious disbursement and control of grant-in-aid.\
+  [202409131623421821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131623421821.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
