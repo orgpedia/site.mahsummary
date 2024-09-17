@@ -1,25 +1,11 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 09 September 2024 - 14 September 2024
+**Date Range**: 16 September 2024 - 21 September 2024
 
-
-## Funds
-- Regarding provision of 12 interest on loans received from financial institutions to co-operative spinning  mills- Shri. Swami Samarth Farmers and Weavers Cooperative Spinning Mill Marya., Valsang, District Solapur.\
-  [202409121450212702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121450212702.pdf)
-
-- Regarding provision of 12 interest on loans received from financial institutions to co-operative spinning mills- Shri. Swami Samarth Farmers and Weavers Cooperative Spinning Mill Marya., Valsang, District Solapur.\
-  [202409121454489902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121454489902.pdf)
 
 ## Miscellaneous
-- Regarding the amendment of the policy dated 13.09.2023 regarding providing term loan under Government guarantee from Maharashtra State Cooperative Bank to the Cooperative Sugar Mills in financial difficulty in the State.\
-  [202409101740253902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101740253902.pdf)
-
-## Personnel
-- Regarding extension of temporary posts on the establishment of State Co-operative Election Authority.\
-  [202409101423458702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101423458702.pdf)
-
-- Continuation of 52 temporary posts of establishment of Commissioner (Textiles) Nagpur and Commissioner Co-operation and Registrar Co-operative Societies\
-  [202409131236079602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131236079602.pdf)
+- Regarding issuance of administrative order regarding State Government participation in BHARAT TEX-2024 to be held at New Delhi from 26th to 29th February, 2024.\
+  [202409161445283802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161445283802.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

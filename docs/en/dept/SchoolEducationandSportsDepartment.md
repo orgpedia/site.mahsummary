@@ -1,55 +1,47 @@
 # School Education and Sports Department
 
-**Date Range**: 09 September 2024 - 14 September 2024
+**Date Range**: 16 September 2024 - 21 September 2024
 
-
-## Funds
-- Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19. Kai (Mr.) Anant Balasaheb Deshmukh, Associate Teacher\
-  [202409101227183921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101227183921.pdf)
-
-- Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19.   Kai.(Mr.) Rajendra Bhikoba Dhumal, Deputy Teacher\
-  [202409101231288021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101231288021.pdf)
-
-- Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19. Kai.(Mr.) Ramdas Gyanu Ingulkar, Deputy Teacher\
-  [202409101229309321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101229309321.pdf)
-
-- Mauje Padegaon, Dist. N.C. on the site at Chhatrapati Sambhajinagar. C. Regarding giving administrative approval to the budget for the construction of the Academy.\
-  [202409111813249521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111813249521.pdf)
-
-- Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19. Kai.(Mr.) Maruti Dinkar Gawli, Teacher\
-  [202409131645433321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131645433321.pdf)
-
-- Regarding the implementation of mathematics integration system on a pilot basis for local government schools.\
-  [202409131451432621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131451432621.pdf)
-
-- Olympian himself. Pai Khashaba Jadhav Residential Wrestling Complex, Goleshwar, Tt. Karad District To build Satara and for that Rs. 2575.15 regarding approval of revised budget of lakhs.\
-  [202409131710051921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131710051921.pdf)
-
-## Miscellaneous
-- Year 2024-25 Disbursement of Funds 31 - Subsidiary Grants / Non Salary 50 - Other Expenditure\
-  [202409091457484421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091457484421.....pdf)
-
-- National Student Army Scheme. Regarding the increase in the rate of washing and polishing allowance given to the students of Rashtriya Chhatra Sena.\
-  [202409111202398021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111202398021.pdf)
-
-- Regarding the implementation of the act to make the teaching and study of Marathi language compulsory in all schools of government and private management of all mediums in the state.\
-  [202409131943482221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131943482221.pdf)
-
-- Regarding increase in honorarium of Data Entry Operators working under PradhanMantri Poshan Shakti Nirman scheme\
-  [202409131935112321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131935112321.pdf)
 
 ## Personnel
-- Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025\
-  [202409101625042721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101625042721.pdf)
+- Priyadarshini Shikshan Prasarak Sanstha, Shegaon (Bu) Distt. Savitribai Vidyalaya operated by Chandrapur, Shegaon (Bu) Distt. Chandrapur is a school located in Bhambora Distt. Regarding migration to Yavatmal.\
+  [202409161205366621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161205366621.pdf)
+
+- Sanjay Education Society, Navalnagar Distt. Dhule Operated Pandit Nehru Secondary School Phapore Distt. Jalgaon and Rukhminibai Secondary School Vele-Akhtwade Distt. Regarding transfer of management of Jalgaon schools to Rukhminibai Pratishthan Mumbai.\
+  [202409161155342221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161155342221.pdf)
+
+- Shivbhim Jyoti Multi-Purpose Education Broadcasting Institution, Naigaon Dist.Buldana Conducted Shri.Shivaji Secondary School, Toranwada Dist.Buldana, Vandebharti Educational and Multi-Purpose Institution, Dhad Dist. Regarding the transfer of management to Buldana.\
+  [202409161152553621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161152553621.pdf)
+
+- Regarding transfer of management of Adarsh Primary English Medium School, Mhasadi, Dist. Dhule run by Shiv Maharashtra Education Trust Kakani, Dist. Dhule to Matoshree Educational Multipurpose Charitable Institution, Mhasdi, Dist. Dhule.\
+  [202409161201436621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161201436621.pdf)
+
+- Shree Saibaba Institute of Trustees, Shirdi Distt. Ahmednagar operated Shree Saibaba Kanya Vidyamandir and Junior College, Shirdi Distt. Ahmednagar Secondary School and Junior College, Nimgaon Korhale, Distt. Regarding shifting to Ahmednagar.\
+  [202409161213115021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161213115021.pdf)
+
+- Saraswati Bhavan Education Society, Moshi Dist. Regarding relocation of Pune operated Flying Birds International School and Junior College, Markal Dist.Pune High School to Chikhli Dist.Pune.\
+  [202409161216192821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161216192821.pdf)
 
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
-  [202409121143089921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121143089921.pdf)
+  [202409161522226521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161522226521.pdf)
 
-- Maharashtra Education Service (Administrative Branch) Administrative Transfer of Officers in Group-B- Deputy Educational Officers and the like\
-  [202409131932447621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131932447621.pdf)
+- Regarding the implementation of the decision of the Honble Supreme Court in Civil Appeal No.8928/2015 and other petitions dated July 06, 2017 in the State ---\
+  [202409161458297021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161458297021.pdf)
 
-- Regarding declaration of Drawing and Disbursing Officer of Sports Department as Virtual Personal Deposit Account Administrator (VPDAA) for expeditious disbursement and control of grant-in-aid.\
-  [202409131623421821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131623421821.pdf)
+- Rashtra Seva Samaj, Nagpur Run Rashtra Seva Vidyalaya, Lalganj Distt. Nagpur School Maurya Nagar Uppalwadi Road, Distt. Regarding shifting to Nagpur.\
+  [202409161207317821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161207317821.pdf)
+
+- Regarding the transfer of management of Senapati Santaji Ghorpade Memorial Committee, Mauli High School, Kapshi District Kolhapur, Dhangarmola District Kolhapur to Shri Hiranyakeshi Dongri Rural Development Education Broadcasting Board, Azra District Kolhapur.\
+  [202409161158393421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161158393421.pdf)
+
+- Shivaji Education Society Nava Distt. Jalna Operated Shri Ranganath Maharaj English Primary School, Satephal Distt. of Jalna School, Waghrul (H) Distt. Regarding shifting to Jalna.\
+  [202409161211124421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161211124421.pdf)
+
+- Veer Savarkar Multipurpose Foundation, Umarkhed, Distt. Yavatmal Conducted Vinayak Damodar Savarkar English Medium School, Bittergaon (Khu) Dist. Yavatmal school fun Ambwan dist. Regarding migration to Yavatmal.\
+  [202409161209246721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161209246721.pdf)
+
+- Jnanprabodhini Education Broadcasting Board, Distt. Chhatrapati Sambhaji Nagar Conducted Gyan Prabodhini Secondary School, Chikalthana, Distt. Chhatrapati Sambhajinagar School Nupur Education Institute Shivnagar Distt. Regarding transfer of management to Jalna.\
+  [202409161203363421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161203363421.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
