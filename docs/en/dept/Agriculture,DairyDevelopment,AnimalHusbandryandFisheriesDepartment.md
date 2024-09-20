@@ -30,5 +30,8 @@
 - Regarding continuation of temporary posts in the scheme of Seed, Chemical Fertilizer, Pesticide Testing, Pesticide Residue Testing and Biological Pest Control Laboratory from 01/09/2024 to 28/02/2025.\
   [202409161220370601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161220370601.pdf)
 
+- Regarding continuation of temporary posts under Agriculture Commissionerate in Agriculture Department from 01/09/2024 to 28/02/2025.\
+  [202409191459575501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191459575501.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

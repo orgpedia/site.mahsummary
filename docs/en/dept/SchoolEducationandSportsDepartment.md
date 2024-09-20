@@ -3,6 +3,13 @@
 **Date Range**: 16 September 2024 - 21 September 2024
 
 
+## Miscellaneous
+- Regarding the constitution of a committee under the chairmanship of the Retired Hon.  High Court, Bombay for formulate policies safety of students in the state\
+  [202409191833300021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191833300021.pdf)
+
+- Under the Right of Children to Free and Compulsory Education Act, 2009 of all managements (local bodies, government, private aided, partially aided etc.) to start new schools, add classes and make structural changes in schools accordingly and prescribe revised criteria for accreditation.\
+  [202409191309185721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191309185721.pdf)
+
 ## Personnel
 - Priyadarshini Shikshan Prasarak Sanstha, Shegaon (Bu) Distt. Savitribai Vidyalaya operated by Chandrapur, Shegaon (Bu) Distt. Chandrapur is a school located in Bhambora Distt. Regarding migration to Yavatmal.\
   [202409161205366621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161205366621.pdf)
