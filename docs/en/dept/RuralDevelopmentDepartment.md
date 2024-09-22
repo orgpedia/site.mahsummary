@@ -17,9 +17,24 @@
 - Regarding the speedy provision of necessary certificates to tribals under Pradhan Mantri Janjati Adivasi Nyaya Mahaabhiyan Yojana.\
   [202409191159565420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191159565420.pdf)
 
+- Regarding the inclusion of non-plan roads in Mukhed Taluka (Dist-Nanded)  as a Village Road in the Road Development Plan 2001-21\
+  [202409191857085320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191857085320.pdf)
+
+- According New  Administrative Approval to the work under RD MMGSY-II scheme from Yavatmal Distst\
+  [202409191806065320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191806065320.pdf)
+
 ## Personnel
 - Continuation to Post of Secretary (Engineer Cadre) created for MMGSY\
   [202409191137138520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191137138520.pdf)
+
+- Regarding temporary promotion to vacancies in regular promotion quota of employees in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Kokan Division- (Select List Year 2023-24)\
+  [202409201635297020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201635297020.pdf)
+
+- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra Development Service, Assistant Block Development Officer, Group-B in Kokan Division - (Select List Year 2023-24)\
+  [202409201635204920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201635204920.pdf)
+
+- Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Kokan Division- (Select List Year 2023-24)\
+  [202409201635351920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201635351920.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

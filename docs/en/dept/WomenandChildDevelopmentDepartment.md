@@ -3,6 +3,10 @@
 **Date Range**: 16 September 2024 - 21 September 2024
 
 
+## Funds
+- Solar power sets to Anganwadi Centers in self-owned buildings under Integrated Child Development Services Scheme.\
+  [202409191138584930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191138584930.pdf)
+
 ## Miscellaneous
 - Regarding approving the provision of pink e-rickshaw for employment to needy women in the state...\
   [202409161253408230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161253408230.pdf)

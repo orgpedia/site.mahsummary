@@ -32,6 +32,24 @@
 - Regarding cancellation of letter of intent granted for starting a new college.\
   [202409191309355408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191309355408.pdf)
 
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409201830144908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201830144908.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409201826004708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201826004708.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409201817530808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201817530808.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409201822229708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201822229708.pdf)
+
+- Considering the low registration in connection with the graduate senate election of the University of Mumbai and the statements received from the former students, Mr. Retired High Court Judge Hon. Shri.K.L. Regarding forming a one member committee of Vadane.\
+  [202409201723410808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201723410808.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409201834207708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201834207708.pdf)
+
 ## Personnel
 - To continue temporary posts under the Directorate of Technical Education, Maharashtra State, Mumbai from dated 01.09.2024  to 28.02.2025.\
   [202409191549445408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191549445408.pdf)

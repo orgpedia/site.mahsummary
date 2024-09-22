@@ -3,6 +3,16 @@
 **Date Range**: 16 September 2024 - 21 September 2024
 
 
+## Funds
+- Regarding giving administrative approval to the proposal amounting to Rs.2,37,51,800/- for purchasing essential materials to be provided at the polling station for the upcoming Vidhan Sabha General Election-2024.\
+  [202409201912050907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201912050907.pdf)
+
+- General election to legislative Assembly of Maharashtra-2024\
+  [202409202000498107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409202000498107.pdf)
+
+- Regarding granting administrative and financial approval for resumption of telecast of Jai Maharashtra program on television\
+  [202409201553053607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201553053607.pdf)
+
 ## Miscellaneous
 - Employment of  Freedom Fighters and their nominees in Government Service Class-3 and Class-4\
   [202409161806435607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161806435607.pdf)
@@ -40,9 +50,30 @@
 - Regarding continuation of posts created at District/Taluka level for election related works under the jurisdiction of Election Commission of India.\
   [202409191723425407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191723425407.pdf)
 
+- Appointment on Deputation -Shri. V. P. Thorat, Under Secretary.\
+  [202409201808461707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201808461707.pdf)
+
+- General election to legislative Assembly of Maharashtra-2024\
+  [202409201914270807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201914270807.pdf)
+
+- Extension to  Deputation- Shri. Satish S. Bhartiya, Deputy Secretary\
+  [202409201806076807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201806076807.pdf)
+
+- To cancel  nomination from Under Secretarys Training.\
+  [202409201908084807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201908084807.pdf)
+
 ## Personnel
 - Assistant Section officer Departmental Limited Competative Exam-2023. Posting as per Merit\
   [202409191803014107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191803014107.pdf)
+
+- Transfer order. Shri Govind B. Sabane, Section officer\
+  [202409201550185007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201550185007.pdf)
+
+- Regarding the continuation of 293 temporary posts on the establishment of the General Administration Department (Self) and five other offices under this Department upto 28th February, 2025...\
+  [202409201712171107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201712171107.pdf)
+
+- Regarding partial change of posting after promotion to the post of Under Secretary-Shri. V.M. Raul.\
+  [202409201803584807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201803584807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

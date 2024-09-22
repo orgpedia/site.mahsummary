@@ -7,6 +7,9 @@
 - Bharat Ratna Dr. Babasaheb Ambedkar Under the Social Development Scheme, Dr. Dr. About distributing funds to Babasaheb Ambedkar Cultural Bhawan and Vipassana Center Project...\
   [202409191730575522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191730575522.pdf)
 
+- Regarding granting administrative and financial approval for purchase of computers and printers for Commissioner, Social Welfare, Pune and their subordinate offices...\
+  [202409201211083722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201211083722.pdf)
+
 ## Miscellaneous
 - appointment of Chairman and Members of the Maharashtra State Commission for Scheduled Castes and Tribes.\
   [202409161724161222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161724161222.pdf)

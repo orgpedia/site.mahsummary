@@ -1,18 +1,21 @@
 # Finance Department
 
-**Date Range**: 09 September 2024 - 14 September 2024
+**Date Range**: 16 September 2024 - 21 September 2024
 
 
 ## Miscellaneous
-- Pay Error Redressal Committee 2024 to rectify the errors in the pay scales of the 7th Pay Commission Regarding extension of time.\
-  [202409111447212005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111447212005....pdf)
-
-- Constitute committee for submitting memorandum to 16th Finance Commission from Maharashtra State.\
-  [202409121348289605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121348289605.pdf)
+- Regarding implementation of State Governments Revised National Pension Scheme as well as Central Governments Unified Pension Scheme (UPS) to employees covered by the National Pension System.\
+  [202409201312096305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201312096305.pdf)
 
 ## Personnel
-- Allotment of Recommended Candidates for the post of Technical Assistant in the Directorate of Insurance, from Maharashtra Group-C Main Examination -2023.\
-  [202409111801494505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111801494505.pdf)
+- Regarding extension of temporary posts on establishment of Finance Department (own) and Directorate of State Lotteries In the period  dt.01 September 2024 to 28 February 2025\
+  [202409201219435205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201219435205.pdf)
+
+- Regarding determination of permanent and temporary posts in revised structure of Goods and Services Tax Department...\
+  [202409201440065205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201440065205.pdf)
+
+- Regarding extension of total 2592 temporary posts in Goods and Services Tax (including Maharashtra Sales Tax Tribunal and Restaurant) Department till 28.02.2025.\
+  [202409201814444405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201814444405.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
