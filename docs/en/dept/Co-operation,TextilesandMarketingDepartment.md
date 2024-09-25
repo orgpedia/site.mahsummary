@@ -1,55 +1,61 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
 
 ## Funds
-- To release share capital to Maharashtra State powerlooms corporation Ltd., Mumbai.\
-  [202409191438156702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191438156702.pdf)
-
-- Regarding disbursement of budgetary provision for the year 2024-25. Financial assistance at 1 interest rate for providing short term crop loans to farmers (24251501)\
-  [202409201203110802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201203110802.pdf)
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Shri Vyankatesh Shetkari Vinkari Sahakari Soot Girani Ltd, Ichalkaranji, Tal- Hatkanangale, Dist- Kolhapur.\
+  [202409241613138402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241613138402.pdf)
 
 ## Miscellaneous
-- Regarding issuance of administrative order regarding State Government participation in BHARAT TEX-2024 to be held at New Delhi from 26th to 29th February, 2024.\
-  [202409161445283802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161445283802.pdf)
+- Regarding declaration of Virtual Personal Deposit Account Administrators to officers of Cooperatives, Marketing and Textiles Departments for speedy disbursement and control of Subsidiary Grants...\
+  [202409241224305902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241224305902.pdf)
 
-- Regarding salary fixation of Anil Mahadev Kawade, State Cooperative Election Commissioner, State Cooperative Election Authority, State of Maharashtra, Pune.\
-  [202409191201155702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191201155702.pdf)
-
-- Regarding declaration of Maharashtra State Wakhar Corporation as Nodal Agency for Godown Construction Project in the State...\
-  [202409191709430802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191709430802.pdf)
-
-- Regarding forming a committee under the chairmanship of the Collector, Nashik to supervise the operations of the Nashik District Central Cooperative Bank.\
-  [202409201447116402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201447116402.pdf)
-
-- Mr. Regarding approving the provision of fixed term loan from Maharashtra State Cooperative Bank to the factory under government guarantee of Chhatrapati Cooperative Sugar Factory Ltd., Bhawaninagar, Indapur District, Pune District.\
-  [202409201335432902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201335432902.pdf)
-
-- Regarding approval of providing term loan from Maharashtra State Cooperative Bank to Shri.Sant Kurmadas Co-operative Sugar Factory Ltd., Padsali, Madha District, Dist.Solapur under Government Guarantee.\
-  [202409201338442702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201338442702.pdf)
-
-- Regarding approval to provide term loan from Maharashtra State Co-operative Bank to the factory of Co-operative Shiromani Vasantrao Kale Co-operative Sugar Factory Ltd. Chandrabhaganagar, Po.Bhalvani, Sub-district Pandharpur, Dist.Solapur.\
-  [202409201330360902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201330360902.pdf)
-
-- Regarding giving approval to Jai Bhawani Co-operative Sugar Factory Ltd., Shivajinagar, T.Gevrai, Dist.Beed to provide term loan from Maharashtra State Co-operative Bank under government guarantee.\
-  [202409201338118202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201338118202.pdf)
-
-- Regarding disbursement of funds in accordance with the payment of the entire interest for the year 2015-16 and interest at the rate of 6 percent for the next four years on the converted loan of the year 2014-15.\
-  [202409201207135402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201207135402.pdf)
-
-- Bhaurao Chavan Co-operative Sugar Factory Ltd., Laxminagar, Degaon-Yelegaon, Ardhapur District, Nanded regarding approval to provide term loan from Maharashtra State Co-operative Bank under government guarantee.\
-  [202409201332096302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201332096302.pdf)
+- Regarding selection of co-operative yarn mills for financial assistance. Ashirwad Cooperative Yarn Mills. Pachora, Pachora, Dist. Jalgaon.\
+  [202409241635256802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241635256802.pdf)
 
 ## Personnel
-- Continuation of approved post of temporary Staff related to audit of urban co. op. banks.\
-  [202409191640458302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191640458302.pdf)
+- Regarding continuation of temporary posts in Sugar Commissionerate and Regional Joint Director (Sugar) office under his control for the year 2024-2025.dated 01/09/2024 to dated 28/02/2025.\
+  [202409241524153602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241524153602.pdf)
 
-- Regarding extension of temporary posts in the Department of Co-operation, Marketing and Textiles (Self) for the period 01.09.2024 to 28.02.2025\
-  [202409201444029502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201444029502.pdf)
+- Maharashtra State Co-operative Appellate Court Bombay Bench regarding continuation of posts of two members from Nagpur and Pune from 1/9/2024 to 28/2/2025...........\
+  [202409241542499202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241542499202.pdf)
 
-- Regarding extension of temporary posts created for Statutory Audit of Agricultural Processing Co-operative Societies...\
-  [202409201714329502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201714329502.pdf)
+- Regarding the continuation of 408 temporary posts created for Audit of Padum Co-operative Societies from 1/9/2024 to 28/2/2025...........\
+  [202409241538360702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241538360702.pdf)
+
+- Maharashtra State Co-operative Appellate Court Bombay Bench regarding continuation of 32 temporary posts of Class-2, 3 and 4 at Nagpur and Pune from 1/9/2024 to 28/2/2025......... ..\
+  [202409241544288502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241544288502.pdf)
+
+- Continuation of temporary posts for year 2024-25 Consumer Co-operative Societies\
+  [202409231540466602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231540466602.pdf)
+
+- Maharashtra State Co-operative Appellate Court Bombay Bench regarding continuation of 185 temporary posts in Co-operative Court from 1/9/2024 to 28/2/2025...........\
+  [202409241546273802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241546273802.pdf)
+
+- Continuous and Concurrent Audit of Co-operative Sugar Factories regarding continuation of temporary posts in the scheme for the year-2024-2025. (From 01/09/2024 to 28/02/2025.)\
+  [202409241528583502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241528583502.pdf)
+
+- Continuation of temporary posts Maharashtra State Cooperative Agriculture Rural Multipurpose Development Bank.\
+  [202409241738293602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241738293602.pdf)
+
+- Continuation of temporary posts for year 2024-25 Shetakari Sahakari sangh M. Kolhapur\
+  [202409231547317802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231547317802.pdf)
+
+- Regarding approval of continuation of temporary posts in establishment of Silk Directorate from 01.09.2024 to 28.02.2025...\
+  [202409231227228202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231227228202.pdf)
+
+- Continuation of temporary posts for year 2024-25 Marketing Co-operative Societies\
+  [202409231537073702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231537073702.pdf)
+
+- Continuation of temporary posts for year 2024-25 Marketing Federations\
+  [202409231544036302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231544036302.pdf)
+
+- Continuation of temporary posts for year 2024-25 Directorate of Marketing\
+  [202409231549254002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231549254002.pdf)
+
+- Regarding the continuation of 692 temporary posts (regular posts) in Audit Cell in Co-operative Department from 1/9/2024 to 28/2/2025...........\
+  [202409241540466802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241540466802.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

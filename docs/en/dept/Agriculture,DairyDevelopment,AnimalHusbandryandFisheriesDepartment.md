@@ -1,49 +1,43 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
 
 ## Funds
-- Implementation of Dairy Development Project Phase-II in 19 districts of Vidarbha and Marathwada division during the period 2024-25 to 2026-27.\
-  [202409161303266701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161303266701.pdf)
+- Regarding approving the provision of funds for state level agricultural exhibition Parli, Beed..\
+  [202409241527145001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241527145001.pdf)
 
-- In the year 2024-25, Rs.715.61 lakh for various agricultural award distribution ceremonies for the years 2020, 2021 and 2022 and Rs.95.05 lakh for the prizes of crop competition winners for the 2023-24 Kharif season, totaling Rs.810.66 lakh. And about granting financial approval.\
-  [202409161810246501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161810246501.pdf)
+- Regarding disbursement of second installment fund for general category for implementation of Central Government assisted Pradhan Mantri Micro Food Processing Industries (PMFME) Yojana for 2024-25....\
+  [202409241501107101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241501107101.pdf)
 
-- Regarding disbursement of funds for the year 2024-25 for the implementation of Mr. Balasaheb Thackeray Haridra (Turmeric) Research and Training Center in Hingoli district. (2401 B446)\
-  [202409161633566601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161633566601.pdf)
+- Regarding giving administrative approval to the publicity and publicity media plan of the scheme for providing financial support to cotton and soybean farmers in the Kharif season of 2023.\
+  [202409231714243801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231714243801.....pdf)
 
-- Regarding giving administrative approval for purchase of Automatic Portable Fire Extinguisher (Automatic Portable Fire Extinguisher with drum shape) equipment in various colleges under Mahatma Phule Agricultural University, Rahuri...\
-  [202409201840304801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201840304801.pdf)
+- Regarding approval of disbursement of funds Rs. 24.00 lakh to implement the scheme of planting fruit trees and vegetables in the backyards of tribal families in tribal districts of the state in the year 2024-25\
+  [202409241458433601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241458433601.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, Parbhani Regarding giving administrative approval to develop an e-library setup at the university library...\
-  [202409201716322501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201716322501.pdf)
+- Establishment and Strengthening of Veterinary Clinics-Establishment of Mobile Veterinary Unit (ESVHD-MVU) under Centrally Sponsored Animal Health and Disease Control Programme.\
+  [202409241715354301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241715354301.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, Parbhani Regarding giving administrative approval for the purchase of Automatic Fire Extinguisher (Automatic Portable Fire Extinguisher with drum shape) equipment for various buildings in Parbhani headquarters...\
-  [202409201838023901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201838023901.pdf)
+- Sub Divisional Agriculture Officer, Rajgurunagar (Village), regarding giving administrative approval to the construction of new Agricultural Building Building of District Pune Office.\
+  [202409241931255801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241931255801.pdf)
+
+- Under the state sponsored scheme of organic farming/toxic free farming, Dr. Regarding disbursement of funds from the budgetary provision for the financial year 2024-25 for implementation of Punjabrao Deshmukh Natural Farming Mission.\
+  [202409241455193801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241455193801.pdf)
 
 ## Miscellaneous
-- Hon. Mr. Hemant Patil, Chairman, Hon. Balasaheb Thackeray Haridra (Turmeric) Research and Training Centre, Vasmat, Hingoli regarding conferment of ministerial status...\
-  [202409161504408301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161504408301..........pdf)
-
-- Creation of posts for Bovine Breeding Regulatory Authority\
-  [202409161326497701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161326497701.pdf)
-
-- Service charges for various services provided through Animal Husbandry Department\
-  [202409161742407201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161742407201.pdf)
-
-- Regarding the appointment as Vice Chairman Maharashtra council of agricultural education and research shri Tushar Balasaheb Pawar\
-  [202409201644134901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201644134901.pdf)
+- Release State Share Under RWBCIS for Ambia Bahar 2021-2022  2023-2024\
+  [202409241659566201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241659566201.pdf)
 
 ## Personnel
-- Regarding the continuation of temporary posts in the scheme Soil Survey and Investigation and Soil Analysis Chemical Laboratory from 01/09/2024 to 28/02/2025.\
-  [202409161223362301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161223362301.pdf)
+- The temporary posts in the schemes Farmer Monthly Scheme and Agricultural Information Team Scheme in the Department of Agriculture dt. 01.09.2024 to dt. Regarding extension till 28.02.2025..\
+  [202409231733165101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231733165101.pdf)
 
-- Regarding continuation of temporary posts in the scheme of Seed, Chemical Fertilizer, Pesticide Testing, Pesticide Residue Testing and Biological Pest Control Laboratory from 01/09/2024 to 28/02/2025.\
-  [202409161220370601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161220370601.pdf)
+- Regarding continuation of temporary posts under the scheme of Vegetables, Nursery, Fruit Nursery, Local Gardens. (Total 926 Posts) S\
+  [202409241216084601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241216084601.pdf)
 
-- Regarding continuation of temporary posts under Agriculture Commissionerate in Agriculture Department from 01/09/2024 to 28/02/2025.\
-  [202409191459575501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191459575501.pdf)
+- Sanction for continuation of 59 temporary posts under Special component Plan- Input subsidy under Special Component Plan (2401 2442) for the Year 2024-2025.\
+  [202409241439061801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241439061801.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,30 +1,30 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
 
 ## Funds
-- Regarding disbursement of funds under Foreign Scholarship Scheme during the financial year 2024-25\
-  [202409201248051234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201248051234.pdf)
+- Regarding providing post-action approval and funds to the proposal of 526 individual Gharkul beneficiaries in Wardha district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202409241511572934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241511572934...pdf)
 
-- Regarding disbursement of funds under Foreign Scholarship Scheme during the financial year 2024-25\
-  [202409201251465134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201251465134.pdf)
+- Regarding providing post-action approval and funds to the proposal of 1721 individual Gharkul beneficiaries in Chandrapur district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202409241509416034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241509416034...pdf)
 
-- Regarding changes in works in Yavatmal District which have been given administrative approval under Vasantrao Naik Tanda Vasti Improvement Scheme.\
-  [202409201710045134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201710045134.pdf)
+- Regarding disbursement of funds under Modi Awas Gharkul Scheme.\
+  [202409241514073634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241514073634.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 31 individual Gharkul beneficiaries in Satara district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202409241503079634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241503079634...pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 1232 individual Gharkul beneficiaries in Amravati district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202409241505133834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241505133834.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 440 individual Gharkul beneficiaries in Gadchiroli district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202409241507403834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241507403834...pdf)
 
 ## Miscellaneous
-- Regarding implementation of Pandit Deendayal Upadhyay Swayam Yojana for higher education students of Dhangar community belonging to nomadic tribe-C category.\
-  [202409191610275634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191610275634.pdf)
-
-- Regarding approval of service provider organization / agency for supply of manpower through external mechanism to establishment of Other Backward Bahujan Kalyan Private Establishments, Regional Offices of the Department, Autonomous Institutions under the Department and Hostels etc.\
-  [202409191130465634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191130465634.pdf)
-
-- Regarding constitution of delegation/study group in line with demand for reservation by inclusion of Dhangar community in Scheduled Tribe.\
-  [202409201748404734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201748404734.pdf)
-
-- Chairman of the delegation/study group formed in accordance with the demand for reservation by including the Dhangar community in the Scheduled Tribes. Regarding the continuation of the appointment of Sudhakar Shinde (Indian Revenue Service).\
-  [202409201754423734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201754423734.pdf)
+- As per the recommendations of the State Backward Classes Commission in its Report No.-58 submitted to the Government regarding the inclusion of castes in the Other Backward Class Lists in the State of Maharashtra.\
+  [202409241638313634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241638313634.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

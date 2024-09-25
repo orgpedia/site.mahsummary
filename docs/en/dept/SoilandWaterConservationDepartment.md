@@ -1,64 +1,61 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 09 September 2024 - 14 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
 
 ## Funds
-- To accord Administrative Approval to Storage Tank Vehegaon (Vehelgaon) (Mhasobacha Nala)\
-  [202409101142366126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101142366126.pdf)
+- To accord administrative approval to Conversion Storage Tank Banali No. 2 (koli mala) Tal. Jat, Dist. Sangli\
+  [202409231829153526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231829153526.pdf)
 
-- To accord Administrative Approval to work of K.T. Weir Tamdardi, Tal. Mangalwedha, Dist. Solapur.\
-  [202409111830087326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409111830087326.pdf)
+- To accord administrative approval to KT Weir Dolambawadi no. 1, Dolhari no. 1  Dolhari No. 3 Tal. Digras Dist. Yavatmal.\
+  [202409241254051426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241254051426.pdf)
 
-- To accord administrative approval to Nala Deepning and widening works at Mouje Lakh Rayaji, Savanga Khu, Loni, Vai and Vadgaon Tanda Tal. Digras, Dist. Yavatmal\
-  [202409121809450526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121809450526.pdf)
+- To accord administrative approval to KT Weir Kolura no.1, Kolura No. 2  Loni No. 1  Tal. Ner Dist. Yavatmal\
+  [202409241312508526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241312508526.pdf)
 
-- To accord administrative approval to Nala Deepning and widening works at Mouje Ishrampur, Kolwai, Irthal, Hanuman Nagar Bhopapur and Mankhi Amba Tal. Darvha, Dist. Yavatmal\
-  [202409121813597926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121813597926.pdf)
-
-- To accord administrative approval to K. T. Weir Bhaurad, Tal Dist. Akola\
-  [202409121740182926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121740182926.pdf)
-
-- To Accord Revised Administrative Approval to K T Weir Rambhapur Tal Murtizapur Dist Akola\
-  [202409121752007826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121752007826.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Harsul-Morkhed, Lingivai, Vai-Jin, Laygavhan, Chincholi and Mandwa Tal. Digras, Dist. Yavatmal\
-  [202409121804127926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121804127926.pdf)
+- To accord administrative approval to KT Weir Donad No. 2, Bhalki No. 1  Kholapuri no. 1 Tal. Ner Dist. Yavatmal\
+  [202409241310166426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241310166426.pdf)
 
 ## Miscellaneous
-- To accord administrative approval to Nala Deepning and widening works at Mouje Ajanti, Balegaon, Dagad Dhanora, and Donad Tal. Ner, Dist. Yavatmal\
-  [202409121742100626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121742100626.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Bangaon, Chikni, Domga, Gharefal and Tembhi Tal. Ner, Dist. Yavatmal\
-  [202409121735100326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121735100326.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Loni, Savargaon Kale and Kharbi Tal. Ner, Dist. Yavatmal\
-  [202409121749531526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121749531526.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Linga, Kapshi, Sonkhas, Sonkhasheti, Sonvadhona, Kolura and GondGavhan Tal. Ner, Dist. Yavatmal\
-  [202409121733098026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121733098026.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Antargaon, Shindi, Palshi and Dongari Nala Tal. Darvha, Dist. Yavatmal\
-  [202409121811417926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121811417926.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Fetari, Bhilwadi, Aamla, Pandhurna and Dhanora Tal. Digras, Dist. Yavatmal\
-  [202409121758163226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121758163226.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Bhalaki, Tarkheda, Kholapuri, Lohatwadi, Ratnapur and Parzana Tal. Ner, Dist. Yavatmal\
-  [202409121747355026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121747355026.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje Sindkhed, Kutafali, Brahamanvada(East), Chikhali, Kanhoba and Sarata Tal. Ner, Dist. Yavatmal\
-  [202409121738058026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121738058026.pdf)
-
-- To accord administrative approval to Nala Deepning and widening works at Mouje SevaNagar, DhavandaNala and Singad Tal. Ner, Dist. Yavatmal\
-  [202409121755105726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409121755105726.pdf)
+- Corrigendum of revised administrative approval to Storage Tank Dolhara Tal. Mokhada, Dist. Palghar\
+  [202409231302572426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231302572426.pdf)
 
 ## Personnel
-- Regarding transfer of services of Mr. Sujit Hambirrao Suryavanshi, Assistant Engineer Grade-2 to Water Resources Department.\
-  [202409101212094026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101212094026.pdf)
+- To accord administrative approval to KT Weir Mukhtyarpur No. 1, Mukhtyarpur No. 2  Donad No. 1 Tal. Ner Dist. Yavatmal\
+  [202409241308078226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241308078226.pdf)
 
-- Co.P. Bhandara Shirur Ta. Shirur, Dist. Regarding granting administrative approval to the work of Beed...\
-  [202409131203193026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409131203193026.pdf)
+- To accord administrative approval to KT Weir Lingi wai no. 1, Morkhed (Harsul) no. 1  Morkhed (harsul) No. 2 Tal. Digras Dist. Yavatmal.\
+  [202409241256060326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241256060326.pdf)
+
+- Regarding the special transfer of District Water Conservation Officer and other equivalent posts (Construction) Group- A cadre.\
+  [202409241610323626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241610323626.pdf)
+
+- To accord administrative approval to KT Weir Varandali no.1, Vithala No.1  Vithala No.2 Tal. Digras Dist. Yavatmal\
+  [202409241300514826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241300514826.pdf)
+
+- To accord administrative approval to Gated CNB Bodhare No. 1  Gated CNB Bodhare No. 2 Tal. Chalisgoan Dist. Jalgoan.\
+  [202409231825073126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231825073126.pdf)
+
+- To accord administrative approval to KT Weir Tornala No.1, Tornala No. 2  Warud No. 1 Tal. Darvha Dist. Yavatmal\
+  [202409241315047226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241315047226.pdf)
+
+- Regarding extension of temporary posts on establishment of Soil and Water Conservation Department.\
+  [202409241149177226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241149177226.pdf)
+
+- To accord administrative approval to KT Weir Amala no. 1, Bhilwadi no.1 and Ashta no. 1 Tal Digras Dist. Yavatmal\
+  [202409241250133626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241250133626.pdf)
+
+- To accord administrative approval to KT Weir Balegoan no. 1, Balegoan no. 2  Bramhanwada no. 1 Tal. Ner Dist. Yavatmal\
+  [202409241305561126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241305561126.pdf)
+
+- To accord administrative approval to KT Weir Javagoan no.1,  Tal. Ner and KT Weir Deulgoan Tal. Darvha Dist. Yavatmal\
+  [202409241317496926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241317496926.pdf)
+
+- To accord administrative approval to KT Weir Vithala No. 3  Vithala No. 4 Tal. Digras and KT Weir Linga No. 1 Tal. Ner Dist. Yavatmal.\
+  [202409241303318826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241303318826.pdf)
+
+- To accord administrative approval to KT Weir Pimpri no. 1, Sevanagar No.1  Sevanagar No. 2 Tal. Digras Dist. Yavatmal\
+  [202409241258531226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241258531226.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

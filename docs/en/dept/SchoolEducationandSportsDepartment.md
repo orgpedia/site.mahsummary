@@ -1,54 +1,34 @@
 # School Education and Sports Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
+
+## Funds
+- Regarding awarding cash prizes to the medal winning athletes and their mentors of Maharashtra state who have made the name of the state bright with outstanding performance at the international level.\
+  [202409231801418321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231801418321.pdf)
 
 ## Miscellaneous
-- Regarding the constitution of a committee under the chairmanship of the Retired Hon.  High Court, Bombay for formulate policies safety of students in the state\
-  [202409191833300021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191833300021.pdf)
+- Regarding the mandatory passing of Teacher Eligibility Test for teachers appointed on Compassionate basis.\
+  [202409231609379421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231609379421.pdf)
 
-- Under the Right of Children to Free and Compulsory Education Act, 2009 of all managements (local bodies, government, private aided, partially aided etc.) to start new schools, add classes and make structural changes in schools accordingly and prescribe revised criteria for accreditation.\
-  [202409191309185721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191309185721.pdf)
+- Amendment of check list regarding proposal submission for New school approval/ Upgradation / New class approval/ Issuing NOC to different school board/ Fixation of grant/ Approval of additional division/ Change of medium.\
+  [202409241636237921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241636237921.pdf)
+
+- Regarding addition of services of full-time teachers and non-teaching staff in 100 subsidized posts in recognized private 100 aided primary, secondary, higher secondary and teaching schools of Zilla Parishads of the State which are members of Defined Contribution Pension Scheme/National Pension Scheme for the purpose of retirement gratuity.\
+  [202409231457444021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231457444021.pdf)
+
+- Reimbursement of tuition fees for students admitted to 25 reserved seats under RTE Rs. 6920.00 regarding provision of attention.\
+  [202409231806208121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231806208121.pdf)
+
+- National Student Army Scheme- Regarding the increase in the rate of food allowance given to the part-time officers and students of the National Student Army.\
+  [202409241731133521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241731133521.pdf)
 
 ## Personnel
-- Priyadarshini Shikshan Prasarak Sanstha, Shegaon (Bu) Distt. Savitribai Vidyalaya operated by Chandrapur, Shegaon (Bu) Distt. Chandrapur is a school located in Bhambora Distt. Regarding migration to Yavatmal.\
-  [202409161205366621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161205366621.pdf)
-
-- Sanjay Education Society, Navalnagar Distt. Dhule Operated Pandit Nehru Secondary School Phapore Distt. Jalgaon and Rukhminibai Secondary School Vele-Akhtwade Distt. Regarding transfer of management of Jalgaon schools to Rukhminibai Pratishthan Mumbai.\
-  [202409161155342221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161155342221.pdf)
-
-- Shivbhim Jyoti Multi-Purpose Education Broadcasting Institution, Naigaon Dist.Buldana Conducted Shri.Shivaji Secondary School, Toranwada Dist.Buldana, Vandebharti Educational and Multi-Purpose Institution, Dhad Dist. Regarding the transfer of management to Buldana.\
-  [202409161152553621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161152553621.pdf)
-
-- Regarding transfer of management of Adarsh Primary English Medium School, Mhasadi, Dist. Dhule run by Shiv Maharashtra Education Trust Kakani, Dist. Dhule to Matoshree Educational Multipurpose Charitable Institution, Mhasdi, Dist. Dhule.\
-  [202409161201436621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161201436621.pdf)
-
-- Shree Saibaba Institute of Trustees, Shirdi Distt. Ahmednagar operated Shree Saibaba Kanya Vidyamandir and Junior College, Shirdi Distt. Ahmednagar Secondary School and Junior College, Nimgaon Korhale, Distt. Regarding shifting to Ahmednagar.\
-  [202409161213115021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161213115021.pdf)
-
-- Saraswati Bhavan Education Society, Moshi Dist. Regarding relocation of Pune operated Flying Birds International School and Junior College, Markal Dist.Pune High School to Chikhli Dist.Pune.\
-  [202409161216192821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161216192821.pdf)
-
 - Maharashtra Appropriation Act, 2024. Distribution of Grants for the year 2024-2025\
-  [202409161522226521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161522226521.pdf)
+  [202409241546140921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241546140921.pdf)
 
-- Regarding the implementation of the decision of the Honble Supreme Court in Civil Appeal No.8928/2015 and other petitions dated July 06, 2017 in the State ---\
-  [202409161458297021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161458297021.pdf)
-
-- Rashtra Seva Samaj, Nagpur Run Rashtra Seva Vidyalaya, Lalganj Distt. Nagpur School Maurya Nagar Uppalwadi Road, Distt. Regarding shifting to Nagpur.\
-  [202409161207317821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161207317821.pdf)
-
-- Regarding the transfer of management of Senapati Santaji Ghorpade Memorial Committee, Mauli High School, Kapshi District Kolhapur, Dhangarmola District Kolhapur to Shri Hiranyakeshi Dongri Rural Development Education Broadcasting Board, Azra District Kolhapur.\
-  [202409161158393421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161158393421.pdf)
-
-- Shivaji Education Society Nava Distt. Jalna Operated Shri Ranganath Maharaj English Primary School, Satephal Distt. of Jalna School, Waghrul (H) Distt. Regarding shifting to Jalna.\
-  [202409161211124421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161211124421.pdf)
-
-- Veer Savarkar Multipurpose Foundation, Umarkhed, Distt. Yavatmal Conducted Vinayak Damodar Savarkar English Medium School, Bittergaon (Khu) Dist. Yavatmal school fun Ambwan dist. Regarding migration to Yavatmal.\
-  [202409161209246721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161209246721.pdf)
-
-- Jnanprabodhini Education Broadcasting Board, Distt. Chhatrapati Sambhaji Nagar Conducted Gyan Prabodhini Secondary School, Chikalthana, Distt. Chhatrapati Sambhajinagar School Nupur Education Institute Shivnagar Distt. Regarding transfer of management to Jalna.\
-  [202409161203363421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161203363421.pdf)
+- Regarding employment of unemployed candidates with D.Ed, B.Ed qualification in schools with less than 10 marks of local self-government bodies on contract basis.\
+  [202409231710300821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231710300821.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

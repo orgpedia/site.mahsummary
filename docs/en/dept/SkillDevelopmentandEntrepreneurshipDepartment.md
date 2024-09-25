@@ -1,14 +1,18 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
+
+## Funds
+- Administrative approval to the additional media plan prepared for the promotion and publicity of the Chief Ministers Yuva Karya Prashikshan Yojana (CMYKP) - Regarding\
+  [202409231454592703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231454592703.pdf)
+
+- Regarding giving administrative approval to the budget for the construction of Industrial Training Institute, Ballarpur, District Chandrapur under Fund of Amrit Mahotsav of Independence.\
+  [202409241237411203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241237411203...pdf)
 
 ## Miscellaneous
-- Regarding approving the implementation of Chief Ministers Youth Work Training Scheme- Additional Notice\
-  [202409161555157003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409161555157003.pdf)
-
-- Regarding the appointment of two members from academic/technical/social/professional fields in the Institute Management Committee (IMC) for upgradation of Government Industrial Training Institutes in the State and restructuring of IMC.\
-  [202409191626015903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191626015903.pdf)
+- Regarding Change in Name of Govt. Industrial Institute\
+  [202409241725377203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241725377203.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

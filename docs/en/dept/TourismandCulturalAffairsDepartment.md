@@ -1,28 +1,24 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
 
 ## Funds
-- Regarding giving administrative approval for organizing expenses of 62nd Maharashtra State Drama Competition, 20th Maharashtra State Childrens Drama Competition, 5th Divyang Childrens Drama Competition and State Level Prize Distribution Ceremony of Final Round of 32nd Marathi Professional Drama Competition and Festival of First Place Plays\
-  [202409191811449523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191811449523.pdf)
-
-- Regarding approval of the minimum rate tender and financial approval for the work of micrography of records in the Directorate of Archives...\
-  [202409191503535823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191503535823....pdf)
+- Regarding the administrative approval of the budget for travel and subsistence expenses of ICOMOS and UNESCO experts.\
+  [202409231822022623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231822022623.pdf)
 
 ## Miscellaneous
-- Pratapgad Fort, Mauje Ranadgaongound, Mahabaleshwar, Dist. Proposal for final notification to declare Satara as a State Protected Monument.\
-  [202409201222382323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201222382323.pdf)
+- Regarding approving the increase in award amount given by Maharashtra State Gujarati Sahitya Akademi.\
+  [202409241100433623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100433623.pdf)
 
-## Personnel
-- Regarding extension of temporary posts on establishment of Directorate of Archives, Mumbai from 01.09.2024 to 28.02.2025...\
-  [202409201502502023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201502502023.pdf)
+- Regarding approving the increase in award amount given by Maharashtra State Hindi Sahitya Akademi.\
+  [202409241100201223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100201223.pdf)
 
-- Regarding extension of temporary posts on establishment of Darshanika Department, Mumbai from 01.09.2024 to 28.02.2025...\
-  [202409201502454923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201502454923.pdf)
+- Maharashtra State Cultural Policy, 2024\
+  [202409231656551123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231656551123.pdf)
 
-- P.L. Deshpande, regarding extension of temporary posts in the establishment of Maharashtra Arts, Academy, Mumbai from 01.09.2024 to 28.02.2025...\
-  [202409201502354823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201502354823.pdf)
+- Regarding approving increase in award amount given by Maharashtra State Sindhi Sahitya Akademi.\
+  [202409241100133823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100133823.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

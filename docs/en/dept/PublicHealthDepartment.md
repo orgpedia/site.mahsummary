@@ -1,43 +1,49 @@
 # Public Health Department
 
-**Date Range**: 16 September 2024 - 21 September 2024
+**Date Range**: 23 September 2024 - 28 September 2024
 
 
 ## Funds
-- Regarding revised administrative approval for purchase necessary equipment and materials for pheco treatment methods in Government Hospitals for Cataract Surgery under National Blindness Control Program of Rs.20.00 crore under account head 2210 0164 ,Subsidiary Grants-31 (Non-Salary) in the financial year 2024-25.\
-  [202409201114292517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201114292517.pdf)
-
-- Regarding giving administrative approval to the budget for construction of residence at Rural Hospital, Mahur, Dist.Nanded.\
-  [202409091423227717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091423227717.pdf)
-
-- Regarding giving administrative approval to the budget and plan for the construction of the main building due to the upgradation of 30 bedded Rural Hospital, at Chalisgaon, Distt-Jalgaon in the 100-bedded sub-district hospital.\
-  [202409101059045917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409101059045917.pdf)
-
-- Regarding increase in remuneration of group promoters working under National Health Mission.\
-  [202408191508096617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191508096617.pdf)
+- Regarding granting administrative approval for advertisement expenditure for publicizing and promoting the welfare schemes of the combined Mahatma Jyotirao Phule Jan Arogya Yojana and Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana implemented under the Department of Public Health during the financial year 2024-25.\
+  [202409231242023117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231242023117.pdf)
 
 ## Miscellaneous
-- Regarding extension of contract laundry service at Regional Psychiatric Hospitals, Thane, Ratnagiri and Nagpur.\
-  [202409191805518717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409191805518717.pdf)
+- Regarding inclusion of three new hospitals for Mumbai / Konkan Division for medical examination of Police Officers/Employees.\
+  [202409201935566717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201935566717.pdf)
 
-- Regarding upgradation as a special matter  of Sub-centre to Primary Health Center at Phulchincholi, tal. Pandharpur, Dist. Solapur\
-  [202409201031480117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201031480117.pdf)
+- Regarding approval of new health sub-centres at Kannada and Paithan talukas (Mauje Nimbhora, Mauje Adgaon Pishore, Kannada and Mauje Indegaon, Paithan) in Ch. Sambhajinagar district.\
+  [202409091423436117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091423436117.pdf)
 
-- Pethwadaj, Kandahar Dist. Regarding upgradation of primary health center at Nanded to 30 bedded rural hospital.\
-  [202409091423357417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091423357417.pdf)
+- Regarding sanction of sub-centre at Mauje Kaundgaon, Taluka Paranda, District Dharashiv.\
+  [202409231306570017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231306570017.pdf)
 
-- Regarding upgradation of Primary Health Center in Kharsundi, District Atpadi, District Sangli to 30 bedded rural hospital.\
-  [202409091423107317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091423107317.pdf)
+- Indapur, Vashi, Dist. Regarding upgradation of sub-centre at Dharashiv to Primary Health  Centre.\
+  [202409231306510117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231306510117.pdf)
 
-- Regarding  as a special matter.establishment of primary health center at Koparde Haveli, T. Karad, Dist.  Satara\
-  [202409201031410917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201031410917.pdf)
+- Regarding disbursement of Rs.30729.00 lakh from the budget provision of the year 2024-25 as state share as 40 from the account head 22105246 in the form of Infrastructure  Maintenance under the Centrally Sponsored National Health Mission for the year 2024-25.\
+  [202408191508155417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191508155417.pdf)
+
+- Para, Ta. Vashi, Dist. Regarding upgradation of Primary Health Center at Dharashiv to 50 bedded Sub District Hospital.\
+  [202409091423545517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409091423545517.pdf)
 
 ## Personnel
-- Regarding implementation of system and procedure of Virtual Personal Deposit Account for drawing and disbursing officers and other non-governmental implementing authorities for speedy disbursement and control of Subsidiary Grants.\
-  [202408191508035017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202408191508035017.pdf)
+- Regarding continuation of 130 temporary posts in Dental Department in Rural Hospital / Upazila / District Hospital under Deputy Director, Health Services, Akola Board,\
+  [202409201935460917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201935460917.pdf)
 
-- Regarding the continuation of 3 temporary posts in the office of Joint Director, Health Services (Maleria, Elephantiasis and Waterborne Diseases), Pune-1 under the Cholera Control Programme.\
-  [202409201043256117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201043256117.pdf)
+- regarding the continuation of 15 temporary posts on the establishment of joint director health services maleria elephantiasis and waterborne diseases pune 1 office\
+  [202409201457045217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201457045217.pdf)
+
+- Regarding continuation of 209 temporary posts in Dental Department in Rural Hospital / Upazila / District Hospital under Deputy Director,  Health Services, Nashik Mandal, Nashik.\
+  [202409201935514917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201935514917.pdf)
+
+- Regarding Continuation of 264 temporary posts under National Tuberculosis Control Programme.\
+  [202409231151152117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231151152117.pdf)
+
+- Regarding the continuation of 15 temporary posts under National Maleria Eradication Programme.\
+  [202409231551120017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231551120017.pdf)
+
+- Continuation of 1355 temporary posts under Deputy Director, Health Services, Nagpur Board, Nagpur.\
+  [202409201935397117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409201935397117.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
