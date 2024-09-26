@@ -14,5 +14,8 @@
 - Regarding Change in Name of Govt. Industrial Institute\
   [202409241725377203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241725377203.pdf)
 
+- Regarding approval for implementation of Chief Ministers Yuva Karya Prashikshan Yojana (CMYKPY) - Additional Instructions\
+  [202409251724165703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251724165703.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

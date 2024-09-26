@@ -7,6 +7,12 @@
 - Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Shri Vyankatesh Shetkari Vinkari Sahakari Soot Girani Ltd, Ichalkaranji, Tal- Hatkanangale, Dist- Kolhapur.\
   [202409241613138402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241613138402.pdf)
 
+- Regarding sanction of financial assistance in the form of grant for the financial year 2024-25 to Maharashtra State Co-operative Textile Federation Marya., Mumbai.\
+  [202409251717080502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251717080502.pdf)
+
+- Regarding approval of the project report- Vasudev Cooperative Yarn Mill Ltd., Anjangaon Surji, Tal-Anjangaon Surji, Dist-Amravati.\
+  [202409251712133402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251712133402.pdf)
+
 ## Miscellaneous
 - Regarding declaration of Virtual Personal Deposit Account Administrators to officers of Cooperatives, Marketing and Textiles Departments for speedy disbursement and control of Subsidiary Grants...\
   [202409241224305902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241224305902.pdf)
@@ -56,6 +62,15 @@
 
 - Regarding the continuation of 692 temporary posts (regular posts) in Audit Cell in Co-operative Department from 1/9/2024 to 28/2/2025...........\
   [202409241540466802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241540466802.pdf)
+
+- Regarding the extension of the staff category temporary posts from 01.09.2024 to 28.02.2025 for continuous and concurrent audit of cooperative societies.\
+  [202409251615499502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251615499502.pdf)
+
+- Cooperative Yarn Mills: Regarding the continuation of 23 posts of temporary staff required to carry out the continuous and concurrent audit scheme during the year 2024-25.\
+  [202409251709121302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251709121302.pdf)
+
+- Regarding the continuation of a temporary post of Special Auditor Class-1 created for Co-operative Yarn Mills under the Commissioner (Textiles), Textiles Commissionerate, Maharashtra State, Nagpur for the year 2024-25.\
+  [202409251713566302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251713566302.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

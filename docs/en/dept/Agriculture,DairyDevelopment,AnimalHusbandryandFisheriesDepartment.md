@@ -25,6 +25,12 @@
 - Under the state sponsored scheme of organic farming/toxic free farming, Dr. Regarding disbursement of funds from the budgetary provision for the financial year 2024-25 for implementation of Punjabrao Deshmukh Natural Farming Mission.\
   [202409241455193801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241455193801.pdf)
 
+- Regarding the disbursement of funds of Rs.3.09 crore for the Nanaji Deshmukh Agricultural Sanjeevani Project for the financial year 2024-25...\
+  [202409251510223401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251510223401.pdf)
+
+- Regarding disbursement of funds of Rs.200.00 lakhs under the scheme to train government employees for technical training under the State Training Policy in the year 2024-25...\
+  [202409251513223201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251513223201.pdf)
+
 ## Miscellaneous
 - Release State Share Under RWBCIS for Ambia Bahar 2021-2022  2023-2024\
   [202409241659566201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241659566201.pdf)
@@ -38,6 +44,9 @@
 
 - Sanction for continuation of 59 temporary posts under Special component Plan- Input subsidy under Special Component Plan (2401 2442) for the Year 2024-2025.\
   [202409241439061801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241439061801.pdf)
+
+- Regarding continuation of temporary posts in Taluka Seed Multiplication Center under Commissionerate of Agriculture from 01st September, 2024 to 28th February, 2025... (Total 248 Posts)\
+  [202409251240239801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251240239801.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
