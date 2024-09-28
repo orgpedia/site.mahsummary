@@ -30,5 +30,32 @@
 - Regarding continuation of 52 temporary posts in Directorate of Industrial Safety and Health from 01.09.2024 to 28.02.2025.\
   [202409231141471510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231141471510.pdf)
 
+- Regarding posting on promotion to the post of Superintending Engineer, Group-A (Gazetted) from the cadre of Electrical Inspector, Group-A (Gazetted)...(Year 2023-24 Supplementary Selection List)\
+  [202409251731413510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251731413510.pdf)
+
+- Regarding temporary promotion and posting to the post of Deputy Labor Commissioner, Group-A (S-23: Rs.67700-208700).\
+  [202409251625463110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251625463110.pdf)
+
+- 103 temporary posts in various Industrial Courts of the State from 01.09.2024 dt. Regarding extension of time till 28.02.2025.\
+  [202409251248540910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251248540910.pdf)
+
+- Regarding posting on promotion to the post of Additional Director, Group-A (Gazetted) at the Directorate of Industrial Safety and Health.\
+  [202409261336184910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261336184910.pdf)
+
+- 107 temporary posts in various Labor Courts of the State with effect from 01.09.2024 Regarding continuation till 28.02.2025.\
+  [202409251252417910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251252417910.pdf)
+
+- Regarding transfer requests of Deputy Director, Group-A cadre officers on establishment of Directorate of Industrial Safety and Health, Mumbai.\
+  [202409261330241410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261330241410.pdf)
+
+- 7 temporary posts on the establishment of Employees Compensation Commissioner, Mumbai dt. Regarding extension from 01.09.2024 to 28.02.2025.\
+  [202409251248357110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251248357110.pdf)
+
+- Request transfer of Assistant Labor Commissioner, Group-A cadre on establishment of Labor Commissioner, Mumbai.\
+  [202409251624013210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251624013210.pdf)
+
+- Regarding posting on promotion to the post of Co-Director, Group-A, Boiler at the establishment of Directorate of Evaporators.\
+  [202409261333536010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261333536010.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -70,6 +70,12 @@
 - Jalgaon Municipal Corporation under Swachh Maharashtra Mission (No.) 2.0, Distt. Regarding giving administrative approval to solid waste management project of Jalgaon.\
   [202409241441563625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241441563625.pdf)
 
+- Release of State Government Equity for Mumbai Metro Railway Line-3 Project to Mumbai Metro Rail Corporation Ltd. (FY 2024-25)\
+  [202409261656595625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261656595625.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metro Rail Corporation Ltd for Mumbai Metro Line-3 Project (FY 2024-25)\
+  [202409261701472825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261701472825.pdf)
+
 ## Miscellaneous
 - Regarding lease of two rooms in Jawahar Bal Mandir on 100 Foot Road, Sangli City to Mukbadhir School of Sangli Giants Charitable Society, Sangli for a term of 29 years.\
   [202409231315414925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231315414925.pdf)

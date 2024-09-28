@@ -31,6 +31,21 @@
 - Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Chalisgaon and Bhadgaon, District Jalgaon, Public Works Department) (2/6)\
   [202409231922526119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231922526119.pdf)
 
+- Regarding the return of 25 percent of the amount to the sand group Mauje Mogra, Majalgaon, District Beed, the auctioneer deposited to the Govt In the year 2021-2022 - Bappashree Construction, Gangamasala, Mazalgaon, District Beed, Prof. Prof. Shri. Satish Narayanarao Solankhe.\
+  [202409251704375119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251704375119.pdf)
+
+- Regarding the return of 25 percent of the amount to the sand group Mauje Shuklatirtha Nimgaon-1, Majalgaon, District Beed, the auctioneer deposited to the Govt In the year 2021-2022 - Bappashree Construction, Gangamasala, Mazalgaon, District Beed, Prof. Prof. Shri. Satish Narayanarao Solankhe.\
+  [202409251708253219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251708253219.pdf)
+
+- Regarding the return of 25 percent of the amount to the sand group Mauje Shuklatirtha Nimgaon-2, Majalgaon, District Beed, the auctioneer deposited to the Govt In the year 2021-2022 - Bappashree Construction, Gangamasala, Mazalgaon, District Beed, Prof. Prof. Shri. Satish Narayanarao Solankhe.\
+  [202409251712356119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251712356119.pdf)
+
+- Allocation of grants for civic amenities works in rehabilitated village Shevre in Madha taluka of Solapur district under Ujani Project\
+  [202409251636208019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251636208019.pdf)
+
+- Government approval for Proposal regarding Payment of Adivasi Khatedars under the Maharashtra Sales of Trees by occupants belonging to the Scheduled Tribes (Regulation) Act, 1969 Scheme (2406 0686) for the year of 2023-24\
+  [202409251728013419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251728013419.pdf)
+
 ## Miscellaneous
 - Regarding payment of essential items made available from NDRR Store in emergency situations.\
   [202409231207493819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231207493819.pdf)
@@ -128,6 +143,24 @@
 - Regarding granting administrative approval for disaster mitigation works. Drought Prevention Works, Ground Water Survey and Development System, Dhule, Distt. the dust (5/5)\
   [202409231541264019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231541264019.pdf)
 
+- Regarding the supply of bamboo to the registered cooperatives working in the bamboo processing industry in the State.\
+  [202409251745270819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251745270819.pdf)
+
+- Regarding disbursement of funds under the head (4415 0192) for establishment of Bamboo Research and Training Center at Chichapalli in Chandrapur District for the year 2024-25.\
+  [202409251750588019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251750588019.pdf)
+
+- Dr. Regarding selection of villages in Chandrapur, Madhyachanda and Junnar forest division under Shyama Prasad Mukherjee Jan-Forest Development Scheme.\
+  [202409261229106119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261229106119.pdf)
+
+- Extending the scope of the Dr. Shyama Prasad Mukherjee Jan-Forest Development Scheme to include solar energy fencing.\
+  [202409251152123319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251152123319.pdf)
+
+- Regarding appointment of Naib Tehsildar on deputation Mr. Rupesh Palve and Smt. Lata Patil (Koli),\
+  [202409251734229319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251734229319....pdf)
+
+- Allocation of grants for civic amenities works in rehabilitated villages in Karmala taluka of Solapur district under Ujani Project\
+  [202409251638185219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251638185219.pdf)
+
 ## Personnel
 - Officers in the cadre of Deputy Collector from 01.01.2004 to dt. Consolidated Final Seniority List showing status as on 01.01.2007 for the period 31.12.2006\
   [202409231709468219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231709468219.pdf)
@@ -161,6 +194,60 @@
 
 - Regarding continuation of temporary posts under Production Forestry Program under Maharashtra Forestry Projects in the year 2024-25.\
   [202409231604458419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231604458419.pdf)
+
+- Regarding the extension of 140 temporary posts under the Western Ghats Development Program in the Forest Department in the year 2024-25.\
+  [202409251617032119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251617032119.pdf)
+
+- Regarding deciding the policy for imparting periodic technical training to officers/employees in sub-department Forest under Revenue and Forest Department....\
+  [202409251214021819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251214021819.pdf)
+
+- Regarding the continuation of 104 temporary posts created under the non-planning scheme of Nature Conservation and Wildlife Conservation, Tiger Reserve Melghat in the year 2024-25.\
+  [202409261305090019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261305090019.pdf)
+
+- Regarding the continuation of temporary posts of 100 Forest Guards created for the protection of Protected Areas in the year 2024-25.\
+  [202409261241089719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261241089719.pdf)
+
+- Notification of Chief Conservator of Forests, Education and Training Pune regarding extension of 59 temporary posts in the year 2024-25. (Budget Head 24060612 and 24150482)\
+  [202409251614106219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251614106219.pdf)
+
+- Regarding the extension of 3 temporary posts in the year 2024-25 under the scheme Extension of Forest Training School and College and Establishment of New Forest Education Department.\
+  [202409261226272919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261226272919.pdf)
+
+- In Petition No. 305/1995 regarding encroachment at Sanjay Gandhi National Park, Borivali, Hon. Regarding the continuation of 1 temporary post in the cadre of Assistant Conservator of Forests in the year 2024-25, created under the scheme Creation of posts for Sanjay Gandhi National Park, Borivali as per the order passed by the High Court...\
+  [202409261318582919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261318582919.pdf)
+
+- Regarding extension of temporary posts in various offices under Forest Department from 01.09.2024 to 28.02.2025.\
+  [202409251607261919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251607261919.pdf)
+
+- Regarding the continuation of 1 temporary post in the cadre of Assistant Conservator of Forests assigned to the Conservator of Forests and Area Director, Sanhyadri Tiger Reserve, Kolhapur in the year 2024-25...\
+  [202409261252543919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261252543919.pdf)
+
+- Regarding the continuation of 137 temporary posts created under the non-plan scheme of wildlife protection and nature conservation in the year 2024-2025.\
+  [202409261302042819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261302042819.pdf)
+
+- Regarding the continuation of 10 temporary posts made available by class/adjustment under the scheme Establishment of Maharashtra State Zoological Museum Authority in the year 2024-25.\
+  [202409261258539719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261258539719.pdf)
+
+- Regarding continuation of 149 temporary posts created under Biodiversity Conservation Program in the year 2024-25.\
+  [202409261313430619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261313430619.pdf)
+
+- Regarding the continuation of 69 temporary posts on the establishment of Chief Conservator of Forests and Director, Sanjay Gandhi National Park, Borivali during the year 2024-2025.\
+  [202409261321530819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261321530819.pdf)
+
+- Establishment of Special Tiger Protection Force (STPF) for Tadoba-Andhari Tiger Reserve and Pench Tiger Reserve regarding continuation of 224 temporary posts created under the scheme in 2024-25.\
+  [202409261245023119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261245023119.pdf)
+
+- Establishment of Special Tiger Protection Force (STPF) for Navegaon-Nagzira Tiger Reserve and Melghat Tiger Reserve regarding continuation of 224 temporary posts created under this scheme in the year 2024-2025.\
+  [202409261248288919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261248288919.pdf)
+
+- Regarding the continuation of 13 temporary posts created on the establishment of Chief Conservator of Forests and Area Director, Melghat Tiger Reserve, Amravati in the year 2024-25.\
+  [202409261316296719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261316296719.pdf)
+
+- Regarding the continuation of 42 temporary posts created under the Pench Tiger Project post-plan in the year 2024-2025.\
+  [202409261311174819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261311174819.pdf)
+
+- Regarding the continuation of 1 temporary post in the cadre of Assistant Conservator of Forests at Nagzira Sanctuary under the non-plan Establishment of Maldhok Bird Sanctuary, Nagzira Sanctuary and Tadoba National Park for the year 2024-2025.\
+  [202409261307263519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261307263519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -31,6 +31,24 @@
 - Regarding disbursement of funds of Rs.200.00 lakhs under the scheme to train government employees for technical training under the State Training Policy in the year 2024-25...\
   [202409251513223201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251513223201.pdf)
 
+- Vasantrao Naik Marathwada Agricultural University, Parbhani under Parbhani headquarters and outside headquarters regarding providing entertainment facilities (TV, Dish etc.) in various hostels for boys and girls...\
+  [202409261904559001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261904559001.pdf)
+
+- Regarding granting administrative approval for construction of new administrative building at Rajarshi Chhatrapati Shahu Maharaj Agricultural College, Kolhapur under Mahatma Phule Agricultural University, Rahuri.\
+  [202409261851122601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261851122601.pdf)
+
+- Regarding granting administrative approval for installation of digital hoarding and digital stand equipment in various colleges under Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli...\
+  [202409261902476201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261902476201.pdf)
+
+- Regarding the subsidy of Rs.7/- per liter for milk to the milk producing farmers who supply milk to cooperative milk unions and private milk projects in the state....\
+  [202409261531292301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261531292301.pdf)
+
+- Regarding giving administrative approval for construction of guest house building at Rajarshi Chhatrapati Shahu Maharaj Agricultural College, Kolhapur under Mahatma Phule Agricultural University, Rahuri.\
+  [202409261847505401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261847505401.pdf)
+
+- Regarding granting administrative approval for construction of hostel building by new students at Rajarshi Chhatrapati Shahu Maharaj Agricultural College, Kolhapur under Mahatma Phule Agricultural University, Rahuri.\
+  [202409261856227501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261856227501.pdf)
+
 ## Miscellaneous
 - Release State Share Under RWBCIS for Ambia Bahar 2021-2022  2023-2024\
   [202409241659566201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241659566201.pdf)

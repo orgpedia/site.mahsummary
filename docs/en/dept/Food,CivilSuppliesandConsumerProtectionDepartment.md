@@ -7,6 +7,10 @@
 - Guidelines for procurement of fire safety devices are required for the safety of food grains in government grain godowns in the state through the Government e-Marketplace (GeM) portal.\
   [202409251450113306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251450113306.pdf)
 
+## Miscellaneous
+- Regarding appointment on deputation to the post of Deputy Controller, Ration (Establishment) in Mumbai-Thane Ration System... Dr. Arvind Narsikar, Deputy Collector.\
+  [202409251447377006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251447377006.pdf)
+
 ## Personnel
 - Temporary promotion from the post of Assistant Director Group B (Gazetted) to the post of Deputy Director Group A (Gazetted) in the office of Supply Commissioner Office under Food Civil Supplies And Consumer Protection Department.\
   [202409231817586506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231817586506.pdf)

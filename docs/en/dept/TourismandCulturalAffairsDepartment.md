@@ -20,5 +20,8 @@
 - Regarding approving increase in award amount given by Maharashtra State Sindhi Sahitya Akademi.\
   [202409241100133823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100133823.pdf)
 
+- Regarding organizing seven exhibitions of historical and rare documents in the Directorate of Archives in one financial year on one subject, one in each revenue department and giving administrative approval for the expenses incurred for the same...\
+  [202409261118544123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261118544123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

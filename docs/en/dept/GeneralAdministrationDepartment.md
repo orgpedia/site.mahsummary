@@ -20,6 +20,18 @@
 - Regarding determination of the number of posts of Desk Officer Cadre in the Ministry Department\
   [202409231717145407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231717145407.pdf)
 
+- Regarding appointment on deputation to the post of Assistant Commissioner in the office of Municipal Corporation, Kolhapur Mrs. Swati Dudhane, Desk Officer\
+  [202409261213107007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261213107007.pdf)
+
+- Regarding appointment on deputation to the post of Assistant Commissioner in the office of Vasai-Virar City, Municipal Corporation Mrs. Gauri Patil, Desk Officer\
+  [202409261209567607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261209567607.pdf)
+
+- Regarding filling the vacant posts in the office of Minorities Commissionerate, Chhatrapati Sambhajinagar by deputation.\
+  [202409261527477107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261527477107.pdf)
+
+- Regarding reversion of service on deputation Mrs. Pratima Deepak Chaudhary, Desk Officer\
+  [202409261216057307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261216057307.pdf)
+
 ## Personnel
 - Extension of temporary posts in the office of Lokayukta and Upa-Lokayukta\
   [202409241737260507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241737260507.pdf)

@@ -13,5 +13,20 @@
 - Durability Certificate\
   [202409231604341416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231604341416.pdf)
 
+- Regarding posting by promotion to the post of Assistant Research Officer, Group-B (Non-Gazetted) to the post of Research Officer / Statistical Officer, Group-B (Gazetted) in the establishment of Directorate of Finance and Statistics.\
+  [202409261221552916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261221552916.pdf)
+
+- Regarding extension of 51 temporary posts in the offices of Vidarbha Development Board, Marathwada Development Board and rest of Maharashtra Development Boards and 6 temporary posts in Planning Department (Self) in total 57 temporary posts from 01.09.2024 to 28.02.2025.\
+  [202409251506142516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251506142516.pdf)
+
+- Regarding continuation of temporary posts created at the State level as well as at the Divisional Commissioner, Nagpur level under the special action program for rapid development of Naxal-affected areas.\
+  [202409251432343316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251432343316.pdf)
+
+- Continuation of Temporary Post of MGNREGS of Maharashtra-Nagpur Commissionarate., Div. Comm., Collector Office, Zilha Parishad, Tahsil Office. Dt. 01.09.2024 to Dt. 28.02.2025.\
+  [202409261657132716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261657132716.pdf)
+
+- Extension to the temporary posts in the offices of Directorate of Economics and Statistics (Headquarter), all Regional offices and all District Statistics Offices for the period from 1/09/2024 to 28/02/2025.\
+  [202409251602013316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251602013316.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

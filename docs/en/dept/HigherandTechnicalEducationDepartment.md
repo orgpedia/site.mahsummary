@@ -23,9 +23,93 @@
 - Regarding approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
   [202409231503481608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231503481608.pdf)
 
+- Regarding the approval of the Government to start a new degree course in Pharmacology in the institution of existing degree course in Pharmacology from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261344198808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261344198808.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261328455808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261328455808.pdf)
+
+- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409261323497008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261323497008.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261333553208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261333553208.pdf)
+
+- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409261308538008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261308538008.pdf)
+
+- Regarding approval of change in name of institute of Diploma in Pharmacy course from academic year 2024-25\
+  [202409261557032908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261557032908.pdf)
+
+- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409261340297408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261340297408.pdf)
+
+- Regarding approval to provide hostel accommodation on rent-free basis to the Resident Hostel Superintendents staying as part of their duty in all Government Hostels under the Directorate of Higher Education.\
+  [202409261454328008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261454328008.pdf)
+
+- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409251226475108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251226475108.pdf)
+
+- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409261320196608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261320196608.pdf)
+
+- Regarding the constitution of a committee for improvement of the Indian Administrative Service Pre-Training Center in the State and fixing the terms of reference of the committee.\
+  [202409251827073208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251827073208....pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261257298108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261257298108.pdf)
+
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. (Aadarsh Institute of Pharmaceutical Science  Research Centre, Beed)\
+  [202409251754348608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251754348608.pdf)
+
+- Regarding approval of the Government to start a new Masters degree course in the existing Institute of Pharmacy from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi, as well as to increase the accessibility of the existing degree course.\
+  [202409261337193208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261337193208.pdf)
+
+- Regarding the approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409261344529408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261344529408.pdf)
+
+- Regarding giving administrative approval for the repair, renovation and electrification of the hostel building of Matoshree Government Hostel (Boys), Churchgate, Mumbai...\
+  [202409261709164708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261709164708.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261305311508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261305311508.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261312294308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261312294308...pdf)
+
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. ( G.N. Institute of Pharmacy, Chandrapur )\
+  [202409251810170708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251810170708.pdf)
+
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. (Renuka Pharmacy College, Dharashiv)\
+  [202409251813323308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251813323308.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261302170108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261302170108.pdf)
+
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2024-25. (Sahyadri Institute of Pharmacy,Kolhapur)\
+  [202409251559000408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251559000408.pdf)
+
+- Regarding declaration of Virtual Personal Deposit Account Administrator of Directorate of Libraries and Subordinate Offices.\
+  [202409261748252908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261748252908.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202409261316376108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261316376108.pdf)
+
+- Regarding approval of the Government to start a new Institute of Pharmacology from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.\
+  [202409261709488708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261709488708.pdf)
+
 ## Personnel
 - Department of Higher and Technical Education, Ministerial (Self) Establishment Regarding Continuation of Temporary Posts.\
   [202409241207433808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241207433808.pdf)
+
+- Regarding Transfers of Principal, HOD and Lecturers in Government Polytechnic, Maharashtra Polytechnic Teachers Group-A of 2024.\
+  [202409251237303508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251237303508.pdf)
+
+- Transfer-2024, Assistant Professor, Government College of Engineering\
+  [202409251234199508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251234199508.pdf)
+
+- Transfer 2024, Assistant Professor, Government College of Pharmacy\
+  [202409251231220908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251231220908.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Sant Ravidas Schedule Cast Industrial Co-op Society Ltd.Udgir Dist.Latur\
   [202409231725445122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231725445122.pdf)
 
+- Regarding disbursement of funds for the financial year 2024-25 to the Scheduled Caste category under the scheme for distribution of milch hybrid cows and buffaloes to individual beneficiaries. (Account Heading 2403D722)\
+  [202409261326363422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261326363422.pdf)
+
 ## Miscellaneous
 - Regarding approving the distribution of subsidy of Rs.20,000/- per Dindi to Dindis accompanying 10 palanquins for the year 2024 for Ashadhi Ekadashi Yatra at Pilgrimage Pandharpur.\
   [202409231440508622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231440508622.pdf)

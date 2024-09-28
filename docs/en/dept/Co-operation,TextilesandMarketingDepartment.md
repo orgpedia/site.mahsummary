@@ -13,12 +13,27 @@
 - Regarding approval of the project report- Vasudev Cooperative Yarn Mill Ltd., Anjangaon Surji, Tal-Anjangaon Surji, Dist-Amravati.\
   [202409251712133402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251712133402.pdf)
 
+- Babasaheb Naik Cotton Producers Cooperative Cotton Mill Marya., Pimpalgaon (Kanha), Dist. Mahagaon, Dist. Yavatmal regarding payment of installments for repayment of outstanding amount...\
+  [202409261811192802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261811192802.pdf)
+
+- Regarding approval of revised project report-Mata Mahakali Womens Backward Class Cooperative Spinning Mills. Sonkhed, T. Loha, Dist. Nanded\
+  [202409261839408602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261839408602.pdf)
+
 ## Miscellaneous
 - Regarding declaration of Virtual Personal Deposit Account Administrators to officers of Cooperatives, Marketing and Textiles Departments for speedy disbursement and control of Subsidiary Grants...\
   [202409241224305902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241224305902.pdf)
 
 - Regarding selection of co-operative yarn mills for financial assistance. Ashirwad Cooperative Yarn Mills. Pachora, Pachora, Dist. Jalgaon.\
   [202409241635256802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241635256802.pdf)
+
+- Regarding selection of co-operative yarn mills for financial assistance. Pingala Cooperative Yarn Mill Marya.Sonesangvi,T.Shevgaon,Dist. Ahmednagar.\
+  [202409261835482602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261835482602.pdf)
+
+- M/s Raymond Luxury Cottons Ltd., Amravati regarding sanction of capital subsidy under Textile Policy, 2018-23 on investment in machinery purchased from bank finance and self-financed funds during the period 2011-17.\
+  [202409261826013402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261826013402.pdf)
+
+- Regarding selection of co-operative yarn mills for financial assistance. Dr. Shamaprasad Mukherjee Co., Ltd. Spinning Mill, Shendurni, Tel. Jamner, Dist. Jalgaon\
+  [202409261830289002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261830289002.pdf)
 
 ## Personnel
 - Regarding continuation of temporary posts in Sugar Commissionerate and Regional Joint Director (Sugar) office under his control for the year 2024-2025.dated 01/09/2024 to dated 28/02/2025.\
@@ -71,6 +86,18 @@
 
 - Regarding the continuation of a temporary post of Special Auditor Class-1 created for Co-operative Yarn Mills under the Commissioner (Textiles), Textiles Commissionerate, Maharashtra State, Nagpur for the year 2024-25.\
   [202409251713566302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251713566302.pdf)
+
+- Promotion and posting from the post of Co-Registrar Co-operative Society Group-A to Additional Registrar Co-operative Society Group-A on a purely temporary basis - Shri.Kedari Jadhav, Co-Registrar Co-operative Society.\
+  [202409261614582802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261614582802.pdf)
+
+- Promotion and posting from the post of Co-Registrar Co-operative Societies Group-A to Additional Registrar Co-operative Societies Group-A on purely temporary basis - Shri.Rajeshkumar Suravase, Co-Registrar Co-operative Societies.\
+  [202409261621499002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261621499002.pdf)
+
+- Regarding the continuation of staff temporary posts from 01.09.2024 to 28.02.2025 for concurrent audit.\
+  [202409261230394702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261230394702.pdf)
+
+- Promotion and posting from the post of Co-Registrar Co-operative Society Group-A to Additional Registrar Co-operative Society Group-A on a purely temporary basis - Mr. Deepak Shinde, Co-Registrar Co-operative Society.\
+  [202409261618409402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261618409402.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

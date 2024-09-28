@@ -10,6 +10,13 @@
 - Regarding obtaining administrative approval for setting up electric charging station for buses running on electric system in the premises of CBS 2 (Railway Station) Agar in R.P. Chhatrapati Sambhajinagar division.\
   [202409241707323629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241707323629.pdf)
 
+- Regarding payment of work done for the period from March 2024 to May 2024 to M/S PWC companies appointed as Mumbai City CCTV Project Consultant.\
+  [202409261224320129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261224320129.pdf)
+
+## Miscellaneous
+- Regarding giving administrative and financial approval to the cost estimate for additional electrification work of new building at Regional Transport Office, Dhule.\
+  [202409261517032929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261517032929....pdf)
+
 ## Personnel
 - Regarding extension of 24 temporary posts on the establishment of Motor Accident Claims Tribunal, Nagpur.\
   [202409231722083729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231722083729.pdf)
@@ -34,6 +41,21 @@
 
 - Assistant Regional Transport Officer in Motor Vehicle Department. Provisional Seniority List as on 01.01.2024.\
   [202409241650383629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241650383629.pdf)
+
+- Regarding transfer/posting of I.P.S. officer.\
+  [202409262047006929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409262047006929.pdf)
+
+- Provisional Seniority List of Deputy Regional Transport Officer in Transport Department as on 01.01.2024.\
+  [202409261522528929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261522528929.pdf)
+
+- Regarding transfers/postings of S.P.S.officers.\
+  [202409261924061029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261924061029.pdf)
+
+- Regarding transfer/posting of I.P.S./S.P.S officer.\
+  [202409262033432829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409262033432829.pdf)
+
+- Regarding transfer/posting of I.P.S. officer.\
+  [202409262050298729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409262050298729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
