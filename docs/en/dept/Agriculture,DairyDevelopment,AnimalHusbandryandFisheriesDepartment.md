@@ -49,9 +49,27 @@
 - Regarding granting administrative approval for construction of hostel building by new students at Rajarshi Chhatrapati Shahu Maharaj Agricultural College, Kolhapur under Mahatma Phule Agricultural University, Rahuri.\
   [202409261856227501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261856227501.pdf)
 
+- Regarding the disbursement of funds of Rs.27.75 crores for the implementation of State Sponsored Agricultural Mechanization Scheme in the year 2024-25.....\
+  [202409271813552001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271813552001.pdf)
+
+- Released 2nd installment of Rs 5.06 Crore  amount fund of FY 2024-25 under Rashtriya Krushi Vikas Yojana (DPR) for ST category.\
+  [202409271703472101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271703472101.pdf)
+
+- Taluka Fruit Nursery, Repali and Lonere Dist. Mangaon District Raigad, Taluka Phloropvatika Killa St. Roha District Raigad and Major Orchard Center Neeli t. Kudal District Regarding giving administrative and financial sanction for the expenditure of Rs.2,15,03,135/- for various development works at Sindhudurg.\
+  [202409271835575901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271835575901.pdf)
+
+- Release of Rs.200,81,66,667/- grant under RKVY- Per Drop More Crop (Micro Irrigation), (General category) for FY 2024-25.\
+  [202409271313122001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271313122001.pdf)
+
+- Released 2nd instalment of Rs 6.35 Crore  amount fund of FY 2024-25 under Rashtriya Krushi Vikas Yojana (DPR) for SC category.\
+  [202409271701206701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271701206701.pdf)
+
 ## Miscellaneous
 - Release State Share Under RWBCIS for Ambia Bahar 2021-2022  2023-2024\
   [202409241659566201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241659566201.pdf)
+
+- Regarding giving additional instructions regarding providing financial support to cotton and soybean farmers in the state during Kharif season of 2023.\
+  [202409271706267601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271706267601.pdf)
 
 ## Personnel
 - The temporary posts in the schemes Farmer Monthly Scheme and Agricultural Information Team Scheme in the Department of Agriculture dt. 01.09.2024 to dt. Regarding extension till 28.02.2025..\
@@ -65,6 +83,9 @@
 
 - Regarding continuation of temporary posts in Taluka Seed Multiplication Center under Commissionerate of Agriculture from 01st September, 2024 to 28th February, 2025... (Total 248 Posts)\
   [202409251240239801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251240239801.pdf)
+
+- Regarding the continuation of the proposed 821 temporary and 165 additional posts under the office of the Commissioner, Dairy Development Department, Mumbai from 1/9/2024 to 28/2/2025 for the year 2024-25.\
+  [202409271621469201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271621469201.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

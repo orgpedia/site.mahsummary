@@ -19,6 +19,12 @@
 - Regarding approval of revised project report-Mata Mahakali Womens Backward Class Cooperative Spinning Mills. Sonkhed, T. Loha, Dist. Nanded\
   [202409261839408602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261839408602.pdf)
 
+- Regarding disbursement of capital subsidy instead of interest subsidy to textile units under textile policy.\
+  [202409271827483102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271827483102.pdf)
+
+- Regarding disbursement of capital grants to self-financed projects to textile units under the Textile Policy.\
+  [202409271831285302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271831285302....pdf)
+
 ## Miscellaneous
 - Regarding declaration of Virtual Personal Deposit Account Administrators to officers of Cooperatives, Marketing and Textiles Departments for speedy disbursement and control of Subsidiary Grants...\
   [202409241224305902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241224305902.pdf)
@@ -34,6 +40,12 @@
 
 - Regarding selection of co-operative yarn mills for financial assistance. Dr. Shamaprasad Mukherjee Co., Ltd. Spinning Mill, Shendurni, Tel. Jamner, Dist. Jalgaon\
   [202409261830289002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261830289002.pdf)
+
+- Regarding the reorganization of Maharashtra State Co-operative Council and appointment of Mr. Rajan Baburao Patil as the Chairman of this Council.\
+  [202409271224497702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271224497702.pdf)
+
+- Regarding Production and Broadcasting of Serials on Traditional Textile Industry of Maharashtra State through Prasar Bharati.\
+  [202409271155233602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271155233602.pdf)
 
 ## Personnel
 - Regarding continuation of temporary posts in Sugar Commissionerate and Regional Joint Director (Sugar) office under his control for the year 2024-2025.dated 01/09/2024 to dated 28/02/2025.\
@@ -98,6 +110,18 @@
 
 - Promotion and posting from the post of Co-Registrar Co-operative Society Group-A to Additional Registrar Co-operative Society Group-A on a purely temporary basis - Mr. Deepak Shinde, Co-Registrar Co-operative Society.\
   [202409261618409402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261618409402.pdf)
+
+- Mahatma Jyotiba Phule regarding the continuation of temporary posts created for carrying out continuous and concurrent audit scheme in various Executive Service Co-operative Societies and 7 other institutions from 01/09/2024 to 28/02/2025.\
+  [202409271239478302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271239478302.pdf)
+
+- Regarding continuation of temporary posts created for continuous and concurrent audit in Maharashtra State Tribal Development Corporation and Tribal Cooperative Societies from 01/09/2024 to 28/02/2025.\
+  [202409271248106502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271248106502.pdf)
+
+- Regarding continuation of temporary posts created for continuous and concurrent audit in District Central Cooperative Banks from 01/09/2024 to 28/02/2025.\
+  [202409271242287602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271242287602.pdf)
+
+- Maharashtra State Cooperative Bank Marya. Regarding continuation of temporary posts created for carrying out continuous and concurrent audit scheme in Mumbai from 01/09/2024 to 28/02/2025.\
+  [202409271244330602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271244330602.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

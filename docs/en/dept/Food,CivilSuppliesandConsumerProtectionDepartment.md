@@ -18,5 +18,8 @@
 - Regarding  request transfer of Inspecting Officer (Supply)/Zonal Officer, Group-B...Smt. Manisha Majarkhede\
   [202409241211118206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241211118206.pdf)
 
+- Regarding extension of temporary posts in State Food Commission Mumbai Office from 1.9.2024 to 28.2.2025\
+  [202409271653568506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271653568506.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -23,6 +23,30 @@
 - Hon. As per decision of Maharashtra Administrative Tribunal, Mumbai regarding regularization of service benefits (excluding financial benefits) from the date of first appointment of employees appointed under the scheme Universalisation of Tribal Employment Oriented Vocational Education in Directorate of Vocational Education and Training.\
   [202409261830398503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261830398503.pdf)
 
+- Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of Certificate Course in Computer Group from the academic year 2024-25 on self-financed basis.\
+  [202409271700507803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271700507803.pdf)
+
+- Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of certificate and diploma courses in technical group from the academic year 2024-25 on self-financed basis.\
+  [202409271658153603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271658153603.pdf)
+
+- Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of certificate and diploma courses in technical group from the academic year 2024-25 on self-financed basis.\
+  [202409271651581903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271651581903.pdf)
+
+- Regarding approval to start new/additional batches of certificate and diploma courses in non-technical group of Maharashtra State Board of Skill, Vocational Education and Training from the academic year 2024-25 on self-financed basis.\
+  [202409271727246103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271727246103.pdf)
+
+- Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of Certificate and Diploma courses in Computer Group from the academic year 2024-25 on self-financed basis.\
+  [202409271703119703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271703119703.pdf)
+
+- Maharashtra State Skill, Vocational Education and Training Board regarding approval to start new/additional units of certificate and diploma courses in paramedical group from the academic year 2024-25 on self-financed basis.\
+  [202409271712585603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271712585603.pdf)
+
+- Maharashtra State Skill, Vocational Education and Training Board regarding approval to start new/additional units of certificate and diploma course in paramedical group from the academic year 2024-25 on self-financed basis.\
+  [202409271716002603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271716002603.pdf)
+
+- Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of Certificate and Diploma courses in Computer Group from the academic year 2024-25 on self-financed basis.\
+  [202409271655306103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271655306103.pdf)
+
 ## Personnel
 - Regarding transfer request of Mr.  Anil Gotiram Gavit, Joint Director, Directorate of Vocational Education and Training, State of Maharashtra, Mumbai.\
   [202409261833252703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261833252703.pdf)

@@ -3,6 +3,17 @@
 **Date Range**: 23 September 2024 - 28 September 2024
 
 
+## Funds
+- MLA Local Development Programme Disbursement of funds to Members of Legislative Assembly of approved budget provision under account head 4515 0012 for the financial year 2024-25.\
+  [202409271551235316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271551235316.pdf)
+
+- Annasaheb Patil Economically Backward Development Corporation Demand No. O-10 Regarding disbursement of funds amounting to Rs.95.00 crores under the main account head 4250.\
+  [202409271602022816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271602022816.pdf)
+
+## Miscellaneous
+- Regarding nomination as special invitee to Kolhapur District Planning Committee...\
+  [202409271145522116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271145522116.pdf)
+
 ## Personnel
 - Regarding posting of Joint Director, Group-A cadre officers on establishment of Directorate of Finance and Statistics by promotion to Additional Director, Group-A cadre.\
   [202409231607134516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231607134516.pdf)

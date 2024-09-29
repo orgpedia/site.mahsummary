@@ -7,6 +7,9 @@
 - Regarding the administrative approval of the budget for travel and subsistence expenses of ICOMOS and UNESCO experts.\
   [202409231822022623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231822022623.pdf)
 
+- Regarding giving administrative approval to the cultural program Kojagiri Poornima Bhavasangeet program.\
+  [202409271752253623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271752253623.pdf)
+
 ## Miscellaneous
 - Regarding approving the increase in award amount given by Maharashtra State Gujarati Sahitya Akademi.\
   [202409241100433623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100433623.pdf)
@@ -22,6 +25,10 @@
 
 - Regarding organizing seven exhibitions of historical and rare documents in the Directorate of Archives in one financial year on one subject, one in each revenue department and giving administrative approval for the expenses incurred for the same...\
   [202409261118544123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261118544123.pdf)
+
+## Personnel
+- Regarding the establishment of a Civil Service Board to make recommendations to the competent authority regarding the posting and transfer of Group-A and Group-B (Gazetted) officers under the Cultural Affairs Department...........\
+  [202409271757093023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271757093023.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

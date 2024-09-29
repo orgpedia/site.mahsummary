@@ -23,5 +23,11 @@
 - Demolition of Existing Building to Construction of Government Medical College and Hospital also Government Residential Quarters at sindhudurgnagari, Tal-Kudal, Dist-Sindhudurg\
   [202409251301248213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251301248213.pdf)
 
+- Installation of IOT Device / Smart Optimizer on turn key basis for fire prevention measures in Government Medical Colleges and Hospitals\
+  [202409261744542513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261744542513.pdf)
+
+- To start New Post Graduate course in Post Graduate Institute of Medical sciences, Navi Mumbai Municipality Nerul, Navi Mumbai\
+  [202409271425472013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271425472013.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

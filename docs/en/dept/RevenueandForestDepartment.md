@@ -46,6 +46,18 @@
 - Government approval for Proposal regarding Payment of Adivasi Khatedars under the Maharashtra Sales of Trees by occupants belonging to the Scheduled Tribes (Regulation) Act, 1969 Scheme (2406 0686) for the year of 2023-24\
   [202409251728013419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251728013419.pdf)
 
+- Centrally sponsored scheme year 2024-25 Regarding disbursement of funds for the measures to be taken in response to the damage caused by wild elephants in the Kolhapur Forest Circle under the Centrally Sponsored Scheme Tiger and Elephant Project.\
+  [202409271639532119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271639532119.pdf)
+
+- Regarding disbursement of funds received under the Centrally Sponsored Scheme Mission Vatsalya for the year 2024-25\
+  [202409271642496919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271642496919.pdf)
+
+- Regarding approval of expenditure on digitization of records preserved on CD Films in the Government Photo Registration Office\
+  [202409271732521919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271732521919.pdf)
+
+- Regarding disbursement of funds for pre-monsoon and first year works to be carried out under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
+  [202409271810072319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271810072319.pdf)
+
 ## Miscellaneous
 - Regarding payment of essential items made available from NDRR Store in emergency situations.\
   [202409231207493819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231207493819.pdf)
@@ -161,6 +173,57 @@
 - Allocation of grants for civic amenities works in rehabilitated villages in Karmala taluka of Solapur district under Ujani Project\
   [202409251638185219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251638185219.pdf)
 
+- Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Gangapur, Dist. Chhatrapati Sambhajinagar, Soil and Water Conservation Department.\
+  [202409271842466719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271842466719.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. Drought/Flood Prevention Works, hrs. Akot/Telhara Distt. Akola, Department of Soil and Water Conservation, Akola.\
+  [202409271840188919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271840188919.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. Flood prevention works, Anjangaon (Surji)/Morshi/Varud Distt. Amravati, Water Resources Department, Amravati.\
+  [202409271845292119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271845292119.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. (Drought Prevention Works, Dist. Amalner, Dharangaon, Pachora, Bhadgaon, Dist. Jalgaon, Senior Geological Soil Survey and Development System, Dist. Jalgaon) (1/2)\
+  [202409271800025219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271800025219.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Drought Prevention Works, Malegaon, Dist. Nashik, Senior Geologist, Ground Water Survey and Development System, Dist. Nashik)(3/4)\
+  [202409271816120919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271816120919.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. Flood prevention works, Selu/Jintur Dist.Parbhani, Nagar Parishad, Selu/Jintur, District Parbhani.\
+  [202409271854101919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271854101919.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. (Conducting crack prevention works, Akole, Dist. Ahmednagar, Public Works Department, Sangamner, Dist. Ahmednagar) (2/2)\
+  [202409271857420119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271857420119.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. (Flood prevention works at Chikhali, Jalgaon Jamod, Deulgaon, Buldhana, Mehkar, Motala, Lonar, Sindhkhed Raja, Water Resources Department, District Buldhana).\
+  [202409271826292119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271826292119.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Taluka Malegaon/Niphad/Satana, District Nashik, Public Works Department, Nashik) (4/4)\
+  [202409271823222119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271823222119.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Flood and landslide prevention works, Kalwan, Dist. Nashik, Public Works Department (Tribal), Kalwan, Dist. Nashik)(1/4)\
+  [202409271806015419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271806015419.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. (Crack Prevention Works, Dist. Azra, Gadhinglaj, Kagal, Chandgad, Bhudargad Dist. Kolhapur, Radhanagari, Public Works Department, Kolhapur). (1/2)\
+  [202409271851594819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271851594819.pdf)
+
+- State Plan Year 2024-25 Determination of Rights and Privileges- Regarding disbursement of funds under the Scheme for Rehabilitation of Villages in National Parks and Sanctuary Areas (2406-2241).\
+  [202409271633294319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271633294319.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. (Flood Prevention Works, Dist. Jamner, Dist. Jalgaon, Public Works Department) (2/2)\
+  [202409271802252019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271802252019.pdf)
+
+- Forest Land- Satara. Diversion of 46.06 ha. Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for non-forestry use of forest land at Village Bopegaon, Tal. Wai, Dist. Satara for rehabilitation of Village Deur, Tal. Jaoli, Dist.Satara in Koyana Wildlife Sanctuary in the State of Maharashtra.\
+  [202409271216468519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271216468519.pdf)
+
+- Regarding giving administrative approval to disaster mitigation works. (Flood prevention works, h Eagatpuri / Trambakeshwar / Dindori / Niphad / Nashik / Dist. Nashik, Water Resources Department, Nashik)(2/4)\
+  [202409271811555719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271811555719.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Flood and fissure prevention works, Kopargaon, Rahata, Srirampur District, Ahmadnagar, Water Resources Division, North Maharashtra Division, Nashik) (1/2)\
+  [202409271832004519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271832004519.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Azra, Chandgarh, Irrigation Department, Kolhapur.\
+  [202409271848508319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271848508319.pdf)
+
 ## Personnel
 - Officers in the cadre of Deputy Collector from 01.01.2004 to dt. Consolidated Final Seniority List showing status as on 01.01.2007 for the period 31.12.2006\
   [202409231709468219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231709468219.pdf)
@@ -248,6 +311,57 @@
 
 - Regarding the continuation of 1 temporary post in the cadre of Assistant Conservator of Forests at Nagzira Sanctuary under the non-plan Establishment of Maldhok Bird Sanctuary, Nagzira Sanctuary and Tadoba National Park for the year 2024-2025.\
   [202409261307263519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261307263519.pdf)
+
+- Regarding the extension of 2 temporary posts in the cell created to send proposals for diversion of forest land for non-forest use for prior approval of the Central Government.....\
+  [202409271213443519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271213443519.pdf)
+
+- Posting of Officers Awaiting Appointment in Deputy Collector Cadre...\
+  [202409271246375019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271246375019.pdf)
+
+- Appointed on deputation Mr. Hanumant Jagtap, Tehsildar\
+  [202409271531112119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271531112119.pdf)
+
+- Continuation to the 143  temporary NA posts in Konkan Division.\
+  [202409271636551919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271636551919.pdf)
+
+- Continuation of 1786 Temporary Post of Chhatrapati Sambhajinagar Division from 01/09/2024  to  28/02/2025\
+  [202409271643317219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271643317219.pdf)
+
+- Continuation of 1375 Temporary Post of Amravati Division from 01/09/2024  to  28/02/2025.\
+  [202409271631525819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271631525819.pdf)
+
+- Establishment: Regarding extension of 71 temporary posts in the offices of Maharashtra Revenue Tribunal Chief Bench Mumbai and Chhatrapati Sambhaji Nagar, Nagpur and Pune from 01/09/2024 to 28/02/2025.\
+  [202409271800164719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271800164719.pdf)
+
+- Divisional Forest Officer, Group-A (Senior Grade) Transfers of Officers in Cadre.\
+  [202409271151133219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271151133219.pdf)
+
+- Continuation of 1283 Temporary Post of Nashik Division from 01/09/2024  to 28/02/2025.\
+  [202409271648136519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271648136519.pdf)
+
+- Continuation to the 722 temporary posts in all Divisions from the Period of  01/09/2024   to  28/02/2025.\
+  [202409271652226119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271652226119.pdf)
+
+- Continuation to the 1315 temporary posts in Kokan Division from 01/09/2024  to  28/02/2025\
+  [202409271640502119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271640502119.pdf)
+
+- Continuation of 1534 Temporary Post of Nagpur  Division from 01/09/2024  to 28/02/2025.\
+  [202409271645388019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271645388019.pdf)
+
+- Continuation to the 15 temporary posts of Sweepers at Divisional Commissioner Office, Konkan Division.\
+  [202409271634022019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271634022019.pdf)
+
+- Restructuring of the Forest Department regarding extension of the posts created for Statistics under Management Information System in the year 2024-25.\
+  [202409271250282419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271250282419.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202409271526426219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271526426219.pdf)
+
+- Appointed on deputation Mrs. Sarika Kadam, Tehsildar\
+  [202409271529072219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271529072219.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202409271908261919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271908261919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

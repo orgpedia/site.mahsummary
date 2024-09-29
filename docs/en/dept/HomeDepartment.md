@@ -57,5 +57,14 @@
 - Regarding transfer/posting of I.P.S. officer.\
   [202409262050298729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409262050298729.pdf)
 
+- Regarding the implementation of system and procedure of Virtual Personal Deposit Account for drawing and disbursing officers and other non-governmental implementing authorities for speedy disbursement and control of Subsidy Grant.\
+  [202409271232342029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271232342029.pdf)
+
+- Regarding extension of security temporary posts. From 01/09/2024 to 28/02/2025\
+  [202409271615455929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271615455929.pdf)
+
+- Regarding extension of 27 temporary posts on the establishment of Maharashtra State Human Rights Commission\
+  [202409271234554829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271234554829.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -57,5 +57,8 @@
 - Regarding posting on promotion to the post of Co-Director, Group-A, Boiler at the establishment of Directorate of Evaporators.\
   [202409261333536010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261333536010.pdf)
 
+- Regarding deputation of Dr.Trigun Kulkurni, Additional Collector, Beed on the post of Additional Director General, MEDA, Pune.\
+  [202409271135522110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271135522110.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

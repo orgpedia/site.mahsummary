@@ -16,9 +16,24 @@
 - To accord administrative approval to KT Weir Donad No. 2, Bhalki No. 1  Kholapuri no. 1 Tal. Ner Dist. Yavatmal\
   [202409241310166426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241310166426.pdf)
 
+- Releasing funds to  SATARA district under GDGS scheme\
+  [202409271833571726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271833571726.pdf)
+
+- regarding fund release of GDGS for satara\
+  [202409271839537126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271839537126.pdf)
+
+- regarding fund release of GDGS for solapur\
+  [202409271842511826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271842511826.pdf)
+
+- Regarding disbursement of funds under Jalyukta Shivar Abhiyan 2.0, account head 4402 2781. Fund Disbursement Order No.1\
+  [202409271806035926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271806035926.pdf)
+
 ## Miscellaneous
 - Corrigendum of revised administrative approval to Storage Tank Dolhara Tal. Mokhada, Dist. Palghar\
   [202409231302572426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231302572426.pdf)
+
+- of Jalyukt Shivar Abhiyan 2.0 scheme Regarding reforming the District Level Committee and Taluka Level Committee.\
+  [202409271238396426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271238396426....pdf)
 
 ## Personnel
 - To accord administrative approval to KT Weir Mukhtyarpur No. 1, Mukhtyarpur No. 2  Donad No. 1 Tal. Ner Dist. Yavatmal\
@@ -56,6 +71,12 @@
 
 - To accord administrative approval to KT Weir Pimpri no. 1, Sevanagar No.1  Sevanagar No. 2 Tal. Digras Dist. Yavatmal\
   [202409241258531226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241258531226.pdf)
+
+- Kokalapar (Virkhal) Chak S.No. 21 hrs. Sawli Distt. Honble from Chandrapur. Regarding giving administrative approval to the budget for releasing the water of Gosikhurd Ujja canal in the lake through pipe line...\
+  [202409271227582826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271227582826.pdf)
+
+- Regarding reforming the District Watershed Cell and Information Center (WCDC) committee constituted for the implementation of the Pradhan Mantri Krishi Irrigation Scheme-Watershed Development Component 2.0.\
+  [202409271242492126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271242492126.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
