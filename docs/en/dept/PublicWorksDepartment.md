@@ -1,44 +1,33 @@
 # Public Works Department
 
-**Date Range**: 23 September 2024 - 28 September 2024
+**Date Range**: 30 September 2024 - 05 October 2024
 
+
+## Funds
+- Revised guidelines regarding publication of e-tender of the Public works Department.\
+  [202409301557415518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301557415518.pdf)
 
 ## Personnel
-- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Pune.\
-  [202409241712203718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241712203718.pdf)
+- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Nanded.\
+  [202409301556058318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301556058318.pdf)
 
-- Regarding the continuation of temporary posts in the office under Superintending Engineer, Sankalpchitra Board (Bridges and Buildings), Navi Mumbai.\
-  [202409241708110018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241708110018.pdf)
+- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Amravati.\
+  [202409301549025418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301549025418.pdf)
 
-- Regarding extension of temporary posts in the office of Director, Mumbai Development Department, Chali, Worli, Mumbai.\
-  [202409241703443618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241703443618.pdf)
+- Chief Engineer (National Highways), Regarding extension of temporary posts in offices under Navi Mumbai.\
+  [202409301554231118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301554231118.pdf)
 
-- Regarding the continuation of temporary posts in the office under Superintending Engineer (Electricity), and Coordinating Officer Mumbai Regional (Electricity) Board, Public Works Department, Mumbai.\
-  [202409241716084618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241716084618.pdf)
+- Promotion and posting from the cadre of Deputy Divisional Engineer (Civil) to the cadre of Executive Engineer (Civil).\
+  [202409300941418618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409300941418618....pdf)
 
-- Posting from the cadre of Assistant Executive Engineer to the cadre of Executive Engineer (Construction).\
-  [202409251807108518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251807108518.pdf)
+- Regarding extension of temporary posts in the office under Chief Architect, State of Maharashtra, Mumbai, Superintending Engineer (Mechanical), Public Works Department, Navi Mumbai.\
+  [202409301551030618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301551030618.pdf)
 
-- Change in posting order of Sub Divisional Officer, Public Works Department\
-  [202409251803223218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251803223218.pdf)
+- Regarding the continuation of temporary posts in the Regional Office under Chief Engineer, Public Works Regional Department, Nashik\
+  [202409301552481918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301552481918.pdf)
 
-- Transfer / Posting of Officers in Executive Engineer (Civil) Cadre.\
-  [202409251805137018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251805137018.pdf)
-
-- Change In Posting Order of Sub Divisional Officer, Public Works Department.\
-  [202409251801103118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251801103118.pdf)
-
-- Change in posting order of Sub Divisional Officer, Public Works Department\
-  [202409251758496318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251758496318.pdf)
-
-- Regarding the continuation of temporary posts in the office under the Chief Engineer, Public Works Regional Department, Mumbai.\
-  [202409271503212118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271503212118.pdf)
-
-- Regarding the continuation of temporary posts in the office under the Director, Forests and Parks, State of Maharashtra, Mumbai.\
-  [202409271506511218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271506511218.pdf)
-
-- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Chhatrapati Sambhajinagar.\
-  [202409271732457218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271732457218.pdf)
+- Transfer / Posting of Officer in Executive Engineer (Civil) Cadre.\
+  [202409300939380518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409300939380518.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
