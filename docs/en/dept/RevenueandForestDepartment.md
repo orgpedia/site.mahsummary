@@ -25,6 +25,18 @@
 - Rehabilitated Mauje Mugaon affected by heavy rainfall/floods. Naigaon Dist. Regarding disbursement of funds for civic amenities works at Nanded.\
   [202409301819173719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301819173719.pdf)
 
+- Regarding granting administrative approval for modernization and strengthening of State Emergency Operations Center (SEOC), (Ministry Control Room).\
+  [202410011905432519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011905432519.pdf)
+
+- Regarding granting administrative approval for modernization and strengthening of State Emergency Operations Center (SEOC), (Ministry Control Room).\
+  [202410011907178219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011907178219.pdf)
+
+- Regarding provision of funds for fuel and rent etc. for privately acquired vehicles to prevent outbreak of covid 19 virus in Beed district.\
+  [202410011706012619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011706012619.pdf)
+
+- Annual plan year 2024-25 regarding, providing and financial approval to the media plan for the year 2024-25 under the head of promotion, publicity and training (2406-8589)\
+  [202410011846119919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011846119919.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in heavy rain/flood affected and rehabilitated village Vajirgaon ward No. 2 (Ta. Naigaon Dist. Nanded)\
   [202409301821248719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301821248719.pdf)
@@ -116,6 +128,9 @@
 - Regarding giving administrative approval to disaster mitigation works. (Conducting flood prevention works, Kinwat, Mukhed, Water Resources Department - Nanded) (3/5)\
   [202409301152532219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301152532219.pdf)
 
+- Regarding  allotment of alternate land to the legal heirs of Deceased project affected person\
+  [202410011821460919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011821460919.pdf)
+
 ## Personnel
 - Under the Konkan Disaster Mitigation Project Regarding giving administrative sanction to works. (Mr. Braithwaite  Co. Ltd. - Multi Purpose Shelter Center - Thane - 4/7)\
   [202409301841594719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301841594719.pdf)
@@ -131,6 +146,30 @@
 
 - Under the Konkan Disaster Mitigation Project Regarding giving administrative sanction to works. (Mr. Braithwaite  Co. Ltd. - Multi Purpose Shelter Center - Thane - 5/7)\
   [202409301840380919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301840380919.pdf)
+
+- Mr. Balu Tukaram Burse, Shri. Sanjay Balkrishna Mane and Shri. Regarding the appointment of Naib Tehsildar Pradip Shrimant Kamble on deputation.\
+  [202410011341082619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011341082619.pdf)
+
+- Posting of Officers Awaiting Appointment in Deputy Collector Cadre...\
+  [202410011841509819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011841509819.pdf)
+
+- Reorganization of Forest Department regarding continuation of temporary post in post Human Resource Development Scheme in the year 2024-25.\
+  [202410011301416419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011301416419.pdf)
+
+- Regarding the reinstatement and posting of Naib Tehsildar cadre officers recommended by the Suspension Review Committee...\
+  [202410011519573919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011519573919.pdf)
+
+- Post by promotion in Administrative Officer, Group-A (Gazetted) Cadre.\
+  [202410011327245619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011327245619.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer...\
+  [202410011827219119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011827219119.pdf)
+
+- Restructuring of Forest Department - Creation of new posts for the office of Principal Chief Conservator of Forests Regarding extension of non-plan posts for the year 2024-25.\
+  [202410011258432819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011258432819.pdf)
+
+- Regarding granting extension for the period from 01.09.2024 to 28.02.2024 to 13 ad hoc posts of Land Acquisition, Rehabilitation and Resettlement Authority, Chhatrapati Sambhajinagar .......\
+  [202410011207185119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011207185119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

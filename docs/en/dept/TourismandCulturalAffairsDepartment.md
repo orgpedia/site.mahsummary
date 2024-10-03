@@ -1,34 +1,15 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 23 September 2024 - 28 September 2024
+**Date Range**: 30 September 2024 - 05 October 2024
 
 
 ## Funds
-- Regarding the administrative approval of the budget for travel and subsistence expenses of ICOMOS and UNESCO experts.\
-  [202409231822022623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231822022623.pdf)
-
-- Regarding giving administrative approval to the cultural program Kojagiri Poornima Bhavasangeet program.\
-  [202409271752253623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271752253623.pdf)
-
-## Miscellaneous
-- Regarding approving the increase in award amount given by Maharashtra State Gujarati Sahitya Akademi.\
-  [202409241100433623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100433623.pdf)
-
-- Regarding approving the increase in award amount given by Maharashtra State Hindi Sahitya Akademi.\
-  [202409241100201223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100201223.pdf)
-
-- Maharashtra State Cultural Policy, 2024\
-  [202409231656551123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231656551123.pdf)
-
-- Regarding approving increase in award amount given by Maharashtra State Sindhi Sahitya Akademi.\
-  [202409241100133823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241100133823.pdf)
-
-- Regarding organizing seven exhibitions of historical and rare documents in the Directorate of Archives in one financial year on one subject, one in each revenue department and giving administrative approval for the expenses incurred for the same...\
-  [202409261118544123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409261118544123.pdf)
+- Mauje Rajgurunagar, T. Village, Dist. Regarding giving administrative approval and financial approval to the proposal for acquisition of Nikhat funds received at Pune.\
+  [202410011245510923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011245510923.pdf)
 
 ## Personnel
-- Regarding the establishment of a Civil Service Board to make recommendations to the competent authority regarding the posting and transfer of Group-A and Group-B (Gazetted) officers under the Cultural Affairs Department...........\
-  [202409271757093023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271757093023.pdf)
+- Director, Directorate of Cultural Affairs Regarding the extension of time to continue the temporary posts in the office from 1st September, 2024 to 28th February, 2025.\
+  [202410011434293423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011434293423.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,82 +1,54 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 23 September 2024 - 28 September 2024
+**Date Range**: 30 September 2024 - 05 October 2024
 
 
 ## Funds
-- To accord administrative approval to Conversion Storage Tank Banali No. 2 (koli mala) Tal. Jat, Dist. Sangli\
-  [202409231829153526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231829153526.pdf)
+- To accord administrative approval to KTW Hatola No.3, KTW Hatola No. 4, KTW Irthal No. 4 Tal. Darvha, Dist. Yavatmal\
+  [202410011349099526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011349099526.pdf)
 
-- To accord administrative approval to KT Weir Dolambawadi no. 1, Dolhari no. 1  Dolhari No. 3 Tal. Digras Dist. Yavatmal.\
-  [202409241254051426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241254051426.pdf)
+- To accord revised administrative approval to Gated Concrete Bandhara Dudhondi (vyayam shalejaval) Tal. Palus Dist. Sangli.\
+  [202410011353304726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011353304726.pdf)
 
-- To accord administrative approval to KT Weir Kolura no.1, Kolura No. 2  Loni No. 1  Tal. Ner Dist. Yavatmal\
-  [202409241312508526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241312508526.pdf)
+- To accord administrative approval to KTW Mangrul No. 1, KTW Mangrul No. 2 and KTW Khanapur No. 1 Tal. Ner, Dist. Yavatmal.\
+  [202410011331446826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011331446826.pdf)
 
-- To accord administrative approval to KT Weir Donad No. 2, Bhalki No. 1  Kholapuri no. 1 Tal. Ner Dist. Yavatmal\
-  [202409241310166426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241310166426.pdf)
+- To accord administrative approval KTW Vyahali no. 1, KTW Vyahali No. 2, KTW Vatafala No. 1 Tal. Ner, Dist. Yavatmal.\
+  [202410011336065626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011336065626.pdf)
 
-- Releasing funds to  SATARA district under GDGS scheme\
-  [202409271833571726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271833571726.pdf)
+- . To carry out Centrally Sponsored Pradhan Mantri Krishi Sinchai Yojana  Watershed Development Component 2.0 works under MGNREGA convergence.\
+  [202410011722012826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011722012826.pdf)
 
-- regarding fund release of GDGS for satara\
-  [202409271839537126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271839537126.pdf)
+- To accord administrative approval to KTW Goregoan No. 2, KTW Hatola No. 1, KTW Hatola No. 2 Tal. Darvha, Dist. Yavatmal\
+  [202410011344522526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011344522526.pdf)
 
-- regarding fund release of GDGS for solapur\
-  [202409271842511826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271842511826.pdf)
-
-- Regarding disbursement of funds under Jalyukta Shivar Abhiyan 2.0, account head 4402 2781. Fund Disbursement Order No.1\
-  [202409271806035926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271806035926.pdf)
-
-## Miscellaneous
-- Corrigendum of revised administrative approval to Storage Tank Dolhara Tal. Mokhada, Dist. Palghar\
-  [202409231302572426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231302572426.pdf)
-
-- of Jalyukt Shivar Abhiyan 2.0 scheme Regarding reforming the District Level Committee and Taluka Level Committee.\
-  [202409271238396426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271238396426....pdf)
+- To accord administrative approval to KTW Watafala no. 2, KTW Mangladevi No. 1, KTW Khandala No. 2 Tal. Ner, Dist. Yavatmal\
+  [202410011337522626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011337522626.pdf)
 
 ## Personnel
-- To accord administrative approval to KT Weir Mukhtyarpur No. 1, Mukhtyarpur No. 2  Donad No. 1 Tal. Ner Dist. Yavatmal\
-  [202409241308078226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241308078226.pdf)
+- To accord administrative approval to KTW Lonadi No. 1 Tal. Ner, KTW Antargoan No. 1 Tal. Darvha, KTW Bhopapur no. 1 Tal. Darvha, Dist. Yavatmal\
+  [202410011340240126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011340240126.pdf)
 
-- To accord administrative approval to KT Weir Lingi wai no. 1, Morkhed (Harsul) no. 1  Morkhed (harsul) No. 2 Tal. Digras Dist. Yavatmal.\
-  [202409241256060326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241256060326.pdf)
+- To accord administrative approval to KTW Irthal no. 2, KTW Karjgoan no. 1, KTW Karajgoan No. 2 Tal. Darvha, Dist. Yavatmal\
+  [202410011352022726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011352022726.pdf)
 
-- Regarding the special transfer of District Water Conservation Officer and other equivalent posts (Construction) Group- A cadre.\
-  [202409241610323626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241610323626.pdf)
+- To accord administrative approval KTW Kohla No. 4, KTW Mahmadpur no. 1, KTW Malogoan no. 1 Tal Darvha, Dist. Yavatmal\
+  [202410011356172926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011356172926.pdf)
 
-- To accord administrative approval to KT Weir Varandali no.1, Vithala No.1  Vithala No.2 Tal. Digras Dist. Yavatmal\
-  [202409241300514826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241300514826.pdf)
+- To accord administrative approval to Javalgoan No. 2 Tal. Ner, KTW Ghatkinhi No. 1 Tal. Darvha, KTW Goregoan no. 1 Tal. Darvha, Dist. Yavatmal\
+  [202410011342241726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011342241726.pdf)
 
-- To accord administrative approval to Gated CNB Bodhare No. 1  Gated CNB Bodhare No. 2 Tal. Chalisgoan Dist. Jalgoan.\
-  [202409231825073126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409231825073126.pdf)
+- To accord administrative approval to KTW Manikwada No. 1, KTW Dhanaj no.1, KTW Lohatwadi No. 1 Tal. Ner, Dist. Yavatmal.\
+  [202410011333541326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011333541326.pdf)
 
-- To accord administrative approval to KT Weir Tornala No.1, Tornala No. 2  Warud No. 1 Tal. Darvha Dist. Yavatmal\
-  [202409241315047226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241315047226.pdf)
+- To accord administrative approval to KTW Kohla No. 1, KTW Kohla no. 2, KTW Kohla no. 3 Tal. Darvha, Dist. Yavatmal\
+  [202410011353442626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011353442626.pdf)
 
-- Regarding extension of temporary posts on establishment of Soil and Water Conservation Department.\
-  [202409241149177226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241149177226.pdf)
+- To accord administrative approval KTW Sajegoan 3, KTW Tapona no. 1, KTW Taroda no. 1 Tal. Darvha, Dist. Yavatmal\
+  [202410011351135526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011351135526.pdf)
 
-- To accord administrative approval to KT Weir Amala no. 1, Bhilwadi no.1 and Ashta no. 1 Tal Digras Dist. Yavatmal\
-  [202409241250133626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241250133626.pdf)
-
-- To accord administrative approval to KT Weir Balegoan no. 1, Balegoan no. 2  Bramhanwada no. 1 Tal. Ner Dist. Yavatmal\
-  [202409241305561126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241305561126.pdf)
-
-- To accord administrative approval to KT Weir Javagoan no.1,  Tal. Ner and KT Weir Deulgoan Tal. Darvha Dist. Yavatmal\
-  [202409241317496926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241317496926.pdf)
-
-- To accord administrative approval to KT Weir Vithala No. 3  Vithala No. 4 Tal. Digras and KT Weir Linga No. 1 Tal. Ner Dist. Yavatmal.\
-  [202409241303318826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241303318826.pdf)
-
-- To accord administrative approval to KT Weir Pimpri no. 1, Sevanagar No.1  Sevanagar No. 2 Tal. Digras Dist. Yavatmal\
-  [202409241258531226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409241258531226.pdf)
-
-- Kokalapar (Virkhal) Chak S.No. 21 hrs. Sawli Distt. Honble from Chandrapur. Regarding giving administrative approval to the budget for releasing the water of Gosikhurd Ujja canal in the lake through pipe line...\
-  [202409271227582826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271227582826.pdf)
-
-- Regarding reforming the District Watershed Cell and Information Center (WCDC) committee constituted for the implementation of the Pradhan Mantri Krishi Irrigation Scheme-Watershed Development Component 2.0.\
-  [202409271242492126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409271242492126.pdf)
+- To accord administrative approval to KTW Pimpri kh. no. 1, KTW Sajegoan No. 1, KTW Sajegoan nio. 2 Tal. Darvha, Dist. Yavatmal\
+  [202410011355322926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011355322926.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
