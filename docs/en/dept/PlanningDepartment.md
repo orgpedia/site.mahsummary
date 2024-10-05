@@ -16,12 +16,21 @@
 - Western Ghat Integrated Religious, Historical, Eco-Tourism Circuit Plan for Development of Religious, Historical and Nature Tourist Sites in Satara District - Regarding providing revised administrative approval along with increased works in Koyna Helwak Forest Zone under Western Ghat Integrated Religious, Historical, Eco-Tourism Circuit Plan.\
   [202409301559170116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301559170116.pdf)
 
+- Regarding establishment of Parashuram Economic Development Corporation for Brahmin community.\
+  [202410031744441616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031744441616.pdf)
+
+- Regarding establishment of Veer Shiromani Maharana Pratap Economic Development Corporation for Rajput community.\
+  [202410031741572916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031741572916.pdf)
+
 ## Miscellaneous
 - Regarding approving the development plan Development and beautification of the Samadhi of Shri Sant Jaganade Maharaj at Mauje Sudumbare, T. Maval, District Pune under the Sri Kshetra Dehu, Alandi, Bhandara Dongar, Pandharpur and Palkhital / Road Development Plan.\
   [202409301251536816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301251536816.pdf)
 
 - 95 posts created under Human Development Program of Planning Department dt. Regarding getting extension till 28 February 2025...\
   [202409301444320316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301444320316.pdf)
+
+- Regarding revision of remuneration of Gram Rozgar Sevaks under Mahatma Gandhi National Rural Employment Guarantee Scheme.\
+  [202410031720097616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031720097616.pdf)
 
 ## Personnel
 - Regarding transfers at the request of the Deputy Director, Group-A cadre officers in the Directorate of Finance and Statistics.\

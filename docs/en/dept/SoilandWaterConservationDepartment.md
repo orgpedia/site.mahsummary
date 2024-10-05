@@ -50,5 +50,8 @@
 - To accord administrative approval to KTW Pimpri kh. no. 1, KTW Sajegoan No. 1, KTW Sajegoan nio. 2 Tal. Darvha, Dist. Yavatmal\
   [202410011355322926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011355322926.pdf)
 
+- Regarding upgradation of 1 post in the cadre of Room Officer to the cadre of Under Secretary on the establishment of Soil and Water Conservation Department.\
+  [202410031102006726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031102006726.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

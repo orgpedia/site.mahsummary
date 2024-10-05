@@ -13,9 +13,54 @@
 - Renukamata Jivala Child Rural Development Womens Board, Madhi, Tt. Pathardi, Distt. Ahmadnagar Conducted Chaitanya Kanifnath Primary Ashram School Madhi, Pathardi, Distt. Ahmadnagar Ashram School Mauje Pathardi, Distt. Regarding approval to relocate and operate at Ahmednagar.\
   [202410011718209934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011718209934.pdf)
 
+- Regarding the administrative approval and disbursement of funds for the works in Kolhapur district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031508131934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031508131934.pdf)
+
+- Regarding the administrative approval and disbursement of funds for the works in Parbhani district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031604305634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031604305634.pdf)
+
+- Regarding administrative approval and disbursement of funds for works in Ahmednagar district for the year 2024-25 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031450597334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031450597334.pdf)
+
+- Regarding making funds available for administratively sanctioned works in the year 2023-24 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031606283634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031606283634.pdf)
+
 ## Miscellaneous
 - Regarding establishment of Sant Bhojling Kaka Sutar Samaj Economic Development Corporation for the carpenter community in the state.\
   [202410011307428834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011307428834.pdf)
+
+- Regarding administrative approval and disbursement of funds for works in Pune district for the year 2024-25 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031510232534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031510232534.pdf)
+
+- Regarding administrative approval and disbursement of funds for the works in Latur district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031447421334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031447421334.pdf)
+
+- Regarding the administrative approval and disbursement of funds for the works in Sangli district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031858006334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031858006334.pdf)
+
+- Regarding administrative approval and disbursement of funds for the works in Parbhani district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031459416134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031459416134.pdf)
+
+- Regarding administrative approval and disbursement of funds for the works in Yavatmal district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031607572334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031607572334.pdf)
+
+- Regarding administrative approval and disbursement of funds for works in Nanded district for the year 2024-25 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031502501734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031502501734.pdf)
+
+- Regarding administrative approval and disbursement of funds for the works in Parbhani district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031454159834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031454159834.pdf)
+
+- Regarding administrative approval and disbursement of funds for works in Beed district for the year 2024-25 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031512039934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031512039934.pdf)
+
+- Regarding the administrative approval and disbursement of funds for the works in Kolhapur district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031506082034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031506082034.pdf)
+
+- Regarding administrative approval and disbursement of funds for the works in Nashik district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031457571434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031457571434.pdf)
+
+- Regarding the administrative approval and distribution of funds for the works in Ch. Sambhajinagar district for the year 2024-25 under the Vasantrao Naik Tanda Vasti Improvement Scheme.\
+  [202410031456084734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031456084734.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -20,6 +20,21 @@
 - Regarding the appointment of non-official members to the Executive Committee of the Maharashtra State Sainik Mandal.\
   [202409301835056807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301835056807.pdf)
 
+- Seniority list Officers in the cadre of Senior Assistant Director (Information) / District Information Officer / Senior Deputy Editor / Public Relations Officer, Group-A (Junior) Dt. Interim Seniority List upto 01.01.2024.\
+  [202410031702120407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031702120407.pdf)
+
+- Nanded Lok Sabha By-Election -2024 Various forms regarding election About printing\
+  [202410031629411907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031629411907.pdf)
+
+- Result of D.O. Promotion Departmental Exam-2023 (second)\
+  [202410031754574507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031754574507..pdf)
+
+- Seniority list Officers in the cadre of Director (Information) Group-A (Senior) Dt. Interim seniority list up to 01.01.2024.\
+  [202410031644514007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031644514007.pdf)
+
+- Seniority list Senior Assistant Director (Administration) Group-A, Officers in this cadre Dt. Interim seniority list up to 01.01.2024.\
+  [202410031706044607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031706044607.pdf)
+
 ## Personnel
 - Regarding the extension of 179 temporary posts in Directorate General of Information and Public Relations and 1 in the office of Auditor, Books and Publications, Mumbai for the period from 01.09.2024 to 28.02.2025.\
   [202409301747538707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301747538707.....pdf)
@@ -29,6 +44,15 @@
 
 - Final Seniority List of Class D Employees eligible for promotion on tenure post of Jamadar/Chopdar on the Ministers Establishment as on 1st january 2024.....\
   [202410011152125907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011152125907.pdf)
+
+- Seniority list Officers in the cadre of Deputy Director (Information) Group-A (Senior) dt. Interim seniority list up to 01.01.2024.\
+  [202410031654566807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031654566807.pdf)
+
+- Seniority list Interim Seniority List of Assistant Director (Administration) Group-B Officers as on 01.01.2024.\
+  [202410031727051607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031727051607.pdf)
+
+- Seniority list Interim Seniority List of Officers in the category of Assistant Director (Information)/ Information Officer/ Superintendent, Books and Publications-Group-B as on 01.01.2024.\
+  [202410031712531707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031712531707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

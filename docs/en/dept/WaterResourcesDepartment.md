@@ -16,6 +16,15 @@
 - Vashishthi River Basin in Chiplun City Stage No. 1 Residual Sludge Removal (Part-I) in regarding granting administrative approval to work proposal.\
   [202410011656224327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011656224327.pdf)
 
+- Accord Administrative approval to construction of Flood protection wall on bank of Krishna river at mauze  Bubnal , Tal. Shirol  Dist. Kolhapur\
+  [202410031552506327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031552506327.pdf)
+
+- Accord Administrative approval to construction of Flood protection wall on bank of Krishna river at mauze  Kavtheguland , Tal. Shirol  Dist. Kolhapur\
+  [202410031550270627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031550270627.pdf)
+
+- Accord Administrative approval to construction of Flood protection wall on bank of Krishna river at mauze  Gaurwad , Tal. Shirol  Dist. Kolhapur\
+  [202410031554493627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031554493627.pdf)
+
 ## Miscellaneous
 - Regarding the approval of revised re-planning of Bhima (Ujani) project.\
   [202410011830268027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011830268027.pdf)
@@ -26,6 +35,9 @@
 ## Personnel
 - Dahiwade Nagar Panchayat Water Supply Scheme Man, Dist. Regarding approving the Bulk Water Entitlement water reservation proposal for drinking water from Andhli Medium Project for Satara.\
   [202410011618232827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011618232827.pdf)
+
+- Regarding extension of 19 fixed temporary posts in the office of Superintending Engineer, State Level Technical Advisory Committee Office, Nashik from 01/09/2024 to 28/02/2025...\
+  [202410031614567527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031614567527.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

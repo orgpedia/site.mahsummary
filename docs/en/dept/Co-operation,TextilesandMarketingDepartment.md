@@ -10,6 +10,12 @@
 - Regarding disbursement of 10 percent capital subsidy to new and expanding textile units in Vidarbha, Marathwada and North Maharashtra under the Textile Policy, 2011-17.\
   [202410011610596502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011610596502.pdf)
 
+- Regarding disbursement of interest subvention subsidy to textile units under Textile Policy, 2011-2017.\
+  [202410031336550202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031336550202.pdf)
+
+- Integrated and Sustainable Textile Industry Policy, 2023-28. Guidelines for providing capital subsidy to textile units in the state for setting up solar power projects.\
+  [202410031822501802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031822501802.pdf)
+
 ## Miscellaneous
 - Regarding direct service appointment to the post of Assistant Director (Silk), Maharashtra Silk Services, Group-A... (Clear Sheet)\
   [202409301812190302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812190302.pdf)

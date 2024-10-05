@@ -3,6 +3,10 @@
 **Date Range**: 30 September 2024 - 05 October 2024
 
 
+## Funds
+- Pursuant to the purchase of one-time used old bardana required for storage of paddy during Kharif Marketing Season-2024-25 and Rabi Marketing Season-2025-26 under Minimum Basic Purchase Scheme\
+  [202410011853085106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011853085106.pdf)
+
 ## Miscellaneous
 - Regarding reinstation and posting of Inspecting Officer (Supply), Group-B (Gazetted) in Government Service... Shrim. Chandni Shesharao Shivarkar.\
   [202409301211024206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301211024206.pdf)
@@ -25,6 +29,9 @@
 
 - Regarding extension to Divisional/District/Taluka Level Temporary Posts in Regional Supply System from 01.09.2024 to  till 28.02.2025.\
   [202410011822412606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011822412606.pdf)
+
+- Regarding the posting of Field Assistant / Laboratory Assistant Group-C in the Valid Metrology System to Inspector, Group-B by temporary and ad-hoc promotion.\
+  [202410031554395506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031554395506.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

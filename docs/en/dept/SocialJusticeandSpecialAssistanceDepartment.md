@@ -55,6 +55,105 @@
 - Regarding approval of works in Ahmednagar district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
   [202410011544027622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011544027622.pdf)
 
+- Regarding approval of works in Gondia district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031500231722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031500231722.pdf)
+
+- Regarding approval of works in Mumbai Suburban District for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031717001922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031717001922.pdf)
+
+- Regarding approving works in Kolhapur district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031506111722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031506111722.pdf)
+
+- Regarding approval of works in Parbhani district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031738073322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031738073322...pdf)
+
+- Regarding approval of works in Nashik district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031601226922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031601226922.pdf)
+
+- Regarding approval of works in Solapur district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana\
+  [202410031456161722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031456161722.pdf)
+
+- Regarding approving works in Nashik district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana\
+  [202410031741181322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031741181322.pdf)
+
+- Regarding disbursement of long term loans to backward class co-operative yarn mills... Regarding sanction of loan to cotton mills in the financial year 2024-25.\
+  [202410031509599622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031509599622.pdf)
+
+- Regarding approving works in Thane district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031721189022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031721189022.pdf)
+
+- Regarding approval of works in Nagpur district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031735012922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031735012922.pdf)
+
+- Regarding approval of works in Mumbai Suburban District for the year 2024-25 under . Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031605207022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031605207022.pdf)
+
+- Regarding approval of works in Nagpur district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031744452422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031744452422.pdf)
+
+- Regarding approval of works in Raigad district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202410031536027222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031536027222.pdf)
+
+- Regarding approval of works in Mumbai Suburban District for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031712400722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031712400722.pdf)
+
+- Regarding approval of works in Dharashiv district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202410031624153022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031624153022.pdf)
+
+- Regarding approval of works in Nagpur district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031656142522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031656142522.pdf)
+
+- Regarding approval of works in Jalgaon district for the year 2024-25 under Bharat Ratna Dr Babasaheb Ambedkar Social Development Scheme.\
+  [202410031550445822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031550445822.pdf)
+
+- Regarding approving works in Chhatrapati Sambhajinagar district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031708591722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031708591722.pdf)
+
+- Regarding approval of works in Raigad district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202410031547141722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031547141722.pdf)
+
+- Regarding approval of works in Jalgaon district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202410031730586022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031730586022.pdf)
+
+- Regarding approval of works in Sangli district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031539385022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031539385022.pdf)
+
+- Regarding approval of works in Parbhani district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031705305522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031705305522.pdf)
+
+- Regarding approval of works in Jalna and Nanded districts for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202410031642267222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031642267222.pdf)
+
+- Regarding approval of works in Ratnagiri district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031812145022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031812145022.pdf)
+
+- Regarding approval of works in Nanded district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031513450522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031513450522.pdf)
+
+- Regarding approval of works in Raigad district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202410031452051822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031452051822.pdf)
+
+- Regarding approval of works in Mumbai Suburban District for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031531506122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031531506122.pdf)
+
+- Regarding approving works in Thane district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031816116422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031816116422.pdf)
+
+- Regarding approval of works in Nandurbar district for the year 2024-25 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Yojana.\
+  [202410031527147922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031527147922.pdf)
+
+- Regarding approval of works in Mumbai Suburban District for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031808062122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031808062122.pdf)
+
+- Regarding approval of works in Jalgaon district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202410031636357322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031636357322.pdf)
+
+- Regarding approval of works in Beed district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202410031518386222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031518386222.pdf)
+
+- Regarding approval of works in Pune district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410031802358222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031802358222.pdf)
+
 ## Miscellaneous
 - Regarding the selection of students from the general waiting list for the year 2024-25 for foreign scholarship scheme for the education of boys and girls belonging to Scheduled Castes and Neo-Buddhists...\
   [202410011621445722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011621445722.pdf)

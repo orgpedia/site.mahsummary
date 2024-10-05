@@ -19,12 +19,18 @@
 - Regarding amendment and inclusion of new elements in financial criteria of Birsa Munda Krishi Kranti Yojana (in-area and out-of-area) implemented for Scheduled Tribes.\
   [202410011822063201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011822063201.pdf)
 
+- Regarding granting administrative approval for the construction of strengthening of Desi Cow Research and Training Center at Mahatma Phule Agricultural University, Rahuri Under Agricultural College, Pune....\
+  [202410031937566501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031937566501.pdf)
+
 ## Miscellaneous
 - Regarding declaration of indigenous cows as Rajyamata-Gomata.\
   [202409301030174301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301030174301.pdf)
 
 - Vasantrao Naik Marathwada Agricultural University, National Agricultural Research Project under Parbhani, Krishi Vigyan Kendra and Krishi Tantra Vidyalaya, District Chhatrapati Sambhajinagar regarding giving administrative approval to the budget proposal for construction of protection wall...\
   [202410011657005101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011657005101.pdf)
+
+- About renaming the educational complex, Krishi Vigyan Sankul, Kashti, Dist. Malegaon, Dist. Nashik as Chhatrapati Shivaji Maharaj Krishi Vigyan Sanskul, Kashti, Dist. Malegaon, Dist. Nashik.\
+  [202410031907372301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031907372301.pdf)
 
 ## Personnel
 - Partial Change in Posting by Transfer of Officers in Maharashtra Agricultural Service Group-B (Junior) Cadre - 2024.\

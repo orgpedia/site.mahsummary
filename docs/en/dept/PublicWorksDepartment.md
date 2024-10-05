@@ -13,6 +13,10 @@
 - Regarding approval of Concession Agreement for implementation of improved hybrid annuity scheme through Maharashtra State Infrastructure Corporation.\
   [202410011835202618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011835202618.pdf)
 
+## Miscellaneous
+- Regarding regularization of ad hoc promotion to the post of Deputy Divisional Engineer (Civil) in Maharashtra Engineering Service Group-A from the cadre of Assistant Engineer Grade-2 (Civil)...\
+  [202410031806577018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031806577018.pdf)
+
 ## Personnel
 - Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Nanded.\
   [202409301556058318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301556058318.pdf)
@@ -40,6 +44,27 @@
 
 - Regarding promotion and posting to the post of Deputy Divisional Officer (Construction) in Maharashtra Engineer Service, Group-A from Junior Engineer (Civil) cadre...\
   [202410011724262618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011724262618.pdf)
+
+- Regarding promotion and posting to the post of Deputy Divisional Engineer (Civil) in Maharashtra Engineering Service, Group-A from Assistant Engineer Grade-2 (Civil) Cadre...\
+  [202410031808471618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031808471618....pdf)
+
+- Promotion order of Junior Engineer (Electrical) on the post of Deputy Engineer (Electrical) (Diploma holder), Public Works Department\
+  [202410031805021918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031805021918.pdf)
+
+- promotion order of Junior Engineer (Civil) On the post of Sub Divisional Officer (Civil) Public Works Department.\
+  [202410031811116218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031811116218.pdf)
+
+- promotion order of Assistant Engineer Grade-2 (Electrical) on the post of Deputy Engineer (Electrical)(Degree Holder), Public Works Department.\
+  [202410031819351818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031819351818.pdf)
+
+- Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Konkan\
+  [202410031557155118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031557155118.pdf)
+
+- Promotion order of Junior Engineer (Diploma holder), Zilla parishada on the post of Sub Divisional Officer, Public Works Department.\
+  [202410031812458818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031812458818.pdf)
+
+- Regarding promotion and posting to the post of Deputy Engineer (Electrical) Graduate in Maharashtra Engineering Service, Group-A from Assistant Engineer Grade-2 (Electrical) Cadre...\
+  [202410031817261618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031817261618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

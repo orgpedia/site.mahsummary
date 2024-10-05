@@ -37,6 +37,15 @@
 - Annual plan year 2024-25 regarding, providing and financial approval to the media plan for the year 2024-25 under the head of promotion, publicity and training (2406-8589)\
   [202410011846119919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011846119919.pdf)
 
+- Regarding payment of pending payments of hotels acquired for accommodation and food arrangements of doctors, government teachers, and nurses deputed during the period of outbreak of Kovid 19 virus.\
+  [202410031620179519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031620179519.pdf)
+
+- Allocation of grants for civic amenities works in rehabilitated village Kaudgaon in Jintur Taluka of Parbhani District\
+  [202410031516471719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031516471719.pdf)
+
+- Conservator of Forests, Transport and Marketing, Ballarashah regarding granting administrative approval to the budget for the repair and paving of Asphalting Road.\
+  [202410031614141719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031614141719.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in heavy rain/flood affected and rehabilitated village Vajirgaon ward No. 2 (Ta. Naigaon Dist. Nanded)\
   [202409301821248719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301821248719.pdf)
@@ -131,6 +140,30 @@
 - Regarding  allotment of alternate land to the legal heirs of Deceased project affected person\
   [202410011821460919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011821460919.pdf)
 
+- Allocation of grants for civic amenities work in rehabilitated villages in Bhor taluka of Pune district under Bhatghar Project\
+  [202410031522341019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031522341019.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Conducting flood prevention works, Chhatrapati Sambhajinagar Municipal Corporation, Dist. Chhatrapati Sambhajinagar) (1/3)\
+  [202410031300471919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031300471919.pdf)
+
+- Allocation of grants for civic amenities works in rehabilitated villages in Dharmabad Taluka of Nanded District\
+  [202410031514424419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031514424419.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Working on Drought Prevention and Soil Conservation Remedial Schemes, Amalner, District Jalgaon - Public Works Board, Jalgaon) (3/3)\
+  [202410031256029119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031256029119.pdf)
+
+- Mauje Wakhri in Solapur district under Kanher project. Regarding disbursement of funds for civic amenities work in the resettled village of Pandharpur.\
+  [202410031520483519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031520483519.pdf)
+
+- Allocation of funds as per the provisions of Central Sector Scheme for Rehabilitation of Bonded Labourer- 2021\
+  [202410031518531719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031518531719.pdf)
+
+- Policy regarding allotment of Government land to Agricultural Produce Market Committees in the State...\
+  [202410031537366519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031537366519.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Carrying out flood prevention works, Ahmednagar Municipal Corporation, District Ahmednagar) (2/3)\
+  [202410031257122319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031257122319.pdf)
+
 ## Personnel
 - Under the Konkan Disaster Mitigation Project Regarding giving administrative sanction to works. (Mr. Braithwaite  Co. Ltd. - Multi Purpose Shelter Center - Thane - 4/7)\
   [202409301841594719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301841594719.pdf)
@@ -170,6 +203,42 @@
 
 - Regarding granting extension for the period from 01.09.2024 to 28.02.2024 to 13 ad hoc posts of Land Acquisition, Rehabilitation and Resettlement Authority, Chhatrapati Sambhajinagar .......\
   [202410011207185119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011207185119.pdf)
+
+- Posting of officers in Tehsildar cadre by deputation Mr. Vijay Borude, Tehsildar\
+  [202410031341237619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031341237619.pdf)
+
+- Appointment by deputation Mr. Vijayakumar Wakode, Tehsildar\
+  [202410031342337819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031342337819.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202410031336055019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031336055019.pdf)
+
+- Posting of Officers in Tehsildar Cadre Smt. Meenal Dalvi, Tehsildar\
+  [202410031346217119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031346217119.pdf)
+
+- Appointed on deputation Mr. Sridhar Galipelli, Tehsildar\
+  [202410031339381819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031339381819.pdf)
+
+- Posting of Officers in Tehsildar Cadre Smt. Nilima Rangari, Tehsildar\
+  [202410031344121719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031344121719.pdf)
+
+- Regarding posting of Naib Tehsildar cadre officers awaiting appointment....\
+  [202410031548236319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031548236319.pdf)
+
+- Regarding posting of officers in Naib Tehsildar cadre....\
+  [202410031541297119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031541297119.pdf)
+
+- Posting of Officers in Tehsildar Cadre Mr. Abhay Mhaske, Tehsildar\
+  [202410031344591919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031344591919.pdf)
+
+- Posting of officers in Tehsildar cadre by transfer\
+  [202410031337575019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031337575019.pdf)
+
+- Posting of Officers in Tehsildar Cadre Mr. Surendra Dandekar, Tehsildar\
+  [202410031349231719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031349231719.pdf)
+
+- Regarding posting of Naib Tehsildar cadre officers awaiting appointment....\
+  [202410031546222219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031546222219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
