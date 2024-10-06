@@ -35,6 +35,24 @@
 - Regarding inclusion of unclassified length in existing Rural Route No.158 in Devala Taluka of Nashik District.\
   [202410011826085620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011826085620.pdf)
 
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research                  and Development Scheme in Ahmednagar district.\
+  [202410041008393020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041008393020.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research                  and Development Scheme in Kolhapur district.\
+  [202410041007351320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041007351320.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                 According Administrative Approval to Upgradation of Roads under Research                  and Development Scheme in Chandrapur district.\
+  [202410041007222320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041007222320.pdf)
+
+- Administrative Approval for Furniture and Sub Work of  Panchayat Samiti Parola (Dist. Jalgaon)\
+  [202410031055127820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031055127820.pdf)
+
+- Administrative Approval for Construction of  Daryapur  Panchayat Samiti New Administrative Building (Dist. Amravati)\
+  [202410031250111720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031250111720.pdf)
+
+- Administrative Approval for Furniture and Sub Work of  Panchayat Samiti Erandol (Dist. Jalgaon)\
+  [202410031055059020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031055059020.pdf)
+
 ## Personnel
 - Continuation to the temporary post from 01.09.2024 to 28.02.2025 which created for the work of performance budget of Zillha Parishad. (G.R.)\
   [202410011737361820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011737361820.pdf)

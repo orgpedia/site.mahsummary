@@ -22,6 +22,12 @@
 - Regarding granting administrative approval for the construction of strengthening of Desi Cow Research and Training Center at Mahatma Phule Agricultural University, Rahuri Under Agricultural College, Pune....\
   [202410031937566501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031937566501.pdf)
 
+- Regarding establishment of Maharashtra Marine Fishermen Welfare Corporation...\
+  [202410041634293301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041634293301.pdf)
+
+- Regarding establishment of High Technology Vegetable Research Center under Dr. Panjabrao Deshmukh Agricultural University, Akola at Ekarjuna, Warora, District Chandrapur.\
+  [202410041915224501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041915224501.pdf)
+
 ## Miscellaneous
 - Regarding declaration of indigenous cows as Rajyamata-Gomata.\
   [202409301030174301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301030174301.pdf)
@@ -32,12 +38,21 @@
 - About renaming the educational complex, Krishi Vigyan Sankul, Kashti, Dist. Malegaon, Dist. Nashik as Chhatrapati Shivaji Maharaj Krishi Vigyan Sanskul, Kashti, Dist. Malegaon, Dist. Nashik.\
   [202410031907372301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031907372301.pdf)
 
+- Regarding lump sum recovery of outstanding principal and share capital from ongoing and closed co-operative poultry societies established in the state with the financial assistance of National Cooperative Development Corporation.\
+  [202410041534104901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041534104901.pdf)
+
+- Regarding establishment of Maharashtra Ground Reservoir Fishermen Welfare Corporation.\
+  [202410041617561301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041617561301.pdf)
+
 ## Personnel
 - Partial Change in Posting by Transfer of Officers in Maharashtra Agricultural Service Group-B (Junior) Cadre - 2024.\
   [202410011713597601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011713597601.pdf)
 
 - Premature/Requested Transfers of Officers in Agricultural Officer Group-B (Junior) Cadre - 2023.\
   [202410011717142601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011717142601.pdf)
+
+- ST in Shivajinagar, Pune. Regarding the extension for a period of 3 years of the lease of premises of the Department of Dairying for temporary relocation of the station and its administrative office.\
+  [202410041715512301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041715512301.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

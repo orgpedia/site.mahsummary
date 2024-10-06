@@ -46,6 +46,15 @@
 - Conservator of Forests, Transport and Marketing, Ballarashah regarding granting administrative approval to the budget for the repair and paving of Asphalting Road.\
   [202410031614141719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031614141719.pdf)
 
+- Regarding providing assistance to the affected people due to heavy rains/floods in Chandrapur district during the month of July, 2023...\
+  [202410041452171319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041452171319.pdf)
+
+- Regarding making funds available to all the Divisional Commissioners Offices to provide immediate assistance to the heirs of farmers who have committed suicide in the case of farmer suicide\
+  [202410041507111319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041507111319.pdf)
+
+- Regarding the provision of increased funds for the period of April 2023 to March 2024 as Rs.750/- per data card per month for the use of data cards to Talathi and Mandal officers of Amravati and Raigad districts for implementing e-farfar and e-chavadi projects.\
+  [202410041646141119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041646141119.pdf)
+
 ## Miscellaneous
 - Regarding disbursement of funds for civic amenities works in heavy rain/flood affected and rehabilitated village Vajirgaon ward No. 2 (Ta. Naigaon Dist. Nanded)\
   [202409301821248719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301821248719.pdf)
@@ -164,6 +173,24 @@
 - Regarding granting administrative approval for disaster mitigation works. (Carrying out flood prevention works, Ahmednagar Municipal Corporation, District Ahmednagar) (2/3)\
   [202410031257122319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031257122319.pdf)
 
+- Regarding providing assistance to the affected people due to heavy rains/floods in various districts during the period of August and September, 2024...\
+  [202410041455461319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041455461319.pdf)
+
+- Regarding grant of administrative approval to the budget for construction of compound wall for expansion in Manikdoh Bibat Nivara Centre, Forest Zone Junnar under Junnar Forest Division.\
+  [202410041331179719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041331179719.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Flood/ Drought Prevention Works, Dist. Ghatji, Arni, Yavatmal, Dist. Yavatmal, Soil and Water Conservation Department, Dist. Yavatmal.) (1/2)\
+  [202410041853081219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041853081219.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Flood/ Drought Prevention Works, Dist. Yavatmal, Irrigation Department, Zilla Parishad, Dist. Yavatmal.) (2/2)\
+  [202410041855351119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041855351119.pdf)
+
+- Regarding providing administrative approval to the budget for construction of day / night cages for expansion of Manikdoh Leopard Shelter Center in Forest Zone Junnar under Junnar Forest Division.\
+  [202410041335051419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041335051419.pdf)
+
+- Regarding declaring the post of Divisional Forest Officer, Kandal Forest Division South-Konkan as Drawing and Disbursing Officer.\
+  [202410041819111119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041819111119.pdf)
+
 ## Personnel
 - Under the Konkan Disaster Mitigation Project Regarding giving administrative sanction to works. (Mr. Braithwaite  Co. Ltd. - Multi Purpose Shelter Center - Thane - 4/7)\
   [202409301841594719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301841594719.pdf)
@@ -239,6 +266,30 @@
 
 - Regarding posting of Naib Tehsildar cadre officers awaiting appointment....\
   [202410031546222219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031546222219.pdf)
+
+- Regarding Promotion of Junior Time Grade Officers in Indian Forest Service Cadre to Senior Time Grade - Allotment Year 2018  2019\
+  [202410041822194419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041822194419.pdf)
+
+- Regarding the transfer of officers in the cadre of Additional Collector.\
+  [202410041919251019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041919251019.pdf)
+
+- Appointment by deputation Mr. Regarding appointment of Balaji Kshirsagar, Deputy Collector, currently awaiting appointment as Land Manager, MHADA, Mumbai on deputation...\
+  [202410041941395519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041941395519.pdf)
+
+- Regarding extension of temporary posts created for rehabilitation of affected project victims due to water resource projects.\
+  [202410041503161219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041503161219.pdf)
+
+- Appointment by deputation Mr. Vitthal Udmale, Deputy Collector, currently awaiting appointment Regional Officer, Maharashtra Industrial Development Corporation, Solapur Dist. Regarding appointment on deputation to the post of Solapur...\
+  [202410041932120019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041932120019.....pdf)
+
+- Appointment by deputation Mr. Regarding appointment of Pramod Kudale, Sub Divisional Officer Patoda, District Beed as Deputy Collector and Deputy Commissioner, Pune Metropolitan Region Development Authority, Pune on deputation...\
+  [202410041935509219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041935509219.pdf)
+
+- Appointment by deputation Mr. Hanumant Patil, Deputy Collector, and Hon. Private Secretary to Deputy Chief Minister (Finance) Regional Officer, Maharashtra Industrial Development Corporation, Baramati Dist. Pune regarding appointment on deputation...\
+  [202410041929328319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041929328319.pdf)
+
+- Appointment by deputation Mr. Kiran Kumar Kakade, Deputy Collector  And Hon. Regarding the appointment of Deputy Speaker, Maharashtra Legislative Council Officer on Special Duty to the post of Deputy Commissioner (Unauthorized Construction/Land and Property), Pune Metropolitan Region Development Authority, Pune on deputation...\
+  [202410041924545619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041924545619....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -33,5 +33,17 @@
 - Regarding the posting of Field Assistant / Laboratory Assistant Group-C in the Valid Metrology System to Inspector, Group-B by temporary and ad-hoc promotion.\
   [202410031554395506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031554395506.pdf)
 
+- Regarding the partial modification of the posting granted by temporary promotion to the cadre of Inspection Officer (Supply), Group-B (Gazetted) in the Department of Food, Civil Supplies and Consumer Protection.\
+  [202410041216452006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041216452006.pdf)
+
+- Regarding providing free refill of 3 gas cylinders annually to the eligible beneficiaries of the state under the Chief Ministers Annapurna Yojana.\
+  [202410041711231406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041711231406.pdf)
+
+- Regarding transfer request of Inspecting Officer (Supply), Group-B...        Mr. Snehal Rajendra Deshmukh.\
+  [202410041214371406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041214371406.pdf)
+
+- Regarding transfer request of Inspecting Officer (Supply), Group-B...     Dipali Prabhakar Brahmankar.\
+  [202410041216241406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041216241406.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

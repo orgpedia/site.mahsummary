@@ -154,9 +154,58 @@
 - Regarding approval of works in Pune district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
   [202410031802358222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031802358222.pdf)
 
+- Regarding approval of works in Nandurbar district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana. .\
+  [202410041708131122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041708131122.pdf)
+
+- Regarding approval of works in Pune district for the year 2024-25 under Bharat Ratna Dr Babasaheb Ambedkar Social Development Yojana.\
+  [202410041648315922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041648315922.pdf)
+
+- Bhagyalakshmi Backward Class Industrial Producers Cooperative Society Limited, Pandharpur Pandharpur Dist. Regarding withdrawal of financial assistance sanctioned to the organization Solapur.\
+  [202410041617457822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041617457822.pdf)
+
+- Regarding approving works in Thane district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410041641537122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041641537122.pdf)
+
+- Regarding approving works in Jalgaon district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana\
+  [202410041626524922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041626524922.pdf)
+
+- Regarding approval of works in Gondia district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410041657565222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041657565222.pdf)
+
+- Regarding approval of works in Dhule district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410041630145622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041630145622.pdf)
+
+- Mr. BALAJI INDUSTRIAL CO-OP SOCIETY LTD. Osmanabad Dist. Regarding withdrawal of financial assistance sanctioned to Dharashiv.\
+  [202410041620000122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041620000122.pdf)
+
+- Regarding approval of works in Ahmednagar district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410041701401222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041701401222.pdf)
+
+- Regarding approving works in Satara district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410041645262222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041645262222.pdf)
+
+- Regarding approval of works in Chandrapur district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202410041705111222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041705111222.pdf)
+
+- Sambodhi Social Forum Karanja (Gha) under this scheme to build memorials of dignitaries from Scheduled Castes and Neo-Buddhist elements and to develop places of cultural and historical importance for Scheduled Castes and to grant grants to NGOs for projects based on cultural and ethical values of Scheduled Castes. h Regarding granting approval for construction of Buddhist Vihara at Karanja, District Wardha...\
+  [202410041815051022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041815051022.pdf)
+
+- Regarding approval of works in Jalna district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
+  [202410041653268022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041653268022.pdf)
+
+- Regarding approving works in Mumbai city district for the year 2024-25 under Bharat Ratna Dr Babasaheb Ambedkar Social Development Yojana.\
+  [202410041622521222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041622521222.pdf)
+
 ## Miscellaneous
 - Regarding the selection of students from the general waiting list for the year 2024-25 for foreign scholarship scheme for the education of boys and girls belonging to Scheduled Castes and Neo-Buddhists...\
   [202410011621445722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011621445722.pdf)
+
+- Regarding giving ministerial status to Mr. Anandrao Adsul, Chairman, Maharashtra State Commission for Scheduled Castes and Tribes\
+  [202410041150141422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041150141422..pdf)
+
+## Personnel
+- Regarding the transfer of posts in the establishment of Social Welfare Commissionerate under the Department of Social Justice and Special Assistance to the Department of Other Backward Bahujan Welfare.\
+  [202410041154149922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041154149922.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

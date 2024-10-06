@@ -7,6 +7,12 @@
 - Regarding giving administrative approval for construction of educational building, hostel building, administrative building, residential building and other constructions for Maharashtra National Law University, Mumbai...\
   [202410031912536008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031912536008.pdf)
 
+- Regarding conferment of Vasudev Gaitonde Kala Jeevan Gaurav Award for the year 2022-23.\
+  [202410041528473508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041528473508.pdf)
+
+- Regarding disbursement of lump sum for the year 2024-25 to Maharashtra National Law University, Mumbai, Chhatrapati Sambhajinagar and Nagpur...\
+  [202410041310062808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041310062808.pdf)
+
 ## Miscellaneous
 - Regarding the continuation of the appointment of the Adjunct Lecturer in Government Technology after completing the probationary period.\
   [202409301551579608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301551579608.pdf)
@@ -74,12 +80,42 @@
 - As per the approval of the Pharmacy Council of India, New Delhi, the Government approves the introduction of a new Masters degree course in the existing Institute of Pharmacology from the academic year 2024-25 and also increases the accessibility of the existing Masters degree course.\
   [202410031832493008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031832493008.pdf)
 
+- Regarding approval to start a new Diploma Pharmacology course on permanent unaided basis in the institution of existing Degree Pharmacology course from the academic year 2024-25. (Managed by Chetana Foundation, Chetana College of Pharmacy Sardewadi, Taluka- Indapur, Dist. Pune)\
+  [202410041310081408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041310081408.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202410041834424908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041834424908.pdf)
+
+- (1) Deccan College and Institute of Post Graduate Research, Pune, (2) Gokhale Institute of Economics and Political Science, Pune and (3) Tilak Maharashtra University, Pune, two benefits (12 and 24 years) assured progression under revised service to non-teaching staff in all the three reputed universities. Regarding implementation of the scheme\
+  [202410041756224808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041756224808.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Institute of Pharmacy Diploma Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202410041831251308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041831251308.pdf)
+
+- Regarding declaration of Directorate of Arts as Virtual Personal Deposit Account Administrator.\
+  [202410041636359508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041636359508......pdf)
+
+- Regarding approval of the Government to start a new Institute of Pharmacy Course from the academic year 2024-25 as per the approval of the Pharmacy Council of India, New Delhi.-Government Circular.\
+  [202410041306341508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041306341508.pdf)
+
+- Regarding the approval of the Government to start a new Masters Degree Course in the existing Institute of Pharmacy Degree Course from the academic year 2024-25 as per the approval of Pharmacy Council of India, New Delhi.\
+  [202410041827401308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041827401308.pdf)
+
+- Regarding amending the Government decision for final approval of new colleges for the academic year 2024-25.\
+  [202410041503521208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041503521208.pdf)
+
+- Regarding declaration of Directorate of Technical Education as Virtual Personal Deposit Account Administrator...\
+  [202410031805296808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031805296808.pdf)
+
 ## Personnel
 - Regarding continuation of temporary posts in Directorate of Libraries, Mumbai and offices under the Directorate.\
   [202410011249267308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011249267308.pdf)
 
 - Transfer requests of Group-C (Non-Gazetted) employees on establishments in the Directorate of Libraries and Subordinate Sub-Offices.\
   [202410031217081908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031217081908.pdf)
+
+- Appointment by nomination Assistant Professor (Law), Maharashtra Education Service, Group-A\
+  [202410041331251708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041331251708....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

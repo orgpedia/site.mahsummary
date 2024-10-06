@@ -13,6 +13,9 @@
 - Regarding disbursement of funds sanctioned through supplementary requisitions for the services of 3000 manpower recruited through external mechanism (Maharashtra State Security Corporation) at the establishment of Brihanmumbai Police Commissionerate.\
   [202410011740452829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011740452829.pdf)
 
+- Regarding disbursement of funds amounting to Rs.300.00 Crore to Maharashtra State Road Transport Corporation as reimbursement of discounted price for August, 2024...\
+  [202410041835011529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041835011529.pdf)
+
 ## Miscellaneous
 - May appointed as Pune and Pimpri-Chinchwad City CCTV Project Consultant. Regarding payment of work done for the period from March 2024 to June 2024 to PwC Company.\
   [202410011501178629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011501178629.pdf)
@@ -41,6 +44,9 @@
 
 - Select List 2023-24: Regarding posting-on-promotion to post in the cadre of Joint Commissioner, State Excise.\
   [202410031543183229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031543183229.pdf)
+
+- Regarding transfers/postings of S.P.S. Officers.\
+  [202410042214034829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410042214034829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

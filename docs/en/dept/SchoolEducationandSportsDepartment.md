@@ -17,6 +17,9 @@
 - Government Vidyaniketan Pusegaon, Khatav district Satara regarding dedication of land in Vidyaniketana area.\
   [202410031918351521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031918351521.pdf)
 
+- Regarding opening of new heading to develop PM Shri (PM Schools for Rising India) schools in the state\
+  [202410041730415421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041730415421.pdf)
+
 ## Personnel
 - Balapur Minority Education and Social Welfare Society, Balapur Distt. Akola Conducted Urdu High School, Chitoda Dist. Regarding transfer of management of Buldana School to Growth Power Multipurpose Society, Akola.\
   [202410011218507821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011218507821.pdf)

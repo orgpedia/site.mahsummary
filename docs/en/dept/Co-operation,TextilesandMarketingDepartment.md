@@ -16,9 +16,18 @@
 - Integrated and Sustainable Textile Industry Policy, 2023-28. Guidelines for providing capital subsidy to textile units in the state for setting up solar power projects.\
   [202410031822501802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031822501802.pdf)
 
+- Regarding approval of the project report- Purnamay Cooperative Yarn Mills Ltd., Chandur Bazar, Tal- Chandur Bazar, District- Amravati.\
+  [202410041335471402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041335471402.pdf)
+
+- Nandigram Medical Cooperative Society, M. Nanded. Conducted by Mr. Regarding provision of Government share capital as special matter in the ratio of 1:9 to Guruji Hospital, Chhatrapati Chowk, Purna Road, Nanded.\
+  [202410041719474902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041719474902.pdf)
+
 ## Miscellaneous
 - Regarding direct service appointment to the post of Assistant Director (Silk), Maharashtra Silk Services, Group-A... (Clear Sheet)\
   [202409301812190302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812190302.pdf)
+
+- Regarding selection of co-operative spinning  mills for financial assistance. Late Mohanraoji Ahir backward Co., Ltd. Spinning Mill, Pethwadaj Ta. Kandhar, Dist. Nanded\
+  [202410041524566702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041524566702.pdf)
 
 ## Personnel
 - Regarding extension of 6 temporary posts for Vigilance Cell in Cooperatives Department from 1/9/2024 to 28/2/2025..........\
