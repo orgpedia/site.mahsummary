@@ -1,31 +1,34 @@
 # Women and Child Development Department
 
-**Date Range**: 30 September 2024 - 05 October 2024
+**Date Range**: 07 October 2024 - 12 October 2024
 
 
 ## Funds
-- Regarding disbursement of funds under the scheme Mukhyamantri Mazi Ladki Bahin.\
-  [202410051351300830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410051351300830.pdf.pdf)
+- Regarding the sanction of Bhaubij Bhet amount for the financial year 2024-25 to Anganwadi Sevikas and Anganwadi Helpers under the Integrated Child Development Services Scheme.\
+  [202410071120310430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071120310430.pdf)
 
-- Regarding disbursement of funds for payment of salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2024-25.\
-  [202410041750381130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041750381130.pdf)
+- Regarding approval of procurement of child friendly furniture material for Anganwadi Centers under Integrated Child Development Service Scheme.\
+  [202410041805251530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041805251530.pdf)
+
+- Regarding approval of purchase of Pre School Education Kits (PSE Kits)  under Integrated Child Development Services Scheme.\
+  [202410041805111130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041805111130.pdf)
+
+- Regarding disbursement of funds for the purchase of necessary items for the hostel of Mahatma Gandhi Administration Training Institute, Pune.\
+  [202410071834553730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071834553730.pdf)
 
 ## Miscellaneous
-- Regarding implementation of Chief Minister Women Empowerment Campaign in the state.\
-  [202410011825063530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011825063530.pdf)
+- Regarding prescribing e-tendering process for supply of food grains and essential commodities of all government organizations working under Women and Child Development Department.\
+  [202410031948541630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031948541630.pdf)
 
-- Regarding implementation of Assured Progression Scheme under Reformed Service to non-teaching staff in observation homes/ childrens homes operated through District/Regional Probation and Maintenance Organization\
-  [202409251108243430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409251108243430.pdf)
+- Regarding disbursement of funds under the centrally sponsored scheme Mission Vatsalya for the year 2024-25\
+  [202410081154132730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081154132730.pdf)
 
-- Regarding approval the provision of pink e-rickshaw for employment to needy women in the state.\
-  [202410031347565030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031347565030.pdf)
-
-- Regarding increase in honorarium and implementation of incentive allowance to Anganwadi workers and Anganwadi helpers in Integrated Child Development Service Scheme.\
-  [202410041805201130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041805201130.pdf)
+- Regarding revised registration of child care NGOs working under the Juvenile Justice (Care and Protection of Children) Act, 2015.\
+  [202410081154060130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081154060130.....pdf)
 
 ## Personnel
-- Regarding the implementation of seniority and selection categories as per Chattopadhyay Commission to the posts in the teaching cadre of observation homes/ childrens homes operated through the District/Regional Probation and Maintenance Organization.\
-  [202410011454516130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011454516130.pdf)
+- Ad hoc promotion of Shri.S.Waingde, District Women and Child Development Officer, Kolhapur regarding temporary regular promotion.\
+  [202410071835034330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071835034330.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

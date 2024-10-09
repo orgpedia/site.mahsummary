@@ -1,64 +1,33 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 30 September 2024 - 05 October 2024
+**Date Range**: 07 October 2024 - 12 October 2024
 
 
 ## Funds
-- Regarding giving administrative approval to the budget for the conversion of Demonstration and Training Centre, Mangle Dist.Sangli into High Technology Training Center (Decentralized Training Centre) under Integrated and Sustainable Textile Policy 2023-28...\
-  [202409301812084902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812084902.pdf)
+- Regarding approval of revised project report- Gautam Backward Class Cotton Growers Cooperative Yarn Mill Ltd., Nimba, Dist-Nagpur.\
+  [202410071904106202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071904106202.pdf)
 
-- Regarding disbursement of 10 percent capital subsidy to new and expanding textile units in Vidarbha, Marathwada and North Maharashtra under the Textile Policy, 2011-17.\
-  [202410011610596502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011610596502.pdf)
+- Agricultural Produce Market Committee, Baramati, District Pune regarding the administrative approval of the revised budget for the establishment of convenience facilities such as silk stock buying and selling market and post-stock processing guide and training center etc.\
+  [202410071347370402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071347370402....pdf)
 
-- Regarding disbursement of interest subvention subsidy to textile units under Textile Policy, 2011-2017.\
-  [202410031336550202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031336550202.pdf)
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative Yarn mills  Anant Farmers Cooperative Yarn Mill Ltd., Washim, Dist- Washim\
+  [202410071902041602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071902041602.pdf)
 
-- Integrated and Sustainable Textile Industry Policy, 2023-28. Guidelines for providing capital subsidy to textile units in the state for setting up solar power projects.\
-  [202410031822501802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031822501802.pdf)
+- Regarding Administrative approval for expenditure of funds in the year 2024-25 for Captive Market Scheme.\
+  [202410071356088702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071356088702.pdf)
 
-- Regarding approval of the project report- Purnamay Cooperative Yarn Mills Ltd., Chandur Bazar, Tal- Chandur Bazar, District- Amravati.\
-  [202410041335471402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041335471402.pdf)
-
-- Nandigram Medical Cooperative Society, M. Nanded. Conducted by Mr. Regarding provision of Government share capital as special matter in the ratio of 1:9 to Guruji Hospital, Chhatrapati Chowk, Purna Road, Nanded.\
-  [202410041719474902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041719474902.pdf)
+- Regarding approval of revised project report- Patriot Ratnappanna Kumbhar Shirol Backward Class Cooperative Yarn Mills, Jaisingpur, Dist.Shirol, Dist.Kolhapur.\
+  [202410071906548902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071906548902.pdf)
 
 ## Miscellaneous
-- Regarding direct service appointment to the post of Assistant Director (Silk), Maharashtra Silk Services, Group-A... (Clear Sheet)\
-  [202409301812190302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812190302.pdf)
+- Postpone the election of Cooperative Societies.\
+  [202410072012120302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410072012120302.pdf)
 
-- Regarding selection of co-operative spinning  mills for financial assistance. Late Mohanraoji Ahir backward Co., Ltd. Spinning Mill, Pethwadaj Ta. Kandhar, Dist. Nanded\
-  [202410041524566702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041524566702.pdf)
+- Postpone the Election of Co-operative Societies.\
+  [202410071528032802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071528032802.pdf)
 
-## Personnel
-- Regarding extension of 6 temporary posts for Vigilance Cell in Cooperatives Department from 1/9/2024 to 28/2/2025..........\
-  [202409301809449602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301809449602.pdf)
-
-- Regarding extension of 18 temporary posts of Cooperative Department under Dairy Business Development Department from 1/9/2024 to 28/2/2025 ...........\
-  [202409301812444802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812444802.pdf)
-
-- G.D.C. and A. Regarding extension of 2 temporary posts sanctioned for examination from 1/9/2024 to 28/2/2025..........\
-  [202409301807219802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301807219802.pdf)
-
-- Regarding extension of 1467 temporary posts in Cooperative Department (Administration) from 1/9/2024 to 28/2/2025.\
-  [202409301815410602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301815410602.pdf)
-
-- Regarding extension of 16 temporary posts of employees appointed for accounting and budget work in Cooperative Department from 1/9/2024 to 28/2/2025.\
-  [202409301817092202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301817092202.pdf)
-
-- Regarding transfer request of Silk Development Officer, Grade-2...\
-  [202410011601382702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011601382702.pdf)
-
-- Regarding transfer request of Area Assistant under Directorate of Silk...\
-  [202409301812157202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812157202.pdf)
-
-- Cancellation of decesion to convert services of Shree. G.U Patre, Powerloom Jobber, Textile Commissionerate, Nagpur, to the Supernumerary post who was appointed from Scheduled Tribe category, but caste certificate invalidated.\
-  [202410011548569802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011548569802.pdf)
-
-- Regarding transfer request of Senior Technical Assistant under Directorate of Silk...\
-  [202409301812125502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301812125502.pdf)
-
-- Cancellation of decesion to convert services of Shree. Ananta Laxman Ninave, Senior Marketing Officer, Textile Commissionerate, Nagpur, to the Supernumerary post  who was appointed from Scheduled Tribe category, but did not submit Scheduled Caste Validity Certificate.\
-  [202410011554092602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011554092602.pdf)
+- Regarding the postponement of the elections to the Agricultural Produce Market Committees from the date of this order to 31st December, 2024\
+  [202410071855105402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071855105402.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

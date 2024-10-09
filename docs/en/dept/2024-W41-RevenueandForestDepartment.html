@@ -1,0 +1,1868 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>Weekly Summary: Revenue and Forest Department </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-en.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                Weekly Summary: Maharastra GRs</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">Search</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="keywords" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en"selected>English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr">मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="Search...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          Latest Summary
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              Department-wise
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              District-wise
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">Archives</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    Disclaimer
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">Home</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2024-W41-summary.html">
+    <span class="cursor-pointer">Weekly Summary: Department-wise</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week 41</span>
+
+
+
+  </div>
+    <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('Revenue and Forest Department', 26)">Subscribe</button>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">Weekly Summary: Revenue and Forest Department</h2>
+			<span class="text-blue-500">
+			  Week 41: (07 October 2024 - 12 October 2024)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Funds </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Allocation of grants for civic amenities works in rehabilitated villages in Kalamnuri talukas of Hingoli District under upper Painganga Project</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Aurangabad, Hingoli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081304477519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081304477519.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081304477519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081304477519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding grant of administrative approval to civil facility works in flood rehabilitated villages in Parbhani district.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Parbhani
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081825099419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081825099419.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081825099419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081825099419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Allocation of grants for civic amenities works in rehabilitated villages in Naigaon Taluka of Nanded District</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs.2 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081252216319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081252216319.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081252216319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081252216319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the budget of Dongrai Pilgrimage Nature Forest Tourism Development Works.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs.15 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune, Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071758128619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071758128619.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071758128619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071758128619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for the cost of imparting training on disaster management and preparedness in secondary and higher secondary schools of 9th to 12th standard in government and aided schools of the state under the funds received for pre-preparedness and capacity building.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071600182719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071600182719.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071600182719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071600182719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Allocation of grants for civic amenities work in rehabilitated villages Kolegaon in Mohol taluka and Narayan Chincholi in Pandharpur taluka of Solapur district under Ujani Project</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081254103519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081254103519.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081254103519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081254103519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Hyderabad Bounty Abolition and Abolition of Cash Grants (Amendment) Ordinance, 2024 (Maharashtra Ordinance No. 8 of 2024) - Amendment made to Section 2(a) and Section 6 of the Hyderabad Bounty Abolition and Abolition of Cash Grants Act, 1954</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081644425919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081644425919.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081644425919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081644425919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">To provide administrative approval for civic amenities works in rehabiliatated villages in Daund Taluka of Pune District</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081259504919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081259504919.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081259504919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081259504919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Allocation of grants for civic amenities work in rehabilitated village Kolegaon in Mohol taluka of Solapur district under Ujani Project</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081256263319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081256263319.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081256263319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081256263319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding giving administrative approval to development works in Satara Taluk under Koyna Earthquake Rehabilitation Fund Committee....</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Ratnagiri, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081230100619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081230100619.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081230100619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081230100619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">To provide administrative approval for civic amenities works in rehabiliatated villages in Daund Taluka of Pune District</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 8 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081258173719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081258173719.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081258173719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081258173719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding disbursement of funds to District Disaster Management Authority. (Phase-2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Hingoli, Jalgaon, Kolhapur, Nagpur, Nanded, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081206287419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081206287419.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081206287419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081206287419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding giving administrative approval to the budget for the construction of a new Forest Rest House and Dormitory at Mahur District, Mahur District, Nanded.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs.15 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur, Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071755372819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071755372819.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071755372819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071755372819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Personnel </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the extension of temporary posts created for the Collectors Office and Zonal Office (Sardar Sarovar Project) at Nandurbar from 1st September, 2024 to 29th February, 2025 for rehabilitation work of Sardar Sarovar project affected persons.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai, Nandurbar, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081227167319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081227167319.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081227167319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081227167319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">To provide administrative approval for civic amenities works in rehabiliatated villages in Daund Taluka of Pune District</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081303091419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081303091419.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081303091419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081303091419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding grant of 10.12 Ha.R. of land out of  36.60 Ha.R. area land from Gat No.178/A situated at Mauje Laling Tal. and Dist.Dhule  to B.A.P.S. Swaminarayan Sanstha, Dhule.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Dhule, Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071838544719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071838544719.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071838544719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071838544719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">regarding contination of temporary pcsts in  Nagpur division</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081518298019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081518298019.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081518298019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081518298019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the extension of the total 13 temporary posts in the office of Land Acquisition, Redevelopment and Resettlement Authority, Nagpur from 01.9.2024 to 28.02.2025...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081514096219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081514096219.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081514096219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081514096219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding extension of temporary posts in the office of Garhane Resolution Authority, Sardar Sarovar Project, Nandurbar from 1st September, 2024 to 29th February, 2025.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081223251919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081223251919.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081223251919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081223251919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding extension of temporary posts in Talathi cadre in the state.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Nagpur, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071556512319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071556512319.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071556512319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071556512319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">regarding contination of temporary pcsts in  Amravati division</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Akola, Amravati, Buldhana, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081521270019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081521270019.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081521270019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081521270019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mau. Kandivali at S.No. 67 feet 68,69,70 p., 161 p., 162 p., 149 p., 157 and S.No. at Mauje Charkop. 41 feet Regarding giving directions regarding Kandivali Industrial Estate on 116 acres 20 guntha land...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Mumbai Suburban
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081634575619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081634575619.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081634575619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081634575619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Miscellaneous </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Public Works Department, Gondia. Dist. Gondia (2/2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gondia
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071252114619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071252114619.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071252114619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071252114619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Sengaon, Public Works Department Hingoli, District Hingoli. (3/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Hingoli, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071215256419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071215256419.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071215256419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071215256419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works Zilla Parishad, Nagpur. (3/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071913572919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071913572919.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071913572919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071913572919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding extension for one year to the posts of 34 Office Assistants (IT Assistants) working in all districts except Mumbai City and Mumbai Suburbs.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081212343819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081212343819.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081212343819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081212343819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Amalner, Dist. Jalgaon, (Water Resources Department (Low Thermal Project, Amalner), Dist. Jalgaon) (1/2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071244460419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071244460419.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071244460419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071244460419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Malegaon, Dist. Nashik, (Zilla Parishad, Minor Irrigation Department, Nashik) (1/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071306016119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071306016119.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071306016119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071306016119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding giving administrative approval to development works in Jawli Taluk under Koyna Earthquake Rehabilitation Fund Committee....</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Ratnagiri, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081231156719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081231156719.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081231156719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081231156719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Jamner, Raver, Dist. Jalgaon, (Public Works Department, Dist. Jalgaon) (2/2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071246430619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071246430619.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071246430619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071246430619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Malegaon, Dist. Nashik, (District Soil and Water Conservation Department, Nashik) (2/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071303261419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071303261419.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071303261419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071303261419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood / Drought Prevention Works Irrigation and Hydropower Projects Investigation Department, Nagpur Distt. Nagpur. (2/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071917337819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071917337819.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071917337819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071917337819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Public Works Department, Dist. Chandrapur. (3/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071238226719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071238226719.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071238226719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071238226719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding giving Extension to total 42 contract posts including 06 posts of Divisional Disaster Management Coordinators and 36 posts of District Disaster Management Officers.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081209003919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081209003919.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081209003919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081209003919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Public Works Department, Zilla Parishad, Gondia. h Arjuni Morgaon, Gondia, Tiroda District Gondia, (1/2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gondia, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071250225219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071250225219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071250225219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071250225219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Municipal Council Hinganghat, Distt. Wardha. (1/2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Wardha
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071222555819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071222555819.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071222555819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071222555819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Municipal Corporation, Nagpur. (1/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071912570519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071912570519.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071912570519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071912570519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Crack Prevention Works Public Works Department, Raigad Distt. Raigad.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071204563219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071204563219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071204563219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071204563219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Municipal Council Chandrapur, Distt. Chandrapur. (1/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Jalna
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071232290319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071232290319.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071232290319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071232290319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood / Drought Prevention Works Water Resources Department, Wardha. District Wardha. (2/2)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Wardha
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071226396219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071226396219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071226396219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071226396219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding increasing the festival advance given to Kotwals on the occasion of festival.....</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081223214619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081223214619.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081223214619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081223214619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding increase in pay of Kotwals</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071549193219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071549193219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071549193219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071549193219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. (Drought Prevention Works, Dist. Ahmedpur/ Ausa/ Nilanga/ Udgir/ Chakur/ Shirur Anantapal/ Devani, Dist. Latur, Municipal Council / Nagar Panchayat, Latur.)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071218105219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071218105219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071218105219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071218105219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding disbursement of funds for civic amenities works in rehabilitated village Mahegaon (Ta. Naigaon Dist. Nanded)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081247113419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081247113419.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081247113419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081247113419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding disbursement of funds for civic amenities works in rehabilitated village Vajirgaon (Ta. Naigaon Dist. Nanded)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081249013419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081249013419.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081249013419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081249013419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood / Drought Prevention Works, Soil and Water Conservation Department, Distt. Chandrapur. (2/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071236094919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071236094919.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071236094919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071236094919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Khamgaon, Shegaon, Dist. Buldhana, (Water Resources Department, Jigaon Project Dam and Rehabilitation Department, Shegaon, District Buldhana)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071921437619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071921437619.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071921437619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071921437619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding disbursement of funds for civic amenities works in rehabilitated village Raher (Ta. Naigaon Dist. Nanded)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081251030719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410081251030719.pdf">202410081....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081251030719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410081251030719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 08 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Crack and Flood Prevention Works, (T. Igatpuri, Sinnar, Surgana, Yewla, Dist. Nashik, Public Works Department, Nashik) (3/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071259220319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071259220319.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071259220319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071259220319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the constitution of a committee to prepare a plan for the rehabilitation of encroachment holders in the Sanjay Gandhi National Park within a prescribed period.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071753204219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071753204219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071753204219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071753204219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding implementation of compassionate policy to Kotwal employees.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071545581119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071545581119.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071545581119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071545581119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Mohdi Dist. Bhandara, Water Resources Department, Distt. Bhandara.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Beed, Bhandara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071220052019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071220052019.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071220052019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071220052019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Crack prevention works, h. Akole, Dist. Ahilyanagar (Public Works Department)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071926200219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071926200219.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071926200219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071926200219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Dist. Vasmat, Zilla Parishad, Hingoli. (1/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Hingoli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071208467519....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071208467519.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071208467519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071208467519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Gevrai, Wadwani, Dist. Beed, Water Resources Department, Dist. BEED</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Beed, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071909486819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071909486819.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071909486819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071909486819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Kudal, Dist. Sindhudurg, (Public Works Department, Sindhudurg)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Sindhudurg
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071230113719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071230113719.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071230113719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071230113719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Dist. Aundha (Nag)/Vasamat/Hingoli/Sengaon, Soil and Water Conservation Department Hingoli, Dist. Hingoli. (2/3)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Hingoli, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071211468419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410071211468419.pdf">202410071....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071211468419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202410071211468419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 07 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-en.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">Disclaimer</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=Weekly Summary: Revenue and Forest Department">Report an Error</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">View on GitHub</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>

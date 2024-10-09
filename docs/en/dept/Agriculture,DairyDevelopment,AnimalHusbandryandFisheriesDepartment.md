@@ -1,58 +1,52 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 30 September 2024 - 05 October 2024
+**Date Range**: 07 October 2024 - 12 October 2024
 
 
 ## Funds
-- Regarding disbursement of funds amounting to Rs.2254.96 crores for payment of benefits to eligible beneficiaries under Namo Shetkari Mahasanman Nidhi Yojana.\
-  [202409301827370201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301827370201.pdf)
+- Regarding disbursement of funds for implementation of Soil Health Plan and Fertility Program (SHF) for Scheduled Tribes in the year 2024-25 under National Agricultural Development Scheme (RKVY).\
+  [202410071836113701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071836113701.pdf)
 
-- Under the Comprehensive Crop Insurance Scheme, in Kharif 2023, the amount expected to be reimbursed by the insurance companies to the State Government, for approval of adjustment from the amount of insurance premium subsidy payable for Kharif season 2024 and the remaining Farmers Share Insurance Premium Subsidy for Kharif season 2024 as well as the permissible advance State Share Insurance Premium Regarding disbursement of grant..\
-  [202409301833563001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301833563001.pdf)
+- Regarding disbursement of second installment of funds to Scheduled Castes for implementation of Dry Area Development (RAD) Program under RKVY Cafeteria in the year 2024-25.\
+  [202410071846563301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071846563301.pdf)
 
-- Regarding disbursement of liability amount of Rs.1927.52 Crores to Oriental Insurance Company by the State Government as per 80:110 model under Comprehensive Crop Insurance Scheme Kharif 2023 in excess of 110 compensation...\
-  [202409301831037701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301831037701.pdf)
+- Regarding disbursement of second installment fund for Scheduled Tribes category under RKVY for implementation of Paramparagat Krushi vikas yojana (PKVY) in the year 2024-25.\
+  [202410071838470301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071838470301.pdf)
 
-- implemented for Scheduled Caste/New Buddhist farmers. Regarding amendment and inclusion of new elements in financial criteria of Dr.  Babasaheb Ambedkar Krishi Swavalban Yojana...\
-  [202410011816541101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011816541101.pdf)
+- Regarding disbursement of second installment fund for Scheduled Caste category under RKVY for implementation of Paramparagat Krushi vikas yojana (PKVY) in the year 2024-25.\
+  [202410071841507201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071841507201.pdf)
 
-- Regarding amendment and inclusion of new elements in financial criteria of Birsa Munda Krishi Kranti Yojana (in-area and out-of-area) implemented for Scheduled Tribes.\
-  [202410011822063201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011822063201.pdf)
+- Regarding disbursement of second installment of funds to Scheduled Tribes under the Agricultural Mechanization Sub Mission in the year 2024-25.\
+  [202410071845144101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071845144101.pdf)
 
-- Regarding granting administrative approval for the construction of strengthening of Desi Cow Research and Training Center at Mahatma Phule Agricultural University, Rahuri Under Agricultural College, Pune....\
-  [202410031937566501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031937566501.pdf)
+- Regarding disbursement of second installment of funds to Scheduled Tribes for implementation of Dry Area Development (RAD) Program under RKVY Cafeteria in the year 2024-25.\
+  [202410071849116801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071849116801.pdf)
 
-- Regarding establishment of Maharashtra Marine Fishermen Welfare Corporation...\
-  [202410041634293301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041634293301.pdf)
+- Regarding disbursement of second installment funds for Scheduled Caste category under Agricultural Mechanization Sub Mission in the year 2024-25.\
+  [202410071850501001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071850501001.pdf)
 
-- Regarding establishment of High Technology Vegetable Research Center under Dr. Panjabrao Deshmukh Agricultural University, Akola at Ekarjuna, Warora, District Chandrapur.\
-  [202410041915224501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041915224501.pdf)
+- Regarding disbursement of funds for implementation of Soil Health Plan and Fertility Program (SHF) for Scheduled Castes in the year 2024-25 under National Agricultural Development Plan (RKVY).\
+  [202410071834150201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071834150201.pdf)
 
 ## Miscellaneous
-- Regarding declaration of indigenous cows as Rajyamata-Gomata.\
-  [202409301030174301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202409301030174301.pdf)
+- Creation of posts for Bovine Breeding Regulatory Authority\
+  [202410071623123801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071623123801.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, National Agricultural Research Project under Parbhani, Krishi Vigyan Kendra and Krishi Tantra Vidyalaya, District Chhatrapati Sambhajinagar regarding giving administrative approval to the budget proposal for construction of protection wall...\
-  [202410011657005101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011657005101.pdf)
+- Vasantrao Naik Marathwada Agricultural University, Parbhani under Anand Charitable Institution, Ashti, Dist.Ashti, Dist.Beed regarding the approval of the contingent of Annantra College, Ashti, Dist.Beed on permanent unaided basis.\
+  [202410071859115301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071859115301.pdf)
 
-- About renaming the educational complex, Krishi Vigyan Sankul, Kashti, Dist. Malegaon, Dist. Nashik as Chhatrapati Shivaji Maharaj Krishi Vigyan Sanskul, Kashti, Dist. Malegaon, Dist. Nashik.\
-  [202410031907372301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031907372301.pdf)
-
-- Regarding lump sum recovery of outstanding principal and share capital from ongoing and closed co-operative poultry societies established in the state with the financial assistance of National Cooperative Development Corporation.\
-  [202410041534104901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041534104901.pdf)
-
-- Regarding establishment of Maharashtra Ground Reservoir Fishermen Welfare Corporation.\
-  [202410041617561301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041617561301.pdf)
+- Regarding giving administrative approval to the proposal for providing fire fighting system and CCTV system in various research centers and buildings under Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli...\
+  [202410072020210201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410072020210201.pdf)
 
 ## Personnel
-- Partial Change in Posting by Transfer of Officers in Maharashtra Agricultural Service Group-B (Junior) Cadre - 2024.\
-  [202410011713597601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011713597601.pdf)
+- Total area of Government Milk Scheme, Chalisgaon Yethil Group No. 426/2/B/1/426/3/1/A/1 is 3.58 ha. Remaining 0.61 out of R is about getting R seat for expansion of rural hospital at Chalisgaon.....\
+  [202410071657151501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071657151501.pdf)
 
-- Premature/Requested Transfers of Officers in Agricultural Officer Group-B (Junior) Cadre - 2023.\
-  [202410011717142601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011717142601.pdf)
+- Promotion and Posting from the post of Livestock Development Officer (Group-A) to the post of Assistant Commissioner Animal Husbandry (Group-A)\
+  [202410071713482101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071713482101.pdf)
 
-- ST in Shivajinagar, Pune. Regarding the extension for a period of 3 years of the lease of premises of the Department of Dairying for temporary relocation of the station and its administrative office.\
-  [202410041715512301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041715512301.pdf)
+- Vasantrao Naik Marathwada Agricultural University, Parbhani under Mauje Thana Soygaon, Dist. Chhatrapati Sambhajinagar has been changed to Mauje Likhakhedi and Palod T.Sillod, Distt. Regarding approving the proposal for establishing an aided Government Agriculture College on Government land at Chhatrapati Sambhajinagar...\
+  [202410071857246101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071857246101.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

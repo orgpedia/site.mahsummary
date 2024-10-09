@@ -1,54 +1,30 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 30 September 2024 - 05 October 2024
+**Date Range**: 07 October 2024 - 12 October 2024
 
+
+## Funds
+- Mauje Sangaon in Kolhapur district, Regarding the establishment of a new Government Homeopathy College with an enrollment capacity of 100 students and an attached 50-bed hospital at Kagal.\
+  [202410081614321613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081614321613.pdf)
 
 ## Miscellaneous
-- Construction of Rural Health Training Centre at Mouge Someshwar Nagar (Wagalwadi) Tal. Baramati, Dist. Pune\
-  [202410011953342613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011953342613.pdf)
+- Regarding permission to start a Government Nursing (B.Sc.) Degree College at Jalna with an intake capacity of 50 students\
+  [202410071140505613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071140505613.pdf)
 
-- Development of 15 Bedded Intensive Care Unit (ICU) Modular at St.Georges Hospital, Mumbai\
-  [202410011953392613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011953392613.pdf)
+- Administrative approval for the purchase of Hand Held Portable X-ray Machine on Turn Key in Government Medical Colleges and Hospitals\
+  [202410031857115413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031857115413.pdf)
 
-- Administrative approval for Purchase of  Mobile Stroke Unit (MSU) with integrated Head CT Scanner on Turnkey Basis on  Proprietary item  in Government Medical Colleges and Hospitals.\
-  [202410041132133513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041132133513.pdf)
+- Regarding approving the service of 45 Security Guards from the Maharashtra State Security Corporation for the Government Dental College and Hospital, Nagpur, under the DMER.\
+  [202410071406077913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071406077913.pdf)
 
-- Administrative approval for Purchase of  Mobile Head CT Scanner With Turnkey Basis on  Proprietary item  in Government Medical Colleges and Hospitals.\
-  [202410041132081413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041132081413.pdf)
+- Regarding the State selection committee for recruitment of direct service posts in Private Aided Ayurveda and Private Aided Unani Colleges in the State.\
+  [202410071407380213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071407380213.pdf)
 
-- Regarding allowing admission of 100 students for first year in Government Medical College, Jalna\
-  [202410041127221413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041127221413.pdf)
+- Renovation of Upgradation of Urosurgery Operation Theatre Complex Including Corridor and Supply Installation Testing  Commissioning of Two Numbers of Modular Operation Theatre at St.Georges  Hospital, Mumbai\
+  [202410071542086813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071542086813.pdf)
 
-- Regarding allowing admission of 100 students for first year in Government Medical College, Amravati.\
-  [202410041221539813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041221539813.pdf)
-
-- Regarding allowing admission of 100 students for first year in Government Medical College, Bhandara.\
-  [202410041127282413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041127282413.pdf)
-
-- To fill the post of Group C and Group D contractual posts in institutes under Directorate of Medical Education and Ayush through outsourcing agency.\
-  [202410041254405813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041254405813.pdf)
-
-- Regarding allowing admission of 100 students for first year in Government Medical College, Buldhana.\
-  [202410041127149013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041127149013.pdf)
-
-- Regarding allowing admission of 100 students for first year in Government Medical College, Hingoli.\
-  [202410041127451013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041127451013.pdf)
-
-- B.A.M.S. Tribal Devmogra Education Society, Natavad, Dist. Nandurbar Sanchalit Damji Posla Gavit Ayurveda College  Hospital, Pathrai, Distt. Nandurbar.\
-  [202410041028232313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041028232313.pdf)
-
-- Regarding allowing admission of 100 students for first year in Government Medical College, Washim.\
-  [202410041127383013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041127383013.pdf)
-
-- Regarding allowing admission of 100 students for first year in Government Medical College, Ambernath (District-Thane).\
-  [202410041221476813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041221476813.pdf)
-
-- Regarding allowing admission of 100 students for first year in Government Medical College, Gadchiroli.\
-  [202410041221585013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041221585013.pdf)
-
-## Personnel
-- Administrative approval for the purchase of machinery and equipment under the state scheme to Government Medical College, Buldhana\
-  [202410011953232413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410011953232413.pdf)
+- Regarding approval to provide four wheeler vehicles on lease to the Dean of Government Medical College under the DMER.\
+  [202410071403343813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071403343813.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
