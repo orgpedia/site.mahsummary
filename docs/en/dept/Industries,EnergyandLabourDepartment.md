@@ -11,5 +11,9 @@
 - Regarding giving administrative approval to the proposal received under the Scheme for Creation and Development of Industrial Infrastructure in the State (2024-25)\
   [202410071137070710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071137070710.pdf)
 
+## Personnel
+- Regarding special reasons / mid-term transfer of the Industrial Inspector, Group-C cadre employees at the establishment of the Directorate of Industries.\
+  [202410081810393410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081810393410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

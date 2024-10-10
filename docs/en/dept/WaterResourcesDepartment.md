@@ -25,6 +25,12 @@
 - Administrative Approval under Extension and Improvement to Conversion Of  K.T.Weir into Barrage on Tawarj a River  Kavha K.t.weir Taluka Ausa  Dist. Latur .\
   [202410071816512627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071816512627.pdf)
 
+- Policy for development of Small Hydro Power Projects (SHPs) / co-located hydro-solar hybrid projects through private sector participation on Build, Operate, and Transfer (BOT) basis.\
+  [202410081454539927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081454539927.pdf)
+
+- Bhagpur Upsa Irrigation Scheme Dist. Jalgaon regarding granting first revised administrative approval to the scheme\
+  [202410081630006727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081630006727.pdf)
+
 ## Miscellaneous
 - Extended Tembhu Upsa Irrigation Scheme Phase No.6 of the project Swargiya Anilbhau Babar Extended Tembhu Upsa Irrigation Scheme Phase No. 6 regarding naming.\
   [202410071248460427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071248460427.pdf)
@@ -104,6 +110,18 @@
 
 - Regarding extension of the posts on fixed temporary establishment in the office of Executive Director, Vidarbha Irrigation Development Corporation, Nagpur from 01.09.2024 to 28.02.2025.\
   [202410071754401627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071754401627.pdf)
+
+- Regarding posting of officers in the cadre of Superintending Engineer (Civil)...\
+  [202410081904543627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081904543627.pdf)
+
+- Regarding the extension of time for the posts of Superintending Engineer and Administrator, Beneficiary Development Authority, Ahmednagar in fixed temporary establishment for the period dated 01/09/2024 to 28/02/2025.\
+  [202410081900016127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081900016127.pdf)
+
+- Regarding the extension of tenure of the posts on fixed temporary establishment in the office of Chief Accounts Inspector, Water and Irrigation, State of Maharashtra, Chhatrapati Sambhajinagar for the period from 01/09/2024 to 28/02/2025.\
+  [202410081551329827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081551329827.pdf)
+
+- Gadchiroli Irrigation Division under Superintending Engineer, Chandrapur Irrigation Project Board, Chandrapur, Gadchiroli Sub-Irrigation Sub-Division, Chamorshi and Irrigation Branch Office regarding extension of fixed temporary establishment from 01.09.2024 to 28.02.2025.\
+  [202410081854226127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081854226127.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

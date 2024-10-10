@@ -16,6 +16,15 @@
 - Regarding giving administrative approval for incentive financial support for the production of C rated quality Marathi films.\
   [202410071508161223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071508161223...pdf)
 
+- Taltam Fort, Jinjala, Sillod, Dist. Regarding giving administrative approval to the budget for preservation and repair work of Chhatrapati Sambhajinagar State Protected Monument.\
+  [202410081533030223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081533030223.pdf)
+
+- Regarding financial approval for the expenditure incurred for conducting training workshop on Science of Records Management through the office of Directorate of Archives, Mumbai during the financial year 2024-25...\
+  [202410081232379323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081232379323.pdf)
+
+- Regarding announcing the names of State Level and District Level Prize Winners of Public Ganeshotsav Mandals in Public Ganeshotsav Competition-2024...\
+  [202410081229102323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081229102323.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Vice Chairman on the Board of Directors of Maharashtra Film, Theater and Cultural Development Corporation Limited, Dadasaheb Phalke Chitranagari.\
   [202410071508277023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071508277023.pdf)
@@ -34,6 +43,9 @@
 
 - Regarding approval of selection of service provider organization for outsourcing of vacant posts in Directorate of Archeology and Museums...\
   [202410071225590723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071225590723.pdf)
+
+- Regarding the financial approval of the expenditure incurred for conducting 7 Modi script training classes in 7 Revenue Departments in the financial year 2024-25 through the Office of the Directorate of Archives, Mumbai...\
+  [202410081232250023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081232250023.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

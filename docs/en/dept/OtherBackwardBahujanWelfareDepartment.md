@@ -10,6 +10,27 @@
 - Regarding administrative approval and disbursement of funds for works in Nanded district for the year 2024-25 under Vasantrao Naik Tanda Vasti Improvement Scheme.\
   [202410071827000334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071827000334.pdf)
 
+- Regarding providing post-action approval and funds to the proposal of 905 individual Gharkul beneficiaries in Chandrapur district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202410081840456334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081840456334.pdf)
+
+- Regarding establishment of Sant Shree Santaji Maharaj Economic Development Corporation Subsidiary under Maharashtra State Other Backward Classes Finance and Development Corporation.\
+  [202410081851329834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081851329834.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 425 individual Gharkul beneficiaries in Kolhapur district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202410081838135034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081838135034.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 92 individual Gharkul beneficiaries in Amravati district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202410081843090834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081843090834.pdf)
+
+- Regarding the establishment of Vasantrao Naik Institute of Research and Training (Vanarti), an autonomous body\
+  [202410081218513634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081218513634.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 1953 individual Gharkul beneficiaries in Chhatrapati Sambhajinagar district under Punyashlok Ahilyadevi Holkar Gharkul Yojana.\
+  [202410081844539634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081844539634.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 354 individual Gharkul beneficiaries in Nagpur district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202410081835480334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081835480334.pdf)
+
 ## Miscellaneous
 - Regarding selection of schools under the scheme to educate the students of Dhangar community belonging to Nomadic Tribe-C category in reputed English medium residential schools in cities. Horizon Establishment Ambejogai, Pt. Ambejogai, Dist. Beed Conducted Kai.Amdar Vasantrao Kale Public School, Waghala, Tt. Ambejogai, Dist. Beed\
   [202410071638513634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071638513634.pdf)

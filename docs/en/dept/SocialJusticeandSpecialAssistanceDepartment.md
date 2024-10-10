@@ -64,6 +64,19 @@
 - Regarding approval of works in Nashik district for the year 2024-25 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Yojana.\
   [202410071943360422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071943360422.pdf)
 
+- Bharat Ratna Dr. Regarding approval of works in Chandrapur district for the year 2024-25 under Babasaheb Ambedkar Social Development Scheme.\
+  [202410081827418522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081827418522.pdf)
+
+- Regarding disbursement of funds in the financial year 2024-25 for the Centrally Sponsored Restructured National Gram Swaraj Abhiyan scheme. Central Share 60 percent (Account Head 2053A556) State share 40 percent (account head 2053A565)\
+  [202410081524509922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081524509922.pdf)
+
+## Miscellaneous
+- Old pension scheme on Central Govt lines applicable to Government officers/employees who joined the Government service on or after 01.11.2005, who have been issued recruitment advertisement/notification before 01.11.2005 on the establishment of Commissioner, Social Welfare, Pune about doing\
+  [202410081929266722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081929266722.pdf)
+
+- Regarding change in posting of Mrs. Harshada Ramakrishna Badgujar on promotion to Assistant Commissioner, Social Welfare and equivalent Group-A cadre ....\
+  [202410081924361222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081924361222.pdf)
+
 ## Personnel
 - Regarding administrative/request transfer of Social Welfare Officers, Group-A and Group-B cadre officers on the establishment of Commissioner, Social Welfare, Pune.\
   [202410071953535622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071953535622.pdf)

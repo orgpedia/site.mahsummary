@@ -10,5 +10,8 @@
 - Government Circular-Sant Sewalal Maharaj Banjara/Laman Tanda Prosperity Scheme.\
   [202410071540286820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071540286820.pdf)
 
+- Accoring Revised Administrative Approval to construction of Government residential Quarters for Class-4 Employees (Type-I) for  Panchayat Samiti Parbhani (Dist. Parbhani)\
+  [202410081230120120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081230120120.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
