@@ -1,127 +1,106 @@
 # Water Resources Department
 
-**Date Range**: 07 October 2024 - 12 October 2024
+**Date Range**: 14 October 2024 - 19 October 2024
 
 
 ## Funds
-- Administrative Approval under Extension and Improvement to Conversion Of  K.T.Weir into Barrage on Tawarj a River  Umbadga  K.t.weir Taluka Ausa  Dist. Latur\
-  [202410071814076027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071814076027.pdf)
+- Punand Project Kalawan Distt. Administrative approval under special amendment to the work budget for increasing the carrying capacity of Chankapur Right Canal under Nashik.\
+  [202410151559359927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151559359927.pdf)
 
-- Regarding the cancellation of the administrative approval granted to the pilot Bhumigat Char Yojana for the improvement of saline degraded areas in 5 villages Kavthe Piran, Urun Islampur, Ashta, Kasbe Digraj and Borgaon in Sangli district.\
-  [202410071808325027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071808325027.pdf)
+- Administrative Approval Under Extension and Improvement to Conversion of Conventional Canal system into Pipe distribution Network of Nandval M.I. Project Taluka Koregaon Dist Satara.\
+  [202410151601316527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151601316527.pdf)
 
-- Regarding providing administrative approval for the work of 10 Chain Dam on Purna River..\
-  [202410071235228827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071235228827.pdf)
+- Administrative Approval under Special Repairs to lining and various  canal structures of Dimbhe Left Bank Canal km o to km 55.\
+  [202410151244132327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151244132327.pdf)
 
-- Regarding approving the revival of the fragmented tender of the project Kikvi Drinking Water Project, District Bramhanwade, District Trimbakeshwar, District Nashik as per the original terms and conditions.\
-  [202410071244016627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071244016627.pdf)
+- Regarding granting first amended administrative approval to the project of connecting Bangaon Kherde Local Nala to Bangaon Bakra Nadi Bharan Canal Longe and Kherdenala to Bangaon Nala at Chalisgaon District Jalgaon.\
+  [202410151648590727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151648590727.pdf)
 
-- Regarding granting administrative approval to pilot underground grazing scheme for improvement of saline and wetland areas in villages Nandani, Alas, Shirti, Umalwad, Hasur, Shedshal, Bastwad in Shirol taluka.\
-  [202410071805351727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071805351727.pdf)
+- Renapur  Sudha B.L.P. Project h. Bhokar District Nanded regarding giving first amended administrative approval to the special amendment proposal to increase the height of the project by 1.10 m.\
+  [202410151821169327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151821169327.pdf)
 
-- Administrative Approval under Extension and Improvement to Conversion Of  K.T.Weir into Barrage on Tawarja River Peth   K.t.weir Taluka Ausa  Dist. Latur\
-  [202410071819457427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071819457427.pdf)
+- Ashti Upsa Irrigation Scheme, Mohol, Dist. Solapur project Rs. 722.19 crore regarding approval of third revised administrative report.\
+  [202410141757221227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141757221227.pdf)
 
-- Administrative Approval under Extension and Improvement to Conversion Of  K.T.Weir into Barrage on Tawarj a River  Kavha K.t.weir Taluka Ausa  Dist. Latur .\
-  [202410071816512627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071816512627.pdf)
+- Guidelines regarding the work to be done through the Mechanics Association.\
+  [202410141658108727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141658108727.pdf)
 
-- Policy for development of Small Hydro Power Projects (SHPs) / co-located hydro-solar hybrid projects through private sector participation on Build, Operate, and Transfer (BOT) basis.\
-  [202410081454539927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081454539927.pdf)
+- Committee for procurement under Water Resources Department, Consolidation of Government Decisions etc.\
+  [202410141655297827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141655297827.pdf)
 
-- Bhagpur Upsa Irrigation Scheme Dist. Jalgaon regarding granting first revised administrative approval to the scheme\
-  [202410081630006727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081630006727.pdf)
+- Regarding grant of revised administrative approval for Koyna Hydroelectric Project Phase-IV IV\
+  [202410151328257427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151328257427.pdf)
+
+- Jalka Jagtap T. Chandur Railway, Dist. Amravati - Regarding giving first amended administrative approval under special amendment to budget of Minor Irrigation Project.\
+  [202410141322163327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141322163327.pdf)
+
+- Under the project of the Water Resources Department, the pre-transfer canal rehabilitation works are to be carried out through the concerned Water Users Association as per the joint inspection with the Water Users Association.\
+  [202410141622404427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141622404427.pdf)
+
+- Regarding grant of administrative approval to Damanganga-Ekdare-Godavari river linking project.\
+  [202410141841264227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141841264227.pdf)
+
+- Regarding giving administrative approval to budget for preparation of remaining survey, concept and detailed project report of Dhanora Project (Dhanora Barrage and Dhanora-2 Upsa Sanchan Yojana) on Wardha River.\
+  [202410151251264627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151251264627.pdf)
+
+- Regarding grant of First Revised Administrative Approval to the scheme of release of water from Hivara Canal Distribution No.3 to Arve Pazar Lake through Joad Canal, Pachora District, Jalgaon.\
+  [202410151651256527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151651256527.pdf)
+
+- Regarding grant of administrative approval to Damanganga-Vaitrana-Godavari river linking project.\
+  [202410141844148027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141844148027.pdf)
+
+- Regarding granting first amended administrative approval to the scheme of filling Pazhar Talav Wadi-2 through Bharan Canal from L.P.Talav Sarve Sub-district Pachora Dist.Jalgaon.\
+  [202410151653105527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151653105527.pdf)
 
 ## Miscellaneous
-- Extended Tembhu Upsa Irrigation Scheme Phase No.6 of the project Swargiya Anilbhau Babar Extended Tembhu Upsa Irrigation Scheme Phase No. 6 regarding naming.\
-  [202410071248460427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071248460427.pdf)
+- Appointment of Member on Maharashtra Krishna Valley Development corporation Shri. Manikrao Sonavalkar\
+  [202410141639468827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141639468827.pdf)
+
+- Regarding acceptance of recommendation submitted by committee, constituted to study flood situations in Bhima Basin caused due to flood in year 2019 and suggest solutions for the same\
+  [202410151604169727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151604169727.pdf)
+
+- Krishna Project, Dist. Regarding the approval of re-water planning of the project Satara.\
+  [202410151254566327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151254566327.pdf)
+
+- to private sub-irrigation schemes Regarding extension of time.\
+  [202410151800060527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151800060527.pdf)
+
+- Technical Guidelines for desilting and removal of sludge from notified river which flow through urban flood prone areas of Maharashtra.\
+  [202410151628471027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151628471027.pdf)
 
 ## Personnel
-- Executive Engineer, Vishnupuri Project Division No.2, Nanded and Executive Engineer, Lendi Project Division, Deglaur and Sub-Divisional Office under Superintending Engineer, Nanded Irrigation Board, Nanded for 338 posts on fixed temporary establishment and 5 posts on converted temporary establishment dated 01/09 /2024 to 28/02/2025 regarding extension of time.\
-  [202410071746072227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071746072227.pdf)
+- Guidelines to Levy and collect the water changes of Water Resources Department, Also to provide technical guidelines and recommendation to increase water recovery.\
+  [202410151633369927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151633369927.pdf)
 
-- Administrative Approval under Extension and Improvement to Conversion Of  K.T.Weir into Barrage on Tawarja River  Hasala   K.t.weir Taluka Ausa  Dist. Latur\
-  [202410071823140927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071823140927.pdf)
+- Low Terana Upsa Irrigation Scheme Phase no. 1 to 5 Administrative approval for special repair work of structural mechanical and electrical repairs and other ancillary works for smooth functioning of the scheme.\
+  [202410141324247927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141324247927.pdf)
 
-- Superintending Engineer under Chief Engineer, Water Resources Department, Konkan Region, Mumbai, South Konkan Irrigation Project Board, Sindhudurgnagari Executive Engineer under the Board, Sindhudurg Irrigation Project Construction Department, Charathe Sawantwadi Division, Tillari Main Dam Sub-Division, Tillarinagar Sub Division Regarding the extension of the posts on the establishment from 01.09.2024 to 28.02.2025.\
-  [202410071829538027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071829538027.pdf)
+- University of Pimpri Chinchwad Education Trust (Pimpri Chinchwad University), Mauje Sate Ta. Maval Dist. Bulk Water Entitlement proposal regarding reservation of water from Vadivale project to Pune.\
+  [202410151355470527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151355470527.pdf)
 
-- Regarding the extension of tenure of the post of Executive Engineer, Upper Panganga Project (Land) Division, Nanded and Sub-Divisional Office under the office of Superintending Engineer, Nanded Irrigation Board, Nanded on fixed temporary establishment from 01/09/2024 to 28/02/2025.\
-  [202410071743500627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071743500627.pdf)
+- Regarding the approval of proposal for increased water reservation for drinking from Bav river to Devrukh Nagar Panchayat under Maharashtra Suvarna Jayanti Nagrotthan Mahabhiyan Yojana (Bulk Water Entitlement)\
+  [202410141331021527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141331021527.pdf)
 
-- Regarding the extension of tenure of posts on fixed temporary and converted temporary establishment in the offices of the Superintending Engineer, Upper Penganga Mandal, Nanded and the Divisions and Sub-Divisions under his jurisdiction from 01/09/2024 to 28/02/2025.\
-  [202410071749320927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071749320927.pdf)
+- 4 Divisions and 19 Sub-Divisions under Superintending Engineer, Gosikhurd Upsa Irrigation Board, Ambadi (Bhandara) on fixed temporary establishment and converted temporary establishment posts of this office dt. 01.09.2024 to dt. Regarding extension upto 28.02.2025.\
+  [202410141650147127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141650147127.pdf)
 
-- Regarding the extension of tenure of the posts on fixed temporary establishment and converted temporary establishment in the department under Superintending Engineer and Administrator, Benefit Area Development Authority, Latur from 01.09.2024 to 28.02.2025.\
-  [202410071633104827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071633104827.pdf)
+- Pali Nagar Panchayat under Maharashtra Golden Jubilee Nagrotthan Mahabhiyan Sudhagad Dist. Raigad. Pali Ko for the proposed water supply scheme. W. Bulk Water Entitlement Proposal\
+  [202410141328011027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141328011027.pdf)
 
-- Regarding the extension of time for the posts on fixed temporary establishment and converted temporary establishment in Palkhed and Mula Irrigation Divisional Office under Superintendent Engineer and Administrator, Benefit Area Development Authority, Nashik for the period from 01/09/2024 to 28/02/2025...\
-  [202410071648071027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071648071027.pdf)
+- Pen Water Supply Scheme, Pen, Distt. Hetwane Medium Project for Raigad, Kamarli, Tt. Pen, Distt. Bulk Water Entitlement proposal for drinking from Raigad scheme\
+  [202410151353254827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151353254827.pdf)
 
-- Regarding getting extension of time for the posts on fixed temporary establishment and converted temporary establishment in the divisional office under Superintending Engineer, Kolhapur Irrigation Board, Kolhapur for the period from 01/09/2024 to 28/02/2025.\
-  [202410071632369527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071632369527.pdf)
+- Regarding the cancellation of appointment of candidates who have not joined the post of Assistant Engineer Grade-2 (Civil) Group-B (Gazetted) in the Maharashtra Engineering (Civil) Service Examination 2019.\
+  [202410141544307827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141544307827.pdf)
 
-- Regarding extension of the posts on fixed temporary establishment in the office of Chief Engineer, Water Resources Department, Nagpur from 01.03.2024 to 31.08.2024.\
-  [202410071756150127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071756150127.pdf)
+- Purak Yevla city water supply scheme under Maharashtra Golden Jubilee Urban Development Mission from Godavari left canal to Yesgaon. Regarding granting Bulk Water Entitlement for increased water reservation from Kopargaon source.\
+  [202410151757590827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151757590827.pdf)
 
-- Superintending Engineer under Chief Engineer Special Projects, Water Resources Division Amravati, Amravati Irrigation Project Board, Amravati and 3 Divisions and 12 sub-divisional offices under 344 fixed temporary establishment and 2 converted temporary establishment posts from 01.09.2024 to dt. Regarding extension of time till 28.02.2025.\
-  [202410071552371527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071552371527.pdf)
+- Regarding approval of Bulk Water Entitlement proposal for non-irrigated drinking water from Manjra River for Biloli Municipal Council Water Supply Scheme under Maharashtra Suvarna Jayanti Nagrotthan Mahabhiyan.\
+  [202410151357377027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151357377027.pdf)
 
-- Regarding the extension of tenure of posts on fixed temporary and converted temporary establishment in the offices of Superintending Engineer, Gosikhurd Project Board, Nagpur and the Divisions and Sub-Divisions under his jurisdiction from 01.09.2024 to 28.02.2025.\
-  [202410071758404527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071758404527.pdf)
-
-- Regarding extension of 30 posts of Chief Engineer and Chief Administrator, Benefit Area Development, Water Resources Department, Chhatrapati Sambhajinagar office on fixed temporary establishment for the period from 01/09/2024 to 28/02/2025...\
-  [202410071632555227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071632555227.pdf)
-
-- Regarding getting extension of fixed temporary and converted temporary posts in Superintending Engineer, Nanded Irrigation Board, Nanded and their subordinate divisional offices for the period from 01/09/2024 to 28/02/2025.\
-  [202410071633003127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071633003127.pdf)
-
-- Regarding getting extension of fixed temporary and converted temporary posts in Superintending Engineer, Thane Irrigation Board, Thane and their subordinate divisional offices for the period from 01/09/2024 to 28/02/2025.\
-  [202410071632502327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071632502327.pdf)
-
-- Superintending Engineer, Yavatmal Irrigation Project Board, 3 Divisions and Sub-Divisions under Yavatmal on fixed temporary establishment posts dt. Regarding sanctioning continuation from 1.09.2024 to 28.02.2025.\
-  [202410071804022527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071804022527.pdf)
-
-- Regarding granting extension of tenure of a total of 48 posts on fixed temporary establishment in the office of Chief Engineer, Water Resources Department, Konkan Region, Mumbai and Technical Cell (Water Planning), Konkan Region, Mumbai from 01.09.2024 to 28.02.2025.\
-  [202410071558476827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071558476827.pdf)
-
-- Superintending Engineer under Chief Engineer, Tapi Irrigation Development Corporation, Jalgaon, Dhule Irrigation Project Board, Executive Engineer under Dhule, Narmada Development Division, Nandurbar Division and 3 sub-divisions under it on assigned and converted temporary establishment posts from 01.09.2024 to 28.02. Regarding extension till 2025.\
-  [202410071827015027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071827015027.pdf)
-
-- Beneficiary Development Authority, Nagpur and under this Authority Executive Engineer, Irrigation Project Department, Nagpur for fixed temporary and converted temporary establishment posts dt. Regarding extension of time from 01.09.2024 to 28.02.2025\
-  [202410071222532027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071222532027.pdf)
-
-- Chief Engineer, Water Resources Division, Nagpur Under Superintending Engineer Chandrapur Irrigation Project Board, Chandrapur Executive Engineer, Gadchiroli Irrigation Division, Upsa Irrigation Sub-Division No.1 Gadchiroli sub-division Extension of fixed temporary establishment from 01.09.2024 to 28.02.2025 about giving.\
-  [202410071219550027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071219550027.pdf)
-
-- Post on promotion to the post of Executive Engineer (Electrical) in Water Resources Department.\
-  [202410071200235627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071200235627....pdf)
-
-- Regarding the extension of time for the posts of Superintendent Engineer and Administrator, Benefit Area Development Authority, Solapur and their subordinate Divisional Offices on fixed temporary establishment and converted temporary establishment for the period from 01/09/2024 to 28/02/2025.\
-  [202410071642337527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071642337527.pdf)
-
-- The posts on fixed temporary establishment of the office of Chief Engineer (Special Projects), Water Resources Department, Amravati, dt. 01. Regarding extension from 09.2024 to 28.02.2025.\
-  [202410071807026727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071807026727.pdf)
-
-- Superintending Engineer, Beed Irrigation Project Board, Parli Vaijnath and his subordinate Executive Engineer, Beed Irrigation Division, Beed and Lower Terna Canal Division No.2, Latur, Executive Engineer, Majalgaon Canal Division No.07, Gangakhed, on temporary and modified basis of these offices Posts on temporary establishment dt.01/09/2024 to dt. Regarding extension of time till 28/02/2025.\
-  [202410071752169727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071752169727.pdf)
-
-- Regarding the extension of time for the posts of Superintending Engineer, Sangli Irrigation Board, Sangli and their subordinate departmental offices on designated temporary establishment and on converted temporary establishment for the period from 01/09/2024 to 28/02/2025.\
-  [202410071632451627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071632451627.pdf)
-
-- Regarding extension of the posts on fixed temporary establishment in the office of Executive Director, Vidarbha Irrigation Development Corporation, Nagpur from 01.09.2024 to 28.02.2025.\
-  [202410071754401627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071754401627.pdf)
-
-- Regarding posting of officers in the cadre of Superintending Engineer (Civil)...\
-  [202410081904543627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081904543627.pdf)
-
-- Regarding the extension of time for the posts of Superintending Engineer and Administrator, Beneficiary Development Authority, Ahmednagar in fixed temporary establishment for the period dated 01/09/2024 to 28/02/2025.\
-  [202410081900016127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081900016127.pdf)
-
-- Regarding the extension of tenure of the posts on fixed temporary establishment in the office of Chief Accounts Inspector, Water and Irrigation, State of Maharashtra, Chhatrapati Sambhajinagar for the period from 01/09/2024 to 28/02/2025.\
-  [202410081551329827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081551329827.pdf)
-
-- Gadchiroli Irrigation Division under Superintending Engineer, Chandrapur Irrigation Project Board, Chandrapur, Gadchiroli Sub-Irrigation Sub-Division, Chamorshi and Irrigation Branch Office regarding extension of fixed temporary establishment from 01.09.2024 to 28.02.2025.\
-  [202410081854226127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081854226127.pdf)
+- First Revised Administrative Approval under Special Repairs to Conversion of K.T. Weir into Barrage of Vadapur K.T.Weir Taluka South Solapur Dist Solapur.\
+  [202410151557076327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151557076327.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

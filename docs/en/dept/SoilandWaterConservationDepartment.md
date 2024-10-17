@@ -1,34 +1,48 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 07 October 2024 - 12 October 2024
+**Date Range**: 14 October 2024 - 19 October 2024
 
 
 ## Funds
-- Distribution of funds under Special Component Scheme for Scheduled Caste category under Centrally Sponsored Pradhan Mantri Krishi Sinchai Yojana - Watershed Development Component 2.0.\
-  [202410071621443826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071621443826.pdf)
+- Regarding administrative approval to repair works of Percolation Tank Vidni Tal. Phaltan, Dist. Satara.\
+  [202410151838340326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151838340326.pdf)
 
-- Regarding the formation of a government level committee of Soil and Water Conservation Department for Tender Acceptance\
-  [202410071731320326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071731320326.pdf)
+- Fund distribution under GDGS scheme for Beed district\
+  [202410151235331726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151235331726.pdf)
 
-- Fund distribution under GDGS Scheme for Nashik district\
-  [202410071734595026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071734595026.pdf)
+- Fund distribution under GDGS scheme for Buldhana district\
+  [202410151832375526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151832375526.pdf)
 
-- To accord administrative approval to Percolation Tank Salshi (Powarwadi) Tal. Shahuwadi Dist. Kolhapur.\
-  [202410081901175526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081901175526.pdf)
+- Regarding administrative approval to repair works of Percolation Tank Adgoan nave and Percolation tank Adgoan june Tal.Dist. Nashik under Regional water conservation officer, Nashik.\
+  [202410151835590126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151835590126.pdf)
+
+- Regarding granting administrative approval to repair works of Storage tank Dhanora Dahigoan Tal. Tivsa Dist. Amravati\
+  [202410151713237726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151713237726.pdf)
+
+- Fund distribution under GDGS scheme for Ahmadnagar district\
+  [202410151233136226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151233136226.pdf)
+
+- Regarding granting administrative approval to repair works of P.T. Tank Patrewadi Tal. Atapadi, Dist. Sangli.\
+  [202410151840316126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151840316126.pdf)
+
+- Fund distribution under GDGS scheme for Satara district\
+  [202410151842495026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151842495026.pdf)
+
+- Fund distribution under GDGS scheme for Latur district\
+  [202410151237362826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151237362826.pdf)
+
+- Fund distribution under GDGS scheme for Solapur district\
+  [202410151239323026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151239323026.pdf)
+
+- Fund distribution under GDGS scheme for Yavatmal district\
+  [202410141527581426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141527581426.pdf)
+
+- Distribution of Share Capital Contribution for Maharashtra Water Conservation Corporation (Year 2024-25)\
+  [202410141522324626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141522324626.pdf)
 
 ## Miscellaneous
-- On appointment of Vasundhara Watershed Development Agency, Pune on contract basis for specific works.\
-  [202410071536083326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071536083326.pdf)
-
-- On contractual appointment to the post of Watershed Development Controller (for specified work) on the establishment of Vasundhara Watershed Development Agency, Pune.\
-  [202410071532581026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071532581026.pdf)
-
-- Regarding constituting a committee to suggest amendments to the Service Access Rules of the Soil and Water Conservation Department notified on 31/10/2019 and 24/06/2021.\
-  [202410081548247426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081548247426.pdf)
-
-## Personnel
-- To accord administrative approval to 7 MAMA talav in Armori taluka Gadchiroli district under Regional Water Conservation Officer, Soil and Water Conservation, Nagpur.\
-  [202410071728373426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071728373426.pdf)
+- Regarding granting administrative approval to 11 repair works of Regional water conservation officer, Soil and water conservation department, Nashik\
+  [202410151828534426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151828534426.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

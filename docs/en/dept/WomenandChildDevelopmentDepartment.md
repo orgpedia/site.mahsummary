@@ -1,34 +1,18 @@
 # Women and Child Development Department
 
-**Date Range**: 07 October 2024 - 12 October 2024
+**Date Range**: 14 October 2024 - 19 October 2024
 
 
 ## Funds
-- Regarding the sanction of Bhaubij Bhet amount for the financial year 2024-25 to Anganwadi Sevikas and Anganwadi Helpers under the Integrated Child Development Services Scheme.\
-  [202410071120310430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071120310430.pdf)
-
-- Regarding approval of procurement of child friendly furniture material for Anganwadi Centers under Integrated Child Development Service Scheme.\
-  [202410041805251530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041805251530.pdf)
-
-- Regarding approval of purchase of Pre School Education Kits (PSE Kits)  under Integrated Child Development Services Scheme.\
-  [202410041805111130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410041805111130.pdf)
-
-- Regarding disbursement of funds for the purchase of necessary items for the hostel of Mahatma Gandhi Administration Training Institute, Pune.\
-  [202410071834553730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071834553730.pdf)
+- Regarding approving the implementation of Media Plan of organizing exhibition along with production of exhibition based on Mukhyamantri Mazi Ladki Bahin scheme and other various schemes.\
+  [202410151032357730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151032357730.pdf)
 
 ## Miscellaneous
-- Regarding prescribing e-tendering process for supply of food grains and essential commodities of all government organizations working under Women and Child Development Department.\
-  [202410031948541630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410031948541630.pdf)
+- Regarding approval of admissibility of all service benefits to the officers/employees of the Maharashtra State Womens Commission in the same manner as per Maharashtra State Government employees.\
+  [202410141155145830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141155145830.pdf)
 
-- Regarding disbursement of funds under the centrally sponsored scheme Mission Vatsalya for the year 2024-25\
-  [202410081154132730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081154132730.pdf)
-
-- Regarding revised registration of child care NGOs working under the Juvenile Justice (Care and Protection of Children) Act, 2015.\
-  [202410081154060130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081154060130.....pdf)
-
-## Personnel
-- Ad hoc promotion of Shri.S.Waingde, District Women and Child Development Officer, Kolhapur regarding temporary regular promotion.\
-  [202410071835034330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071835034330.pdf)
+- Regarding appointment on deputation to the post of Child Development Project Officer (Gra), Dindori (Umrale)-2, Dist.Nashik Group-B (Gazetted) under Commissioner, Women and Child Development under Women and Child Development Department.\
+  [202410141938117430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141938117430.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

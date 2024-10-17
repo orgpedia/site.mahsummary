@@ -1,0 +1,2626 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>Weekly Summary: School Education and Sports Department </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-en.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                Weekly Summary: Maharastra GRs</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">Search</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="keywords" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en"selected>English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr">मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="Search...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          Latest Summary
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              Department-wise
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              District-wise
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">Archives</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    Disclaimer
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">Home</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2024-W42-summary.html">
+    <span class="cursor-pointer">Weekly Summary: Department-wise</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week 42</span>
+
+
+
+  </div>
+    <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('School Education and Sports Department', 28)">Subscribe</button>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">Weekly Summary: School Education and Sports Department</h2>
+			<span class="text-blue-500">
+			  Week 42: (14 October 2024 - 19 October 2024)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Funds </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding disbursement of funds under the Rajiv Gandhi Student Accident Relief Grant Scheme for the financial year 2024-25.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141937571421.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141937571421.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141937571421.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141937571421.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Approval of disbursement of funds for the campaign Chief Minister My School, Sundar School Phase-2- Year 2024-25</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs.6.47 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141910303321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141910303321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141910303321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141910303321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19. (Mr.) Rajendra Ramdas Patil, Deputy Teacher</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 50 lakh
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai, Nanded, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151152141221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151152141221.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151152141221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151152141221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding disbursement of funds for the organization of school and other sports competitions in the year 2024-25.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 12 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141347208321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141347208321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141347208321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141347208321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding giving administrative approval to the state of Baden Wuttenberg in Germany for the promotion of a pilot project for providing skilled manpower in various sectors in Maharashtra.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 5 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune, Ratnagiri, Sindhudurg, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141936243521.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141936243521.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141936243521.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141936243521.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding approving the incorporation of Maharashtra State International Employment and Skill Advancement Company under Section 8 of the Companies Act, 2013.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs.300 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141627373221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141627373221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141627373221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141627373221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the provision of funds as a special item under Bharat Ratna Dr. Babasaheb Ambedkar Adarsh School Scheme in the background of Marathwada Mukti Sangram - Amrit Mahotsav.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 95.00 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalna, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141624462421.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141624462421.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141624462421.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141624462421.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the grant of insurance cover/concessional assistance to the families of employees who died due to infection with Corona virus while performing the duties related to Covid-19. Kai (Mr.) Vinayak Vishnu Shelke, Associate Teacher,</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 50 lakh
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Osmanabad, Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151154250021....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151154250021.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151154250021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151154250021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Kisan Shikshan Prasarak Mandal, Borgaon-Kale Taluka District Latur regarding providing administrative approval for providing special grant for development of physical and educational facilities on the occasion of golden jubilee of the educational institution....</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 5.00 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151716266721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151716266721.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151716266721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151716266721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Personnel </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Maharashtra Education Service (Administrative Branch) Request for Transfer of Officers in Group-B- Deputy Educational Officers</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Latur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151551490021......pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151551490021.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151551490021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151551490021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Educational Society of India, Nagpur regarding relocation of National Public School, Vishwakarmanagar, Nagpur to Dabha Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141546530521.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141546530521.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141546530521.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141546530521.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of Jam Jam Urdu Primary School, Kiradpura, Chhatrapati Sambhajinagar to Hersul, Chhatrapati Sambhajinagar, operated by Kohetur Education and Welfare Society, Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152058388221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152058388221.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152058388221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152058388221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Islahul Amal Primary School and Ismahul Amal High School run by Momin Education Society, Mohalla Syedan, Nanded, MIDC of these schools. From CIDCO Nanded to Khudwainagar Bramhapuri, Distt. Regarding migration to Nanded.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai, Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141151249221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141151249221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141151249221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141151249221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Swami Vivekananda Institute Village Khed Distt. Regarding the transfer of management of Vivekananda Public School, Solapur to Farmer Development Society Dhanori District Dharashiv.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152116442521.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152116442521.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152116442521.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152116442521.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Kai Nivrittinath Shikshan Prasarak Mandal Bhakskheda District Latur Self-Managed. Dayanand Saraswati Secondary and Higher Secondary School, Bhakskheda District. Latur Higher Secondary School Kai. Regarding transfer of management to Nivrittinath Educational and Social Development Institute, Latur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151236085221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151236085221.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151236085221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151236085221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Young Engineers Education Society, Kurkheda District Gadchiroli Conducted Thorvi Arts and Science Junior College, Kurkheda, District Gadchiroli Junior College, Pragya Karuna Shil Prasarak Mandal, Kurkheda, Dist. Regarding transfer of management to Gadchiroli</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gadchiroli, Mumbai, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151623137521.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151623137521.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151623137521.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151623137521.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Nehru Education Society, Ner, District Yavatmal Conducted Nehru Junior College Ner, Dist. Yavatmal Junior College Dr. Regarding transfer of management to Zakir Hussain Education Society, Hanuman Nagar, Wardha.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Wardha, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152045081121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152045081121.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152045081121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152045081121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shivam Education Society, Distt. Chhatrapati Sambhajinagar Operated Daffodils English Primary School, Rokadia Hanuman Colony, Chhatrapati Sambhajinagar School Harsul Premises, Distt. Regarding migration to Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141522277921.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141522277921.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141522277921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141522277921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Jai Hanuman Multi-Purpose Social Charitable Institution, Khaiba (Khurd) Distt. Osmanabad Run Saint Mother Teresa Secondary School, Shelgaon (District) Dist.Osmanabad School, Kalamb Dist. Regarding migration to Osmanabad.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Osmanabad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141534292721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141534292721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141534292721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141534292721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding temporary shifting of MKES English School, Malad (W) Mumbai operated by Malad Kandivali Education Society, Mumbai to Sheth Devchand Jethlal Trust Building, Malad (E), Mumbai.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141525340321...pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141525340321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141525340321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141525340321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141828288221....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141828288221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141828288221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141828288221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sheth D of Sheth Nahalchand High School, Swami Vivekananda Road, Malad (W) Mumbai run by Malad Kandivali Education Society, Mumbai. J. Regarding temporary shifting to Trust Building Malad (East) Mumbai.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141528173121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141528173121.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141528173121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141528173121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">General instructions regarding appointment of part-time directors in upper primary schools in local self-government bodies.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Akola, Beed, Hingoli, Jalna, Latur, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141613019221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141613019221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141613019221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141613019221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sadanand Education Institute, Bhosari, Dist. Regarding relocation of Pune operated Excellent International School Borhadewadi, Moshi Dist.Pune to Hazarevasti, Moshi Dist.Pune.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141515316721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141515316721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141515316721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141515316721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Vidya Lakshmi Marathi Primary School Kiran Nagar, Amravati run by Vidya Lakshmi Shikshan Sanstha, Amravati regarding relocation of the school to Vilas Nagar premises, Amravati.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141537368621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141537368621.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141537368621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141537368621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Maharashtra Education Service (Administrative Branch) Request for Transfer of Officers in Group-B- Deputy Educational Officers</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151541016121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151541016121.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151541016121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151541016121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding temporary promotion to the post of Education Officer and similar in Maharashtra Education Service, Group-A (Administrative Branch)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151543498021.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151543498021.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151543498021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151543498021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Teacher Education Board, Dhule Conducted Education Maharishi Principal Bhaisaheb Go.Hu. Regarding relocation of Mahajan Gurukul Vidyalaya, Yashwant Nagar, Dhule to Panakhed District Dhule.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Dhule, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151222180721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151222180721.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151222180721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151222180721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfer of management of Manohar Kotwal Trust, Mumbai Managed Secondary School, Kannamwar Nagar-1, Mumbai to Khandesh Education Broadcasting Board, Devpur, Dhule.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Dhule, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141215083421.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141215083421.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141215083421.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141215083421.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of Manjusha Secondary School, Khamla Nagpur to Gandhinagar, Nagpur run by Manjusha Education Institute, Madhavnagar, Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141510234121...pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141510234121.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141510234121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141510234121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of St. Marys English Public School, Godhani Road, Nagpur run by Menon Trust, Nagpur to Mauja Ranala, Dahegaon (Rangari) District Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141532499721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141532499721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141532499721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141532499721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Nisargadeep Education Broadcasting Board Naiknagar, Distt. Chhatrapati Sambhajinagar operated by Shri. Tuljabhavani Arts, Commerce and Science Junior College Chittepimpalgaon Distt. Chhatrapati Sambhajinagar Junior College Group No. 15 Chittepimpalgaon, Dist. Regarding migration at Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141541017821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141541017821.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141541017821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141541017821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the transfer of management of Vidyavardhini Jnanpith Higher Primary School and Vidyavardhini Jnanpith Secondary School, Shivangaon Nagpur to Shree Mahaveer Education Society Nagpur run by Rukhmia Multipurpose Institution, Somalwada Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152048050021.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152048050021.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152048050021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152048050021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sabir Education Society Pusad Distt. Yavatmal Run Urdu Primary School Khandala St. Pusad, Distt. Yavatmal School, Pusad Dist. Regarding migration to Yavatmal.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141535558021.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141535558021.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141535558021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141535558021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Jivak Medicine Health Farmer Research Institute Pipri, Bhandara Operated Pranag Primary School Salebardi Distt. of School Bhandara, Salebardi (Rehabilitation) Distt. Regarding shifting to Bhandara.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Bhandara, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141539194521.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141539194521.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141539194521.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141539194521.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shree Venkatesh Education Society Hupari Distt. Kolhapur operated New High School Hupari Distt. Shri Venkatesh Mahila Shikshan Prasarak Mandal of School Kolhapur, Hupari Distt. Regarding the transfer of management to Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151226400621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151226400621.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151226400621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151226400621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Kai Regarding shifting of Matoshree Dhondyabai Mavalge Trust, Parbhani to Ka.Matoshree Dhondyabai Primary School, Parbhani to Loni District Parbhani.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Parbhani
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152056135721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152056135721.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152056135721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152056135721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shri Ranganath Maharaj Charitable Institution, Jintur, Distt. Parbhani Conducted Sanskar Primary School Jintur, Distt. Regarding transfer of management of school Parbhani to Jagadguru Sant Tukobarai Pratisthan, Parbhani.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Parbhani
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141219309221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141219309221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141219309221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141219309221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shree Vitthal Educational Multipurpose Education Broadcasting Board, Chincholi (N) Dist Chhatrapati Sambhajinagar Conducted by Shree Balaji Junior College, Babra Distt. Regarding transfer of management of Chhatrapati Sambhajinagar Junior College to Savitaben Education Society, Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141228177121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141228177121.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141228177121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141228177121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of Bodhisattva Pratishthan Chinchwad, Pune operated Raje Shivarai Vidyalaya, Gherapanwadi District Pune to Chovisavadi District Pune.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141513230221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141513230221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141513230221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141513230221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mohr Education Society, Kalyan (East) Conducted Gyanodaya Hindi Vidyalaya, Kalyan (East) Distt. Thane School, Titwala (East), Distt. Regarding shifting to Thane.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141621094621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141621094621.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141621094621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141621094621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Saqib Multipurpose Charitable Institution, Chhatrapati Sambhajinagar Run Marathwada Public Primary English School Dabhadi, Dist. Jalna School, Mahatma Phule Multipurpose Charitable Institution, Distt. Regarding transfer of management to Jalna.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalna
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141209252921...pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141209252921.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141209252921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141209252921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Arif Multipurpose Education Institute, Nagpur Run by Shahid Abdul Hameed Urdu Primary School, Azad Nagar, Distt. About Amravati school relocation to Navsari, Amravati.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151237580321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151237580321.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151237580321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151237580321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Raje Lakhujirao Jadhav Education Institute, Sindkhedaraja Dist. Buldana Operated Rajarshi Shahu Maharaj Primary School, Deulgaonraja Distt. Buldana School Rajureshwar Shikshan Prasarak Mandal, Takli Distt. Regarding transfer of management to Jalna.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Jalna, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152112476421.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152112476421.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152112476421.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152112476421.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shyamadevi Education Society, Kalyan (East), Dist. Thane Conducted by Pt. Ramsakal Hindi High School, Titwala (East) Distt. Shree Swami Samarth Education and Welfare Foundation of Thane School, Kalyan (W.) Distt. Regarding the transfer of management to Thane.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141622467721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141622467721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141622467721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141622467721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of Prahlad Education Board, Thane-run Adarsh Vidyalaya, Dombivali (East), Thane to Mu.Ujaini District Palghar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Palghar, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152127537021.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152127537021.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152127537021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152127537021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Gajanan Maharaj Education Institute, Amravati Conducted by Shri Gajanan Maharaj High School and Junior College New Congress Nagar, Wadali, Distt. Ideal Education Society of Amravati School, Dhanki Distt. Regarding the transfer of management to the organization Yavatmal</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141136025621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141136025621.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141136025621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141136025621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Jai Bhawani Education Broadcasting Board, Partur, Distt. Shivaji Vidyalaya operated by Jalna and Mrs. Draupadabai Akat Higher Secondary School, from Ambad Naka, Jalna to Satona Khurd, Distt. Partur, Distt. Regarding migration to Jalna.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalna, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141517296321...pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141517296321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141517296321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141517296321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Gurukul Education Broadcasting Board, Chhatrapati Sambhajinagar Conducted by Ka. Regarding relocation of Sahebrao Patil Sultanpurkar Vidyamandir, Chikalthana, Chhatrapati Sambhajinagar to Bhavsingpura, Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152104056821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152104056821.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152104056821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152104056821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Maharashtra Appropriation Act, 2024. Distribution of grant for the year 2024-2025</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151748288721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151748288721.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151748288721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151748288721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfer of management of Chhatrapati Shivaji Maharaj Memorial Committee Chinchwad, Pune run secondary school Chinchwad, Pune to Sadguru Bhagwan Baba Youth Welfare and Cultural Development Foundation, Pune</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151229070221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151229070221.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151229070221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151229070221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Gayatri Sevabhavi Sanstha, Arvi, Distt. Parbhani Run Jeevan Sanskar Vidyalaya, Karegaon Distt. Regarding shifting of Parbhani Higher Secondary School to Vasmat Road, Parbhani.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Parbhani
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152101279921.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152101279921.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152101279921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152101279921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sima Education and Welfare Society, Parbhani Science Junior College, Yusuf Colony Parbhani Junior College Rahmat Nagar Distt. Regarding shifting to Parbhani.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Parbhani
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151234130821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151234130821.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151234130821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151234130821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Friends Social Circle, Old City Akola run Mughal National Urdu Girls School, Akola and Hazrate Ayesha National Urdu Girls Junior College Art, Science Akola Higher Secondary School to Data Minority Educational and Welfare Organization, Akola regarding transfer of management.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Akola, Amravati, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152110046821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152110046821.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152110046821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152110046821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">(1) To increased stage of grant to primary, secondary and higher secondary schools approved on permanent non-subsidy basis and to which the word permanent is omitted (other than English medium) which are eligible for grant and are receiving Grant-in-Aid in various subsidy phase (2) which are in error and (3) Eligibility of non-notified schools/units for grant (4) To sanction Grant in Aid  for hilly area and (5) Sanctioning additional Grant-in-Aid of grant to additional units of military schools. ..</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Jalna, Mumbai, Nashik, Pune, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141842022221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141842022221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141842022221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141842022221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfer of management of Gaikwad Olympiad School, Chhatrapati Sambhajinagar run by Jagdamba Institute of Education, Chhatrapati Sambhajinagar to Gaikwad Education Broadcasting Board, Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141140264821...pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141140264821.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141140264821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141140264821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Dhanaji Nana Vidya Prabodhini, Jalgaon Conducted Secondary School, Shahu Nagar, Jalgaon, MIDC. Regarding migration from Kusumba area Jalgaon.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152054039821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152054039821.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152054039821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152054039821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of New Cabrees English School, Dombivli operated by KSC Education Society, Dombivli to Nandivli Pada, Dombivli (East).</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151224220021.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151224220021.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151224220021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151224220021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding shifting of Rohan Higher Primary School, Manewada Road, Nagpur to Timki Road, Nagpur run by Shriram Swami Shikshan Sanstha, Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141148077921.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141148077921.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141148077921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141148077921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Dhanalakshmi Multipurpose Charitable Institution, Rui Distt. Regarding transfer of management of Kamla Nehru Junior College, Latur to Kurane Education Society, Latur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152107303321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152107303321.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152107303321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152107303321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shri.Govindeshwar Education Broadcasting Board, Nanded Conducted by Shri. Regarding relocation of Govindeshwar Primary School, Samthargarh, Nanded to Ahilya Devi Holkar Nagri, Taroda (B.), Nanded.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151201054421.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151201054421.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151201054421.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151201054421.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Omkar Education Society, Panvel Distt. Raigad Operated Guru School, Kamothe Distt. Raigad School Taloja Distt. Regarding migration to Raigad.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141230413221.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141230413221.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141230413221.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141230413221.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Shree Venkatesh Education Society Hupari Distt. Kolhapur Operated Hupari Vidyamandir, Hupari Dist. Shri Venkatesh Mahila Shikshan Prasarak Mandal of School Kolhapur, Hupari Distt. Regarding the transfer of management to Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151231482521.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151231482521.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151231482521.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151231482521.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Tribal Rural Life Development Education Institute, Karpada Dist. Gadchiroli operated by Ka. Hariji Vithuji Secondary School Rangi Distt. Nalanda Multipurpose Education Institute of Gadchiroli School, Gewardha Distt. Regarding transfer of management to Gadchiroli.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gadchiroli, Mumbai, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141222533621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141222533621.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141222533621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141222533621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the transfer of management of Satyam Shivam Sundaram Cultural Institution, Tadsonna, Dist. Beed to Yasodeep Public School, Fort Dharur Dist.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Beed, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141200480821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141200480821.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141200480821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141200480821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sharad Rural Development Multipurpose Education Institute, Deoli Distt. Wardha Run Diamond English School, Bhosa Road, Dist. Tamir-e-Ummat Multipurpose Society of Yavatmal School, Bhosa, Distt. Regarding the transfer of management to the organization Yavatmal.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Wardha, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410152040409321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410152040409321.pdf">202410152....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152040409321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410152040409321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sri.Chakradhar Swami Shikshan Prasarak Mandal Lonkheda Run Secondary School, Avge Junwane, Distt. Nandurbar School, Shahada, Distt. Regarding migration to Nandurbar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nandurbar, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151219400121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151219400121.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151219400121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151219400121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of Ramlila Convent High School, Narsala Road, Nagpur to Janki Nagar, Nagpur operated by Ai Bhavani Multipurpose Education Institute, Adarsh Nagar, Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141154014721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141154014721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141154014721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141154014721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding relocation of Mount Dale School, Kasarasai District Pune operated by Phoenix Multipurpose Social Institution, Balewadi District Pune.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141156205921.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141156205921.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141156205921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141156205921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the transfer of management of Noor Urdu Primary School, Pobaru Nagar, Yavatmal to Ideal Education Society, Dhanki District Yavatmal, run by Noor Multipurpose Womens Education Institute, Rani Amravati, District Yavatmal.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141158326321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141158326321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141158326321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141158326321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Gajanan Education Institute, Vadki Distt. Middle School for Girls run by Yavatmal, Vadki, Distt. Ambedkar Prabodhan Foundation of Yavatmal School, Maregaon, Distt. Regarding the transfer of management to the organization Yavatmal.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141144517921.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141144517921.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141144517921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141144517921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Nitiniketan Benevolent Society Sonkhed Distt. Nanded Run Sant Gadgebaba Junior College, Sonkhed Distt. Regarding the transfer of management of Junior College, Nanded, to Pragya Surya Shikshan Sanstha, Sahyognagar, Nanded.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai, Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141217201921.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141217201921.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141217201921.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141217201921.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Transfer your request from Maharashtra Education Service Administration Branch (Group-B)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Ratnagiri, Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151549259621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151549259621.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151549259621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151549259621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Human Welfare Society, Yavatmal Run Urdu High School Pobaru Nagar, Ideal Education Society of the school Yavatmal, Dhanki Distt. Regarding the transfer of management to the organization Yavatmal.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141138351721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141138351721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141138351721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141138351721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfer of management of Sriram Multipurpose Education Institution, Murmadi (Savari) Dist.Bhandara to Saraswati Primary School, Pavani Dist.Bhandara to Chandravandana Multipurpose Education Institution Pavani Dist.Bhandara.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Bhandara, Mumbai, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141225391321.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141225391321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141225391321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141225391321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sant Geeta Mata Shikshan Sanstha, Kasturba Nagar Nagpur operates Sant Geeta Primary School, Pardi Dist. Transfer of management of this school, Nagpur to Shri Mahavir Education Society, Nagpur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151216480121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151216480121.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151216480121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151216480121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Sania English Primary School, Garkheda Campus, Chhatrapati Sambhajinagar run by Maharashtra Kala Bharti and Medical Services Board, Chhatrapati Sambhajinagar regarding the transfer of management of the school to Anusaya Devi Education Broadcasting Board, Chhatrapati Sambhajinagar.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141142444321...pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141142444321.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141142444321.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141142444321.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Miscellaneous </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding reforming the policy of military schools in the state.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141804007721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141804007721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141804007721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141804007721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">State Council of Educational Research and Training, Maharashtra, regarding financial and administrative approval for purchase of 550 new computers and 64 scanners at Pune.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151916379121.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151916379121.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151916379121.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151916379121.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the constitution of a committee to make recommendations regarding the issue of contractual employees under the Samagra Shiksha Yojana</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141749012721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141749012721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141749012721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141749012721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the implementation of Pradhan Mantri Poshan Shakti Nirman Yojana in urban areas Schools.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141809517721.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141809517721.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141809517721.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141809517721.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the creation of a total of 23 teaching posts in the regular pay scale out of a total of 8 additional batches sanctioned to Sainik Schools for tribal children in class 11th and next year a batch of class 12th.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Aurangabad, Beed, Buldhana, Dhule, Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141600537821.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141600537821.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141600537821.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141600537821.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Maharashtra State Sports Policy, 2012 Scheme to felicitate international medal winning athletes and their sports mentors in the state by giving cash prizes...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151446586621.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410151446586621.pdf">202410151....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151446586621.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410151446586621.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 15 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding promotion to Superintendent and similar cadre in General State Service, Group-B (Administrative Branch).(Selection List 2022-23)</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141531052021.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202410141531052021.pdf">202410141....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141531052021.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/School_Education_and_Sports_Department/202410141531052021.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 14 Oct 2024</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-en.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">Disclaimer</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=Weekly Summary: School Education and Sports Department">Report an Error</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">View on GitHub</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>

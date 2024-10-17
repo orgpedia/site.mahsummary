@@ -1,181 +1,136 @@
 # Revenue and Forest Department
 
-**Date Range**: 07 October 2024 - 12 October 2024
+**Date Range**: 14 October 2024 - 19 October 2024
 
 
 ## Funds
-- Allocation of grants for civic amenities works in rehabilitated villages in Kalamnuri talukas of Hingoli District under upper Painganga Project\
-  [202410081304477519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081304477519.pdf)
+- Sanctioning the officers of various Regional offices under Collector, latur to purchase new  vehicles in exchange of their old 09 registered vehicles.\
+  [202410141625137919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141625137919.pdf)
 
-- Regarding grant of administrative approval to civil facility works in flood rehabilitated villages in Parbhani district.\
-  [202410081825099419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081825099419.pdf)
+- Regarding disbursement of funds for civic amenities works in villages affected by heavy rains/floods and rehabilitated in Nanded district.\
+  [202410151410043919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151410043919.pdf)
 
-- Allocation of grants for civic amenities works in rehabilitated villages in Naigaon Taluka of Nanded District\
-  [202410081252216319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081252216319.pdf)
+- Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
+  [202410141500078019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141500078019.pdf)
 
-- Regarding granting administrative approval to the budget of Dongrai Pilgrimage Nature Forest Tourism Development Works.\
-  [202410071758128619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071758128619.pdf)
+- Regarding giving administrative approval to development works in Patan Taluk under Koyna Earthquake Rehabilitation Fund Committee....\
+  [202410151145324819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151145324819.pdf)
 
-- Regarding granting administrative approval for the cost of imparting training on disaster management and preparedness in secondary and higher secondary schools of 9th to 12th standard in government and aided schools of the state under the funds received for pre-preparedness and capacity building.\
-  [202410071600182719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071600182719.pdf)
+- For construction of new entrance plaza and parking space at Balasaheb Thackeray Gorewada International Zoo, Nagpur Rs. 40.76 crores regarding granting administrative approval to the budget.\
+  [202410141342401719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141342401719......pdf)
 
-- Allocation of grants for civic amenities work in rehabilitated villages Kolegaon in Mohol taluka and Narayan Chincholi in Pandharpur taluka of Solapur district under Ujani Project\
-  [202410081254103519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081254103519.pdf)
+- Mauje Parmachi, District Mahad, Distt. Regarding the issue of government circular in pursuance of the proposal received from District Disaster Management Authority, District Raigad-Alibagh for rehabilitating village Raigad and providing civic amenities.\
+  [202410151732465019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151732465019.pdf)
 
-- Hyderabad Bounty Abolition and Abolition of Cash Grants (Amendment) Ordinance, 2024 (Maharashtra Ordinance No. 8 of 2024) - Amendment made to Section 2(a) and Section 6 of the Hyderabad Bounty Abolition and Abolition of Cash Grants Act, 1954\
-  [202410081644425919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081644425919.pdf)
+- Mauje Irshalwadi, Regarding provision of administrative approval and funds for electrification work at temporary shelter center for the survivors of landslide due to heavy rains at Khalapur.\
+  [202410151137326919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151137326919.pdf)
 
-- To provide administrative approval for civic amenities works in rehabiliatated villages in Daund Taluka of Pune District\
-  [202410081259504919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081259504919.pdf)
+- Regarding giving administrative approval for the construction of new building of the office of Joint Sub-Registrar Class-2, Achalpur, District-Amravati.\
+  [202410141613131819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141613131819......pdf)
 
-- Allocation of grants for civic amenities work in rehabilitated village Kolegaon in Mohol taluka of Solapur district under Ujani Project\
-  [202410081256263319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081256263319.pdf)
+- Annual Plan Year 2024-25 Empowerment of Mobile Squad under State Level Scheme (2406 2161) Regarding purchase of 4 new vehicles of same type instead of 4 vehicles recorded in Nashik Forest Gazette under this scheme.\
+  [202410151646119919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151646119919.pdf)
 
-- Regarding giving administrative approval to development works in Satara Taluk under Koyna Earthquake Rehabilitation Fund Committee....\
-  [202410081230100619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081230100619.pdf)
+- Regarding disbursement of funds for civic amenities works in villages affected by heavy rains/floods and rehabilitated in Nanded district.\
+  [202410151407386919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151407386919.pdf)
 
-- To provide administrative approval for civic amenities works in rehabiliatated villages in Daund Taluka of Pune District\
-  [202410081258173719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081258173719.pdf)
+- Regarding disbursement of funds for digitization of land survey maps of remaining 28 districts of the state.\
+  [202410141819070319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141819070319.pdf)
 
-- Regarding disbursement of funds to District Disaster Management Authority. (Phase-2)\
-  [202410081206287419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081206287419.pdf)
+- Regarding disbursement of funds under the State Scheme Development of Nature Tourism Site (2406-2295) for the year 2024-25.\
+  [202410142121147519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410142121147519.pdf)
 
-- Regarding giving administrative approval to the budget for the construction of a new Forest Rest House and Dormitory at Mahur District, Mahur District, Nanded.\
-  [202410071755372819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071755372819.pdf)
+- Balasaheb Thackeray Gorewada International Zoo, Nagpur for certain works under the African Safari component Rs. 214.91 crore regarding granting administrative approval to the budget.\
+  [202410141340321819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141340321819.....pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval for disaster mitigation works. Public Works Department, Gondia. Dist. Gondia (2/2)\
-  [202410071252114619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071252114619.pdf)
+- Mr. Ramesh Yashwant Lidde, Treasury Officer, Sangli Associate Professor (Computer), Kundal Development Administration and Management Prabodhini, Kundal, Distt. Regarding appointment on deputation to the post of Sangli.\
+  [202410141228384419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141228384419....pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Sengaon, Public Works Department Hingoli, District Hingoli. (3/3)\
-  [202410071215256419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071215256419.pdf)
+- Forest Land-Thane  Palghar Diversion of 4.7083 ha. out of total 13.7243 ha. Reserved Forest, Private Mangrove, Protected Forest  Notified Mangrove land in favour of DFCCIL/Mumbai (South) for Construction of Western dedicated freight corridor (WDFC) double line Railway tracks from JNPT (Maharashtra) to Dadri (UP), in Thane  Palghar Districts in the State of Maharashtra.\
+  [202410141237371119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141237371119.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works Zilla Parishad, Nagpur. (3/3)\
-  [202410071913572919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071913572919.pdf)
+- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Work, Dist. Nashik, Water Resources Department)(4/5)\
+  [202410141838113719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141838113719.pdf)
 
-- Regarding extension for one year to the posts of 34 Office Assistants (IT Assistants) working in all districts except Mumbai City and Mumbai Suburbs.\
-  [202410081212343819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081212343819.pdf)
+- Regarding changing the designation of Senior Clerk Group-C post in the Regional Office under Revenue Department to Assistant Revenue Officer...\
+  [202410141606337819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141606337819.....pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Amalner, Dist. Jalgaon, (Water Resources Department (Low Thermal Project, Amalner), Dist. Jalgaon) (1/2)\
-  [202410071244460419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071244460419.pdf)
+- Regarding changing the designation of the post of Talathi in the Revenue Department to Village Revenue Officer.\
+  [202410141557463919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141557463919.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Malegaon, Dist. Nashik, (Zilla Parishad, Minor Irrigation Department, Nashik) (1/3)\
-  [202410071306016119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071306016119.pdf)
+- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Work, Dist. Khamgaon, Dist. Buldhana, Water Resources Department) )(2/5)\
+  [202410141832527619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141832527619.pdf)
 
-- Regarding giving administrative approval to development works in Jawli Taluk under Koyna Earthquake Rehabilitation Fund Committee....\
-  [202410081231156719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081231156719.pdf)
+- Balasaheb Thackeray regarding implementation of African Safari Project at Gorewada International Zoo, Nagpur.\
+  [202410141336506519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141336506519.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Jamner, Raver, Dist. Jalgaon, (Public Works Department, Dist. Jalgaon) (2/2)\
-  [202410071246430619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071246430619.pdf)
+- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, District Amravati City, Public Works Department)(1/5)\
+  [202410141830067619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141830067619.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Malegaon, Dist. Nashik, (District Soil and Water Conservation Department, Nashik) (2/3)\
-  [202410071303261419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071303261419.pdf)
+- State Plan Year 2024-25 Current Affairs Proposal under Strengthening of State Biodiversity Board (2406 8696).\
+  [202410141125327019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141125327019.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood / Drought Prevention Works Irrigation and Hydropower Projects Investigation Department, Nagpur Distt. Nagpur. (2/3)\
-  [202410071917337819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071917337819.pdf)
+- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Work, Dist. Sonpeth, Dist. Parbhani, Water Resources Department)(3/5)\
+  [202410141835595419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141835595419.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Public Works Department, Dist. Chandrapur. (3/3)\
-  [202410071238226719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071238226719.pdf)
+- Heavy rains/floods affected and rehabilitated Mauje Chendkapur t. Hadgaon District Regarding disbursement of funds for civic amenities works at Nanded.\
+  [202410151412129819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151412129819.pdf)
 
-- Regarding giving Extension to total 42 contract posts including 06 posts of Divisional Disaster Management Coordinators and 36 posts of District Disaster Management Officers.\
-  [202410081209003919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081209003919.pdf)
+- Regarding giving administrative approval to development works in Mahabaleshwar Taluk under Koyna Earthquake Rehabilitation Fund Committee....\
+  [202410151139061519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151139061519.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Public Works Department, Zilla Parishad, Gondia. h Arjuni Morgaon, Gondia, Tiroda District Gondia, (1/2)\
-  [202410071250225219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071250225219.pdf)
+- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Work, (Public Works Department Panvel, Dist. Roha, Karjat, Dist. Raigad)\
+  [202410151546107419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151546107419.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Municipal Council Hinganghat, Distt. Wardha. (1/2)\
-  [202410071222555819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071222555819.pdf)
+- Regarding disbursement of funds under the scheme Construction of Administrative Building (4406-0026) for the year 2024-25.\
+  [202410151642109619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151642109619.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Municipal Corporation, Nagpur. (1/3)\
-  [202410071912570519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071912570519.pdf)
+- State Plan Year 2024-25 Ongoing Matter Proposal under Establishment of Maharashtra State Zoological Museum Authority (2406 A087).\
+  [202410141116527919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141116527919.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Crack Prevention Works Public Works Department, Raigad Distt. Raigad.\
-  [202410071204563219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071204563219.pdf)
+- Forest Land- Gadchiroli  Diversion of 1.6975 ha. Forest Land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtel Ltd., Pune for laying of underground Optical Fiber Cable along the Road in RoW of ODR-62, VR-91, SH-381 and SH-380 from Todsa to Gatta Route in Etapalli Tehsil of Dist. Gadchiroli in the State of Maharashtra.\
+  [202410141235184419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141235184419.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood Prevention Works, Municipal Council Chandrapur, Distt. Chandrapur. (1/3)\
-  [202410071232290319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071232290319.pdf)
+- Regarding granting administrative approval to the budget for construction of various facilities for the smooth running of the day-to-day operations of Gorewada Zoo.\
+  [202410141851152019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141851152019.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. Flood / Drought Prevention Works Water Resources Department, Wardha. District Wardha. (2/2)\
-  [202410071226396219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071226396219.pdf)
+- Regarding giving administrative approval to development works in Karad-Uttar Taluk under Koyna Earthquake Rehabilitation Fund Committee....\
+  [202410151148099919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151148099919.pdf)
 
-- Regarding increasing the festival advance given to Kotwals on the occasion of festival.....\
-  [202410081223214619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081223214619.pdf)
+- Regarding changing the designation of the post of Kotwal in the Revenue Department to Revenue Servant.\
+  [202410141553257919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141553257919.pdf)
 
-- Regarding increase in pay of Kotwals\
-  [202410071549193219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071549193219.pdf)
+- Regarding the extension of time to take the services of Mr. Balasaheb Laxmanrao Deshmukh, a retired government officer, as a censured employee, to represent the government in the Honble Court in the court case of the Subordinate Forest Department of Aurangabad Forest Department.\
+  [202410151639220119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151639220119.pdf)
 
-- Regarding granting administrative approval for disaster mitigation works. (Drought Prevention Works, Dist. Ahmedpur/ Ausa/ Nilanga/ Udgir/ Chakur/ Shirur Anantapal/ Devani, Dist. Latur, Municipal Council / Nagar Panchayat, Latur.)\
-  [202410071218105219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071218105219.pdf)
+- Regarding giving administrative approval to development works in Patan Taluk under Koyna Earthquake Rehabilitation Fund Committee....\
+  [202410151142470219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151142470219.pdf)
 
-- Regarding disbursement of funds for civic amenities works in rehabilitated village Mahegaon (Ta. Naigaon Dist. Nanded)\
-  [202410081247113419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081247113419.pdf)
-
-- Regarding disbursement of funds for civic amenities works in rehabilitated village Vajirgaon (Ta. Naigaon Dist. Nanded)\
-  [202410081249013419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081249013419.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Flood / Drought Prevention Works, Soil and Water Conservation Department, Distt. Chandrapur. (2/3)\
-  [202410071236094919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071236094919.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Khamgaon, Shegaon, Dist. Buldhana, (Water Resources Department, Jigaon Project Dam and Rehabilitation Department, Shegaon, District Buldhana)\
-  [202410071921437619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071921437619.pdf)
-
-- Regarding disbursement of funds for civic amenities works in rehabilitated village Raher (Ta. Naigaon Dist. Nanded)\
-  [202410081251030719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081251030719.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Crack and Flood Prevention Works, (T. Igatpuri, Sinnar, Surgana, Yewla, Dist. Nashik, Public Works Department, Nashik) (3/3)\
-  [202410071259220319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071259220319.pdf)
-
-- Regarding the constitution of a committee to prepare a plan for the rehabilitation of encroachment holders in the Sanjay Gandhi National Park within a prescribed period.\
-  [202410071753204219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071753204219.pdf)
-
-- Regarding implementation of compassionate policy to Kotwal employees.\
-  [202410071545581119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071545581119.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Mohdi Dist. Bhandara, Water Resources Department, Distt. Bhandara.\
-  [202410071220052019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071220052019.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Crack prevention works, h. Akole, Dist. Ahilyanagar (Public Works Department)\
-  [202410071926200219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071926200219.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Dist. Vasmat, Zilla Parishad, Hingoli. (1/3)\
-  [202410071208467519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071208467519....pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Flood prevention works, Gevrai, Wadwani, Dist. Beed, Water Resources Department, Dist. BEED\
-  [202410071909486819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071909486819.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. Drought prevention works, p. Kudal, Dist. Sindhudurg, (Public Works Department, Sindhudurg)\
-  [202410071230113719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071230113719.pdf)
-
-- Regarding granting administrative approval for disaster mitigation works. (Flood Prevention Works, Dist. Aundha (Nag)/Vasamat/Hingoli/Sengaon, Soil and Water Conservation Department Hingoli, Dist. Hingoli. (2/3)\
-  [202410071211468419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071211468419.pdf)
+- Regarding granting administrative approval for disaster mitigation works. (Crack Prevention Works, District Satara City, Chief Municipal Council Satara)(5/5)\
+  [202410141854570519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141854570519.pdf)
 
 ## Personnel
-- Regarding the extension of temporary posts created for the Collectors Office and Zonal Office (Sardar Sarovar Project) at Nandurbar from 1st September, 2024 to 29th February, 2025 for rehabilitation work of Sardar Sarovar project affected persons.\
-  [202410081227167319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081227167319.pdf)
+- Mauje Ukkalgaon, Group No. of Maharashtra State Agriculture Corporation at Srirampur. 4.00 Ha.R Land in 306 Village Panchayat, Kolhar Bu. Regarding providing them free for public purpose...\
+  [202410141544390819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141544390819.pdf)
 
-- To provide administrative approval for civic amenities works in rehabiliatated villages in Daund Taluka of Pune District\
-  [202410081303091419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081303091419.pdf)
+- Regarding extension of 1362 temporary posts in Registration and Stamp Department.\
+  [202410151452357819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151452357819.pdf)
 
-- Regarding grant of 10.12 Ha.R. of land out of  36.60 Ha.R. area land from Gat No.178/A situated at Mauje Laling Tal. and Dist.Dhule  to B.A.P.S. Swaminarayan Sanstha, Dhule.\
-  [202410071838544719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071838544719.pdf)
+- Divisional Forest Officer, Group-A (Senior Grade) Transfers of Officers in Cadre.\
+  [202410141515358819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141515358819.pdf)
 
-- regarding contination of temporary pcsts in  Nagpur division\
-  [202410081518298019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081518298019.pdf)
+- Regarding grant of administrative approval for civil facility works in flood-rehabilitated villages of Mauje Chitmogra (T. Biloli Dist. Nanded).\
+  [202410151444161419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151444161419.pdf)
 
-- Regarding the extension of the total 13 temporary posts in the office of Land Acquisition, Redevelopment and Resettlement Authority, Nagpur from 01.9.2024 to 28.02.2025...\
-  [202410081514096219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081514096219.pdf)
+- 131.50 at Mauje Mauje Junction, Mauje Bharnewadi, Mauje Anthurne and Mauje Lasurne in Ratnapuri Farm of Maharashtra State Agriculture Corporation. Regarding free transfer of R area to Maharashtra State Industrial Development Corporation for establishment of new industrial area...\
+  [202410142025172319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410142025172319.pdf)
 
-- Regarding extension of temporary posts in the office of Garhane Resolution Authority, Sardar Sarovar Project, Nandurbar from 1st September, 2024 to 29th February, 2025.\
-  [202410081223251919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081223251919.pdf)
+- Appointment by deputation Mr. Nitin Gawli, Deputy Collector and Regional Officer, MIDC, Nashik on deputation to the post of Additional Chief Land and Survey Officer, Panvel, CIDCO...\
+  [202410141144344019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141144344019.pdf)
 
-- Regarding extension of temporary posts in Talathi cadre in the state.\
-  [202410071556512319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071556512319.pdf)
-
-- regarding contination of temporary pcsts in  Amravati division\
-  [202410081521270019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081521270019.pdf)
-
-- Mau. Kandivali at S.No. 67 feet 68,69,70 p., 161 p., 162 p., 149 p., 157 and S.No. at Mauje Charkop. 41 feet Regarding giving directions regarding Kandivali Industrial Estate on 116 acres 20 guntha land...\
-  [202410081634575619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081634575619.pdf)
+- Forest Land-Gadchiroli Diversion of 2.0 ha. forest land under Section -2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Administrative Building and Residential Quarters of Arm Out Post at -Manerajaram, District-Gadchiroli in the State of Maharashtra.\
+  [202410151248443919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151248443919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
