@@ -7,5 +7,5 @@ genSite_all:
 	uv run python src/gen_summary.py input output all 'mr,en'
 
 genSite:
-	uv run python src/gen_summary.py input output last 'mr,en'
+	uv run python src/gen_summary.py input output all 'mr,en'
 
