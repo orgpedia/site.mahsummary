@@ -1,76 +1,48 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 07 October 2024 - 12 October 2024
+**Date Range**: 20 January 2025 - 25 January 2025
 
 
 ## Funds
-- Regarding disbursement of funds for implementation of Soil Health Plan and Fertility Program (SHF) for Scheduled Tribes in the year 2024-25 under National Agricultural Development Scheme (RKVY).\
-  [202410071836113701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071836113701.pdf)
+- Regarding the distribution of funds of Rs. 4.9530 crore for the Nanaji Deshmukh Krishi Sanjeevani Project for the financial year 2024-25.\
+  [202501151827155201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151827155201.pdf)
 
-- Regarding disbursement of second installment of funds to Scheduled Castes for implementation of Dry Area Development (RAD) Program under RKVY Cafeteria in the year 2024-25.\
-  [202410071846563301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071846563301.pdf)
+- Release of 2185.91 lakh funds for E-Governance Program for FY 2024-25.\
+  [202501171058540201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501171058540201.pdf)
 
-- Regarding disbursement of second installment fund for Scheduled Tribes category under RKVY for implementation of Paramparagat Krushi vikas yojana (PKVY) in the year 2024-25.\
-  [202410071838470301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071838470301.pdf)
+- Disbursement of funds for the Gram Bijotpadan Program for the year 2024-25 under the centrally sponsored scheme Food and Nutrition Security Mission (formerly SPM) under the Krishi Unnati Yojana.\
+  [202501161234372101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501161234372101.pdf)
 
-- Regarding disbursement of second installment fund for Scheduled Caste category under RKVY for implementation of Paramparagat Krushi vikas yojana (PKVY) in the year 2024-25.\
-  [202410071841507201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071841507201.pdf)
+- Regarding disbursement of grant to Dr. Balasaheb Sawant Kokan Agricultural University, Dapoli for the financial year 2024-25, for the creation of 35-capital fund..(Programme)\
+  [202501131631369801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501131631369801.pdf)
 
-- Regarding disbursement of second installment of funds to Scheduled Tribes under the Agricultural Mechanization Sub Mission in the year 2024-25.\
-  [202410071845144101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071845144101.pdf)
+- In the year 2024-25 under National Edible Oil Campaign (Coarse Grains) for all three categories (General, Scheduled Castes, Scheduled Tribes) the first installment totaling Rs. 6048.33334 lakh regarding disbursement of funds.\
+  [202501141712143101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501141712143101.pdf)
 
-- Regarding disbursement of second installment of funds to Scheduled Tribes for implementation of Dry Area Development (RAD) Program under RKVY Cafeteria in the year 2024-25.\
-  [202410071849116801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071849116801.pdf)
+- Regarding release of the third installment fund of the National Horticulture Mission for the financial year 2024-2025 under Krishi Unnati Yojana-Integrated Horticulture Development Mission (MIDH).\
+  [202501141332474701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501141332474701.pdf)
 
-- Regarding disbursement of second installment funds for Scheduled Caste category under Agricultural Mechanization Sub Mission in the year 2024-25.\
-  [202410071850501001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071850501001.pdf)
+- Regarding the distribution of a total fund of Rs. 74.69 lakhs, including Rs. 10.00 lakhs for office expenses, for the period of March, 2024 and June, 2024 (digital issue) to August-September, 2024 under the Shetkari Monthly Scheme...\
+  [202501151745012101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151745012101.pdf)
 
-- Regarding disbursement of funds for implementation of Soil Health Plan and Fertility Program (SHF) for Scheduled Castes in the year 2024-25 under National Agricultural Development Plan (RKVY).\
-  [202410071834150201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071834150201.pdf)
+- Release of 69.15 Lakhs to pay bills of Maharashtra Information Technology Corporation for their services for SAU-Sevarth (Payroll) Application under E-Governance Program in Financial Year 2024-25.\
+  [202501171102351901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501171102351901.pdf)
 
-- In addition to the budgetary provision for the year 2024-25 for Special Action Plan for Productivity Enhancement and Value Chain Development of Cotton, Soybean and other Oilseed Crops, Rs. 500 crore regarding providing additional funds.\
-  [202410082007569601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410082007569601.pdf)
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) under the account head 31- (State share 25 percent) to Mahatma Phule Agricultural University, Rahuri in the financial year 2024-25 (2415 1086).. (Programme)\
+  [202501131631165901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501131631165901.pdf)
 
-## Miscellaneous
-- Creation of posts for Bovine Breeding Regulatory Authority\
-  [202410071623123801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071623123801.pdf)
+- For the Centrally Sponsored Pradhan Mantri Matsya Sampada Yojana (PMMSY), the central share sanctioned by the Central Government as Mother Sanction for the year 2024-25 to implement the SNA-SPARSH system is Rs. 2500.00 lakhs and the state share to that extent is Rs. 1666.67 lakhs regarding making available on Budgeted Distribution System\
+  [202501151247515601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151247515601.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, Parbhani under Anand Charitable Institution, Ashti, Dist.Ashti, Dist.Beed regarding the approval of the contingent of Annantra College, Ashti, Dist.Beed on permanent unaided basis.\
-  [202410071859115301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071859115301.pdf)
+- In the year 2024-25 Food and Nutrition Security- For foodgrain crops and commercial crops for all three categories (General, Scheduled Tribes, Scheduled Tribes) the first installment totaled Rs. 16923.33333 lakh regarding disbursement of funds\
+  [202501161711012501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501161711012501.pdf)
 
-- Regarding giving administrative approval to the proposal for providing fire fighting system and CCTV system in various research centers and buildings under Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli...\
-  [202410072020210201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410072020210201.pdf)
-
-- Regarding approving the provision of funds for state level agricultural exhibition Parli, Beed...\
-  [202410081935159701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081935159701.pdf)
-
-- Regarding fixing the tenure of Chairman, State Agricultural Price Commission.\
-  [202410081501456001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081501456001.pdf)
-
-- Maharashtra Bovine Breeding Regulation Designation for authority.\
-  [202410081157180001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081157180001.pdf)
-
-- Regarding giving administrative approval to the publicity and publicity media plan of the scheme for providing financial support to cotton and soybean farmers in the Kharif season of 2023.\
-  [202410081152336701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081152336701.pdf)
+- Regarding the disbursement of a total of Rs. 1875.00 lakhs of funds for the second installment for all three categories (General, Scheduled Castes, Scheduled Tribes) in the year 2024-25 under the Agricultural Extension Sub-Mission of the National Mission on Agricultural Extension and Technology (NMAET), Assistance for Improvement in State Agricultural Extension Programs (ATMA) Scheme.\
+  [202501161547398801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501161547398801.pdf)
 
 ## Personnel
-- Total area of Government Milk Scheme, Chalisgaon Yethil Group No. 426/2/B/1/426/3/1/A/1 is 3.58 ha. Remaining 0.61 out of R is about getting R seat for expansion of rural hospital at Chalisgaon.....\
-  [202410071657151501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071657151501.pdf)
-
-- Promotion and Posting from the post of Livestock Development Officer (Group-A) to the post of Assistant Commissioner Animal Husbandry (Group-A)\
-  [202410071713482101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071713482101.pdf)
-
-- Vasantrao Naik Marathwada Agricultural University, Parbhani under Mauje Thana Soygaon, Dist. Chhatrapati Sambhajinagar has been changed to Mauje Likhakhedi and Palod T.Sillod, Distt. Regarding approving the proposal for establishing an aided Government Agriculture College on Government land at Chhatrapati Sambhajinagar...\
-  [202410071857246101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410071857246101.pdf)
-
-- Regarding implementation of subsidy scheme of Rs.50/- per animal per day for rearing of indigenous cows kept in Goshalas.\
-  [202410081505488401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081505488401.pdf)
-
-- Regarding promotion and posting from Executive (Group-C) Cadre to Executive (Group-B) Cadre in Dairy Development Department.\
-  [202410081304593401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081304593401.pdf)
-
-- Regarding promotion and posting from Technical (Group-C) cadre to Technical (Group-B) cadre in Dairy Development Department.\
-  [202410081308481501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410081308481501.pdf)
+- Regarding appointment of Coordinating Officer as well as Single Coordinating Mechanism for all Missions under Centrally Sponsored Schemes for the purpose of SNA-SPARSH methodology.\
+  [202501141502028101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501141502028101.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
