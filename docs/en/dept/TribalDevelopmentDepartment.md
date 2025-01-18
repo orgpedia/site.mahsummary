@@ -1,40 +1,37 @@
 # Tribal Development Department
 
-**Date Range**: 14 October 2024 - 19 October 2024
+**Date Range**: 20 January 2025 - 25 January 2025
 
 
 ## Funds
-- To release grant for the scheme of  District and Other Road Repairs (state scheme) under the TSP in financial year 2024-25. (CRC 3054 2722)\
-  [202410111621082724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410111621082724.pdf)
+- To release grant for the scheme of Construction of English Medium Tribal School under the TSP in financial year 2024-25. (CRC 4225 0532)\
+  [202501151203301624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151203301624.pdf)
 
-- Regarding the implementation of a scheme to guide the scheduled tribe students of the state of Maharashtra in engineering and medical entrance examinations with the help of reputed private training institutes in a period of two years after 10th...\
-  [202410141558397924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141558397924.pdf)
+- To release grant for the scheme of  Construction of ashram school (OTSP) under the TSP in financial year 2024-25.\
+  [202501151212417624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151212417624.pdf)
 
-- To release grant for the scheme of Skill Development Programme for Tribal Youths under the TSP in financial year 2024-25. (CRC 2225 D262)\
-  [202410111620515624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410111620515624.pdf)
+- Order for disbursement of funds under the head (4059 0233) Construction General Combined Accommodation for the year 2024-25 under the tribal component programme.\
+  [202501151149412924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151149412924.pdf)
 
-- The financial year 2024-25 under the Central Budget Scheme (Nucleus Budget) Regarding disbursement of funds during the year.\
-  [202410151449227024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151449227024.pdf)
+- To Release grant for the scheme of Chief Minister Solar Agriculture Pump Scheme under the TSP in financial year 2024-25 (CRC Head 2810 0974)\
+  [202501151215084824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151215084824.pdf)
+
+- To release grant for the scheme of Construction of Hostels (OTSP)  under the TSP in financial year 2024-25. CRC 4225 1092\
+  [202501151206228824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151206228824.pdf)
+
+- To release grant for the scheme of Construction of Ashram schools (TSP) under the TSP in financial year 202-2. (CRC 4225 1109)\
+  [202501151208006024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151208006024.pdf)
+
+- To release grant for the scheme of Construction of Hostels (TSP)  under the TSP in financial year 2024-25. CRC 4225 1083\
+  [202501151202251424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501151202251424.pdf)
 
 ## Miscellaneous
-- Regarding selection of sports, art and computer teachers in government ashram schools under tribal development department through contract method.\
-  [202410141551386524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141551386524.pdf)
-
-- Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Nashik, Internal Tribal Education Board, Peth, under Tribal Development Department. Peth, Dist. Subsidized ashram schools run by Nashik. Peth, Dist. Regarding approval to start an affiliated Junior College (Class 11th  12th, Arts  Science Branch) from the academic year 2024-25 to the Ashram School, Nashik.\
-  [202410151701010024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151701010024.pdf)
+- Change in Name of Adivasi Sevak / Adivasi Seva Sanstha Award given to working individuals / social organizations to Bhagwan Birsa Munda  Adivasi Bhushan Award.\
+  [202501161300476824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501161300476824.pdf)
 
 ## Personnel
-- A. come Vs. Q., Jogeshwari Mata Sevabhavi Sanstha Sindgavan under Dhule, Tt. Dist. Nandurbar Conducted Khushal Kanhaiya Patil Aided Tribal Ashram School, Pimprad, Tt. Shindekheda, Dist. Dhule is an ashram school Mauje Nimgul, p. Shindkheda, Dist. Regarding shifting to Dhule.\
-  [202410151200228424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151200228424......pdf)
-
-- Regarding taking Pilots for direct deposit of money in their bank account for students in government ashram schools instead of all items of personal use.\
-  [202410151152360124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151152360124.pdf)
-
-- Regarding the Adhoc promotion of the post of Assistant Commissioner / Senior Research Officer / Project Officer (Class-II) in Maharashtra Tribal Development Services Group-A .\
-  [202410141434319624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141434319624.pdf)
-
-- Procedure for transfer of subsidized ashram schools which have been de-approved/closed in tribal development department to another institution.\
-  [202410151703129924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151703129924....pdf)
+- Regarding the distribution of funds for centrally sponsored schemes under the Annual Tribal Component Programme 2024-25.....\
+  [202501171337089624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501171337089624.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
