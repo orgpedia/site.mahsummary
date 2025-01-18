@@ -1,15 +1,14 @@
 # Housing Department
 
-**Date Range**: 25 March 2024 - 30 March 2024
+**Date Range**: 23 December 2024 - 28 December 2024
 
 
 ## Funds
-- Financial year 2023-24 Regarding disbursement of cess and government contribution to the Maharashtra Housing and Area Development Authority for depositing in the Mumbai Building Repair and Reconstruction Board\
-  [202403281733046009.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281733046009.pdf)
+- Regarding the distribution of interest on the Provident Fund of the employees of Maharashtra Housing Board in the financial year 2024-2025.\
+  [202412241441398809.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202412241441398809.pdf)
 
-## Personnel
-- Regarding disbursement of Cess and Government Contribution to the Maharashtra Housing and Area Development Authority for the financial year 2023-24 Mumbai to be deposited in the Mumbai Building Repair and Reconstruction Board\
-  [202403281255554909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403281255554909.pdf)
+- Regarding the distribution of interest on the contributory provident fund of the employees of the Vidarbha Housing Board in the financial year 2024-2025.\
+  [202412241442052709.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202412241442052709.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
