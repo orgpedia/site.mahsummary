@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '30 5 * * *'  # Runs at 5:30 UTC, which is 10:30 AM IST
 
-  push:
-    branches: [ main ]
+  # push:
+  #   branches: [ main ]
 
 jobs:
   import_export:
