@@ -1,18 +1,24 @@
 # Women and Child Development Department
 
-**Date Range**: 14 October 2024 - 19 October 2024
+**Date Range**: 13 January 2025 - 18 January 2025
 
 
 ## Funds
-- Regarding approving the implementation of Media Plan of organizing exhibition along with production of exhibition based on Mukhyamantri Mazi Ladki Bahin scheme and other various schemes.\
-  [202410151032357730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410151032357730.pdf)
+- Regarding disbursement of funds under head (2235 B906) for Krantijyoti Savitribai Phule Bal Gopan Yojana for the current financial year 2024-25.\
+  [202501081311320530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501081311320530.pdf)
+
+- Grant Release for Baby Care kit Scheme\
+  [202501081531187830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501081531187830.pdf)
+
+- Regarding providing materials to 13595 Anganwadi Centers in the state under the Saksham Anganwadi Yojana.\
+  [202501101452542530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501101452542530.pdf)
 
 ## Miscellaneous
-- Regarding approval of admissibility of all service benefits to the officers/employees of the Maharashtra State Womens Commission in the same manner as per Maharashtra State Government employees.\
-  [202410141155145830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141155145830.pdf)
+- Regarding disbursement of funds for sponsorship, aftercare and sponsorship under the centrally awarded scheme Mission Vatsalya for the year 2024-25\
+  [202501081307400130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501081307400130.pdf)
 
-- Regarding appointment on deputation to the post of Child Development Project Officer (Gra), Dindori (Umrale)-2, Dist.Nashik Group-B (Gazetted) under Commissioner, Women and Child Development under Women and Child Development Department.\
-  [202410141938117430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202410141938117430.pdf)
+- Regarding approval for purchase of Smart Anganwadi Kit for converting Anganwadi Centers into Adarsh Anganwadi Centers under the Integrated Child Development Services Scheme.\
+  [202501091458533530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501091458533530.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
