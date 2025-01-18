@@ -65,6 +65,6 @@ target-version = "py38"
 [tool.pyright]
 reportAttributeAccessIssue = false
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+# [build-system]
+# requires = ["hatchling"]
+# build-backend = "hatchling.build"
