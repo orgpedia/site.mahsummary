@@ -23,7 +23,8 @@ help:
 
 
 install: pyproject.toml
-	poetry install --only=dev
+	uv sync
+	uv venv -p python310
 	npm ci
 
 import: 
@@ -31,12 +32,12 @@ import:
 
 flow: $(tasks)
 $(tasks):
-	poetry run make -C $@
+	uv run make -C $@
 
 lint:
-	poetry run ruff check .
+	uv run ruff check .
 
 format:
-	poetry run ruff format .
+	uv run ruff format .
 
 

@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '30 5 * * *'  # Runs at 5:30 UTC, which is 10:30 AM IST
 
-  # push:
-  #   branches: [ main ]
+  push:
+    branches: [ main ]
 
 jobs:
   import_export:
@@ -20,12 +20,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-            python-version: '3.8'  # specify your Python version
+            python-version: '3.10'  # specify your Python version
 
-      - name: Install Poetry
-        run: |
-          curl -sSL https://install.python-poetry.org | python3 -
-          echo "$HOME/.poetry/bin" >> $GITHUB_PATH
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "0.5.16"
 
       - name: Setup import
         run: make import
@@ -37,7 +37,7 @@ jobs:
           path: import/
           sparse-checkout-cone-mode: false
           sparse-checkout: GRs/*
-          
+
       - name: Install dependencies
         run: make install
 
@@ -49,7 +49,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: actions export
-        
-        
-
-            
