@@ -55,5 +55,11 @@
 - Regarding providing space for the office of Electrical Inspector, Santa Cruz.\
   [202501141455439707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501141455439707.pdf)
 
+- Instructions regarding 76th Republic Day programme date 26th January, 2025.\
+  [202501182100566307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501182100566307.pdf)
+
+- Regarding appointment of Honble Ministers and Honble Ministers of State of Maharashtra State as Guardian Ministers/Co-Guardian Ministers of Districts in the State.\
+  [202501181908323307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501181908323307.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
