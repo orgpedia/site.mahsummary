@@ -61,5 +61,8 @@
 - Regarding appointment of Honble Ministers and Honble Ministers of State of Maharashtra State as Guardian Ministers/Co-Guardian Ministers of Districts in the State.\
   [202501181908323307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501181908323307.pdf)
 
+- Regarding staying the appointment as Guardian Ministers of Nashik and Raigad districts.\
+  [202501192053255707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501192053255707.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
