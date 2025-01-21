@@ -1,11 +1,15 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 13 January 2025 - 18 January 2025
+**Date Range**: 27 January 2025 - 01 February 2025
 
 
-## Funds
-- Bharat Ratna Dr. Regarding issuance of rectification letter in accordance with approved works in Kolhapur district for the year 2024-25 under Babasaheb Ambedkar Social Development Yojana....\
-  [202501101730364622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501101730364622.pdf)
+## Miscellaneous
+- Regarding the formation of a high level committee to design a single centralized online portal for the beneficiaries of all the social corporations in the state.\
+  [202501201821038822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201821038822.pdf)
+
+## Personnel
+- Regarding disbursement of funds of Centrally Sponsored Schemes under Scheduled Caste Sub-Yojan 2024-25.\
+  [202501201651010422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201651010422.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

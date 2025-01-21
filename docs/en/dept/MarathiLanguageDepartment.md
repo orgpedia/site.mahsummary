@@ -1,11 +1,11 @@
 # Marathi Language Department
 
-**Date Range**: 20 January 2025 - 25 January 2025
+**Date Range**: 27 January 2025 - 01 February 2025
 
 
-## Funds
-- Regarding giving administrative approval for organizing Vishwa Marathi Sammelan - 2025.\
-  [202501161743117733.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501161743117733.pdf)
+## Personnel
+- Regarding continuing the practice of hiring temporary services of guest editors under the Maharashtra State Marathi Encyclopedia Production Board.\
+  [202501201530577333.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201530577333.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

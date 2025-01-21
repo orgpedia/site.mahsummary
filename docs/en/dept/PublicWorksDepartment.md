@@ -1,17 +1,21 @@
 # Public Works Department
 
-**Date Range**: 20 January 2025 - 25 January 2025
+**Date Range**: 27 January 2025 - 01 February 2025
 
+
+## Miscellaneous
+- Regarding extension of tenure of the supernumerary post created for Shri. Deepak Ganpat Koli, Junior Engineer.\
+  [202501201508050018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201508050018.pdf)
+
+- Regarding extension of tenure of the majority of posts created for employees working under the office of Superintending Engineer, Public Works Board, Nagpur.\
+  [202501201504167218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201504167218.pdf)
+
+- Regarding extension of tenure of the majority of posts created for employees working in the office under the jurisdiction of the Chief Engineer, Public Works Regional Department, Pune.\
+  [202501201459548318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201459548318.pdf)
 
 ## Personnel
-- Regarding merging the previous service from Water Resources Department with the service from Public Works Department...Mr. Amar Vishwasrao Jadhav, Executive Engineer (Electrical).\
-  [202501161558047218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501161558047218....pdf)
-
-- 12.204 Hectares (30.16 Acres) plot of land in Government Colony at Bandra East regarding formation of committee for eviction of unauthorized constructions for transfer of land for construction of Honble High Court....\
-  [202501131443439218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501131443439218.pdf)
-
-- Regarding revision of seniority list of Assistant Engineer Grade-2 (Architectural) Group-B (Gazetted) Cadre..\
-  [202501171118448618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501171118448618.pdf)
+- Guidelines for planning and expenditure of programmes of VVIP persons for Maharashtra.\
+  [202501201258097618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201258097618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
