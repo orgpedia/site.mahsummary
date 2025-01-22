@@ -17,5 +17,11 @@
 - Regarding change of headquarter in Mumbai instead of Beed of the Judicial Inquiry Committee constituted to investigate the murder case of Sarpanch of Massajog, Tal kaij, Dist. Beed Late Mr. Santosh Panditrao Deshmukh.\
   [202501201759037029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201759037029.pdf)
 
+- Regarding granting administrative and financial approval for the construction of protective wall for the new building of Sub Regional Transport Office, Kalyan.\
+  [202501211242573129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211242573129.pdf)
+
+- Special Inspector General of Police, Maharashtra State Cyber, Office (2055A023) 05-Reward 06-Telephone, Electricity and Water Bills 17-Computer Expenses 25-Clothes, Tents and Stores, 28-Professional Services and 41-Secret Service Purposes Regarding approving disbursement of funds viz.\
+  [202501211640498029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211640498029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

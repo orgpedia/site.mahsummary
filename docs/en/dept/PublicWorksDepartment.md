@@ -17,5 +17,11 @@
 - Guidelines for planning and expenditure of programmes of VVIP persons for Maharashtra.\
   [202501201258097618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201258097618.pdf)
 
+- Final Seniority List of Architect Cadre in Public Works Department as on 01.01.2023 and 01.01.2024.\
+  [202501211508572118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211508572118.pdf)
+
+- Regarding cancellation of promotion to the post of Deputy Divisional Officer (Construction) in Maharashtra Engineering Services Group-A.....\
+  [202501211127160518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211127160518.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
