@@ -10,6 +10,12 @@
 - Regarding disbursement of funds of Rs.150.00 crore out of state share for new railway line Solapur-Tuljapur-Osmanabad (Dharashiv).\
   [202501201612409829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201612409829.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 120.59 crore to Maharashtra State Road Transport Corporation for carrying out development works under Account Head 3055 0052-35 Modernization of Bus Stand and Other Facilities Programme....\
+  [202501221804520529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221804520529.pdf)
+
+- M/s Pelorus Technologies Pvt. Ltd. Mumbai Regarding payment of Rs. 22,32,900/- i.e. 1.25 of the total purchase price for comprehensive warranty and maintenance of Mobile Device Forensic tools during the third quarter of the first year from September-2023 to November-2023 to the supplier.\
+  [202501221606440329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221606440329.pdf)
+
 ## Miscellaneous
 - Regarding sanction of professional fees to Adv. Kaushik Mhatre, appointed as Special Government Prosecutor in the court case arising out of Nayanagar P.O.S. No. 34/2024.\
   [202501201547103829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201547103829.pdf)
@@ -22,6 +28,12 @@
 
 - Special Inspector General of Police, Maharashtra State Cyber, Office (2055A023) 05-Reward 06-Telephone, Electricity and Water Bills 17-Computer Expenses 25-Clothes, Tents and Stores, 28-Professional Services and 41-Secret Service Purposes Regarding approving disbursement of funds viz.\
   [202501211640498029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211640498029.pdf)
+
+- Regarding the establishment of a committee by the state government to conduct a thorough study on restricting petrol and diesel-powered vehicles and allowing only CNG and electric vehicles in the Mumbai metropolitan area.\
+  [202501221758069229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221758069229.pdf)
+
+- Regarding book adjustment of Rs. 260,04,68,177/- as capital contribution of the Government to the M.S.R.T.C.  for the period from February 2024 due March (partly) to August 2024 due September 2024.\
+  [202501221807309129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221807309129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

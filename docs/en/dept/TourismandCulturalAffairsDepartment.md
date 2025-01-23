@@ -19,6 +19,9 @@
 - Regarding financial approval of the second running installment of the work on Photogrammetric and Lidar Survey of Controlled Areas of Protected Monuments in Ratnagiri Division..\
   [202501211626389323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211626389323.pdf)
 
+- N. D. Studio Village Hatnoli, Tal. Khalapur, Dist.Raigad. Regarding granting administrative and financial approval for the funds to be distributed for transfer to the Government.\
+  [202501221601338223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221601338223.pdf)
+
 ## Miscellaneous
 - Regarding providing administrative and financial approval for the provision of services (unskilled) for 07 vacant posts at the establishment of P.L. Deshpande Maharashtra Kala Academy, Mumbai and a total of 30 posts including 28 cleaners and 02 sanitation supervisors for cleaning the academy building and surrounding areas through external mechanisms and for the expenditure incurred for the same...\
   [202501201606283223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201606283223.pdf)

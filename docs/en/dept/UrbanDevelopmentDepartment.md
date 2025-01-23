@@ -277,12 +277,21 @@
 - Regarding granting administrative approval to the solid waste management project of Shirala Nagar Panchayat, Dist. Sangli under Swachh Maharashtra Abhiyan (N.) 2.0.\
   [202501201443325025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201443325025.pdf)
 
+- Maharashtra Golden Jubilee Urban Redevelopment Campaign Regarding the inclusion of Goods and Services Tax in the contract for the underground sewer project of Amalner city.\
+  [202501221747368525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221747368525.pdf)
+
+- Maharashtra Golden Jubilee Urban Redevelopment Campaign Regarding the inclusion of Goods and Services Tax in the contract for the Malegaon city flyover project.\
+  [202501221745265825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221745265825.pdf)
+
 ## Miscellaneous
 - Regarding publication of the final seniority list as on 01.01.2024 of the officers in the cadre of Director, Town Planning (Group-A / Gazetted) on the establishment of the Directorate of Town Planning and Valuation.\
   [202501201702464025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201702464025.pdf)
 
 - Regarding publication of the final seniority list as on 01.01.2024 of officers in the Joint Director, Town Planning (Group-A / Gazetted) cadre on the establishment of the Directorate of Town Planning and Valuation.\
   [202501201700222325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201700222325.pdf)
+
+- Regarding obtaining administrative approval for the development works of projects to be developed in the development plan plan under the Central Governments Special Assistance to States for Capital Investment scheme.\
+  [202501221706368025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221706368025.pdf)
 
 ## Personnel
 - Regarding granting administrative approval to the solid waste management project of Panvel Municipal Corporation, Dist. Raigad under Swachh Maharashtra Mission (No.) 2.0.\
@@ -293,6 +302,9 @@
 
 - Regarding publication of the final seniority lists of officers in the Town Planner (Group-A / Gazetted) cadre on the establishment of the Directorate of Town Planning and Valuation as on 01.01.2024.\
   [202501201656445625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201656445625.pdf)
+
+- Draft seniority list of Joint Commissioner, Group-A, Chief Officer, Group-A (Selective Category)/ Deputy Commissioner, Group-A, Chief Officer, Group-A/ Assistant Commissioner, Group-A and Chief Officer, Group-B/ Assistant Commissioner, Group-B cadre in Maharashtra Urban Administrative Service as on 01.01.2025 (for the period 01.01.2024 and 31.12.2025).\
+  [202501221504136225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221504136225.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

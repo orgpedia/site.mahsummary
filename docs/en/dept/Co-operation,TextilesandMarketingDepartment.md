@@ -13,6 +13,9 @@
 - Regarding granting administrative approval to Maharashtra State Handloom Co-operative Federation Marya.Mumbai for promoting and popularizing handloom cloth under suit and other financial assistance for the development of handloom industry.\
   [202501211056032602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211056032602.pdf)
 
+- Regarding disbursement of funds for Captive Market Scheme F.Y. 2024-25\
+  [202501221457044802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221457044802.pdf)
+
 ## Miscellaneous
 - Regarding determination of transportation rates for procurement of pulses and oilseeds under the Minimum Support Price Scheme\
   [202501211447445602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211447445602.pdf)

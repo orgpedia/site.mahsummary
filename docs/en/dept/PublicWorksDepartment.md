@@ -23,5 +23,8 @@
 - Regarding cancellation of promotion to the post of Deputy Divisional Officer (Construction) in Maharashtra Engineering Services Group-A.....\
   [202501211127160518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211127160518.pdf)
 
+- Regarding amendment in the seniority list of Assistant Engineer Grade-2 (Civil) Group-B (Gazetted) cadre.\
+  [202501221741095718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221741095718.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

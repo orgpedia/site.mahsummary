@@ -14,6 +14,9 @@
 - Maharashtra State Marathi Encyclopaedia Creation Board, CCTV for the office of Y. Cameras, LEDs Regarding administrative approval of expenditure for purchase of screen and scanner\
   [202501211545206433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211545206433.pdf)
 
+- Regarding the celebration of Marathi Language Preservation Fortnight from 14th January to 28th January, 2025\
+  [202501221437037333.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221437037333.pdf)
+
 ## Personnel
 - Regarding continuing the practice of hiring temporary services of guest editors under the Maharashtra State Marathi Encyclopedia Production Board.\
   [202501201530577333.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201530577333.pdf)

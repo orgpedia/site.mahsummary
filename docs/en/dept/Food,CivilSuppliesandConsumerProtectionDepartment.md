@@ -7,6 +7,9 @@
 - Outsourcing the services of driver and Peon posts...\
   [202501211230282606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211230282606.pdf)
 
+- Regarding the assignment of additional charge of the vacant post of District Supply Officer, Latur to Shri. Venkatesh Nagnath Rawlod, Assistant District Supply Officer, Latur...\
+  [202501221801108206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221801108206.pdf)
+
 ## Personnel
 - Tentative Seniority List of Technical Officer, Group B as per position of 01/01/2025.\
   [202501211224170706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211224170706.pdf)
