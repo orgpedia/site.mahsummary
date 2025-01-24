@@ -283,6 +283,9 @@
 - Maharashtra Golden Jubilee Urban Redevelopment Campaign Regarding the inclusion of Goods and Services Tax in the contract for the Malegaon city flyover project.\
   [202501221745265825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221745265825.pdf)
 
+- Apart from A and B Municipal Corporation, C and D Municipal Corporation and all Municipal Councils / Municipal Corporations in the State, officers/employees who died due to corona infection while performing their duties in the anti-Covid campaign, Rs. 50 lakh on the lines of the Central Government and the State Government. Regarding disbursement of grant-in-aid.\
+  [202501231650189525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231650189525.pdf)
+
 ## Miscellaneous
 - Regarding publication of the final seniority list as on 01.01.2024 of the officers in the cadre of Director, Town Planning (Group-A / Gazetted) on the establishment of the Directorate of Town Planning and Valuation.\
   [202501201702464025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201702464025.pdf)

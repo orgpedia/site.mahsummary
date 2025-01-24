@@ -25,6 +25,9 @@
 - Chief Conservator of Forests (Prof.) Chandrapur regarding granting administrative approval to the budget for installing LED SCREEN in the cafeteria building at Shraddhay Shri. Atal Bihari Vajpayee Botanical Garden, Visapur, District Chandrapur under this forest circular.\
   [202501221307384119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221307384119.pdf)
 
+- Regarding the distribution of funds under the State Scheme for Development of Nature Tourism Sites (2406 2295) for the year 2024-25.\
+  [202501231705349019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231705349019.pdf)
+
 ## Miscellaneous
 - Regarding the addition of the service of Mrs. Apeksha Vilin Rane, High Grade Stenographer, in the previous post of Clerk-Typist in the office of City Civil Court, Mumbai...\
   [202501201645353919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201645353919.pdf)
@@ -38,6 +41,9 @@
 - Regarding amendments to the Unified Warehouse Sale Conditions for the sale of building timber, coal, bamboo, firewood (in warehouses and at their original locations).\
   [202501221303137119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221303137119.pdf)
 
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2024-25 (2406 8669).\
+  [202501231600004019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231600004019.pdf)
+
 ## Personnel
 - Regarding release of final seniority list of Assistant Forest Conservator Group-A (Junior Grade) Cadre dated 01/01/2024.\
   [202501201237051319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201237051319.pdf)
@@ -50,6 +56,9 @@
 
 - Regarding the appointment of Coordination Officer/State Scheme Manager as well as Single Coordination Mechanism for the centrally sponsored scheme MH-466- MH- National Bamboo Mission (4138) for the purpose of SNA-SPARSH methodology.\
   [202501221259546219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221259546219.pdf)
+
+- Final Seniority List of Deputy Director Land Records (Group-A Gazetted) Cadre  from 01.01.2014 to 01.01.2024\
+  [202501231736065719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231736065719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

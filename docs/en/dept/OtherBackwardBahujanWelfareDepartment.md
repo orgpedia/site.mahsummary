@@ -13,6 +13,9 @@
 - Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25\
   [202501221510363534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221510363534.pdf)
 
+- Regarding the distribution of funds under the Pre-Matric Scholarship Scheme in the financial year 2024-25\
+  [202501231608040034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231608040034.pdf)
+
 ## Miscellaneous
 - Regarding making corrections in the work in Nandurbar district that has been given administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
   [202501201539362434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201539362434.pdf)

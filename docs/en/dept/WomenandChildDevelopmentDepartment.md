@@ -24,5 +24,8 @@
 - Regarding the opening of a new account for budgeting funds for major construction of government office buildings of Women and Child Development Department.\
   [202501211450176830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211450176830.pdf)
 
+- Temporary revised seniority list of Group-A cadre (District Women and Child Development Officers and similar posts) officers under the jurisdiction of the Women and Child Development Commissionerate, Maharashtra State, Pune for the period 2014 to 2024 as on 1st January.\
+  [202501231811524730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231811524730.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

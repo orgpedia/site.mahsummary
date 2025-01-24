@@ -13,6 +13,9 @@
 - Regarding extension of tenure of the majority of posts created for employees working in the office under the jurisdiction of the Chief Engineer, Public Works Regional Department, Pune.\
   [202501201459548318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201459548318.pdf)
 
+- Regarding approval of the revised layout of the office under the jurisdiction of the Superintending Engineer, Sankalpchitra Board, (Buildings and Bridges), Navi Mumbai...\
+  [202501231539594618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231539594618.pdf)
+
 ## Personnel
 - Guidelines for planning and expenditure of programmes of VVIP persons for Maharashtra.\
   [202501201258097618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201258097618.pdf)
@@ -25,6 +28,9 @@
 
 - Regarding amendment in the seniority list of Assistant Engineer Grade-2 (Civil) Group-B (Gazetted) cadre.\
   [202501221741095718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221741095718.pdf)
+
+- Regarding encroachment on land/plot of the Public Works Department.\
+  [202501231233049718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231233049718.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -17,5 +17,9 @@
 - Requisition No. ZH-5 Account Head 4702 A028 Small Irrigation Ponds, Dahitna Village, Tal. Tuljapur, Dist. Dharashiv. (Land Acquisition Fund)\
   [202501201839273626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201839273626.pdf)
 
+## Personnel
+- To accord administrative approval to CNB Devalatanda no. 1, CNB Devalatanda no. 2, CNB Devalatanda no. 3, CNB Devalatanda no. 4 Tal. Deglur, Dist. Nanded.\
+  [202501231503357326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231503357326.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -38,6 +38,24 @@
 - Regarding allotment of space to Hon. Chief Ministers Secretariat and Mrs. Seema Vyas, A.C.S., G.A.D.\
   [202501221245016407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221245016407.pdf)
 
+- Deputation order. Shri.Vishal V. Tathe, Section Officer\
+  [202501231439393907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231439393907.pdf)
+
+- Distribution of Budgetary Grant for the year 2024-25 under Head of Account 2235, Pension to Freedom Fighters and their Dependents, etc., (22350015) (October to December, 2024)\
+  [202501231556308307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231556308307.pdf)
+
+- Deputation order. Shri.Vijay S. Patil, Section Officer\
+  [202501231436446807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231436446807.pdf)
+
+- Regarding allotment of government residence to the Honorable Minister of State\
+  [202501231447547207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231447547207.pdf)
+
+- Filling the post of deputation basis.\
+  [202501231444492107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231444492107.pdf)
+
+- Scheme for honouring/respecting those who were imprisoned during the Emergency period..... Regarding the distribution of funds for the three months from January to March 2025......\
+  [202501231537316907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231537316907.pdf)
+
 ## Personnel
 - Regarding payment of additional compensation for land acquisition as per the judgment of Honble Civil Court in the case of Smt. Manda Chandrakant Yamgar and others-2, Smt. Usha Bajirao Siddh, Smt. Shobha Mahadev Patil and others and Smt. Anuradha Vasantrao Patil and others-4.\
   [202501221621155207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221621155207.pdf)
