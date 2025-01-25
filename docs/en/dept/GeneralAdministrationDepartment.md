@@ -56,6 +56,9 @@
 - Scheme for honouring/respecting those who were imprisoned during the Emergency period..... Regarding the distribution of funds for the three months from January to March 2025......\
   [202501231537316907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231537316907.pdf)
 
+- Scheme for honouring/respecting those who were imprisoned during the Emergency period..... Regarding the distribution of funds for the three months from January to March 2025......\
+  [202501241453524207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241453524207.pdf)
+
 ## Personnel
 - Regarding payment of additional compensation for land acquisition as per the judgment of Honble Civil Court in the case of Smt. Manda Chandrakant Yamgar and others-2, Smt. Usha Bajirao Siddh, Smt. Shobha Mahadev Patil and others and Smt. Anuradha Vasantrao Patil and others-4.\
   [202501221621155207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221621155207.pdf)

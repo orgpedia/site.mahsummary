@@ -43,6 +43,9 @@
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Sujatpur, Taluka Samudrapur, District Wardha under the Jal Jeevan Mission program.\
   [202501231553021928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231553021928.pdf)
 
+- Regarding providing administrative approval to the revised budget of tap water supply scheme at Mauje-Dahindule, (T.Baglan, Dist.Nashik) under the Jal Jeevan Mission programme.\
+  [202501241627195428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241627195428.pdf)
+
 ## Miscellaneous
 - Regarding implementation of office mobility campaign.\
   [202501201745222328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201745222328.pdf)
@@ -290,6 +293,33 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Pithori (Banor), Gram Panchayat Pithori (Banor), Taluka Narkhed, District Nagpur under the Jal Jeevan Mission program.\
   [202501231624593528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231624593528.pdf)
+
+- Regarding giving administrative approval to the revised budget of tap water supply scheme at Mauje-Parner, (T. Baglan, Dist. Nashik) under the Jal Jeevan Mission programme.\
+  [202501241629040628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241629040628.pdf)
+
+- Regarding giving administrative approval to the revised budget of tap water supply scheme at Mauje- Hatlondhi, (T. Trimbakeshwar, Dist. Nashik) under Jal Jeevan Mission programme.\
+  [202501241634275828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241634275828.pdf)
+
+- Activities under Jal Jeevan Mission Program- Phanaspada and Dhulghat Gram.Pt. Regarding giving administrative approval to the revised budget of tap water supply scheme at Pate, (T.Peth, Dist.Nashik).\
+  [202501241630222828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241630222828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Girawali (Tal. Jamkhed, Dist. Ahilyanagar) under the Jal Jeevan Mission program.\
+  [202501241626320728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241626320728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje-Jatap (Tel. Rahuri, Dist. Ahilyanagar) under the Jal Jeevan Mission program.\
+  [202501241624275528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241624275528.pdf)
+
+- Regarding giving administrative approval to the revised budget of tap water supply scheme at Mauje- Savarpada, (T. Trimbakeshwar, Dist. Nashik) under Jal Jeevan Mission programme.\
+  [202501241631509528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241631509528.pdf)
+
+- Regarding giving administrative approval to the revised budget of tap water supply scheme at Mauje-Sompur, (T.Baglan, Dist.Nashik) under Jal Jeevan Mission programme.\
+  [202501241633081628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241633081628.pdf)
+
+- Regarding giving administrative approval to the revised budget of tap water supply scheme at Mauje- Old Nirpur, (T. Baglan, Dist. Nashik) under Jal Jeevan Mission programme.\
+  [202501241625154328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241625154328.pdf)
+
+- Regarding providing administrative approval to the revised budget of tap water supply scheme at Mauje-Gandhinagar, (T. Baglan, Dist. Nashik) under the Jal Jeevan Mission programme.\
+  [202501241623300228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241623300228.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

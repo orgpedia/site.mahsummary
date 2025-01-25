@@ -3,6 +3,10 @@
 **Date Range**: 27 January 2025 - 01 February 2025
 
 
+## Funds
+- Regarding granting administrative approval to purchase 11 new inspection vehicles in replacement of 11 deregistered inspection vehicles for the subordinate office of the Superintending Engineer, Public Works Board, Chhatrapati Sambhajinagar.\
+  [202501241603262918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241603262918.pdf)
+
 ## Miscellaneous
 - Regarding extension of tenure of the supernumerary post created for Shri. Deepak Ganpat Koli, Junior Engineer.\
   [202501201508050018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201508050018.pdf)

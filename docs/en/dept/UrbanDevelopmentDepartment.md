@@ -286,6 +286,9 @@
 - Apart from A and B Municipal Corporation, C and D Municipal Corporation and all Municipal Councils / Municipal Corporations in the State, officers/employees who died due to corona infection while performing their duties in the anti-Covid campaign, Rs. 50 lakh on the lines of the Central Government and the State Government. Regarding disbursement of grant-in-aid.\
   [202501231650189525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231650189525.pdf)
 
+- Disbursement of the amount to MRVC payable by the Municipal Corporation of Greater Mumbai as per the Financial Agreement of the Mumbai Urban Transport Project Phase-3A (MUTP-3A) project from the grant-in-aid amount provided by the State Government for the compensation to be made to the Municipal Corporation of Greater Mumbai towards Local Body Tax (LBT/GST).\
+  [202501241723513025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241723513025.pdf)
+
 ## Miscellaneous
 - Regarding publication of the final seniority list as on 01.01.2024 of the officers in the cadre of Director, Town Planning (Group-A / Gazetted) on the establishment of the Directorate of Town Planning and Valuation.\
   [202501201702464025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201702464025.pdf)
@@ -295,6 +298,9 @@
 
 - Regarding obtaining administrative approval for the development works of projects to be developed in the development plan plan under the Central Governments Special Assistance to States for Capital Investment scheme.\
   [202501221706368025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221706368025.pdf)
+
+- Regarding appointment as a member of the Special Investigation Team (SIT) formed to provide adequate toilet facilities for women at the Oval Ground as well as other grounds in the state, and for women who leave their homes for work in Mumbai city.\
+  [202501241229586925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241229586925.pdf)
 
 ## Personnel
 - Regarding granting administrative approval to the solid waste management project of Panvel Municipal Corporation, Dist. Raigad under Swachh Maharashtra Mission (No.) 2.0.\

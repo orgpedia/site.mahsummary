@@ -28,6 +28,9 @@
 - Regarding the distribution of funds under the State Scheme for Development of Nature Tourism Sites (2406 2295) for the year 2024-25.\
   [202501231705349019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231705349019.pdf)
 
+- Regarding the distribution of funds for civic amenities works in the rehabilitated village station of Mouje Kenjal (Kavathe) in Karad taluka of Satara district under the Kanher project.\
+  [202501241148440619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241148440619.pdf)
+
 ## Miscellaneous
 - Regarding the addition of the service of Mrs. Apeksha Vilin Rane, High Grade Stenographer, in the previous post of Clerk-Typist in the office of City Civil Court, Mumbai...\
   [202501201645353919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201645353919.pdf)
@@ -59,6 +62,9 @@
 
 - Final Seniority List of Deputy Director Land Records (Group-A Gazetted) Cadre  from 01.01.2014 to 01.01.2024\
   [202501231736065719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231736065719.pdf)
+
+- Regarding control of sand brought from other State.\
+  [202501241226568119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241226568119....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,12 @@
 - Requisition No. ZH-5, Account Head 4702 A 019 Pazar Talao Mouje Mhasrul, Tal. Jafrabad Dist. Jalna. (Land Acquisition Fund)\
   [202501201837174126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201837174126.pdf)
 
+- Requisition No. ZH-5 Account Head 4702 A 028 Ajani and Phul Amla Tal. Nandgaon Khandeshwar Dist. Amravati (Land Acquisition Fund)\
+  [202501241804074426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241804074426.pdf)
+
+- Requisition No. ZH-5, Account Head 4702 A 028. Small Irrigation Pond Manjari Mhasla, Tal. Nandgaon Dist. Amravati. (Land Acquisition Fund)\
+  [202501241807104026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241807104026.pdf)
+
 ## Miscellaneous
 - Regarding reassignment of administrative/financial powers to Joint Secretary/Deputy Secretary in the Department for various purposes to Additional Chief Secretary/Principal Secretary/Secretary Soil and Water Conservation as Head of Administrative Department...\
   [202501201232189326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201232189326.pdf)

@@ -16,6 +16,12 @@
 - Regarding disbursement of funds for Captive Market Scheme F.Y. 2024-25\
   [202501221457044802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221457044802.pdf)
 
+- Regarding repayment of interest on loan of Rs.549.54 crore received by the State Government in the year 2023-24 under Margin Money Loan Scheme from National Cooperative Development Corporation (NCDC).\
+  [202501241719296402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241719296402.pdf)
+
+- Regarding approval of project report-  Pingala Cooperative Yarn Mill Marya., Sonesangvi, T. Shevgaon, Dist. Ahilyanagar.\
+  [202501241501443602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241501443602.pdf)
+
 ## Miscellaneous
 - Regarding determination of transportation rates for procurement of pulses and oilseeds under the Minimum Support Price Scheme\
   [202501211447445602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501211447445602.pdf)
