@@ -1,18 +1,11 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 27 January 2025 - 01 February 2025
+**Date Range**: 03 February 2025 - 08 February 2025
 
 
-## Miscellaneous
-- Regarding the formation of a high level committee to design a single centralized online portal for the beneficiaries of all the social corporations in the state.\
-  [202501201821038822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201821038822.pdf)
-
-- Regarding the implementation of the governments prevailing scholarship reimbursement scheme for students of professional courses in the states recognized universities...\
-  [202501241656599622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241656599622.pdf)
-
-## Personnel
-- Regarding disbursement of funds of Centrally Sponsored Schemes under Scheduled Caste Sub-Yojan 2024-25.\
-  [202501201651010422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201651010422.pdf)
+## Funds
+- Regarding approval for purchase of chadar, bed sheet, barrack blanket (wool blanket) and satranji for students of government hostels and residential schools under social justice department.\
+  [202501271623579222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271623579222.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
