@@ -1,31 +1,18 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 27 January 2025 - 01 February 2025
+**Date Range**: 03 February 2025 - 08 February 2025
 
 
 ## Funds
-- Other Backward Classes, Freed Castes and Nomadic Tribes and Special Backward Classes in the state  Regarding provision of funds for food allowance to students in government hostels started for category students\
-  [202501201542425734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201542425734.pdf)
+- Distribution of funds for payment of salary of contractual employees working in government hostels started for Other Backward Classes, Scheduled Castes and Nomadic Tribes and Special Backward Class students in the state. (Year 2024-2025)\
+  [202501271736035834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271736035834.pdf)
 
-- Regarding approval of the project report, Punyashlok Ahilyadevi Holkar Cooperative Spinning Mill Limited, Chaundi, Tal. Jamkhed, Dist. Ahmednagar\
-  [202501221513440834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221513440834.pdf)
-
-- Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25\
-  [202501221510363534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221510363534.pdf)
-
-- Regarding the distribution of funds under the Pre-Matric Scholarship Scheme in the financial year 2024-25\
-  [202501231608040034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501231608040034.pdf)
+- Regarding the provision of supplementary demand funds of Rs.359.80 lakh approved by the Finance Department to be disbursed out of the total amount of Rs.493.00 lakh approved through supplementary demand to the office of Maharashtra State Backward Classes Commission, Pune.\
+  [202501271301380834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271301380834.pdf)
 
 ## Miscellaneous
-- Regarding making corrections in the work in Nandurbar district that has been given administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
-  [202501201539362434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201539362434.pdf)
-
-- Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25\
-  [202501201526211134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201526211134.pdf)
-
-## Personnel
-- Regarding sanctioning share capital to cooperative spinning mills of the Dhangar community, a nomadic tribe-C category in the state.\
-  [202501221515384534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221515384534.pdf)
+- Regarding sanctioning government share capital to the cooperative spinning mill of Dhangar community, Punyashloka Ahilyadevi Holkar Cooperative Spinning Mill Limited, Chaundi, Tal. Jamkhed, Dist. Ahmednagar, which has been selected for government financial assistance.\
+  [202501281708467834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281708467834.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

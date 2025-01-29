@@ -1,15 +1,14 @@
 # Planning Department
 
-**Date Range**: 27 January 2025 - 01 February 2025
+**Date Range**: 03 February 2025 - 08 February 2025
 
-
-## Funds
-- Regarding provisioning through redistribution of Demand No. O-7, Account Head 3451 A126-13-Office Expenses, to Objective 14-Lease and Taxes ....\
-  [202501221300024016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501221300024016.pdf)
 
 ## Miscellaneous
-- Regarding the formation of a high-power committee to prepare a draft of unique infrastructure ID for infrastructure development projects in the state.\
-  [202501241816451716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241816451716.pdf)
+- Regarding exemption of Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune from the procedure of Virtual Personal Deposit Account.\
+  [202501281629346516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281629346516.pdf)
+
+- Regarding the cancellation of appointments of nominated members and specially invited members on the District Planning Committee as well as on the Executive Committee...\
+  [202501281657414616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281657414616.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

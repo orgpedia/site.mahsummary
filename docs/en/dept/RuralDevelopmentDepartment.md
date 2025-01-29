@@ -1,27 +1,14 @@
 # Rural Development Department
 
-**Date Range**: 27 January 2025 - 01 February 2025
+**Date Range**: 03 February 2025 - 08 February 2025
 
 
-## Funds
-- Regarding the disbursement of funds for the Tribal Component Program (TSP) under the Maharashtra State Rural Livelihood Mission (MSRLM) for the year 2024-25.\
-  [202501241501495520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241501495520.pdf)
+## Miscellaneous
+- Aaple Sarkar Seva Kendra Guidelines for accepting online applications and providing services for all online public services notified by various administrative departments of the State Government under the Maharashtra Right to Public Services Act, 2015 through Aaple Sarkar Seva Kendra at the Gram Panchayat level.\
+  [202501281548498520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281548498520.pdf)
 
-- Financial assistance for the Mahila Kisan Sashaktikaran Pariyojna (SCP) for the Tribal Areas (Scheduled Castes) category for the year 2024-25.\
-  [202501241457446020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241457446020.pdf)
-
-- Regarding the distribution of grants for 2024-25 for the salaries and allowances of the officers and employees of the District Rural Development Administration.\
-  [202501241630201620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241630201620.pdf)
-
-## Personnel
-- Change in independent charge of the post of Block Development Officer, Group-A under Combined Probationary Training Program (CPTP)-9 - Shri. Milind G. Jagdale, Probationary Block Development Officer\
-  [202501241150336920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241150336920.pdf)
-
-- Change in Iindependent charge of the post of Block Development Officer, Group-A under Combined Probationary Training Program (CPTP)-8 A Supernumerary- Shri. Sandip D. Pantavane, Probationary Block Development Officer\
-  [202501241147411620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241147411620.pdf)
-
-- Corrigendum- Revised Final Seniority List dated 01.01.2023 of District Technical Service, Class-3 (Accounts) Cadre in Zilla Parishad.\
-  [202501241613074320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501241613074320.pdf)
+- Regarding the distribution of Subsidiary Grant for the year 2024-25 to the Gram Panchayat as compensation for property tax of Mahatma Gandhi Pratishthan Sevagram Wardha.\
+  [202501281551294920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281551294920.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

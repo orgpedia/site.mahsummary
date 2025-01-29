@@ -13,6 +13,9 @@
 - Regarding giving administrative approval for the security of Shivashastrashauryagatha exhibition at Central Museum, Nagpur under the Ekatra Scheme for Swatantryaya Amrit Mahotsav...\
   [202501271822347323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271822347323.pdf)
 
+- Regarding granting administrative approval for organizing the 57th Maharashtra State Marathi Film Awards Ceremony.\
+  [202501281815393323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281815393323.pdf)
+
 ## Miscellaneous
 - Bhairav Darwaza at Gad Mandir Ramtek, District Ramtek, District Nagpur regarding the approval of tender B-1 for the preservation and repair work of the protected monument...\
   [202501271825330423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271825330423.pdf)
