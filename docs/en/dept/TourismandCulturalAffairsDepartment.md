@@ -16,9 +16,15 @@
 - Regarding granting administrative approval for organizing the 57th Maharashtra State Marathi Film Awards Ceremony.\
   [202501281815393323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281815393323.pdf)
 
+- Regarding the establishment of a high-powered committee under Maharashtra Tourism Policy 2024.\
+  [202501291118228723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291118228723.pdf)
+
 ## Miscellaneous
 - Bhairav Darwaza at Gad Mandir Ramtek, District Ramtek, District Nagpur regarding the approval of tender B-1 for the preservation and repair work of the protected monument...\
   [202501271825330423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271825330423.pdf)
+
+- Regarding financial approval for the program planning and organizing expenses of Maharashtra State Sindhi Sahitya Academy.\
+  [202501291738388623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291738388623.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

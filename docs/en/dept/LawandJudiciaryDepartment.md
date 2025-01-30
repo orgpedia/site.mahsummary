@@ -1,21 +1,21 @@
 # Law and Judiciary Department
 
-**Date Range**: 27 January 2025 - 01 February 2025
+**Date Range**: 03 February 2025 - 08 February 2025
 
 
 ## Funds
-- To accord administrative approval to the estimates for carrying out various repairs and renovation work in the official residential bunglows  Anuradha at Nagpur.\
-  [202501201428145412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201428145412.pdf)
-
-- To accord administrative approval to the estimates for carrying out various repairs and renovation work in the official residential bunglows  Vivek, Sneha and Seva at Nagpur.\
-  [202501201425166012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201425166012.pdf)
-
-- To accord administrative approval to the estimates for carrying out various repairs and renovation work in the official residential bunglows  Hiranyagarbha  at Nagpur.\
-  [202501201433094412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201433094412.pdf)
+- Regarding granting administrative approval for the waterproofing work of the administrative building in the premises of the Nagpur Bench of the Honble High Court.\
+  [202501291724291012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291724291012.pdf)
 
 ## Miscellaneous
-- To accord administrative approval to the estimates for carrying out various repairs and renovation work in the official residential bunglows  Sewa, Sunit and Saudamini  at Nagpur.\
-  [202501201430256212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501201430256212.pdf)
+- Regarding granting administrative approval for the repair/renovation work of the administrative building at Nagpur Bench of the Honble High Court.\
+  [202501291721078912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291721078912.pdf)
+
+- Regarding granting administrative approval for the repair/renovation work of the court room in the administrative building of the Nagpur Bench of the Honble High Court.\
+  [202501291723119112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291723119112.pdf)
+
+- Regarding granting administrative approval for the repair/renovation work of the Hall of Honble Justices at Nagpur Bench of Honble High Court.\
+  [202501291718515812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291718515812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

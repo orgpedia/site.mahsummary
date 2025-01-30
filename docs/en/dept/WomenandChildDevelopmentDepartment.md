@@ -7,5 +7,8 @@
 - Release of Grant-in-aid for Pension and Non salary things to Maharashtra State Social Welfare Board for the year 2024-25.Release of Grant-in-aid for salary to Maharashtra State Social Welfare Board for the year 2024-25.\
   [202501271152416730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271152416730.pdf)
 
+- Regarding the construction of Fiber Reinforced Polymer (FRP) toilets in Anganwadi centers in the state under the Integrated Child Development Services Scheme.\
+  [202501291727597030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291727597030.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
