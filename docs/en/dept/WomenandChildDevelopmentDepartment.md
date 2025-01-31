@@ -10,5 +10,9 @@
 - Regarding the construction of Fiber Reinforced Polymer (FRP) toilets in Anganwadi centers in the state under the Integrated Child Development Services Scheme.\
   [202501291727597030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291727597030.pdf)
 
+## Miscellaneous
+- Regarding amendment in the terms and conditions of appointment of Anganwadi workers and Anganwadi helpers under the Integrated Child Development Services Scheme.\
+  [202501301234271930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301234271930.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

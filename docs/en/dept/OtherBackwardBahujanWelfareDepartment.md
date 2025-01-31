@@ -19,6 +19,9 @@
 - Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25\
   [202501291302192234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291302192234.pdf)
 
+- Regarding the transfer of the government share capital amount approved to the cooperative spinning mill of Dhangar community, Punyashlok Ahilyadevi Holkar Cooperative Spinning Mill Limited, Choundi, Tal. Jamkhed, Dist. Ahmednagar, which has been selected for government financial assistance, to the Textiles Department.\
+  [202501301131442434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301131442434.pdf)
+
 ## Miscellaneous
 - Regarding sanctioning government share capital to the cooperative spinning mill of Dhangar community, Punyashloka Ahilyadevi Holkar Cooperative Spinning Mill Limited, Chaundi, Tal. Jamkhed, Dist. Ahmednagar, which has been selected for government financial assistance.\
   [202501281708467834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281708467834.pdf)

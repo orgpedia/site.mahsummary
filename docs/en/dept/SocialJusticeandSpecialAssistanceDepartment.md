@@ -7,5 +7,8 @@
 - Regarding approval for purchase of chadar, bed sheet, barrack blanket (wool blanket) and satranji for students of government hostels and residential schools under social justice department.\
   [202501271623579222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271623579222.pdf)
 
+- Regarding approval for the purchase of new vehicles to replace deregistered vehicles in the regional offices under the Social Welfare Commissionerate as well as for the purchase of new vehicles for offices not previously provided.\
+  [202501301327128922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301327128922.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

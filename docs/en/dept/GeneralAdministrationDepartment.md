@@ -23,6 +23,9 @@
 - Regarding making non-creamy layer certificate mandatory for the tuition fee and examination fee reimbursement scheme for students belonging to the Socially and Educationally Backward Classes (SEBC) category...\
   [202501291338554607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291338554607.pdf)
 
+- Regarding the cancellation of the appointment From Assistant Section officer (Main) Exam 2023.\
+  [202501301248570607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301248570607.pdf)
+
 ## Personnel
 - Seniority List - Provisional Seniority List of Assistant Director (Administration) Group-B Officers upto 01.01.2025.\
   [202501271619131907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271619131907.pdf)
@@ -47,6 +50,9 @@
 
 - Telephone regulations in ministerial offices.\
   [202501291617084607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291617084607.pdf)
+
+- Regarding the reversion of the services of Shri Dhananjay Avadhoot, Assistant Section Officer working on deputation in the office of State Service Rights Commission, Nagpur to the parent department.\
+  [202501301251209807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301251209807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

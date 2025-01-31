@@ -10,6 +10,15 @@
 - Disbursement of funds under UNDP- GCF Project Enhancing Climate Resilience of Indias Coastal Communities (2406 B272).\
   [202501291522427619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291522427619.pdf)
 
+- Regarding the distribution of funds under the State Scheme for Development of Nature Tourism Sites (2406 2295) for the year 2024-25.\
+  [202501301208571319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301208571319.pdf)
+
+- Minor Minerals- Pune - Regarding refund of the amount deposited by the government and the interest thereon to the plaintiff Mr. Vasantrao Gyanoba Mahajan in the case of unauthorized mining.\
+  [202501301706050119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301706050119.pdf)
+
+- Regarding disbursement of funds for pre-monsoon and first year works to be carried out under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
+  [202501301156536719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301156536719.pdf)
+
 ## Miscellaneous
 - Regarding the pay scale of Veterinary Officer, Group-A cadre...\
   [202501271241039519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271241039519.pdf)
@@ -22,6 +31,9 @@
 
 - Regarding issuing directions to all revenue officers regarding the non-agricultural use certificate not being required if an industrial unit wants to start non-agricultural use for industrial purposes...\
   [202501291832306119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291832306119.pdf)
+
+- Regarding the publication of the draft Sand/Sand Extraction Policy-2025 for inviting objections/suggestions...\
+  [202501301658422619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301658422619.pdf)
 
 ## Personnel
 - Determination of Hospitals for Medical Check-up of IFS Officers for PAR\
@@ -41,6 +53,15 @@
 
 - Regarding reinstatement and posting of officers in the Naib Tehsildar cadre in government service...\
   [202501291840263019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291840263019.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre... Shri. Ramdas Jagtap\
+  [202501301751196119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301751196119.pdf)
+
+- Regarding the posting of officers reinstated in the government service in the Deputy District Collector cadre...\
+  [202501301753228719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301753228719.pdf)
+
+- Transfer of officers in the Deputy Collector cadre...Shri. Arvind Aturlikar\
+  [202501301212194019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301212194019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
