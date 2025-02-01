@@ -26,6 +26,9 @@
 - Regarding the cancellation of the appointment From Assistant Section officer (Main) Exam 2023.\
   [202501301248570607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301248570607.pdf)
 
+- Regarding   Selection Grade Pay Scale of S-27 to 25 officers in the cadre of Deputy Secretary.\
+  [202501311341499207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311341499207.pdf)
+
 ## Personnel
 - Seniority List - Provisional Seniority List of Assistant Director (Administration) Group-B Officers upto 01.01.2025.\
   [202501271619131907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271619131907.pdf)
