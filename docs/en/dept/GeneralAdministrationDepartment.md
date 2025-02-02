@@ -29,6 +29,18 @@
 - Regarding   Selection Grade Pay Scale of S-27 to 25 officers in the cadre of Deputy Secretary.\
   [202501311341499207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311341499207.pdf)
 
+- FILLING THE POST OF DEPUTATION BASIS\
+  [202501311449419707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311449419707.pdf)
+
+- Regarding approval to provide technical manpower for the Project Monitoring Unit (PMU) established for the expansion and smooth functioning of the Right to Information online.\
+  [202501311716170107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311716170107.pdf)
+
+- Filling Deputation Post  Joint Secretory Cadre\
+  [202501311829592907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311829592907.pdf)
+
+- Regarding completion of the process of writing performance appraisal reports of government officers/employees.\
+  [202501311445371907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311445371907.......pdf)
+
 ## Personnel
 - Seniority List - Provisional Seniority List of Assistant Director (Administration) Group-B Officers upto 01.01.2025.\
   [202501271619131907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271619131907.pdf)

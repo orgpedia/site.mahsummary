@@ -7,6 +7,9 @@
 - Regarding giving administrative approval for expansion work (land acquisition and resettlement of resident elsewhere) of Mahatma Phule Wada and Krantijyoti Savitribai Phule memorial in Pune city.\
   [202501281203283825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281203283825.pdf)
 
+- Regarding administrative approval and funding for the third phase of the Krantiveer Chapekar Memorial in Pimpri Chinchwad Municipal Corporation.\
+  [202501311809575025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311809575025.pdf)
+
 ## Miscellaneous
 - Regarding granting in-principle approval to implement the Mumbai Metro Rail Route 8 (Chhatrapati Shivaji Maharaj International Airport to Navi Mumbai International Airport) project on Public Private Partnership (PPP) basis.....\
   [202501271616302925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271616302925.pdf)

@@ -56,6 +56,9 @@
 - Independent charge of the post of Assistant Block Development Officer, Group-B under Combined Probationary Training Program (CPTP)-9  Smt. Supriya M. Patil, Probationary Assistant Block Development Officer\
   [202501301532400820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301532400820.pdf)
 
+- Regarding the nomination of Honble Members of Parliament in the State Direction (DISHA) Committee.\
+  [202501311441219420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311441219420.pdf)
+
 ## Personnel
 - Corrigendum to the consolidated state-level final seniority list dated 01.01.2024 for Junior Engineer in District Technical Service, Class-3 (Construction) cadre in Zilla Parishad.\
   [202501291207559920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291207559920.pdf)

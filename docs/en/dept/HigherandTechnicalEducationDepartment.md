@@ -26,5 +26,8 @@
 - Regarding disbursement of funds to DTOs under National Retirement Scheme (NSDL) for payment of service charges from Central Records Maintenance Agency (CRA)...\
   [202501301730505908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301730505908.pdf)
 
+- Regarding extension of time to the committee to monitor the academic and administrative functioning of private universities.\
+  [202501311217163708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311217163708.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

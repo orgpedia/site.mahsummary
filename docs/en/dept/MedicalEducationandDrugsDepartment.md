@@ -7,6 +7,9 @@
 - Inclusion of the newly established Ratnagiri Railway Police Station on the Konkan Railway route under the jurisdiction of the Commissioner of Police, Railways, Mumbai, in the division of Government Medical Colleges as per police station jurisdictions for post-mortem, viscera examination, work allocation, and other related matters.\
   [202501271727294813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271727294813.pdf)
 
+- Regarding sanction of salary/emoluments to Dr. Bahubali Shah, Administrator, Maharashtra Council of Homeopathy, Mumbai.\
+  [202501311248493813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311248493813.pdf)
+
 ## Personnel
 - Granting authority to regional offices for approving charitable initiatives.\
   [202501271730305713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271730305713.pdf)

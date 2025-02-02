@@ -19,6 +19,9 @@
 - Regarding disbursement of funds for pre-monsoon and first year works to be carried out under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
   [202501301156536719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301156536719.pdf)
 
+- Regarding the disbursement of funds for payment of additional compensation for the land acquired at Mouje Dighi, Taluka Nevasa, Dist. Ahmednagar for the rehabilitation of project affected people as per Section 18 of the Land Acquisition Act, 1894.\
+  [202501311359084419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311359084419.pdf)
+
 ## Miscellaneous
 - Regarding the pay scale of Veterinary Officer, Group-A cadre...\
   [202501271241039519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271241039519.pdf)

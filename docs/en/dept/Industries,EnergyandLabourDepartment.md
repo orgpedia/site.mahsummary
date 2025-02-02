@@ -3,6 +3,13 @@
 **Date Range**: 03 February 2025 - 08 February 2025
 
 
+## Funds
+- Regarding opening of separate new account head under the scheme Loan to Maharashtra State Electricity Distribution Company for solar power generation and   traditional power connection to agricultural pumps by Asian Development Bank\
+  [202501311241389510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311241389510.pdf)
+
+- Regarding release of Grant for General Category Beneficiaries of PM Kusum Scheme for the year 2024-25.\
+  [202501311707402610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311707402610.pdf)
+
 ## Miscellaneous
 - Regarding payment of service tax on premises taken for the office of Industrial and Labor Court, Nashik\
   [202501281304497510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501281304497510.pdf)

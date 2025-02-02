@@ -25,6 +25,9 @@
 - Regarding financial approval for the organization expenses of Bharat Ratna Pt. Bhimsen Joshi Classical Music Festival.\
   [202501301259257023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301259257023.pdf)
 
+- Administrative approval for training programs for officers, craftsmen and clerical staff in industrial training institutes.\
+  [202501311750036323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311750036323.pdf)
+
 ## Miscellaneous
 - Bhairav Darwaza at Gad Mandir Ramtek, District Ramtek, District Nagpur regarding the approval of tender B-1 for the preservation and repair work of the protected monument...\
   [202501271825330423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271825330423.pdf)

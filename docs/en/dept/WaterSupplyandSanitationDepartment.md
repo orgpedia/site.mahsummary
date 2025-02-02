@@ -64,6 +64,51 @@
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Vadsa Kala, Gram Panchayat Vadsa Kh., Taluka Etapalli, Dist. Gadchiroli under the Jal Jeevan Mission program.\
   [202501301805292028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301805292028.pdf)
 
+- Revised Administrative approval to Mau. Wadghar, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311337419028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311337419028.pdf)
+
+- Revised Administrative approval to Mau. Kolhan, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311321109728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311321109728.pdf)
+
+- Revised Administrative approval to Mau. Khandapale, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311317190928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311317190928.pdf)
+
+- Revised Administrative approval to Mau. Sangi, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311335005928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311335005928.pdf)
+
+- Revised Administrative approval to Mau. Kharghat, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311319508028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311319508028.pdf)
+
+- Revised Administrative approval to Mau. sai, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202501311333331428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311333331428.pdf)
+
+- Revised Administrative approval to Mau. Javathe, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311313147528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311313147528.pdf)
+
+- Revised Administrative approval to Mau. Muthawali tarfe Nijampur, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311323553728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311323553728.pdf)
+
+- Revised Administrative approval to Mau. Belwade, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311304471828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311304471828.pdf)
+
+- Revised Administrative approval to Mau. Songhar, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202501311336253628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311336253628.pdf)
+
+- Revised Administrative approval to Mau. Kamarli, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311314333628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311314333628.pdf)
+
+- Revised Administrative approval to Mau. Dolavi, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311309008728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311309008728.pdf)
+
+- Revised Administrative approval to Mau. Khanloshi, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311315539828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311315539828.pdf)
+
+- Revised Administrative approval to Mau. Burdi, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311306210328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311306210328.pdf)
+
+- Revised Administrative approval to Mau. Kharadombi, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311318366628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311318366628.pdf)
+
 ## Miscellaneous
 - Regarding granting revised administrative approval to the budget of the piped water supply scheme to Dadham and Fatehpur, Taluka Khamgaon villages of Buldhana district under the Jal Jeevan Mission Program.\
   [202501271751220328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271751220328.pdf)
@@ -104,6 +149,24 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Mohkhedi, Gram Panchayat Kalamba, Taluka Katol, District Nagpur under the Jal Jeevan Mission program.\
   [202501301721333028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301721333028.pdf)
+
+- Revised Administrative approval to Mau. Pabhere, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202501311325285628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311325285628.pdf)
+
+- Revised Administrative approval to Mau. Falani, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311311474628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311311474628.pdf)
+
+- Revised Administrative approval to Mau. Dhaksheli, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202501311307422028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311307422028.pdf)
+
+- Revised Administrative approval to Mau. Durshet, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311310205428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311310205428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Chindar Kumbharwadi, Taluka Malvan, District Sindhudurg under the Jal Jeevan Mission program.\
+  [202501311834277028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311834277028.pdf)
+
+- Revised Administrative approval to Mau. Kondavi, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202501311322353228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311322353228.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

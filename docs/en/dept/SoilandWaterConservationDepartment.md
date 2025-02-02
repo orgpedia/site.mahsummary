@@ -10,6 +10,21 @@
 - Requisition No. ZH-5, Account Head 4702 A 019. Percolation Pond No. 11, Village Sagarwadi, Tal. Badnapur, Dist. Jalna. (Land Acquisition Fund)\
   [202501301548429526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301548429526.pdf)
 
+- Requisition No. ZH-5 Account Head 4702 A028 Storage Tank Wanewadi, Village Wanewadi Tal. Dist. Dharashiv. (Land Acquisition Fund)\
+  [202501311754313326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311754313326.pdf)
+
+- Requisition No. ZH-5, Account Head 4702 A 019. Regarding provision of funds for purchase of land through direct purchase method through private negotiation. (Land Acquisition Fund)\
+  [202501311752418026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311752418026.pdf)
+
+- Requisition No. ZH-5, Account Head 4702 A 019. Village Talegaon Pazar Talao No. 3, Taluka Phulambri Dist. Chhatrapati Sambhajinagar. (Land Acquisition Fund)\
+  [202501311756059226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311756059226.pdf)
+
+- Requisition No. ZH-5, Account Head 4702 A 019. Percolation Pond No. 15, Village Bhakarwadi, Tal. Badnapur, Dist. Jalna. (Land Acquisition Fund)\
+  [202501311128459026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311128459026.pdf)
+
+- Requisition No. ZH-5, Account Head 4702 A 019. Percolation Pond No. 07, Village Pimpri, Tal. Bhokardan, Dist. Jalna. (Land Acquisition Fund)\
+  [202501311130436026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311130436026.pdf)
+
 ## Miscellaneous
 - Requisition No. ZH-5, Account Head 4702 A 019 Pazar Talobar No.2, Mouje Bhatadi, Tal. Ambad Dist. Jalna. (Land Acquisition Fund)\
   [202501301541562726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301541562726.pdf)
@@ -29,6 +44,9 @@
 
 - Requisition No. Z H-5, Account Heading 4702 A 019. Pazar Lake No. 13, Mauje Sirasgaon Ghati Ta. Badnapur, Dist. Jalna (Land Acquisition Fund)\
   [202501301547155326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301547155326.pdf)
+
+- Requisition No. ZH-5, Account Head 4702 A 019. Percolation Pond No. 10, Village Nandkheda, Tal. Badnapur, Dist. Jalna. (Land Acquisition Fund)\
+  [202501311126596026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311126596026.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

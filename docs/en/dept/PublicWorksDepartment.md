@@ -20,5 +20,8 @@
 - Promotion and posting from the cadre of Sub-Divisional Engineer (Civil Engineering) to the cadre of Executive Engineer (Civil Engineering).\
   [202501301534455018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501301534455018.pdf)
 
+- Posting from the cadre of Sub-Divisional Engineer (Civil Engineering) to the cadre of Executive Engineer (Civil Engineering).\
+  [202501311806552318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311806552318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
