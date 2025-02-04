@@ -1,18 +1,23 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 03 February 2025 - 08 February 2025
+**Date Range**: 10 February 2025 - 15 February 2025
 
 
 ## Miscellaneous
-- Inclusion of the newly established Ratnagiri Railway Police Station on the Konkan Railway route under the jurisdiction of the Commissioner of Police, Railways, Mumbai, in the division of Government Medical Colleges as per police station jurisdictions for post-mortem, viscera examination, work allocation, and other related matters.\
-  [202501271727294813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271727294813.pdf)
+- Final seniority list of gazetted posts in the cadre of Assistant Professor, Pathology as on 1.1.2024...\
+  [202502031550405613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031550405613.pdf)
 
-- Regarding sanction of salary/emoluments to Dr. Bahubali Shah, Administrator, Maharashtra Council of Homeopathy, Mumbai.\
-  [202501311248493813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501311248493813.pdf)
+- Final seniority list of gazetted posts in the category of Assistant Professor, Anatomy as on 1.1.2024\
+  [202502031543180213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031543180213.pdf)
 
-## Personnel
-- Granting authority to regional offices for approving charitable initiatives.\
-  [202501271730305713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501271730305713.pdf)
+- Final seniority list of gazetted posts in the cadre of Assistant Professor, Microbiology as on 1.1.2024\
+  [202502031539416313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031539416313.pdf)
+
+- Final seniority list of gazetted posts in the category of Assistant Professor, Physiology as on 1.1.2024\
+  [202502031547000413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031547000413.pdf)
+
+- Final seniority list of gazetted posts in the cadre of Assistant Professor, Forensic Science (Group-B) as on 1.1.2024\
+  [202502031553389313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031553389313.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
