@@ -11,5 +11,9 @@
 - Maharashtra State Cooperative Appellate Court, Nagpur Regarding granting administrative and financial approval for the expenses incurred for installation of air conditioners.\
   [202502031752161502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031752161502.pdf)
 
+## Personnel
+- Regarding to the cancellation of the appointment made by nomination to the Maharashtra State Agricultural Marketing Board...\
+  [202502041107511202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041107511202.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

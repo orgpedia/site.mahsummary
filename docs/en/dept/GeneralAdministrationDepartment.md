@@ -3,6 +3,13 @@
 **Date Range**: 10 February 2025 - 15 February 2025
 
 
+## Funds
+- Marathwada Administrative and Development Training Institute, Nathnagar (North), Paithan Dist. Chhatrapati Sambhajinagar Subsidiary Grant for the year 2024-25 (Compulsory) (Third Installment)\
+  [202502041124344607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041124344607.pdf)
+
+- Creative advertise Competition-2024\
+  [202502041622330407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041622330407.pdf)
+
 ## Miscellaneous
 - Regarding the revised criteria and responsibilities for appointment as Special Executive Officer.\
   [202502031604390507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031604390507.pdf)

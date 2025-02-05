@@ -16,5 +16,9 @@
 - Regarding granting administrative approval to deposit funds in the State Cultural Fund under the Amrit Mahotsav of Freedom.\
   [202502031738256323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031738256323.pdf)
 
+## Miscellaneous
+- Regarding granting administrative approval to the proposal to take 2 Xerox machines on rent for a period of 11 months for the Directorate of Archives, Mumbai and Pune Archives Offices...\
+  [202502041522452223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041522452223.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

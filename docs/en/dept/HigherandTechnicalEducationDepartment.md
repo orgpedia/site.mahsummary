@@ -16,5 +16,8 @@
 - Regarding the governments approval to start a new design course from the academic year 2024-25 in the unaided institute of the existing Faculty of Architecture, as per the approval of All India Council for Technical Education, New Delhi...\
   [202502031523345608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031523345608.pdf)
 
+- Regarding cancellation of the letter of intent and final approval granted to start a new college for the academic year 2024-25. (Court case)\
+  [202502041350199608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041350199608.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
