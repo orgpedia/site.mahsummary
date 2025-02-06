@@ -3,6 +3,10 @@
 **Date Range**: 10 February 2025 - 15 February 2025
 
 
+## Funds
+- Regarding appointment of M/s. IQVIA as a consultant for setting up COE (Centre of Excellence) and preparing Feasibility Report of Government Colleges.\
+  [202502051153135913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051153135913.pdf)
+
 ## Miscellaneous
 - Final seniority list of gazetted posts in the cadre of Assistant Professor, Pathology as on 1.1.2024...\
   [202502031550405613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031550405613.pdf)

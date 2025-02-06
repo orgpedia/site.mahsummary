@@ -13,6 +13,9 @@
 - Regarding the distribution of funds under the scheme for the implementation of the e-Governance project for the financial year 2024-25 under the Tribal Component Program.\
   [202502041435134024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041435134024.pdf)
 
+- Regarding granting administrative approval to the Honble Secretary, Tribal Development Department for purchasing a laptop of up to High Range specifications.\
+  [202502051219324424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051219324424.pdf)
+
 ## Miscellaneous
 - Distribution of funds under the scheme of program expenditure under the Tribal Component Program for the year 2024-25. (Program Expenditure-Backward Classes Welfare)\
   [202502041427196024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041427196024.pdf)

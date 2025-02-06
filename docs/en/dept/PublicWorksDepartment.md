@@ -3,6 +3,10 @@
 **Date Range**: 10 February 2025 - 15 February 2025
 
 
+## Funds
+- Regarding granting administrative approval to purchase 01 new inspection vehicle in replacement of 01 deregistered inspection vehicle for the subordinate office of Superintending Engineer, Public Works Board, Akola.\
+  [202502051221450518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051221450518.pdf)
+
 ## Miscellaneous
 - Precautions to be taken while handling court cases related to land acquisition by the regional offices of the Public Works Department...\
   [202502041514587318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041514587318.pdf)
