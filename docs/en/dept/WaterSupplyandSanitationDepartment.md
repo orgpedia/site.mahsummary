@@ -58,6 +58,9 @@
 - Revised Administrative approval to Mau. Aasuf, Tal. Shrivardhan, Dist. Raigad water supply scheme Under JJM.\
   [202502051720562728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051720562728.pdf)
 
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kosurla (Motha), Gram Panchayat Kosurla (Motha), Taluka Hinganghat, District Wardha under the Jal Jeevan Mission program.\
+  [202502061711175728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061711175728.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Rohana  ta.Khamgaon   dist-Buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202502031707524728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031707524728.pdf)
@@ -167,6 +170,39 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme in Mouj. Dagdwadi and Shivajinagar, Tal. Gangakhed, Dist. Parbhani under the Jal Jeevan Mission program\
   [202502051602285528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051602285528.pdf)
+
+- Revised Provisional Final Seniority List of Junior Geologist (Group-B) Cadre Officers in Ground Water Survey and Development Authority (Dated 01/01/2024 and 01/01/2025)\
+  [202502061507035928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061507035928.pdf)
+
+- Provisional Final Seniority List of Senior Geological Group-A Cadre Officers/Employees in Ground Water Survey and Development System up to 01/01/2025Provisional final seniority list of officers in Group-A cadre of Joint Director in Ground Water Survey and Development Authority dated 01st January, 2025\
+  [202502061500580328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061500580328.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Sawarkheda, Taluka Arvi, District Wardha under the Jal Jeevan Mission program.\
+  [202502061717004628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061717004628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kakaddhara, Tal. Arvi, District Wardha under the Jal Jeevan Mission program.\
+  [202502061708382428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061708382428.pdf)
+
+- Provisional seniority list of officers/employees of Group-A cadre of Deputy Engineer (Mechanical) in Ground Water Survey and Development Authority (up to 1/1/2025)\
+  [202502061512018628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061512018628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kutki, Gram Panchayat Kutki, Taluka Hinganghat, District Wardha under the Jal Jeevan Mission program.\
+  [202502061710404728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061710404728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Shirpur, Taluka Deoli, District Wardha under the Jal Jeevan Mission program.\
+  [202502061715480128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061715480128.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Wabgaon, Taluka Deoli, District Wardha under the Jal Jeevan Mission program.\
+  [202502061713538528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061713538528.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Mamdapur, Taluka Deoli, District Wardha under the Jal Jeevan Mission program.\
+  [202502061713240428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061713240428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Bhaiyapur, Gram Panchayat Bhaiyapur, Taluka Hinganghat, District Wardha under the Jal Jeevan Mission program.\
+  [202502061712237128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061712237128.pdf)
+
+- Provisional final seniority list of officers/employees in Assistant Administrative Officer Group-B cadre of Ground Water Survey and Development Authority (up to 1/1/2025) Corrigendum\
+  [202502061500527128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061500527128.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

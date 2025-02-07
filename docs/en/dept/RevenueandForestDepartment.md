@@ -16,6 +16,9 @@
 - Regarding disbursement of funds for payment of increased compensation under section 18 of the Land Acquisition Act, 1894 for acquired land at Umari (Ta. Arni Dist.Yavatmal)\
   [202502051200115519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051200115519.pdf)
 
+- Regarding the distribution of funds for civic amenities works in the rehabilitated village station of Ganeshwadi, Mouje, Karjat taluka, Ahmednagar district under the Ujani project.\
+  [202502061554598219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061554598219.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds under the account head (4415 0192) for the year 2024-25 for the establishment of Bamboo Research and Training Center at Chichpalli in Chandrapur district.\
   [202502031623009219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031623009219.pdf)
@@ -25,6 +28,9 @@
 
 - Regarding granting administrative approval to the budget for the work of Establishment of IT Infrastructure and CCTV Surveillance System at Balasaheb Thackeray Gorewada International Zoological Park, Nagpur.\
   [202502051215197019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051215197019.pdf)
+
+- Regarding restructuring of Maharashtra State Disaster Management Authority.\
+  [202502061543219019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061543219019.pdf)
 
 ## Personnel
 - Posting of officers in the Tehsildar cadre\
@@ -59,6 +65,21 @@
 
 - Annual Plan 2024-25 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 01 new vehicle of the same type in replacement of 01 deregistered vehicle of Additional Principal Chief Conservator of Forests (Headquarters), Social Forestry Department, Pune Division under this scheme.\
   [202502051507489419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051507489419.pdf)
+
+- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra Development Service, Assistant Block Development Officer, Group-B in Amravati Division - (Select List Year 2022-23)\
+  [202502061814598719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061814598719.pdf)
+
+- Regarding the formation of a verification committee under the chairmanship of the concerned Divisional Commissioner to prevent unauthorized transfer of refugee properties in the state...\
+  [202502061142433119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061142433119.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202502061750298819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061750298819.pdf)
+
+- Regarding posting by ad hoc promotion to posts in the direct service quota on a purely temporary basis from the top clerk and board officer cadre to the deputy tehsildar cadre (Amravati Division).\
+  [202502061812382519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061812382519.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre... Mrs. Shivananda Langadapure\
+  [202502061513034419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061513034419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

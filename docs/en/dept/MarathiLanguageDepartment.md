@@ -1,11 +1,17 @@
 # Marathi Language Department
 
-**Date Range**: 03 February 2025 - 08 February 2025
+**Date Range**: 10 February 2025 - 15 February 2025
 
 
-## Miscellaneous
-- Maharashtra rajya vishwakosh nirmiti mandal, regarding disbursement of funds for payment of pending Goods and Services Tax and office rent for the year 2024-25 of the offices of Mumbai and Wai.\
-  [202501291731111733.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291731111733.pdf)
+## Personnel
+- Final seniority list of officers in the single cadre of Assistant Secretary Group-B (Gazetted) on the establishment of Maharashtra State Marathi Encyclopedia Production Board as on 01.01.2024.\
+  [202502061602342433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061602342433.pdf)
+
+- Final seniority list of officers in the single cadre of Assistant Director of Languages, Group-B (Gazetted) on the establishment of the Directorate of Languages as on 01.01.2024.\
+  [202502061559319733.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061559319733.pdf)
+
+- Final seniority list of officers in the single cadre of Language Officer (Hindi), Group-B (Gazetted) on the establishment of the Directorate of Languages as on 01.01.2024\
+  [202502061605184933.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061605184933.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

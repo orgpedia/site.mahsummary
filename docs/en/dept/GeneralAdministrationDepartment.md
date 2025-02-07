@@ -20,6 +20,9 @@
 - Demand No. A-5 (Mandatory/Voted) Re-appropriation of the provision of the Main Account Head 2235- Social Security and Welfare for the year 2024-25\
   [202502051230308707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051230308707.pdf)
 
+- Regarding the establishment of Maha-Hub-Incubator and Innovation Center\
+  [202502061804419607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061804419607....pdf)
+
 ## Personnel
 - Regarding promotion and posting to the post of Assistant Resident Commissioner (Administration) Group-A (Gazetted) from the Manager Group-B cadre on the establishment of the Office of the Resident Commissioner, Maharashtra Sadan...\
   [202502031735041107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031735041107.pdf)

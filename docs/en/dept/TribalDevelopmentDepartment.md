@@ -16,6 +16,9 @@
 - Regarding granting administrative approval to the Honble Secretary, Tribal Development Department for purchasing a laptop of up to High Range specifications.\
   [202502051219324424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051219324424.pdf)
 
+- One-time distribution of funds for the project of setting up a tribal industrial cluster in Mouje Jambutke, Taluka Dindori, District Nashik in the financial year 2024-25 under the Tribal Component Program.\
+  [202502061655373924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061655373924.pdf)
+
 ## Miscellaneous
 - Distribution of funds under the scheme of program expenditure under the Tribal Component Program for the year 2024-25. (Program Expenditure-Backward Classes Welfare)\
   [202502041427196024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041427196024.pdf)
@@ -25,6 +28,12 @@
 
 - Regarding granting administrative approval for the purchase of 8 laptops to implement e-office system in the department, to ensure effective participation of officers in e-governance initiatives by promoting digitization.\
   [202502041542115524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041542115524.pdf)
+
+- Regarding reservation for disabled students in the hostels of the Tribal Development Department..\
+  [202502061622183724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061622183724.pdf)
+
+- Fund distribution under the District Annual Tribal Component Program for the year 2024-25. (Request No. T-9, T-10 and T-11)\
+  [202502061649188724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061649188724.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

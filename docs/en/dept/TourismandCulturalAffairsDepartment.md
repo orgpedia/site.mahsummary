@@ -29,5 +29,8 @@
 - Regarding granting administrative approval to the proposal to organize the inauguration ceremony of the renovated building of P.L. Deshpande Maharashtra Kala Academy, P.L. Kala Mahotsav and Mahila Mahotsav.\
   [202502051605481423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051605481423....pdf)
 
+- Corrigendum regarding approval to organize Hindavi Swarajya (Mahadurg) Festival on the occasion of the birth anniversary of Chhatrapati Shivaji Maharaj at Shivneri Fort, Taluka Junnar, District Pune\
+  [202502061148340023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061148340023.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
