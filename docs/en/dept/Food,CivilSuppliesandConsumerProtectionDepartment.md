@@ -16,5 +16,8 @@
 - Regarding partial change in the posting given by temporary promotion in the Inspection Officer (Supply), Group-B (Gazetted) cadre...Shri. Vishal Niranjan Gavai, Inspection Officer (Supply).\
   [202502061124160406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061124160406.pdf)
 
+- Regarding approval of  new Account Head for direct cash transfer scheme  to all   APL (Orange) ration card holder  farmers of Chhatrapati Sambhajinagar  Amravati division as well as Wardha district of Nagpur division.\
+  [202502071705034106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071705034106.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

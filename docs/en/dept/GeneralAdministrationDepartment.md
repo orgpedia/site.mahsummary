@@ -23,12 +23,24 @@
 - Regarding the establishment of Maha-Hub-Incubator and Innovation Center\
   [202502061804419607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061804419607....pdf)
 
+- Regarding approval of departmental inquiry proposals received by Additional Chief Secretary/Principal Secretary/Secretary and Vichau-2 through the Single Window system.\
+  [202502071430124507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071430124507.pdf)
+
 ## Personnel
 - Regarding promotion and posting to the post of Assistant Resident Commissioner (Administration) Group-A (Gazetted) from the Manager Group-B cadre on the establishment of the Office of the Resident Commissioner, Maharashtra Sadan...\
   [202502031735041107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031735041107.pdf)
 
 - Provisional Seniority list dated 01.01.2024 and 01.01.2025 of Class C and D employees of Sahyadri/Nandgiri Guest House.\
   [202502051633245807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051633245807.pdf)
+
+- Final Seniority list of administrative side of Group-B (Non-Gazetted) and Group-C employees of Mantralaya Canteen Scheme as on 01.01.2023 to 01.01.2024 .( Dt.01.01.2022 to Dt.31.12.2022 and Dt.01.01.2023 to Dt.31.12.2023)\
+  [202502061745571807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061745571807.pdf)
+
+- Final Seniority list of Management side of Group-B (Non-Gazetted) and Group-C employees of Mantralaya Canteen Scheme as on 01.01.2022.( Dt.01.01.2021 to Dt.31.12.2021)\
+  [202502061746049107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061746049107.pdf)
+
+- Final Seniority List of Mantralaya Canteen Group D as on dated 01/01/2023 to 01/01/2024. ( Dt.01.01.2022 to Dt.31.12.2022 and Dt.01.01.2023 to 31.12.2023)\
+  [202502061746091007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061746091007.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

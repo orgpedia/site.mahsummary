@@ -19,6 +19,9 @@
 - One-time distribution of funds for the project of setting up a tribal industrial cluster in Mouje Jambutke, Taluka Dindori, District Nashik in the financial year 2024-25 under the Tribal Component Program.\
   [202502061655373924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061655373924.pdf)
 
+- Disbursement of funds for the scheme to provide training for competitive examinations conducted by the Union Public Service Commission/Maharashtra Public Service Commission to the Scheduled Tribe students to get opportunities for Indian and Administrative Services in the financial year 2024-25 under the Tribal Component Programme (Account Head 2225D 387)\
+  [202502071552480324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071552480324.pdf)
+
 ## Miscellaneous
 - Distribution of funds under the scheme of program expenditure under the Tribal Component Program for the year 2024-25. (Program Expenditure-Backward Classes Welfare)\
   [202502041427196024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041427196024.pdf)

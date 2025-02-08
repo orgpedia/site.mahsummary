@@ -35,5 +35,14 @@
 - Final seniority list of Associate Professor, Department of Preventive and Social Medicine as on 01.01.2024\
   [202502061520231713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061520231713.pdf)
 
+- Regarding granting permission to open a Personal Ledger Account (P.L.A.) for the Government Medical College and Hospital, Ambarnath.\
+  [202502071624095413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071624095413.pdf)
+
+- Proposed Construction of External Road for 600 Bedded General Hospital, 250 Bedded Superspeciality Hospital  250 Bedded Cancer Hospital at Shenda Park, Kolhapur\
+  [202502071524535513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071524535513.pdf)
+
+- Regarding approval to open a Personal Ledger Account (P.L.A.) for the institution Government Medical College and Hospital, Washim.\
+  [202502071621164513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071621164513.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

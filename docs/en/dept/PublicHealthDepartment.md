@@ -7,6 +7,9 @@
 - Regarding administrative approval for  the purchase of machinery and equipment for the newly constructed 900-bed District Hospital Thane, as well as granting administrative approval for the expenditure incurred for establishing infrastructure facilities like Burn Ward, Modular Dialysis Unit, Operation Theatre (OT), Modular ICU etc under head 4210 1101,52-machinery and equipement in the financial year 2024-25\
   [202502051754372117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051754372117.pdf)
 
+- Regarding administrative approval for the expenditure incurred for disposal of expired RTPCR Kits, RNA Extraction and Consumables.\
+  [202502071647323617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071647323617.pdf)
+
 ## Miscellaneous
 - Dr. Yadavrao Shankarao Sonkamble, Medical Officer, Regarding fixed age retirement of Group-A.\
   [202502051454071917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051454071917.pdf)
@@ -19,6 +22,9 @@
 
 - Dr. Asha Gopaldas Aggarwal, Medical Officer,Regarding fixed age retirement of Group-A\
   [202502051451396417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051451396417.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
+  [202502071416110817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071416110817.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

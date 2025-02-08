@@ -7,6 +7,9 @@
 - Regarding additional subsidy to handloom weavers on yarn under the Centrally Sponsored Raw Material Supply Scheme (RMSS) to handloom weavers under the Integrated and Sustainable Textiles Policy 2023-28 - Regarding distribution of funds for the financial year 2024-25.\
   [202502031310053202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031310053202.pdf)
 
+- Regarding granting administrative approval to the media plan for the promotion and publicity of the sericulture industry and its ancillary businesses and various schemes.\
+  [202502071129106902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071129106902....pdf)
+
 ## Miscellaneous
 - Maharashtra State Cooperative Appellate Court, Nagpur Regarding granting administrative and financial approval for the expenses incurred for installation of air conditioners.\
   [202502031752161502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031752161502.pdf)

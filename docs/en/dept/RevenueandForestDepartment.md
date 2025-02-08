@@ -19,6 +19,15 @@
 - Regarding the distribution of funds for civic amenities works in the rehabilitated village station of Ganeshwadi, Mouje, Karjat taluka, Ahmednagar district under the Ujani project.\
   [202502061554598219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061554598219.pdf)
 
+- Regarding the distribution of funds for payment of additional compensation for the acquired land in Mouje Dehani, Taluka Digras, Dist. Yavatmal as per Section 18 of the Land Acquisition Act, 1894.\
+  [202502071617574119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071617574119.pdf)
+
+- Sanctioning purchase of new vehicle in exchange of old registered vehicle of Tehsildar, Purandar, Dist-Pune.\
+  [202502071224505019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071224505019.pdf)
+
+- Sanctioning the Collector, Chandrapur  various Regional offices to purchase new vehicles in exchange of their old 06 registered vehicles\
+  [202502071719153619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071719153619.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds under the account head (4415 0192) for the year 2024-25 for the establishment of Bamboo Research and Training Center at Chichpalli in Chandrapur district.\
   [202502031623009219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031623009219.pdf)
@@ -80,6 +89,9 @@
 
 - Posting of officers awaiting appointment in the Deputy Collector cadre... Mrs. Shivananda Langadapure\
   [202502061513034419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061513034419.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202502071444198619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071444198619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
