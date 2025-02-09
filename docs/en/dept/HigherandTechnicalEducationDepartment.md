@@ -26,6 +26,9 @@
 - National Service Scheme Regarding approval of the number of students in government-aided Rasyo University-wise for the year 2024-25...\
   [202502071540547708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071540547708.pdf)
 
+- Regarding the posting of Shri. Sandeep Vaijnath Kendra, Lecturer, Computer Engineering.\
+  [202502071435029108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071435029108.pdf)
+
 ## Personnel
 - To handover the additional charge of the post of State Project Director, State project Directorate, Rashtriya Ucchatar Shiksha Abhiyan (RUSA), Mumbai to Mr. Vinod Mohitkar, Director, Directorate of Technical Education, Mumbai.\
   [202502051531252008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051531252008....pdf)
