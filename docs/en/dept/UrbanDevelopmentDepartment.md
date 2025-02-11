@@ -1,25 +1,23 @@
 # Urban Development Department
 
-**Date Range**: 10 February 2025 - 15 February 2025
+**Date Range**: 17 February 2025 - 22 February 2025
 
 
 ## Funds
-- Regarding the disbursement of funds under Part-5 of the Central Governments Special Assistance to States for Capital Investment 2024-25 Scheme for Promotion of Industrial Growth.\
-  [202502051428109325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051428109325.pdf)
+- Release of State Government Subordinate Debt for Pune Metro Railway Phase-1 Project to Maharashtra Rail Corporation Ltd. (FY 2024-25)\
+  [202502101818409225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101818409225.pdf)
 
-## Miscellaneous
-- Regarding the implementation of the Telecommunications Act, 2023, dated June 26, 2024 and the Telecommunications (Right of Way) Rules, 2024, dated January 01, 2025 in urban civic bodies.\
-  [202502051100455925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502051100455925.pdf)
+- Regarding provision of State Government financial assistance to Mumbai Railway Development Corporation for Mumbai Urban Transport Project Phase-3A (MUTP-3A) project (Year 2024-25)\
+  [202502101830132925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101830132925.pdf)
 
-## Personnel
-- Regarding opening of a new account head in relation to the interest-free loan fund available under the Central Governments Special Assistance to States for Capital Investment scheme and appointment of a State Scheme Manager for the scheme.\
-  [202502041718411825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502041718411825.pdf)
+- Release of surcharge on stamp duty to Metro Rail Project to the implementing agencies of the Vital Urban Transport Project of Mumbai, Nagpur and Pune Metro Railway from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949. (FY 2024-25)\
+  [202502101833284625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101833284625.pdf)
 
-- Regarding the government approval of the promotion given to Shri. Abdul Farooq Khan Mahmood Khan, Deputy Engineer (Civil Engineering) to the post of Executive Engineer (Civil Engineering), Chhatrapati Sambhajinagar Municipal Corporation.\
-  [202502071105559725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071105559725.pdf)
+- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3 (MUTP-3) (FY 2024-25)\
+  [202502101827528425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101827528425.pdf)
 
-- Regarding the governments approval of the promotion given to officers of Nanded-Waghala City Municipal Corporation.\
-  [202502071101071425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071101071425.pdf)
+- Regarding reimbursement of expenditure incurred by Mumbai Metropolitan Region Development Authority for the construction of Balasaheb Thackeray National Memorial. (Year 2024-25)\
+  [202502101825482425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101825482425.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
