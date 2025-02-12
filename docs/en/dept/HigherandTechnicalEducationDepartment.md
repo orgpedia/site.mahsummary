@@ -14,12 +14,21 @@
 - Provisional seniority list of officers in the following cadres: Principal, Government Industrial Training Institute or Deputy Principal, Government Industrial Training Institute or Inspector, Controller of Vocational Education and Training or Examination, Maharashtra State Skill, Vocational Education and Training Board, Group-A (Technical) (Junior) (Gazetted), Maharashtra Education Service (Pay Scale S-20: 56100-177500/-) in institutions and offices under the Directorate of Vocational Education and Training. 01/01/2024 and 01/01/2025.\
   [202502101804202608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101804202608.pdf)
 
+- Regarding the approval of the revised scheme of teaching posts in the Government Engineering and Pharmaceutical Degree Institutions under the Directorate of Technical Education.\
+  [202502111618316108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111618316108.pdf)
+
+- To publish final seniority list of the Registrar as on 01.01.2025\
+  [202502111557021608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111557021608.pdf)
+
 ## Personnel
 - To publish Final Seniority List of Assistant Secretary (Technical), Maharashtra State Board of Technical Education\
   [202502101807332008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101807332008.pdf)
 
 - Regarding cancellation of transfer... Assistant Professor, Government Engineering Colleges\
   [202502101810451808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101810451808.pdf)
+
+- To publish final seniority list of the Deputy Director, Technical Education as on 01.01.2025\
+  [202502111552415908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111552415908.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

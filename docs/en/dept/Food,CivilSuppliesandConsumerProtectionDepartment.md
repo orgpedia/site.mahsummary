@@ -1,23 +1,18 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 10 February 2025 - 15 February 2025
+**Date Range**: 17 February 2025 - 22 February 2025
 
+
+## Funds
+- Regarding providing technical manpower in Taluka and Ration Distribution Offices under the Public Distribution System Computerization Project.\
+  [202502111453271906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111453271906.pdf)
+
+- Regarding administrative approval of the expenditure incurred for cleanliness and security arrangements in the new administrative building office of District Consumer Grievance Redressal, Additional Mumbai Suburban District.\
+  [202502111137223106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111137223106.pdf)
 
 ## Personnel
-- Provisional seniority list of officers in the cadre of Assistant Controller, Ration Group-B  as on 01.01.2025.\
-  [202502031516580906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031516580906.pdf)
-
-- Provisional seniority list of officers in the cadre of Rationing Officer / Chief Inspecting Officer, Group-B  as on 01.01.2025.\
-  [202502031532064406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502031532064406.pdf)
-
-- Provisional seniority list showing the status of Assistant District Supply Officer, Group-B cadre in the Food, Civil Supplies and Consumer Protection Department as on 01.01.2025.\
-  [202502061611371406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061611371406....pdf)
-
-- Regarding partial change in the posting given by temporary promotion in the Inspection Officer (Supply), Group-B (Gazetted) cadre...Shri. Vishal Niranjan Gavai, Inspection Officer (Supply).\
-  [202502061124160406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502061124160406.pdf)
-
-- Regarding approval of  new Account Head for direct cash transfer scheme  to all   APL (Orange) ration card holder  farmers of Chhatrapati Sambhajinagar  Amravati division as well as Wardha district of Nagpur division.\
-  [202502071705034106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502071705034106.pdf)
+- Provisional State Level Seniority List showing the status of the cadre of Inspection Officer (Supply)/Circular Officer, Group-B (Gazetted) as on 01.01.2025....\
+  [202502111444167506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111444167506....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 17 February 2025 - 22 February 2025
 
 
+## Funds
+- Maharashtra Rajya Kaoushlya Vikas Society- Grant allocation\
+  [202502111625516803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111625516803.pdf)
+
 ## Personnel
 - Regarding the publication of the provisional seniority list of officers in the cadre of Deputy Commissioner (Group-A) under the jurisdiction of Commissioner, Skill Development, Employment and Entrepreneurship dated 01.01.2023, 1.01.2024 and 1.01.2025...\
   [202502101540526503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101540526503.pdf)

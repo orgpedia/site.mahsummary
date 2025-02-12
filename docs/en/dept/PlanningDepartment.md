@@ -13,6 +13,9 @@
 - Regarding formation of a State Level Technical Advisory Committee for regional level Consumer Price Index calculation and base year change\
   [202502101615137716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101615137716.pdf)
 
+- Declaring Commissioner, Directorate of Finance and Statistics, Mumbai as Head of Department and Head of Office.\
+  [202502111609457616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111609457616.pdf)
+
 ## Personnel
 - Regarding the rejection of appointment by promotion to the post of Research Officer/Statistical Officer (Group-B Gazetted) in the Directorate of Finance and Statistics.\
   [202502101244002916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101244002916.pdf)

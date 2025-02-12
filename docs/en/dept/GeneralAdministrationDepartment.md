@@ -17,6 +17,12 @@
 - Regarding extension of time to deputation. Smt.Geeta Kulwant, Desk Officer.\
   [202502101722100807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101722100807.pdf)
 
+- GRANT RELEASE FOR THE FINANCIAL YEAR 2024-25 TO YASHADA FOR SALARY (THIRD INSTALLMENT)\
+  [202502111256460207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111256460207.pdf)
+
+- Corrigendum regarding the revised criteria and responsibilities for appointment as Special Executive Officer.\
+  [202502111207009307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111207009307.pdf)
+
 ## Personnel
 - Revised Posting- Smti. Swati S. Vichare, Under Secretary\
   [202502101331053307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101331053307.pdf)

@@ -136,12 +136,30 @@
 - Budgetary Grants for the year 2024-25 Regarding disbursement of the second installment of the first installment received for the State share under the Scheduled Tribes component under Swachh Bharat Mission (GRA) Phase-II... (Account Head 2215 A168)\
   [202502101626233628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101626233628.pdf)
 
+- Budgetary Grant 2024-2025 Requisition No. Y-04, 2702 Small Irrigation Groundwater Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
+  [202502111115161728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111115161728.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Sheloshi, Taluka Gaganbawda, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111318351928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111318351928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Thanewadi, Taluka Kagal, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111323583528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111323583528.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Amshi, Taluka Karveer, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111332377128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111332377128.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Sulkud, Taluka Kagal, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111331391028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111331391028.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Nodal Officers and Single Nodal Agencies for effective implementation of centrally sponsored schemes like Swachh Bharat Mission (GMA) Phase-2...\
   [202502101634210728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101634210728.pdf)
 
 - Considering the increasing prevalence of Guillain-Barr Syndrome (GBS) virus and other infectious diseases in the state, regarding the disinfection of water and its supply.\
   [202502101622197128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101622197128.pdf)
+
+- Budgetary Grant 2024-2025 Demand No. Y-06, 4402 Capital Expenditure on Soil and Water Conservation (Non-Plan)(4402 1148)\
+  [202502111120275528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111120275528.pdf)
 
 ## Personnel
 - Revised Administrative approval to Mau. Dhagadwadi, Tal. Roha, Dist. Raigad water supply scheme Under JJM.\
@@ -242,6 +260,30 @@
 
 - Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje Kurhe, (Tel. Muktai Nagar, Dist. Jalgaon) under the Jal Jeevan Mission program.\
   [202502101451304628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101451304628.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Koge, Taluka Karveer, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111321323028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111321323028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Ranewadi, Taluka Bhudargad, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111329449228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111329449228.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Gelwade, Taluka Shahuwadi, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111323270028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111323270028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Ardewadi, Tal. Karveer, Dist. Kolhapur among the sub-districts under the Jal Jeevan Mission program.\
+  [202502111319279628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111319279628.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Waghurde Navalwadi, Tal. Panhala, Dist. Kolhapur under the Jal Jeevan Mission program.\
+  [202502111330169528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111330169528.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Kolvan, Taluka Bhudargad, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111321576028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111321576028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Titve, Taluka Radhanagari, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111325150428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111325150428.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Mauje Navaraswadi, Taluka Bhudargad, District Kolhapur under the Jal Jeevan Mission program.\
+  [202502111327286228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111327286228.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
