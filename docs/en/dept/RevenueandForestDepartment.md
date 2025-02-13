@@ -14,6 +14,15 @@
 - Forest Land- Gadchiroli Diversion of 0.42 ha Forest Land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of administrative building of Police Station at Ashti, Taluka Chamorshi, District-Gadchiroli.\
   [202502111251314819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111251314819.pdf)
 
+- Regarding the disbursement of funds under the scheme (2406-A096) for the establishment of Maharashtra Nature Tourism Development Board as per the Memorandum of Understanding (MoU) signed with the Director, Indian Institute of Management, Nagpur to achieve the objectives of nature tourism in Tadoba-Andhari and Pench Tiger Reserves in Maharashtra.\
+  [202502121156553819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121156553819.pdf)
+
+- Regarding establishment of separate Additional Tehsil Office for Ahilyanagar Taluka of Ahilyanagar District...\
+  [202502121603206219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121603206219.pdf)
+
+- M/s Gadchiroli Metals and Minerals Ltd. A total of 374.90 ha in Gadchiroli district for mining of iron ore to this company (Surjagad Iron or Mines). Regarding re-examination of area diversion area..\
+  [202502121616305419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121616305419.pdf)
+
 ## Personnel
 - Regarding the classification of posts in the Assistant Conservator of Forests, Group-A (Junior Grade) cadre...\
   [202502101403575119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101403575119.pdf)
@@ -92,6 +101,12 @@
 
 - Regarding regularization of acquired land at Mouje Bidkin / Mouje Bannitanda, Taluka Paithan, District Chhatrapati Sambhajinagar for the Delhi Mumbai Industrial Corridor (DMIC) project -- Applicant- Shri. Dhondabai Haridas Chavan.\
   [202502111544529519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111544529519.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202502121205507619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121205507619.pdf)
+
+- Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
+  [202502121942121319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121942121319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

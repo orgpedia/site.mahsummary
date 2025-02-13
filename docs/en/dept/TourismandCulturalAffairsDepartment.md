@@ -16,5 +16,12 @@
 - Regarding granting administrative approval to sanction financial assistance to encourage the production of quality Marathi films.\
   [202502111746156723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111746156723.pdf)
 
+- Regarding financial approval for the first phase of funds for the construction of a theatre at Alibaug, District Raigad\
+  [202502121536511423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121536511423.pdf)
+
+## Miscellaneous
+- Regarding granting administrative approval for the purchase of computers, printers, scanners, Ms-office and Antivirus for the Cultural Affairs Department (itself) and the regional offices under the department.\
+  [202502121831557723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121831557723.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

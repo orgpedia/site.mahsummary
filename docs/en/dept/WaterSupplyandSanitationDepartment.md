@@ -151,6 +151,9 @@
 - Regarding granting improved administrative approval to the piped water supply scheme at Mouje Sulkud, Taluka Kagal, District Kolhapur under the Jal Jeevan Mission program.\
   [202502111331391028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111331391028.pdf)
 
+- Regarding disbursement of funds under the general component (Central Share) under Budgetary Grant-Year 2024-25 Swachh Bharat Abhiyan (Gram.) Phase-II... (Account Head 2215 A132)\
+  [202502121555236628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121555236628.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Nodal Officers and Single Nodal Agencies for effective implementation of centrally sponsored schemes like Swachh Bharat Mission (GMA) Phase-2...\
   [202502101634210728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101634210728.pdf)
@@ -160,6 +163,15 @@
 
 - Budgetary Grant 2024-2025 Demand No. Y-06, 4402 Capital Expenditure on Soil and Water Conservation (Non-Plan)(4402 1148)\
   [202502111120275528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111120275528.pdf)
+
+- Regarding disbursement of funds under the general component (Central Share) under Budgetary Grant-Year 2024-25 Swachh Bharat Abhiyan (Gram.) Phase-II... (Account Head 2215 A132)\
+  [202502121600276628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121600276628.pdf)
+
+- Budgetary Grant-year 2024-25 - Regarding disbursement of funds under General Component (Central Share) under Swachh Bharat Mission (Gr.) Phase-II... (Head of Account 2215 A132)\
+  [202502121646314428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121646314428.pdf)
+
+- Considering the rising prevalence of Guillain Barre Syndrome (GBS) and other co-morbidities in the State, regarding disinfection of water supply.\
+  [202502121624121628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121624121628.pdf)
 
 ## Personnel
 - Revised Administrative approval to Mau. Dhagadwadi, Tal. Roha, Dist. Raigad water supply scheme Under JJM.\

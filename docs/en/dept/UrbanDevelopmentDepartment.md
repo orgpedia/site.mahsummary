@@ -19,5 +19,12 @@
 - Regarding reimbursement of expenditure incurred by Mumbai Metropolitan Region Development Authority for the construction of Balasaheb Thackeray National Memorial. (Year 2024-25)\
   [202502101825482425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101825482425.pdf)
 
+- Regarding the distribution of budgetary provisions for the financial year 2024-2025...\
+  [202502121500531225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121500531225....pdf)
+
+## Miscellaneous
+- Regarding ensuring accessibility for the disabled in the office of Pune Metropolitan Region Development Authority, Pune as per the Rights of Persons with Disabilities Act, 2016.\
+  [202502121745575425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121745575425.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

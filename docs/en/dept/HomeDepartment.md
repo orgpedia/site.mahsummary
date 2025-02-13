@@ -11,6 +11,9 @@
 - Regarding extension of time to the inquiry committee appointed to conduct a high-level inquiry into the incident of illegal billboard collapse in Ghatkopar, Mumbai\
   [202502111327144229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111327144229.pdf)
 
+- Regarding renewal of  appointment on contract basis at Unconventional Operations Training Centre, Nagpur, for imparting special training to Police personnel in Naxal affected areas.\
+  [202502121530191029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121530191029.pdf)
+
 ## Personnel
 - Supplementary Regular Select List 2023-24 (Sr .No. 2): Regarding posting-on-promotion to post in the cadre of Superintendent, District Prison, Grade-2/Deputy Superintendent, Central Prison, Group B (Gazetted)\
   [202502111510300129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111510300129.pdf)
