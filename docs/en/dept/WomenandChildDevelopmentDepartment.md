@@ -10,5 +10,8 @@
 - Grant release for One Time retirement benefit for Anganwadi Workers under Integrated Child Development Scheme\
   [202502121229115330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121229115330.pdf)
 
+- Regarding the distribution of the grant for the financial year 2024-25 for the scheme Majhi Kanya Bhagyashree.\
+  [202502131501360030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131501360030.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

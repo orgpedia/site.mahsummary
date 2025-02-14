@@ -23,5 +23,8 @@
 - Regarding granting administrative approval for the purchase of computers, printers, scanners, Ms-office and Antivirus for the Cultural Affairs Department (itself) and the regional offices under the department.\
   [202502121831557723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121831557723.pdf)
 
+- Regarding financial approval for the cost of computer preservation of drama collections in the office of the Theatre Experiments Inspection Board, Mumbai.\
+  [202502131755027523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131755027523.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

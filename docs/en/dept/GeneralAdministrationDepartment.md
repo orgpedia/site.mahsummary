@@ -10,6 +10,15 @@
 - Disbursement of funds from the budgetary provision for the year 2024-25 to the Rajiv Gandhi Science and Technology Commission\
   [202502121140149807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121140149807.pdf)
 
+- Regarding granting administrative approval for the erection of 200 digital (LED) hoardings in the premises of various state government offices and the expenditure incurred for the same amounting to Rs. 100.00 crore.\
+  [202502131710028407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131710028407.pdf)
+
+- Regarding giving administrative and financial approval to the budget for the renovation of the office in the new administrative building of the State Election Commission.\
+  [202502131536093407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131536093407.pdf)
+
+- Hon. Regarding granting administrative and financial approval for the purchase of computers, printers and scanners for the Chief Ministers Secretariat.\
+  [202502131204309607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131204309607.pdf)
+
 ## Miscellaneous
 - Regarding extension of Deputation- Mr. Yogesh Gunijan, Desk officer\
   [202502101614350907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101614350907.pdf)
@@ -34,6 +43,12 @@
 
 - Appointment to the post of Joint Commissioner (Administration) and Deputy Commissioner (Administration) in the office of Metropolitan Region Development Authority on deputation basis\
   [202502121209538607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121209538607.pdf)
+
+- Demand No. A-10 (Mandatory/Voted) Re-appropriation of the provision of the Main Head of Account 7610- Loans to Government Employees etc. in the year 2024-25\
+  [202502131746052807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131746052807.pdf)
+
+- Regarding the appointment of the Board of Directors for the Maha-Hub-Incubator and Innovation Center...\
+  [202502131634045907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131634045907.pdf)
 
 ## Personnel
 - Revised Posting- Smti. Swati S. Vichare, Under Secretary\

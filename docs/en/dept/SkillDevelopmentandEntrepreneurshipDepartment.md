@@ -7,6 +7,13 @@
 - Maharashtra Rajya Kaoushlya Vikas Society- Grant allocation\
   [202502111625516803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111625516803.pdf)
 
+- Regarding the disbursement of Rs. 05.67 crore from the budgeted funds for the financial year 2024-25 for Ratan Tata Maharashtra State Skill University.\
+  [202502131738125403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131738125403.pdf)
+
+## Miscellaneous
+- Regarding extension of surplus posts created for employees who have not submitted Scheduled Caste Validity Certificate in the Directorate of Vocational Education and Training, State of Maharashtra, Mumbai and its subordinate offices.\
+  [202502131548476303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131548476303.pdf)
+
 ## Personnel
 - Regarding the publication of the provisional seniority list of officers in the cadre of Deputy Commissioner (Group-A) under the jurisdiction of Commissioner, Skill Development, Employment and Entrepreneurship dated 01.01.2023, 1.01.2024 and 1.01.2025...\
   [202502101540526503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101540526503.pdf)

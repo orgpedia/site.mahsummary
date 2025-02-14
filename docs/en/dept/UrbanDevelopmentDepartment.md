@@ -22,9 +22,18 @@
 - Regarding the distribution of budgetary provisions for the financial year 2024-2025...\
   [202502121500531225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121500531225....pdf)
 
+- Regarding approval for raising green loans/bonds for various development project schemes of Pimpri Chinchwad Municipal Corporation.\
+  [202502131659045225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131659045225.pdf)
+
 ## Miscellaneous
 - Regarding ensuring accessibility for the disabled in the office of Pune Metropolitan Region Development Authority, Pune as per the Rights of Persons with Disabilities Act, 2016.\
   [202502121745575425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121745575425.pdf)
+
+- Resolution No. 135 dated 25.03.2015 passed by the Standing Committee Meeting of Kalyan-Dombivli Municipal Corporation is regarding the final dissolution under Section-451 (3) of the Maharashtra Municipal Corporation Act.\
+  [202502131535273825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131535273825.pdf)
+
+- Resolution No. 102 passed by the Mira-Bhayander Municipal Corporation Standing Committee meeting on 16.03.2020, regarding the final dissolution under Section-451 (3) of the Maharashtra Municipal Corporation Act.\
+  [202502131531575125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131531575125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

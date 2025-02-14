@@ -20,5 +20,12 @@
 - Regarding the appointment of a Bid Process Coordinator (BPC) to implement a competitive bidding process based on electricity rates for the construction of new transmission projects in the state.\
   [202502121648083810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121648083810.pdf)
 
+- Regarding approval of new accountants for depositing examination fee, approval fee and renewal fee of security auditors.\
+  [202502131542457610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131542457610.pdf)
+
+## Personnel
+- Regarding the Methodology of the Renewable Energy Policy-2020.Corrigendum.\
+  [202502131821069610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131821069610.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

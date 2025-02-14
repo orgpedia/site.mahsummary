@@ -23,6 +23,9 @@
 - M/s Gadchiroli Metals and Minerals Ltd. A total of 374.90 ha in Gadchiroli district for mining of iron ore to this company (Surjagad Iron or Mines). Regarding re-examination of area diversion area..\
   [202502121616305419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121616305419.pdf)
 
+- State Plan Year 2024-25 Regarding disbursement of funds under the scheme for preliminary works of the proposed Zoological Museum at Gorewada (4406-3858).\
+  [202502131458104519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131458104519.pdf)
+
 ## Personnel
 - Regarding the classification of posts in the Assistant Conservator of Forests, Group-A (Junior Grade) cadre...\
   [202502101403575119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101403575119.pdf)
@@ -107,6 +110,12 @@
 
 - Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
   [202502121942121319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121942121319.pdf)
+
+- Consolidated final seniority list of officers in the Additional District Collector cadre for the period from 01.01.2017 to 31.12.2024 showing the status as on 01.01.2025.\
+  [202502131526422819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131526422819.pdf)
+
+- Regarding allotment of Revenue Department and posting to Probationary Naib Tehsildars (Group-B Gazetted) who have undergone training under Combined Probationary Training Programme-8 (CPTP-8).\
+  [202502131616107119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131616107119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
