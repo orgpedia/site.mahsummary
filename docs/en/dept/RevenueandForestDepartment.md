@@ -7,6 +7,15 @@
 - Demand No. C-7 Regarding reallocation of funds amounting to Rs. 103.00 lakhs under the Head of Account 2406 Forestry and Wildlife, 01 Forestry, 101 (11) Forest Conservation and Development (11) (29) 52 Empowerment for Mobile Teams (State) (2406 2161), out of the funds available under the objective 50-Other Expenditure, under the objective 51-Motor Vehicles.\
   [202502111215221319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111215221319.pdf)
 
+- Regarding granting administrative and financial approval for disaster mitigation works. 132 KV. Cable shifting work on Mankapur- Hingna- 1 route, Dist. Nagpur.\
+  [202502141124553519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141124553519.pdf)
+
+- Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
+  [202502141226218119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141226218119.pdf)
+
+- Regarding payment of pending salaries of security guards at the Covid Hospital in Mouje Savad, Taluka Bhiwandi under various Covid-19 measures.\
+  [202502141656470919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141656470919.pdf)
+
 ## Miscellaneous
 - Minor Minerals-Wardha - Regarding refund of the amount of sand reserves not excavated from the sand group of Ismailpur, Tal. Ashti for the year 2018-19. Prof. Sachin Ramesh Gupta on behalf of M/s. Balaji Servicing Center\
   [202502111130091219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111130091219.pdf)
@@ -25,6 +34,15 @@
 
 - State Plan Year 2024-25 Regarding disbursement of funds under the scheme for preliminary works of the proposed Zoological Museum at Gorewada (4406-3858).\
   [202502131458104519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131458104519.pdf)
+
+- Regarding granting administrative approval to the budget for construction of day/night cages for Unit No. 7 in Phase-2 in connection with the expansion of Manikdoh Leopard Shelter Center, Forest Area Junnar under Junnar Forest Department.\
+  [202502141512192419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141512192419.pdf)
+
+- Regarding granting administrative approval to the budget for construction of internal protective wall in Phase-2 in connection with the expansion of Manikdoh Leopard Shelter Center, Forest Area Junnar under Junnar Forest Department.\
+  [202502141509270919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141509270919.pdf)
+
+- Regarding the appointment of M/s Palladium Consultancy India Private Limited, a company appointed by the department to provide technical assistance and implementation for comprehensive disaster planning, management and response, as Project Management Technical Advisor under the Maharashtra Responsive Development Program and granting enhanced administrative approval for the funds due for their work.\
+  [202502141733296019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141733296019.pdf)
 
 ## Personnel
 - Regarding the classification of posts in the Assistant Conservator of Forests, Group-A (Junior Grade) cadre...\
@@ -116,6 +134,9 @@
 
 - Regarding allotment of Revenue Department and posting to Probationary Naib Tehsildars (Group-B Gazetted) who have undergone training under Combined Probationary Training Programme-8 (CPTP-8).\
   [202502131616107119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131616107119.pdf)
+
+- Regarding regularization of land acquired for the Delhi Mumbai Industrial Corridor (DMIC) project at Mouje Bidkin, Mouje Bidkin, Taluka Paithan, District Chhatrapati Sambhajinagar. (Applicant - Mr. Rohidas Hari and Mrs. Sundarabai Shivsingh)\
+  [202502141542184419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141542184419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

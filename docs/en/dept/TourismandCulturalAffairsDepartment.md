@@ -19,6 +19,12 @@
 - Regarding financial approval for the first phase of funds for the construction of a theatre at Alibaug, District Raigad\
   [202502121536511423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121536511423.pdf)
 
+- Regarding providing funds by giving administrative approval for development works within the limits of Mahabaleshwar Giristhan Municipal Council under the Regional Tourism Development Plan for the year 2021-22.\
+  [202502141918442823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141918442823.pdf)
+
+- Regarding granting administrative approval for sanctioning the second phase of financial assistance for the organization of the 23rd Pune International Film Festival organized by the Pune Film Foundation.\
+  [202502141707581723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141707581723.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the purchase of computers, printers, scanners, Ms-office and Antivirus for the Cultural Affairs Department (itself) and the regional offices under the department.\
   [202502121831557723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121831557723.pdf)

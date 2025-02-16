@@ -7,6 +7,12 @@
 - No. of Nagpur. 257/1 City Survey No. 1516 Moja Lendra and Khasra No.7,8 Nagar Land Survey No.606 Regarding giving administrative approval to the budget for the construction of a new Government Hostel Phase-2 (Sant Chokhamela 1000 Boys and Girls Hostel, Nagpur) at the site of Mauja Ajani.\
   [202502131741554722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131741554722.pdf)
 
+- Regarding granting administrative approval to purchase necessary materials/facilities for the Government Hostel for 1000 children, Chembur, Mumbai under the Department of Social Justice and Special Assistance.\
+  [202502141657513522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141657513522.pdf)
+
+- Regarding approval for purchase of mattresses, pillows, pillow covers and mosquito nets for students in government hostels and residential schools under the Social Justice Special Assistance Department.\
+  [202502141653114722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141653114722.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of the Drawing and Disbursement Officer of Bharat Ratna Dr. Babasaheb Ambedkar Swadhar Yojana under the Department of Social Justice and Special Assistance.\
   [202502101319361922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101319361922.pdf)

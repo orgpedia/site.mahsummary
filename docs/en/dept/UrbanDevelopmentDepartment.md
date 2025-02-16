@@ -35,5 +35,8 @@
 - Resolution No. 102 passed by the Mira-Bhayander Municipal Corporation Standing Committee meeting on 16.03.2020, regarding the final dissolution under Section-451 (3) of the Maharashtra Municipal Corporation Act.\
   [202502131531575125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131531575125.pdf)
 
+- Regarding opening of a new account head for Expenditure on planning and implementation of Simhastha Kumbh Mela.\
+  [202502141312573125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141312573125.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -23,6 +23,15 @@
 - Regarding approval of new accountants for depositing examination fee, approval fee and renewal fee of security auditors.\
   [202502131542457610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131542457610.pdf)
 
+- Visit of Delegation led by Honble Chief Minister Government of Maharashtra to participate in the World Economic Forum Annual Meeting 2025 at Davos-Switzerland.\
+  [202502141242353210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141242353210.pdf)
+
+- Regarding the addition of services to Shri. Sachin Raghunath Memane, Deputy Director of Industries (Technical), Group-A in his previous posts.\
+  [202502141120530910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141120530910.pdf)
+
+- Regarding the addition of services to Shri. Kamlesh Kumar Jain, Deputy Director of Industries (Technical), Group-A in his previous posts.\
+  [202502141118151010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141118151010.pdf)
+
 ## Personnel
 - Regarding the Methodology of the Renewable Energy Policy-2020.Corrigendum.\
   [202502131821069610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131821069610.pdf)

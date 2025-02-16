@@ -20,6 +20,9 @@
 - Regarding the distribution of funds for the Pradhan Mantri Jan Arogya Yojana scheme in the financial year 2024-25 under the Tribal Component Programme. (Corrigendum)\
   [202502131446216624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131446216624.pdf)
 
+- Regarding the purchase and supply of food grains, pulses, other grocery items as well as uniform sets, educational materials and other items to government ashram schools and hostels under the Tribal Development Department.\
+  [202502141728365224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141728365224.pdf)
+
 ## Personnel
 - Regarding expanding the scope of work of the Construction Management Cell established under the Tribal Development Department.\
   [202502131828187024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131828187024.pdf)

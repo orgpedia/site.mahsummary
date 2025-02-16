@@ -20,9 +20,18 @@
 - Regarding the petitions filed in the Hon. Supreme Court, New Delhi, Hon. High Courts and other Hon. courts, Precautions to be taken in Correspondence with Courts.\
   [202502131734489829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131734489829.pdf)
 
+- Regarding constitution of a special committee to study legal matters related to prevention of love jihad and fraudulent or forced conversions.\
+  [202502141643444529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141643444529.pdf)
+
+- Government Corrigendum regarding granting administrative approval to the action plan for the financial year 2024-25 to 2027-28 for purchasing 2298 vehicles in short supply as per the vehicle permissibility policy in the State Police Force\
+  [202502141548320529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141548320529.pdf)
+
 ## Personnel
 - Supplementary Regular Select List 2023-24 (Sr .No. 2): Regarding posting-on-promotion to post in the cadre of Superintendent, District Prison, Grade-2/Deputy Superintendent, Central Prison, Group B (Gazetted)\
   [202502111510300129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111510300129.pdf)
+
+- Regarding the appointment of Single Nodal Agency (SNA) for opening a withdrawal account with the Reserve Bank of India under State Affiliated Schemes under Centrally Sponsored Schemes to implement SNA-SPARSH alternative fund flow mechanism for disbursing funds of Centrally Sponsored Schemes.\
+  [202502141747552229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141747552229.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,12 @@
 - Hon. Regarding granting administrative and financial approval for the purchase of computers, printers and scanners for the Chief Ministers Secretariat.\
   [202502131204309607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131204309607.pdf)
 
+- Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Institute, Amravati Assistant Grant for the year 2024-25 (Compulsory) (Sixth Installment)\
+  [202502141218170607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141218170607.pdf)
+
+- Regarding disbursement of funds to Maharashtra Airport Development Company under account head (3053 0146) for the development of these airports/runways in the state.\
+  [202502141742534107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141742534107.pdf)
+
 ## Miscellaneous
 - Regarding extension of Deputation- Mr. Yogesh Gunijan, Desk officer\
   [202502101614350907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101614350907.pdf)
@@ -49,6 +55,18 @@
 
 - Regarding the appointment of the Board of Directors for the Maha-Hub-Incubator and Innovation Center...\
   [202502131634045907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131634045907.pdf)
+
+- Regarding conducting hearings of departmental inquiry cases assigned to Additional Chief Secretary/Principal Secretary/Secretary and Departmental Inquiry Officer-2 through video conferencing and recording e-evidence.\
+  [202502141531523207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141531523207.pdf)
+
+- Regarding return of services of Smt. S.C.Munde, Assistant section officer.\
+  [202502141337521407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141337521407.pdf)
+
+- Regarding the tender process for Setu Kendras in the District Collector and Tehsil offices in the state (Revised Guidelines)\
+  [202502141639445007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141639445007.pdf)
+
+- Regarding the implementation of various programs on the occasion of Chhatrapati Shivaji Maharajs birth anniversary which falls on February 19 every year\
+  [202502141632160007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141632160007.pdf)
 
 ## Personnel
 - Revised Posting- Smti. Swati S. Vichare, Under Secretary\

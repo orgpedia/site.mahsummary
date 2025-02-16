@@ -13,6 +13,12 @@
 - Deccan College Postgraduate and Research Institute, Pune University essential educational and scientific equipment, various equipment etc. Regarding disbursement of remaining funds pursuant to purchase of...\
   [202502121631231308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121631231308.pdf)
 
+- Regarding granting administrative approval for the repair and renovation work of the hostel building of Telang Memorial Girls Hostel, Mumbai...\
+  [202502141901117308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141901117308.pdf)
+
+- Regarding granting administrative approval for the repair and renovation work of the hostel building of Government Science Institute, Mumbai...\
+  [202502141846414208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141846414208.pdf)
+
 ## Miscellaneous
 - Regarding providing carry-on facility for students in all non-agricultural universities under the jurisdiction of the Department of Higher and Technical Education for the academic year 2024-25.\
   [202502101217015608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101217015608.pdf)

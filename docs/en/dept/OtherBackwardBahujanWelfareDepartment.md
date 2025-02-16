@@ -10,6 +10,9 @@
 - Regarding disbursement of funds under Modi Awas Gharkul Scheme.\
   [202502121750157234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121750157234.pdf)
 
+- Regarding granting administrative approval to develop an integrated portal under the Other Backward Classes Welfare Department in line with the Hostel, Pandit Deendayal Upadhyay Swayam and Gyanjyoti Savitribai Phule Aadhaar Schemes.\
+  [202502141533558034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141533558034.pdf)
+
 ## Miscellaneous
 - Regarding the launch of the Nataraj Award and Vishwakarma Award schemes....\
   [202502131331024534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131331024534.pdf)
