@@ -1,14 +1,15 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 17 February 2025 - 22 February 2025
+**Date Range**: 24 February 2025 - 01 March 2025
 
 
-## Funds
-- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative spinning mills-Kolhapur District Farmers Weavers Co-operative Spinning Mills, Ichalkaranji, Tal-Shirol, Dist- Kolhapur.\
-  [202502121424088202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121424088202.pdf)
+## Miscellaneous
+- Regarding determining comprehensive criteria/procedures for determining the State-Level Nodal Agency for implementing the procurement process under the Minimum Support Price (Price Support Scheme).\
+  [202502171313329202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171313329202.pdf)
 
-- Regarding the distribution of the remaining Rs. 107.69 crore out of the Rs. 594.76 crore loan amount received by the State Government under the Margin Money Loan Scheme from the National Cooperative Development Corporation (NCDC) to a total of 5 eligible cooperative sugar factories.\
-  [202502131717169902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131717169902.pdf)
+## Personnel
+- Regarding granting administrative and financial approval for the expenses incurred for new telephone and internet connection for the office of Divisional Joint Registrar Cooperative Society (Audit) Nashik Division, Nashik.\
+  [202502171529571102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171529571102.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

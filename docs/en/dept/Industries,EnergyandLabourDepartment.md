@@ -1,40 +1,18 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 17 February 2025 - 22 February 2025
+**Date Range**: 24 February 2025 - 01 March 2025
 
-
-## Funds
-- Regarding the release of a state share fund of Rs.10.26 crore to Scheduled Tribe Beneficiaries under PM KUSUM Scheme for the year 2024-25.\
-  [202502101637308810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101637308810.pdf)
-
-- Regarding the release of a state share fund of Rs.14.7319 crore to General Category Beneficiaries of PM KUSUM Component B Scheme for the year 2024-25.\
-  [202502101640113110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101640113110.pdf)
-
-- Regarding the disbursement of Rs. 102.00 crore in cash to Mahavitaran Company under the Special Assistance Scheme Part-1 (Interest-free Loan) in the form of loan from the Central Government to the State for capital investment in the year 2024-25 K-11 (Account Head-68010718)\
-  [202502121146043810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121146043810.pdf)
 
 ## Miscellaneous
-- Regarding publishing the final seniority list of Group-A and Group-B officers of Directorate of Government Printing, Stationery and Publications as on 01/01/2024.\
-  [202502101751335410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101751335410.pdf)
+- Regarding promotion of Smt. Pranjali Ravindra Chaudhary, Junior Engineer, Group-B (Non-Gazetted) to the post of Branch Engineer, Group-B (Gazetted).......\
+  [202502171729565410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171729565410.pdf)
 
-- Regarding the appointment of a Bid Process Coordinator (BPC) to implement a competitive bidding process based on electricity rates for the construction of new transmission projects in the state.\
-  [202502121648083810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121648083810.pdf)
-
-- Regarding approval of new accountants for depositing examination fee, approval fee and renewal fee of security auditors.\
-  [202502131542457610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131542457610.pdf)
-
-- Visit of Delegation led by Honble Chief Minister Government of Maharashtra to participate in the World Economic Forum Annual Meeting 2025 at Davos-Switzerland.\
-  [202502141242353210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141242353210.pdf)
-
-- Regarding the addition of services to Shri. Sachin Raghunath Memane, Deputy Director of Industries (Technical), Group-A in his previous posts.\
-  [202502141120530910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141120530910.pdf)
-
-- Regarding the addition of services to Shri. Kamlesh Kumar Jain, Deputy Director of Industries (Technical), Group-A in his previous posts.\
-  [202502141118151010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141118151010.pdf)
+- Regarding publication of provisional seniority list of Superintending Industrial Officers (Group-A) cadre dated 1.01.2024.\
+  [202502171241213310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171241213310.pdf)
 
 ## Personnel
-- Regarding the Methodology of the Renewable Energy Policy-2020.Corrigendum.\
-  [202502131821069610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131821069610.pdf)
+- Regarding service review of the officers of the cadre of Superintending Engineer, Group-A (Gazetted) in the Electricity Inspectorate after reaching the age of 50/55 years.\
+  [202502171726175310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171726175310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

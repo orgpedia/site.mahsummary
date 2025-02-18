@@ -1,36 +1,24 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 17 February 2025 - 22 February 2025
+**Date Range**: 24 February 2025 - 01 March 2025
 
 
 ## Funds
-- Regarding financial approval for the necessary funds for the conservation and repair work of the State Protected Monuments of Muralidhar Temple and Sangameshwar Temple, Hattarsangkudal, District Solapur (Part-1)...\
-  [202502101601470123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101601470123.pdf)
+- Regarding the B-1 tender for laying of piling in the premises of Shri Chhatrapati Shivaji Maharaj Museum, Satara and granting post-operative administrative approval to the said work...\
+  [202502171624000123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171624000123.pdf)
 
-- Regarding financial approval for the necessary funds for the preservation and repair work of the state protected monument Kalika Devi Temple, Shirud, District Dhule...\
-  [202502101601143623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502101601143623.pdf)
-
-- To establish a theme park on the life of freedom fighter Vinayak Damodar Savarkar at Bhagur Municipal Council, Nashik District.\
-  [202502111504343023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111504343023.pdf)
-
-- Regarding granting administrative approval to sanction financial assistance to encourage the production of quality Marathi films.\
-  [202502111746156723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111746156723.pdf)
-
-- Regarding financial approval for the first phase of funds for the construction of a theatre at Alibaug, District Raigad\
-  [202502121536511423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121536511423.pdf)
-
-- Regarding providing funds by giving administrative approval for development works within the limits of Mahabaleshwar Giristhan Municipal Council under the Regional Tourism Development Plan for the year 2021-22.\
-  [202502141918442823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141918442823.pdf)
-
-- Regarding granting administrative approval for sanctioning the second phase of financial assistance for the organization of the 23rd Pune International Film Festival organized by the Pune Film Foundation.\
-  [202502141707581723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141707581723.pdf)
+- Regarding granting administrative and financial approval for the amount of Rs. 3,34,412/- to be spent for the Website Security audit and GIGW Compliances of the website of the Theatre Experiment Inspection Board Office.\
+  [202502171236080223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171236080223.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval for the purchase of computers, printers, scanners, Ms-office and Antivirus for the Cultural Affairs Department (itself) and the regional offices under the department.\
-  [202502121831557723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121831557723.pdf)
+- Regarding approval of B-1 tender for conservation and repair work of Varah Darwaza, Ramtek, Dist. Nagpur...\
+  [202502171626139723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171626139723.pdf)
 
-- Regarding financial approval for the cost of computer preservation of drama collections in the office of the Theatre Experiments Inspection Board, Mumbai.\
-  [202502131755027523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131755027523.pdf)
+- Regarding granting administrative approval for construction of boundary wall in the area of land acquired for planned regional museum at Soneri Mahal, Chhatrapati Sambhajinagar...\
+  [202502171626557323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171626557323.pdf)
+
+- Regarding approval of B-1 tender for the conservation and repair work of the monument near Saraswati Temple, Barav-Yergi, Taluka Degalur, District Nanded.\
+  [202502171621467223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171621467223.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
