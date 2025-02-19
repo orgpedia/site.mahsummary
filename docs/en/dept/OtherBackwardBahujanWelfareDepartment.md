@@ -1,24 +1,11 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 17 February 2025 - 22 February 2025
+**Date Range**: 24 February 2025 - 01 March 2025
 
 
 ## Funds
-- Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25.\
-  [202502111239055234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502111239055234.pdf)
-
-- Regarding disbursement of funds under Modi Awas Gharkul Scheme.\
-  [202502121750157234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121750157234.pdf)
-
-- Regarding granting administrative approval to develop an integrated portal under the Other Backward Classes Welfare Department in line with the Hostel, Pandit Deendayal Upadhyay Swayam and Gyanjyoti Savitribai Phule Aadhaar Schemes.\
-  [202502141533558034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502141533558034.pdf)
-
-## Miscellaneous
-- Regarding the launch of the Nataraj Award and Vishwakarma Award schemes....\
-  [202502131331024534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131331024534.pdf)
-
-- Regarding providing administrative approval for scanning and digitization of important records of the Other Backward Bahujan Welfare Department....\
-  [202502131338471434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502131338471434.pdf)
+- Regarding approval to disburse funds for 31, Subsidiary Grants (Non-Salary) to the subsidiaries approved to be established under Maharashtra State Other Backward Classes Finance and Development Corporation.\
+  [202502181544249934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181544249934.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

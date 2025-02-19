@@ -10,5 +10,9 @@
 - Regarding granting administrative and financial approval for the purchase of All-in-One Computer, Printer and Scanner for the General Administration Department (Self)...\
   [202502171800043807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171800043807....pdf)
 
+## Miscellaneous
+- Regarding the celebration of the birth anniversary and National Day of the national hero/great person in the year 2025.\
+  [202502181601013607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181601013607.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
