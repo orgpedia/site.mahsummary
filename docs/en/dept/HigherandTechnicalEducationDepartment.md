@@ -20,5 +20,9 @@
 - Regarding complaints/applications/statements received from persons not related to the matter (third parties) or related parties.\
   [202502181750178608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181750178608.pdf)
 
+## Personnel
+- Regarding the posting of Mr. Mahesh Anant Kakade, Lecturer, Civil Engineering.\
+  [202502201750290208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502201750290208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

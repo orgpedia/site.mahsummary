@@ -14,5 +14,8 @@
 - Under Maharashtra Golden Jayanti Urban Upliftment Mahabhiyaan Yojana, Mandangad Nagar Panchayat Water Supply Scheme, Tal. Mandangad, Dist. Ratnagiri, regarding approval of proposal for increased water reservation for drinking from Bharja River, Bulk Water Entitlement\
   [202502181722171427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181722171427.pdf)
 
+- Administrative approval for the special repair budget for repairing and reinforcing lining at the filling points between Km 0 and 43 of Panjhan Left Main Canal.\
+  [202502201623245827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502201623245827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

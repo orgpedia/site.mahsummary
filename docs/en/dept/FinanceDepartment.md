@@ -1,11 +1,11 @@
 # Finance Department
 
-**Date Range**: 17 February 2025 - 22 February 2025
+**Date Range**: 24 February 2025 - 01 March 2025
 
 
-## Personnel
-- Fund Distribution in the Year 2024-25\
-  [202502121218400505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502121218400505.pdf)
+## Funds
+- Buldhana District Central Cooperative Bank regarding raising the period of Rs. 300 crore medium term loan from Maharashtra State Cooperative Bank to two years.\
+  [202502201449440205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502201449440205.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
