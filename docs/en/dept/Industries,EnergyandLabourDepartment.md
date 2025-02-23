@@ -10,6 +10,9 @@
 - Regarding publication of provisional seniority list of Superintending Industrial Officers (Group-A) cadre dated 1.01.2024.\
   [202502171241213310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171241213310.pdf)
 
+- Regarding the reconstitution of the Divisional Promotion Committee for promotion to Group-B (Non-Gazetted), Group-C and Group-D posts in the Directorate of Industries\
+  [202502211557376210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502211557376210.pdf)
+
 ## Personnel
 - Regarding service review of the officers of the cadre of Superintending Engineer, Group-A (Gazetted) in the Electricity Inspectorate after reaching the age of 50/55 years.\
   [202502171726175310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171726175310.pdf)

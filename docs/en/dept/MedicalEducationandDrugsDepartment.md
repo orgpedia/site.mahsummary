@@ -20,5 +20,8 @@
 - Regarding approval to take a private building on rent for starting a proposed Government Dental College, Jalgaon with an admission capacity of 50 students in the Integrated Medical Educational Complex at Jalgaon. (Corrigendum)\
   [202502181754357013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181754357013.pdf)
 
+- Regarding starting a new medical super specialty course at Godavari Foundation, Dr. Ulhas Patil Medical College and Hospital, Jalgaon-Bhusaval Road, Jalgaon.\
+  [202502211135025513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502211135025513.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
