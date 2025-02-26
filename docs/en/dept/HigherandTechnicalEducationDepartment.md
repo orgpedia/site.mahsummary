@@ -1,28 +1,21 @@
 # Higher and Technical Education Department
 
-**Date Range**: 24 February 2025 - 01 March 2025
+**Date Range**: 03 March 2025 - 08 March 2025
 
 
 ## Funds
-- Maharashtra Information Technology Corporation (MahaIT) has made available technical manpower for the system to submit pension cases of teaching and non-teaching employees of non-government aided colleges in the state online to the Auditor General and to give administrative approval for the expenditure for security audit.\
-  [202502171205431208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171205431208.pdf)
-
-- Regarding the distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the year 2024-25...\
-  [202502181738066308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181738066308.pdf)
-
-- Regarding the distribution of funds for Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme in the year 2024-25...\
-  [202502181734596508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181734596508.pdf)
+- Maharashtra National Law University, Nagpur, regarding the disbursement of the remaining amount of the loan raised by the university...\
+  [202502241515461408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241515461408.pdf)
 
 ## Miscellaneous
-- Regarding final approval of new college for the academic year 2025-26 (Court case)\
-  [202502171243102508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171243102508.pdf)
+- Regarding the disbursement of funds budgeted through supplementary demand for the construction of office and classrooms for Marathi Language University, Riddhapur, Amravati.\
+  [202502241508136508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241508136508.pdf)
 
-- Regarding complaints/applications/statements received from persons not related to the matter (third parties) or related parties.\
-  [202502181750178608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502181750178608.pdf)
+- Regarding the disbursement of funds budgeted through supplementary demand for the construction of a boys and girls hostel at Marathi Language University, Riddhapur, Amravati.\
+  [202502241511120308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241511120308.pdf)
 
-## Personnel
-- Regarding the posting of Mr. Mahesh Anant Kakade, Lecturer, Civil Engineering.\
-  [202502201750290208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502201750290208.pdf)
+- Regarding the disbursement of funds approved through supplementary demand for the work of supplying necessary furniture and similar items for offices and classrooms for Marathi Language University, Riddhapur, Amravati....\
+  [202502241513241408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241513241408.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
