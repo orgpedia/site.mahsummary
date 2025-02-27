@@ -7,6 +7,9 @@
 - Maharashtra National Law University, Nagpur, regarding the disbursement of the remaining amount of the loan raised by the university...\
   [202502241515461408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241515461408.pdf)
 
+- Regarding the distribution of state share to the Indian Institute of Information Technology, Pune (IIIT, Pune), an institution established through participation of the Central Government, State Government and private sector.\
+  [202502251556311908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251556311908.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds budgeted through supplementary demand for the construction of office and classrooms for Marathi Language University, Riddhapur, Amravati.\
   [202502241508136508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241508136508.pdf)

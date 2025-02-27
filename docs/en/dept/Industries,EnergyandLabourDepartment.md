@@ -1,21 +1,17 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 24 February 2025 - 01 March 2025
+**Date Range**: 03 March 2025 - 08 March 2025
 
 
-## Miscellaneous
-- Regarding promotion of Smt. Pranjali Ravindra Chaudhary, Junior Engineer, Group-B (Non-Gazetted) to the post of Branch Engineer, Group-B (Gazetted).......\
-  [202502171729565410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171729565410.pdf)
+## Funds
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Agriculture pumps consumers for the year 2024-25.\
+  [202502251717318410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251717318410.pdf)
 
-- Regarding publication of provisional seniority list of Superintending Industrial Officers (Group-A) cadre dated 1.01.2024.\
-  [202502171241213310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171241213310.pdf)
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Textile consumers for the year 2024-25.\
+  [202502251714225510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251714225510.pdf)
 
-- Regarding the reconstitution of the Divisional Promotion Committee for promotion to Group-B (Non-Gazetted), Group-C and Group-D posts in the Directorate of Industries\
-  [202502211557376210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502211557376210.pdf)
-
-## Personnel
-- Regarding service review of the officers of the cadre of Superintending Engineer, Group-A (Gazetted) in the Electricity Inspectorate after reaching the age of 50/55 years.\
-  [202502171726175310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502171726175310.pdf)
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Powerloom consumers for the year 2024-25.\
+  [202502251710065310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251710065310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
