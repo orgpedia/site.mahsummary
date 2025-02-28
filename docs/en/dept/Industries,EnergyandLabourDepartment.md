@@ -13,5 +13,9 @@
 - Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Powerloom consumers for the year 2024-25.\
   [202502251710065310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251710065310.pdf)
 
+## Miscellaneous
+- Visit of Delegation led by Honble Minister(Industries) Government of Maharashtra to participate in the India Week Celebrations at Ras Al Khaimah, UAE\
+  [202502271532311410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271532311410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

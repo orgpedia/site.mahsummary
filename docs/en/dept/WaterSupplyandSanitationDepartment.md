@@ -121,6 +121,57 @@
 - Revised Administrative approval to Mou. Kurvel, (Tal. Chopda, Dist- Jalgaon) water supply scheme Under JJM.\
   [202502251521000428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251521000428.pdf)
 
+- Revised Administrative approval to Mau. Gothiwali, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719296128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719296128.pdf)
+
+- Revised Administrative approval to Mau. Mankiwali  Dolvali, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719472528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719472528.pdf)
+
+- Revised Administrative approval to Mau. Ganesh Nagar, Tal. Tala,   Dist. Raigad water supply scheme Under JJM.\
+  [202502271720291528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720291528.pdf)
+
+- Revised Administrative approval to Mau. Kelivali, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719415928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719415928.pdf)
+
+- Revised Administrative approval to Mou. Morfal, (Tal. Parola, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524474128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524474128.pdf)
+
+- Revised Administrative approval to Mau. Asaroti, Tal. Khalapur, Dist. Raigad water supply scheme Under JJM.\
+  [202502271719050828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719050828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Jal Jeevan Mission Mouja Kitali, Gram Panchayat Belgaon, Taluka Bhandara.\
+  [202502271217505628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271217505628.pdf)
+
+- Revised Administrative approval to Mau. Mandad, Tal. Tala,   Dist. Raigad water supply scheme Under JJM.\
+  [202502271720446028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720446028.pdf)
+
+- Revised Administrative approval to Mau. Konthare, Tal. Tala,   Dist. Raigad water supply scheme Under JJM.\
+  [202502271720395028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720395028.pdf)
+
+- Revised Administrative approval to Mau. Talashi, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271720034128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720034128.pdf)
+
+- Revised Administrative approval to Mau. Umbervira, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271720139428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720139428.pdf)
+
+- Revised Administrative approval to Mou. Nadgaon, (Tal. Bodhvad, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524285528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524285528.pdf)
+
+- Revised Administrative approval to Mau. Girane, Tal. Tala,   Dist. Raigad water supply scheme Under JJM.\
+  [202502271720344028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720344028.pdf)
+
+- Revised Administrative approval to Mou. Sangavi Kh., (Tal. Yaval, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251525041828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251525041828.pdf)
+
+- Revised Administrative approval to Mau. Sarsan, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719578628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719578628.pdf)
+
+- Revised Administrative approval to Mau. Ujaloli, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271720086128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720086128.pdf)
+
+- Revised Administrative approval to Mau. Dheku, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719209028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719209028.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Karankhed  Mahatamkhed  Ta.Chikhli   dist-Buldhana  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202502251233105028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251233105028.pdf)
@@ -221,6 +272,45 @@
 
 - Revised Administrative approval to Mou. Pimpalgaon golait, (Tal. Jamner, Dist- Jalgaon) water supply scheme Under JJM.\
   [202502251522569928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251522569928.pdf)
+
+- Revised Administrative approval to Mou. Rembhote, (Tal. Raver, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524588328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524588328.pdf)
+
+- Revised Administrative approval to Mou. Kathora, (Tal. Chopda, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524123328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524123328.pdf)
+
+- Revised Administrative approval to Mou. Dapori  Mungase, (Tal. Amalner, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524235328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524235328.pdf)
+
+- Revised Administrative approval to Mau. Sajgaon, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719524528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719524528.pdf)
+
+- Revised Administrative approval to Mau. Chorwali, Tal. Tala,   Dist. Raigad water supply scheme Under JJM.\
+  [202502271720232128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720232128.pdf)
+
+- Revised Administrative approval to Mau. Pinguli Gudhipur, Tal. Kudal, Dist. Sindhudurg water supply scheme Under JJM.\
+  [202502271720496228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271720496228.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Jal Jeevan Mission Mouja Channewada, Gram Panchayat Kanhalgaon, Taluka Pawani, District Bhandara.\
+  [202502271218004728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271218004728.pdf)
+
+- Revised Administrative approval to Mou. Pimpripancham, (Tal. Muktainagar, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524335128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524335128.pdf)
+
+- Revised Administrative approval to Mou. Khaushi Bk., (Tal. Amalner, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524183528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524183528.pdf)
+
+- Revised Administrative approval to Mou. Rahere Tarf Vakadi, (Tal. Jamner, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524535728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524535728.pdf)
+
+- Revised Administrative approval to Mou. Borkheda, (Tal. Chopda, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202502251524396128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251524396128.pdf)
+
+- Revised Administrative approval to Mau. Donvat, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719230128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719230128.pdf)
+
+- Revised Administrative approval to Mau. Khambewadi, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
+  [202502271719366428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719366428.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,11 +1,11 @@
 # Environment Department
 
-**Date Range**: 03 February 2025 - 08 February 2025
+**Date Range**: 03 March 2025 - 08 March 2025
 
 
 ## Miscellaneous
-- Regarding approval of the revised staffing pattern of Maharashtra Pollution Control Board\
-  [202501291632499904.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501291632499904.pdf)
+- Government Corrigendum - Maharashtra Electric Vehicle Policy, 2021...\
+  [202502271450587604.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271450587604.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

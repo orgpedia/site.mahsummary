@@ -16,6 +16,9 @@
 - Regarding granting administrative approval to the budget for the development of Pandhardevi Nature Tourism Site under the Nature Tourism Scheme in Watoni, Mouja Pandhardevi, Room No. 71 in Maregaon Forest Area under Pandharkawada Forest Department.\
   [202502251756379019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251756379019.pdf)
 
+- Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
+  [202502271202181819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271202181819.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to the budget for construction of a protective wall on the border of Sanjay Gandhi National Park.\
   [202502241626520019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241626520019.pdf)
@@ -275,6 +278,24 @@
 
 - Transfer of officers in the Deputy Collector cadre... Dr. Vijaykumar Suryavanshi\
   [202502251805569519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251805569519.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202502271617406419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271617406419.pdf)
+
+- Annual Plan 2024-25 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 01 new vehicle of the same type in replacement of 01 deregistered vehicle in Forest Conservator, Social Forestry, Thane Division under this scheme.\
+  [202502271506232019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271506232019.pdf)
+
+- Regarding creation of supernumerary posts for employees in Group-C cadre who have been appointed from the Scheduled Tribe category in the establishment under the authority of the Inspector General of Registration and Controller of Stamps, Maharashtra State, Pune but have not been able to submit caste validity certificate.\
+  [202502271617181919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271617181919.pdf)
+
+- Regarding relaxation of restrictions of 6 months time period imposed on transfer of Project Affected Persons Certificate.\
+  [202502271126245519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271126245519.pdf)
+
+- Annual Plan 2024-25 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding the purchase of 07 new vehicles of the same type in replacement of 07 deregistered vehicles in the Chief Conservator of Forests (Regional), Thane Forest Gazette.\
+  [202502271503066319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271503066319.pdf)
+
+- Annual Plan 2024-25 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 03 new vehicles of the same type in replacement of 03 deregistered vehicles in the Chief Conservator of Forests (Regional), Kolhapur Forest Department under this scheme.\
+  [202502271458485619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271458485619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

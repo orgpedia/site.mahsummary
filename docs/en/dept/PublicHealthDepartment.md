@@ -10,6 +10,12 @@
 - Regarding the disbursement of funds amounting to Rs. 4314.34 lakhs from the budgetary provision for the year 2024-25 under the Centrally Sponsored National Health Mission from the General Plan for the year 2024-25 under the account head 22105246 in the form of Kind Grant with a State share of 40.\
   [202502251542316317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251542316317.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 6.80 crore as State share (40) for 20- Other Administrative Expenditure under the account head 2210 G 449 (General) for the centrally sponsored scheme Pradhan Mantri Jan Arogya Yojana for the financial year 2024-2025.\
+  [202502271057159017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271057159017....pdf)
+
+- Regarding the disbursement of purchase of necessary medical equipment for the Departmental Referral Service Nashik and Amravati and for the purchase of necessary machinery and equipment for the hospital and trauma care unit operating under Account Head 2010 K088, 31-Assistive Grant of Rs. 33.34 crores in the financial year 2024-25.\
+  [202502271722568717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271722568717.pdf)
+
 ## Miscellaneous
 - Maharashtra Medical and Health Services, regarding cancellation of appointment of candidates who have not attended the document verification and joined the place of appointment among the candidates recommended by the nomination for the post of Medical Officer, Group-A in the cadre of Medical Officer, Group-A.\
   [202502241543080817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241543080817.pdf)
@@ -28,6 +34,12 @@
 
 - Regarding the distribution of a grant of Rs. 511.66 lakhs under the account head 2210E455, equivalent to 40 of the central share and the state share, from the budgetary provision for the year 2024-25, from the tribal application scheme for Kind Grand under the centrally sponsored National Rural Health Mission.\
   [202502251536524417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251536524417.pdf)
+
+- Regarding approval of Post Basic Diploma in Pediatric Nursing course with an annual intake capacity of 30 students of 1 year duration at Nursing Training Center, District Hospital, Beed.\
+  [202502271444413317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271444413317.pdf)
+
+- Regarding approval of Post Basic Diploma in Oncology Nursing (1 year duration) course at Nursing Training Centre, Cama  Albels Hospital, Mumbai.\
+  [202502271447162417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271447162417.pdf)
 
 ## Personnel
 - Declaring Chief Accounts and Finance Officer of Maharashtra Medical Goods procurement Authority, Mumbai as Virtual Personal Deposit Account Administrator (VPDAA) under the control of Department of Public Health\

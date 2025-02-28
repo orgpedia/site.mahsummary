@@ -7,6 +7,9 @@
 - Disbursement of funds for Pandit Deendayal Upadhyay Swayam Yojana for the financial year 2023-24 under the Tribal Component Programme. (Account Head 2225 E 024)\
   [202502241603342924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241603342924.pdf)
 
+- Regarding the distribution of Subsidiary Grants under the Scheme of Assistance to the contingent of Tribal Students in Military Schools in the financial year 2024-25 under the Tribal Component Programme. (Head of Account 2202 H 973) Chapter 31-Subsidiary Grants-Non-Salary)\
+  [202502271100330824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271100330824.pdf)
+
 ## Miscellaneous
 - Regarding the declaration of the State Nodal Officer and Single Nodal Agency (SNA) as well as the Implementing Agency for the implementation of the Dharti Aaba Tribal Village Upliftment Mission (DA JGUA) scheme.\
   [202502241536240924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241536240924.pdf)
