@@ -19,6 +19,18 @@
 - Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
   [202502271202181819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271202181819.pdf)
 
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains/floods in various districts during the period July to October, 2024 (mainly the months of September and October)...\
+  [202502281745467219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281745467219.pdf)
+
+- Requisition No. C-07-2406- Forestry and Wildlife, regarding redistribution of funds available under objective 11- Domestic Travel Expenses under objective 03- Overtime Allowance under State Level Mandatory Scheme.\
+  [202502281725297219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281725297219.pdf)
+
+- Regarding approval of the proposal of Divisional Forest Officer, Social Forestry, Dharashiv to distribute funds for the administratively approved works.\
+  [202502281640316419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281640316419.pdf)
+
+- Demand No. C-7 Principal Head 2406 Forestry and Wildlife, 01 Forestry, 101 (11) Forest Conservation and Development (11) (29) 52 Empowerment for Mobile Teams (State) (2406 2161) under this Head of Account, to distribute a fund of Rs. 108.16 lakhs from the Budgetary Provision in the Objective 50-Other Expenditure and to redistribute a fund of Rs. 108.16 lakhs from this Objective, under the Objective 51-Motor Vehicles.\
+  [202502281530370319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281530370319.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to the budget for construction of a protective wall on the border of Sanjay Gandhi National Park.\
   [202502241626520019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241626520019.pdf)
@@ -82,6 +94,18 @@
 
 - Regarding granting administrative approval for an expenditure of Rs. 2,24,86,050/- for developing an early warning system regarding climate change and possible diseases arising therefrom through IIT, Mumbai.\
   [202502251109560519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251109560519.pdf)
+
+- Regarding granting administrative approval to disaster mitigation works. (Flood Prevention Works, Tal. Mahabaleshwar and Satara, Dist. Satara, Executive Engineer Krishna Irrigation Department, Dist. Satara.)(3/3)\
+  [202502281752276419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281752276419....pdf)
+
+- Regarding denial of promotion from Forest Range Officer, Group-B cadre to Assistant Conservator of Forests, Group-A (Junior Grade) cadre\
+  [202502281502236019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281502236019.pdf)
+
+- Regarding distribution of funds for the honorarium(PAYMENT) of 42 posts of Divisional Disaster Management Coordinator and District Disaster Management Officer.\
+  [202502281644283419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281644283419.pdf)
+
+- Regarding granting administrative approval for disaster mitigation works. (Landslide prevention works, Tal. Jawali, Patan, Mahabaleshwar, Wai, Dist. Satara, Public Works Department, Satara.)(2/3)\
+  [202502281823448719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281823448719.pdf)
 
 ## Personnel
 - Appointment on deputation Dr. Dayanand Jagtap, Deputy Collector, presently Sub Divisional Officer, Bhokardan, District Jalna, is hereby appointed on deputation to the post of Deputy Chief Executive Officer, State Health Guarantee Society, Mumbai...\

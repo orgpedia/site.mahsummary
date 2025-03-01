@@ -29,9 +29,30 @@
 - Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of January to March, 2025\
   [202502241549259207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241549259207.pdf)
 
+- Repatriation from Deputation- Shri. Subhash H. Umaranikar, Joint Secretary\
+  [202502281235325207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281235325207.pdf)
+
+- Regarding meetings convened through V.C. at Government level.\
+  [202502281130307907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281130307907.pdf)
+
+- Appointment on Deputation  on the post of Examination Controller and Joint Secretary- Smt. Sarita R. Bandekar Deshmukh,  Joint  Secretary.\
+  [202502281240143407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281240143407....pdf)
+
+- Nodal Minister for Maharashtra Karnataka Border Dispute\
+  [202502281523273607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281523273607.pdf)
+
+- Regarding Deputation for filling the post of Deputy Secretary in the office of Divisional State Service Rights Commission, Chhatrapati Sambhaji Nagar / Amravati / Nagpur.\
+  [202502281242330807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281242330807.pdf)
+
 ## Personnel
 - Regarding the transfer of the vacant post of Stenographer (Higher Category) at Maharashtra Introduction Center, New Delhi to the Directorate General of Information and Public Relations, Headquarters, Mumbai.\
   [202502251121551507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251121551507.pdf)
+
+- Regarding temporary conversion of 1 post in the Clerk-Typist cadre in the Office of the Controller of Accommodation Arrangements into the post of Department Inspector.\
+  [202502281642257707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281642257707.pdf)
+
+- Trasnfer of Shri. Sachin S. Sahastrabudhhe, Deputy Secretary.\
+  [202502281759116507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281759116507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

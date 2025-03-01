@@ -26,5 +26,11 @@
 - Regarding the extension of the term of the committees for publishing biographies of great national figures, as their term has expired.\
   [202502271454104608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271454104608.pdf)
 
+- Regarding the formation of a State Level Coordination Committee and a District Level Coordination Committee in connection with the examinations conducted by the National Testing Agency (NTA).....\
+  [202502281134471008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281134471008....pdf)
+
+- Procedures to bring more transparency in the recruitment process of teachers in universities.\
+  [202502281326333808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281326333808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

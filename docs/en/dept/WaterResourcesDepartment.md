@@ -20,5 +20,18 @@
 - Regarding approval of the effective date of promotion to the post of Superintending Engineer (Civil)... Shri. A.Kh.Bondade, Retired Executive Engineer (Civil)\
   [202502251205544827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251205544827.pdf)
 
+## Personnel
+- Regarding cancellation of appointment of candidates who did not appear for the post of Assistant Engineer Grade-2 (Civil) Group-B (Gazetted) in Maharashtra Engineering (Civil) Service Examination 2022.\
+  [202502281346596527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281346596527.pdf)
+
+- Regarding the posting of Assistant Executive Engineer (Civil) in Maharashtra Engineering (Civil) Services Main Examination - 2021.\
+  [202502281735297627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281735297627.pdf)
+
+- Maharashtra Engineering (Civil) Services Mains Examination-2021 regarding the post of Assistant Engineer, Grade-1(Civil)\
+  [202502281741140427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281741140427.pdf)
+
+- Regarding the posting of Assistant Engineer, Grade-1 (Civil) in Maharashtra Engineering (Civil) Services Main Examination - 2013. Smt. Sayali Rohan Jambhulkar (Sayali Nitin Inamke)\
+  [202502281733340527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281733340527.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

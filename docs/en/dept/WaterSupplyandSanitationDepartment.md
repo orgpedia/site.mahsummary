@@ -172,6 +172,18 @@
 - Revised Administrative approval to Mau. Dheku, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
   [202502271719209028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719209028.pdf)
 
+- Revised Administrative approval to Mou. Navalpurpada (Tal. Shahada, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202502281533164828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533164828.pdf)
+
+- Revised Administrative approval to Mou. Met Humbyachi gra.p.Devgaon, (Tal. Trimbakeshwar, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533574028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533574028.pdf)
+
+- Revised Administrative approval to Mou. Gujarkhede, (Tal. Yevla, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533280328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533280328.pdf)
+
+- Revised Administrative approval to Mou. Kathi (Tal. Akkalkuwa, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202502281533107328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533107328.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Karankhed  Mahatamkhed  Ta.Chikhli   dist-Buldhana  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202502251233105028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251233105028.pdf)
@@ -311,6 +323,102 @@
 
 - Revised Administrative approval to Mau. Khambewadi, Tal. Khalapur,Dist. Raigad water supply scheme Under JJM.\
   [202502271719366428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271719366428.pdf)
+
+- To grant Revised Administrative Approval to Mouje Ganeshpur (Temburni), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552455128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552455128.pdf)
+
+- To grant Revised Administrative Approval to Mouje Dolkheda (Bu.), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553284028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553284028.pdf)
+
+- To grant Revised Administrative Approval to Mouje Kinhi (Nandkheda), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552238028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552238028.pdf)
+
+- Revised Administrative approval to Mou. Lauki Shirgaon Gra.P. Shirasgaon, (Tal. Yevla, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281534021328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281534021328.pdf)
+
+- Revised Administrative approval to Mou. Malgaon, (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533531928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533531928.pdf)
+
+- To grant Revised Administrative Approval to Mouje Aada, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552002628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552002628.pdf)
+
+- Revised Administrative approval to Mou. Indiranagar gra.p. kasari, (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533233928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533233928.pdf)
+
+- To grant Revised Administrative Approval to Mouje Kolegaon, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552398028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552398028.pdf)
+
+- To grant Revised Administrative Approval to Mouje Kusali, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552290128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552290128.pdf)
+
+- To grant Revised Administrative Approval to Mouje Aambegaon (Dahakewadi), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281551465928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281551465928.pdf)
+
+- To grant Revised Aadministrative Aapproval to Mouje Mhalasgaon, Tq. Aundha, Dist. Hingoli Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553507828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553507828.pdf)
+
+- To grant Revised Administrative Approval to Mouje Kaparkheda, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552036128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552036128.pdf)
+
+- To grant Revised Administrative Approval to Mouje Konad, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552344228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552344228.pdf)
+
+- To grant Revised Administrative Approval to Mouje Dolkheda (Khu.), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553124528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553124528.pdf)
+
+- Revised Administrative approval to Mou. Panewadi, (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533488728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533488728.pdf)
+
+- To grant Revised Administrative Approval to Mouje Chirebandi Vasti (Dongaon), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553069528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553069528.pdf)
+
+- Revised Administrative approval to Mou. Devlane, (Tal. Yevla, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533444528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533444528.pdf)
+
+- Revised Administrative approval to Mou. Bhavadi (Tal. Shrigonda, Dist.Ahilyangar) water supply sceme Under JJM.\
+  [202502281533034428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533034428.pdf)
+
+- To grant Revised Administrative Approval to Mouje Dolkheda Khu. (Sant Bhagwan baba nagar.), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553338328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553338328.pdf)
+
+- To grant Revised Aadministrative Aapproval to Mouje Reulgaon, Tq. Vasmat , Dist. Hingoli Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553558228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553558228.pdf)
+
+- To grant Revised Administrative Approval to Mouje Aambegaon, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281551489328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281551489328.pdf)
+
+- Revised Administrative approval to Mou. Vasantnagar, (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281534059828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281534059828.pdf)
+
+- To grant Revised Aadministrative Aapproval to Mouje Dongargaon, Tq.  Sengaon, Dist. Hingoli Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553456028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553456028.pdf)
+
+- Revised Administrative approval to Mou. Ralegan Therpal (Tal. Parner, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202502281532593728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281532593728.pdf)
+
+- To grant Revised Administrative Approval to Mouje Garkheda, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552511628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552511628.pdf)
+
+- Revised Administrative approval to Mou. Golegaon gra.p.mrhalegoi Bk., (Tal. Nifad, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533327428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533327428.pdf)
+
+- To grant Revised Administrative Approval to Mouje Kalegaon, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552184128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552184128.pdf)
+
+- To grant Revised Administrative Approval to Mouje Godhankheda, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281552563228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281552563228.pdf)
+
+- To grant Revised Administrative Approval to Mouje Chapner, Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202502281553020328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281553020328.pdf)
+
+- Revised Administrative approval to Mou. Savargaon, (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281534098528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281534098528.pdf)
+
+- Revised Administrative approval to Mou. Chandanpuri, (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281533394928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281533394928.pdf)
+
+- Revised Administrative approval to Mou. Savargaon, (Tal. Yevla, Dist- Nashik) water supply scheme Under JJM.\
+  [202502281534151728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281534151728.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

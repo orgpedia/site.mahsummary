@@ -16,6 +16,12 @@
 - Regarding the disbursement of purchase of necessary medical equipment for the Departmental Referral Service Nashik and Amravati and for the purchase of necessary machinery and equipment for the hospital and trauma care unit operating under Account Head 2010 K088, 31-Assistive Grant of Rs. 33.34 crores in the financial year 2024-25.\
   [202502271722568717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271722568717.pdf)
 
+- Regarding administrative approval of the budget and plans for the construction of the main building of 30-bed rural hospital, Anji (Mothi) Taluka, Dist. Wardha.\
+  [202502281755334117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281755334117.pdf)
+
+- Regarding the distribution of funds amounting to Rs. 2613.41 lakhs as remaining honorarium for the period April, 2024 to March, 2025 to ASHA volunteers and group promoters from the budgetary provision for the financial year 2024-25.\
+  [202502281411369817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281411369817.pdf)
+
 ## Miscellaneous
 - Maharashtra Medical and Health Services, regarding cancellation of appointment of candidates who have not attended the document verification and joined the place of appointment among the candidates recommended by the nomination for the post of Medical Officer, Group-A in the cadre of Medical Officer, Group-A.\
   [202502241543080817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241543080817.pdf)
@@ -41,6 +47,15 @@
 - Regarding approval of Post Basic Diploma in Oncology Nursing (1 year duration) course at Nursing Training Centre, Cama  Albels Hospital, Mumbai.\
   [202502271447162417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271447162417.pdf)
 
+- Year-wise final seniority list of General State Service Group-B, Administrative Officers Cadre for the period from 01.01.2016 to 01.01.2022...\
+  [202502281528184217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281528184217.pdf)
+
+- Year-wise interim seniority list of General State Service Group-B, Administrative Officers Cadre for the period from 01.01.2023 to 01.01.2025...\
+  [202502281524489017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281524489017.pdf)
+
+- Regarding giving administrative sanction to pending payment of expenses incurred for advertisement in newspapers for publication of tenders for old furniture, computer materials writing in office of Director, Health Services, Pune\
+  [202502281545472917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281545472917.pdf)
+
 ## Personnel
 - Declaring Chief Accounts and Finance Officer of Maharashtra Medical Goods procurement Authority, Mumbai as Virtual Personal Deposit Account Administrator (VPDAA) under the control of Department of Public Health\
   [202502241235048317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241235048317.pdf)
@@ -50,6 +65,12 @@
 
 - The Declaring as Virtual Personal Deposit Account Administrator (VPDAA) for DDO working in office of the civil surgeons\
   [202502241238078217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241238078217....pdf)
+
+- Regarding temporary promotion from the cadre of Statistical Supervisor, Group-C (Pay Scale S-14 Rs.38600-122800/-) to the cadre of Statistical Officer, Officer, Group-B General State Service (Pay Scale S-15 Rs.41800-132300/-).\
+  [202502281531096217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281531096217.pdf)
+
+- Regarding temporary promotion from the cadre of Senior Chemical Assistant, Group-C (Pay Scale S-14: 38600-122800) to the cadre of Junior Scientific Officer/Chief Chemist/Research Officer/Chemist (Pay Scale S-15: 41800-132300) in the General State Service Group-B.\
+  [202502281523015517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281523015517.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

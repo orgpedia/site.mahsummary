@@ -19,5 +19,15 @@
 - Grant release for Baby Care Kit Scheme\
   [202502251637149430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251637149430.pdf)
 
+- Regarding the disbursement of funds for the scheme To provide financial assistance to children aged 0 to 18 years who have lost both parents due to Corona (Covid-19) infection for the year 2024-2025.\
+  [202502281205360730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281205360730.pdf)
+
+- Grant release for Lek Ladki scheme for FY 2024-25\
+  [202502281914020730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281914020730.pdf)
+
+## Miscellaneous
+- Release of the grand under  Mission vastlya scheme for the year 2024-25\
+  [202502281819554630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281819554630.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
