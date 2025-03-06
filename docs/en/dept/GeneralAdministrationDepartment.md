@@ -1,58 +1,52 @@
 # General Administration Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
 
 ## Funds
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2024-25.\
-  [202502271643199107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271643199107.pdf)
+- Regarding distribution of funds to Maharashtra Airport Development Company for the development of airports in the state.\
+  [202503041508309107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041508309107.pdf)
 
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2024-25.\
-  [202502271655132707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271655132707.pdf)
+- Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision of the Main Account Heads 2070, Other Administrative Services and 2052, Secretariat-General Services in the year 2024-25.\
+  [202503051545426807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051545426807.pdf)
 
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2024-25.\
-  [202502271647450907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271647450907.pdf)
+- Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision of the Main Account Heads 2070, Other Administrative Services and 2052, Secretariat-General Services in the year 2024-25.\
+  [202503051549556507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051549556507.pdf)
 
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00)(09) Directorate of Information Technology (20520473) (Mandatory) for the financial year 2024-25.\
-  [202502271642064407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271642064407.pdf)
+- Marathwada Administrative and Development Training Institute, Nathnagar (North), Paithan Dist. Chhatrapati Sambhajinagar Subsidiary Grant Year 2024-25 (Compulsory) (Fourth Installment)\
+  [202503031732134607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031732134607.pdf)
 
-- Fund Distribution Order (Year 2024-25) Marathwada Administrative and Development Training Institute Nathnagar (U.) Paithan, Dist. Chhatrapati Sambhajinagar to connect Express Feeder from Mahavitaran (Account Head 2070 0675)\
-  [202502271758101507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271758101507.pdf)
+- Demand No. A-6 (Mandatory/Voted) Re-appropriation of the provision of the Main Account Head 2220-Information and Publicity in the year 2024-25.\
+  [202503051538281107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051538281107.pdf)
 
-- Regarding granting administrative approval for expansion/development of Jalgaon Airport.\
-  [202502271503419407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271503419407.pdf)
+- Regarding the approval of the establishment of the Media Monitoring Center in an expanded format and the annual recurring expenditure of Rs. 10.00 crore for the same.\
+  [202503051829589607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051829589607.pdf)
 
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2024-25.\
-  [202502271652258307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271652258307.pdf)
+- Regarding increasing the deposit amount of Shankarrao Chavan Golden Jubilee Journalists Welfare Fund (Trust) from Rs. 50.00 crore to Rs. 50.00 crore, making the total deposit amount Rs. 100.00 crore.\
+  [202503041747282307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041747282307.pdf)
+
+- Regarding issuing supply orders for the purchase of necessary telephones for the halls and official residences of the Honble Chief Minister/Deputy Chief Minister/Minister/Minister of State in the Ministry.\
+  [202503031826206507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031826206507.pdf)
+
+- Regarding increasing the monthly financial assistance to be given to senior journalists under the Acharya Balshastri Jambhekar Senior Journalist Honor Scheme from Rs. 11,000/- to Rs. 20,000/-.\
+  [202503041738286207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041738286207.pdf)
 
 ## Miscellaneous
-- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of January to March, 2025\
-  [202502241549259207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241549259207.pdf)
+- Regarding the cancellation of the appointment From Steno Typist (Marathi/English) Exam 2022.\
+  [202503051227023507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051227023507.pdf)
 
-- Repatriation from Deputation- Shri. Subhash H. Umaranikar, Joint Secretary\
-  [202502281235325207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281235325207.pdf)
+- Regarding the recruitment of Chopdar, Naik and Safaigar posts in the office of Maharashtra Administrative Tribunal, Mumbai.\
+  [202503051545483807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051545483807.pdf)
 
-- Regarding meetings convened through V.C. at Government level.\
-  [202502281130307907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281130307907.pdf)
+- Regarding the cancellation of the appointment From Clerk cum Typist (Main) Exam 2022 in Mantralaya Department.\
+  [202503051109497207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051109497207.pdf)
 
-- Appointment on Deputation  on the post of Examination Controller and Joint Secretary- Smt. Sarita R. Bandekar Deshmukh,  Joint  Secretary.\
-  [202502281240143407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281240143407....pdf)
-
-- Nodal Minister for Maharashtra Karnataka Border Dispute\
-  [202502281523273607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281523273607.pdf)
-
-- Regarding Deputation for filling the post of Deputy Secretary in the office of Divisional State Service Rights Commission, Chhatrapati Sambhaji Nagar / Amravati / Nagpur.\
-  [202502281242330807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281242330807.pdf)
+- Regarding the cancellation of the appointment From Lower Grade Stenographer (Marathi/English) Exam 2022.\
+  [202503051224585607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051224585607.pdf)
 
 ## Personnel
-- Regarding the transfer of the vacant post of Stenographer (Higher Category) at Maharashtra Introduction Center, New Delhi to the Directorate General of Information and Public Relations, Headquarters, Mumbai.\
-  [202502251121551507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251121551507.pdf)
-
-- Regarding temporary conversion of 1 post in the Clerk-Typist cadre in the Office of the Controller of Accommodation Arrangements into the post of Department Inspector.\
-  [202502281642257707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281642257707.pdf)
-
-- Trasnfer of Shri. Sachin S. Sahastrabudhhe, Deputy Secretary.\
-  [202502281759116507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281759116507.pdf)
+- Regarding approval for purchase of vehicle for Hon. Chairperson, Maharashtra Administrative Tribunal, Mumbai.\
+  [202503041732429707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041732429707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

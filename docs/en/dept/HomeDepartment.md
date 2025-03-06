@@ -1,49 +1,28 @@
 # Home Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
 
 ## Funds
-- Regarding distribution of remaining funds for Nagpur Safe and Smart City project.\
-  [202502271724581529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271724581529.pdf)
+- Regarding approval to disburse funds for the Hydrographic, Survey and Research (3056 0055) scheme for the financial year 2024-25.\
+  [202503031622469729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031622469729.pdf)
 
-- Regarding the payment of the helicopter rental amount taken on rent from Pawan Hans Ltd., Mumbai.\
-  [202502281615401529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281615401529.pdf)
+- Regarding granting administrative approval for the purchase of a new Xerox machine from the Governments e-Marketplace (GeM) portal for the office of Director, Civil Defence, Maharashtra State, Mumbai.\
+  [202503031156469129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031156469129.pdf)
+
+- Regarding the creation of 04 Railway Police Stations namely Lokmanya Tilak Terminus, Asangaon, Ambernath and Bhayander within the jurisdiction of the Commissioner of Police, Railways, Mumbai and the creation of a total of 279 posts for the same and approval of the recurring/non-recurring expenses incurred for the same.\
+  [202503031244073829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031244073829.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 350.00 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of January, 2025...\
+  [202503051751196129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051751196129.pdf)
 
 ## Miscellaneous
-- Regarding declaring the Ex-officio Member, Motor Accident Claims Tribunal, Vita, District Sangli as the Head of Office as well as the Drawing and Disbursing Officer.\
-  [202502271538049829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271538049829.pdf)
-
-- Regarding declaring the Ex-officio Member, Motor Accident Claims Tribunal, Phaltan, District Satara as the Head of Office as well as the Drawing and Disbursing Officer.\
-  [202502271534080629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271534080629.pdf)
-
-- Regarding establishment of Sub Regional Transport Office at Mira Bhayandar, Dist. Thane.\
-  [202502281827378629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281827378629.pdf)
-
-- Regarding promotion in the grade of Junior Administrative Grade of I.P.S. officers.\
-  [202502281519016929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281519016929.pdf)
+- Regarding approval to open an account in the name of Ports Department Mantralay GoM ( Ports_Dept_GoM) on the X (Twitter) platform for the Chief Executive Officer, Maharashtra Maritime Board, Mumbai.\
+  [202503051233510929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051233510929.pdf)
 
 ## Personnel
-- Regarding transfer/posting of police officers in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed).\
-  [202502281108027429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281108027429....pdf)
-
-- Regarding promotion/posting of I.P.S. officers.\
-  [202502281934145429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281934145429...pdf)
-
-- Regarding transfer/posting of I.P.S. officers.\
-  [202502281951123929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281951123929.pdf)
-
-- Regarding transfer/posting of I.P.S. officer.\
-  [202502281944529029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281944529029.pdf)
-
-- Regarding promotion in Senior Time Scale of I.P.S. officers\
-  [202502282000409929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502282000409929.pdf)
-
-- Regarding transfer/posting of I.P.S. officer.\
-  [202502281948228029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281948228029.pdf)
-
-- Regarding transfer/posting of I.P.S. officer.\
-  [202502281940362729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281940362729.pdf)
+- Regarding transfer/posting of police officer in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed).\
+  [202503031122117229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031122117229.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,11 +1,11 @@
 # Housing Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
 
-## Personnel
-- Regarding the declaration of the Drawing and Disbursing Officer and the Non-Governmental Implementing Authority as Virtual Personal Deposit Account Administrator (VPDAA) for the rapid distribution and control of assistance grants.\
-  [202502281321184309.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281321184309.pdf)
+## Funds
+- Regarding the implementation of Pradhan Mantri Awas Yojana (Urban) 2.0 in the state based on the concept of Housing for All.\
+  [202503041837534609.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041837534609.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

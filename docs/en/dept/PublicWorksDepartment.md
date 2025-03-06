@@ -1,18 +1,32 @@
 # Public Works Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
-
-## Miscellaneous
-- Regarding the inclusion of the names of Mr. Nitin Ramchandra Shinde, Manoj Vitthalrao Sangle, Ravishankar Marutirao Suryavanshi, Nitin Dattatray Ingle in the final seniority list of Assistant Engineer Grade-2 (Electrical) Group-B (Gazetted) cadre in the Public Works Department dated 01.01.2017, dated 01.01.2018, dated 01.01.2021 and dated 01.01.2022.....\
-  [202502241558176118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241558176118....pdf)
-
-- Regarding merging the previous service of Water Resources Department with the service of Public Works Department... Shri. Tushar Arun Burud, Superintending Engineer.\
-  [202502271623172118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271623172118.pdf)
 
 ## Personnel
-- Regarding approval of the date of appointment to Shri. Nitin Tanaji Barahate, Sub-Divisional Engineer\
-  [202502271547071318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271547071318.pdf)
+- Posting from the lower cadre of Executive Engineer (Civil Engineering) to the senior cadre of Superintending Engineer (Civil Engineering).\
+  [202503031726138218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031726138218.pdf)
+
+- Transfer/posting of an officer in the Chief Engineer (Civil) cadre.\
+  [202503031723447418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031723447418.pdf)
+
+- Regarding transfer/posting of Deputy Engineer (Civil Engineering).\
+  [202503031738073418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031738073418.pdf)
+
+- Regular promotion from the lower cadre of Superintendent Engineer (Civil Engineering) to the senior cadre of Chief Engineer (Civil Engineering).\
+  [202503031722203618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031722203618.pdf)
+
+- Regarding partial change in the posting order issued for promotion to the post of Sub-Divisional Officer from the Junior Engineer (Civil) cadre.\
+  [202503031740172218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031740172218.pdf)
+
+- Transfer/posting of officers in the Superintending Engineer (Civil) cadre.\
+  [202503031727473118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031727473118.pdf)
+
+- Promotion from the lower cadre of Superintendent Engineer (Civil Engineering) to the senior cadre of Chief Engineer (Civil Engineering).\
+  [202503031729150318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031729150318.pdf)
+
+- Regarding cancellation of promotion given to Civil Engineering Assistant (Group-C) to the post of Junior Engineer (Civil) (Group-B) (Non-Gazetted) in the selection list year 2023-24\
+  [202503031211173618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031211173618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

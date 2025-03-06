@@ -1,33 +1,24 @@
 # Women and Child Development Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
 
 ## Funds
-- Regarding the distribution of funds for the Krantijyoti Savitribai Phule Child Care Scheme (2235 B906) for the current financial year 2024-25.\
-  [202502251640399730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251640399730.pdf)
+- Grant Release For Supplimentry Nutrition Programme Under ICDS For Financial Year 2024-25\
+  [202503051437074530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051437074530.pdf)
 
-- Regarding the distribution of funds for paying salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2024-25.\
-  [202502251721404830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251721404830.pdf)
+- Regarding granting administrative approval for making orphan reservation service online under the Maharashtra Right to Public Service Act, 2015.\
+  [202503041742322730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041742322730.pdf)
 
-- Release of Grant-in-aid to Mahila Arthik Vikas Mahamandal for implementation of IFAD assisted Gender Transformative Mechanism- GTM Project for the financial year 2024-25.\
-  [202502251508430430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251508430430.pdf)
+- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2024-25\
+  [202503031609054230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031609054230.pdf)
 
-- Release of Grant-in-aid for salary to Maharashtra State Social Welfare Board for the year 2024-25.\
-  [202502251513235930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251513235930.pdf)
-
-- Grant release for Baby Care Kit Scheme\
-  [202502251637149430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251637149430.pdf)
-
-- Regarding the disbursement of funds for the scheme To provide financial assistance to children aged 0 to 18 years who have lost both parents due to Corona (Covid-19) infection for the year 2024-2025.\
-  [202502281205360730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281205360730.pdf)
-
-- Grant release for Lek Ladki scheme for FY 2024-25\
-  [202502281914020730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281914020730.pdf)
+- Regarding the distribution of budgeted funds for payment of honorarium and incentive allowance to Anganwadi workers and Anganwadi helpers.\
+  [202503031132076930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031132076930.pdf)
 
 ## Miscellaneous
-- Release of the grand under  Mission vastlya scheme for the year 2024-25\
-  [202502281819554630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281819554630.pdf)
+- Regarding distribution of funds for the implementation of Child Helpline for the year 2024-25 under the centrally sponsored scheme Mission Vatsalya\
+  [202503051643134930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051643134930.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

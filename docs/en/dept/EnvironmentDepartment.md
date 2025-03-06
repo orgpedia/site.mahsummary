@@ -1,11 +1,24 @@
 # Environment Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
+
+## Funds
+- Demand No. U-4, 3435 Regarding re-appropriation under the account head of Environment and Environment.\
+  [202503031804410004.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031804410004.pdf)
+
+- Regarding the implementation of the Nag River Pollution Prevention Project in Nagpur under the National River Conservation Scheme.\
+  [202503031716017604.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031716017604.pdf)
+
+- Regarding approval of new head of account for Central and State share under the centrally sponsored scheme National River Conservation Scheme (Nag River Pollution Control Project at Nagpur).\
+  [202503041554257004.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041554257004.pdf)
+
+- Regarding depositing funds released by the Central Government in the SNA account for the centrally sponsored scheme, Mula-Mutha River, Pune Pollution Reduction Project under the National River Conservation Scheme.\
+  [202503031809241004.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031809241004.pdf)
 
 ## Miscellaneous
-- Government Corrigendum - Maharashtra Electric Vehicle Policy, 2021...\
-  [202502271450587604.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502271450587604.pdf)
+- Regarding the appointment of Single Nodal Agency (SNA) and Nodal Officer for the distribution and management of funds of the centrally sponsored scheme National River Conservation Scheme (Nag River Pollution Control Project in Nagpur).\
+  [202503031718332104.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031718332104.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
