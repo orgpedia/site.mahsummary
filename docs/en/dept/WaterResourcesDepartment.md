@@ -1,37 +1,34 @@
 # Water Resources Department
 
-**Date Range**: 03 March 2025 - 08 March 2025
+**Date Range**: 10 March 2025 - 15 March 2025
 
 
 ## Funds
-- Administrative approval to balance works of dam leakage prevention  dam strengthening work of Temghar project , Tal Mulshi , Dist  Pune under Special Repairs .\
-  [202502241531431827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241531431827.pdf)
-
-- Regarding granting second revised administrative approval to Deharji Medium Project Tal.- Vikramagad, Dist.- Palghar Scheme.\
-  [202502251436449127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251436449127.pdf)
-
-- Administrative Approval under Extension and Improvement to work of conversion of canal system of Janai Shirsai Lift Irrigation Scheme Tal. Daund, Baramati  Purandar, Dist Pune into Closed Pipe Distribution System.\
-  [202502251545480927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251545480927.pdf)
+- Regarding granting administrative approval for setting up a solar power project for the Mysal Lift Irrigation Scheme under the Krishna-Koyna Lift Irrigation Scheme and improving the energy efficiency of the scheme\
+  [202503041741184627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041741184627.pdf)
 
 ## Miscellaneous
-- Regarding the formation of a committee to review land acquisition court cases and arbitration matters.\
-  [202502241812029627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502241812029627.pdf)
+- Provisional seniority list of the cadre of Scientific Research Officers in the Water Resources Department as on 01.01.2025.\
+  [202503031651225827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031651225827.pdf)
 
-- Regarding approval of the effective date of promotion to the post of Superintending Engineer (Civil)... Shri. A.Kh.Bondade, Retired Executive Engineer (Civil)\
-  [202502251205544827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502251205544827.pdf)
+- Regarding the reuse of water available through sewage treatment in connection with the water supply provided to the Maharashtra Industrial Development Corporation for industrial use and regarding the formation of a committee to prepare a comprehensive plan in this regard.\
+  [202503041641234527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041641234527.pdf)
 
 ## Personnel
-- Regarding cancellation of appointment of candidates who did not appear for the post of Assistant Engineer Grade-2 (Civil) Group-B (Gazetted) in Maharashtra Engineering (Civil) Service Examination 2022.\
-  [202502281346596527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281346596527.pdf)
+- Regarding publication of the provisional seniority list dated 01.01.2025 of the cadre of Superintending Engineer (Mechanical) in the department.\
+  [202503031254313527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031254313527.pdf)
 
-- Regarding the posting of Assistant Executive Engineer (Civil) in Maharashtra Engineering (Civil) Services Main Examination - 2021.\
-  [202502281735297627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281735297627.pdf)
+- Provisional seniority list of the cadre of Superintending Engineer (Electrical) in the Water Resources Department as on 01.01.2023, 01.01.2024 and 01.01.2025.\
+  [202503031247500427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031247500427.pdf)
 
-- Maharashtra Engineering (Civil) Services Mains Examination-2021 regarding the post of Assistant Engineer, Grade-1(Civil)\
-  [202502281741140427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281741140427.pdf)
+- Accord Administrative approval to additional  water reservation for wada nagar panchayat  tal wada dist palghar from Vaitarna hydroelectric project.\
+  [202503061715180627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061715180627...pdf)
 
-- Regarding the posting of Assistant Engineer, Grade-1 (Civil) in Maharashtra Engineering (Civil) Services Main Examination - 2013. Smt. Sayali Rohan Jambhulkar (Sayali Nitin Inamke)\
-  [202502281733340527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202502281733340527.pdf)
+- Provisional seniority list of the cadre of Soil Survey Officers in the Water Resources Department as on 01.01.2025.\
+  [202503031655140327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031655140327.pdf)
+
+- Regarding Posting after promotion to Secretary and Secretary equivalent rank Executive Director/Director General cadre.\
+  [202503061156009027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061156009027.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

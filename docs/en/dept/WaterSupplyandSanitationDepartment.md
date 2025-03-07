@@ -298,6 +298,12 @@
 - Revised Administrative approval to Mau. Devghar  Tal. Wada   Dist. Palghar  water supply scheme Under JJM.\
   [202503031658483928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031658483928.pdf)
 
+- Revised Administrative approval to Mau. Nigudwadi, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202503041222274928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041222274928....pdf)
+
+- Under the Jal Jeevan Mission, the Tribal Component Program (State Share) regarding the release of funds to the State Water and Sanitation Mission ( Head 2215 A061).\
+  [202503061612068128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061612068128.pdf)
+
 ## Miscellaneous
 - Requisition No. Y-7 7610, regarding disbursement of budgetary grants for the year 2024-2025 under loans to Government employees etc.\
   [202503041443167628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041443167628.pdf)
@@ -331,6 +337,12 @@
 
 - Regarding giving Revised administrative approval to the regional water supply scheme Kharus  KH  ta.Umarkhed   dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202503031248085928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031248085928.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Awar  ta.Khamgaon   dist-Buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202503051501140128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051501140128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Nipana  ta.Khamgaon   dist-Buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202503051501239528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051501239528.pdf)
 
 ## Personnel
 - Revised Administrative approval to Mau. Khumbe, Tal. Mangaon Dist. Raigad water supply scheme Under JJM.\
@@ -569,6 +581,12 @@
 
 - Revised Administrative approval to Mau. Repoli, Tal. Mangaon Dist. Raigad water supply scheme Under JJM.\
   [202503031115072128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031115072128.pdf)
+
+- Revised administrative approval for madalgaon, Tal- shirala  Dist- sangali Water Supply Scheme under Jal Jeevan Mission\
+  [202503061122146228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061122146228.pdf)
+
+- Revised administrative approval for dudhgaon, Tal- miraj  Dist-sangli Water Supply Scheme under Jal Jeevan Mission\
+  [202503061512380128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061512380128.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

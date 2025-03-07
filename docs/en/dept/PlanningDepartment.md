@@ -26,6 +26,12 @@
 - Employees Master Database (EMDb)\
   [202503051201451116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051201451116.pdf)
 
+- Regarding amendment in the structure of the Governing Body of Maharashtra Institution for Transformation-Mitra Sanstha\
+  [202503061446192316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061446192316.pdf)
+
+- Regarding the appointment of the Vice-Chairman in the Governing Board of Maharashtra Institution for Transformation-Mitra Sanstha.\
+  [202503061606499416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061606499416.pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list dated 01/01/2024 of Joint Director, Group-A cadre in the Directorate of Finance and Statistics.\
   [202503051240120016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051240120016.pdf)

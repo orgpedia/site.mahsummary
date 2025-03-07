@@ -85,6 +85,15 @@
 - Regarding financial approval for the expenses of organizing the Naman Mahotsav.\
   [202503031501300523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031501300523.pdf)
 
+- Regarding financial approval for the second installment of the conservation and repair work of the state protected monument, Trivikram Temple, Ter, District Dharashiv...\
+  [202503061302022323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061302022323.pdf)
+
+- Regarding granting financial approval for the expenditure incurred for the work of microphotography of records in the Directorate of Archives.... Financial Approval - 5\
+  [202503061822224723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061822224723.pdf)
+
+- Regarding financial approval for the second installment of the conservation and repair work of the state protected monument, Gupteshwar Temple, Dharasur, Gangakhed Taluka, Parbhani District...\
+  [202503061259168323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061259168323.pdf)
+
 ## Miscellaneous
 - Regarding renaming of the institution Swami Samarth Maharashtra Institute of Hotel Management and Catering Technology, Solapur as Shri. Swami Samarth Maharashtra Institute of Hotel Management and Catering Technology, Solapur.\
   [202503031303438823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031303438823.pdf)
@@ -109,6 +118,9 @@
 
 - Regarding financial approval for the organization expenses of Dashavatara Festival - 2024.\
   [202503031459048423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031459048423.pdf)
+
+- Regarding granting financial approval for the first installment of the conservation and repair work of the state protected monument Udgir Fort, Taluka Udgir, District Latur (Part-4)...\
+  [202503061258061623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061258061623.pdf)
 
 ## Personnel
 - Regarding declaring the Chief Accounts Officer of Maharashtra Tourism Development Corporation as Virtual Personal Deposit Account Administrator (VPDAA) for the purpose of disbursing the funds of the grant-in-aid.\

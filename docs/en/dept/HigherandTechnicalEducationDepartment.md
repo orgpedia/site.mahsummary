@@ -10,6 +10,9 @@
 - Maharashtra National Law University, Nagpur, regarding disbursement of remaining funds for the construction of the university at Waranga...\
   [202503051115285408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051115285408.pdf)
 
+- Regarding the distribution of funds under the account head 31-Auxiliary Grants (Non-Salary) for the Subsidiary Grant Scheme to government and non-government colleges under the Paris Sparsh Scheme (2202 K 802).\
+  [202503061757486308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061757486308.....pdf)
+
 ## Miscellaneous
 - Regarding the sanction of scholarships for the academic year 2024-25 to meritorious boys and girls to pursue higher education abroad....\
   [202503051229304808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051229304808.pdf)
@@ -25,6 +28,9 @@
 
 - Regarding Termination of Probationary Period.\
   [202503041216272708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041216272708.pdf)
+
+- Regarding extension of final approval of new law college for academic year 2025-26.\
+  [202503061503590708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061503590708.pdf)
 
 ## Personnel
 - Regarding disbursement of rent of hostel leased from Ashimara Housing Company for student accommodation at Maharashtra National Law University, Mumbai.\

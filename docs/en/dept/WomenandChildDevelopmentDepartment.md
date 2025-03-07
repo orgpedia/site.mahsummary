@@ -20,5 +20,9 @@
 - Regarding distribution of funds for the implementation of Child Helpline for the year 2024-25 under the centrally sponsored scheme Mission Vatsalya\
   [202503051643134930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051643134930.pdf)
 
+## Personnel
+- Regarding publication of provisional seniority list of officers in Group-B (Gazetted) cadre on regional establishments under Women and Child Development Department as on 1.1.2025.....\
+  [202503061644447930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061644447930.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

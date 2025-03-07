@@ -3,6 +3,13 @@
 **Date Range**: 10 March 2025 - 15 March 2025
 
 
+## Funds
+- Regarding granting administrative approval for payment of pending rent of the office of Inspector, Legal Metrology, Mahim Department, under the supervision of Deputy Controller, Legal Metrology, Mumbai District No. 1.\
+  [202503061608331106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061608331106.pdf)
+
+- Regarding granting administrative and financial approval to the budget for repair and renovation of the offices of Inspector, Legal Metrology, Precision Laboratory Department, Old Custom House, Mumbai.\
+  [202503061410158106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061410158106.pdf)
+
 ## Personnel
 - Regarding temporary promotion to the post of Manager Group-B (Gazetted) of District Consumer Grievance Redressal Forum under the State Consumer Grievance Redressal Commission.\
   [202503031559587306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031559587306.pdf)

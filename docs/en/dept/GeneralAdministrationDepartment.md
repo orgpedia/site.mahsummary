@@ -31,6 +31,9 @@
 - Regarding increasing the monthly financial assistance to be given to senior journalists under the Acharya Balshastri Jambhekar Senior Journalist Honor Scheme from Rs. 11,000/- to Rs. 20,000/-.\
   [202503041738286207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041738286207.pdf)
 
+- Regarding approval of old DAVP rates for single source organizations and old/current equivalent media and old DAVP rates for advertisement placement through local cable...\
+  [202503061839538907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061839538907.pdf)
+
 ## Miscellaneous
 - Regarding the cancellation of the appointment From Steno Typist (Marathi/English) Exam 2022.\
   [202503051227023507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051227023507.pdf)
@@ -44,9 +47,24 @@
 - Regarding the cancellation of the appointment From Lower Grade Stenographer (Marathi/English) Exam 2022.\
   [202503051224585607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051224585607.pdf)
 
+- Regarding repatriation of service on deputation,  Shri. Arjun Waghmode, Section Officer\
+  [202503061801020207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061801020207.pdf)
+
+- Filling the post of deputation basis\
+  [202503061659280907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061659280907.pdf)
+
+- Filling the post of deputation basis.\
+  [202503061806413407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061806413407.pdf)
+
+- Filling the post of Under Secretary (Administration) in the office of Governors Secretary on deputation basis\
+  [202503061703231707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061703231707.pdf)
+
 ## Personnel
 - Regarding approval for purchase of vehicle for Hon. Chairperson, Maharashtra Administrative Tribunal, Mumbai.\
   [202503041732429707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041732429707.pdf)
+
+- Regarding downgrading and conversion of 1 post in the Chief Electoral Officer cadre to the post of Under Secretary in the Office of the Chief Electoral Officer\
+  [202503061540216307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061540216307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

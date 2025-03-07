@@ -26,12 +26,30 @@
 - Regarding the creation of a new health institution.\
   [202503031501593117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031501593117.pdf)
 
+- Final seniority list dated 01.01.2024 for the post of Pediatrician in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503061521525517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061521525517.pdf)
+
 ## Personnel
 - Regarding post creation for new health institution.\
   [202503051302051717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051302051717.pdf)
 
 - Regarding extension of the temporary posts of Director, Health Services (Urban)-01 post, Deputy Director, Health Services (Urban)-02 posts, Assistant Director, Health Services (Urban)-04 posts under the Public Health Department.\
   [202503041611499317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041611499317.pdf)
+
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate...\
+  [202503061149212217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061149212217.pdf)
+
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate...\
+  [202503061143558317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061143558317.pdf)
+
+- Final seniority list dated 01.01.2024 for the post of Anaesthesiologist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503061524425317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061524425317.pdf)
+
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate...\
+  [202503061146236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061146236517.pdf)
+
+- Regarding the review of service after the age of 50/55 years of the officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate...\
+  [202503061147476417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061147476417.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

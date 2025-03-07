@@ -24,5 +24,8 @@
 - Regarding establishment of Civil Court Junior Level and Judicial Magistrate First Class Court instead of Link Court at Paud, Taluka Mulshi, Dist. Pune and sanctioning posts accordingly.\
   [202503031742146312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031742146312.pdf)
 
+- Regarding Approval for the establishment of Court of District and Additional Sessions Judge at Daryapur, Dist. Amravati, creation of posts of judicial officers and staff accordingly and necessary recurring and non-recurring provision for the same.\
+  [202503061522087912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061522087912.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -20,9 +20,18 @@
 - Regarding approval to open an account in the name of Ports Department Mantralay GoM ( Ports_Dept_GoM) on the X (Twitter) platform for the Chief Executive Officer, Maharashtra Maritime Board, Mumbai.\
   [202503051233510929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051233510929.pdf)
 
+- Administrative approval to estimates for construction  works in Nagpur Central prison\
+  [202503061124567429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061124567429.pdf)
+
+- Regarding granting administrative approval for renewal of the lease agreement of the building taken on lease from Dhule Taluka Milk Producers Agricultural Supplements Cooperative Society Ltd. for the office of Regional Transport Office, Dhule.\
+  [202503061203359529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061203359529.pdf)
+
 ## Personnel
 - Regarding transfer/posting of police officer in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed).\
   [202503031122117229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031122117229.pdf)
+
+- Regular Select List, 2024-2025: Regarding promotion to  post in the cadre of Senior Administrative Officer on the establishment of the Commissioner of Police, Greater Mumbai.\
+  [202503061615200129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061615200129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

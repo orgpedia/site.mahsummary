@@ -3,6 +3,16 @@
 **Date Range**: 10 March 2025 - 15 March 2025
 
 
+## Funds
+- Regarding the distribution of funds for the Centrally Sponsored Centrally Sponsored Pradhan Mantri Micro Food Processing Industry Scheme for the financial year 2024-25 under the Tribal Component Programme. Central Share (Account Head 2401B357) State Share (Account Head 2401B366)\
+  [202503061830518724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061830518724.pdf)
+
+- Regarding distribution of Subsidies under the Scheme of Aided Ashram Schools for the financial year 2024-25 under the Tribal Component Programme. ( Account Head 2225 F 129 ) ( Item 31-Subsidies-Non-Salary )\
+  [202503061828338924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061828338924.pdf)
+
+- Funds released for Mahatma Jyotirao Phule Jan Arogya Yojana for the financial year 2024-25 under the Tribal Component Programme (Account Head-2210 G 289)\
+  [202503061832527924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061832527924.pdf)
+
 ## Miscellaneous
 - Distribution of funds for the schemes of programme expenditure under the Tribal Component Programme for the year 2024-25. (Programme Expenditure-Backward Classes Welfare)\
   [202503031328289424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031328289424.pdf)

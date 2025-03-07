@@ -28,6 +28,12 @@
 - Regarding distribution of grant under the account head of Community-level Solid Afforestation (4406 0492) for the financial year 2024-25.\
   [202503041842098119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041842098119.pdf)
 
+- Regarding the disbursement of funds for 31-Assistive Grants (Non-Salary) under the account head Kundal Development, Administration and Management Prabodhini (Forest) Kundal (Program) (2415-1068) for the year 2024-25.\
+  [202503061649218819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061649218819.pdf)
+
+- Regarding the disbursement of funds for payment of additional compensation as per Section 18 of the Land Acquisition Act, 1894 for the land acquired for the rehabilitation of project affected people at Dighi, Taluka Nevasa, Dist. Ahmednagar\
+  [202503061610325319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061610325319.pdf)
+
 ## Miscellaneous
 - Forest Land-Chatrapati Sambhaji Nagar Diversion of 0.20 ha. of forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of Regional Meteorological Center, RC Church Colaba, Mumbai for installation of C BAND Doppler Weather Radar at Village Mhaismal, Taluka- Khultabad, Dist. Chatrapati Sambhaji Nagar in the State of Maharashtra.\
   [202503051604513119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051604513119.pdf)
@@ -46,6 +52,9 @@
 
 - Proforma Promotion of Indian Forest Service officers. Smt. Imtienla Ao, IFS (1992).\
   [202503031843194319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031843194319.pdf)
+
+- Forest Land-Yavatmal  Diversion of 0.20 ha of Reserved Forest land in favour of Mandeo Devasthan Trust, Yavatmal for modification and repair of existing temple in village Manpur Tal. / Dist. Yavtmal in the State of Maharashtra.\
+  [202503061752118619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061752118619.pdf)
 
 ## Personnel
 - Chichpalli Dist. Regarding extension of 13 posts in the scheme to continue in the year 2025-26 under the scheme for establishment of Bamboo Research and Training Center at Chandrapur...\
@@ -83,6 +92,15 @@
 
 - Regarding extension of 188 temporary posts in the scheme Forest Management and Elimination of Contractors (Non-Plan) to continue in the year 2025-26...\
   [202503051522327419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051522327419.pdf)
+
+- Forest Land-Gadchiroli Diversion of 2.00 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Arm Out Post at Village-Nelgunda, Taluka-Bhamragad, District-Gadchiroli in the State of Maharashtra.\
+  [202503061750399319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061750399319.pdf)
+
+- Forest Land-Gadchiroli Diversion of 2.00 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Arm Out Post at Village-Kawande Taluka-Bhamragad, District-Gadchiroli in the State of Maharashtra.\
+  [202503061748294219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061748294219.pdf)
+
+- Extention of Labour Post\
+  [202503061511438919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061511438919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
