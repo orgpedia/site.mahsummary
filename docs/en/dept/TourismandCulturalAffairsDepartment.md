@@ -94,6 +94,9 @@
 - Regarding financial approval for the second installment of the conservation and repair work of the state protected monument, Gupteshwar Temple, Dharasur, Gangakhed Taluka, Parbhani District...\
   [202503061259168323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061259168323.pdf)
 
+- Regarding financial approval for the musical program Latanjali organized by Maharashtra State Gujarati Sahitya Academy and the expenses incurred for it.\
+  [202503071449063323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071449063323.pdf)
+
 ## Miscellaneous
 - Regarding renaming of the institution Swami Samarth Maharashtra Institute of Hotel Management and Catering Technology, Solapur as Shri. Swami Samarth Maharashtra Institute of Hotel Management and Catering Technology, Solapur.\
   [202503031303438823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031303438823.pdf)

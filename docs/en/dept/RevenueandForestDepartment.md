@@ -34,6 +34,21 @@
 - Regarding the disbursement of funds for payment of additional compensation as per Section 18 of the Land Acquisition Act, 1894 for the land acquired for the rehabilitation of project affected people at Dighi, Taluka Nevasa, Dist. Ahmednagar\
   [202503061610325319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061610325319.pdf)
 
+- Regarding distribution of funds under the Scheduled Caste Sub-Plan component under the Centrally Sponsored Scheme Tiger Project for the year 2024-25.\
+  [202503071614077719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071614077719.pdf)
+
+- Regarding the distribution of funds to Forest Training Institute, Shahapur under the State Scheme for Training of Forest Personnel (4415 0154) for the year 2024-25...\
+  [202503071517472019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071517472019.pdf)
+
+- State Plan Year 2024-25 Determination of Rights and Privileges-Rehabilitation of Villages in National Parks and Sanctuaries (2406-2241) Regarding distribution of funds under this scheme.\
+  [202503071607561919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071607561919.pdf)
+
+- Centrally Sponsored Scheme for the year 2024-25 Regarding the distribution of funds for measures to be taken in response to the damage caused by wild elephants in Kolhapur Forest Circle under the Centrally Sponsored Scheme Tiger and Elephant Project.\
+  [202503071609466919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071609466919.pdf)
+
+- Regarding the distribution of funds for the Tribal Area Sub-Plan component under the Centrally Sponsored Scheme Tiger Project for the year 2024-25.\
+  [202503071617051319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071617051319.pdf)
+
 ## Miscellaneous
 - Forest Land-Chatrapati Sambhaji Nagar Diversion of 0.20 ha. of forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of Regional Meteorological Center, RC Church Colaba, Mumbai for installation of C BAND Doppler Weather Radar at Village Mhaismal, Taluka- Khultabad, Dist. Chatrapati Sambhaji Nagar in the State of Maharashtra.\
   [202503051604513119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051604513119.pdf)
@@ -55,6 +70,21 @@
 
 - Forest Land-Yavatmal  Diversion of 0.20 ha of Reserved Forest land in favour of Mandeo Devasthan Trust, Yavatmal for modification and repair of existing temple in village Manpur Tal. / Dist. Yavtmal in the State of Maharashtra.\
   [202503061752118619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061752118619.pdf)
+
+- Regarding fixing the time limit for taking action on complaints received regarding illegal minor mining and transportation.\
+  [202503071416495419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071416495419.pdf)
+
+- Regarding granting administrative approval to the budget for construction of a protective wall on the border of Sanjay Gandhi National Park.\
+  [202503071619086919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071619086919.pdf)
+
+- Regarding granting administrative approval to the budget for construction of a protective wall on the border of Sanjay Gandhi National Park.\
+  [202503071605141519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071605141519.pdf)
+
+- Regarding granting administrative approval to the budget for construction of a protective wall on the border of Sanjay Gandhi National Park.\
+  [202503071601095519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071601095519.pdf)
+
+- Current Affairs Proposal under State Plan Year 2024-25 Nature Conservation and Wildlife Management (Programme) (2406 0775).\
+  [202503071733307319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071733307319.pdf)
 
 ## Personnel
 - Chichpalli Dist. Regarding extension of 13 posts in the scheme to continue in the year 2025-26 under the scheme for establishment of Bamboo Research and Training Center at Chandrapur...\
@@ -101,6 +131,18 @@
 
 - Extention of Labour Post\
   [202503061511438919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061511438919.pdf)
+
+- Reorganization of the Forest Department - Extension of the posts created in the field of statistics under the Management Information System to the year 2025-26.\
+  [202503071301038819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071301038819.pdf)
+
+- Provisional seniority list showing the status of Assistant Forester, Group-B (Gazetted) cadre as on 01.01.2025.\
+  [202503071206206119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071206206119.pdf)
+
+- Regarding continuation of 2 temporary posts under the non-scheme scheme of Resource Determination and Basic Material Development Component in the year 2025-26.\
+  [202503071258352119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071258352119.pdf)
+
+- Provisional seniority list of Forestry, Group-A (Gazetted) cadre showing the status as on 01.01.2025.\
+  [202503071203140319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071203140319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
