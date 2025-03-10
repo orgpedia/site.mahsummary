@@ -16,6 +16,9 @@
 - Regarding the distribution of funds for the year 2024-25 under the Shri Kshetra Saptashrungi Devi, Vani, Taluka Kalvan, District Nashik Pilgrimage Development Plan.\
   [202503051126502416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051126502416.pdf)
 
+- Demand No. O-3, Account Head 2505A067, Regarding provisioning by re-appropriation from the objective 31-Subsidies (Non-Salary), to the objective 25052963, Account Head 02-Wages.\
+  [202503071650004716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071650004716.pdf)
+
 ## Miscellaneous
 - Regarding provisioning through redistribution of Demand No. O-7, Account Head 3451 0182, from Objective 17-Computer Expenses, to Objective 03-Overtime Allowance.\
   [202503051055275316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051055275316.pdf)
@@ -35,6 +38,9 @@
 ## Personnel
 - Regarding publication of provisional seniority list dated 01/01/2024 of Joint Director, Group-A cadre in the Directorate of Finance and Statistics.\
   [202503051240120016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051240120016.pdf)
+
+- Regarding extension of 36 temporary posts on establishment of Planning Department (Including Employment Guarantee Scheme Division itself)..\
+  [202503071641292116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071641292116.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

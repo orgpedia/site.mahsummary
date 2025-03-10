@@ -55,12 +55,21 @@
 - Regarding the establishment of a subsidiary company, Sardar Vallabhbhai Patel Gujar Samaj Economic Development Corporation, under the Maharashtra State Other Backward Classes Finance and Development Corporation...\
   [202503041302486434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041302486434.pdf)
 
+- Distribution of funds for payment of telephone, electricity and water charges of government hostels started for students belonging to Other Backward Classes, Scheduled Castes and Nomadic Tribes and Special Backward Classes in the state. (Year 2024-2025)\
+  [202503071240244234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071240244234.pdf)
+
+- Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25.\
+  [202503071442016034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071442016034.pdf)
+
 ## Miscellaneous
 - Other Backward Classes Welfare Department (Own) regarding approval of vehicle review...\
   [202503051510156834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051510156834.pdf)
 
 - Regarding approval of the payment of accommodation and meeting expenses of the Honble Chairman, National Commission for Backward Classes, New Delhi for the months of July 2024, August, 2024, September, 2024, October 2024, January, 2025, amounting to Rs. 1,83,770/-.\
   [202503031605299834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031605299834.pdf)
+
+- Regarding the exclusion of the condition that 5 of the vacant seats in the hostels started for degree students belonging to Other Backward Classes, Deprived Castes, Nomadic Tribes and Special Backward Classes in the state will be filled by the government in the relevant academic year.\
+  [202503071245152734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071245152734.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

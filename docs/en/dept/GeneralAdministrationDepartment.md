@@ -34,6 +34,9 @@
 - Regarding approval of old DAVP rates for single source organizations and old/current equivalent media and old DAVP rates for advertisement placement through local cable...\
   [202503061839538907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061839538907.pdf)
 
+- Regarding distribution of grant to Maharashtra Airport Development Company Limited for the development of MIHAN project.\
+  [202503071520308407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071520308407....pdf)
+
 ## Miscellaneous
 - Regarding the cancellation of the appointment From Steno Typist (Marathi/English) Exam 2022.\
   [202503051227023507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051227023507.pdf)
@@ -59,12 +62,24 @@
 - Filling the post of Under Secretary (Administration) in the office of Governors Secretary on deputation basis\
   [202503061703231707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061703231707.pdf)
 
+- Regarding filling up 01 post of Room Officer cadre in the office of Slum Rehabilitation Authority, Mumbai on deputation.\
+  [202503071623301007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071623301007.pdf)
+
 ## Personnel
 - Regarding approval for purchase of vehicle for Hon. Chairperson, Maharashtra Administrative Tribunal, Mumbai.\
   [202503041732429707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041732429707.pdf)
 
 - Regarding downgrading and conversion of 1 post in the Chief Electoral Officer cadre to the post of Under Secretary in the Office of the Chief Electoral Officer\
   [202503061540216307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061540216307.pdf)
+
+- Regarding approval to continue the temporary posts at the establishment of the Directorate of Civil Aviation from 01.03.2025 to 28.02.2026.\
+  [202503071432237807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071432237807....pdf)
+
+- Regarding termination of deputation and reinstatement of service Shri.Sandip Patil, Section Officer\
+  [202503071626551407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071626551407.pdf)
+
+- Regarding extension of 6 temporary posts in the office of Assistant Commissioner (Backward Classes) under Divisional Commissioners\
+  [202503071506536407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071506536407.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

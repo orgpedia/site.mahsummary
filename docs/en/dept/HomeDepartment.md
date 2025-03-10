@@ -16,6 +16,9 @@
 - Regarding the disbursement of funds amounting to Rs. 350.00 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of January, 2025...\
   [202503051751196129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051751196129.pdf)
 
+- Regarding granting ex-post facto approval to the proposal to pay the amount of Rs. 1,30,50,714/- due towards the rent of vehicles acquired on lease by the Commissioner of Police, Pimpri Chinchwad for the arrangements for the Lok Sabha Election 2024 and for sending newly recruited police constables to the concerned Police Training Centre for training.\
+  [202503071554200229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071554200229.pdf)
+
 ## Miscellaneous
 - Regarding approval to open an account in the name of Ports Department Mantralay GoM ( Ports_Dept_GoM) on the X (Twitter) platform for the Chief Executive Officer, Maharashtra Maritime Board, Mumbai.\
   [202503051233510929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051233510929.pdf)

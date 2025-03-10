@@ -7,12 +7,24 @@
 - Regarding granting administrative approval for setting up a solar power project for the Mysal Lift Irrigation Scheme under the Krishna-Koyna Lift Irrigation Scheme and improving the energy efficiency of the scheme\
   [202503041741184627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041741184627.pdf)
 
+- Regarding granting of third revised administrative approval for Warkhede Londhe (Barrage) Medium Project, Tal. Chalisgaon, Dist. Jalgaon.\
+  [202503071708323027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071708323027.pdf)
+
 ## Miscellaneous
 - Provisional seniority list of the cadre of Scientific Research Officers in the Water Resources Department as on 01.01.2025.\
   [202503031651225827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031651225827.pdf)
 
 - Regarding the reuse of water available through sewage treatment in connection with the water supply provided to the Maharashtra Industrial Development Corporation for industrial use and regarding the formation of a committee to prepare a comprehensive plan in this regard.\
   [202503041641234527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503041641234527.pdf)
+
+- Regarding the seniority date of Smt. Tarkeshwari Devkiran Tayade Assistant Executive Engineer (Civil Engineering)\
+  [202503071149227827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071149227827....pdf)
+
+- Regarding the seniority date of Smt. Sayali Rohan Jambhulkar Assistant Executive Engineer (Civil Engineering)\
+  [202503071151523427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071151523427.pdf)
+
+- Regarding the seniority date of Smt. Sarla Madhukar Dhoke Assistant Executive Engineer (Civil Engineering)\
+  [202503071154126327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071154126327.pdf)
 
 ## Personnel
 - Regarding publication of the provisional seniority list dated 01.01.2025 of the cadre of Superintending Engineer (Mechanical) in the department.\
