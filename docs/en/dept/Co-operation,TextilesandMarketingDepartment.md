@@ -1,15 +1,24 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 10 March 2025 - 15 March 2025
+**Date Range**: 17 March 2025 - 22 March 2025
 
 
 ## Funds
-- (44252232) Regarding approval of the revised scheme name in this account head.\
-  [202503031459379102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503031459379102.pdf)
+- Regarding the disbursal of margin money loan of Rs. 1060.76 crores to 9 cooperative sugar factories for working capital from the National Cooperative Development Corporation (NCDC) through the Maharashtra Government (Routed Through State Government).\
+  [202503101912541702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101912541702.pdf)
 
-## Miscellaneous
-- Regarding the constitution of a new Cabinet Sub-Committee to make recommendations in accordance with the proposed amendments to the Maharashtra Agricultural Produce Marketing (Development and Regulation) Act, 1963 under Maharashtra Legislative Assembly Bill No. 64 of 2018.....\
-  [202503061402419502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061402419502.pdf)
+- Administrative approval for the implementation of the sub-project Computerization of office of RCS of States/UTs in the state under the centrally sponsored project Strengthening of Cooperatives through IT interventions\
+  [202503101259058102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101259058102...pdf)
+
+## Personnel
+- Regarding continuation of temporary posts created for implementing continuous and concurrent audit scheme in Mahatma Jyotiba Phule Various Executive Service Cooperative Societies and 7 other institutions from 01/03/2025 to 31/08/2025.\
+  [202503101145366302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101145366302.pdf)
+
+- Regarding extension of temporary posts created for statutory audit of agricultural processing cooperatives...\
+  [202503101149544902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101149544902.pdf)
+
+- Regarding continuation of temporary posts created for continuous and concurrent audit in Maharashtra State Tribal Development Corporation and Tribal Cooperative Societies from 01/03/2025 to 31/08/2025.\
+  [202503101147181202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101147181202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
