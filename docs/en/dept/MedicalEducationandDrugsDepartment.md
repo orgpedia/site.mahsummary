@@ -13,6 +13,9 @@
 - Final seniority list of Associate Professor, Biochemistry, Group-A\
   [202503101548557013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101548557013.pdf)
 
+- Administrative approval for the installation of CCTV system at the boys and girls hostels and officers/employees colony of Government Medical College, Ratnagiri\
+  [202503121046325113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121046325113.pdf)
+
 ## Personnel
 - Regarding providing alternative space for establishing a new Government Medical College with an admission capacity of 100 students and an attached 430-bed hospital at Washim.\
   [202503101159414113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101159414113.pdf)

@@ -3,9 +3,19 @@
 **Date Range**: 17 March 2025 - 22 March 2025
 
 
+## Funds
+- Year 2024-25 Budgetary Grant Demand No. Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Advances for Purchase of Motor Vehicles (7610 0481) Allocation of Advances for Purchase of New Motor Cycles/Scooters.\
+  [202503121210403212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121210403212.pdf)
+
 ## Miscellaneous
 - Regarding establishment of Civil Court Junior Level and Judicial Magistrate First Class Court instead of Link Court at Paud, Taluka Mulshi, Dist. Pune and sanctioning posts accordingly.\
   [202503101228094412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101228094412.pdf)
+
+- Regular promotion to the post of Deputy Charity Commissioner, Group-A  Selection Year 2023-24\
+  [202503121231541212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121231541212.pdf)
+
+- Year 2024-25 Budgetary Grant Demand No. J-5, Account Head 7610-Loan to Government Employees etc. (204)(00)(01)- Personal Computer Purchase Advances, (7610 1842) Computer Advance Allocation.\
+  [202503111250404112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111250404112.pdf)
 
 ## Personnel
 - Continuation of temporary posts in 138 special fast track courts established in the state under the National Mission For Safety of Women...\
@@ -34,6 +44,27 @@
 
 - Continuation of temporary posts at the establishment of Maharashtra Judicial Academy and Indian Mediation Centre and Training Institute, Uttan, District Thane.\
   [202503101730577212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101730577212.pdf)
+
+- Continuation of temporary posts for the period 01.03.2025 to 31.08.2025 City Civil and Sessions Court, Mumbai.\
+  [202503121454198912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121454198912.pdf)
+
+- Continuation of temporary posts for the period 01.03.2025 to 31.08.2025 District and Session Court, Sindhudurg.\
+  [202503121457133812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121457133812.pdf)
+
+- Regarding approval for continuation of temporary posts in the establishment of District Court, Nandurbar.\
+  [202503121451048112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121451048112.pdf)
+
+- Continuation of temporary posts  for the period 01.03.2025 to 31.08.2025 District and session Court, Kolhapur.\
+  [202503121450304612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121450304612.pdf)
+
+- Continuation of temporary posts for the period 01.03.2025 to 31.08.2025 Chief Judicial Magistrate, Mumbai\
+  [202503121457338812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121457338812.pdf)
+
+- Regular promotion to the post of Joint Charity Commissioner, Group-A  Selection Year 2023-24\
+  [202503121231296412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121231296412.pdf)
+
+- Continuation to temporary posts of District Court Sangli for the period of 01/03/2025 to 31/08/2025\
+  [202503121452525912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121452525912.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

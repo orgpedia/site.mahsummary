@@ -1,18 +1,18 @@
 # Urban Development Department
 
-**Date Range**: 10 March 2025 - 15 March 2025
+**Date Range**: 17 March 2025 - 22 March 2025
 
 
 ## Funds
-- Regarding prescribing guidelines for Urban Tribal Settlement Improvement Scheme (under Tribal Sub-Scheme).\
-  [202503051413536425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503051413536425.pdf)
+- Regarding the distribution of funds for the financial year 2024-25 for expenditure on Information, Education and Behavioral Change (IEC  BC) under Swachh Maharashtra Mission (Civil) 2.0.\
+  [202503121734510125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121734510125.pdf)
 
-- Release of funds to Mumbai Railway Vikas Corporation for Mumbai Urban Transport Project Phase-3 received under Part-9 (States share for completion of major urban and rural infrastructure projects under various schemes/programmes of the Central Government) under Special Assistance Scheme for Capital Investment to States 2024-25.\
-  [202503061759072825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503061759072825.pdf)
+## Miscellaneous
+- Regarding ensuring posts for the disabled in the establishment of the office of Nashik Metropolitan Region Development Authority, Nashik as per the Rights of Persons with Disabilities Act, 2016.\
+  [202503121150192925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121150192925.pdf)
 
-## Personnel
-- Regarding the regularization of the religious place Chand Tara Darbar Trust on land measuring 1655 sq.m. at Mouja Gadga within the limits of Nagpur Municipal Corporation.\
-  [202503071637225725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503071637225725.pdf)
+- Regarding ensuring the posts in the office of Chhatrapati Sambhajinagar Metropolitan Region Development Authority, Chhatrapati Sambhajinagar for the disabled as per the Rights of Persons with Disabilities Act, 2016.\
+  [202503121154093325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121154093325.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

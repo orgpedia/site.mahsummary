@@ -16,5 +16,15 @@
 - Final seniority list of the cadre of Inspectors, Legal Metrology in the Legal Metrology System as on 01 January, 2025.\
   [202503101353485106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101353485106.pdf)
 
+- regarding the additional charge of the vacant post of District Supply Officer, Hingoli\
+  [202503121443146106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121443146106.pdf)
+
+- regarding the additional charge of the vacant post of District Supply Officer, Akola\
+  [202503111210389806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111210389806.pdf)
+
+## Personnel
+- regarding the additional charge of the vacant post of Foodgrain Distribution Officer, Nagpur\
+  [202503121445270806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121445270806.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

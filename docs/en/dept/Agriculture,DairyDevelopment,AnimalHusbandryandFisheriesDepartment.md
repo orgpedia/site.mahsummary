@@ -3,6 +3,10 @@
 **Date Range**: 17 March 2025 - 22 March 2025
 
 
+## Funds
+- Regarding giving administrative approval to the scheme amounting to  128.922 lakh for the implementation of Coconut Development Board Scheme in the State in the year 2024-25.\
+  [202503111820414101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111820414101....pdf)
+
 ## Miscellaneous
 - Regarding termination of the deputation services of Shri. Anjali Abhay Dhanorkar, Joint Director (Administration), Maharashtra Council of Agricultural Education and Research, Pune.\
   [202503101123038301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101123038301.pdf)
@@ -16,6 +20,9 @@
 ## Personnel
 - Regarding continuation of the proposed 820 temporary and 158 additional posts under the office of Commissioner, Dairy Development Department, Mumbai for the year 2025-26 from 01.03.2025 to 31.08.2025.\
   [202503101749124901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101749124901.pdf)
+
+- Regarding declaration of Drawing and Disbursement Officer of Maharashtra Goseva Aayog, Pune office as Virtual Personal Deposit Account Administrator (VPDAA).\
+  [202503121119502801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121119502801.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
