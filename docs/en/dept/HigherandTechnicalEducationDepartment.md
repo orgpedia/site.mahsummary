@@ -13,6 +13,9 @@
 - Regarding revision in the remuneration of legal officers working on fixed monthly remuneration under the Directorate of Higher Education.\
   [202503121254241408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121254241408.pdf)
 
+- Regarding approval to disburse and withdraw funds for the Directorate of State Projects, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), Mumbai under the article head 2202 I 272 for the financial year 2024-25.\
+  [202503131300410108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131300410108.pdf)
+
 ## Personnel
 - Regarding continuation of temporary posts in the Department of Higher and Technical Education, Ministerial (Own) Establishment.\
   [202503121501177708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121501177708.pdf)

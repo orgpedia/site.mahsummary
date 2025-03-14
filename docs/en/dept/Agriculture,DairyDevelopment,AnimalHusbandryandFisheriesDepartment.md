@@ -7,6 +7,15 @@
 - Regarding giving administrative approval to the scheme amounting to  128.922 lakh for the implementation of Coconut Development Board Scheme in the State in the year 2024-25.\
   [202503111820414101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111820414101....pdf)
 
+- Regarding the distribution of grant in the financial year 2024-25 for refund of defined contribution pension scheme deposits made by employees of Agricultural Universities and their affiliated aided institutions....\
+  [202503131551594801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131551594801.pdf)
+
+- Regarding the distribution of Rs. 75.00 crore for implementing the State Sponsored Agricultural Mechanization Scheme in the year 2024-25.....\
+  [202503131224019401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131224019401....pdf)
+
+- Regarding distribution of grant for house construction advance to employees of Agricultural Universities in the financial year 2024-25 (compulsory)...\
+  [202503131552477501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131552477501.pdf)
+
 ## Miscellaneous
 - Regarding termination of the deputation services of Shri. Anjali Abhay Dhanorkar, Joint Director (Administration), Maharashtra Council of Agricultural Education and Research, Pune.\
   [202503101123038301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101123038301.pdf)

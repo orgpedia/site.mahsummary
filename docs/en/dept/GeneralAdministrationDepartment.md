@@ -26,6 +26,12 @@
 - Filling the post of deputation basis\
   [202503121435290007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121435290007.pdf)
 
+- Collective measures regarding strengthening of contractual Inquiry officer mechanism\
+  [202503131455334007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131455334007.pdf)
+
+- To fill post of Deputy Secretary in the office of State Information Commission, Nagpur, Belapur, Chatrapati Sambhaji Nagar by deputation\
+  [202503131701402807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131701402807.pdf)
+
 ## Personnel
 - Regarding continuation of 293 temporary posts on the establishment of General Administration Department (Own) till 31st August, 2025...\
   [202503111612308507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111612308507.pdf)
@@ -38,6 +44,9 @@
 
 - Regarding extension of 36 temporary posts in the Regional Divisional Inquiry Officers Office from 01.03.2025 to 31.08.2025.\
   [202503121104517807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121104517807.pdf)
+
+- Regarding extension of tenure of a total of 180 temporary posts, including 179 in the Directorate General of Information and Public Relations and subordinate offices, and 1 in the office of Chief Examiner, Books and Publications, Mumbai, for the period from 01.03.2025 to 31.08.2025.\
+  [202503131504056707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131504056707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

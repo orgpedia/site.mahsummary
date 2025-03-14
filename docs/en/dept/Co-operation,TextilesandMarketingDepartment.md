@@ -17,6 +17,9 @@
 - Regarding the formation of a State Level Approval Committee to approve the inclusion of market committees in the Central Governments e-NAM scheme in the state of Maharashtra.....\
   [202503121851558702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121851558702.pdf)
 
+- Regarding distribution of interest subsidy to textile units under Textile Policy, 2011-2017.\
+  [202503131804518702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131804518702.pdf)
+
 ## Personnel
 - Regarding continuation of temporary posts created for implementing continuous and concurrent audit scheme in Mahatma Jyotiba Phule Various Executive Service Cooperative Societies and 7 other institutions from 01/03/2025 to 31/08/2025.\
   [202503101145366302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101145366302.pdf)
@@ -29,6 +32,15 @@
 
 - Regarding extension of temporary posts on the establishment of State Co-operative Election Authority.\
   [202503121125562902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121125562902.pdf)
+
+- Regarding approval to continue the temporary posts at the establishment of the Directorate of Silk from 01.03.2025 to 31.08.2025...\
+  [202503131601292502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131601292502.pdf)
+
+- Regarding continuation of temporary posts in the Sugar Commissionerate and the Regional Joint Director (Sugar) Office under its control for the year 2025-2026. (Dated 01/03/2025 to Date 31/08/2025.)\
+  [202503131230558602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131230558602.pdf)
+
+- Regarding continuation of temporary posts under the scheme of Continuous and Concurrent Audit of Cooperative Sugar Factories for the year 2025-26. (Date 01/03/2025 to 31/08/2025.)\
+  [202503131227382502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131227382502.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

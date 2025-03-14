@@ -16,6 +16,12 @@
 - Regarding granting administrative and financial approval to pay property tax for the period from 01.07.2008 to 30.09.2024 to the Sub-Regional Transport Office, Navi Mumbai.\
   [202503121515203529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121515203529.pdf)
 
+- Regarding the proposal to pay the amount of Rs. 21,40,895/- due towards the rent of vehicles acquired on lease by the Superintendent of Police, Wardha for the police security arrangements for the Lok Sabha Election 2024 as well as the arrival/campaign meeting arrangements of important/very important persons.\
+  [202503131504133929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131504133929.pdf)
+
+- Regarding disbursement of funds under the scheme of Subsidiary Grant to Maharashtra Maritime Board, Provision of Floating Jetties and Similar Passenger Facilities (Programme) Account Head B-7 (3051 1835).\
+  [202503131620015729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131620015729.pdf)
+
 ## Miscellaneous
 - Regarding making available on the budgetary distribution system the funds of Rs. 1500.00 lakhs sanctioned by the Centre as Mother Sanction for the Special Central Assistance Scheme under SNA-SPARSH.\
   [202503101651590029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101651590029.pdf)
@@ -31,6 +37,13 @@
 
 - Regarding the suspension of Mr. Dnyaneshwar Haribhau Kharat from the Government Service in the cadre of Superintendent, District Jail, Class 2/ Deputy Superintendent, Central Jail, Group B (Gazetted).\
   [202503121722402729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121722402729.pdf)
+
+## Personnel
+- Regarding extension of 100 temporary posts newly created for 02 Armed Police Assistance Centers at 1) Nender and 2) Yelichil in Surjagad in Naxal-affected Gadchiroli district.\
+  [202503131544489529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131544489529.pdf)
+
+- Regarding extension of the post of Superintendent of Police, Civil Rights Protection Department, Nagpur in the Civil Rights Protection Office under the Director General of Police, Maharashtra State from 01.03.2025 to 31.08.2025.\
+  [202503131559083829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131559083829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

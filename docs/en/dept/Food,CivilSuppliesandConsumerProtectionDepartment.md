@@ -22,9 +22,15 @@
 - regarding the additional charge of the vacant post of District Supply Officer, Akola\
   [202503111210389806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111210389806.pdf)
 
+- Regarding the assignment of additional charge of the vacant post of District Supply Officer, Sangli to Mr. Ashish Shriram Phuluke, Food Distribution Officer, Grade-2, Sangli...\
+  [202503131305505406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131305505406.pdf)
+
 ## Personnel
 - regarding the additional charge of the vacant post of Foodgrain Distribution Officer, Nagpur\
   [202503121445270806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121445270806.pdf)
+
+- Regarding granting administrative approval for the cost of services provided by an external organization, M/s Krishna Motors, Mumbai, for the post of Driver in the office of Controller Ration Distribution and Director Civil Supplies, Mumbai.\
+  [202503131121469606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131121469606.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,6 +16,15 @@
 - Regarding granting advance approval and administrative approval of the government to the civic facilities to be provided in the resettled villages for the Sardar Sarovar Project affected people in Taloda and Shahada, Dist. Nandurbar.\
   [202503121556292719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121556292719.pdf)
 
+- To grant interest on refund of Stamp Duty to Rizvi Builders as per order of Hon. High  Court.\
+  [202503131630218919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131630218919.pdf)
+
+- To grant interest on refund of Stamp Duty to Mr. Sikandar  Bagwan as per order of Hon. High  Court.\
+  [202503131636042419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131636042419...pdf)
+
+- To grant interest on refund of Stamp Duty to Mr. Harisht Jain as per order of Hon. Supreme Court.\
+  [202503131633266319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131633266319.pdf)
+
 ## Miscellaneous
 - Forest Land- Mumbai Suburban   Raigad  Diversion 0f 22.9648 ha of forest land in favour of Bharat Petroleum Corporation Ltd., Mumbai for installation of polypropylene unit at Rasayani and construction of underground petroleum pipeline with OFC and its associated facilities from Mahul (Mumbai Suburban District) to Rasayani (Raigad District) in the State of Maharashtra.\
   [202503101750575119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101750575119.pdf)
@@ -37,6 +46,9 @@
 
 - Regarding to award medals to Forest Service Officers/Employees for effective work in forest conservation as well as for excellence in Forest Service.\
   [202503111425574719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111425574719.pdf)
+
+- Forest Land- Satara Diversion of 0.9337 ha Reserved Forest and Protected Forest in favour of National Highway Authority of India, PIU, Pune for four laning of Alandi- Pandharpur-Mohal section of Palkhi Marg (Km 117/00 to Km 166/400) at Village- Nimbhore, Kalaj, Taluka- Phaltan, District- Satara in the State of Maharashtra.\
+  [202503131242502719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131242502719.pdf)
 
 ## Personnel
 - Regarding the posting of officers in the Additional District Collector cadre\
@@ -80,6 +92,12 @@
 
 - Rehabilitation Establishment Chhatrapati  Sambhajinagar  Division - Regarding extension of approved temporary posts in Chhatrapati Sambhajinagar division from dated 01.03.2025 to 31.08.2025, created for the rehabilitation of project displaced persons.\
   [202503121616311519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121616311519.pdf)
+
+- Request for transfer of officers in the Office Superintendent, Group-B (Gazetted), cadre.\
+  [202503131507416019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131507416019.pdf)
+
+- Annual Plan 2024-25 Under the State Level Scheme Empowerment of Mobile Team (2406 2161), regarding the purchase of 01 new vehicle of the same type in replacement of 01 deregistered vehicle in the Conservator of Forests (Regional), Yavatmal Forest Report.\
+  [202503131234498019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131234498019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

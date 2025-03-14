@@ -26,6 +26,9 @@
 - Dr. Sucheta Prithviraj Rathore, Medical Officer, Regarding Voluntary Retirement of Group-A.\
   [202503111454502517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111454502517.pdf)
 
+- Regarding the distribution of a total grant of Rs. 1966.52 lakhs under the Centrally Sponsored National AYUSH Mission for the year 2024-25, out of which 60 Central share is Rs. 1232.38 lakhs from the account head 2210G135 and Rs. 734.14 lakhs for the State share from the account head 2210G144.\
+  [202503131309179117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131309179117.pdf)
+
 ## Personnel
 - Corrigendum regarding disbursement of funds of Rs. 65.00 crore under the head of account 2210 G 251 (General) for the financial year 2024-25 for Mahatma Jyotirao Phule Jan Arogya Yojana\
   [202503121737524017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121737524017.pdf)
@@ -38,6 +41,12 @@
 
 - Continuation of 5 temporary posts in the State Level Administrative Department under the strengthening of the  Dental Department in the Public Health Department Hospital.\
   [202503121540006817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121540006817.pdf)
+
+- Final seniority list dated 01.01.2024 for the post of Gynecologist and Obstetrician in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503131512304617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131512304617.pdf)
+
+- Regarding implementing the Virtual Personal Deposit Account procedure for the speedy disbursement and monitoring of the grant- in- aid provided to the State Blood Transfusion Council and declaring the Assistant Director, State Blood Transfusion Council, Mumbai as the Virtual Personal Deposit Account Administrator\
+  [202503131527447317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131527447317.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

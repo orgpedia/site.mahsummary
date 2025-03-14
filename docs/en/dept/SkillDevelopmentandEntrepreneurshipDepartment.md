@@ -14,6 +14,9 @@
 - Regarding increasing the training period to 11 months under the Chief Ministers Youth Work Training Scheme and giving other related instructions\
   [202503111303337903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111303337903.pdf)
 
+- Establishment of a state-level Ekatma Manav Darshan Diamond jubilee Festival Committee\
+  [202503131712047503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131712047503.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in institutions/offices under the Directorate of Vocational Education and Training, Maharashtra State, Mumbai from 01/03/2025 to 31/08/2025...\
   [202503101806568003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101806568003.pdf)

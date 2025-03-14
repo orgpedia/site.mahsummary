@@ -18,5 +18,11 @@
 - Regarding extension of 23 temporary posts at the establishment of the Department of Social Justice and Special Assistance.\
   [202503101530116422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101530116422.pdf)
 
+- Regarding extension of temporary posts created for the implementation of the centrally sponsored Indira Gandhi National Old Age Pension Scheme.\
+  [202503131738449322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131738449322.pdf)
+
+- Regarding extension of temporary posts in Sanjay Gandhi Niradhar Anudan Yojana and other special assistance schemes.\
+  [202503131744268722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131744268722.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -66,5 +66,35 @@
 - Continuation to temporary posts of District Court Sangli for the period of 01/03/2025 to 31/08/2025\
   [202503121452525912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121452525912.pdf)
 
+- Continuation of temporary posts of District Court, Thane for the period 01.03.2025 to 31.08.2025\
+  [202503131448507812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131448507812.pdf)
+
+- Continuation of temporary post for the period 01.03.2025 to 31.08.2025 District and session Court  Ahmednagar.\
+  [202503131448199812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131448199812.pdf)
+
+- Continuation of temporary posts of Small Causes Court, Mumbai for the period 01.03.2025 to 31.08.2025\
+  [202503131456266112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131456266112.pdf)
+
+- Continuation of temporary post of  District and session Court, Jalgaon.for the period 01.03.2025 to 31.08.2025\
+  [202503131747548212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131747548212.pdf)
+
+- Continuation of temporary posts for the period 01.03.2025 to 31.08.2025 District and Session Court, Sindhudurg.Continuation of temporary post for the period 01.03.2025 to 31.08.2025 District and session Court, Nashik.\
+  [202503131451249112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131451249112.pdf)
+
+- Continuation of temporary post of District and session Court, Satara for the  period 01.03.2025 to 31.08.2025.\
+  [202503131459077812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131459077812.pdf)
+
+- Continuation of temporary posts of District Court, Raigad- Alibagh  for the period 01.03.2025 to 31.08.2025\
+  [202503131454253412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131454253412.pdf)
+
+- Continuation of temporary post of District and Sessions Court, Dhule for the period 01.03.2025 to 31.08.2025\
+  [202503131451377912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131451377912.pdf)
+
+- Continuation of temporary post for the period 01/03/2025 to 31/08/2025 District and session Court, Solapur.\
+  [202503131501302312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131501302312.pdf)
+
+- Continuation to temporary posts of District Court, Ratnagiri for the period of 01/03/2025 to 31/08/2025.\
+  [202503131750277012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131750277012.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

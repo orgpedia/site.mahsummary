@@ -10,6 +10,9 @@
 - Regarding approval of the first phase of grant from the State Government for the construction of a shared facility center for the industrial cluster project of Textile Cluster, Basmat District, Hingoli under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
   [202503111549109810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111549109810.pdf)
 
+- Regarding approval of the expenditure of the State Governments grant under the first phase for the construction of a shared facility center of the industrial cluster project at Sant Gorobakaka Matikala Cluster, Beed, Dist. Beed under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
+  [202503131824072310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131824072310.pdf)
+
 ## Miscellaneous
 - Regarding distribution of subsidy to Maharashtra State Khadi and Village Industries Board, Mumbai for the financial year 2024-25 (salary for the months of January-2025 and March-2025).\
   [202503101430340210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101430340210.pdf)
@@ -22,6 +25,15 @@
 
 - Regarding publication of the final seniority list of the cadre of Industrial Officer (Administration) (Group-B) dated 1.01.2025.\
   [202503111436472610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111436472610.pdf)
+
+- Regarding approval of the expenditure of the second phase of grant from the State Government for the implementation of capacity building program for industrial cluster projects approved under the scheme Maharashtra State Industrial Cluster Development Program (MSI-CDP).\
+  [202503131817191810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131817191810.pdf)
+
+- Regarding approval of the final phase of grant expenditure for the construction of a shared facility center for the Milk and Milk Products Cluster, Achalpur Dist. Amravati Industrial Cluster Project under the Maharashtra State Industrial Cluster Development Program (MSI-CDP).\
+  [202503131819477410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131819477410.pdf)
+
+- Regarding approval of the expenditure of the first phase of grant from the State Government for the implementation of capacity building program for industrial cluster projects approved under the scheme Maharashtra State Industrial Cluster Development Program (MSI-CDP).\
+  [202503131813385310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131813385310.pdf)
 
 ## Personnel
 - Regarding continuation of 52 temporary posts in the Directorate of Industrial Safety and Health from 01.03.2025 to 31.08.2025.\
