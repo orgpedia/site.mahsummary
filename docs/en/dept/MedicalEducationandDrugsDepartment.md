@@ -1,24 +1,24 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 17 March 2025 - 22 March 2025
+**Date Range**: 24 March 2025 - 29 March 2025
 
 
 ## Miscellaneous
-- Final seniority list of Associate Professor Pharmacy Group A cadre as on 01.01.2024\
-  [202503101546507913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101546507913.pdf)
+- Regarding the start of a new dental postgraduate degree course at Government Dental College and Hospital, Chhatrapati Sambhajinagar.\
+  [202503181505579413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181505579413.pdf)
 
-- Regarding the revision in the pay scale of the cadre of Stenographer (Higher Grade) and Stenographer (Lower Grade) in the establishment of Maharashtra University of Health Sciences, Nashik, as per Finance Department, Government Decision, No. Vepur 1121/Pr.No.4/Sewa-9, dated 13.02.2023.\
-  [202503101203539013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101203539013.pdf)
-
-- Final seniority list of Associate Professor, Biochemistry, Group-A\
-  [202503101548557013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101548557013.pdf)
-
-- Administrative approval for the installation of CCTV system at the boys and girls hostels and officers/employees colony of Government Medical College, Ratnagiri\
-  [202503121046325113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121046325113.pdf)
+- Special Repairs, Maintenance internal Road and Development Premises of Rajarshri Chhatrapati Shahu Maharaj Government Medical College Girls Hostel Near Civil Surgen Bunglow at Kolhapur\
+  [202503171457431113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171457431113.pdf)
 
 ## Personnel
-- Regarding providing alternative space for establishing a new Government Medical College with an admission capacity of 100 students and an attached 430-bed hospital at Washim.\
-  [202503101159414113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101159414113.pdf)
+- Regarding the determination of the revised structure of the cadre of professors, associate professors, and assistant professors in the Department of Dentistry in government medical colleges and hospitals.\
+  [202503171239095913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171239095913.pdf)
+
+- Regarding the determination of the revised structure of the cadre of professors, associate professors, and assistant professors in the Department of Dentistry in government medical colleges and hospitals.\
+  [202503171229540913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171229540913.pdf)
+
+- Regarding the determination of the revised structure of the dental surgeon cadre in the Department of Dentistry in Government Dental College and Hospital and Government Medical College and Hospital.\
+  [202503171234542513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171234542513.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

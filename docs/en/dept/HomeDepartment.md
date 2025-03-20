@@ -1,49 +1,43 @@
 # Home Department
 
-**Date Range**: 17 March 2025 - 22 March 2025
+**Date Range**: 24 March 2025 - 29 March 2025
 
 
 ## Funds
-- Regarding the disbursement of Rs. 83.66 crore as state share for the new railway line Vadsa-Desaiganj-Gadchiroli.\
-  [202503101745241729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101745241729.pdf)
-
-- Regarding granting administrative and financial approval for payment of outstanding electricity bills of the Office of the Transport Commissioner, Bandra (East), Mumbai.\
-  [202503111236167029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111236167029.pdf)
-
-- Regarding administrative Approval for Land acquisition expense for new Ahmednagar District Prison\
-  [202503111245192129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111245192129.pdf)
-
-- Regarding granting administrative and financial approval to pay property tax for the period from 01.07.2008 to 30.09.2024 to the Sub-Regional Transport Office, Navi Mumbai.\
-  [202503121515203529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121515203529.pdf)
-
-- Regarding the proposal to pay the amount of Rs. 21,40,895/- due towards the rent of vehicles acquired on lease by the Superintendent of Police, Wardha for the police security arrangements for the Lok Sabha Election 2024 as well as the arrival/campaign meeting arrangements of important/very important persons.\
-  [202503131504133929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131504133929.pdf)
-
-- Regarding disbursement of funds under the scheme of Subsidiary Grant to Maharashtra Maritime Board, Provision of Floating Jetties and Similar Passenger Facilities (Programme) Account Head B-7 (3051 1835).\
-  [202503131620015729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131620015729.pdf)
+- Sanctioning of professional fees to Senior Adv.Amit Desai as  Special Counsel for conducting the Criminal Writ Petition No.4107 of 2024 (arising out of ADR No.326 of 2024  C.R.No.1940 of 2024 both registered with Mumbra Police Station, Thane) before the Honble High Court, Judicature at Bombay on behalf of the State of Maharashtra.\
+  [202503171241550229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171241550229.pdf)
 
 ## Miscellaneous
-- Regarding making available on the budgetary distribution system the funds of Rs. 1500.00 lakhs sanctioned by the Centre as Mother Sanction for the Special Central Assistance Scheme under SNA-SPARSH.\
-  [202503101651590029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101651590029.pdf)
+- Regarding extension of time to the study group/committee formed to take measures/recommendations in view of increasing revenue through State Excise Duty.\
+  [202503181814362229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181814362229.pdf)
 
-- Final Seniority List of Armed DySP/Assistant Commandant, SRPF as on 01/01/2024\
-  [202503121756466729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121756466729.pdf)
-
-- Regarding making available on the budgetary distribution system the funds of Rs. 1500.00 lakhs sanctioned by the Centre as Mother Sanction for the Special Central Assistance Scheme under SNA-SPARSH.\
-  [202503121225332429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121225332429.pdf)
-
-- Regarding approval of the distribution of funds to the Maharashtra State Cyber Office (2055A023) under the following account heads: 06-Telephone, Electricity and Water Bills, 11-Travel Expenses, 13-Office Expenses, 17-Computer Expenses, objective wise.\
-  [202503121146496129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121146496129.pdf)
-
-- Regarding the suspension of Mr. Dnyaneshwar Haribhau Kharat from the Government Service in the cadre of Superintendent, District Jail, Class 2/ Deputy Superintendent, Central Jail, Group B (Gazetted).\
-  [202503121722402729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121722402729.pdf)
+- Regarding declaration of Ex-officio Member, Motor Accident Claims Tribunal, Bhiwandi, District Thane as Head of Office as well as Drawing and Disbursing Officer....\
+  [202503181316177829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181316177829.pdf)
 
 ## Personnel
-- Regarding extension of 100 temporary posts newly created for 02 Armed Police Assistance Centers at 1) Nender and 2) Yelichil in Surjagad in Naxal-affected Gadchiroli district.\
-  [202503131544489529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131544489529.pdf)
+- Regarding extension of Temporary post of Director General,  Deputy Director General, Home Guard as well as other 397 Temporary posts TOTAL 399 POSTS on the establishment of Director General of homegard, Maharashtra from dated 01.03.202 to  dated 31.08.202.\
+  [202503171208452329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171208452329.pdf)
 
-- Regarding extension of the post of Superintendent of Police, Civil Rights Protection Department, Nagpur in the Civil Rights Protection Office under the Director General of Police, Maharashtra State from 01.03.2025 to 31.08.2025.\
-  [202503131559083829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131559083829.pdf)
+- Regarding extension of the temporary post of Staff Officer to Additional Director General of Police (Special Actions)...\
+  [202503171716386429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171716386429.pdf)
+
+- Regarding extension of 10 temporary posts on the establishment of Inspector General, Prevention of Atrocities on Women (PAW) Mumbai and Special Inspector General of Police, Cyber Crime, M.R. Mumbai from 01.03.2025 to 31.08.2025.\
+  [202503181720398929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181720398929.pdf)
+
+- Regarding extension of 70 temporary posts under the Civil Rights Protection Scheme in the Office of the Director General of Police, Maharashtra State, Mumbai and Superintendent of Police from 01.03.2025 to 31.08.2025.\
+  [202503181719531629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181719531629.pdf)
+
+- Regarding extension of the temporary post of Financial Advisor (Deputy Director rank officer in Maharashtra Finance and Accounts Service) and Accounts Officer (Group-A) at the establishment of Director, Maharashtra Police Prabodhini, Nashik.\
+  [202503171721133529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171721133529.pdf)
+
+- Regarding extension of the temporary post of Superintendent of Police on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
+  [202503171719118129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171719118129.pdf)
+
+- Regarding transfer/postings of I.P.S. officer.\
+  [202503171713293029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171713293029.pdf)
+
+- Regarding the extension of tenure of a total of 106 temporary posts in the office of the State Mobile Emergency Column on the establishment of the Director, Civil Defence, State of Maharashtra, Mumbai. From 01.03.2025 to 31.8.2025.\
+  [202503171211242029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171211242029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

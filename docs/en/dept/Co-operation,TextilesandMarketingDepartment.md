@@ -1,46 +1,46 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 17 March 2025 - 22 March 2025
+**Date Range**: 24 March 2025 - 29 March 2025
 
 
 ## Funds
-- Regarding the disbursal of margin money loan of Rs. 1060.76 crores to 9 cooperative sugar factories for working capital from the National Cooperative Development Corporation (NCDC) through the Maharashtra Government (Routed Through State Government).\
-  [202503101912541702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101912541702.pdf)
-
-- Administrative approval for the implementation of the sub-project Computerization of office of RCS of States/UTs in the state under the centrally sponsored project Strengthening of Cooperatives through IT interventions\
-  [202503101259058102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101259058102...pdf)
-
-- Regarding strengthening the financial position of Nagpur District Central Cooperative Bank.\
-  [202503121728105602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121728105602.pdf)
+- Supplementary Statement of Expenditure for the year 2024-25 presented in the March, 2025 session, as well as the distribution of funds for the year 2024-25.\
+  [202503171806329002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171806329002.pdf)
 
 ## Miscellaneous
-- Regarding the formation of a State Level Approval Committee to approve the inclusion of market committees in the Central Governments e-NAM scheme in the state of Maharashtra.....\
-  [202503121851558702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121851558702.pdf)
-
-- Regarding distribution of interest subsidy to textile units under Textile Policy, 2011-2017.\
-  [202503131804518702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131804518702.pdf)
+- Regarding distribution of 10 percent capital subsidy to new and expanding textile units in Vidarbha, Marathwada and North Maharashtra under Textile Policy, 2011-17.\
+  [202503171043093002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171043093002.pdf)
 
 ## Personnel
-- Regarding continuation of temporary posts created for implementing continuous and concurrent audit scheme in Mahatma Jyotiba Phule Various Executive Service Cooperative Societies and 7 other institutions from 01/03/2025 to 31/08/2025.\
-  [202503101145366302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101145366302.pdf)
+- Regarding extension of 2 temporary posts approved for G.D.C.A. Examination from 1/3/2025 to 31/8/2025..........\
+  [202503171742549602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171742549602.pdf)
 
-- Regarding extension of temporary posts created for statutory audit of agricultural processing cooperatives...\
-  [202503101149544902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101149544902.pdf)
+- Regarding continuation of the posts of two members of Maharashtra State Cooperative Appellate Court, Mumbai Bench, Nagpur and Pune from 1/3/2025 to 31/8/2025...........\
+  [202503171225196502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171225196502.pdf)
 
-- Regarding continuation of temporary posts created for continuous and concurrent audit in Maharashtra State Tribal Development Corporation and Tribal Cooperative Societies from 01/03/2025 to 31/08/2025.\
-  [202503101147181202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503101147181202.pdf)
+- Regarding extension of 16 temporary posts of employees appointed for accounting and budget work in the Cooperative Department from 1/3/2025 to 31/8/2025..........\
+  [202503171217181602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171217181602.pdf)
 
-- Regarding extension of temporary posts on the establishment of State Co-operative Election Authority.\
-  [202503121125562902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503121125562902.pdf)
+- Regarding extension of tenure of 39 temporary posts under the Commissioner (Textiles), Nagpur and 13 temporary posts under the Commissioner of Cooperatives and Registrar, Cooperative Societies, Pune, totaling 52 temporary posts.\
+  [202503171807559102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171807559102.pdf)
 
-- Regarding approval to continue the temporary posts at the establishment of the Directorate of Silk from 01.03.2025 to 31.08.2025...\
-  [202503131601292502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131601292502.pdf)
+- Regarding extension of 1467 temporary posts in the Cooperative Department (Administration) from 1/3/2025 to 31/8/2025..........\
+  [202503171215188402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171215188402.pdf)
 
-- Regarding continuation of temporary posts in the Sugar Commissionerate and the Regional Joint Director (Sugar) Office under its control for the year 2025-2026. (Dated 01/03/2025 to Date 31/08/2025.)\
-  [202503131230558602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131230558602.pdf)
+- Regarding continuation of 692 temporary posts (regular posts) in the Audit Cell of the Cooperative Department from 1/3/2025 to 31/8/2025...........\
+  [202503171219035402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171219035402.pdf)
 
-- Regarding continuation of temporary posts under the scheme of Continuous and Concurrent Audit of Cooperative Sugar Factories for the year 2025-26. (Date 01/03/2025 to 31/08/2025.)\
-  [202503131227382502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503131227382502.pdf)
+- Regarding extension of 18 temporary posts of the Cooperative Department under the Dairy Development Department from 1/3/2025 to 31/8/2025.\
+  [202503181713005902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181713005902.pdf)
+
+- Maharashtra State Cooperative Appellate Court Mumbai Bench Regarding continuation of 185 temporary posts in Cooperative Court from 1/3/2025 to 31/8/2025...........\
+  [202503171223100902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171223100902.pdf)
+
+- Maharashtra State Cooperative Appellate Court Mumbai Bench Nagpur and Pune regarding continuation of 32 temporary posts of Class-2, 3 and 4 from 1/3/2025 to 31/8/2025...........\
+  [202503171220529002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171220529002.pdf)
+
+- Regarding extension of 6 temporary posts for Vigilance Cell in Cooperative Department from 1/3/2025 to 31/8/2025..........\
+  [202503171213301502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171213301502.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
