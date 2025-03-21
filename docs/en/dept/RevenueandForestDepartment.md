@@ -26,6 +26,9 @@
 - Release of fund under the Scheme Computerization of Forest Department in for the year 2024-25 (2406 8669).\
   [202503181211587119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181211587119.pdf)
 
+- Regarding the implementation of the Jiwant Satbara campaign under the 100 Days Action Plan program.\
+  [202503191233055719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191233055719.pdf)
+
 ## Personnel
 - Transfer and posting of officers in the Deputy Collector cadre...\
   [202503181840137719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181840137719.pdf)
@@ -35,6 +38,12 @@
 
 - Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains/floods in various districts during the period August to October, 2024...\
   [202503181809331219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181809331219.pdf)
+
+- Regarding providing assistance to those affected by the loss of agricultural crops due to unseasonal rains in various districts from November 2024 to December 2024...\
+  [202503191733329819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191733329819.pdf)
+
+- Regarding extension of the cloud service from MahaIT for DBT system for Relief and Rehabilitation Division under Revenue and Forest Department from November, 2024 to April, 2025.\
+  [202503191736379519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191736379519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

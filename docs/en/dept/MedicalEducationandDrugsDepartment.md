@@ -3,6 +3,10 @@
 **Date Range**: 24 March 2025 - 29 March 2025
 
 
+## Funds
+- Creation of post for 430 bedded hospital at Government Medical Collage and Hospital, Nashik.\
+  [202503181520515513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181520515513.pdf)
+
 ## Miscellaneous
 - Regarding the start of a new dental postgraduate degree course at Government Dental College and Hospital, Chhatrapati Sambhajinagar.\
   [202503181505579413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181505579413.pdf)

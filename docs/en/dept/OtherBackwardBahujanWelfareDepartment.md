@@ -23,5 +23,8 @@
 - Regarding making funds available for the houses approved post-operatively in the years 2023-24 and 2024-25 under the Punyashloka Ahilyadevi Holkar Gharkul Yojana.\
   [202503181114288434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181114288434.pdf)
 
+- Regarding providing funds for the completed works in Jalna district under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202503191327009834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191327009834.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

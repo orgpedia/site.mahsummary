@@ -13,5 +13,11 @@
 - Regarding extension of tenure from 01.03.2025 to 31.08.2025 for posts on fixed temporary and converted temporary establishments under the jurisdiction of Benefit Area Development Authority, Nagpur and Executive Engineer, Irrigation Projects Department, Nagpur under this Authority.\
   [202503171632039127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171632039127.pdf)
 
+- Regarding approval of extension of tenure from 1.03.2025 to 31.08.2025 for a total of 55 posts on fixed temporary establishment in the office of Konkan Irrigation Development Corporation, Thane and the Corporations Internal Minor Irrigation Cell, Thane...\
+  [202503191740430927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191740430927.pdf)
+
+- Regarding approval of extension of tenure from 1.03.2025 to 31.08.2025 for 447 posts on fixed temporary establishment in Superintending Engineer, Kharbhumi Vikas Board, Thane and its subordinate divisional and sub-divisional offices.....\
+  [202503191743573327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191743573327.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

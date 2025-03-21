@@ -7,6 +7,15 @@
 - Regarding distribution of funds for awards and programs under Yashwantrao Chavan Panchayat Raj Mission 2023-24.\
   [202503171129316320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171129316320.pdf)
 
+- Regarding disbursement of funds for Tribal Component Program (TSP) under Maharashtra State Rural Livelihood Mission (MSRLM) for the year 2024-25.\
+  [202503191723179620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191723179620.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2024-25.\
+  [202503191038229320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191038229320.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2024-25.\
+  [202503191723202820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191723202820.pdf)
+
 ## Miscellaneous
 - Correction sheet of the consolidated state-level final seniority list dated 01.01.2023 and 01.01.2024 for Junior Engineer in District Technical Service, Class-3 (Water Supply) cadre in Zilla Parishad.\
   [202503171501365820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171501365820.pdf)

@@ -7,6 +7,12 @@
 - Regarding the distribution of funds for the year 2024-25 under the Shri Kshetra Ganapatipule, Taluka Ratnagiri Development Plan.\
   [202503171738333716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171738333716.pdf)
 
+- Regarding approval of payment of fees to consultants appointed for Consultancy Services work in the Planning Department.\
+  [202503191156116516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191156116516.pdf)
+
+- Regarding approval to disburse funds for the financial year 2024-25 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune.\
+  [202503191254067616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191254067616.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Commissioner, Finance and Statistics, as a member in the State High Level Steering Committee and State Implementation Committee under the State Level Committee for the implementation of the Central Governments Statistical Empowerment Assistance Scheme.\
   [202503181240271916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181240271916.pdf)

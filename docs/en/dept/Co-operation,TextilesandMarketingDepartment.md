@@ -11,6 +11,9 @@
 - Regarding distribution of 10 percent capital subsidy to new and expanding textile units in Vidarbha, Marathwada and North Maharashtra under Textile Policy, 2011-17.\
   [202503171043093002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171043093002.pdf)
 
+- Regarding uploading of Marketing Department information on BISAG-N GIS portal under PM Gatishakti National Master Plan initiative...\
+  [202503191111469302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191111469302.pdf)
+
 ## Personnel
 - Regarding extension of 2 temporary posts approved for G.D.C.A. Examination from 1/3/2025 to 31/8/2025..........\
   [202503171742549602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171742549602.pdf)
