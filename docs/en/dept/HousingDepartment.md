@@ -10,9 +10,15 @@
 - Regarding distribution of Central Share Funds (Other than SC/ST Component) received from the Central Government under Pradhan Mantri Awas Yojana (Urban).\
   [202503181854185809.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181854185809.pdf)
 
+- Regarding payment for the supply of new scanners for the Housing Department.\
+  [202503201648077109.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201648077109.pdf)
+
 ## Miscellaneous
 - Regarding use of Auto Annexure-II system for determining eligibility/ineligibility of slum dwellers.\
   [202503181648392909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181648392909.pdf)
+
+- Regarding amending the composition of the Board of Directors of Maharashtra Housing Development Corporation (MahaHousing).\
+  [202503201829217609.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201829217609.pdf)
 
 ## Personnel
 - Regarding implementation of One Time Amnesty Scheme for Slum Dwellers who are transferring/buying and selling their Slums after issue of Final Annexure-2 of the stalled Slum Rehabilitation Scheme from long time.\

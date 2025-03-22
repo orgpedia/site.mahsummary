@@ -17,5 +17,9 @@
 - Regarding the appointment of Commissioner, Finance and Statistics, as a member in the State High Level Steering Committee and State Implementation Committee under the State Level Committee for the implementation of the Central Governments Statistical Empowerment Assistance Scheme.\
   [202503181240271916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181240271916.pdf)
 
+## Personnel
+- Continuation of temporary posts of MGNREGS of Maharashtra  Nagpur Commissionarate., Div.Comm., Collector Office, Zilha Parishad, Tahsil Office. Date 01.03.2025 to Date 31.08.2025\
+  [202503201241202616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201241202616.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

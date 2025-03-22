@@ -7,6 +7,9 @@
 - Supplementary Statement of Expenditure for the year 2024-25 presented in the March, 2025 session, as well as the distribution of funds for the year 2024-25.\
   [202503171806329002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171806329002.pdf)
 
+- approval of government share capital to cooperative spinning mills - Punyashlok Ahilyadevi Holkar Cooperative Spinning Mills Limited, Chaundi, Tal. Jamkhed, Dist. Ahmednagar\
+  [202503201320112402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201320112402.pdf)
+
 ## Miscellaneous
 - Regarding distribution of 10 percent capital subsidy to new and expanding textile units in Vidarbha, Marathwada and North Maharashtra under Textile Policy, 2011-17.\
   [202503171043093002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171043093002.pdf)

@@ -50,6 +50,15 @@
 - Continuation to District level and Taluka level Posts\
   [202503191225141307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191225141307.pdf)
 
+- filling the post of deputation basis\
+  [202503201239065907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201239065907.pdf)
+
+- Regarding reinstatement of service on deputation Shri. Amol Yadav, Desk Officer\
+  [202503201242090907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201242090907.pdf)
+
+- Appointment to the post of Joint Commissioner (Administration) and Deputy Commissioner (Administration) in the office of Metropolitan Region Development Authority on deputation basis\
+  [202503201510362707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201510362707.pdf)
+
 ## Personnel
 - Provisional Common Seniority List of Group-D Cadre Employees on the Establishment of Ministry of Food/Canteen as on 01st January, 2025. (01.01.2024 to 31.12.2024)\
   [202503171508123707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171508123707.pdf)
@@ -59,6 +68,9 @@
 
 - Regarding continuation of temporary posts at Maharashtra Administrative Tribunal, Mumbai, Nagpur and Aurangabad establishments.\
   [202503181740233307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181740233307.pdf)
+
+- Posting of Under Secretary after Repatriation.\
+  [202503201513104507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201513104507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

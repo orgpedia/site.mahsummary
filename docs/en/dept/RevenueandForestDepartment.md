@@ -13,6 +13,9 @@
 - Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2024-25.\
   [202503171815144819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171815144819.pdf)
 
+- Regarding approval to spend an amount of Rs. 49.98 crore instead of Rs. 10 crore in the month of March, 2025 as a special matter from the amount deposited in the personal ledger account...\
+  [202503201853159519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201853159519.pdf)
+
 ## Miscellaneous
 - Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains/floods in various districts during the period June to October, 2024 (mainly) August and September... (Supplementary Letter)\
   [202503181803567819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181803567819.pdf)
@@ -44,6 +47,12 @@
 
 - Regarding extension of the cloud service from MahaIT for DBT system for Relief and Rehabilitation Division under Revenue and Forest Department from November, 2024 to April, 2025.\
   [202503191736379519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191736379519.pdf)
+
+- Regarding extension of 1362 temporary posts in the Registration and Stamps Department. Dated 01.03.2025 to Dated 31.08.2025\
+  [202503201216594319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201216594319.pdf)
+
+- Regarding the extension of 2 temporary posts in the cell created to send proposals for diversion of forest land for non-forest use for prior approval of the Central Government.\
+  [202503201210587019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201210587019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

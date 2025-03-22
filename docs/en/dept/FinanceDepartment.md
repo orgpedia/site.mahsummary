@@ -7,6 +7,9 @@
 - TJSB Cooperative Bank Limited, a Urban Cooperative Bank, to handle government banking transactions and to approve the eligibility of Urban Cooperative Banks which are financially viable and have proper professionalism and fulfill the prescribed criteria of being financially sound and well managed for the above purpose and to approve the procedure to be followed every year for the same....\
   [202503181751021105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181751021105.pdf)
 
+- Reg. Just-in-Time release of Centrally Sponsored Schemes (CSS) funds through SNA SPARSH model - Avoiding last minute rush in processing of payment files in 2024-25\
+  [202503201750125105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201750125105.......pdf)
+
 ## Personnel
 - Supplementary Demands for the year 2024-25, as well as the distribution of funds for the year 2024-25.Supplementary Demands for the year 2024-25, as well as the distribution of funds for the year 2024-25.\
   [202503171142423905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171142423905.pdf)

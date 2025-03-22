@@ -3,6 +3,10 @@
 **Date Range**: 24 March 2025 - 29 March 2025
 
 
+## Funds
+- Regarding the distribution of funds for the scheme of concession in electricity tariff to agricultural pump customers in the financial year 2024-25 under the Tribal Component Programme. (Account Head 2801 5614)\
+  [202503201445501724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201445501724.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds under the scheme for teachers and non-teaching staff in secondary schools, teachers and non-teaching staff in non-government junior college schools and teachers and non-teaching staff in tribal units of military schools in the year 2024-25 under the Tribal Component Programme. (Account Head 2202 1901, 1948 , H 973), 36-Subsidies (Salary)\
   [202503191557389524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191557389524.pdf)

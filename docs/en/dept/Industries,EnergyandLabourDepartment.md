@@ -19,5 +19,19 @@
 - Regarding approval of the final phase of grant expenditure for the construction of a shared facility center for the industry cluster project of Chili Powder and Spices Cluster, Bhiwapur District, Nagpur under the Maharashtra State Industrial Cluster Development Program (MSI-CDP).\
   [202503191918537610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191918537610.pdf)
 
+- Regarding distribution of State Government Participation Grant (Margin Money) under the Chief Minister Employment Generation Programme (Scheduled Caste Component Programme).\
+  [202503201502509710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201502509710.pdf)
+
+- Regarding distribution of funds Rs.2.796 Crore to MEDA for the implementation of various schemes under NRSE program.\
+  [202503201817379710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201817379710.pdf)
+
+## Miscellaneous
+- Regarding approval to fill Group-C and Group-D cadre posts in Mumbai office under Directorate of Industries through external mechanisms\
+  [202503201445044210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201445044210.pdf)
+
+## Personnel
+- Regarding granting administrative approval to the proposal received under the scheme for creation and development of industrial infrastructure in the state (2024-25)\
+  [202503201740360110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201740360110.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
