@@ -3,6 +3,10 @@
 **Date Range**: 24 March 2025 - 29 March 2025
 
 
+## Funds
+- Regarding Provision of Addtional State Share under the  National Food Security Scheme to The Department Of Food Civil Supplies and Consumer Protection .\
+  [202503211307322706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211307322706.pdf)
+
 ## Miscellaneous
 - Regarding the additional charge of the vacant post of District Supply Officer, Parbhani\
   [202503181748348006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181748348006.pdf)

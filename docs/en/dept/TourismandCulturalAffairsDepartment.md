@@ -32,5 +32,11 @@
 - Regarding the formation of a steering committee of the Department of Cultural Affairs for the organization and planning of WAVES-2025.\
   [202503201113232723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201113232723...pdf)
 
+- Regarding granting administrative approval to spend funds under Account Head (4202 0785) 54- Investments for development works at Kolhapur Chitranagari Corporation, Kolhapur.\
+  [202503211852235423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211852235423.pdf)
+
+- Regarding the construction of a grand memorial of Chhatrapati Shivaji Maharaj in Agra.....\
+  [202503211338008823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211338008823.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,6 +16,9 @@
 - Demand No. A-2 (Committed/Voted) Re-appropriation of the provision under Major Head 2015-Election for the year 2024-25.\
   [202503191657186607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191657186607.pdf)
 
+- Regarding granting administrative and financial approval for the expenses incurred in the meeting of the Western Regional Council.\
+  [202503211747130907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211747130907.pdf)
+
 ## Miscellaneous
 - Regarding the posts to be filled on deputation under the State Training Program in Vasantrao Naik State Agricultural Extension Management Training Institute, Nagpur.\
   [202503171746197207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171746197207.pdf)
@@ -59,6 +62,15 @@
 - Appointment to the post of Joint Commissioner (Administration) and Deputy Commissioner (Administration) in the office of Metropolitan Region Development Authority on deputation basis\
   [202503201510362707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201510362707.pdf)
 
+- Regarding the joint training classes for Assistant Section Officer Post recruitment Training Examination 2025 and Section Officer Departmental Examination 2025\
+  [202503211602451107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211602451107.pdf)
+
+- Repatriation from Deputation- Smt. Sharda Sambhaji Patil, Under Secretary\
+  [202503211259153007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211259153007.pdf)
+
+- To fill the post of Chairman, Caste Certificate Scrutiny Committee by deputation\
+  [202503211257122407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211257122407.pdf)
+
 ## Personnel
 - Provisional Common Seniority List of Group-D Cadre Employees on the Establishment of Ministry of Food/Canteen as on 01st January, 2025. (01.01.2024 to 31.12.2024)\
   [202503171508123707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171508123707.pdf)
@@ -71,6 +83,12 @@
 
 - Posting of Under Secretary after Repatriation.\
   [202503201513104507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201513104507.pdf)
+
+- Additional Temporary Seniority List of Assistant Section Officers eligible for promotion to the post of Section Officer, as on 01.01.2025\
+  [202503211621410907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211621410907...........pdf)
+
+- Trasnfer of Shri. S.C. Andge, Deputy Secretary.\
+  [202503211253159307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211253159307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

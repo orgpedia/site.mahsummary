@@ -3,6 +3,10 @@
 **Date Range**: 24 March 2025 - 29 March 2025
 
 
+## Miscellaneous
+- Revised water planning of Ghod Motha Project, Tal. Shirur, Dist. Pune Project\
+  [202503211418193527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211418193527.pdf)
+
 ## Personnel
 - Regarding extension of tenure of posts on fixed temporary establishment in the office of Chief Engineer, Water Resources Department, Nagpur from 01.03.2025 to 31.08.2025.\
   [202503171628217027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171628217027.pdf)

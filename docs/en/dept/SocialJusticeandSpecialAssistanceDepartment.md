@@ -10,6 +10,12 @@
 - To make the following SNA PARSH for Scheduled Caste category under PM Hamariman Bharat Arogyabhoot Abhiyan PM-ABHIMH from the Budget List for the year 2024-25. Central Share (Account Head 2210H507) State Share (Account Head 2210H516)\
   [202503201645152722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201645152722.pdf)
 
+- Regarding the distribution of funds to Mahavitaran Company for the amount due as electricity tariff concession to agricultural pump customers belonging to Scheduled Caste category in the financial year 2024-25 under the scheme Mukhyamantri Baliraja Free Electricity Scheme. (Account Head 2801 5661)\
+  [202503211820512522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211820512522.pdf)
+
+- Distribution of funds through reallocation for Scheduled Caste schemes under the centrally sponsored restructured Rashtriya Gram Swarajya Abhiyan scheme.\
+  [202503211709422422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211709422422.pdf)
+
 ## Miscellaneous
 - Regarding approval of new heads of accounts under revised subheadings for various programs and compulsory expenditure schemes implemented in Scheduled Caste Schemes as well as General Schemes.\
   [202503191748302422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191748302422.pdf)

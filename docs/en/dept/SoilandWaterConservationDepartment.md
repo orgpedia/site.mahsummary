@@ -7,6 +7,9 @@
 - Regarding the formation of committees to dispose of pending inspection reports/paragraphs in connection with the audit in the Soil and Water Conservation Department...\
   [202503171314109826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171314109826.pdf)
 
+- Regarding submission of a proposal for termination of probationary period and issuance of permanent certificate of Sub-Divisional Water Conservation Officer (Civil) Group-A and Water Conservation Officer (Civil) Group-B (Gazetted) in the Soil and Water Conservation Department.\
+  [202503211804158126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211804158126.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in the establishment of Soil and Water Conservation Department.\
   [202503181448380926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181448380926.pdf)

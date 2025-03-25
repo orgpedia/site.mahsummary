@@ -13,6 +13,12 @@
 - Regarding granting administrative approval for installation of IOT Based Wireless Addressable Fire Alarm System in departmental workshops of Maharashtra State Transport Corporation....\
   [202503191752170729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191752170729.pdf)
 
+- Regarding the disbursement of funds for the twelfth quarterly installment for the modernization of police control rooms (Dial-112) project in the state and for payment of B.I.T.U.L. dues.\
+  [202503211605550629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211605550629.pdf)
+
+- Regarding the allocation of funds in the budget for the scheme of construction of road/railway up to the port and backwater development under Account Head No. 3051 0768 for the year 2024-25.\
+  [202503211640234629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211640234629.pdf)
+
 ## Miscellaneous
 - Regarding extension of time to the study group/committee formed to take measures/recommendations in view of increasing revenue through State Excise Duty.\
   [202503181814362229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181814362229.pdf)
@@ -44,6 +50,9 @@
 - Regarding creation of 447 posts of Police Sub-Inspectors at the establishment of Maharashtra Police Academy, Nashik.\
   [202503191501130529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191501130529.pdf)
 
+- Regarding service review of Additional Government Prosecutors, Group - A cadre officers under the Directorate of Prosecutions after attaining the age of 50/55 years.\
+  [202503211813513029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211813513029.pdf)
+
 ## Personnel
 - Regarding extension of Temporary post of Director General,  Deputy Director General, Home Guard as well as other 397 Temporary posts TOTAL 399 POSTS on the establishment of Director General of homegard, Maharashtra from dated 01.03.202 to  dated 31.08.202.\
   [202503171208452329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503171208452329.pdf)
@@ -74,6 +83,33 @@
 
 - Regarding extension of temporary posts in security matters. From 01/03/2025 to 31/08/2025.\
   [202503201838521029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201838521029.pdf)
+
+- Continuation of posts.\
+  [202503211559100529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211559100529.pdf)
+
+- Regarding transfer/posting of police officers in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed).\
+  [202503211305267229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211305267229.pdf)
+
+- Continuation of posts.\
+  [202503211603259629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211603259629.pdf)
+
+- Regular Select List, 2023-24 (Part-2 and Part-4); Regarding posting-on-promotion to posts in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202503211830439529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211830439529.pdf)
+
+- Continuation of posts.\
+  [202503211601191329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211601191329.pdf)
+
+- Regarding extension of tenure of a total of 1661 temporary posts in various categories at the establishment of the Directorate of Prosecutions.\
+  [202503211731551129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211731551129.pdf)
+
+- Regarding extension of tenure of 77 posts transferred to the premises of Special Inspector General of Police, Cyber and Prevention of Atrocities on Women, Maharashtra State, Mumbai Office.\
+  [202503211553076729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211553076729.pdf)
+
+- Continuation of posts.\
+  [202503211555319929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211555319929.pdf)
+
+- Continuation of posts.\
+  [202503211557184629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211557184629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

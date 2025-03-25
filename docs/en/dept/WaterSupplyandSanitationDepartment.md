@@ -46,6 +46,39 @@
 - Revised Administrative approval to Mau. Tamhane Tarf Goregaon, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
   [202503191100377428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191100377428.pdf)
 
+- Revised Administrative approval to Mau. Boraj, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201653337528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201653337528.pdf)
+
+- Revised Administrative approval to Mau.  Nere, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608243928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608243928.pdf)
+
+- Revised Administrative approval to Mau.  Pen Rarul, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608539828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608539828.pdf)
+
+- Revised Administrative approval to Mau.  Barapada, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608180828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608180828.pdf)
+
+- Revised Administrative approval to Mau.  Ekadara, Tal. Murud, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609491428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609491428.pdf)
+
+- Revised Administrative approval to Mau.  Kudtudi, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609259928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609259928.pdf)
+
+- Revised Administrative approval to Mau.  Kevanale, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201657096328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201657096328.pdf)
+
+- Revised Administrative approval to Mau.  Charai bu, Tal. Tala, Dist. Raigad water supply scheme Under JJM.\
+  [202503201658408928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201658408928.pdf)
+
+- Revised Administrative approval to Mau.  Haldule, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201656352928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201656352928.pdf)
+
+- Revised Administrative approval to Mau.  Panave, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609305028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609305028.pdf)
+
+- Revised Administrative approval to Mau.  Shitole, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608591628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608591628.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Utawali  ta.Dharni  dist-Amravati  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202503191312558428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191312558428.pdf)
@@ -140,6 +173,78 @@
 
 - Revised Administrative approval to Mau. Dakhati susare, Tal. Khed, Dis. Ratnagiri water supply scheme Under JJM.\
   [202503191101174928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191101174928.pdf)
+
+- Revised Administrative approval to Mau.  Foujarwadi, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201656132828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201656132828.pdf)
+
+- Revised Administrative approval to Mau.  Aambet, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609079728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609079728.pdf)
+
+- Revised Administrative approval to Mau.  Sonsade, Tal. Tala, Dist. Raigad water supply scheme Under JJM.\
+  [202503201658572128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201658572128.pdf)
+
+- Revised Administrative approval to Mau.  Khavali, Tal. Sudhagad, Dist. Raigad water supply scheme Under JJM.\
+  [202503201658240628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201658240628.pdf)
+
+- Revised Administrative approval to Mau.  Dadar, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608340028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608340028.pdf)
+
+- Revised Administrative approval to Mau.  Kharpale, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608489928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608489928.pdf)
+
+- Revised Administrative approval to Mau. Sarane Nandgaon, Tal. Murud, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609536728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609536728.pdf)
+
+- Revised Administrative approval to Mau.  Turumbadi, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609399128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609399128.pdf)
+
+- Revised Administrative approval to Mau. Vande, Tal. Murud, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609584328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609584328.pdf)
+
+- Revised Administrative approval to Mau.  Ghonase, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609168728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609168728.pdf)
+
+- Revised Administrative approval to Mau.  Aadi pangale, Tal. Murud, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609448828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609448828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Bishnupur, Taluka Chamorshi, District Gadchiroli under the Jal Jeevan Mission program.\
+  [202503211524157328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211524157328.pdf)
+
+- Revised Administrative approval to Mau.  Karambeli, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608393028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608393028.pdf)
+
+- Revised Administrative approval to Mau.  Nive, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201657384328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201657384328.pdf)
+
+- Revised Administrative approval to Mau. Devpur, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201655172028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201655172028.pdf)
+
+- Revised Administrative approval to Mau.  Nhavye, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608146228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608146228.pdf)
+
+- Revised Administrative approval to Mau.  Katali, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201656492428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201656492428.pdf)
+
+- Revised Administrative approval to Mau.  Harigram, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608293228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608293228.pdf)
+
+- Revised Administrative approval to Mau.  Kudgaon, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609215328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609215328.pdf)
+
+- Revised Administrative approval to Mau.  Bandawadi, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609126228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609126228.pdf)
+
+- Revised Administrative approval to Mau.  Varap, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211609033128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211609033128.pdf)
+
+- Revised Administrative approval to Mau. Dhavale, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201655542628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201655542628.pdf)
+
+- Revised Administrative approval to Mau.  Kharoshi, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202503211608443628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211608443628.pdf)
+
+- Revised Administrative approval to Mau.  Parlye, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202503201657565528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201657565528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

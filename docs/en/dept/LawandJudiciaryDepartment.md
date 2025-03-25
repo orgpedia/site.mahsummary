@@ -13,6 +13,9 @@
 - Regarding granting administrative approval for the proposal for free Wi-Fi Connectivity for the use of lawyers and petitioners in the campus and its benches of the Honble High Court, Mumbai for the financial year 2025-26 at an amount of Rs. 13,50,38,400/-.\
   [202503201630523912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201630523912.pdf)
 
+- Year 2024-25 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
+  [202503211216054212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211216054212.pdf)
+
 ## Miscellaneous
 - Regarding revision in the pay scale of Group-A and Group-B employees of the High Court, Bombay, Nagpur Bench and Aurangabad Bench- Corrigendum.\
   [202503201622232612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201622232612.pdf)
@@ -22,6 +25,12 @@
 
 - Regarding amendment in the High Court, Bombay, Appellate side, Service Rules, 2000, by revising the pay scale in the Secretarial cadre- Corrigendum.\
   [202503201616288112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201616288112.pdf)
+
+- Year 2024-25 Budgetary Grant Demand No. J-5, Account Head 7610-Loan to Government Employees etc. (204)(00)(01)- Personal Computer Purchase Advances, (7610 1842) Computer Advance Allocation.\
+  [202503211217200812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211217200812.pdf)
+
+- Regarding the declaration of Civil Judge, Senior Level, Tuljapur, District Osmanabad as Head of Office and Drawing and Disbursing Officer.\
+  [202503211702572112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211702572112.pdf)
 
 ## Personnel
 - Regarding the reconstitution of the Divisional Womens Grievance Redressal Committee under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.\
@@ -65,6 +74,24 @@
 
 - Regarding extension of tenure of temporary posts for the period from 1.03.2025 to 31.08.2025. District and Sessions Courts and Subordinate Courts of Bhandara Judicial District\
   [202503201629219912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201629219912.pdf)
+
+- Continuation of posts.\
+  [202503211700365112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211700365112.pdf)
+
+- Continuation of posts.\
+  [202503211646306912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211646306912.pdf)
+
+- Continuation of posts.\
+  [202503211654261012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211654261012.pdf)
+
+- Continuation of posts.\
+  [202503211656364412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211656364412.pdf)
+
+- Continuation of posts.\
+  [202503211658494812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211658494812.pdf)
+
+- Continuation of posts.\
+  [202503211649041112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211649041112.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

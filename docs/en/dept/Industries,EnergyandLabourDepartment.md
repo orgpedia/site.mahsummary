@@ -25,6 +25,18 @@
 - Regarding distribution of funds Rs.2.796 Crore to MEDA for the implementation of various schemes under NRSE program.\
   [202503201817379710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201817379710.pdf)
 
+- Regarding the distribution of cash subsidy of Rs. 110.18971 crore to Mahavitaran Company for Scheduled Tribe beneficiaries under Pradhan Mantri Kusum Ghatak B Yojana. (Demand No. T-5, Account Head No. 28100974)\
+  [202503211838389910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211838389910.pdf)
+
+- Regarding the expenditure of funds approved in the financial year 2024-25 under the Tribal Component Program for the Tribal Industrial Cluster Project to be set up at Jambutke, Taluka Dindori, Dist. Nashik.\
+  [202503211543136010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211543136010....pdf)
+
+- Regarding the distribution of a grant of Rs. 70.00 crore to the Mahaurja as State Government share for Scheduled Tribe beneficiaries under Pradhan Mantri Kusum Component B.\
+  [202503211841350410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211841350410.pdf)
+
+- Request No. T-5 (Main Account Head 28015614) for the year 2024-25 regarding the disbursement of Rs. 60.00 crore in cash to Mahavitaran Company under Chief Minister Baliraja Free Electricity Scheme/Electricity Rate Concession Scheme to Agricultural Pump Customers under the Tribal Component Program\
+  [202503211656285210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211656285210.pdf)
+
 ## Miscellaneous
 - Regarding approval to fill Group-C and Group-D cadre posts in Mumbai office under Directorate of Industries through external mechanisms\
   [202503201445044210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201445044210.pdf)
