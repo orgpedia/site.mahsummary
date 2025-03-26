@@ -1,55 +1,67 @@
 # Public Health Department
 
-**Date Range**: 24 March 2025 - 29 March 2025
+**Date Range**: 31 March 2025 - 05 April 2025
 
 
 ## Funds
-- Regarding the disbursement of funds amounting to Rs. 118,98,53,258/-(One Hundred and Eighteen Crores Ninety-Eight Lakh Fifty-Three Thousand Two Hundred and Fifty-Eight Only) under the account head 2210 G 449 (General) for the centrally sponsored scheme Pradhan Mantri Jan Arogya Yojana for the financial year 2024-2025 - 31- Subsidies (Non-Salary) as State Share (40).\
-  [202503201515141117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201515141117.pdf)
+- Regarding the distribution of a grant of Rs. 29.40 crore from the budget provision of the year 2024-25 for the scheme Hindu Hriday Samrat Balasaheb Thackeray Apala Dawakhana under the account head 2210K041.\
+  [202503241133124617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133124617.....pdf)
 
-- Regarding approval to disburse and spend the funds approved through supplementary demand in the monsoon session of July 2024 under the objective of 21- Supplies and Materials under Account Head 2210 4259 to settle the pending payments for the purchase of medicines and materials required for the Divisional Referral Service Hospitals, Amravati and Nashik in the financial year 2024-25.\
-  [202503201447166017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201447166017.pdf)
+- Fund distribution year 2024-2025 Pradhan Mantri Jan Arogya Yojana 2210 G 888 (SCP) State share (40 percent)\
+  [202503241639250317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241639250317.pdf)
 
-- Rs. 368.24 lakh from the budgetary provision of 2024-25 for the socially specific component of the Centrally Sponsored Pradhan Mantri Ayushman Bharat Health Infrastructure Mission, Rs. 368.24 lakh from the budgetary provision of 2024-25, Rs. 368.24 lakh for creation of capital votes and Rs. 245.49 lakh from the state share.\
-  [202503201554588017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201554588017.pdf)
+- Regarding granting administrative approval to the budget for the repair and construction of Class-2 accommodation at District Hospital, Beed.\
+  [202503241059051817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241059051817.pdf)
 
-- Under the general scheme of the Centrally Sponsored Pradhan Mantri Ayushman Bharat Health Infrastructure Mission, out of the budgetary provision for the year 2024-25, 2210H463, 35- grant for creation of capital assets will be rs. 2449.00 lakh and 2210H472, 35- Grant for creation of capital expenditure To distribute rs. 1632.67 lakh as state share through re-distribution.\
-  [202503201554562017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201554562017.pdf)
+- Corrigendum- Regarding the distribution of funds for the Scheduled Tribes under the centrally sponsored Pradhan Mantri Matru Vandana Yojana for the  financial year 2024-25.\
+  [202503241312290017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241312290017.pdf)
 
-- Regarding the distribution of funds for the Scheduled Caste community under the centrally sponsored Pradhan Mantri Matru Vandana Yojana for the financial year 2024-25.\
-  [202503211731437617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211731437617.pdf)
-
-- Approval of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2024-25. (70 percent payment of February, 2025)\
-  [202503211523002717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211523002717.pdf.pdf)
-
-- Regarding the distribution of funds for the Scheduled Tribes under the centrally sponsored Pradhan Mantri Matru Vandana Yojana for the financial year 2024-25.\
-  [202503211731492217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211731492217.pdf)
+- Regarding the distribution of State share grant of Rs. 339.66 lakhs out of 40 State share in Kind Grant from the budget provision of the year 2024-25 under the centrally sponsored National Health Mission under the Tribal Upgradation Scheme under the Head of Account 2210E455.\
+  [202503241133378617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133378617.pdf)
 
 ## Miscellaneous
-- Regarding the establishment of a District Level Guardian Public Health Protection Executive Committee under the chairmanship of the Honble Guardian Minister of the concerned district for the effective implementation of the schemes of the Extended Mahatma Jyotirao Phule Public Health Scheme and Ayushman Bharat-Pradhan Mantri Public Health Scheme.\
-  [202503191755340917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191755340917.pdf)
+- Regarding the distribution of State share grant amounting to Rs. 1173.89 lakhs out of 40 State share in Kind Grant from the account head 22105246 under the General Scheme under the Centrally Sponsored National Health Mission, as per the revised provision for the year 2024-25\
+  [202503241133236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133236517.pdf)
 
-- Maharashtra Appropriation Act, 2024. Distribution of Funds for the year 2024-2025\
-  [202503191542465317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191542465317.pdf)
+- Final seniority list dated 01.01.2024 for the post of Psychiatrist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503241421418717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241421418717.pdf)
 
-- Regarding  administrative approval for the purchase of necessary supplementary medicines and consumables from the grant approved under the National Leprosy Control Programme under the objective of Account Head 2210 0665 and Account Head 2210 0941, 21-Supplies and Materials a total amount of Rs. 1,11,45,947/- in the financial year 2024-25.\
-  [202503201700504617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201700504617....pdf)
+- Regarding the disbursement of funds amounting to Rs. 1132.69 lakhs for Kind Grant under Account Head 2210G609 for the State Share for Social Special Sector (SCSP) for the financial year 2024-25 for programmes under the Centrally Sponsored National Rural Health Mission.\
+  [202503241133182017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133182017.pdf)
 
-- Regarding administrative approval for the purchase of essential medicine and medical supplies (Consumables) under the National Tuberculosis Eradication Programme of  Account Head 2210 5175, 2210 0674 and 2210 0191, of Rs. 10,29,52,745/- under the objectives 21-Supplies and Materials  in the financial year 2024-25.\
-  [202503201701123817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201701123817.pdf)
+- Regarding administrative approval and release of funds for the purchase of Rs. 79.00 lakhs under the account head 2235C457 for providing free spectacles to school children for the prevention of visual impairment.\
+  [202503241133504217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133504217.pdf)
 
-- Dr. Saraswat Ashok Verma, Medical Officer, Regarding fixed age retirement of Group-A\
-  [202503111454524717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111454524717.pdf)
+- Final seniority list dated 01.01.2024 for the post of Medical Officer (Ear, Nose, Throat Specialist) in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503241424419117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241424419117.pdf)
 
 ## Personnel
-- Regarding extension of the temporary posts of Director, Health Services (Urban)-01 post, Deputy Director, Health Services (Urban)-02 posts, Assistant Director, Health Services (Urban)-04 posts under the Public Health Department.\
-  [202503181103554617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181103554617.pdf)
+- Final seniority list dated 01.01.2024 for the post of X-Ray Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503241420028717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241420028717.pdf)
 
-- Regarding extension of tenure of 52 temporary posts at the State Health Information and Vital Statistics Office establishment from 01/03/2025 to 31/08/2025.\
-  [202503211213183917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211213183917.pdf)
+- Regarding continuation of 210 temporary posts in the state under the National Blindness Control Program\
+  [202503241134546417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241134546417.pdf)
 
-- Regarding extension of 10302 temporary posts sanctioned under the Family Welfare Program in State Family Welfare Office, Pune and various subordinate offices for the period from 01/03/2025 to 31/08/2025.\
-  [202503211213139017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211213139017.pdf)
+- Regarding extension of the temporary post of District Health Officer Group-A (Class 1) at Zilla Parishad, Sindhudurg.\
+  [202503241059127317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241059127317.pdf)
+
+- Final seniority list dated 01.01.2024 for the post of Orthopedic Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202503241423087917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241423087917.pdf)
+
+- Regarding continuation of temporary posts in the Dental Department in Rural Hospitals / Sub-District / District Hospital / General Hospital under the jurisdiction of Deputy Director, Health Services circle, Thane and Pune.\
+  [202503241113376317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241113376317.pdf)
+
+- Regarding extension of 116 temporary posts in the Dental Department under the supervision of Deputy Director, Health Services, Latur Board, Latur.\
+  [202503241059184017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241059184017.pdf)
+
+- Regarding extension of 126 temporary posts in the Dental Department under the supervision of Deputy Director, Health Services, Kolhapur Board, Kolhapur.\
+  [202503241059071717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241059071717.pdf)
+
+- Regarding continuation of 53 temporary posts in the establishment of Deputy Director, Health Services, State Public Health Laboratory, Pune.\
+  [202503241113300817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241113300817.pdf)
+
+- Final seniority list dated 01.01.2024 for the post of Deputy Director in Maharashtra Medical and Health Services, Group-A.\
+  [202503241418087917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241418087917.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

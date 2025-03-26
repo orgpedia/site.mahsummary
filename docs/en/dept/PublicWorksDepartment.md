@@ -1,21 +1,11 @@
 # Public Works Department
 
-**Date Range**: 24 March 2025 - 29 March 2025
+**Date Range**: 31 March 2025 - 05 April 2025
 
-
-## Miscellaneous
-- Regarding cancellation of the recommendation for appointment to the post of Junior Engineer (Civil), Group-B (Non-Gazetted) and Civil Engineering Assistant, Group-C under the direct service recruitment of the Public Works Department.\
-  [202503181153391118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181153391118...pdf)
 
 ## Personnel
-- Transfer/posting of an officer in the Superintending Engineer (Civil) cadre.\
-  [202503181130294018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181130294018.pdf)
-
-- Regarding the implementation of ropeway works in the state...\
-  [202503191320225218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191320225218.pdf)
-
-- Final seniority list showing the status of Executive Engineer (Civil) cadre in Public Works Department as on 01.01.2016\
-  [202503211738381418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211738381418.pdf)
+- Final seniority list showing the status of Executive Engineer (Civil) cadre in Public Works Department as on 01.01.2017\
+  [202503241626481418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241626481418.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

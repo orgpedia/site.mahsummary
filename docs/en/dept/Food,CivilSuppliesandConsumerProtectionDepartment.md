@@ -1,22 +1,22 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 24 March 2025 - 29 March 2025
+**Date Range**: 31 March 2025 - 05 April 2025
 
 
 ## Funds
-- Regarding Provision of Addtional State Share under the  National Food Security Scheme to The Department Of Food Civil Supplies and Consumer Protection .\
-  [202503211307322706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211307322706.pdf)
+- Regarding granting revised administrative approval to the media plan for the publicity of the Chief Ministers Annapurna Scheme (Corrigendum).\
+  [202503241727154006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241727154006.pdf)
 
 ## Miscellaneous
-- Regarding the additional charge of the vacant post of District Supply Officer, Parbhani\
-  [202503181748348006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181748348006.pdf)
+- Regarding the duties and responsibilities of stakeholders regarding the distribution of fortified rice.\
+  [202503241853424406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241853424406.pdf)
 
 ## Personnel
-- State Consumer Grievance Redressal Commission, Mumbai, Nagpur and Aurangabad Circuit Bench of the State Commission and Subordinate District Consumer Grievance Redressal Commissions regarding extension of 508 temporary posts created for the period from 01.03.2025 to 31.8.2025.\
-  [202503201127095206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201127095206.pdf)
+- State level final seniority list of officers holding the post of Technical Officer, Group-B as on 01.01.2025....\
+  [202503241751340606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241751340606.pdf)
 
-- To Saction extension to 149 temporary post of the Legal metrology organization for the period between 1 March, 2025 to 31 August, 2025\
-  [202503201559577506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201559577506.pdf)
+- Regarding extension of temporary posts in the State Food Commission, Mumbai office from 01.03.2025 to 31.08.2025.\
+  [202503241751309406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241751309406.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

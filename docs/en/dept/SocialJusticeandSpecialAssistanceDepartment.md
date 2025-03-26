@@ -1,34 +1,18 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 24 March 2025 - 29 March 2025
+**Date Range**: 31 March 2025 - 05 April 2025
 
 
 ## Funds
-- Regarding the distribution of funds in the financial year 2024-25 under the scheme of LPG cooking gas and biogas, subsidy for milch animals and protection of tree plantation to scheduled caste beneficiaries in villages adjacent to protected forests. (Heading 2406 A801)\
-  [202503181600463422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503181600463422.pdf)
+- Regarding making available funds through re-appropriation from the National Agricultural Development Scheme Detailed Project for disbursing funds from the budgetary provision for the year 2024-25 for the Scheduled Caste category under the National Agricultural Development Scheme (More Crops per Drop).\
+  [202503241742253422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241742253422.pdf)
 
-- To make the following SNA PARSH for Scheduled Caste category under PM Hamariman Bharat Arogyabhoot Abhiyan PM-ABHIMH from the Budget List for the year 2024-25. Central Share (Account Head 2210H507) State Share (Account Head 2210H516)\
-  [202503201645152722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201645152722.pdf)
-
-- Regarding the distribution of funds to Mahavitaran Company for the amount due as electricity tariff concession to agricultural pump customers belonging to Scheduled Caste category in the financial year 2024-25 under the scheme Mukhyamantri Baliraja Free Electricity Scheme. (Account Head 2801 5661)\
-  [202503211820512522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211820512522.pdf)
-
-- Distribution of funds through reallocation for Scheduled Caste schemes under the centrally sponsored restructured Rashtriya Gram Swarajya Abhiyan scheme.\
-  [202503211709422422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503211709422422.pdf)
-
-## Miscellaneous
-- Regarding approval of new heads of accounts under revised subheadings for various programs and compulsory expenditure schemes implemented in Scheduled Caste Schemes as well as General Schemes.\
-  [202503191748302422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503191748302422.pdf)
-
-- Fund distribution for Mahatma Jyotiba Phule Jan Arogya Yojana in the financial year 2024-25.. (Account Head 2210 G 861)\
-  [202503201617439322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201617439322.pdf)
-
-- Disbursement of funds for payment of claims on guarantee basis of hospitals adopted under Pradhan Mantri Jan Arogya Yojana.. (Head of Account 2210 G 888)\
-  [202503201614396622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201614396622.pdf)
+- Regarding the distribution of funds for the Late Bhausaheb Fundkar Fruit Garden Plantation Scheme in the financial year 2024-25. (Account Head 2401B321)\
+  [202503241747528822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241747528822.pdf)
 
 ## Personnel
-- For speedy disbursement and monitoring of Subsidiary Grants, Registrar, Dr. Babasaheb Ambedkar Research and Training Institute (BARTI), Pune to be declared as Virtual Personal Deposit Account Administrator (VPDAA) ...\
-  [202503201601044422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503201601044422.....pdf)
+- Regarding the distribution of financial assistance to the beneficiaries under the Special Assistance Scheme through the DBT portal.\
+  [202503241256112122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241256112122.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
