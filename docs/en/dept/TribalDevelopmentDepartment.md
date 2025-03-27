@@ -7,9 +7,21 @@
 - Regarding the distribution of funds for the Subsistence Allowance Scheme to students studying in Sainik Schools for the financial year 2024-25 under the Tribal Component Programme... (Account Head 2225F102)\
   [202503241328303624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241328303624.pdf)
 
+- To relese grant for the scheme of Agro Forestry under the TSP in financial year 2024-25. central share (2406 D717) state share (2406 B726)\
+  [202503251851091724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251851091724.pdf)
+
+- To release grant for the scheme of Training of various competitive Examination/ Qualifying examination for admission to foreign universities/ Training of foreign languages to the scheduled Tribe Students.(Scheme)  CRC 2225 D387\
+  [202503251851040224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251851040224.pdf)
+
 ## Miscellaneous
 - Disbursement of funds within the limits of revised estimates under the Plan of Programme Expenditure under the Tribal Component Programme for the year 2024-25. (Programme Expenditure-Backward Classes Welfare)\
   [202503241326022224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241326022224.pdf)
+
+- TO release grant for the scheme of committed expenditure schemes under the TSP in financial year 2024-25.\
+  [202503251601380324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251601380324.pdf)
+
+- Regarding the sanction of family pension and death gratuity to the family of an employee under the Defined Contribution Pension Scheme/National Pension System in case of death during the service period and sickness pension and retirement gratuity to the employees who have retired on sickness and retirement gratuity to the employees who retire from Government service.\
+  [202503251336288324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251336288324.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,12 @@
 - Regarding the distribution of State share grant of Rs. 339.66 lakhs out of 40 State share in Kind Grant from the budget provision of the year 2024-25 under the centrally sponsored National Health Mission under the Tribal Upgradation Scheme under the Head of Account 2210E455.\
   [202503241133378617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133378617.pdf)
 
+- Regarding provision of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2024-25. (30 percent payment amount from August 2024 to October 2024)\
+  [202503251719357917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251719357917.pdf)
+
+- Regarding the distribution of funds for the general category for the financial year 2024-25 under the centrally sponsored Pradhan Mantri Matru Vandana Yojana.\
+  [202503251229112817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251229112817.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of State share grant amounting to Rs. 1173.89 lakhs out of 40 State share in Kind Grant from the account head 22105246 under the General Scheme under the Centrally Sponsored National Health Mission, as per the revised provision for the year 2024-25\
   [202503241133236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133236517.pdf)
@@ -34,6 +40,9 @@
 
 - Final seniority list dated 01.01.2024 for the post of Medical Officer (Ear, Nose, Throat Specialist) in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
   [202503241424419117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241424419117.pdf)
+
+- Regarding the Restructuring of the Task Force established for Malaria Control in Gadchiroli District.\
+  [202503251600428317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251600428317.pdf)
 
 ## Personnel
 - Final seniority list dated 01.01.2024 for the post of X-Ray Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\

@@ -10,6 +10,9 @@
 - Regarding the distribution of funds for the Late Bhausaheb Fundkar Fruit Garden Plantation Scheme in the financial year 2024-25. (Account Head 2401B321)\
   [202503241747528822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241747528822.pdf)
 
+- Regarding disbursing long-term loans to backward class cooperative spinning mills... Regarding sanctioning of loans to spinning mills in the financial year 2024-25.\
+  [202503251227569022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251227569022.pdf)
+
 ## Personnel
 - Regarding the distribution of financial assistance to the beneficiaries under the Special Assistance Scheme through the DBT portal.\
   [202503241256112122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241256112122.pdf)

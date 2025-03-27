@@ -7,6 +7,9 @@
 - Regarding granting revised administrative approval to the media plan for the publicity of the Chief Ministers Annapurna Scheme (Corrigendum).\
   [202503241727154006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241727154006.pdf)
 
+- Regarding granting administrative approval for the expenditure incurred for renovation and upgrading of District Consumer Grievance Redressal Commission, Additional Thane, Konkan Bhavan, Navi Mumbai office...\
+  [202503251236348006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251236348006.pdf)
+
 ## Miscellaneous
 - Regarding the duties and responsibilities of stakeholders regarding the distribution of fortified rice.\
   [202503241853424406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241853424406.pdf)

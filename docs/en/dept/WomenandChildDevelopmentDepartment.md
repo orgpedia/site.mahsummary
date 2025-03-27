@@ -10,6 +10,12 @@
 - Regarding approving the disbursement and expenditure of funds for the Centrally sponsored Scheme for Adolescent Girls (SABLA) under the Integrated Child Development Service Scheme.\
   [202503241610385930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241610385930.pdf)
 
+- Regarding granting administrative approval for the architectural repair work at Navjeevan Womens Hostel, Deonar, Chembur.\
+  [202503251422356130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251422356130.pdf)
+
+- Regarding the distribution of funds for the Women Counselling Centers scheme for the financial year 2024-25.\
+  [202503251705567930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251705567930.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for sponsorship, aftercare and sponsorship under the centrally sponsored scheme Mission Vatsalya for the year 2024-25.\
   [202503241242223930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241242223930.pdf)
