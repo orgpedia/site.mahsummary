@@ -26,5 +26,8 @@
 - Regarding the distribution of funds for the implementation of the Child Helpline project for the year 2024-25 under the centrally sponsored scheme Mission Vatsalya.\
   [202503241240357530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241240357530.pdf)
 
+- Regarding approval to provide Pink E-Rickshaws for employment to needy women in the state.\
+  [202503261723453330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261723453330.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

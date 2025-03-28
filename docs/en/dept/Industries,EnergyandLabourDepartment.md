@@ -28,6 +28,15 @@
 - Regarding approval of expenditure under the objective 34-Scholarships/Stipends under the Chief Ministers Employment Generation Programme (General) for the financial year 2024-25.\
   [202503251308318710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251308318710....pdf)
 
+- Regarding book adjustment of loan amount (19.8692 crores) received by Mahanimti Company Limited from KFW German Bank for Solar Power Project, Sakri, Financial Year 2024-25 (Account Head 68010665)\
+  [202503261716201410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261716201410.pdf)
+
+- Regarding adjustment of loan amount (Rs. 23.3436 crore) received by Mahanimti Company Limited from KFW German Bank for Solar Power Project, Sakri for the financial year 2024-25 (Account Head 68010665)\
+  [202503261532271010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261532271010.pdf)
+
+- Regarding the distribution of Rs. 100.00 crore in cash as a subsidy to Mahavitaran Company in the year 2024-25 under the Continuous Power Scheme for the immediate replacement of defective electrical transformers. ...Corrigendum.\
+  [202503261336414910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261336414910.pdf)
+
 ## Miscellaneous
 - Regarding approval for developing a Boiler Manufacturing Management System (BMMS) on Public-Private Partnership (PPP Model) for manufacturers of boilers, heat exchangers and their spare parts and for its operation, maintenance and other works.\
   [202503251726577410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251726577410.pdf)

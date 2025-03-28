@@ -29,6 +29,12 @@
 - Demand No. W-4-2205- Art and Culture, 800- Other Expenditure, (01) Committees and Ceremonies, (01)(01) Committees and Ceremonies (Compulsory) (22050458) Regarding approval of the disbursement of funds in the year 2024-25 under the account head.\
   [202503251310401008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251310401008.pdf)
 
+- Regarding approval to distribute 31-Assistive Grant (Non-Salary) to Dr. Babasaheb Ambedkar University of Technology...\
+  [202503261239313308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261239313308.pdf)
+
+- Regarding the distribution of funds for the construction of a boys and girls hostel building in the Waranga area of Kavi Vice Chancellor Kalidas Sanskrit University.....\
+  [202503261202538608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261202538608.pdf)
+
 ## Personnel
 - Regarding extension of temporary promotion to the post of Principal, Government Engineering Colleges. Dr. R. P. Borkar\
   [202503251211094708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251211094708.pdf)

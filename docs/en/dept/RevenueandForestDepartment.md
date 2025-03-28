@@ -25,6 +25,27 @@
 - Regarding distribution of funds under the general component under the Centrally Sponsored Scheme Tiger Project for the year 2024-25.\
   [202503251904187419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251904187419.pdf)
 
+- Regarding disbursement of funds under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
+  [202503261811314719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261811314719.pdf)
+
+- Regarding assistance for damage to two-wheelers/four-wheelers and houses due to stone pelting and arson in the riots that took place between two groups in Chitnispura and Hansapuri areas of Mahal area on 17/03/2025 under Nagpur city area...\
+  [202503261757478119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261757478119.pdf)
+
+- Demand No. C-07-2406- Regarding making available the budgetary funds saved under Survey, Collection and Demarcation of Forests (2406 0102) (Mandatory) 02 Labour under the State Level Mandatory Scheme of Forestry and Wildlife by re-appropriation from the Government Agency to the objectives of 02 Labour under the Scheme of Combined Planning (Bamboo) (2406 0499) (Mandatory) and 02 Labour under the Scheme of Block Marking (2406 0579) (Mandatory).\
+  [202503261540249619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261540249619.pdf)
+
+- Regarding disbursement of funds for pre-monsoon and first year works to be carried out under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
+  [202503261813230419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261813230419.pdf)
+
+- Demand No. C-07-2406- Regarding the redistribution of funds available under the objective 11- Domestic Travel Expenses under the account head of Forestry and Wildlife, State Level Mandatory Scheme Administration and Protection (2406 0096) to be received under the objective 41- Secret Service Expenses.\
+  [202503261838542919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261838542919.pdf)
+
+- Regarding approval for implementing Chhatrapati Shivaji Maharaj Maharajswa Samadhan Shibir Abhiyan at the mandal level under the Revenue Department under the District Annual Plan.\
+  [202503261234345419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261234345419.pdf)
+
+- Regarding approval of the cost of implementing the digitization/scanning process for proper preservation of old records available from 1927 to 2001 in the Government Photographic Registration Office.\
+  [202503261835314619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261835314619.pdf)
+
 ## Miscellaneous
 - Regarding purchase of laptops and printers for Village Revenue Officers and Mandal Officers for computerization of rights records under DILRMP.\
   [202503241744444019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241744444019....pdf)
@@ -68,6 +89,27 @@
 - Regarding the distribution of funds as per the administrative approval given to the development works in Patan Taluka under the Koyna Earthquake Rehabilitation Fund Committee.\
   [202503251201296819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251201296819.pdf)
 
+- Forest Land-Nagpur Diversion of 0.4428 ha. Zudpi Jungle Forest land in favour of GAIL (India) Limited, Nagpur for laying underground Natural Gas Pipeline of Nagpur to Jabalpur along with Optical Fiber Cable from Nagpur to MH/MP Border in Nagpur District in the State of Maharashtra.\
+  [202503261744183519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261744183519.pdf)
+
+- Regarding the pre-monsoon works of sapling forests to be undertaken in the monsoon season of 2025 under the convergence of Mahatma Gandhi National Rural Employment Guarantee Scheme and various state schemes under the Forest Department.\
+  [202503261445316919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261445316919.pdf)
+
+- Forest Land-Raigad Diversion of 63.3581 ha. of Forest land in favour of GAIL (India) Ltd., Raigad for construction and laying of 220 KV LILO Transmission line from existing SPCL-IPCL near tower 64 to GAIL Usar Substation required for upcoming 500 KTPA PDH-PP Plant in Raigad District in the State of Maharashtra.\
+  [202503261746006219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261746006219.pdf)
+
+- Regarding starting a regular scheme in the form of Strengthening of Dynamic Administration and Emergency Management at the regional level under the Revenue Department under the District Annual Plan. (Supplemental Letter)\
+  [202503261231245619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261231245619.pdf)
+
+- Regarding allotment of districts for training to candidates recommended through State Services Examination-2022 under Combined Probationary Training Programme-10 (CPTP-10)...\
+  [202503261827561319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261827561319.pdf)
+
+- Forest Land- Nashik Diversion of 28.60 Ha. of forest land  in favour of water Conservation Division, Nashik for Mamdapur Storage Tank at Village-Mamdapur, Tal.Yeola, Dist.Nashik in the State of Maharashtra.\
+  [202503261742152819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261742152819.pdf)
+
+- Forest Land-Raigad Diversion of Revised area 0.1967 ha. (original area 0.3933 ha.) Reserved Forest land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of approach road with electricity line and water pipeline to private Survey No 64/0 of Belavade BK, Village, Tal. Pen, Dist. Raigad in the State of Maharashtra.\
+  [202503261748380419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261748380419.pdf)
+
 ## Personnel
 - Request for transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202503241224459919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241224459919.pdf)
@@ -83,6 +125,12 @@
 
 - Forest Land-Gadchiroli Diversion of 5.00 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Arm Out Post at Village-Murewada, Taluka-Ettapalli, District-Gadchiroli in the State of Maharashtra.\
   [202503251254030819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251254030819.pdf)
+
+- Forest Land-Pune Diversion of 0.99358 ha. Forest land under section 2 of Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Shelgaon  Telodha  Gotondi  Pitkeshwar - Kati- MDR-  192 from Chainage Km. 5/368 to Km.5/760, km11/520 to km 11/724  km 12/906 to 13/730 at Village Gotondi, Pitkeshwar  Kati, Taluka Indapur, Dist. Pune\
+  [202503261751256019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261751256019.pdf)
+
+- Regarding the extension of the period for the continuation of 452 posts in the non-plan scheme for the year 2025-26, including the reorganization of the Forest Department, creation of new area rounds and BITS.\
+  [202503261544063919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261544063919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

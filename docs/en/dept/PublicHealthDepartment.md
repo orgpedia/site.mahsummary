@@ -25,6 +25,12 @@
 - Regarding the distribution of funds for the general category for the financial year 2024-25 under the centrally sponsored Pradhan Mantri Matru Vandana Yojana.\
   [202503251229112817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251229112817.pdf)
 
+- Fund Distribution Year 2024-2025 Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana Centrally Sponsored Scheme 2210 G 494 (TSP) State Share (40)\
+  [202503261818033917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261818033917.pdf)
+
+- Regarding the disbursement of funds under the account head 2210 G 861 (SCP) for the financial year 2024-25 for the Mahatma Jyotirao Phule Jan Arogya Yojana.\
+  [202503261807232517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261807232517.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of State share grant amounting to Rs. 1173.89 lakhs out of 40 State share in Kind Grant from the account head 22105246 under the General Scheme under the Centrally Sponsored National Health Mission, as per the revised provision for the year 2024-25\
   [202503241133236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133236517.pdf)
@@ -43,6 +49,9 @@
 
 - Regarding the Restructuring of the Task Force established for Malaria Control in Gadchiroli District.\
   [202503251600428317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251600428317.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . . Dr Pradip Thakkarwad, Medical Officer\
+  [202503261308262517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261308262517.pdf)
 
 ## Personnel
 - Final seniority list dated 01.01.2024 for the post of X-Ray Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\

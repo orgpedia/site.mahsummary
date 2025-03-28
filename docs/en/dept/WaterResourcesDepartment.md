@@ -3,6 +3,10 @@
 **Date Range**: 31 March 2025 - 05 April 2025
 
 
+## Funds
+- Regarding payment of amount admissible under the Deposit Linked Insurance Scheme to the heirs of deceased employees.\
+  [202503261511333127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261511333127.pdf)
+
 ## Miscellaneous
 - Regarding providing incentive grants to the water use organizations established under the Maharashtra Irrigation Systems Management by Farmers Act, 2005, if the elections are held unopposed.\
   [202503241542547127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241542547127.pdf)

@@ -16,12 +16,18 @@
 - Regarding the disbursement of funds for Pradhan Mantri Awas Yojana (Gramin) in the financial year 2024-25 under the Tribal Component Programme. (Central Share 2505 2992) (State Share-2505A138)Regarding the disbursement of funds for the financial year 2024-25 for the Rural Entrepreneurship Development Program (SVEP -Start-up Village Entrepreneurship Programme).\
   [202503251109177920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251109177920.pdf)
 
+- Corrigendum: Regarding administrative approval for the change of work of the pilgrimage site of Shri. Sant Gajanan Maharaj Temple, Mouje Rithad, Taluka Risod, Dist. Washim.\
+  [202503261049560120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261049560120.pdf)
+
 ## Miscellaneous
 - Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) Central Share and State Share Fund disbursement as the second part of the second installment for the financial year 2024-25.  Scheduled Caste Component (Minor Head - 789)\
   [202503241154287020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241154287020.pdf)
 
 - Regarding vehicles of deputy commissioner (Establishment)   and Deputy Commissioner (Development) of the Divisional Commissioners Office under the Rural Development Department.\
   [202503251528436420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251528436420.pdf)
+
+- Regarding administrative approval for changes in the work of Jwalamukhi Devi Bhavani Sansthan, Hinglaspur, Tal. Nandgaon Khandeshwar, Dist. Amravati.\
+  [202503261049536020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261049536020.pdf)
 
 ## Personnel
 - Regarding change in posting of Shri. Manik Dive, Additional Chief Executive Officer (Selective Category), Group-A (S-27) cadre in Maharashtra Development Service.\

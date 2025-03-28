@@ -31,6 +31,15 @@
 - Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Sagareshwar Co-operative Cotton Mill Ltd., Kadegaon, Tal. Kadegaon Dist. Sangli\
   [202503251305381002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251305381002.pdf)
 
+- Regarding the disbursement of funds for the year 2024-25 for the Asian Development Bank-funded Maharashtra Agribusiness Network (MAGNET) project...\
+  [202503261220175402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261220175402.pdf)
+
+- Regarding distribution of funds to Dhananjay Rao Gadgil Cooperative Management Institute, Nagpur under the State Cooperative Union (2425 0218) scheme for the financial year 2024-2025.\
+  [202503261535585302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261535585302.pdf)
+
+- Regarding the distribution of funds for the financial year 2024-25 for the Handloom Textile Competition and Prize Scheme.\
+  [202503261551067702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261551067702.pdf)
+
 ## Miscellaneous
 - Regarding establishment of a study group for increasing/expanding the crushing capacity of sugar factories.\
   [202503251931488802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251931488802.pdf)
@@ -40,6 +49,9 @@
 
 - Regarding the lease agreement of the office of Maharashtra State Cooperative Appellate Court, Mumbai Bench for a period of 01 year from 01.03.2025 to 28.02.2026.\
   [202503251217501202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251217501202.pdf)
+
+- Regarding appointment by nomination to Maharashtra State Agricultural Marketing Board...\
+  [202503261848521502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261848521502.pdf)
 
 ## Personnel
 - Regarding the continuation of a temporary post of Special Auditor Class-1 created for Co-operative Yarn Mills under the Commissioner (Textiles), Textiles Commissionerate, Maharashtra State, Nagpur for the year 2025-26.\
@@ -65,6 +77,12 @@
 
 - Continuation of temporary posts for year 2024-25 Consumer Co-operative Societies\
   [202503251103408102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251103408102.pdf)
+
+- Continuation of posts.\
+  [202503261449516302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261449516302.pdf)
+
+- Regarding to the cancellation of the appointment made by nomination to the Maharashtra State Agricultural Marketing Board...\
+  [202503261850259402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261850259402.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

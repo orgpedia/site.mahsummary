@@ -31,6 +31,21 @@
 - Regarding granting financial approval to organize the Rodali Art Festival.\
   [202503251716484323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251716484323.pdf)
 
+- Regarding financial approval of the amount of subsidy and advertising expenses to institutions working in the field of experimental arts for the year 2024-25.\
+  [202503261713441023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261713441023.pdf)
+
+- Regarding granting improved administrative and financial approval to the proposal to organize the inauguration ceremony of the renovated building of P.L. Deshpande Maharashtra Kala Academy, P.L. Kala Mahotsav and Mahila Mahotsav.\
+  [202503261811106623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261811106623.pdf)
+
+- Regarding financial approval for the organization expenses of Bharat Ratna Pt. Bhimsen Joshi Classical Music Festival.\
+  [202503261716441523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261716441523.pdf)
+
+- Regarding the transfer of the State Governments share of Rs. 5.22 lakhs for the year 2024-25 to the State Cultural Fund.\
+  [202503261519101223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261519101223.pdf)
+
+- Regarding financial approval for the Pt. Bhimsen Joshi Grant and Youth Scholarship Advertisement amount for the year 2024-25.\
+  [202503261710214023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261710214023.pdf)
+
 ## Miscellaneous
 - Regarding extension of the term of Mrs. Naveli Deshmukh as the Ambassador of Youth Tourism of the State of Maharashtra for the financial year 2025-26.\
   [202503241800110523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241800110523.pdf)

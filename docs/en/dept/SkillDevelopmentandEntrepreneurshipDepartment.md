@@ -13,6 +13,9 @@
 - Regarding non-recovery of excess amount paid to Shri. A. P. Madankar, Retired Employee, Industrial Training Institute, Nagbhid, Dist. Chandrapur.\
   [202503251801416903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251801416903.pdf)
 
+- Regarding the adjustment of interest payments on the provident fund of teachers and non-teaching employees in non-government aided vocational education and training institutions in the state amounting to Rs. 62,57.55 lakhs.\
+  [202503261754003403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261754003403.pdf)
+
 ## Personnel
 - Directorate of Vocational Education and Training, Maharashtra State, Mumbai, regarding extension of temporary posts from 01/03/2025 to 31/08/2025 under the Universalization of Tribal Employment-Oriented Vocational Education Scheme in the States Shilp Karagir Scheme...\
   [202503251757384203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251757384203.pdf)

@@ -10,6 +10,27 @@
 - Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision from the Main Account Head 2052- Secretarial General Services for the year 2024-25.\
   [202503251707418107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251707418107.pdf)
 
+- Regarding granting administrative and financial approval for the expenses incurred in the meeting of the Western Regional Council.\
+  [202503261153117207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261153117207.pdf)
+
+- Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision from the Main Account Head 2070, Other Administrative Services for the year 2024-25.\
+  [202503261609283307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261609283307.pdf)
+
+- Rajiv Gandhi Administrative Dynamism Mission and Competition 2024-2025: Regarding declaration of State level prize winners.\
+  [202503261109264307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261109264307.pdf)
+
+- Rajiv Gandhi Administrative Dynamism Mission and Competition 2023-2024: Regarding declaration of State level prize winners.\
+  [202503261106006807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261106006807.pdf)
+
+- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2024-25.\
+  [202503261857587807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261857587807.pdf)
+
+- Administrative approval for repair in EVM Godown of Ahmednagar District.\
+  [202503261803290807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261803290807.pdf)
+
+- Repair of warehouse for storage of EVM - VVPAT machines in Kolhapur district:-Administrative approval.\
+  [202503261502480107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261502480107.pdf)
+
 ## Miscellaneous
 - Regarding filling up of vacant posts in the office of Yashwantrao Chavan Development Administration Prabodhini (Yashada), Pune by deputation.\
   [202503241825096607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241825096607.pdf)
@@ -28,6 +49,15 @@
 
 - Filling the post of deputation basis\
   [202503251758333807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251758333807.pdf)
+
+- Demand No. A-1 (Mandatory/Voted) Re-appropriation of the provision from the main account head 2013- Council of Ministers for the year 2024-25\
+  [202503261604379107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261604379107.pdf)
+
+- Regarding appointment of Guardian Minister: Washim District.\
+  [202503261111451207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261111451207.pdf)
+
+- Medical check-up to officers in the Indian Administrative Service as per the IAS (Performance Appraisal Report) Rules, 2007.... Extension.\
+  [202503261754449707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261754449707.pdf)
 
 ## Personnel
 - Cancel transfer order - Shri. Rajendra R. Deherkar, Desk Officer\
@@ -50,6 +80,9 @@
 
 - Provisional Seniority List of Senior Personal Assistants in Manatralaya Department dated 01.01.2025\
   [202503251246580407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251246580407.pdf)
+
+- Provisional Common Seniority List of eligible employees in Group-D cadre for promotion to the tenured temporary post of Jamadar/Chopdar in Ministerial Establishment  as on date 1st January, 2025\
+  [202503261719254107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261719254107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

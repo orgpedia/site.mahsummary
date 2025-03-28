@@ -44,5 +44,11 @@
 - Continuation of posts.\
   [202503251131494218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251131494218.pdf)
 
+- Provisional seniority list of Junior Engineer (Electrical) cadre in Public Works Department as on 01/01/2025.\
+  [202503261758453318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261758453318.pdf)
+
+- Regarding continuation of temporary posts in the regional office under the jurisdiction of Chief Engineer, Public Works Regional Department, Nashik\
+  [202503261756546418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261756546418.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
