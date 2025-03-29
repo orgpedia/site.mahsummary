@@ -40,6 +40,45 @@
 - Regarding the distribution of funds for the financial year 2024-25 for the Handloom Textile Competition and Prize Scheme.\
   [202503261551067702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261551067702.pdf)
 
+- Regarding approval for disbursement and expenditure of funds for Scheduled Tribe beneficiaries under the Central Sector Scheme Silk Samagra-2 (ISDSI) Scheme.\
+  [202503271747441902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271747441902.pdf)
+
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Patriot Ratnappanna Kumbhar Shirol Backward Class Cooperative Yarn Mills, Jaisingpur, Tal-Shirol, Dist-Kolhapur.\
+  [202503271128291302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271128291302.pdf)
+
+- Regarding the disbursement of training fee towards the technical training of 14 Group B cadre probationary officers participating in the Combined Probationary Training Programme (CPTP) 9 through the Cooperation Department in the financial year 2024-25.\
+  [202503271843465202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271843465202.pdf)
+
+- Regarding the distribution of budgetary provision for the year 2024-25. Dr. Punjabrao Deshmukh Interest Subsidy Scheme (24251009)-33 Financial Assistance\
+  [202503271803036902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271803036902.pdf)
+
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Shri Vyankatesh Shetkari Vinkari Sahakari Soot Girani Ltd, Ichalkaranji, Tal- Hatkanangale, Dist- Kolhapur.\
+  [202503271130552402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271130552402.pdf)
+
+- Regarding the distribution of budgetary provision for the year 2024-25. Financial assistance at 1 percent interest rate for providing short-term crop loans to farmers (2425 1501)\
+  [202503271806410702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271806410702.pdf)
+
+- Regarding disbursement of provision received in the year 2024-25. Financial assistance for empowerment of District Central Cooperative Banks under Short Term Cooperative Credit Structure (STCCS) in the State  (2425 2524)\
+  [202503271740526202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271740526202.pdf)
+
+- To release share capital to Maharashtra State powerlooms corporation Ltd., Mumbai.\
+  [202503271105114202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271105114202.pdf)
+
+- Regarding the distribution of funds under the item 10 Contractual Services under the Account Head Staff (Compulsory) (24250111) for Cooperative Courts in the financial year 2024-25.\
+  [202503271847472202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271847472202.pdf)
+
+- Regarding providing funds for the project of setting up a High Technology Training Center (Decentralized Training Center) at Demonstration and Training Center, Mangle, Sangli District under the Integrated and Sustainable Textile Industry Policy 2023-28.\
+  [202503271506098502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271506098502.pdf)
+
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Anna Bhau Ajra Taluka Farmers Cooperative Spinning Mills Limited, Ajra, Taluka Ajra, Dist. Kolhapur.\
+  [202503271124527702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271124527702.pdf)
+
+- Regarding disbursement of funds for Captive Market Scheme F.Y. 2024-25\
+  [202503271107239102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271107239102.pdf)
+
+- Regarding sanctioning government share capital to cooperative sugar factories for implementing co-generation projects.\
+  [202503271744355002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271744355002.pdf)
+
 ## Miscellaneous
 - Regarding establishment of a study group for increasing/expanding the crushing capacity of sugar factories.\
   [202503251931488802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251931488802.pdf)
@@ -52,6 +91,12 @@
 
 - Regarding appointment by nomination to Maharashtra State Agricultural Marketing Board...\
   [202503261848521502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261848521502.pdf)
+
+- Regarding providing subsidy to a total of 02 sugar factories at the rate of Rs. 1.50 per unit of electricity sold to Mahavitaran from projects for bagasse-based co-generation of electricity by sugar factories in the state.\
+  [202503271742013402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271742013402.pdf)
+
+- Regarding the formation of a committee in accordance with the issues raised by the Maharashtra State Traders Action Committee....\
+  [202503271617108502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271617108502.pdf)
 
 ## Personnel
 - Regarding the continuation of a temporary post of Special Auditor Class-1 created for Co-operative Yarn Mills under the Commissioner (Textiles), Textiles Commissionerate, Maharashtra State, Nagpur for the year 2025-26.\

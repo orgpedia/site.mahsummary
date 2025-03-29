@@ -22,12 +22,27 @@
 - Regarding disbursement of loan amount received from National Housing Bank under Urban Infrastructure Development Fund (UIDF) to various Urban Local Bodies. (Year 2024-25) (Corrigendum)\
   [202503261923458925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261923458925.pdf.pdf)
 
+- Regarding the distribution of funds under Part-4 Incentive Grant for De-registration of Old Vehicles of the Central Governments Special Assistance to States for Capital Investment 2024-25 Scheme.\
+  [202503271445457925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271445457925.pdf)
+
+- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3 (MUTP-3) (FY 2024-25)\
+  [202503271631382825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271631382825.pdf)
+
+- Regarding Release of Rs. 8.00 crore Funds to District Collector, Beed for the works under Shri Kshetra Parli Vaijnath Jyotirlinga Tirthkshtra Development Plan.\
+  [202503271440576725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271440576725.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metro Rail Corporation Ltd for Mumbai Metro Line-3 Project (FY 2024-25)\
+  [202503271629265725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271629265725.pdf)
+
 ## Miscellaneous
 - Regarding cancellation of administrative approval given to Sindkhedraja Municipal Council for construction of aspirational toilets under Swachh Maharashtra Mission (N.) 2.0.\
   [202503251623359025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251623359025.pdf)
 
 - Regarding taking action as per the Standard Operating Procedure (SOP) system regarding metro service security violations and submitting monthly report (ATR) of the action taken.\
   [202503261455018625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261455018625.pdf)
+
+- Granting A Grade Status to  Shri. Trimbakeshwar Tirthakshtra ,  Nashik.\
+  [202503271438294025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271438294025.pdf)
 
 ## Personnel
 - Regarding the implementation of general/regular transfers of officers/employees in Group-B, Group-C and Group-D cadres on the establishment of the Directorate of Town Planning and Valuation online through the computer system.\

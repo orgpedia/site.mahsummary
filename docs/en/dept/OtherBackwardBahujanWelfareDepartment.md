@@ -22,6 +22,9 @@
 - Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25\
   [202503261255318934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261255318934.pdf)
 
+- Regarding approval to disburse funds for 31, Subsidiary Grants (Non-Salary) for the financial year 2024-25 to Vasantrao Naik Vimukta Jati and Nomadic Tribes Development Corporation Limited.\
+  [202503271823528834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271823528834.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds under Subsidiary Grants (Salaries) for the financial year 2024-25 to Maharashtra Research, Advancement and Training Institute (AMRUT), Pune...\
   [202503251845196034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251845196034.pdf)

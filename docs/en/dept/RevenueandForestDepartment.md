@@ -46,6 +46,24 @@
 - Regarding approval of the cost of implementing the digitization/scanning process for proper preservation of old records available from 1927 to 2001 in the Government Photographic Registration Office.\
   [202503261835314619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261835314619.pdf)
 
+- Demand No. C-07-2406- Regarding the redistribution of funds available under the objective 11- Domestic Travel Expenses under the account head of Forestry and Wildlife, State Level Mandatory Scheme Administration and Protection (2406 0096) to be received under the objective 41- Secret Service Expenses.\
+  [202503271525349819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271525349819.pdf)
+
+- Demand No. C-07-2406- Forestry and Wildlife, regarding redistribution of funds available under object 11- Domestic Travel Expenses under object 03- Overtime Allowance under State Level Mandatory Scheme.\
+  [202503271731505819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271731505819.pdf)
+
+- Regarding prior approval and administrative approval of the government for the civic facilities to be provided in the Sardar Sarovar Project, Rehabilitation Village Stations No. 13, Nuban and No. 14, Mod, Taloda and Village Station No. 11, Kathardedigar, Talada, in Nandurbar district.\
+  [202503271609465319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271609465319.pdf)
+
+- Regarding permission to use the unspent funds from the amount disbursed to the Maha-Campa Authority in the financial year 2024-25...\
+  [202503271933133819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271933133819.pdf)
+
+- Regarding the distribution of funds under the new item proposal under the account head Forest Festival (2406 8551) for the financial year 2024-25.\
+  [202503271910576319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271910576319.pdf)
+
+- Regarding subsidy on fodder provided to fodder camps in Tasgaon by Bhagyalakshmi Gramin Pat Sanstha, Kavathe Mahankal supplier in the year 2012/2013 (Total amount Rs.64,95,021/-). Court Case No.177/2015\
+  [202503271606452519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271606452519.pdf)
+
 ## Miscellaneous
 - Regarding purchase of laptops and printers for Village Revenue Officers and Mandal Officers for computerization of rights records under DILRMP.\
   [202503241744444019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241744444019....pdf)
@@ -110,6 +128,9 @@
 - Forest Land-Raigad Diversion of Revised area 0.1967 ha. (original area 0.3933 ha.) Reserved Forest land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of approach road with electricity line and water pipeline to private Survey No 64/0 of Belavade BK, Village, Tal. Pen, Dist. Raigad in the State of Maharashtra.\
   [202503261748380419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261748380419.pdf)
 
+- Regarding allotment of districts for training to candidates recommended through State Services Examination-2022 under Combined Probationary Training Programme-10 (CPTP-10)...\
+  [202503271510490319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271510490319.pdf)
+
 ## Personnel
 - Request for transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202503241224459919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241224459919.pdf)
@@ -131,6 +152,15 @@
 
 - Regarding the extension of the period for the continuation of 452 posts in the non-plan scheme for the year 2025-26, including the reorganization of the Forest Department, creation of new area rounds and BITS.\
   [202503261544063919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261544063919.pdf)
+
+- Land Acquisition Establishment: Divisional Commissioner, Konkan Regarding extension of 35 temporary posts on Land Acquisition Establishment in Konkan Division from 01.03.2025 to 31.08.2025.\
+  [202503271840085619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271840085619.pdf)
+
+- Regarding extension of 92 temporary posts in Land Acquisition Establishment in Chhatrapati Sambhajinagar Division from 01.03.2025 to 31.08.2025.\
+  [202503271850184919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271850184919.pdf)
+
+- Land Acquisition Establishment - Regarding extension of tenure of temporary teams of Konkan Division Special Land Acquisition Officers from 01.03.2025 to 31.08.2025.\
+  [202503271842269819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271842269819....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

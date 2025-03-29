@@ -29,5 +29,8 @@
 - Regarding approval to provide Pink E-Rickshaws for employment to needy women in the state.\
   [202503261723453330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261723453330.pdf)
 
+- Regarding cancellation of the recognition of the organization run by Shri. Mauli Kripa Gyandan Annadan Sanstha, Destitute and Destitute Childrens Home, Alandi, Tal. Khed, Dist. Pune.\
+  [202503271151177630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271151177630.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

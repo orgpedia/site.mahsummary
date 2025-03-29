@@ -31,6 +31,9 @@
 - Repair of warehouse for storage of EVM - VVPAT machines in Kolhapur district:-Administrative approval.\
   [202503261502480107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261502480107.pdf)
 
+- Distribution of funds for the repair of martyrs memorials built in the memory of the freedom fighters who were martyred in the Marathwada Liberation War in the villages of Udgir, Tondchir, Kaulkhed, Tal. Udgir, Dist. Latur and in the villages of Ghonsi and Tiruka, Tal. Jalkot, Dist. Latur....\
+  [202503271717284107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271717284107.pdf)
+
 ## Miscellaneous
 - Regarding filling up of vacant posts in the office of Yashwantrao Chavan Development Administration Prabodhini (Yashada), Pune by deputation.\
   [202503241825096607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241825096607.pdf)
@@ -58,6 +61,24 @@
 
 - Medical check-up to officers in the Indian Administrative Service as per the IAS (Performance Appraisal Report) Rules, 2007.... Extension.\
   [202503261754449707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261754449707.pdf)
+
+- Regarding the formation of a committee to complete BharatNet Phase-2...\
+  [202503271831184007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271831184007.pdf)
+
+- Filling the post of deputation basis\
+  [202503271756135307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271756135307.pdf)
+
+- Our government is doubling the number of service centers, improving the rates of services provided through service centers, and providing home delivery services...\
+  [202503271825508307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271825508307.pdf)
+
+- Regarding the establishment of a Task Force to develop a Maharashtra Cyber Security Policy to secure and protect the infrastructure of the state of Maharashtra...\
+  [202503271828563807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271828563807.pdf)
+
+- filling the post of deputation basis\
+  [202503271754098207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271754098207.pdf)
+
+- Extension to Deputation- Smt. A. U. Patil, Deputy  Secretary\
+  [202503271110041707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271110041707.pdf)
 
 ## Personnel
 - Cancel transfer order - Shri. Rajendra R. Deherkar, Desk Officer\

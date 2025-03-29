@@ -76,6 +76,21 @@
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Ankisa Chak, Gram Panchayat Golgudam Mal, Taluka Sironcha, District Gadchiroli under the Jal Jeevan Mission program.\
   [202503251439528728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251439528728.pdf)
 
+- Subsidiary Grant to the Authority for sanctioning pension benefits to retired employees of Maharashtra Jeevan Authority (2215 A052) 31, Subsidiary Grants (Non-Salary\
+  [202503271447405328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271447405328.pdf)
+
+- Regarding distribution of grant to meet the expenditure on measures actually completed to alleviate the scarcity of drinking water in urban areas during scarcity period of the year 2023-24. (Account Head 2215 A195)\
+  [202503271141117728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271141117728.pdf)
+
+- Budgetary Grant Year 2024-25 2215 Water Supply and Sanitation 01, Water Supply 001, Director and Administration (01) (01) Departmental / Sub-Departmental Establishment for Implementation of Water Supply Programme (Mandatory) (22151843) Request No. Y-2\
+  [202503271447377328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271447377328.pdf)
+
+- Regarding the allocation of funds to the State Water and Sanitation Mission for the subsidized items and water quality monitoring and survey under the (state component) of the Jal Jeevan Mission (Heading 2215-9971).\
+  [202503271439464728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271439464728.pdf)
+
+- Under the Jal Jeevan Mission, regarding the allocation of funds to the State Water and Sanitation Mission for implementation under the general (state mission) component (Heading 2215-2071).\
+  [202503271439402928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271439402928.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Ukupati  ta.Dharni  dist-Amravati  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202503241532237128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241532237128.pdf)
@@ -173,6 +188,15 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Khairgaon, Taluka Samudrapur, District Wardha under the Jal Jeevan Mission program.\
   [202503251441458028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251441458028.pdf)
+
+- Regarding the extension of 31 temporary posts in the establishment of Water Supply and Sanitation Department (Head) from 01st March, 2024 to 31st August, 2025.\
+  [202503271439290928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271439290928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Javala Jutta, Tq. Pathari, Dist. Parbhani Water supply Scheme under Jal Jeevan Mission.\
+  [202503271737268628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271737268628.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Devegaon, Tq. Pathari, Dist. Parbhani Water supply Scheme under Jal Jeevan Mission.\
+  [202503271737204828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271737204828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

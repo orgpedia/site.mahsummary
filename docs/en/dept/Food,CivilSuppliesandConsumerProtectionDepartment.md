@@ -33,5 +33,8 @@
 - Regarding extension of temporary posts in the State Food Commission, Mumbai office from 01.03.2025 to 31.08.2025.\
   [202503241751309406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241751309406.pdf)
 
+- Regarding appointment to the post of Assistant Controller Ration Distribution, Group-B (Gazetted) through direct service recruitment...\
+  [202503271507476406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271507476406.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

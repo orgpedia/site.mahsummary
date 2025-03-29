@@ -31,6 +31,12 @@
 - Regarding the disbursement of funds under the account head 2210 G 861 (SCP) for the financial year 2024-25 for the Mahatma Jyotirao Phule Jan Arogya Yojana.\
   [202503261807232517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261807232517.pdf)
 
+- Regarding the disbursement of funds under the head of account 2210 G 888 (SCP) for the financial year 2024-25 for payment of claims of hospitals admitted under Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana. Government Corrigendum\
+  [202503271231065717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271231065717.pdf)
+
+- Regarding funds disbursed   of Rs. 34.33 crore for the purpose of purchasing necessary medical equipment for the Divisional Referral Service Hospitals Nashik and Amravati and for purchasing necessary machinery and equipment for the hospital and trauma care unit operating under the Public Health Department from the funds approved and available under the objective 31-Subsidies under Account Head 2210 K 088 in the financial year 2024-25.\
+  [202503271443342817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271443342817.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of State share grant amounting to Rs. 1173.89 lakhs out of 40 State share in Kind Grant from the account head 22105246 under the General Scheme under the Centrally Sponsored National Health Mission, as per the revised provision for the year 2024-25\
   [202503241133236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133236517.pdf)
@@ -52,6 +58,18 @@
 
 - Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . . Dr Pradip Thakkarwad, Medical Officer\
   [202503261308262517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261308262517.pdf)
+
+- Regarding the establishment of a state-level committee to study health issues in tribal areas and suggest solutions for the same\
+  [202503271322277917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271322277917.pdf)
+
+- Regarding the disbursement of funds under the account head 2210 G 861 (SCP) for the financial year 2024-25 for Mahatma Jyotirao Phule Jan Arogya Yojana.\
+  [202503271231046717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271231046717.pdf)
+
+- Regarding approval of pending payment of M/s. Garudzep Self-Employment Services Cooperative Society (Mary.), Satara, for providing cleaning and sanitation and garden development and maintenance services of the building Arogya Bhavan, Mumbai...\
+  [202503271134499817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271134499817.pdf)
+
+- Regarding the disbursement of funds of Rs. 55.64 lakhs for Kind Grant under Account Head 2210G609 for the State Share for Social Special Sector (SCSP) for the financial year 2024-25 for programmes under the Centrally Sponsored National Rural Health Mission.\
+  [202503271320312717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271320312717.pdf)
 
 ## Personnel
 - Final seniority list dated 01.01.2024 for the post of X-Ray Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\

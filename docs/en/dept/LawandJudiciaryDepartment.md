@@ -27,5 +27,11 @@
 - Regarding extension of temporary posts of judicial officers in the District and Sessions Courts and Subordinate Courts of the State for the period from 1.03.2025 to 31.08.2025.\
   [202503251738503412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251738503412.pdf)
 
+- Regarding extension of time limit for continuation of temporary posts for Grama Nyayalays.From 01.03.2025 to 31.08.2025\
+  [202503271230231212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271230231212.pdf)
+
+- Regarding extension of tenure of temporary posts for the period from 1.03.2025 to 31.08.2025.  District and Sessions Courts and Subordinate Courts of Hingoli Judicial District\
+  [202503271225319612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271225319612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -34,6 +34,24 @@
 - Regarding granting administrative sanction for the arrears of electricity bills under the Anti-Terrorism Squad Office.\
   [202503261114378729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261114378729.pdf)
 
+- Regarding granting administrative and financial approval for payment of outstanding rent of Sub-Regional Transport Office, Navi Mumbai.\
+  [202503271800527629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271800527629.pdf)
+
+- For the year 2024-25, Account Head No. 2711 0922 Regarding the disbursement of Rs. 6.00 crore for the scheme Maharashtra Sustainable Eco-Friendly Coastal Protection and Management Project funded by Asian Development Bank.\
+  [202503271835513729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271835513729.pdf)
+
+- Regarding payment of funds amounting to Rs.94,29,31,014/- to the system integrator LT Technology Services Pvt Ltd (Consortium lead) and KPMG India LLP (Consortium Member) appointed for the cyber security project.\
+  [202503271526017529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271526017529.pdf)
+
+- Regarding approval of the disbursement of funds of Rs. 3,00,000/- to Maharashtra State Cyber Office under the objective of Account Head (2055 A 023) 50 Other Expenses.\
+  [202503271335555729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271335555729.pdf)
+
+- Regarding disbursement of funds to Maharashtra Maritime Board under the scheme of Port Heavy Sediment Removal (Programme) Account Head B-7 (3051 0732).\
+  [202503271833363729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271833363729.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 272.96 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of February, 2025...\
+  [202503271332439529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271332439529.pdf)
+
 ## Miscellaneous
 - Revised guidelines regarding entry of visitors and vehicles into the Ministry.\
   [202503241830030129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241830030129.pdf)
@@ -58,6 +76,21 @@
 
 - Regarding extension of the term of M/s PwC as a consultant for the Mumbai City CCTV project.\
   [202503261636246029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261636246029.pdf)
+
+- Regarding the transfer of the post of Additional Superintendent of Police (Headquarters) in the establishment of Anti-Corruption Department, Maharashtra State to Thane Region.\
+  [202503271522180929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271522180929.pdf)
+
+- Regarding disbursement of funds to Maharashtra Maritime Board under the scheme of Purchase of Sailing Group (State) (Programme Account Head B-7 (3051 0741).\
+  [202503271831524929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271831524929.pdf)
+
+- Regarding approval of the distribution of funds amounting to Rs. 6,750/- under the objective 05-Prize under the account head (2055 A 023) to the Additional Director General of Police, Maharashtra State Cyber, Office.\
+  [202503271528405629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271528405629.pdf)
+
+- Regarding the formation of a Cabinet Sub-Committee to advise/recommend the Public Prosecutor or Assistant Public Prosecutor to withdraw cases related to political and social agitations.\
+  [202503271706190829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271706190829.pdf)
+
+- Regarding approval to distribute funds for the conservation and preservation of the office building of the Commissioner of Police, Brihanmumbai....\
+  [202503271819580929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271819580929.pdf)
 
 ## Personnel
 - Regarding extension of temporary posts at various establishments of the Police Department...\
@@ -107,6 +140,9 @@
 
 - Regarding extension of 1,330 temporary posts in various offices under the Director General of Police, Maharashtra State, Mumbai.\
   [202503261534090829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261534090829.pdf)
+
+- Continuation of posts.\
+  [202503271233590529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271233590529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

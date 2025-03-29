@@ -19,6 +19,24 @@
 - Corrigendum: Regarding administrative approval for the change of work of the pilgrimage site of Shri. Sant Gajanan Maharaj Temple, Mouje Rithad, Taluka Risod, Dist. Washim.\
   [202503261049560120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261049560120.pdf)
 
+- For the year 2024-25 Mahila Kisan Sashaktikaran Pariyojana Funding for Scheduled Caste (SCP) Category.\
+  [202503271052552320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271052552320.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2024-25.\
+  [202503271737268120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271737268120.pdf)
+
+- New National Biogas and Organic Manure Management Program Financial Year 2024-2025 Regarding Disbursement of Grants for Construction of Biogas Plants.\
+  [202503271756465120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271756465120.pdf)
+
+- Regarding the distribution of the first installment of the first installment of the Central Governments fund of Rs. 120,00,00,000/- and the states matching share of Rs. 80,00,00,000/- for the Pradhan Mantri Janajati Adivasi Nyay Mahaabhiyan (PM-JANMAN) scheme in the financial year 2024-25.\
+  [202503271942081220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271942081220.pdf.pdf)
+
+- Regarding disbursement of funds for Tribal Component Program (TSP) under Maharashtra State Rural Livelihood Mission (MSRLM) for the year 2024-25.\
+  [202503271737294520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271737294520.pdf)
+
+- For the year 2024-25 Mahila Kisan Sashaktikaran Pariyojana Funding for General Category.\
+  [202503271052574320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271052574320.pdf)
+
 ## Miscellaneous
 - Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) Central Share and State Share Fund disbursement as the second part of the second installment for the financial year 2024-25.  Scheduled Caste Component (Minor Head - 789)\
   [202503241154287020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241154287020.pdf)
@@ -28,6 +46,9 @@
 
 - Regarding administrative approval for changes in the work of Jwalamukhi Devi Bhavani Sansthan, Hinglaspur, Tal. Nandgaon Khandeshwar, Dist. Amravati.\
   [202503261049536020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261049536020.pdf)
+
+- Administrative Approval for Furniture Sub Work of Panchayat Samiti  South Solapur (Dist. Solapur)\
+  [202503271534179820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271534179820.pdf)
 
 ## Personnel
 - Regarding change in posting of Shri. Manik Dive, Additional Chief Executive Officer (Selective Category), Group-A (S-27) cadre in Maharashtra Development Service.\

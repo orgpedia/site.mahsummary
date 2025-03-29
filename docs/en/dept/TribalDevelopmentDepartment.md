@@ -13,6 +13,15 @@
 - To release grant for the scheme of Training of various competitive Examination/ Qualifying examination for admission to foreign universities/ Training of foreign languages to the scheduled Tribe Students.(Scheme)  CRC 2225 D387\
   [202503251851040224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251851040224.pdf)
 
+- To release grant for the scheme of Bhausaheb Phundkar Horticulture Plantation Scheme under the TSP in financial year 2024-25. CRC 2401 A898\
+  [202503271225405024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271225405024.pdf)
+
+- To release grant for the scheme of shabri Financial Assistance to Maharashtra State Co-operative Tribal Development Corporation.  (CRC 2425 0853)\
+  [202503271225424824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271225424824.pdf)
+
+- Regarding distribution of funds for the implementation of the scheme of scholarship for PhD courses for Scheduled Tribe candidates\
+  [202503271457085924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271457085924.pdf)
+
 ## Miscellaneous
 - Disbursement of funds within the limits of revised estimates under the Plan of Programme Expenditure under the Tribal Component Programme for the year 2024-25. (Programme Expenditure-Backward Classes Welfare)\
   [202503241326022224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241326022224.pdf)

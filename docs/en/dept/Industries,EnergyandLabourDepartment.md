@@ -37,9 +37,34 @@
 - Regarding the distribution of Rs. 100.00 crore in cash as a subsidy to Mahavitaran Company in the year 2024-25 under the Continuous Power Scheme for the immediate replacement of defective electrical transformers. ...Corrigendum.\
   [202503261336414910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261336414910.pdf)
 
+- Regarding approval of the first phase of grant expenditure for the construction of a shared facility center of the industrial cluster project at Furniture Cluster, Tuljapur, Dist. Dharashiv under the grant scheme for industrial cluster projects for the creation of shared facilities of the state.\
+  [202503271602469210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271602469210.pdf)
+
+- Regarding the distribution of Rs. 4.40 crore in cash for strengthening the electricity system in Devlapar and Pawani, tribal dominated areas of Ramtek taluka, Nagpur district under the Maharashtra State Electricity Distribution Company Limited Grant under the Tribal Component Program. .... Corrigendum.\
+  [202503271516191310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271516191310.pdf)
+
+- Regarding approval of the first phase of grant expenditure for the construction of a shared facility center of the industrial cluster project Lab Grown Diamond Cluster, Navapur, Dist. Nandurbar under the grant scheme for industrial cluster projects for creating shared facilities of the state.\
+  [202503271606245710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271606245710.pdf)
+
+- Regarding the distribution of Rs. 22.00 crore in cash for various power related works in Nandurbar, Ahmednagar, Nashik districts under the Maharashtra State Electricity Distribution Company Limited Grant under the Tribal Component Program (Account Head-2801 5089) .... Corrigendum.\
+  [202503271514233810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271514233810.pdf)
+
 ## Miscellaneous
 - Regarding approval for developing a Boiler Manufacturing Management System (BMMS) on Public-Private Partnership (PPP Model) for manufacturers of boilers, heat exchangers and their spare parts and for its operation, maintenance and other works.\
   [202503251726577410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251726577410.pdf)
+
+- Regarding granting administrative approval for renewal of the lease agreement of the premises taken on lease from Shri. Bharmendra Prasad Jayakumar Bagwade and Shri. Meghan Appasaheb Bagwade for the office of Assistant Labour Commissioner, Kolhapur.\
+  [202503271329522210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271329522210.pdf)
+
+## Personnel
+- Fixing the procedure and other criteria for registration of security guards in the Security Guard Board\
+  [202503271807511710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271807511710.pdf)
+
+- Regarding distribution of Rs. 15.00 crore (supply demand) in cash for various electricity related works in Gadchiroli, Yavatmal, Nashik districts under the Maharashtra State Electricity Distribution Company Limited Grant under the Tribal Component Program. ...Corrigendum.\
+  [202503271512074410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271512074410.pdf)
+
+- Continuation of posts.\
+  [202503271509269310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271509269310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
