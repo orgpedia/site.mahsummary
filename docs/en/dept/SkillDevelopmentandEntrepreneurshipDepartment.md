@@ -16,6 +16,22 @@
 - Regarding the adjustment of interest payments on the provident fund of teachers and non-teaching employees in non-government aided vocational education and training institutions in the state amounting to Rs. 62,57.55 lakhs.\
   [202503261754003403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261754003403.pdf)
 
+- Demand No. ZA 2, Regarding provision of 10 contractual services under the main account head 2203 - Technical Education 22033371 from the following objectives: 11 domestic travel expenses, 13 office expenses and 24 petrol, oil and lubricants.\
+  [202503281317282503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281317282503......pdf)
+
+- Demand No. ZA 2, 2230A031 Regarding provision of provision by redistribution from the purpose of 11 Domestic Travel Expenses to the purpose of 28 Professional Services\
+  [202503281315576303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281315576303.pdf)
+
+- Demand No. ZA 2, 2230A031 Regarding provision of 17 Computer Expenses from the purpose of 24 Petrol, Oil and Lubricants under the Head of Account by way of redistribution\
+  [202503281318400803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281318400803.pdf)
+
+- Regarding the disbursement of Rs. 05.1090 crore from the budgeted funds for Ratan Tata Maharashtra State Skill University in the financial year 2024-25.\
+  [202503281724103203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281724103203....pdf)
+
+## Miscellaneous
+- Regarding the use of mobile application developed by NIC, New Delhi on a pilot basis to record the attendance of candidates undergoing training in private establishments under the Chief Ministers Youth Work Training Scheme\
+  [202503281824482403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281824482403.pdf)
+
 ## Personnel
 - Directorate of Vocational Education and Training, Maharashtra State, Mumbai, regarding extension of temporary posts from 01/03/2025 to 31/08/2025 under the Universalization of Tribal Employment-Oriented Vocational Education Scheme in the States Shilp Karagir Scheme...\
   [202503251757384203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251757384203.pdf)

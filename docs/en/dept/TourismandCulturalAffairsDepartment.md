@@ -61,6 +61,42 @@
 - Regarding financial approval for the expenses of organizing programs of Maharashtra State Hindi Sahitya Academy.\
   [202503271557459123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271557459123.pdf)
 
+- Regarding granting administrative and financial approval for the program planning and organizing expenses of Maharashtra State Gujarati Sahitya Academy.\
+  [202503281127050823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281127050823....pdf)
+
+- Regarding the issuance of revised administrative and financial approval for the Darshanika Department to produce a special publication and a coffee table book based on selected twelve monuments, highlighting the life and various aspects of Punyashloka Ahilyabai Holkar, on the occasion of the tercentenary birth anniversary of Punyashloka Ahilyabai Holkar, and the expenditure incurred for the same....\
+  [202503281458077823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281458077823.pdf)
+
+- Regarding granting financial approval for necessary improvements at N. D. Studio in Hatnoli area, Taluka Khalapur, Dist. Raigad.\
+  [202503281502342023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281502342023.pdf)
+
+- Regarding financial approval for the expenses of organizing Bhajan Festival.\
+  [202503281125312323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281125312323.pdf)
+
+- Regarding granting administrative approval for the expenses incurred for organizing a three-day musical drama festival.\
+  [202503281159236623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281159236623...pdf)
+
+- Regarding providing funds for cultural programs organized under Maharashtra State Inter-University Sports Festival-2024.\
+  [202503281202542823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281202542823.pdf)
+
+- Regarding organizing a cultural program on the occasion of the birth centenary of veteran musician Pt. Ram Marathe and granting financial approval for the expenses incurred.\
+  [202503281149177223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281149177223.pdf)
+
+- Regarding granting financial approval to sanction financial assistance to encourage the production of quality Marathi films.\
+  [202503281142015623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281142015623.pdf)
+
+- Regarding granting administrative approval for the organization expenses of the governments International Marathi Film Festival organized by the Cultural Affairs Department.\
+  [202503281148028623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281148028623.pdf)
+
+- Regarding approval to organize special cultural programs based on forts on the occasion of Chhatrapati Shivaji Maharajs birth anniversary.\
+  [202503281205322823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281205322823.pdf)
+
+- Regarding financial approval for the expenditure incurred for exhibiting the Punyashloka at Chitrarath Chondi, Dist. Ahilyanagar on the occasion of the 300th birth anniversary of Ahilyadevi Holkar.\
+  [202503281119192723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281119192723.pdf)
+
+- Regarding financial approval for the expenses of organizing the Divyang Arts Festival.\
+  [202503281124078823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281124078823.pdf)
+
 ## Miscellaneous
 - Regarding extension of the term of Mrs. Naveli Deshmukh as the Ambassador of Youth Tourism of the State of Maharashtra for the financial year 2025-26.\
   [202503241800110523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241800110523.pdf)
@@ -85,6 +121,33 @@
 
 - Regarding granting administrative approval to the comprehensive development plan of Shri Bhavani Picture Gallery and Library, Aundh, District Satara...\
   [202503271811440823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271811440823.pdf)
+
+- Regarding granting financial approval for incentive financial assistance for the production of quality Marathi films with C rating.\
+  [202503281139145123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281139145123.pdf)
+
+- Regarding financial approval for the expenses of organizing programs of Maharashtra State Sindhi Sahitya Academy.\
+  [202503281117485323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281117485323....pdf)
+
+- Regarding granting financial approval for organizing the 60th Maharashtra State Marathi Film Awards ceremony.\
+  [202503281144288523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281144288523......pdf)
+
+- Regarding financial approval for the expenses incurred in connection with organizing a cultural program on the occasion of Chhatrapati Shivaji Maharajs birth anniversary in Agra.\
+  [202503281120477923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281120477923.pdf)
+
+- Regarding financial approval for co-sponsorship expenses for the International Temples Convention and Exhibition 2025.\
+  [202503281207442423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281207442423.pdf)
+
+- Regarding financial approval for the cultural program expenses in organizing the Jai Shivaji Jai Bharat Pad Yatra on the occasion of Shiv Jayanti on 19th February 2025.\
+  [202503281201012623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281201012623.pdf)
+
+- Financial Year 2024-25 Regarding administrative approval for the expenditure incurred for the preservation and conservation of the plays selected under the scheme Archives of Excellent Marathi Plays and post-filming processes...\
+  [202503281502591923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281502591923.pdf)
+
+- Regarding financial approval for the cultural program of Vare Sahyadri at the World Book Festival to be held in New Delhi.\
+  [202503281122339223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281122339223.pdf)
+
+- Regarding financial approval for the expenses of programs organized for prisoners.\
+  [202503281157337823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281157337823.pdf)
 
 ## Personnel
 - Regarding administrative and financial approval for software updates, maintenance, repairs and link creation expenses.\

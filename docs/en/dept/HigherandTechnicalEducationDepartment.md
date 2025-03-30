@@ -16,6 +16,15 @@
 - Regarding approval to distribute funds from the approved provision to the Maharashtra State Teachers Development Institute in the financial year 2024-25.\
   [202503251220490208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251220490208.pdf)
 
+- Release of grant-in-aid (Committed) for Second/consolidated instalment of Government recognised public libraries for the year 2024-25.\
+  [202503281230401108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281230401108.pdf)
+
+- Maharashtra Information Technology Corporation (MahaIT) to provide technical manpower for the system for online submission of pension cases of teachers/non-teaching staff of non-government aided colleges/non-agricultural universities in the state to the Auditor General and to approve the expenditure for security audit.\
+  [202503281812252508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281812252508.pdf)
+
+- Regarding the distribution of funds for the construction of a boys and girls hostel building at Tilak Maharashtra University, Pune...\
+  [202503281441464408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281441464408.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to investigate the functioning of Dr. Babasaheb Ambedkar Technological University, Lonere.\
   [202503241616194108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241616194108.pdf)
@@ -34,6 +43,12 @@
 
 - Regarding the distribution of funds for the construction of a boys and girls hostel building in the Waranga area of Kavi Vice Chancellor Kalidas Sanskrit University.....\
   [202503261202538608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261202538608.pdf)
+
+- Regarding termination of probation period.\
+  [202503281804209908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281804209908.pdf)
+
+- Regarding amendment in the Government Order granting approval for new study courses/subjects, new batches, new faculties to existing colleges under expansion for the academic year 2023-24. (Corrigendum)\
+  [202503281713336108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281713336108.pdf)
 
 ## Personnel
 - Regarding extension of temporary promotion to the post of Principal, Government Engineering Colleges. Dr. R. P. Borkar\

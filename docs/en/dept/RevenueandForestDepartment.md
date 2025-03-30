@@ -64,6 +64,24 @@
 - Regarding subsidy on fodder provided to fodder camps in Tasgaon by Bhagyalakshmi Gramin Pat Sanstha, Kavathe Mahankal supplier in the year 2012/2013 (Total amount Rs.64,95,021/-). Court Case No.177/2015\
   [202503271606452519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271606452519.pdf)
 
+- Regarding the distribution of funds for the year 2024-25 under the Central Government sponsored Forest Deforestation Prevention and Management Scheme\
+  [202503281505578619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281505578619.pdf)
+
+- Regarding providing funds to reimburse the fees paid for the period from April 2024 to March 2025 to the Village Revenue Officer (Talathi) and Mandal Officers for the use of data cards for the implementation of e-Fherfar and e-Chavdi projects in the state at the rate of Rs. 750/- per data card per month.\
+  [202503281458313819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281458313819.pdf)
+
+- Regarding disbursement of funds approved through supplementary demand in March, 2025 for payment of expenses incurred for organizing departmental/state level sports and cultural programs under the Revenue Department\
+  [202503281854458419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281854458419.pdf)
+
+- Regarding distribution of grants under the Rural Area and Tribal Development Program (2406 1521) scheme under the State Plan 2024-25.\
+  [202503281759475119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281759475119.pdf)
+
+- Regarding the disbursement of funds under the State Scheme for Training of Forest Personnel (4415 0154) for the year 2024-25...\
+  [202503281756354419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281756354419.pdf)
+
+- Approval to purchase 24 new Multi-Utility Vehicles to the District Collector, Nagpur and officers of his  field offices in replacement of their old registered vehicles.\
+  [202503281848096719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281848096719.pdf)
+
 ## Miscellaneous
 - Regarding purchase of laptops and printers for Village Revenue Officers and Mandal Officers for computerization of rights records under DILRMP.\
   [202503241744444019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241744444019....pdf)
@@ -131,6 +149,15 @@
 - Regarding allotment of districts for training to candidates recommended through State Services Examination-2022 under Combined Probationary Training Programme-10 (CPTP-10)...\
   [202503271510490319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271510490319.pdf)
 
+- Approval for payment of pending electricity bills in the office of the District Collector, Mumbai City (Corrigendum)\
+  [202503281851452219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281851452219.pdf)
+
+- Regarding the fee for copying of computerized alteration register extract, Appendix A, Appendix B, Form 9 notice and other computerized records generated under ePCIS and fixing the rates of services to be provided through the service center.\
+  [202503281455180019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281455180019.pdf)
+
+- Providing additional funds for the use of data cards to the Village Revenue Officers (Talathi) and Mandal Officers of Amravati and Raigad districts for implementing the e-Fherfar and e-Chavadi projects.\
+  [202503281451521119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281451521119.pdf)
+
 ## Personnel
 - Request for transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202503241224459919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241224459919.pdf)
@@ -161,6 +188,9 @@
 
 - Land Acquisition Establishment - Regarding extension of tenure of temporary teams of Konkan Division Special Land Acquisition Officers from 01.03.2025 to 31.08.2025.\
   [202503271842269819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271842269819....pdf)
+
+- Land Acquisition Establishment: Regarding extension of 3 temporary posts in the Adjudication Branch in the office of Divisional Commissioner, Konkan Division from 01.03.2025 to 31.08.2025.\
+  [202503281516189319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281516189319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,6 +13,9 @@
 - Regarding the payment of an incentive amount of Rs.20000/- per hectare (within a limit of two hectares) to registered farmers (whether the registered farmers have sold paddy or not) for paddy production under the Minimum Base Price Purchase Scheme, as per their land holding under paddy cultivation in the Kharif Marketing Season 2023-24.\
   [202503261126447306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261126447306.pdf)
 
+- Regarding administrative approval for the expenditure for providing 1 post in Group-C (Driver) cadre and a total of 79 posts in Group-D Soldier (76)/Guard (2) cadre in the office of State Consumer Grievance Redressal Commission, Maharashtra, Mumbai and Bench Nagpur / Chhatrapati Sambhajinagar and all subordinate District Consumer Grievance Redressal Commissions through external sources for a period of two years from 01.04.2025 to 31.03.2027...\
+  [202503281130154506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281130154506...pdf)
+
 ## Miscellaneous
 - Regarding the duties and responsibilities of stakeholders regarding the distribution of fortified rice.\
   [202503241853424406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241853424406.pdf)
@@ -35,6 +38,9 @@
 
 - Regarding appointment to the post of Assistant Controller Ration Distribution, Group-B (Gazetted) through direct service recruitment...\
   [202503271507476406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271507476406.pdf)
+
+- Regarding extension of temporary posts at divisional/district/taluka level in the Regional Supply System from 01.03.2025 to 31.08.2025.\
+  [202503281807488206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281807488206.....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

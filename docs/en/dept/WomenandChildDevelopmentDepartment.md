@@ -16,6 +16,12 @@
 - Regarding the distribution of funds for the Women Counselling Centers scheme for the financial year 2024-25.\
   [202503251705567930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251705567930.pdf)
 
+- Regarding the distribution of funds under the account head (2235 B906) for the current financial year 2024-25 for the Krantijyoti Savitribai Phule Child Care Scheme.\
+  [202503281617337230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281617337230.pdf)
+
+- Grant Release for ICDS General in FY 2024-2\
+  [202503281427143930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281427143930.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for sponsorship, aftercare and sponsorship under the centrally sponsored scheme Mission Vatsalya for the year 2024-25.\
   [202503241242223930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241242223930.pdf)
@@ -31,6 +37,9 @@
 
 - Regarding cancellation of the recognition of the organization run by Shri. Mauli Kripa Gyandan Annadan Sanstha, Destitute and Destitute Childrens Home, Alandi, Tal. Khed, Dist. Pune.\
   [202503271151177630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271151177630.pdf)
+
+- Regarding allotment of districts for training to the candidates recommended through State Services Examination-2022 under Combined Probationary Training Programme-10 (CPTP-10). Probationary Child Development Project Officer and similar posts (Group-A cadre)\
+  [202503281718424930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281718424930.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -37,6 +37,12 @@
 - Regarding funds disbursed   of Rs. 34.33 crore for the purpose of purchasing necessary medical equipment for the Divisional Referral Service Hospitals Nashik and Amravati and for purchasing necessary machinery and equipment for the hospital and trauma care unit operating under the Public Health Department from the funds approved and available under the objective 31-Subsidies under Account Head 2210 K 088 in the financial year 2024-25.\
   [202503271443342817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271443342817.pdf)
 
+- Regarding approval to disburse and spend the funds approved through supplementary demand in the second session of the Legislative Assembly (Monsoon) 2024 under Account Head 22100146 for the implementation of Diagnostic Cancer Vans for mobile cancer screening in 8 districts of the state.\
+  [202503281052513917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281052513917.pdf)
+
+- Regarding approval to disburse and spend an amount of Rs. 5.00 crore from the funds approved through supplementary demand in the budget session of March, 2025 under the objective of 21- Supplies and Materials Account Head 2210 4259 to settle the pending payments for the purchase of medicines and materials required for the Divisional Reference Service Hospitals, Amravati and Nashik in the financial year 2024-25.\
+  [202503281911123617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281911123617.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of State share grant amounting to Rs. 1173.89 lakhs out of 40 State share in Kind Grant from the account head 22105246 under the General Scheme under the Centrally Sponsored National Health Mission, as per the revised provision for the year 2024-25\
   [202503241133236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133236517.pdf)
@@ -71,6 +77,15 @@
 - Regarding the disbursement of funds of Rs. 55.64 lakhs for Kind Grant under Account Head 2210G609 for the State Share for Social Special Sector (SCSP) for the financial year 2024-25 for programmes under the Centrally Sponsored National Rural Health Mission.\
   [202503271320312717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271320312717.pdf)
 
+- Regarding issuance of Grants (Non-Salary) to be made available by redistribution to Maharashtra Medical Supplies Authority, Mumbai under Account Head 2210 0217, 21- Balance of Rs.47,68,000/- under the purpose of Supplies and Materials to meet pending payments of cloth-chopadchi (linen) purchased during the year 2023-24 Account Head 2210 0217, 31- Asst.\
+  [202503281226143217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281226143217.pdf)
+
+- Dr. Sachin Shankarao Todkari, Medical Officer,  Regarding fixed age retirement of Group-A\
+  [202503111454598317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111454598317.pdf)
+
+- Regarding the disbursement of funds approved through supplementary demand in March 2025 to pay the compensation amount for 10 acres of land in Survey No. 37, Latur, for the District Hospital, Latur, a health institution, to Vasantrao Naik Marathwada Agricultural University, Parbhani.\
+  [202503281249334217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281249334217.pdf)
+
 ## Personnel
 - Final seniority list dated 01.01.2024 for the post of X-Ray Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
   [202503241420028717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241420028717.pdf)
@@ -98,6 +113,9 @@
 
 - Final seniority list dated 01.01.2024 for the post of Deputy Director in Maharashtra Medical and Health Services, Group-A.\
   [202503241418087917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241418087917.pdf)
+
+- Regarding continuation of temporary posts in health institutions under the jurisdiction of Deputy Director, Health Services, Latur Board, Latur.\
+  [202503261619024117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261619024117.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

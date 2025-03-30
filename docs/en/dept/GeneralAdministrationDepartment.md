@@ -34,6 +34,21 @@
 - Distribution of funds for the repair of martyrs memorials built in the memory of the freedom fighters who were martyred in the Marathwada Liberation War in the villages of Udgir, Tondchir, Kaulkhed, Tal. Udgir, Dist. Latur and in the villages of Ghonsi and Tiruka, Tal. Jalkot, Dist. Latur....\
   [202503271717284107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271717284107.pdf)
 
+- Regarding distribution of funds to Maharashtra Airport Development Company for the development of airports in the state.\
+  [202503281942355007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281942355007.pdf)
+
+- Regarding the distribution of funds from the approved budgetary provision under the main account head 2059 - Preservation and Care of Martyrs Memorials, (2059 0015) for the year 2024-25.\
+  [202503282022357307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503282022357307..........pdf)
+
+- Regarding distribution of grant to Maharashtra Airport Development Company for the development of MIHAN project.\
+  [202503281954106807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281954106807.pdf)
+
+- Fund distribution for the year 2024-2025 under Subsidiary Grant (Compulsory), Account Head 2070 0532 to Yashwantrao Chavan Development Administration Prabodhini, Pune.\
+  [202503281230123007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281230123007.pdf)
+
+- Regarding giving incentive amount to Aadhaar center operators.\
+  [202503281606456007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281606456007.pdf)
+
 ## Miscellaneous
 - Regarding filling up of vacant posts in the office of Yashwantrao Chavan Development Administration Prabodhini (Yashada), Pune by deputation.\
   [202503241825096607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241825096607.pdf)
@@ -80,6 +95,33 @@
 - Extension to Deputation- Smt. A. U. Patil, Deputy  Secretary\
   [202503271110041707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271110041707.pdf)
 
+- Feedback regarding news published in various media not based on facts.\
+  [202503281156162707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281156162707.pdf)
+
+- Regarding exemption from property tax to ex-servicemen and soldier widows/wives under the Honble Balasaheb Thackeray Ex-Servicemen Scheme.\
+  [202503281810205807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281810205807.pdf)
+
+- Regarding the announcement of the Appointing Authority of the Maharashtra Introduction Center, Panaji-Goa office of the Directorate General of Information and Public Relations to Deputy Director (Information), Divisional Information Office, Kolhapur.\
+  [202503281638346407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281638346407.pdf)
+
+- Regarding regular dates for the post of Deputy Secretary on Select List 2024-25\
+  [202503281818061507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281818061507.pdf)
+
+- Procedure to be followed for submitting Cabinet proposals.\
+  [202503281659529207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281659529207.pdf)
+
+- Repatriation from Deputation- Shri. Sunil P. Pandhare, Deputy Secretary\
+  [202503281623470507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281623470507.pdf)
+
+- Regarding regular dates for the post of Deputy Secretary on Select List 2024-25\
+  [202503281822254907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281822254907.pdf)
+
+- Regarding regular dates for the post of Deputy Secretary on Select List 2023-24\
+  [202503281816154707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281816154707.pdf)
+
+- Regarding regular dates for the post of Deputy Secretary on Select List 2023-24\
+  [202503281820533707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281820533707.pdf)
+
 ## Personnel
 - Cancel transfer order - Shri. Rajendra R. Deherkar, Desk Officer\
   [202503241618442407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241618442407.pdf)
@@ -104,6 +146,18 @@
 
 - Provisional Common Seniority List of eligible employees in Group-D cadre for promotion to the tenured temporary post of Jamadar/Chopdar in Ministerial Establishment  as on date 1st January, 2025\
   [202503261719254107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261719254107.pdf)
+
+- Extension of tenure of temporary posts in the office of Lokayukta and Upa - Lokayukta\
+  [202503281452598807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281452598807.pdf)
+
+- Transfer of Shrikant Harishchandra Jambhavadekar\
+  [202503281625229107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281625229107.pdf)
+
+- Regarding the announcement of the Regional Office of the Maharashtra Introduction Center, Panaji-Goa, under the Directorate General of Information and Public Relations, to the Principal Deputy Director (Information), Divisional Information Office, Kolhapur.\
+  [202503281635487307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281635487307.pdf)
+
+- Transfer of Shri Pramod Abaji Patil, Under Secretary\
+  [202503281627342907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281627342907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

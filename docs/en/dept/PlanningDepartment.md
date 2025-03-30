@@ -19,6 +19,22 @@
 - Regarding the distribution of funds for the year 2024-25 under the Shri Kshetra Ghrishneshwar, Verul, Taluk Khulatabad, Dist. Chhatrapati Sambhajinagar Development Plan.\
   [202503271815551216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271815551216.pdf)
 
+- Regarding the disbursement of funds under the Investment Project Fund (IPF) for the implementation of the Mahastride project.\
+  [202503281805281816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281805281816.pdf)
+
+- Fund distribution for the financial year 2024-25 under the Dongri Division Development Program\
+  [202503281905075516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281905075516.pdf)
+
+## Miscellaneous
+- Eighth Economic Census 2025-26 Corrigendum regarding establishment of committees at various levels\
+  [202503281632338616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281632338616.pdf)
+
+- Regarding allotment of space in the new administration building for the office of the Commissioner, Directorate of Finance and Statistics.\
+  [202503281950595316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281950595316.pdf)
+
+- Demand No. O-7, Regarding provisioning by re-appropriation from the objective 17 - Computer Expenditure under the account head 3451 2773 to the objective 17-Computer Expenditure under the account head 3451 0502.\
+  [202503281807295816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281807295816.pdf)
+
 ## Personnel
 - Regarding extension of tenure of a total of 266 Temporary  Commissioner (IAS) posts in the Head Office, all Regional Offices and all District Statistical Offices of the Directorate of Economics and Statistics for the period from 01/03/2025 to 31/08/2025.\
   [202503261742565416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261742565416.pdf)

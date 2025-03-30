@@ -52,6 +52,33 @@
 - Administration approval for Buffer Stock for the kharip season 2024.\
   [202503271047002601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271047002601.pdf)
 
+- Regarding distribution of funds for general category under Bhausaheb Fundkar Fruit Garden Plantation Scheme.. (2401 A889)\
+  [202503281919131601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281919131601.pdf)
+
+- Regarding disbursement of funds to Scheduled Tribes for implementation of Bhausaheb Phundkar Orchard Plantation Scheme in the year 2024-25..... (2401 A898)\
+  [202503281238256401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281238256401.pdf)
+
+- Regarding distribution of 4.2366667 crore fund for Scheduled Tribes category for National Agricultural Development Scheme - Cafeteria (DPR Based Stream) scheme.\
+  [202503281855078301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281855078301.pdf)
+
+- Regarding financial approval of the budget for construction on the area of government orchards under the account head 27- Minor Construction under Vegetable Nurseries, Fruit Gardens and Local Gardens (Compulsory) (2401 1722).\
+  [202503281223117201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281223117201.pdf)
+
+- Regarding financial approval of the budget for construction on the area of government orchards under the account head 27- Minor Construction under Vegetable Nurseries, Fruit Gardens and Local Gardens (Compulsory) (2401 1722).\
+  [202503281759339201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281759339201.pdf)
+
+- Regarding provision of funds of Rs. 1803.8734 lakhs through re-appropriation of Central and State share for the general category under National Edible Oil Mission (NMEO) (grains and oil palm) as well as for basic seed procurement under State Linked Scheme (SLS) MH-590 for the general category.\
+  [202503281626371401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281626371401.pdf)
+
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) under the account head 31- Subsidiary Grants (Non-Salary) to Dr. Punjabrao Deshmukh Agricultural University, Akola in the financial year 2024-25 (2415 1101)..(State share 25 percent) (Program)\
+  [202503281746063001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281746063001.pdf)
+
+- Regarding distribution of grant for Assistant Grants (Non-Salary) to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli in the financial year 2024-25..(Mandatory)\
+  [202503281754286601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281754286601.pdf)
+
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) under the account head 31- Subsidiary Grants (Non-Salary) to Vasantrao Naik Marathwada Agricultural University, Parbhani in the financial year 2024-25 (2415 1112)..(State share 25 percent) (Program)\
+  [202503281748002901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281748002901.pdf)
+
 ## Miscellaneous
 - Regarding partial change in posting by direct service appointment to the post in Maharashtra Agricultural Service Group-B (Junior) (Pay Scale S-15: 41800-132300).\
   [202503251456144301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251456144301....pdf)
@@ -71,6 +98,15 @@
 - Under the Comprehensive Crop Insurance Scheme, for the Rabi season 2024-25, the State share of crop insurance premium advance amounting to Rs. 417,36,19,709/- will be disbursed to the crop insurance companies implementing the scheme.\
   [202503271923275601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271923275601.pdf)
 
+- Regarding approval to disburse an amount of Rs. 9,06,57,718/- to insurance companies for the Pradhan Mantri Pik Bima Yojana-Kharip Season 2023 under the scheme Supplementary Grant under Pradhan Mantri Fasal Bima Yojana.\
+  [202503281447417001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281447417001.pdf)
+
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) under the account head 31- Subsidiary Grants (Non-Salary) to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli in the financial year 2024-25 (2415 1095). (State share 25 percent) (Programme)\
+  [202503281749402201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281749402201.pdf)
+
+- Regarding approval to disburse an amount of Rs. 93,42,282/- to insurance companies for the Rabi season 2023-24 under the scheme Supplementary Grant under Pradhan Mantri Fasal Bima Yojana.\
+  [202503281444386801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281444386801.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in the schemes Farmer Monthly Scheme and Agricultural Information Team Scheme in the Agriculture Department from 01.03.2025 to 31.08.2025.\
   [202503241124598601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241124598601.pdf)
@@ -80,6 +116,12 @@
 
 - To Establish a multi-species central production centred fishery in Village Wagheshwar (Ubhadanda) Taluka Vengurla, District Sindhududu.\
   [202503261133599801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261133599801.pdf)
+
+- Sanction for continuation of 59 temporary posts under Special component Plan- Input subsidy under Special Component Plan (2401 2442) for the Year 2025-2026.\
+  [202503281818444001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281818444001.pdf)
+
+- Regarding extension of temporary posts in 100 percent centrally sponsored schemes such as World Agricultural Census Scheme, Scheme for timely reporting of area of major crops in Maharashtra State and Scheme for improvement of crop statistics from 01.03.2025 to 31.08.2025.\
+  [202503281440414601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281440414601.....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

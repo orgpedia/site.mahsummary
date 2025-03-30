@@ -49,12 +49,42 @@
 - Regarding the distribution of Rs. 22.00 crore in cash for various power related works in Nandurbar, Ahmednagar, Nashik districts under the Maharashtra State Electricity Distribution Company Limited Grant under the Tribal Component Program (Account Head-2801 5089) .... Corrigendum.\
   [202503271514233810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271514233810.pdf)
 
+- Regarding the distribution of Rs. 50.00 crore in cash to Maharashtra State Electricity Distribution Company Limited for the year 2024-25 (Account Head 28015599) for providing concession in electricity tariff to textile industry consumers in the state.\
+  [202503281142377610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281142377610.pdf)
+
+- Regarding approval of expenditure under the scheme for creation and development of industrial infrastructure (4875 0025) for the financial year 2024-25.....\
+  [202503281642488010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281642488010.pdf)
+
+- Regarding the distribution of Rs. 2026.67 crore in cash to Maharashtra State Electricity Distribution Company Limited for providing free electricity to agricultural pump customers in the state under the Chief Minister Baliraja Free Electricity Scheme/Electricity Rate Concession for the year 2024-25 (Account Head -28015572)\
+  [202503281144210710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281144210710.pdf)
+
+- Regarding the distribution of Rs. 100.00 crore in cash to Maharashtra State Electricity Distribution Company Limited for providing concession in electricity rates to power loom customers in the state, 2024-25 (Account Head 28015581)\
+  [202503281140586410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281140586410.pdf)
+
+- Regarding the disbursement of Rs. 500.00 crore in cash to Mahavitaran Company under the Special Assistance Scheme (Interest-free Loan) for capital investment by the Central Government to the State for the year 2024-25 K-11 (Account Head-68010718)\
+  [202503281813100410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281813100410.pdf)
+
+- Regarding the distribution of Rs. 100.00 crore in cash to Maharashtra State Electricity Distribution Company Limited for providing concession in electricity rates to power loom customers in the state, 2024-25 (Account Head 28015581)\
+  [202503281146003210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281146003210.pdf)
+
+- Grants to MSEDCL for Subsidy to Agricultural pump consumers for the year 2024-25.\
+  [202503281139120910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281139120910.pdf)
+
 ## Miscellaneous
 - Regarding approval for developing a Boiler Manufacturing Management System (BMMS) on Public-Private Partnership (PPP Model) for manufacturers of boilers, heat exchangers and their spare parts and for its operation, maintenance and other works.\
   [202503251726577410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251726577410.pdf)
 
 - Regarding granting administrative approval for renewal of the lease agreement of the premises taken on lease from Shri. Bharmendra Prasad Jayakumar Bagwade and Shri. Meghan Appasaheb Bagwade for the office of Assistant Labour Commissioner, Kolhapur.\
   [202503271329522210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271329522210.pdf)
+
+- Regarding approval for construction of Kamgar Bhavan in Akola\
+  [202503281702429610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281702429610.pdf)
+
+- Corrigendum regarding the expenditure of funds sanctioned in the financial year 2024-25 under the Tribal Component Program for the Tribal Industrial Cluster Project to be set up at Jambutke, Taluka Dindori, Dist. Nashik...\
+  [202503281708209410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281708209410.pdf)
+
+- Regarding implementation of pension to construction workers registered under Maharashtra Building and Other Construction Workers Welfare Board, Mumbai.\
+  [202503281923144710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281923144710.pdf)
 
 ## Personnel
 - Fixing the procedure and other criteria for registration of security guards in the Security Guard Board\

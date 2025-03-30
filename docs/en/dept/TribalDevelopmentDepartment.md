@@ -22,6 +22,9 @@
 - Regarding distribution of funds for the implementation of the scheme of scholarship for PhD courses for Scheduled Tribe candidates\
   [202503271457085924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271457085924.pdf)
 
+- To release grant for the scheme of Grant to Maharashtra State Electricity Distribution Company.(State Level Scheme)(Scheme) under the TSP in financial year 2024-25. CRC 2801 5089\
+  [202503281245017324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281245017324.pdf)
+
 ## Miscellaneous
 - Disbursement of funds within the limits of revised estimates under the Plan of Programme Expenditure under the Tribal Component Programme for the year 2024-25. (Programme Expenditure-Backward Classes Welfare)\
   [202503241326022224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241326022224.pdf)
@@ -31,6 +34,12 @@
 
 - Regarding the sanction of family pension and death gratuity to the family of an employee under the Defined Contribution Pension Scheme/National Pension System in case of death during the service period and sickness pension and retirement gratuity to the employees who have retired on sickness and retirement gratuity to the employees who retire from Government service.\
   [202503251336288324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251336288324.pdf)
+
+- Regarding the implementation of the Adarsh Adivasi Village Scheme for the overall development of tribal-dominated villages in the Scheduled Areas.\
+  [202503281226266624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281226266624.pdf)
+
+- To release grant for the scheme of Minor Irrigation Scheme (State Pool) (State Level Scheme)(Scheme) under the TSP in financial year 2024-25. CRC 4702 7721\
+  [202503281245040024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281245040024.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

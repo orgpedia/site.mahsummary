@@ -34,6 +34,24 @@
 - Release of State Government Sub-ordinate Loan to Mumbai Metro Rail Corporation Ltd for Mumbai Metro Line-3 Project (FY 2024-25)\
   [202503271629265725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271629265725.pdf)
 
+- Regarding disbursement of loan amount received from Asian Development Bank for Mumbai Metro 2A, 2B, and 7 projects to Mumbai Metropolitan Region Development Authority (Year 2024-25)\
+  [202503282005329025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503282005329025.pdf)
+
+- Regarding the distribution of funds amounting to Rs. 25.00 crore for the work under the pilgrimage site development plan of Shri Mahalaxmi Jagadamba Sansthan, Koradi, Tal. Kamthi, Dist. Nagpur.\
+  [202503281429006425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281429006425.pdf)
+
+- Regarding the distribution of state share of Rs. 50.00 crore for the financial year 2024-25 under the Deendayal Antyodaya Yojana National Urban Livelihood Mission (DAY NULM).\
+  [202503281929534225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281929534225....pdf)
+
+- Regarding the distribution of funds amounting to Rs. 13.37 crore for the development work of the memorial of Krantiveer Chapekar Bandhu at Chinchwadgaon under the jurisdiction of Pimpri Chinchwad Municipal Corporation....\
+  [202503281931379525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281931379525.pdf)
+
+- Regarding disbursement of loan amount received from National Housing Bank under Urban Infrastructure Development Fund (UIDF) to various Urban Local Government Bodies. (Year 2024-25)\
+  [202503281640274025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281640274025.pdf)
+
+- Regarding approval to raise loans from internal funds of Brihanmumbai Municipal Corporation to finance the capital works expenditure for the financial year 2024-2025.\
+  [202503281848527125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281848527125.pdf)
+
 ## Miscellaneous
 - Regarding cancellation of administrative approval given to Sindkhedraja Municipal Council for construction of aspirational toilets under Swachh Maharashtra Mission (N.) 2.0.\
   [202503251623359025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251623359025.pdf)
@@ -43,6 +61,9 @@
 
 - Granting A Grade Status to  Shri. Trimbakeshwar Tirthakshtra ,  Nashik.\
   [202503271438294025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271438294025.pdf)
+
+- Regarding the redistribution of funds distributed under Part-1 of the Central Governments Special Assistance to States for Capital Investment 2024-25 scheme.\
+  [202503281952131025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281952131025.pdf)
 
 ## Personnel
 - Regarding the implementation of general/regular transfers of officers/employees in Group-B, Group-C and Group-D cadres on the establishment of the Directorate of Town Planning and Valuation online through the computer system.\

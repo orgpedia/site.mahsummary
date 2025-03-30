@@ -16,6 +16,9 @@
 - Regarding distribution of state share funds equivalent to the central share funds received from the central government under the Pradhan Mantri Awas Yojana (Urban) (Other than SC/ST Component).\
   [202503261314106909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261314106909.pdf)
 
+- Regarding disbursement of Cess and Government Contribution to the Maharashtra Housing and Area Development Authority for the financial year 2024-25 Mumbai to be deposited in the Mumbai Building Repair and Reconstruction Board\
+  [202503281519427009.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281519427009.pdf)
+
 ## Miscellaneous
 - Regarding distribution of Central Share Funds (ST Component) received from the Central Government under Pradhan Mantri Awas Yojana (Urban).\
   [202503251735517809.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251735517809.pdf)

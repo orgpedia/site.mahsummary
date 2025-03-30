@@ -91,6 +91,18 @@
 - Under the Jal Jeevan Mission, regarding the allocation of funds to the State Water and Sanitation Mission for implementation under the general (state mission) component (Heading 2215-2071).\
   [202503271439402928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271439402928.pdf)
 
+- Revised Administrative approval to Mou. Umbarde(Devmal) GP Chikadi  (Tal. Surgana, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281632462628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281632462628.pdf)
+
+- Revised Administrative approval to Mou. Pathave Digar  Savarpada (Tal. Baglan, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281633048428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281633048428.pdf)
+
+- Revised Administrative approval to Mou. Bhavaninagar GP Kusumtel  (Tal. Nandgaon, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281633141928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281633141928.pdf)
+
+- Revised Administrative approval to Mou. Bhaygaon  (Tal. Peth, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281633189728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281633189728.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Ukupati  ta.Dharni  dist-Amravati  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202503241532237128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241532237128.pdf)
@@ -197,6 +209,42 @@
 
 - To grant Revised Administrative Aapproval to Mouje Devegaon, Tq. Pathari, Dist. Parbhani Water supply Scheme under Jal Jeevan Mission.\
   [202503271737204828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271737204828.pdf)
+
+- Revised Administrative approval to Mou. Kakadgaon (Tal. Baglan, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281632508628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281632508628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mauja Nagzari, Taluka Deoli, District Wardha under the Jal Jeevan Mission program.\
+  [202503281205168028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281205168028.pdf)
+
+- Revised Administrative approval to Mou. Waghambe (Tal. Baglan, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281633234828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281633234828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Ratnapur, Taluka Deoli, District Wardha under the Jal Jeevan Mission program.\
+  [202503281205115228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281205115228.pdf)
+
+- Revised Administrative approval to Mou. Ambegan  (Tal. Dindori, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281632110028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281632110028.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chitki, Taluka Deoli, District Wardha under the Jal Jeevan Mission program.\
+  [202503281205022728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281205022728.pdf)
+
+- Revised Administrative approval to Mou. Ambedindori (Tal. Dindori, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281632402628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281632402628.pdf)
+
+- Revised Administrative approval to Mou. Desrane  (Tal. Kalvan, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281632582928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281632582928.pdf)
+
+- Regarding approval for extension of tenure of approved temporary posts in Rural Water Supply Department and Sub-Departments under Zilla Parishad from 01.03.2025 to 31.08.2025.\
+  [202503281732371028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281732371028.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme in Mouja Juna and Naveen Antora, Taluka Ashti, District Wardha under the Jal Jeevan Mission program.\
+  [202503281205095728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281205095728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Zadshi, Taluka Selu, District Wardha under the Jal Jeevan Mission program.\
+  [202503281205231528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281205231528.pdf)
+
+- Revised Administrative approval to Mou. Pathare Bk. (Tal. Sinner, Dist. Nashik) water supply sceme Under JJM.\
+  [202503281633096128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281633096128.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
