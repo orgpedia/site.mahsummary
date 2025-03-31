@@ -43,6 +43,27 @@
 - Regarding approval to disburse and spend an amount of Rs. 5.00 crore from the funds approved through supplementary demand in the budget session of March, 2025 under the objective of 21- Supplies and Materials Account Head 2210 4259 to settle the pending payments for the purchase of medicines and materials required for the Divisional Reference Service Hospitals, Amravati and Nashik in the financial year 2024-25.\
   [202503281911123617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281911123617.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 5.41 crore as State share (40) for 20- Other Administrative Expenditure under the account head 2210 G 449 (General) for the centrally sponsored scheme Pradhan Mantri Jan Arogya Yojana for the financial year 2024-2025.\
+  [202503291443596417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291443596417.pdf)
+
+- Regarding the disbursement of funds under the account head 2210 G 861 (SCP) for the financial year 2024-25 for Mahatma Jyotirao Phule Jan Arogya Yojana. Government Corrigendum\
+  [202503291206481117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291206481117.pdf)
+
+- Regarding provision of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2024-25. (30 percent payment amount from November 2024 to January 2024)\
+  [202503291505587417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291505587417.pdf)
+
+- Regarding distribution of Rs. 1.50 lakhs of 15th Finance Commission Penalty Interest Fund under Account Head 20492881 to State Health Societies through re-appropriation from the budgetary provision available under Account Head 22104615 for the financial year 2024-25.\
+  [202503291208409717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291208409717.pdf)
+
+- Regarding the distribution of funds amounting to Rs. 1087.00 lakhs under the objective of Health Publicity Centers (22101044), 26- Publicity and Publicity to pay the pending payments of advertisements made by the government in order to effectively reach the publicity and promotion of various welfare schemes implemented under the Public Health Department to all sections of the society.\
+  [202503291836449017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291836449017.pdf)
+
+- Regarding granting administrative approval for the expenditure of pending works at Regional Psychiatric Hospital, Yerwada Pune.\
+  [202503291738131717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291738131717.pdf)
+
+- Regarding in the financial year 2024-25 approval to disburse and spend an amount of Rs. 1.50 crore on the Budgetary Distribution System (BEAMS system) under Account Head 2210 K 014,31- Subsidiary Grants (Non-Salary) for the establishment matters of the Maharashtra Medical Goods Procurement Authority. (Corrigendum)\
+  [202503291836472217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291836472217.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of State share grant amounting to Rs. 1173.89 lakhs out of 40 State share in Kind Grant from the account head 22105246 under the General Scheme under the Centrally Sponsored National Health Mission, as per the revised provision for the year 2024-25\
   [202503241133236517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241133236517.pdf)
@@ -85,6 +106,18 @@
 
 - Regarding the disbursement of funds approved through supplementary demand in March 2025 to pay the compensation amount for 10 acres of land in Survey No. 37, Latur, for the District Hospital, Latur, a health institution, to Vasantrao Naik Marathwada Agricultural University, Parbhani.\
   [202503281249334217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281249334217.pdf)
+
+- Regarding the distribution of State share grant of Rs. 371.42 lakhs as 40 State share in Kind Grant from the budget provision in the Revised Budget for the year 2024-25 under the Centrally Sponsored National Health Mission under the General Scheme.\
+  [202503291208495517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291208495517.pdf)
+
+- Regarding the distribution of State share grant of Rs. 44.05 lakhs out of 40 State share in Kind Grant from the Budget provision for the year 2024-25 under the Tribal Upgradation Scheme under the Centrally Sponsored National Health Mission under the Head of Account 2210E455.\
+  [202503291208560217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291208560217.pdf)
+
+- Ruby Hall Clinic, Pune Regarding approval of the honorarium of the Chairman of the Illegal Kidney Racket Investigation Committee and the expenses of the Commissions lawyer for the hearing etc.\
+  [202503291206569117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291206569117.pdf)
+
+- Regarding administrative approval of the expenditure incurred for providing contractual food services at Sasikala Tuberculosis Health Centre, Jaysingpur, Kolhapur\
+  [202503291506074417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291506074417.pdf)
 
 ## Personnel
 - Final seniority list dated 01.01.2024 for the post of X-Ray Specialist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\

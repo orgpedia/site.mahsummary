@@ -109,6 +109,96 @@
 - Distribution of funds for survey work of projects of 101 to 250 ha.s.c.: Dist. Nashik. (Rest. of Maharashtra Division)\
   [202503281214522526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281214522526.pdf)
 
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Division)\
+  [202503292058526626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292058526626.pdf)
+
+- Regarding distribution of funds for cement concrete dam works under the Cement Dam (Check Dam) Program: Dist. Buldhana (Vidarbha Region)----------\
+  [202503291718594526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291718594526.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Amravati. (Vidarbha Division)\
+  [202503291949271626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291949271626.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Division)\
+  [202503292100446126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292100446126.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Buldhana (Vidarbha Division)\
+  [202503292020211426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292020211426.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Yavatmal (Vidarbha Division)\
+  [202503292023028726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292023028726.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Yavatmal (Vidarbha Division)\
+  [202503291957573626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291957573626.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Division)\
+  [202503292058554826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292058554826.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Buldhana (Vidarbha Division)\
+  [202503292020030026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292020030026.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Pune (Rest of Maharashtra Division)\
+  [202503292105220926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292105220926.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Yavatmal (Vidarbha Division)\
+  [202503292001173026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292001173026.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Ratnagiri (Rest of Maharashtra Division)\
+  [202503292110063126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292110063126.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Yavatmal (Vidarbha Division)\
+  [202503292022354026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292022354026.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Nashik (Rest of Maharashtra Division)\
+  [202503292115073126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292115073126.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Nagpur (Vidarbha Division)\
+  [202503291957469326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291957469326.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Division)\
+  [202503292100270626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292100270626.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Jalna. (Marathwada Division)\
+  [202503291954187226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291954187226.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Jalgaon (Rest of Maharashtra Division)\
+  [202503292102118926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292102118926.pdf)
+
+- Regarding distribution of funds for Nallah deepening/widening works under Jalsamruddhi Cement Dam Program: Dist. Wardha (Vidarbha Division)\
+  [202503291856459626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291856459626.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Pune (Rest of Maharashtra Division)\
+  [202503292106505226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292106505226.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Kolhapur (Rest of Maharashtra Division)\
+  [202503292102096326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292102096326.pdf)
+
+- Regarding distribution of funds for cement concrete dam works under the Cement Dam (Check Dam) Program: Dist. Nashik (Rest of Maharashtra Division)\
+  [202503291854426026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291854426026.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Ratnagiri (Rest of Maharashtra Division)\
+  [202503292108212926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292108212926.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Akola (Vidarbha Division)\
+  [202503291947045926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291947045926.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Dhule (Rest of Maharashtra Division)\
+  [202503292103451526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292103451526.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Satara (Rest of Maharashtra Division)\
+  [202503292113372826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292113372826.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Nagpur (Vidarbha Division)\
+  [202503291955517526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291955517526.pdf)
+
+- Regarding distribution of funds for cement concrete dam works under the Cement Dam (Check Dam) Program: Dist. Buldhana (Vidarbha Division)\
+  [202503291859243626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291859243626.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Washim (Vidarbha Division)\
+  [202503292025039626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292025039626.pdf)
+
+- Distribution of funds for maintenance and repair works of projects of 101 to 250 ha under the Chief Ministers Water Conservation Scheme: Dist. Chhatrapati Sambhajinagar. (Marathwada Division)\
+  [202503291950471526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291950471526.pdf)
+
 ## Miscellaneous
 - Funds disbursement in the financial year 2024-25 for the expeditious completion of incomplete watershed projects under the Integrated Watershed Development Programme. Fund Disbursement Order No.2/2024-25.\
   [202503271943325026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271943325026.pdf)
@@ -118,6 +208,13 @@
 
 - Requisition No. ZH-5 Account Head 4702 A028, Small Irrigation Lake Vasari Tal. Malegaon Dist. Washim (Land Acquisition Fund)\
   [202503281711045826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281711045826.pdf)
+
+- Distribution of funds for payment of consultancy fees of Project Management Consultants (PMC): Ratnagiri and Sindhudurg. (Rest of Maharashtra Division)\
+  [202503292111279426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503292111279426.pdf)
+
+## Personnel
+- Regarding distribution of funds for cement concrete dam works under the Cement Dam (Check Dam) Program: Dist. Akola (Vidarbha Region)---------\
+  [202503291714526626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291714526626.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -79,6 +79,30 @@
 - Regarding distribution of grant for Subsidiary Grants (Non-Salary) under the account head 31- Subsidiary Grants (Non-Salary) to Vasantrao Naik Marathwada Agricultural University, Parbhani in the financial year 2024-25 (2415 1112)..(State share 25 percent) (Program)\
   [202503281748002901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281748002901.pdf)
 
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) to Dr. Panjabrao Deshmukh Agricultural University, Akola in the financial year 2024-25..(Mandatory)\
+  [202503291848147801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291848147801.pdf)
+
+- Regarding the distribution of Rs. 17,50,000/- fund to the Scheduled Tribes category for the implementation of Soil Health and Fertility Program (SHF) under the National Agricultural Development Scheme (RKVY) in the year 2024-25.\
+  [202503291815421001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291815421001.pdf)
+
+- Regarding the disbursement of funds of 12.3527 crore for supplementary grant under (Micro Irrigation) component in the year 2024-25 under the Chief Ministers Sustainable Agriculture Irrigation Scheme...\
+  [202503291600176601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291600176601.pdf)
+
+- Regarding the distribution of funds under the scheme Promoting group farming of farmers for the promotion and strengthening of group farming.\
+  [202503291650024001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291650024001.pdf)
+
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) to Vasantrao Naik Marathwada Agricultural University, Parbhani in the financial year 2024-25..(Mandatory)\
+  [202503291919312401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291919312401.pdf)
+
+- Regarding distribution of grant for Subsidiary Grants (Non-Salary) to Mahatma Phule Agricultural University, Rahuri in the financial year 2024-25..(Mandatory)\
+  [202503291844527101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291844527101.pdf)
+
+- Regarding the distribution of funds to Dr. Punjabrao Deshmukh Agricultural University, Akola for the financial year 2024-25 (Program Expenditure)...\
+  [202503291901249201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291901249201.pdf)
+
+- Fund release to Scheme of Coconut Development Board, Centrally sponsored Coconut Development Scheme 2024-25\
+  [202503291657459101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291657459101.pdf)
+
 ## Miscellaneous
 - Regarding partial change in posting by direct service appointment to the post in Maharashtra Agricultural Service Group-B (Junior) (Pay Scale S-15: 41800-132300).\
   [202503251456144301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251456144301....pdf)

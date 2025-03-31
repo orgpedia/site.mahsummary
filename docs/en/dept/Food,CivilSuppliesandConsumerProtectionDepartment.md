@@ -16,6 +16,9 @@
 - Regarding administrative approval for the expenditure for providing 1 post in Group-C (Driver) cadre and a total of 79 posts in Group-D Soldier (76)/Guard (2) cadre in the office of State Consumer Grievance Redressal Commission, Maharashtra, Mumbai and Bench Nagpur / Chhatrapati Sambhajinagar and all subordinate District Consumer Grievance Redressal Commissions through external sources for a period of two years from 01.04.2025 to 31.03.2027...\
   [202503281130154506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281130154506...pdf)
 
+- Regarding approval of repair expenses of Government Vehicle No. MH-04-AN-3345 (Bolero Jeep) in the office of Controller, Ration Distribution and Director Civil Supplies, Mumbai ....\
+  [202503291301042606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291301042606.pdf)
+
 ## Miscellaneous
 - Regarding the duties and responsibilities of stakeholders regarding the distribution of fortified rice.\
   [202503241853424406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241853424406.pdf)

@@ -82,6 +82,33 @@
 - Approval to purchase 24 new Multi-Utility Vehicles to the District Collector, Nagpur and officers of his  field offices in replacement of their old registered vehicles.\
   [202503281848096719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281848096719.pdf)
 
+- Regarding distribution of funds for civic amenities in villages affected by heavy rains/floods in Jintur taluka of Parbhani district and rehabilitated.\
+  [202503291506561819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291506561819.pdf)
+
+- Regarding distribution of funds for civic amenities in the villages affected by heavy rains/floods and rehabilitated in Nanded district.\
+  [202503291558201319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291558201319.pdf)
+
+- Regarding distribution of funds for civic amenity works in villages affected by heavy rains/floods and rehabilitated in Nanded district.\
+  [202503291509597319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291509597319.pdf)
+
+- Establishment of Maharashtra Bamboo Development Board under the State Plan for the year 2024-25 (2406-A185) Regarding distribution of funds for Maharashtra Bamboo Development Board.\
+  [202503291821544219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291821544219.pdf)
+
+- Regarding distribution of funds for civic amenity works in the villages affected by heavy rains/floods and rehabilitated in Amravati district.\
+  [202503291644488019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291644488019.pdf)
+
+- Regarding providing funds for technical training program for Naib Tehsildar Group-B under the Combined Probationary Training Program (CPTP-9)...\
+  [202503291507414219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291507414219.pdf)
+
+- Regarding providing funds to Talathi and Mandal Officers for the use of data cards for the period from April 2024 to March 2025 at the rate of Rs. 750/- per data card per month for the implementation of e-Fherfar and e-Chavdi projects in the state.\
+  [202503291743025819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291743025819.pdf)
+
+- Regarding distribution of funds for civic amenities in the villages affected by heavy rains/floods in Naigaon taluka of Nanded district and rehabilitated.\
+  [202503291508339219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291508339219.pdf)
+
+- Regarding distribution of funds for paying additional compensation for land acquired for the rehabilitation of flood victims in Mouje Sanggi (Yende) Taluka Deoli District Wardha.\
+  [202503291511418619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291511418619.pdf)
+
 ## Miscellaneous
 - Regarding purchase of laptops and printers for Village Revenue Officers and Mandal Officers for computerization of rights records under DILRMP.\
   [202503241744444019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241744444019....pdf)
@@ -158,6 +185,21 @@
 - Providing additional funds for the use of data cards to the Village Revenue Officers (Talathi) and Mandal Officers of Amravati and Raigad districts for implementing the e-Fherfar and e-Chavadi projects.\
   [202503281451521119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281451521119.pdf)
 
+- Regarding making funds available for paying additional compensation as per Sections 18 and 28A of the Land Acquisition Act, 1894, based on the decision of the Honble Civil Court for the land acquired for the rehabilitation of earthquake victims.\
+  [202503291836361019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291836361019.pdf)
+
+- Regarding disbursement of funds for civic amenities works in heavy rain/flood affected and rehabilitated villages in Naigaon Taluka of Nanded District\
+  [202503291652598119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291652598119.pdf)
+
+- Regarding making funds available for the expenses of Village Revenue Officer (Talathi) training programs under the State Training Policy.....\
+  [202503291747471119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291747471119.pdf)
+
+- Regarding providing funds for payment of additional compensation for the acquired land in Mouje Toramba, Taluka Lahara, Dist. Dharashiv as per Section 28-A of the Land Acquisition Act 1894...\
+  [202503291711192619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291711192619.pdf)
+
+- Regarding distribution of funds for civic amenities in the villages affected by heavy rains/floods in Degalur taluka of Nanded district and rehabilitated.\
+  [202503291643172819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291643172819.pdf)
+
 ## Personnel
 - Request for transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202503241224459919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241224459919.pdf)
@@ -191,6 +233,12 @@
 
 - Land Acquisition Establishment: Regarding extension of 3 temporary posts in the Adjudication Branch in the office of Divisional Commissioner, Konkan Division from 01.03.2025 to 31.08.2025.\
   [202503281516189319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281516189319.pdf)
+
+- Continuation for the 2116 temporary post in land record department from dt. 01.03.2025 to dt. 31.08.2025\
+  [202503291512047619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291512047619.pdf)
+
+- Regarding extension of temporary posts in the Village Revenue Officer cadre in the state.... From 1.3.2025 to 31.8.2025\
+  [202503291745417519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291745417519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

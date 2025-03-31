@@ -97,6 +97,12 @@
 - Regarding financial approval for the expenses of organizing the Divyang Arts Festival.\
   [202503281124078823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281124078823.pdf)
 
+- Regarding granting financial approval for necessary improvements at N. D. Studio in Hatnoli area, Taluka Khalapur, Dist. Raigad.\
+  [202503291423013423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291423013423.pdf)
+
+- Regarding approval of expenditure incurred for providing services through external sources at the establishments of Maharashtra State Hindi, Sindhi, Gujarati Sahitya Akademi, Mumbai.\
+  [202503291236279423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291236279423.pdf)
+
 ## Miscellaneous
 - Regarding extension of the term of Mrs. Naveli Deshmukh as the Ambassador of Youth Tourism of the State of Maharashtra for the financial year 2025-26.\
   [202503241800110523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241800110523.pdf)

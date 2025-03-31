@@ -70,6 +70,33 @@
 - Grants to MSEDCL for Subsidy to Agricultural pump consumers for the year 2024-25.\
   [202503281139120910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281139120910.pdf)
 
+- Regarding the disbursement of funds Rs.75.52655 crore to MSEDCL for maintenance and repair of Power Substations under Mukhyamantri Saur Krishi Vahini Yojana-2.0 for the year 2024-25.\
+  [202503291801330610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291801330610.pdf)
+
+- Regarding the distribution of a grant of Rs.87.7382 crore to the MSEDCL as State Government share for General category beneficiaries under PM Kusum Component B Scheme.\
+  [202503291706418810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291706418810.pdf)
+
+- Release of grant of Rs. 30.60 crore (supplementary demand) in cash to Maharashtra State Electricity Distribution Company Limited under tribal subplan for various electrification works in Ahamednagr,Nashik,Nandurbar,Dhule district. (Account Head-2801 5089)\
+  [202503291604016210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291604016210.pdf)
+
+- Regarding the distribution of a grant of Rs.71.7618 crore to the Mahaurja as State Government share for General category beneficiaries under PM Kusum Component B Scheme.\
+  [202503291704403410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291704403410.pdf)
+
+- Under the Export Oriented Infrastructure Development Program (Program) M/s. MKC Agro Fresh Limited, District Bargaon, Post Warud, Dist. Amravati, regarding approval of the first phase of grant expenditure of the State Government for the project To Set up Export Oriented  Citrus Juice Manufacturing Unit.\
+  [202503291540496910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291540496910.pdf)
+
+- Regarding approval of expenditure on grants under objective 31  Subsidiary Grants (Non-Salary) under the Chief Ministers Employment Generation Programme (General Category) for the financial year 2024-25.\
+  [202503291550120810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291550120810.pdf)
+
+- Regarding the distribution of Rs. 120.00 crore in cash as subsidy to Mahavitaran Company in the year 2024-25 under the Neerantar Bij Yojana for immediate replacement of defective electrical transformers. (K-6, Main Account Head-28012624)\
+  [202503291847304810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291847304810.pdf)
+
+- Regarding disbursement of grants-in-aid for expenditure under the program Development of Handicraft Industries to Maharashtra Small Scale Industries Development Corporation Ltd. for the financial year 2024-25\
+  [202503291550337010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291550337010.pdf)
+
+- Regarding distribution of funds Rs.30.50 Crore to MEDA for the implementation of various schemes under NRSE program.\
+  [202503291435429210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291435429210.pdf)
+
 ## Miscellaneous
 - Regarding approval for developing a Boiler Manufacturing Management System (BMMS) on Public-Private Partnership (PPP Model) for manufacturers of boilers, heat exchangers and their spare parts and for its operation, maintenance and other works.\
   [202503251726577410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251726577410.pdf)
@@ -86,6 +113,15 @@
 - Regarding implementation of pension to construction workers registered under Maharashtra Building and Other Construction Workers Welfare Board, Mumbai.\
   [202503281923144710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281923144710.pdf)
 
+- Regarding approval of the expenditure of grant under the second phase of the State Governments share for the construction of a shared facility center of the industrial cluster project of General Engineering Cluster, Kadegaon, Dist. Sangli under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
+  [202503291547024610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291547024610.pdf)
+
+- Regarding approval of the expenditure of the second phase of grant from the State Government for the construction of a shared facility center for the industrial cluster project of Packaging Cluster, Satara District, Satara under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
+  [202503291547454210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291547454210....pdf)
+
+- Regarding approval of the cost of subsidy as per 80 percent of the State Governments share (20 percent in the first phase and 60 percent in the second phase combined) for the construction of a common facility center of the industry cluster project of Poultry Feed Cluster, Kada, Dist. Beed under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
+  [202503291543509010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291543509010....pdf)
+
 ## Personnel
 - Fixing the procedure and other criteria for registration of security guards in the Security Guard Board\
   [202503271807511710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271807511710.pdf)
@@ -95,6 +131,9 @@
 
 - Continuation of posts.\
   [202503271509269310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503271509269310.pdf)
+
+- Regarding the request for no objection to transfer 9670 square meters for office use of the Maharashtra Legislative Assembly of the 16182 square meters land, in Survey No.1852 held by Government Printing Press and Library, Nagpur under the Industries Department at Mouja-Sitabardi, Nagpur.\
+  [202503291642317410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291642317410.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

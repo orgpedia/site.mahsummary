@@ -49,6 +49,9 @@
 - Regarding giving incentive amount to Aadhaar center operators.\
   [202503281606456007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281606456007.pdf)
 
+- Regarding the disbursement of funds under Head of Account (2070 0853), 31 Subsidiary Grant (Non-Salary) for Administrative Training in the financial year 2024-25 under the State Training Policy (Fifth Installment)\
+  [202503291305587507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291305587507.pdf)
+
 ## Miscellaneous
 - Regarding filling up of vacant posts in the office of Yashwantrao Chavan Development Administration Prabodhini (Yashada), Pune by deputation.\
   [202503241825096607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241825096607.pdf)
@@ -121,6 +124,9 @@
 
 - Regarding regular dates for the post of Deputy Secretary on Select List 2023-24\
   [202503281820533707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281820533707.pdf)
+
+- Regarding taking Services  Data entry Operator through outsourcing.\
+  [202503291309011507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291309011507.pdf)
 
 ## Personnel
 - Cancel transfer order - Shri. Rajendra R. Deherkar, Desk Officer\

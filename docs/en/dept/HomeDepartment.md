@@ -79,6 +79,33 @@
 - Regarding granting administrative and financial approval for the training expenses of newly appointed Assistant Motor Vehicle Inspectors in the Motor Vehicle Department at the Central Institute of Road Transport, Pune (CIRT, PUNE).\
   [202503281105047729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281105047729.pdf)
 
+- Regarding distribution of funds for maintenance, repair and other necessary matters of CCTNS project in the state.\
+  [202503291856316029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291856316029.pdf)
+
+- Regarding distribution of grant in the current financial year from Account Head 40700151, 53- Major Constructions for the construction of police residential buildings for Maharashtra State Police Housing and Welfare Corporation\
+  [202503291753554629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291753554629.pdf)
+
+- Regarding granting administrative sanction for the outstanding amount of training payments within the Anti-Terrorism Squad Office.\
+  [202503291504273729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291504273729.pdf)
+
+- Regarding making available the grant approved by supplementary demand in the first (budget) session of the Legislative Assembly of March-2025 to the Anti-Terrorism Squad, Maharashtra State, Mumbai Office.\
+  [202503291603021229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291603021229.pdf)
+
+- Regarding making available the grant approved by supplementary demand in the winter session of the Legislative Assembly in December-2024 to the Mira-Bhayander-Vasai-Virar Police Commissionerate.\
+  [202503291607329929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291607329929.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 38.98 crore to Maharashtra State Road Transport Corporation for the modernization of bus stand and other facilities....\
+  [202503291501066229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291501066229.pdf)
+
+- Regarding payment of the work done for the period September, 2023 to October, 2024 to the PwC Company appointed as the CCTNS Project Consultant.\
+  [202503291854344729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291854344729.pdf)
+
+- Regarding the disbursement of funds approved through supplementary demand for the honorarium to be paid for the services of 3000 manpower engaged by external agencies (Maharashtra State Security Corporation) on the premises of Brihanmumbai Police Commissionerate.\
+  [202503291954327629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291954327629.pdf)
+
+- Regarding disbursement of funds under the scheme of Subsidiary Grant to Maharashtra Maritime Board, Provision of Floating Jetties and Similar Passenger Facilities (Programme) Account Head B-7 (3051 1835).\
+  [202503291425190029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291425190029.pdf)
+
 ## Miscellaneous
 - Revised guidelines regarding entry of visitors and vehicles into the Ministry.\
   [202503241830030129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241830030129.pdf)
@@ -145,6 +172,24 @@
 
 - Regarding extension of the post of Superintendent of Police, Civil Rights Protection Department, Nagpur in the Civil Rights Protection Office under the Director General of Police, Maharashtra State from 01.03.2025 to 31.08.2025\
   [202503281639319529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281639319529.pdf)
+
+- Regarding payment of the work done from March 2024 to September 2024 to the PwC company appointed as the project consultant for the installation of CCTV cameras in the police stations of the state.\
+  [202503291709407429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291709407429.pdf)
+
+- Regarding making available the grant approved by supplementary demand in the first (Budget) session of the Legislative Assembly of March-2025 to the Anti-Terrorism Squad, Maharashtra State, Mumbai Office.\
+  [202503291605059329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291605059329.pdf)
+
+- Regarding book adjustment of Rs.36,88,80,278/- as capital contribution of the Government to the M.R.A.P. Corporation for the period of February 2025 to March 2025.\
+  [202503291721466129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291721466129.pdf)
+
+- Regarding approval to disburse funds for pending payments for the purchase of essential medicines and equipment in the district hospitals of a total of 25 component offices under the jurisdiction of the Office of the Director General of Police....\
+  [202503291455232129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291455232129.pdf)
+
+- Regarding approval for disbursement of funds for construction of minor repairs of component offices coming under the Director General of Police, Maharashtra State, Mumbai....\
+  [202503291452188329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291452188329.pdf)
+
+- Regarding approval to disburse funds for travel expenses, purchase of medical supplies and medicines from the office and for office expenses to the officers/employees working under the office of the Police Surgeon, Nagpada Hospital, Mumbai, on the premises of the Office of the Commissioner of Police, Brihanmumbai....Regarding approval to disburse funds for travel expenses, purchase of medical supplies and medicines from the office and for office expenses to the officers/employees working under the office of the Police Surgeon, Nagpada Hospital, Mumbai, on the premises of the Office of the Commissioner of Police, Brihanmumbai....\
+  [202503291449421729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291449421729.pdf)
 
 ## Personnel
 - Regarding extension of temporary posts at various establishments of the Police Department...\

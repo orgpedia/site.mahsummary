@@ -28,6 +28,9 @@
 - Regarding distribution of funds for the scheme of share capital contribution to cooperative spinning mills (Deshbhakta Ratnappana Kumbhar Backward Class Cooperative Spinning Mill Ltd., Jaysingpur, Tal. Shirol, Dist. Kolhapur Spinning Mill) in the financial year 2024-25. (Account Head 44252223)\
   [202503281644543222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281644543222.pdf)
 
+- Regarding the distribution of funds under the Centrally Sponsored Scheme Jal Jeevan Mission for the financial year 2024-25. (Account Head 2215A 097)\
+  [202503291714433722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291714433722.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee at the Mantralaya level to regularly review the progress of the work of the International Memorial of Dr. Babasaheb Ambedkar being built at Indu Mill.\
   [202503261222294622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503261222294622.pdf)

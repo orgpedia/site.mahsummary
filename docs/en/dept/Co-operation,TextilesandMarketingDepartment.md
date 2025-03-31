@@ -127,6 +127,27 @@
 - Regarding approval for distribution and expenditure of funds for general category beneficiaries under the Central Sector Scheme Silk Samagra-2 (ISDSI) Scheme.\
   [202503281740560302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281740560302.pdf)
 
+- Regarding the distribution of government share capital and loan for the first installment to Mahatma Phule Backward Class Powerloom Weavers Industrial Cooperative Society Limited, Nekanur, Taluka, Dist. Beed under the state scheme for financial assistance to powerloom cooperative societies.\
+  [202503291741432002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291741432002.pdf)
+
+- Regarding providing Rs. 1793.15 lakh government share capital to Shetkari Sugar Factory Ltd., Killari, Tal. Ausa, Dist. Latur to increase the crushing capacity of the factories with a crushing capacity of 1250 MT per day to 2500 MT.\
+  [202503291500314302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291500314302.pdf)
+
+- Regarding disbursing a margin money loan of Rs. 140.00 crores for working capital from the National Cooperative Development Corporation (NCDC) through the Maharashtra Government (Routed Through State Government) to the cooperative sugar factory Shri. Makai Cooperative Sugar Factory Ltd., Bhilarwadi, Tal. Karmala, Dist. Solapur.\
+  [202503291521254402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291521254402.pdf)
+
+- Regarding approval for distribution and expenditure of funds for Scheduled Caste beneficiaries under the Central Sector Scheme Silk Samagra-2 (ISDSI) Scheme.\
+  [202503291700384402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291700384402.pdf)
+
+- Regarding the distribution of government share capital and loan for the first installment to Reliance Textile Co. Op. Society Ltd., Nagpur, T.D. Nagpur, under the state scheme for financial assistance to power loom cooperative societies.\
+  [202503291739420902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291739420902.pdf)
+
+- Regarding the disbursement of funds approved through supplementary demand under Account Head 20700882, 10-Contractual Services and 28-Professional Services under the State Cooperative Election Authority for the year 2024-2025.\
+  [202503291929549302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291929549302.pdf)
+
+- Regarding disbursing the second installment (final installment) of government loan to Metro Hi-Tech Co-op Textile Park Ltd., (Garment Manufacturing), Ichalkaranji, Tal. Hatkanangle, Dist. Kolhapur under the state scheme for financial assistance to power loom cooperatives.\
+  [202503291817041602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291817041602.pdf)
+
 ## Miscellaneous
 - Regarding establishment of a study group for increasing/expanding the crushing capacity of sugar factories.\
   [202503251931488802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251931488802.pdf)
@@ -151,6 +172,15 @@
 
 - Regarding post-approval of the study tour to Brazil organized during the period from 23.02.2025 to 04.03.2025 (including the travel period)...\
   [202503281020213302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281020213302.pdf)
+
+- Regarding distribution of interest subvention grant to textile units under Textile Policy, 2011-2017.\
+  [202503291213560702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291213560702.pdf)
+
+- Regarding grant of Government share capital to Co-operative Spinning Mills- National Cooperative Spinning Mill Marya.Sillod, Pt. Sillod, Dist. Chhatrapati Sambhajinagar\
+  [202503291912305602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291912305602.pdf)
+
+- Regarding sanction of government share capital to cooperative yarn mills-  Shri Kedarling Warana Sahakari Sutgirani Maryadit, Asurle-Porle, Dist-Kolhapur.\
+  [202503291911308202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291911308202.pdf)
 
 ## Personnel
 - Regarding the continuation of a temporary post of Special Auditor Class-1 created for Co-operative Yarn Mills under the Commissioner (Textiles), Textiles Commissionerate, Maharashtra State, Nagpur for the year 2025-26.\

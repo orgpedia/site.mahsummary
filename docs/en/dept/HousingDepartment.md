@@ -19,6 +19,9 @@
 - Regarding disbursement of Cess and Government Contribution to the Maharashtra Housing and Area Development Authority for the financial year 2024-25 Mumbai to be deposited in the Mumbai Building Repair and Reconstruction Board\
   [202503281519427009.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281519427009.pdf)
 
+- Regarding provision of funds from the Maharashtra Shelter Fund for housing projects implemented by the Maharashtra Housing Development Corporation (Mahahousing)...\
+  [202503291732077509.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291732077509.pdf)
+
 ## Miscellaneous
 - Regarding distribution of Central Share Funds (ST Component) received from the Central Government under Pradhan Mantri Awas Yojana (Urban).\
   [202503251735517809.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251735517809.pdf)

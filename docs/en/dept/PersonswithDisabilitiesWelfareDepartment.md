@@ -10,5 +10,8 @@
 - Regarding the disbursement of funds to Maharashtra State Divyang Finance and Development Corporation Limited, Mumbai for the Mobile Shop on Vehicle scheme in the financial year 2024-25 (Conditional).. Account Head - 2235 D257\
   [202503281152482635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281152482635.pdf)
 
+- Regarding the disbursement of funds to Maharashtra State Divyang Finance and Development Corporation Limited, Mumbai for the Mobile Shop on Vehicle scheme in the financial year 2024-25 (Conditional).. Account Heading - 2235 D257 Government Corrigendum\
+  [202503291433253035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291433253035.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

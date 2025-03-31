@@ -88,6 +88,9 @@
 - Special Programme for Development of Pilgrimage Sites in Rural Areas (2515 2566) It is mandatory to distribute the complete works under the B class status pilgrimage site.  (Shri Kshetra Vitthal Rukhmini Devasthan Shelugund, Tal. Nandgaon Khandeshwar, Dist. Amravati)\
   [202503281238463420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281238463420.pdf)
 
+- Distribution of the second installment of Tied Grants for the financial year 2024-25 to the rural local bodies of the state under the 15th Central Finance Commission.\
+  [202503281807038120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281807038120.pdf)
+
 ## Miscellaneous
 - Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) Central Share and State Share Fund disbursement as the second part of the second installment for the financial year 2024-25.  Scheduled Caste Component (Minor Head - 789)\
   [202503241154287020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241154287020.pdf)

@@ -22,6 +22,33 @@
 - Grant Release for ICDS General in FY 2024-2\
   [202503281427143930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281427143930.pdf)
 
+- Grant Release for Mazi Kanya Bhagyashree Scheme for FY 2024-25\
+  [202503291808235430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291808235430.pdf.pdf)
+
+- Regarding the disbursement of revised estimate provision made under the scheme for abolition of dowry system (Account Head 2235 1381) and establishment of multipurpose community centers for women (Account Head 2235 2949) for the financial year 2024-25.\
+  [202503291439271930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291439271930.pdf)
+
+- Grant Release for Adarsh Anganwadi Scheme under ICDS\
+  [202503291808042130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291808042130.pdf.pdf)
+
+- Regarding the funds to be disbursed under the following Heads of Accounts for the financial year 2024-25: Demand No. X-1 Main Head of Account 2235-Social Security and Welfare, 02-Social Welfare, 800-Other Expenditure (01) (04) Repair of Buildings, 27-Small Constructions Non-Plan.\
+  [202503291441337030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291441337030.pdf)
+
+- To release fund for Permanent liability home, Birsi, dist. Gondia under budget Head (2235-2896) for the financial year 2024-25\
+  [202503291445214230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291445214230.pdf)
+
+- Grant Release for Supplementary Nutrition Programme under ICDS\
+  [202503291808174630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291808174630.pdf.pdf)
+
+- Grant Release for Baby Care Kit Scheme\
+  [202503291808114430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291808114430.pdf.pdf)
+
+- Regarding disbursement of funds to pay the bills of service provider organizations/agencies supplying manpower through external mechanisms.\
+  [202503291559525830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291559525830.pdf)
+
+- Regarding the distribution of funds for the Sarait Offender and Offender Probation Scheme for the budget year 2024-25\
+  [202503291443445730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291443445730.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for sponsorship, aftercare and sponsorship under the centrally sponsored scheme Mission Vatsalya for the year 2024-25.\
   [202503241242223930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241242223930.pdf)

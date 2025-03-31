@@ -28,6 +28,9 @@
 - Regarding the disbursement of Rs. 05.1090 crore from the budgeted funds for Ratan Tata Maharashtra State Skill University in the financial year 2024-25.\
   [202503281724103203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281724103203....pdf)
 
+- Regarding granting administrative approval to the works undertaken under the World Bank-assisted Development of Applied Knowledge and Skills for Human Development (DAKSH) project....\
+  [202503291945502203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291945502203.pdf)
+
 ## Miscellaneous
 - Regarding the use of mobile application developed by NIC, New Delhi on a pilot basis to record the attendance of candidates undergoing training in private establishments under the Chief Ministers Youth Work Training Scheme\
   [202503281824482403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281824482403.pdf)

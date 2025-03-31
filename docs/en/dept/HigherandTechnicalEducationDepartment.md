@@ -25,6 +25,15 @@
 - Regarding the distribution of funds for the construction of a boys and girls hostel building at Tilak Maharashtra University, Pune...\
   [202503281441464408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281441464408.pdf)
 
+- Regarding distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the year 2024-25.\
+  [202503291730164208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291730164208.pdf)
+
+- Regarding the distribution of funds for the Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme in the year 2024-25.\
+  [202503291730106608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291730106608.pdf)
+
+- Regarding approval for distribution of 31-Assistive Grant (Non-Salary) for the sub-centre of the Institute of Chemical Technology, Mumbai...\
+  [202503291252198308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291252198308.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to investigate the functioning of Dr. Babasaheb Ambedkar Technological University, Lonere.\
   [202503241616194108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241616194108.pdf)

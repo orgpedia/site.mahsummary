@@ -103,6 +103,12 @@
 - Revised Administrative approval to Mou. Bhaygaon  (Tal. Peth, Dist. Nashik) water supply sceme Under JJM.\
   [202503281633189728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503281633189728.pdf)
 
+- Under the Jal Jeevan Mission, the Special Component Program (State Share)  Regarding the allocation of funds to the State Water and Sanitation Mission (Head of Account: 2215 A097).\
+  [202503291549353628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291549353628.pdf)
+
+- Under the Jal Jeevan Mission, the Tribal Component Program (State Share) regarding the release of funds to the State Water and Sanitation Mission ( Head 2215 A061).\
+  [202503291549268128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291549268128.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Ukupati  ta.Dharni  dist-Amravati  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202503241532237128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503241532237128.pdf)
