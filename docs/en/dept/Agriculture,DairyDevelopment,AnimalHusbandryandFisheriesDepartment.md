@@ -103,6 +103,9 @@
 - Fund release to Scheme of Coconut Development Board, Centrally sponsored Coconut Development Scheme 2024-25\
   [202503291657459101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291657459101.pdf)
 
+- Fund release for Chief Minister Food Processing Scheme 2024-25\
+  [202503291220233201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503291220233201.pdf)
+
 ## Miscellaneous
 - Regarding partial change in posting by direct service appointment to the post in Maharashtra Agricultural Service Group-B (Junior) (Pay Scale S-15: 41800-132300).\
   [202503251456144301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503251456144301....pdf)
