@@ -1,0 +1,2136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>साप्ताहिक सारांश: पर्यटन व सांस्कृतिक कार्य विभाग </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-mr.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                साप्ताहिक सारांश: महाराष्ट्र शासन निर्णय</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">शोधा</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="मुख्य शब्द" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en">English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr"selected>मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="शोधा...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          नवीनतम सारांश
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              विभागवार
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              जिल्हावार
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">संग्रहण</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    अस्वीकरण
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">घर</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2025-W14-summary.html">
+    <span class="cursor-pointer">साप्ताहिक सारांश: विभागवार</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week १४</span>
+
+
+
+  </div>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">साप्ताहिक सारांश: पर्यटन व सांस्कृतिक कार्य विभाग</h2>
+			<span class="text-blue-500">
+			  आठवडा १४: (०७ एप्रिल २०२५ - १२ एप्रिल २०२५)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">निधी </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुरातत्व व वस्तुसंग्रहालये संचालनालयाच्या अधिपत्याखालील संग्रहालयांच्या कामांना वित्तीय मान्यता देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, रत्नागिरी, सातारा
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312201010123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312201010123.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312201010123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312201010123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त आमचा स्वाभिमान: संविधान कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. १.७५ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312138024923.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312138024923.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312138024923.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312138024923.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">३५ वी मराठी व्यावसायिक नाट्य स्पर्धा, २०२४-२५ प्राथमिक फेरी आयोजन खर्चास मान्यता मिळणेबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312207517523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312207517523.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312207517523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312207517523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त आमचा स्वाभिमान: संविधान कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. १.२५ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312141354023.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312141354023.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312141354023.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312141354023.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त आमचा स्वाभिमान: संविधान कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. १.२५ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नाशिक
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312135576323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312135576323.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312135576323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312135576323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कोल्हापूर चित्रनगरी महामंडळ, कोल्हापूर येथे पोस्ट प्रोडक्शन युनिट सुविधा आणि उपकरणे बांधणेच्या खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ९ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311842514923.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311842514923.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311842514923.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311842514923.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">विविध राज्य संरक्षित स्मारकांच्या जतन व दुरुस्ती कामांना वित्तीय मान्यता देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ६ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, पुणे, सिंधुदुर्ग
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311922336323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311922336323.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311922336323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311922336323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुण्यश्लोक अहिल्यादेवी होळकर यांच्या ३०० व्या जयंती निमित्त टपाल तिकीट तयार करण्यासाठीच्या खर्चास मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311759553123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311759553123.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311759553123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311759553123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पु.ल.देशपांडे महाराष्ट्र कला अकादमी, मुंबई येथे ऑडिओ, व्हिडिओ रेकॉडिंग व एडिटिंग स्टुडिओ तयार करण्यासाठी वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312155393223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312155393223.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312155393223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312155393223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त सहा प्रशासकीय विभागात चित्ररथ संचलन करण्यासाठी येणाऱ्या खर्चास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312143005523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312143005523.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312143005523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312143005523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वित्तीय वर्ष २०२४-२५ “उत्कृष्ट्ट मराठी नाटकांचे पुराभिलेख” या योजनेतंर्गत निवड करण्यात आलेल्या नाटकांचे जतन, व संवर्धन चित्रीकरण पश्चात प्रक्रीया यासाठी होणाऱ्या खर्चास प्रशासकीय मान्यता देणेबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312152585623.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312152585623.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312152585623.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312152585623.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वित्तीय मान्यता (२) पु.ल.देशपांडे महाराष्ट्र कला अकादमीच्या नूतनीकृत संकूलाचा उदघाटन सोहळा, पु.ल.कला महोत्सव व महिला महोत्सव आयोजनाच्या खर्चास वित्तीय मान्यता देणेबाबत..</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ७ लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311614448423.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311614448423.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311614448423.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311614448423.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">श्रमिकोत्सव आयोजन खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311741129223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311741129223.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311741129223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311741129223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">अलिबाग, जिल्हा रायगड येथे नाट्यगृह बांधकामासाठी दुसऱ्या टप्प्यातील निधीस वित्तीय मान्यता देण्याबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> रायगड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312141406423.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312141406423.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312141406423.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312141406423.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुण्यश्लोक अहिल्यादेवी होळकर यांच्या त्रिशताब्दी जयंती वर्ष व श्रीमंत सुभेदार मल्हारराव होळकर यांच्या ३३२ जयंती निमित्त सांस्कृतिक कार्यक्रम आयोजित करण्यास वित्तीय मान्यता मिळणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. १० लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311808534723.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311808534723.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311808534723.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311808534723.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">छत्रपती संभाजी महाराज राज्य प्रेरणा गीत पुरस्कार, २०२५ पुरस्कार रक्कम व इतर अनुषंगिक खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312203196823.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312203196823.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312203196823.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312203196823.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुण्यश्लोक अहिल्यादेवी होळकर यांच्या ३०० जयंतीनिमित्त ६ महसुली विभागात सांस्कृतिक कार्यक्रम आयोजित करण्यास वित्तीय मान्यता मिळणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312204404123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312204404123.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312204404123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312204404123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नाट्यनिर्मिती संस्थांना नवीन नाट्य निर्मितीसाठी अनुदानासाठी आयोजित करण्यात आलेल्या बैठक खर्चास वित्तीय मान्याता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312146119023.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312146119023.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312146119023.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312146119023.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">३४ वी मराठी व्यावसायिक नाट्य स्पर्धा, अंतिम फेरी पारितोषिक वितरण समारंभ आयोजन खर्चास मान्यता मिळणेबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. १२ लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312209421823.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312209421823.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312209421823.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312209421823.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">“वैशिष्ट्ट्यपूर्ण संस्कृती महोत्सव” या सांस्कृतिक कार्यक्रम आयोजनासाठी येणाऱ्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311758147523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311758147523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311758147523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311758147523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नागपूर येथे होणाऱ्या वाघनखे प्रदर्शनासाठी आयोजित विविध कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, नागपूर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311752252723.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311752252723.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311752252723.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311752252723.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">रायगड किल्ला व परिसर पर्यटन विकास आराखड्यासाठी सन २०२४-२५ या आर्थिक वर्षात निधी वितरीत करण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ३५.०० कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> रायगड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311924498523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311924498523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311924498523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311924498523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भारतरत्न पं. भीमसेन जोशी शास्त्रीय संगीत महोत्सव आयोजन खर्चास प्रशासकीय व वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311146125923.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311146125923.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311146125923.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311146125923.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">रोडाली कला महोत्सव आयोजित करण्यास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311308550523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311308550523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311308550523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311308550523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कोल्हापूर चित्रनगरी महामंडळ, कोल्हापूर येथे पोस्ट प्रोडक्शन युनिटच्या बांधकाम खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311850246423.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311850246423.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311850246423.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311850246423.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">तीन दिवसीय मराठी नाट्यसंगीत महोत्सव आयोजन खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311746412423.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311746412423.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311746412423.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311746412423.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">६३ वी महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धा, अंतिम फेरी व २१ वी महाराष्ट्र राज्य बालनाट्य स्पर्धा, अंतिम फेरी स्पर्धा आयोजनावरील खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर, रत्नागिरी
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311822165023.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311822165023.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311822165023.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311822165023.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सांस्कृतिक कार्य विभागामार्फत आयोजित होणाऱ्या शासनाचा “आंतरराष्ट्रीय मराठी चित्रपट महोत्सव” आयोजन खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. २ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312148462123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312148462123.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312148462123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312148462123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">स्वातंत्र्याचा अमृत महोत्सव अंतर्गत महावारसा समितीसाठी रु.४५.०० कोटी इतका निधी उपलब्ध करुन देण्यास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ४५.०० कोटी
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312131312523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312131312523.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312131312523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312131312523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">एन.डी.स्टुडिओ, कर्जत अंतर्गत सुधारणांसाठी होणाऱ्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311845588623.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311845588623.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311845588623.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311845588623.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">राज्य संकल्पक शहाजीराजे भोसले यांच्या ४३० व्या जयंतीनिमित्त विशेष कार्यक्रमाचे आयोजन खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311750230823.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311750230823.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311750230823.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311750230823.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">राज्यातील लोक कलावंतांच्या पथकांना अनुदान पॅकेज अंतर्गत भांडवली व प्रयोग खर्चासाठी सन २०२४-२५ या आर्थिक वर्षात अनुदान मंजूर करण्यासाठी वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अहमदनगर, भंडारा, चंद्रपूर, धुळे, हिंगोली, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312205565323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312205565323.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312205565323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312205565323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">“स्वातंत्र्याचा अमृत महोत्सव” साठीच्या एकछत्र योजनेंतर्गत पुरातत्व व वस्तु संग्रहालये संचालनालयास निधी वितरीत करण्याबाबत</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ९ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> चंद्रपूर, लातूर, मुंबई_शहर, नाशिक, पुणे, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311957148323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311957148323.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311957148323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311957148323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">&#34;स्वातंत्र्याचा अमृत महोत्सव&#34; अंतर्गत महाराष्ट्र राज्य हिंदी, सिंधी, गुजराती साहित्य अकादमीच्या कार्यक्रम आयोजनास आणि त्यासाठीच्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311837301523.....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311837301523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311837301523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311837301523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त आमचा स्वाभिमान: संविधान कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. २.०० कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312144461723.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312144461723.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312144461723.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312144461723.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">आदिवासी कला महोत्सव आयोजित करण्यास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311754287523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311754287523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311754287523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311754287523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कोल्हापूर चित्रनगरी महामंडळ, कोल्हापूर येथे स्क्रिनींग थिएटरचे बांधकाम खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ६ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311841175623.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311841175623.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311841175623.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311841175623.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सीआयएसएफ परेड दिन-२०२५ निमित्त सायकल रॅलीनिमित्ताने सांस्कृतिक कार्यक्रम आयोजन खर्चास मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ५ लाख
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311817402223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311817402223.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311817402223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311817402223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">दैनिक लोकमत आयोजित महाराष्ट्रीयन ऑफ द इयर या कार्यक्रम आयोजन खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311756156223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311756156223.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311756156223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311756156223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">स्वातंत्र्याच्या अमृत महोत्सवानिमित्त घरोघरी तिरंगा या अभियानाच्या प्रसिध्दीसाठीच्या खर्चास मान्यता मिळणेबाबत..</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311819411823.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311819411823.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311819411823.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311819411823.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त आमचा स्वाभिमान: संविधान कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. १.२५ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अमरावती, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312139379923.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312139379923.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312139379923.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312139379923.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुराभिलेख संचालनालयातील अभिलेखांचे सुक्ष्मचित्रिकरणाचे कामासाठी झालेल्या खर्चास वित्तीय मान्यता देण्याबाबत.... वित्तीय मान्यता - ६</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">निधी:</span> रु. ६ कोटी
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311442529423.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311442529423.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311442529423.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311442529423.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">कार्मिक </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पु.ल.देशपांडे महाराष्ट्र कला अकादमी प्रभादेवी, मुंबई व रविंद्र नाटय मंदिर आवारामधील नुतनीकरणाच्या कामामध्ये अत्याधुनिक सिनेमा प्रोजेक्टर, गुड्स लिफ्ट तद्अनुषंगिक बाबींकरीता झालेल्या खर्चाच्या अंदाजपत्रकास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311839308523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311839308523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311839308523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311839308523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">नानाविध </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वैशिष्ट्ट्यपूर्ण सांस्कृतिक /सामुदायिक घटकांचे सांस्कृतिक महोत्सव आयोजनासाठी येणाऱ्या खर्चास प्रशासकीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312202041523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312202041523.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312202041523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312202041523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">६३ वी महाराष्ट्र राज्य हौशी हिंदी, संगीत व संस्कृत नाट्य स्पर्धा, अंतिम फेरी आणि सहावी दिव्यांग बालनाट्य स्पर्धा, अंतिम फेरी आयोजनावरील खर्चास वित्तीय मान्यता मिळण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311148372123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311148372123.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311148372123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311148372123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">दजेदार मराठी चित्रपट निर्मितीसाठी प्रोत्साहन देण्यासाठीच्या अर्थसहाय्य योजनेच्या अंमजबजावणीसाठी आकारण्यात येणाऱ्या २ टक्के सेवाशुल्काच्या रकमेस वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312147274623.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312147274623.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312147274623.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312147274623.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कोल्हापूर चित्रनगरी महामंडळ मर्या., कोल्हापूर येथील विकास कामांना लेखाशिर्ष (४२०२ ०७८५) ५४- गुंतवणुका अंतर्गत निधी खर्च करण्यास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312145365323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312145365323.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312145365323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312145365323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सांस्कृतिक प्रयोगसिध्द कलांची प्रशिक्षण शिबीरे व सत्रे आयोजन करण्यास व त्यासाठी येणाऱ्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> अकोला, अमरावती, बीड, भंडारा, चंद्रपूर, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311824452223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311824452223.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311824452223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311824452223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">नाटयनिर्मिती संस्थांना नवीन नाट्य निर्मितीसाठी अनुदान योजना प्रयोग अनुदान मंजूर करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312206208523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312206208523.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312206208523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312206208523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">राज्यातील लोक कलावंतांच्या पथकांना अनुदान पॅकेज अंतर्गत भांडवली व प्रयोग खर्चासाठी सन २०२४-२५ या आर्थिक वर्षात अनुदान मंजूर करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> बीड, धुळे, जळगाव, कोल्हापूर, मुंबई_शहर, ...
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312208323323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312208323323.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312208323323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312208323323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">प्रादेशिक पर्यटन विकास योजनेंतर्गत प्रशासकीय मंजुरी दिलेल्या जिल्हास्तरावरील कामांना उर्वरित (Spillover) निधी वितरीत करण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311139009223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311139009223.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311139009223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311139009223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">बॅण्ड महोत्सव आयोजन खर्चास प्रशासकीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312200419823.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312200419823.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312200419823.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312200419823.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धा, महाराष्ट्र राज्य बालनाट्य स्पर्धा, व दिव्यांग बालनाट्य स्पर्धा या स्पधेच्या जाहिरात खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312215266023.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312215266023.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312215266023.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312215266023.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">महाराणी ताराराणी यांच्या ३५० व्या जयंती निमित्त टपाल तिकीट तयार करण्यासाठीच्या खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर, रायगड
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311802509023....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311802509023.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311802509023.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311802509023.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">वैशिष्ट्ट्यपूर्ण सांस्कृतिक /सामुदायिक घटकांचे सांस्कृतिक महोत्सव आयोजनासाठी येणाऱ्या खर्चास प्रशासकीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312159218423.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312159218423.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312159218423.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312159218423.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">मराठी गीतांवर आधारीत स्वरतरंग हा सांस्कृतिक कार्यक्रम आयोजनासाठी येणाऱ्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311744577723.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311744577723.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311744577723.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311744577723.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">सन २०२४-२५ यावर्षी झालेल्या पं. भीमसेन जोशी अनुदान आणि युवा शिष्ट्यवृत्ती जाहिरात रक्कमेस वित्तीय मान्यता देणेबाबत..</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311827128223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311827128223.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311827128223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311827128223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">पुण्यश्लोक अहिल्यादेवी होळकर यांच्या जीवनावर आधारीत चित्ररथ गिरगावातील हिंदू नववर्ष स्वागत यात्रेत संचलन करण्यासाठी येणाऱ्या खर्चास वित्तीय मान्यता देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311815465123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311815465123.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311815465123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311815465123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">विविध राज्य संरक्षित स्मारकांच्या जतन व दुरुस्ती कामांना वित्तीय मान्यता देण्याबाबत...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> धुळे, मुंबई_शहर, वाशिम
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312158127723.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312158127723.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312158127723.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312158127723.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">कोल्हापूर चित्रनगरीमधील पायाभूत सोयी सुविधांवरील खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> कोल्हापूर, मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311848331523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311848331523.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311848331523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311848331523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">शास्त्रीय नृत्य महोत्सव आयोजित करण्यास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311749053323.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311749053323.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311749053323.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311749053323.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">स्वरालय अंतर्गत ज्येष्ट्ठ मान्यवर कलाकारांच्या मुलाखतींचे ध्वनीचित्रफितीव्दारे जतन व संवर्धन करण्यासाठी येणाऱ्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312211235223.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312211235223.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312211235223.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312211235223.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">संविधानाच्या अमृत महोत्सवी वर्ष : घरोघरी संविधाननिमित्त आमचा स्वाभिमान: संविधान कार्यक्रमाच्या आयोजनास मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312133454023.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312133454023.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312133454023.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312133454023.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">भारतीय स्वातंत्रय लढयात स्फुर्ती, प्रेरणा निर्माण करणारे &#34;वंदे मातरम्&#34; या राष्ट्रीय गीताच्या १५०व्या वर्षानिमित्त विशेष सांस्कृतिक कार्यक्रमाचे आयोजन करणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312157145523.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312157145523.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312157145523.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312157145523.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">आदमापूर महोत्सव हा कार्यक्रम आयोजित करण्यास व त्यासाठी येणाऱ्या खर्चास वित्तीय मान्यता देण्याबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311813234123.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503311813234123.pdf">202503311....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311813234123.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503311813234123.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">प्रयोगात्मक कलेच्या क्षेत्रात कार्य करणाऱ्या नोंदणीकृत संस्थांना सहाय्यक अनुदान देणेबाबत.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">जिल्हे:</span> मुंबई_शहर
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312217125823.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202503312217125823.pdf">202503312....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312217125823.pdf.en.txt">इंग्रजी</a></div>
+				  <!-- <div class="mr-2">पृष्ठे: ३</div> -->
+				  <div class="mr-2">मजकूर: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Tourism_and_Cultural_Affairs_Department/202503312217125823.pdf.mr.txt">मराठी</a></div>
+				  <div>तारीख: ३१ मार्च २०२५</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-mr.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">अस्वीकरण</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=साप्ताहिक सारांश: पर्यटन व सांस्कृतिक कार्य विभाग">चुका सांगा</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">गिटहब वर पहा</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>
