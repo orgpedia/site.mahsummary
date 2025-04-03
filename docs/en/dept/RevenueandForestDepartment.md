@@ -86,5 +86,33 @@
 - Regarding the distribution of funds under the state-level scheme for the modernisation and strengthening of Dr. Babasaheb Ambedkar Government Nurseries (2406 8613) for the year 2024-25.\
   [202503311832026919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311832026919.pdf)
 
+## Personnel
+- Continuation of 1283 Temporary Post of Nashik Division from 01/03/2025  to 31/08/2025.\
+  [202504011517399919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011517399919.pdf)
+
+- Continuation of 1534 Temporary Post of Nagpur  Division from 01/03/2025  to 31/08/2025.\
+  [202504011515308619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011515308619.pdf)
+
+- Continuation to the 143  temporary NA posts in Konkan Division.\
+  [202504011512492919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011512492919.pdf)
+
+- Continuation to the 722 temporary posts in all Divisions from the Period of  01/03/2025   to  31/08/2025.\
+  [202504011520505419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011520505419.pdf)
+
+- Continuation to the 15 temporary posts of Sweepers at Divisional Commissioner Office, Konkan Division.\
+  [202504011511196719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011511196719.pdf)
+
+- Continuation of 1375 Temporary Post of Amravati Division from 01/03/2025  to  31/08/2025.\
+  [202504011510289219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011510289219.pdf)
+
+- Continuation of 1075 Temporary Post of Pune Division from 01/03/2025  to   31/08/2025.\
+  [202504011518423219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011518423219.pdf)
+
+- Continuation of 1786 Temporary Post of Chhatrapati Sambhajinagar Division from 01/03/2025  to  31/08/2025\
+  [202504011515273519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011515273519.pdf)
+
+- Continuation to the 1315 temporary posts in Kokan Division from 01/03/2025  to  31/08/2025\
+  [202504011513309419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011513309419.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,5 +19,8 @@
 - Regarding disbursement of funds to zilla parishads in the state under Sant Sevalal Maharaj Banjara/Laman Tanda Samruddhi Yojana Accounts (2515 2753).\
   [202503311111302420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311111302420.pdf)
 
+- Budgetary Allocation 2024-25 Demand No.L-01,2049-Interest Payments,03-Interest on small Savings,Provident Funds etc.,104-Interest on State Provident Funds (20490771) (Charged),45-Interest\
+  [202503311437250720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311437250720.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -28,12 +28,31 @@
 - Regarding disbursement of funds approved through supplementary demand in June-2024 to meet the expenses incurred for modernizing the Kitchen Department at the Regional Psychiatric Hospital, Pune.\
   [202503311921209217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311921209217.pdf)
 
+## Miscellaneous
+- Regarding the reconstitution of Ayushman Bharat - Mission Maharashtra Committee.\
+  [202504011728486817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011728486817.pdf)
+
+- corrigendum.. Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . . Dr Pradip Thakkarwad, Medical Officer\
+  [202504011622079417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011622079417.pdf)
+
 ## Personnel
 - Regarding approval of one-time exemption of Rs. 79.00 lakhs from the Virtual Personal Deposit Account (VPDA) system under the account head 2235C457 for providing free spectacles to school children for the prevention of visual impairment\
   [202503311618349517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311618349517.pdf)
 
 - Regarding approval to transfer funds through redistribution amounting to Rs.12,59,032/- under the objective of Account Head 2210 0217, 21- Supplies and Materials to 31- Subsidiary Grants (Non-Salary) the Maharashtra Medical Goods Procurement Authority for the purchase of cloth, linen and other items for the four regional psychiatric hospitals in the state in the financial year 2023-24\
   [202503311224506817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311224506817.pdf)
+
+- Regarding the continuation of 4164 temporary posts under National Maleria Eradication Programme.\
+  [202504011723205817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011723205817.pdf)
+
+- Continuation of 2173 temporary posts under the charge of Deputy Director, Health Services, Nashik Board, Nashik.\
+  [202504011348433417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011348433417.pdf)
+
+- Regarding the continuation of 15 temporary posts on the establishment of Joint Director, Health Services (Maleria, Elephantiasis and Waterborne Diseases), Pune-1 office.\
+  [202504011723145317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011723145317.pdf)
+
+- Regarding continuation of 204 temporary posts of Medical Officer Group A and 8 temporary posts of Group B in Primary Health Centers of Zilla Parishad under the supervision of Deputy Director, Health Services, Nashik Board, Nashik.\
+  [202504011348456517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011348456517.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

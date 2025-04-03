@@ -22,9 +22,24 @@
 - Regarding the disbursement of funds for the payment of the fourteenth quarterly installment for the Modernization of Police Control Rooms (Dial-112) project in the state.\
   [202503312216584929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312216584929.pdf)
 
+- To establish Maharashtra Cyber Crime Security Corporation in State\
+  [202504011904291429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011904291429.pdf.pdf)
+
+- Regarding the distribution of funds for installing CCTV cameras in police stations in the state.\
+  [202503312218196729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312218196729.pdf)
+
+- Regarding obtaining administrative approval for setting up an electric charging station for buses running on electric system in the premises of Latur Bus Stand No. 2, Ambejogai Road, Latur Division, R.P. Latur....\
+  [202504011507504729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011507504729.pdf)
+
 ## Miscellaneous
 - Approval to disburse funds for payment of pending amount of hospitals located in Mumbai for Police Officers/Enforcers under Maharashtra Police Family Health Scheme under the jurisdiction of Commissioner of Police, Brihanmumbai....\
   [202503311849126529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311849126529.pdf)
+
+- Regarding allotment of districts for training to candidates recommended through State Services Examination-2022 under Combined Probationary Training Programme-10 (CPTP-10). Probationary Assistant Regional Transport Officer (Group-A)\
+  [202504011743014429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011743014429.pdf)
+
+- Shri. Shivraj Shahaji Dongre, Probationary Assistant Regional Transport Officer, Ahilyanagar, has been released from Motor Vehicles Department for training in batch CPTP-10 under the Combined Probationary Training Programme (CPTP)....\
+  [202504011742318329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011742318329.pdf)
 
 ## Personnel
 - Continuation of Posts.\

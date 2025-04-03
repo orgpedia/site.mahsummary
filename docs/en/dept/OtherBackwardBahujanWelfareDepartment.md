@@ -28,6 +28,9 @@
 - Regarding making funds available for the houses approved post-operatively in the years 2023-24 and 2024-25 under the Punyashloka Ahilyadevi Holkar Gharkul Yojana.\
   [202503311239378534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311239378534.pdf)
 
+- Regarding administrative approval and distribution of funds for the year 2024-25 under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202503312239109834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312239109834.pdf)
+
 ## Miscellaneous
 - Regarding providing funds for the completed works in the years 2021-22 and 2022-23 under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
   [202503311241467434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311241467434.pdf)

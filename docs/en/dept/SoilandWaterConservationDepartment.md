@@ -91,5 +91,14 @@
 - Distribution of funds for maintenance and repair works of projects of 0 to 100 ha under the Chief Ministers Water Conservation Scheme. Nashik Division (Rest of Maharashtra Division)\
   [202503312118413826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312118413826.pdf)
 
+- Requisition No. ZH-5 Account Head 4702 A 028 Small Irrigation Scheme Khadakdari Tal. Pusad Dist. Yavatmal. (Land Acquisition Fund)\
+  [202503312224298226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312224298226.pdf)
+
+- 0 to 100 ha. Disbursement of funds for new/ongoing projects. (Leshisankra 4702 A019)\
+  [202503312328031526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312328031526.pdf)
+
+- Distribution of funds for survey work of projects of 0 to 100 ha.sq.: Dist. Pune (Rest of Maharashtra Division)\
+  [202503312333050626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312333050626.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -130,6 +130,24 @@
 - Regarding granting financial approval for the expenditure incurred for the work of microfliming of records in the Directorate of Archives.... Financial Approval - 6\
   [202503311442529423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311442529423.pdf)
 
+- Regarding granting financial approval for the construction of a new main administrative building for the Directorate of Archaeology and Museums, Mumbai...\
+  [202503312325533023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312325533023.pdf)
+
+- Regarding financial approval for the conservation and repair works of various state protected monuments...\
+  [202503312222393223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312222393223.pdf)
+
+- Regarding financial approval for the conservation and repair works of various state protected monuments...\
+  [202503312221062423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312221062423.pdf)
+
+- Amrit Jubilee Year of the Constitution: Our Self-Respect on the occasion of the Constitution from house to house: Regarding approval of the organization of the Constitution program.\
+  [202503312252577623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312252577623.pdf)
+
+- Regarding financial approval for the work of the museum under the jurisdiction of the Directorate of Archaeology and Museums\
+  [202503312321051223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312321051223.pdf)
+
+- Regarding organizing a cultural program on the occasion of Marathi Language Day and providing financial approval for the expenses incurred for the same.\
+  [202503312301509823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312301509823.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the expenses incurred for organizing cultural festivals of distinctive cultural/community elements.\
   [202503312202041523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312202041523.pdf)
@@ -199,6 +217,12 @@
 
 - Regarding providing grant-in-aid to registered institutions working in the field of experimental arts.\
   [202503312217125823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312217125823.pdf)
+
+- Regarding financial approval for the conservation and repair works of various state protected monuments...\
+  [202503312219271023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312219271023.pdf)
+
+- Regarding financial approval for the conservation and repair works of various state protected monuments...\
+  [202503312323087323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312323087323.pdf)
 
 ## Personnel
 - Regarding financial approval of the budget for the expenditure incurred for the renovation work of P.L. Deshpande Maharashtra Kala Academy Prabhadevi, Mumbai and Ravindra Natya Mandir Awara for the installation of state-of-the-art cinema projectors, goods lifts and related matters.\

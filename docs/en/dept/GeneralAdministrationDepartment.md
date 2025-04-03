@@ -26,5 +26,30 @@
 - Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision of the Main Heads of Account 2052, Secretariat-General Services and 2059, Public Works in the year 2024-25.\
   [202503311522254707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311522254707......pdf)
 
+- Regarding the relief of Shri. Rahul Atmaram Tidke, Director (Information) (News and Public Relations) from the post of deputation.\
+  [202504011448277407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011448277407.pdf)
+
+- Approval to send two pilots from the Directorate General of Civil Aviation, Mumbai to Dallas, USA for refresher training and approval of the training expenses.\
+  [202504011721002107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011721002107.pdf)
+
+- One Week In-Service training program for the year 2025-26 for All India Service Officers.\
+  [202504011453064407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011453064407.pdf)
+
+- Final seniority list of third and fourth class employees of Sahyadri/Nandgiri State Guest House as on 01.01.2024 and 01.01.2025.\
+  [202504011709551307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011709551307.pdf)
+
+- Regarding extension of the contract for providing aviation management services for government-owned aircraft Cessna Citation 560 XLS VT-VDD (aircraft) and Airbus H 145 VT GOV (helicopter).\
+  [202504011336578207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011336578207.pdf)
+
+- Regarding celebrating April 28th as Right to Service Day.....\
+  [202504011534578207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011534578207.pdf)
+
+- Extension to Deputation -Shri. Sanjay D. Kamalakar, Joint  Secretary.\
+  [202504011811587607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011811587607.pdf)
+
+## Personnel
+- Trasnfer of Smt. Smita D. Nivatkar, Joint Secretary.\
+  [202504011734026807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011734026807.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

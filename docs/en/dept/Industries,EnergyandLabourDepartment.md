@@ -34,6 +34,9 @@
 - Regarding approval of the expenditure of the first phase of grant from the State Government for the implementation of capacity building program for industrial cluster projects approved under the scheme Maharashtra State Industrial Cluster Development Program (MSI-CDP).\
   [202503311547081110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311547081110.....pdf)
 
+- Regarding approval of expenditure under the objective 34- Scholarships/Stipends under the Chief Ministers Employment Generation Programme (General) Scheme in the financial year 2024-25.\
+  [202503312311560410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312311560410.pdf)
+
 ## Miscellaneous
 - Regarding approval of the first phase of grant from the State Government for the construction of a shared facility center for the industrial cluster project of FMCG Agriculture Packaging Cluster, Dist. Nashik under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
   [202503311100053410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311100053410.pdf)

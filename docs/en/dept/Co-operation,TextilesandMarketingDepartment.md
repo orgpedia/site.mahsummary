@@ -46,6 +46,12 @@
 - Regarding approval for distribution and expenditure of funds for general category beneficiaries under the Central Sector Scheme Silk Samagra-2 (ISDSI) Scheme.\
   [202503312006241902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312006241902.pdf)
 
+- Regarding revised classification of Agricultural Produce Market Committees in the state\
+  [202504011556316102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011556316102.pdf)
+
+- Regarding distribution of capital subsidy instead of interest subsidy to textile units under the Textile Policy.\
+  [202503312318191002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312318191002.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of budgetary provision for the year 2024-25. Dr. Punjabrao Deshmukh Interest Subsidy Scheme (24251009)-33 Financial Assistance\
   [202503311718429602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311718429602.pdf)
