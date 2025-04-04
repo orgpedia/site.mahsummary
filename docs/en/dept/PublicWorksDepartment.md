@@ -10,6 +10,10 @@
 - Guidelines for the use of drone technology in the Public Works Department.\
   [202504011330129518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011330129518.pdf)
 
+## Miscellaneous
+- Termination of Service  Mr. Dinesh Pandurang Bagle, Junior Engineer\
+  [202504021138268218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021138268218....pdf)
+
 ## Personnel
 - Regarding the continuation of temporary posts in the office under the jurisdiction of the Chief Engineer, Public Works Regional Department, Konkan\
   [202504011400235518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011400235518.pdf)

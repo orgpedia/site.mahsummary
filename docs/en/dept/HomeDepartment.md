@@ -31,6 +31,9 @@
 - Regarding obtaining administrative approval for setting up an electric charging station for buses running on electric system in the premises of Latur Bus Stand No. 2, Ambejogai Road, Latur Division, R.P. Latur....\
   [202504011507504729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011507504729.pdf)
 
+- Regarding granting administrative and financial approval to the proposed construction cost estimate (toilet block, entrance gate, compound wall, internal road, testing track, landscaping, spectator gallery and electrification) for the remaining work of the new building at Regional Transport Office, Akola.\
+  [202504021608387229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021608387229.pdf)
+
 ## Miscellaneous
 - Approval to disburse funds for payment of pending amount of hospitals located in Mumbai for Police Officers/Enforcers under Maharashtra Police Family Health Scheme under the jurisdiction of Commissioner of Police, Brihanmumbai....\
   [202503311849126529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311849126529.pdf)
@@ -41,9 +44,18 @@
 - Shri. Shivraj Shahaji Dongre, Probationary Assistant Regional Transport Officer, Ahilyanagar, has been released from Motor Vehicles Department for training in batch CPTP-10 under the Combined Probationary Training Programme (CPTP)....\
   [202504011742318329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011742318329.pdf)
 
+- Regarding approval to make available the services of security guards, constables and cleaners through external mechanisms for the Transport Commissioners Office and Regional Transport Offices.\
+  [202504021751305729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021751305729.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202503311233007629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311233007629.pdf)
+
+- Continuation of posts.\
+  [202504021322013729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021322013729.pdf)
+
+- Continuation of posts.\
+  [202504021318478029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021318478029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

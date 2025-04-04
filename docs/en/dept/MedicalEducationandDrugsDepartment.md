@@ -23,6 +23,24 @@
 - Regarding granting approval for Security Guard Services at 03 Government Medical Colleges and attached Hospitals under the DMER.\
   [202504011349191013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011349191013.pdf)
 
+- Regarding the approval for providing a 44-seat bus on a rental basis for the students of the Government Medical College, Sindhudurg.\
+  [202504021530420113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021530420113.pdf)
+
+- Regarding the approval for providing a 44-seat bus on a rental basis for the students of the Government Medical College, Nashik.\
+  [202504021530367713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021530367713.pdf)
+
+- Regarding the approval to hire the services of an additional 15 security guards for the Government Medical College and Hospital, Miraj, under the jurisdiction of the department, through the Maharashtra State Security Guards Corporation (M.S.F.).\
+  [202504021531001913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021531001913.pdf)
+
+- Regarding the approval to hire the services of 21 security guards for the Government Medical College, Miraj, under the jurisdiction of the department, through the Maharashtra State Security Guards Corporation (M.S.F.).\
+  [202504021530503113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021530503113.pdf)
+
+- Regarding the approval to lease a building for the hostel accommodation for the students of the Government Medical College, Parbhani, and  Government Medical College, Washim.\
+  [202504021131003913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021131003913.pdf)
+
+- Regarding the approval for the transportation and disposal of biomedical waste at the Vilasrao Deshmukh Government Medical College and Hospital, Latur.\
+  [202504021131027913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021131027913.pdf)
+
 ## Personnel
 - Regarding granting approval for Security Guard Services at 06 Government Medical Colleges and attached Hospitals under the DMER.\
   [202504011349170513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011349170513.pdf)

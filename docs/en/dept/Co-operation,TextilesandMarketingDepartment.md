@@ -52,6 +52,9 @@
 - Regarding distribution of capital subsidy instead of interest subsidy to textile units under the Textile Policy.\
   [202503312318191002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312318191002.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Chandur Bazar, Dist. Amravati...\
+  [202504021558311902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021558311902.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of budgetary provision for the year 2024-25. Dr. Punjabrao Deshmukh Interest Subsidy Scheme (24251009)-33 Financial Assistance\
   [202503311718429602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311718429602.pdf)

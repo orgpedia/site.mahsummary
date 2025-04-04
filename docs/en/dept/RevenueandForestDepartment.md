@@ -114,5 +114,11 @@
 - Continuation to the 1315 temporary posts in Kokan Division from 01/03/2025  to  31/08/2025\
   [202504011513309419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011513309419.pdf)
 
+- Posting of officers in the Tehsildar cadre\
+  [202504021834362619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021834362619.pdf)
+
+- Regarding extension of tenure of temporary posts at divisional and district level in Entertainment Fee Branch in Konkan, Pune, Nashik, Chhatrapati Sambhajinagar, Amravati and Nagpur divisions.\
+  [202504021738138219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021738138219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

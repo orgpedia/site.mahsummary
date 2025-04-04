@@ -35,6 +35,12 @@
 - corrigendum.. Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . . Dr Pradip Thakkarwad, Medical Officer\
   [202504011622079417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011622079417.pdf)
 
+- Final seniority list dated 01.01.2024 for the post of Chief Administrative Officer in General State Service, Group-A.\
+  [202504021553572317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021553572317.pdf)
+
+- Final seniority list dated 01.01.2024 for the post of Ophthalmologist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202504021554034617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021554034617.pdf)
+
 ## Personnel
 - Regarding approval of one-time exemption of Rs. 79.00 lakhs from the Virtual Personal Deposit Account (VPDA) system under the account head 2235C457 for providing free spectacles to school children for the prevention of visual impairment\
   [202503311618349517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311618349517.pdf)
@@ -53,6 +59,12 @@
 
 - Regarding continuation of 204 temporary posts of Medical Officer Group A and 8 temporary posts of Group B in Primary Health Centers of Zilla Parishad under the supervision of Deputy Director, Health Services, Nashik Board, Nashik.\
   [202504011348456517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011348456517.pdf)
+
+- Maharashtra Medical and Health Services, Group-A, District Health Officer, final seniority list dated January 1, 2024 of officers in this cadre....\
+  [202504021553510817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021553510817.pdf)
+
+- Continuation of 3 Temparary Posts of Plauge Control team.\
+  [202504021529472417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021529472417.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -22,5 +22,19 @@
 - Budgetary Allocation 2024-25 Demand No.L-01,2049-Interest Payments,03-Interest on small Savings,Provident Funds etc.,104-Interest on State Provident Funds (20490771) (Charged),45-Interest\
   [202503311437250720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311437250720.pdf)
 
+- Regarding  administrative approval to the works at Karde Taluka Dapoli Dist. Ratnagiri under Konkan Rural Tourism Development Programme\
+  [202504021129086920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021129086920.pdf)
+
+## Miscellaneous
+- Government Circular on distribution of funds to District Councils of the State under Sant Sevalal Maharaj Banjara/Laman Tanda Samriddhi Yojana Accounts (2515 2753).\
+  [202504021449477020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021449477020.pdf)
+
+- Corrigendum - Regarding administrative approval for the change of work of Shri Bhairavnath and other Devasthan Trust Nimbut, Taluka Baramati, Dist. Pune.\
+  [202504021129068020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021129068020.pdf)
+
+## Personnel
+- Provisional seniority list of officers working in the cadre of Group Development Officer, Group-A in Maharashtra Development Service from 01.01.2023 to 31.12.2023\
+  [202504011736486520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011736486520.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

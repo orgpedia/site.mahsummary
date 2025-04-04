@@ -22,5 +22,11 @@
 - Regarding the distribution of funds for the programme for the beneficiaries of Scheduled Castes in the financial year 2024-25. (Account Head 2852A031)\
   [202503311449427122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311449427122.pdf)
 
+- Regarding making available funds through re-appropriation from the National Integrated Horticulture Development Scheme for disbursing funds from the budgetary provision for the year 2024-25 for the Scheduled Caste category for the Soil Health Card scheme under the National Agriculture Development Scheme\
+  [202504021452431622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021452431622.pdf)
+
+- Regarding the provision of funds through redistribution under the main account heading 22053626,16- Publications for publishing biographies of great national men\
+  [202504021437215322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021437215322.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

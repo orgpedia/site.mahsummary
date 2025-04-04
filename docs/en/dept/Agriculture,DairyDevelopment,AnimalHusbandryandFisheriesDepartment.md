@@ -38,6 +38,9 @@
 - Regarding the distribution of funds to Vasantrao Naik Marathwada Agricultural University, Parbhani for the financial year 2024-25 (Program Expenditure)...\
   [202503312250578501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312250578501.pdf)
 
+- Regarding approval for the relocation of the Institute of Divisional Disease Investigation Laboratory, Chiplun, Dist. Ratnagiri to the building of the Institute of Deputy Commissioner of Animal Husbandry, Quality Control Laboratory, Aarey Colony, Goregaon (East), Mumbai.\
+  [202504021804204701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021804204701.pdf)
+
 ## Personnel
 - Regarding promotion from Maharashtra Agricultural Service, Group-A (Deputy Director of Agriculture) cadre to Maharashtra Agricultural Service Group-A (Superintendent Agricultural Officer) cadre.....\
   [202504011444348601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011444348601.pdf)
