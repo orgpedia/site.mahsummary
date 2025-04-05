@@ -20,5 +20,8 @@
 - Regarding the formation of a committee to formulate a policy to regularize encroachment on government land in medium and small cities, or to promote planned urban development by leasing out such land and thereby increasing the income of urban local self-government bodies through development funds and property taxes.\
   [202504021251343725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021251343725.pdf)
 
+- Regarding granting improved administrative approval to the water management project used under Swachh Maharashtra Mission (Civil) 2.0 of Chopra Municipal Council, Panchgani Municipal Council, Rahimatpur Municipal Council, Shirdi Municipal Council, Y Municipal Council, Vita Municipal Council.\
+  [202504041747194925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041747194925.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

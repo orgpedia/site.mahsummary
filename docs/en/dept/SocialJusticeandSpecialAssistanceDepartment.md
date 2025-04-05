@@ -28,5 +28,15 @@
 - Regarding the provision of funds through redistribution under the main account heading 22053626,16- Publications for publishing biographies of great national men\
   [202504021437215322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021437215322.pdf)
 
+## Miscellaneous
+- Bharat Ratna Dr. Babasaheb Ambedkar Social Equality Week program.\
+  [202504041258285522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041258285522....pdf)
+
+- Regarding the utilization certificate of long-term loans given to Scheduled Caste cooperative yarn mills and the valuation of yarn mill machinery accordingly.\
+  [202504041617043722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041617043722.pdf)
+
+- Regarding the appointment of members to the State-level Third-Party Rights Protection and Welfare Board established for the welfare of third-party people in the state and for the protection of their rights.\
+  [202504031239159522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031239159522....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

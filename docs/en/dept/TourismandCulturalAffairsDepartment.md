@@ -224,6 +224,9 @@
 - Regarding financial approval for the conservation and repair works of various state protected monuments...\
   [202503312323087323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312323087323.pdf)
 
+- Posting on deputation to the post of Joint Managing Director, Maharashtra Film, Theatre and Cultural Development Corporation, Dadasaheb Phalke Chitranagari, Goregaon - Shri. Prashant Jagdish Sajanikar, Joint Secretary, General Administration Department, Mantralaya, Mumbai.\
+  [202504041653112623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041653112623.pdf)
+
 ## Personnel
 - Regarding financial approval of the budget for the expenditure incurred for the renovation work of P.L. Deshpande Maharashtra Kala Academy Prabhadevi, Mumbai and Ravindra Natya Mandir Awara for the installation of state-of-the-art cinema projectors, goods lifts and related matters.\
   [202503311839308523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311839308523.pdf)

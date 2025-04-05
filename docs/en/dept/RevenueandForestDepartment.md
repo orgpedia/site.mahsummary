@@ -40,6 +40,21 @@
 - State Plan Year 2024-25 Regarding the disbursement of funds under the scheme for construction of protective wall in Sanjay Gandhi National Park (State) (Programme) (4406-3849).\
   [202503311938040619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311938040619.pdf)
 
+- Regarding granting administrative approval for the construction of a new building for the office of the Deputy Registrar Grade-1, Warora, Dist. Chandrapur.\
+  [202504031722318519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031722318519.pdf)
+
+- Regarding granting administrative approval for the construction of a new building of the office of Deputy Registrar Class-2, Chandrapur No.1, Chandrapur No.2 and District Registrar Class-1, Chandrapur, Dist. Chandrapur (Nagpur Division).\
+  [202504031713351719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031713351719.pdf)
+
+- Regarding granting administrative approval for the construction of a new building for the office of the Deputy Registrar Grade-1, Koparna, Dist. Chandrapur.\
+  [202504031719519519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031719519519.pdf)
+
+- Regarding granting administrative approval for the construction of a new building for the office of the Deputy Registrar Grade-1, Sindewahi, Dist. Chandrapur.\
+  [202504031727184419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031727184419.pdf)
+
+- Regarding granting administrative approval for the construction of a new building for the office of the Deputy Registrar Grade-1, Bhadravati, Dist. Chandrapur.\
+  [202504031724423519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031724423519.pdf)
+
 ## Miscellaneous
 - State Plan Year 2024-25 Determination of Rights and Privileges-Rehabilitation of Villages in National Parks and Sanctuaries (2406-2241) Regarding distribution of funds under this scheme.\
   [202503311939494419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311939494419.pdf)
@@ -86,6 +101,9 @@
 - Regarding the distribution of funds under the state-level scheme for the modernisation and strengthening of Dr. Babasaheb Ambedkar Government Nurseries (2406 8613) for the year 2024-25.\
   [202503311832026919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311832026919.pdf)
 
+- Minor mineralDeepening/ straightening of village ponds/farm ponds/farm wells/ percolation ponds/villanels/revenue drains/dam construction/ex-malgujari ponds (Mama ponds)/minor irrigation ponds (M.I.Tanks) and deepening to stop flood damage under this scheme without levy...\
+  [202504031058202019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031058202019....pdf)
+
 ## Personnel
 - Continuation of 1283 Temporary Post of Nashik Division from 01/03/2025  to 31/08/2025.\
   [202504011517399919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011517399919.pdf)
@@ -119,6 +137,66 @@
 
 - Regarding extension of tenure of temporary posts at divisional and district level in Entertainment Fee Branch in Konkan, Pune, Nashik, Chhatrapati Sambhajinagar, Amravati and Nagpur divisions.\
   [202504021738138219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021738138219.pdf)
+
+- Regarding promotion in Deputy Director of Land Records cadre\
+  [202504031851454519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031851454519....pdf)
+
+- Regarding the continuation of 224 temporary posts created under the scheme for establishment of Special Tiger Protection Force (STPF) for Navegaon-Nagzira Tiger Reserve and Melghat Tiger Reserve in the year 2025-2026.\
+  [202504031803309219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031803309219.pdf)
+
+- Regarding continuation of 1 temporary post in the Assistant Conservator of Forests cadre at Nagzira Sanctuary in the year 2025-2026 under the non-scheme scheme Establishment of Maldhok Bird Sanctuary, Nagzira Sanctuary and Tadoba National Park.\
+  [202504031812597019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031812597019.pdf)
+
+- Regarding extension of 518 Circle Officer posts from 01.03.2025 to 31.08.2025\
+  [202504041523320119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041523320119.pdf)
+
+- Regarding continuation of 137 temporary posts created under the non-scheme scheme for wildlife protection and nature conservation in the year 2025-2026.\
+  [202504031809147319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031809147319.pdf)
+
+- Regarding continuation of 13 temporary posts created at the establishment of Chief Conservator of Forests and Area Director, Melghat Tiger Reserve, Amravati in the year 2025-26.\
+  [202504031754125419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031754125419.pdf)
+
+- Regarding promotion in Deputy Director of Land Records cadre\
+  [202504031905212619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031905212619.pdf)
+
+- Regarding the continuation of 1 temporary post in the Assistant Conservator of Forests cadre created under the scheme Creation of posts for Sanjay Gandhi National Park, Borivali in the year 2025-26 as per the order of the Honble High Court in Petition No. 305/1995 regarding encroachment in Sanjay Gandhi National Park, Borivali...\
+  [202504031752328619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031752328619.pdf)
+
+- Regarding the cancellation of the provision regarding deduction of 10 percent of the unearned amount of land value while acquiring the lands of tribal account holders for various government projects...\
+  [202504031819591919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031819591919.pdf)
+
+- Regarding continuation of 69 temporary posts in the establishment of Chief Conservator of Forests and Director, Sanjay Gandhi National Park, Borivali in the year 2025-2026...\
+  [202504031750283419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031750283419.pdf)
+
+- Regarding extension of 42 temporary posts from 01.03.2025 to 31.08.2025\
+  [202504041521005219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041521005219.pdf)
+
+- Provisional seniority list showing the status of Deputy Forest Engineer, Group-A (Gazetted) cadre as on 01.01.2025.\
+  [202504041204097719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041204097719.pdf)
+
+- Regarding continuation of 42 temporary posts created under the non-scheme scheme of Pench Tiger Project in the year 2025-2026.\
+  [202504031814474519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031814474519.pdf)
+
+- Regarding the continuation of 224 temporary posts created under the scheme for establishment of Special Tiger Protection Force (STPF) for Tadoba-Andhari Tiger Reserve and Pench Tiger Reserve in the year 2025-26.\
+  [202504031801059319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031801059319.pdf)
+
+- Regarding continuation of 10 temporary posts made available by category/adjustment under the scheme Establishment of Maharashtra State Zoological Museum Authority in the year 2025-26.\
+  [202504031807374819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031807374819.pdf)
+
+- Regarding continuation of 149 temporary posts created under the Biodiversity Conservation Program in the year 2025-26.\
+  [202504031816429419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031816429419.pdf)
+
+- Regarding continuation of the temporary posts of 100 forest guards created for the protection of protected areas in the year 2025-26.\
+  [202504031756356719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031756356719.pdf)
+
+- Final seniority list showing the status of Senior Personal Assistant, Group-A (Gazetted) cadre as on 01.01.2025.\
+  [202504041200149319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041200149319.pdf)
+
+- Regarding continuation of 104 temporary posts created under the non-scheme scheme of Nature Conservation and Wildlife Conservation, Tiger Project Melghat in the year 2025-26.\
+  [202504031811187119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031811187119.pdf)
+
+- Regarding continuation of 1 temporary post in the Assistant Conservator of Forests cadre transferred to Conservator of Forests and Area Director, Sanhyadri Tiger Reserve, Kolhapur in the year 2025-26...\
+  [202504031805198719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031805198719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

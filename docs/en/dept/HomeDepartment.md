@@ -47,6 +47,12 @@
 - Regarding approval to make available the services of security guards, constables and cleaners through external mechanisms for the Transport Commissioners Office and Regional Transport Offices.\
   [202504021751305729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021751305729.pdf)
 
+- Regarding granting ex-post facto approval to the proposal to pay the amount due for the rent of vehicles acquired on lease by the Superintendent of Police, Pune Rural for the arrangements for the Assembly Elections, 2024, amounting to Rs. 1,87,50,115/-.\
+  [202504041751099429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041751099429.pdf)
+
+- Regarding extension of tenure of 150 security personnel provided by external agencies (Maharashtra State Security Corporation) for daily security in the railway area for the period from 01/01/2025 to 31/12/2025.\
+  [202504041806065429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041806065429.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202503311233007629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311233007629.pdf)
@@ -56,6 +62,9 @@
 
 - Continuation of posts.\
   [202504021318478029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021318478029.pdf)
+
+- Regarding the termination of the suspension of Mrs. Munnowara Fazal Pakzade, Assistant Government Prosecutor and the reinstatement and appointment to the service.\
+  [202504031504116729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031504116729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

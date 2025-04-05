@@ -47,9 +47,30 @@
 - Extension to Deputation -Shri. Sanjay D. Kamalakar, Joint  Secretary.\
   [202504011811587607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011811587607.pdf)
 
+- Regarding filling up of vacant posts in Marathwada Administrative and Development Training Institute, Nathnagar (U) Paithan, Dist. Chhatrapati Sambhajinagar by deputation.\
+  [202504041139149707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041139149707.pdf)
+
+- Regarding filling up of various cadre vacancies in Divisional Police Grievance Authority Office, New  Mumbai and Nashik by deputation.\
+  [202504031520444807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031520444807.pdf)
+
+- Regarding filling up of vacant posts in Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Institute, Amravati by deputation.\
+  [202504031538198007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031538198007.pdf)
+
+- Regarding the Maratha reservation, the advisory board of Hon. Justice Shri M.G. Gaikwad (Retd) and Hon. Justice Shri Sandeep Shinde (Retd) formed under the chairmanship of Hon. Chief Justice Shri Dilip Bhosale (Retd) has been informed about the honorarium and other facilities...\
+  [202504021343171307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021343171307.pdf)
+
 ## Personnel
 - Trasnfer of Smt. Smita D. Nivatkar, Joint Secretary.\
   [202504011734026807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011734026807.pdf)
+
+- Regarding the restructuring of the governing board of the Pre-Service Education Institute, Chhatrapati Sambhajinagar...\
+  [202504021324146507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021324146507.pdf)
+
+- Provisional Common Seniority List of desk Officer Cadre dated 01.01.2024\
+  [202504041830279207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041830279207.....pdf)
+
+- Year-wise final common seniority list of the desk Officer cadre for the period from 01.01.2017 to 01.01.2023\
+  [202504041825346207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041825346207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

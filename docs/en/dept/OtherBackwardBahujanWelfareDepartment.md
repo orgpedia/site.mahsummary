@@ -41,5 +41,8 @@
 - Regarding administrative approval and distribution of funds for the year 2024-25 under the Vasantrao Naik Tanda Settlement Improvement Scheme....\
   [202503312102443634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312102443634.pdf)
 
+- Regarding changing the implementation mechanism of works in Buldhana district that have been given administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202504041818303134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041818303134.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,6 +13,9 @@
 - Corrigendum ...... Regarding the allocation of an amount of Rs. 44.90 crore under the approved fund for the financial year 2024-25 (21) under the objectives of materials and supply, to be made available and distributed to the Directorate of Medical Education and Research through reallocation of funds for the Government Medical Colleges and Hospitals.\
   [202503311422190713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311422190713.pdf)
 
+- Regarding the approval to outsource the biomedical waste management services at Padma Bhushan Vasantdada Patil Government Hospital, Sangli, to an external service provider.\
+  [202504021612172013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021612172013.pdf)
+
 ## Miscellaneous
 - Administrative approval for the purchase of machinery and equipment to Punyashloka Ahilyadevi Holkar Government Medical College and Hospital, Baramati\
   [202504011458521913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011458521913.pdf)
@@ -40,6 +43,9 @@
 
 - Regarding the approval for the transportation and disposal of biomedical waste at the Vilasrao Deshmukh Government Medical College and Hospital, Latur.\
   [202504021131027913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021131027913.pdf)
+
+- Regarding the approval to outsource the biomedical waste management services at the Super Speciality Hospital, Miraj, to an external service provider.\
+  [202504021131155013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021131155013.pdf)
 
 ## Personnel
 - Regarding granting approval for Security Guard Services at 06 Government Medical Colleges and attached Hospitals under the DMER.\

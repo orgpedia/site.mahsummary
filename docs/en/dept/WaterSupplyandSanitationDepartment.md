@@ -49,6 +49,9 @@
 - Revised Administrative approval to Mau. Dankhane Aadiwasiwadi , Tal. Roha, Dist. Raigad water supply scheme Under JJM.\
   [202504011527003928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011527003928.pdf)
 
+- To grant Revised Administrative Aapproval to Mouje Mhasrul (Banjarwasti), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450235828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450235828.pdf)
+
 ## Personnel
 - Revised Administrative approval to Mou. Tipe 1  2 Gra. Pa. Nimshevadi, (Tal. Malegaon, Dist- Nashik) water supply scheme Under JJM.\
   [202504011737150028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011737150028.pdf)
@@ -262,6 +265,60 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Yerangaon, Gram Panchayat Dabha, Taluka Hingna, District Nagpur under the Jal Jeevan Mission program.\
   [202504021145011928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021145011928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Dhangar vasti (Warud Kh.), Tq. Jafrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031448093228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031448093228.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Belora, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031449541128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031449541128.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Mhasrul, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450288828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450288828.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Sawarkhed Gondhan, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450465028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450465028.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Nalvihira, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031448294528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031448294528.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bhatodi (Bhorwasti), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450181828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450181828.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Dhangarvasti/Borgaon Wadi (Borgaon B.), Tq. Jafarabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031448236328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031448236328.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Wadala, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450341128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450341128.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bori (Khu.), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450096628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450096628.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Hanumantkheda, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031451024428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031451024428.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Shirala, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450398028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450398028.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Borgaon (Bu.), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031449594928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031449594928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Borgaon (Math.), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450045328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450045328.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Pokhari, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031449180728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031449180728.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bootkheda, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031449233328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031449233328.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Songiri, Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031450523928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031450523928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Pathade, nandgude vasti (Brahmapuri), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031448509628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031448509628.pdf)
+
+- To grant Revised Administrative Aapproval to Navle vasti (Davargaon), Tq. Jaffrabad, Dist. Jalna Water supply Scheme under Jal Jeevan Mission.\
+  [202504031448402028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031448402028.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

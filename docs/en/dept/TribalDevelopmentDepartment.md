@@ -31,6 +31,16 @@
 - Disbursement of funds under the Road Repair/Improvement (State Level) Scheme under the Tribal Component Programme for the financial year 2024-25 (Account Head 3054 2722)\
   [202503311421034624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311421034624.pdf)
 
+## Miscellaneous
+- To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2025-26. (BCW-salary )\
+  [202504031125275624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031125275624.pdf)
+
+- To release grant for the scheme of committed expenditure schemes under the TSP in financial year 2025-26.\
+  [202504031125321124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031125321124.pdf)
+
+- To release grant for the scheme of District annual sub-plan under the TSP in financial yera 2025-26. Demand No-T-9 (01- salary)\
+  [202504031125373124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031125373124.pdf)
+
 ## Personnel
 - Regarding extension of tenure of a total of 342 temporary posts in the office of Commissioner, Tribal Research and Training Institute, Pune and all Scheduled Tribe Certificate Examination Committee offices under him from 01.03.2025 to 31.08.2025.\
   [202504011531048424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011531048424.pdf)

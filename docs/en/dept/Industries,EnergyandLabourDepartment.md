@@ -37,6 +37,9 @@
 - Regarding approval of expenditure under the objective 34- Scholarships/Stipends under the Chief Ministers Employment Generation Programme (General) Scheme in the financial year 2024-25.\
   [202503312311560410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312311560410.pdf)
 
+- Financial assistance to be given to Maharashtra State Electricity Distribution Company Limited (with adjustment) for the year 2024-25 (Account Head 28015572) (Rs. 1706.22 crore) for providing concession in electricity tariff to agricultural pump consumers in the state ... Corrigendum\
+  [202504041505331510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041505331510.pdf)
+
 ## Miscellaneous
 - Regarding approval of the first phase of grant from the State Government for the construction of a shared facility center for the industrial cluster project of FMCG Agriculture Packaging Cluster, Dist. Nashik under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
   [202503311100053410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311100053410.pdf)
@@ -70,6 +73,12 @@
 
 - Regarding approval of the expenditure of the second phase of eligible grant on the part of the State Government for the construction of a shared facility center of the industrial cluster project of Garment Cluster, Chalisgaon, District Jalgaon under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
   [202503312112332510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503312112332510.pdf)
+
+- Regarding granting administrative approval to the proposal received under the scheme for creation and development of industrial infrastructure in the state (2024-25)\
+  [202504041511028310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041511028310.pdf)
+
+- Regarding permission to open an account in State Bank of India and use SBIePay payment gateway facility for the Friendship Cell operating under the Directorate of Industries\
+  [202504041646334110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041646334110.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

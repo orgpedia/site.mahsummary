@@ -25,6 +25,9 @@
 - Regarding  administrative approval to the works at Karde Taluka Dapoli Dist. Ratnagiri under Konkan Rural Tourism Development Programme\
   [202504021129086920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021129086920.pdf)
 
+- Regarding additional increase of Rs. 50,000/- from the state share in the subsidy provided to the beneficiaries under the centrally sponsored Pradhan Mantri Awas Yojana Rural Phase-2 (2024-25 to 2028-29).\
+  [202504041753278020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041753278020.pdf)
+
 ## Miscellaneous
 - Government Circular on distribution of funds to District Councils of the State under Sant Sevalal Maharaj Banjara/Laman Tanda Samriddhi Yojana Accounts (2515 2753).\
   [202504021449477020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021449477020.pdf)
@@ -35,6 +38,9 @@
 ## Personnel
 - Provisional seniority list of officers working in the cadre of Group Development Officer, Group-A in Maharashtra Development Service from 01.01.2023 to 31.12.2023\
   [202504011736486520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011736486520.pdf)
+
+- Continuation to the temporary post from 01.03.2025 to 31.08.2025 which created for the work of performance budget of Zillha Parishad. (G.R.)\
+  [202504041504427220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041504427220.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

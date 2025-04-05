@@ -28,6 +28,9 @@
 - Regarding disbursement of funds approved through supplementary demand in June-2024 to meet the expenses incurred for modernizing the Kitchen Department at the Regional Psychiatric Hospital, Pune.\
   [202503311921209217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311921209217.pdf)
 
+- Regarding approval of payment of contractual security services.\
+  [202504041205437817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041205437817.pdf)
+
 ## Miscellaneous
 - Regarding the reconstitution of Ayushman Bharat - Mission Maharashtra Committee.\
   [202504011728486817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011728486817.pdf)
@@ -40,6 +43,12 @@
 
 - Final seniority list dated 01.01.2024 for the post of Ophthalmologist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
   [202504021554034617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021554034617.pdf)
+
+- 15th Finance Commission- Regarding the disbursement of Rs. 60365.84 lakhs approved by the Central Government for the financial year 2023-24 from the budgetary provision for the year 2025-26 for strengthening the health system in the state\
+  [202504041052416817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041052416817.pdf)
+
+- Regarding the Restructuring of the Task Force established for Malaria Control in Gadchiroli District.- Corrigendum\
+  [202504041532083017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041532083017.pdf)
 
 ## Personnel
 - Regarding approval of one-time exemption of Rs. 79.00 lakhs from the Virtual Personal Deposit Account (VPDA) system under the account head 2235C457 for providing free spectacles to school children for the prevention of visual impairment\
@@ -65,6 +74,12 @@
 
 - Continuation of 3 Temparary Posts of Plauge Control team.\
   [202504021529472417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021529472417.pdf)
+
+- Regarding continuation of 223 temporary posts under National Leprosy Eradication Programme.\
+  [202504031715494717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031715494717.pdf)
+
+- Regarding continuation of 1 temporary post of Statistical Assistant in the office of Assistant Director, Health Services (Leprosy), Palghar  under National Leprosy Eradication Programme.\
+  [202504031715057317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031715057317.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
