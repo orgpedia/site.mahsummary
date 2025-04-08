@@ -1,76 +1,24 @@
 # General Administration Department
 
-**Date Range**: 07 April 2025 - 12 April 2025
+**Date Range**: 14 April 2025 - 19 April 2025
 
-
-## Funds
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure for the financial year 2024-25, under the Main Account Head 2052-Secretariat General Services 090-Secretariat (00) (16) Provision for implementing e-Governance Project (20525072) (Programme) below.\
-  [202503311847264207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311847264207.pdf)
-
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 31- Subsidiary Grant (Non-Salary) below to Setu Maharashtra Sanstha for implementing the e-Governance project under the Main Account Head 2052-Secretariat General Services 090-Secretariat (00)(11) for the financial year 2024-25.\
-  [202503311847184507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311847184507....pdf)
-
-- Demand No. A-2 (Committed/Voted) Re-appropriation of the provision under Major Head 2015-Election for the year 2024-25.\
-  [202503311737462807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311737462807.pdf)
 
 ## Miscellaneous
-- Demand No. A-1 (Mandatory/Voted) Redistribution of the provision under the main account head 2013  Council of Ministers.\
-  [202503311432070907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311432070907.pdf)
+- Regarding declaration of Competent authority pursuant to disciplinary action\
+  [202504071428462207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071428462207.pdf)
 
-- Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision of the Main Account Heads 2070, Other Administrative Services and 2052, Secretariat-General Services in the year 2024-25.\
-  [202503311514151307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311514151307....pdf)
-
-- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2024-25.\
-  [202503311847160307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311847160307.pdf)
-
-- Demand No. A-4 (Mandatory/Voted) Re-appropriation of the provision of the Main Heads of Account 2052, Secretariat-General Services and 2059, Public Works in the year 2024-25.\
-  [202503311522254707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503311522254707......pdf)
-
-- Regarding the relief of Shri. Rahul Atmaram Tidke, Director (Information) (News and Public Relations) from the post of deputation.\
-  [202504011448277407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011448277407.pdf)
-
-- Approval to send two pilots from the Directorate General of Civil Aviation, Mumbai to Dallas, USA for refresher training and approval of the training expenses.\
-  [202504011721002107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011721002107.pdf)
-
-- One Week In-Service training program for the year 2025-26 for All India Service Officers.\
-  [202504011453064407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011453064407.pdf)
-
-- Final seniority list of third and fourth class employees of Sahyadri/Nandgiri State Guest House as on 01.01.2024 and 01.01.2025.\
-  [202504011709551307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011709551307.pdf)
-
-- Regarding extension of the contract for providing aviation management services for government-owned aircraft Cessna Citation 560 XLS VT-VDD (aircraft) and Airbus H 145 VT GOV (helicopter).\
-  [202504011336578207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011336578207.pdf)
-
-- Regarding celebrating April 28th as Right to Service Day.....\
-  [202504011534578207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011534578207.pdf)
-
-- Extension to Deputation -Shri. Sanjay D. Kamalakar, Joint  Secretary.\
-  [202504011811587607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011811587607.pdf)
-
-- Regarding filling up of vacant posts in Marathwada Administrative and Development Training Institute, Nathnagar (U) Paithan, Dist. Chhatrapati Sambhajinagar by deputation.\
-  [202504041139149707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041139149707.pdf)
-
-- Regarding filling up of various cadre vacancies in Divisional Police Grievance Authority Office, New  Mumbai and Nashik by deputation.\
-  [202504031520444807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031520444807.pdf)
-
-- Regarding filling up of vacant posts in Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Institute, Amravati by deputation.\
-  [202504031538198007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504031538198007.pdf)
-
-- Regarding the Maratha reservation, the advisory board of Hon. Justice Shri M.G. Gaikwad (Retd) and Hon. Justice Shri Sandeep Shinde (Retd) formed under the chairmanship of Hon. Chief Justice Shri Dilip Bhosale (Retd) has been informed about the honorarium and other facilities...\
-  [202504021343171307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021343171307.pdf)
+- Repatriation from Deputation- Shri. Vinod S. Bondare, Deputy  Secretary\
+  [202504071130238807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071130238807.pdf)
 
 ## Personnel
-- Trasnfer of Smt. Smita D. Nivatkar, Joint Secretary.\
-  [202504011734026807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504011734026807.pdf)
+- Transfer of Joint Secretary- Shri. P. P. Badgeri, Joint  Secretary\
+  [202504071125366507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071125366507.pdf)
 
-- Regarding the restructuring of the governing board of the Pre-Service Education Institute, Chhatrapati Sambhajinagar...\
-  [202504021324146507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504021324146507.pdf)
+- Transfer of Deputy  Secretary- Shri. S.E. Andhale, Deputy  Secretary\
+  [202504071127506707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071127506707.pdf)
 
-- Provisional Common Seniority List of desk Officer Cadre dated 01.01.2024\
-  [202504041830279207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041830279207.....pdf)
-
-- Year-wise final common seniority list of the desk Officer cadre for the period from 01.01.2017 to 01.01.2023\
-  [202504041825346207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504041825346207.pdf)
+- Transfer of  Joint Secretary- Shri. S. H. Umaranikar, Joint   Secretary\
+  [202504071123477707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071123477707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
