@@ -18,5 +18,8 @@
 - Regular Selection List, 2024-25: Regarding promotion to the post of Senior Personal Assistant in the cadre of the Commissioner of Police, Brihanmumbai.\
   [202504071439188729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071439188729.pdf)
 
+- Regarding extension of tenure of the majority of posts created on the establishment of the units under the authority of the Director General of Police, Maharashtra State, Mumbai and Commissioner of Police, Brihanmumbai in the police department who were appointed from the Scheduled Tribe category but could not submit caste certificate.\
+  [202504081546532029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081546532029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

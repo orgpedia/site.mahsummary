@@ -13,6 +13,9 @@
 - New Administrative approval for protection wall around vacant place allotted for construction of new Court Building at District Court Jalgaon by revoking old administrative approval\
   [202504071740096712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071740096712.pdf)
 
+- Regarding granting administrative approval to the proposal for an amount of Rs. 9,81,500/- for the purchase of grip cover and pencil required for the iPad provided to the Office of the Public Prosecutor, High Court, Nagpur Bench.\
+  [202504081304404212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081304404212.pdf)
+
 ## Miscellaneous
 - Regarding amendment in the High Court, Bombay, Appellate side, Service Rules, 2000, by revising the pay scale in the Secretarial cadre- Corrigendum.\
   [202504071114421312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071114421312.pdf)

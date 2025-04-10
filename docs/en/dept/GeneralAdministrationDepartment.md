@@ -10,6 +10,9 @@
 - Repatriation from Deputation- Shri. Vinod S. Bondare, Deputy  Secretary\
   [202504071130238807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071130238807.pdf)
 
+- Regarding the formation of a Project Implementation Committee (PIC) to implement the online service system project Appointment to Retirement under the General Administration Department.\
+  [202504081823202707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081823202707.pdf)
+
 ## Personnel
 - Transfer of Joint Secretary- Shri. P. P. Badgeri, Joint  Secretary\
   [202504071125366507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071125366507.pdf)

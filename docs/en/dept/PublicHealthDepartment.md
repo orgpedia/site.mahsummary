@@ -24,5 +24,11 @@
 - Extension of 10 temporary posts in the office of Deputy Director, Health Services, State Health Education and Liaison Department, Pune.\
   [202504071500206117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071500206117.pdf)
 
+- Continuation of 147 temporary posts in 37 medical teams established for health check-ups of students in the tribal remedial sector.\
+  [202504071500145717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071500145717.pdf)
+
+- Regarding continuation of temporary posts under the authority of Deputy Director Health Services, Ch. Sambhajinagar Board, Ch. Sambhajinagar.\
+  [202504081259492417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081259492417.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

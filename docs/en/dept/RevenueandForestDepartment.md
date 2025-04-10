@@ -3,12 +3,19 @@
 **Date Range**: 14 April 2025 - 19 April 2025
 
 
+## Funds
+- Sand Policy-2025\
+  [202504081746028319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081746028319.pdf)
+
 ## Miscellaneous
 - To grant exemption for stamp duty and registration fee under  Salokha yojna\
   [202504071701570519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071701570519.pdf)
 
 - increasing the amount of document stamped by machine and increases in limit from Rs.5000/- to Rs.10,000/- for fracking\
   [202504071705143619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071705143619.pdf)
+
+- Regarding the establishment of a Special Investigation Team (SIT). Regarding the illegal purchase and sale of plots on a large scale by demolishing the illegal layout of reserved spaces in the Digras Municipal Council area, the Digras Municipal Council, Railways and Development Scheme.\
+  [202504081608293419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081608293419.pdf)
 
 ## Personnel
 - Regarding posting of officers in the Tehsildar cadre awaiting appointment.\
