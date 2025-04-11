@@ -7,5 +7,9 @@
 - Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2025-26\
   [202504071802423330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071802423330.pdf)
 
+## Personnel
+- Regarding publication of provisional seniority list of Group-A cadre officers under the jurisdiction of Deputy Commissioners of Women and Child Development Commissionerate, Maharashtra State, Pune and Integrated Child Development Service Scheme, Navi Mumbai as on 01.01.2025.\
+  [202504091258497030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091258497030.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,12 @@
 - Regarding the approval of funds from the state government for the Maharashtra Maritime Boards 26 percent participation in the Vadhan Port Development Project.....\
   [202504071807265529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071807265529.pdf)
 
+- Regarding obtaining administrative approval for setting up an electric charging station for buses running on electric systems in the premises near the scrapyard of the divisional workshop at Budhwarpeth in Solapur division.\
+  [202504091202540929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091202540929.pdf)
+
+- Regarding granting revised administrative approval for the work of setting up CCTV system in Zones 1,2,3 (Integration), 4 and 5 of Thane City Police Commissionerate at a total cost of Rs. 575,87,81,362/- (including GST).\
+  [202504091741068929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091741068929.pdf)
+
 ## Miscellaneous
 - Regarding payment of honorarium to the Chairman of the Honble Advisory Board established under the Preventive Detention Act.\
   [202504071210020929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071210020929.pdf)

@@ -73,6 +73,15 @@
 - Revised Administrative approval to Mou. Avghe-Junavne, (Tal. Shahada, Dist- Nandurbar) water supply scheme Under JJM.\
   [202504071603034628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071603034628.pdf)
 
+- Revised Administrative approval to Mou. Anturli (Tal. Muktainagar, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716121928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716121928.pdf)
+
+- Revised Administrative approval to Mou. Mondhale Pr.U, (Tal. Parola, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716361228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716361228.pdf)
+
+- Revised Administrative approval to Mou. Hingone Kh.Pr.A, (Tal. Amalner, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716493928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716493928.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Varud Tofa  ta.Risod  dist- Washim  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504071718375828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071718375828.pdf)
@@ -347,6 +356,93 @@
 
 - To grant Revised Administrative Aapproval to Mouje Kalamgaon, Tq. Shirur Anantpal , Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
   [202504071249396728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071249396728.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Salgara (Khu.), Tq. Latur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508590028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508590028.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bakli, Tq. Shirur Anantpal , Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071507503128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071507503128.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Daithana, Tq. Shirur Anantpal , Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071507389528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071507389528.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bolegaon (Khu), Tq. Chakur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508056928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508056928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Mutalgaon, Tq. Udgir, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508312828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508312828.pdf)
+
+- Revised Administrative approval to Mou. Dahivi, (Tal. Dindori, Dist- Nashik) water supply scheme Under JJM.\
+  [202504071716544628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716544628.pdf)
+
+- Revised Administrative approval to Mou. Lalmati, (Tal. Raver, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716405528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716405528.pdf)
+
+- Revised Administrative approval to Mou. Lohari Kh., (Tal. Pachora, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716448428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716448428.pdf)
+
+- Revised Administrative approval to Mou. Gauryapada (Tal. Chopda, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716225628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716225628.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Mohdal, Tq. Chakur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508393028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508393028.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Lakkada Javalaga, Tq. Shirur Anantpal , Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508437128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508437128.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Boral and Shivajinagar, Tq. Devani, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508009028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508009028.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Mahalangrawadi, Tq. Chakur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508223428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508223428.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Dhanegaon and Dhanegaon Tanda, Tq. Devani, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071507439428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071507439428.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Siranala, Tq. Chakur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508488928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508488928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Sakhar, Dagdawadi, Rampurmala, Tq. Latur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071509278828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071509278828.pdf)
+
+- To grant Revised Administrative Aapproval toMouje Bhokaramba, Tq. Renapur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508170428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508170428.pdf)
+
+- Revised Administrative approval to Mou. Kolhadi, (Tal. Bodvad, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716182728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716182728.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bibrala, Tq. Shirur Anantpal , Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071507551228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071507551228.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Manki, Tq. Devani, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508269128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508269128.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Salgara (Bu.), Dagdawadi, Rampurmala, Tq. Latur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071509035128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071509035128.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Kalmugli, Tq. Nilanga, Dist.  Latur Water supply Scheme under Jal Jeevan Mission\
+  [202504081142167928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081142167928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Dapkyal, Tq. Chakur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071507339628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071507339628.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Bolegaon, Tq. Devani, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508122828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508122828.pdf)
+
+- Revised Administrative approval to Mou. Lokhandevadi, (Tal. Dindori, Dist- Nashik) water supply scheme Under JJM.\
+  [202504071717035328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071717035328.pdf)
+
+- Revised Administrative approval to Mou. Navi Dabhadi, (Tal. Jamner, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716270928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716270928.pdf)
+
+- To grant Revised Administrative Aapproval to Mouje Syedpur (Bu.), Tq. Renapur, Dist. Latur Water supply Scheme under Jal Jeevan Mission.\
+  [202504071508537928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071508537928.pdf)
+
+- Revised Administrative approval to Mou. Mohandari, (Tal. Kalvan, Dist- Nashik) water supply scheme Under JJM.\
+  [202504071716588528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716588528.pdf)
+
+- Revised Administrative approval to Mou. Bhamalwadi (Tal. Raver, Dist- Jalgaon) water supply scheme Under JJM.\
+  [202504071716317028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716317028.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

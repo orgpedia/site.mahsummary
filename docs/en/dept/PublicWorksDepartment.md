@@ -22,5 +22,11 @@
 - Provisional seniority list of Assistant Engineer Grade-1 (Civil) in the Public Works Department as on 01.01.2025.\
   [202504081858014918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081858014918.pdf)
 
+- Provisional seniority list of the cadre of Superintending Engineer (Civil) in the Public Works Department as on 01.01.2023, 01.01.2024 and 01.01.2025.\
+  [202504091324114518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091324114518.pdf)
+
+- Regarding continuation of temporary posts in the offices under the jurisdiction of the Superintending Engineer, Vigilance and Quality Control Boards.\
+  [202504091114408318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091114408318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

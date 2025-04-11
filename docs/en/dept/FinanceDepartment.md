@@ -3,9 +3,16 @@
 **Date Range**: 14 April 2025 - 19 April 2025
 
 
+## Funds
+- Regarding government guarantee for the third tranche of Rs. 10,000 crore loan from M/s Power Finance Corporation Limited (PFCL) for infrastructure development projects being implemented by the Mumbai Metropolitan Region Development Authority.\
+  [202504091716198805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091716198805.pdf)
+
 ## Miscellaneous
 - Regarding fixing guidelines for externally supported loans.\
   [202504081257189605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081257189605.pdf)
+
+- Instructions regarding updating of data in the service system...\
+  [202504091557459805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091557459805.pdf)
 
 ## Personnel
 - Fund Release 2025-26\

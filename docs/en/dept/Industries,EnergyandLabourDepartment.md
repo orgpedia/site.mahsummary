@@ -7,6 +7,10 @@
 - Regarding granting administrative and financial approval to the proposal for construction of a new industrial building for Solapur district.\
   [202504071622172410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071622172410.pdf)
 
+## Miscellaneous
+- Appointment of a Bid Process Coordinator (BPC)  for Tariff Based Competitive Bidding(TBCB) for new transmission projects in the State.\
+  [202504091808424810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091808424810.pdf)
+
 ## Personnel
 - Regarding extension of 103 temporary posts in various industrial courts in the state from 1.3.2025 to 31.8.2025\
   [202504071735375310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071735375310.pdf)
