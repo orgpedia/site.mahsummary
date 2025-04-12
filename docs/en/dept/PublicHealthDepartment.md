@@ -17,6 +17,9 @@
 - Establish a state-level committee to examine all the health problems of the tribal people in the tribal areas of the state and suggest measures to reduce them - Corrigendum\
   [202504091616496317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091616496317.pdf)
 
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202504111248371217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111248371217.pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list of working officers in Group-A and Group-B cadres of State Workers Insurance Scheme as on 01.01.2025.\
   [202504071105341617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071105341617.pdf)
@@ -44,6 +47,9 @@
 
 - regarding the continuation of a total of 324 temporary posts in mental health related health institutions in the state.\
   [202504091537193517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091537193517.pdf)
+
+- Regarding Continuation of 264 temporary posts under National Tuberculosis Control Programme.\
+  [202504111759452317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111759452317.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

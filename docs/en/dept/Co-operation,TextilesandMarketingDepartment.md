@@ -23,5 +23,8 @@
 - Regarding the reorganization of the committee regarding the operation of financially sick/insolvent cooperative sugar factories and their subsidiaries in the state on partnership/association/tenancy basis.\
   [202504091440228302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091440228302.pdf)
 
+- Regarding granting administrative approval to the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Ambajogai, District Beed..... Government Corrigendum.\
+  [202504111737442402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111737442402.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Sand Policy-2025\
   [202504081746028319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081746028319.pdf)
 
+- Regarding granting administrative approval to the budget of Rs. 3,68,76,000/- for the construction of a new building at the Divisional Forest Officer, Social Forestry Beed Office.\
+  [202504111610474819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111610474819.pdf)
+
 ## Miscellaneous
 - To grant exemption for stamp duty and registration fee under  Salokha yojna\
   [202504071701570519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071701570519.pdf)
@@ -25,6 +28,9 @@
 
 - Forest Land-Bhandara Diversion of 0.7830 ha. Forest Land under Van (Sanrakshan Evam Samvardhan) Adhiniyam 1980 for laying close Pipe Line distribution system from 600 Meter to 1140 meter on Sorna Feeder Canal of Sorna Medium Project at Village Bawanthadi South Block No.12, Taluka Tumsar, Dist. Bhandara in the State of Maharashtra.\
   [202504091318048119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091318048119.pdf)
+
+- Forest Land - Nashik Diversion of 12.05 ha. Forest land in favour of Minor Irrigation Division, Nashik for construction of Shribhuvan Minor Irrigation Tank, Irrigation cum drinking water supply project Tank at Shribhuvan Tal. Surgana Dist. Nashik in the State of Maharashtra.\
+  [202504111857584919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111857584919.pdf)
 
 ## Personnel
 - Regarding posting of officers in the Tehsildar cadre awaiting appointment.\
@@ -47,6 +53,21 @@
 
 - Regarding the transfer rights of officers in the District Superintendent of Land Records (Group-A) cadre.\
   [202504091539107119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091539107119.pdf)
+
+- To give approval to compulsory waiting period as a duty period of shri. H.M.Jamdade Joint Sub Register  Class-2\
+  [202504111541333119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111541333119.pdf)
+
+- Regarding extension for a period of six months  from 01.03.2015 to 31.08.2025 to 51 ad hoc posts on the Land Acquisition and Rehabilitation establishment of  Divisional Commissioner, Amravati and all Districts in the Amravati Divisions .\
+  [202504111627218919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111627218919.pdf)
+
+- Regarding extension for a period of six months  from 01.03.2015 to 31.08.2025 to 33 ad hoc posts on the Rehabilitation establishment  of  Divisional Commissioner, Nagpur and the  Districts in the Nagpur Divisions .\
+  [202504111629471419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111629471419.pdf)
+
+- Regarding extension  for a period of six months from 01.03.2025 to 31.08.2025 to 13 ad hoc posts of Land Acquisition, Rehabilitation and Resettlement Authority, Chhatrapati Sambhajinagar.\
+  [202504111623088719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111623088719.pdf)
+
+- Regarding extension  for a period of six months from 01.03.2025  to 31.08.2025 to 13 ad hoc posts of Land Acquisition, Rehabilitation and Resettlement Authority, Nagpur.\
+  [202504111625168019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111625168019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

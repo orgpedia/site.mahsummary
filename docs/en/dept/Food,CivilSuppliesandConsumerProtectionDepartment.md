@@ -20,6 +20,9 @@
 - Regarding the assignment of additional charge of the vacant post of Deputy Commissioner (Supply), Group-A, Amravati Division, Amravati...\
   [202504091150248306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091150248306.pdf)
 
+- National Food Security Act, 2013 - Regarding the establishment of a committee to examine the matter of changing the criteria prescribed for eligible beneficiaries of the Priority Family Scheme.\
+  [202504111550145406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111550145406.pdf)
+
 ## Personnel
 - Regarding transfer of vehicle No. MH 01 AN 004 Corolla Toyota Altis, which is for the use of the Joint Secretary and Director of the Office of the Supply Commissioner, to the Office of the Controller of Rationing and Director of Civil Supplies, Mumbai.\
   [202504091428333406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091428333406.pdf)

@@ -21,5 +21,8 @@
 - Regarding continuation of 107 temporary posts in various labour courts in the state from 01.03.2025 to 31.08.2025.\
   [202504071729215810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071729215810.pdf)
 
+- Regarding temporary promotion to the post of Additional Labour Commissioner (Group-A) S-25 (Rs.78800-209200).\
+  [202504111620341410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111620341410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

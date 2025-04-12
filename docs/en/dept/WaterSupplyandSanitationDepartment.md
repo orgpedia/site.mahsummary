@@ -82,9 +82,48 @@
 - Revised Administrative approval to Mou. Hingone Kh.Pr.A, (Tal. Amalner, Dist- Jalgaon) water supply scheme Under JJM.\
   [202504071716493928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716493928.pdf)
 
+- Regarding giving Revised administrative approval to the regional water supply scheme Kolam pod  ta.Maregaon  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111137304128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111137304128.pdf)
+
+- Revised Administrative approval to Mau. Petharanjani, Tal. Wada, Dist. Palghar water supply scheme Under JJM.\
+  [202504111613115228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111613115228.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Hatwanjari Pod  ta.Maregaon dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138213228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138213228.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Gawaralla Camp  ta.Maregaon dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111137390228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111137390228.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Pardhi beda ta.Maregaon  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138057628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138057628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme gavhankund  ta.warud  dist- amravati  for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138363728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138363728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Gargoti pod (Rohpat)  ta.Maregaon dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111137442728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111137442728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme jambhora  ta.Chikhali dist-Buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138425028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138425028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Mukta  ta.Maregaon  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138112728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138112728.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Varud Tofa  ta.Risod  dist- Washim  for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504071718375828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071718375828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Ghatodi  aasarpend  ta.Pusad   dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111137497628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111137497628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Dongargaon  ta.Mahagaon dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138004728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138004728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Tokwanjri  ta.Kelapur  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111137552528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111137552528.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Sarode pod (Bhalewadi)  ta.Maregaon  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504111138162328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111138162328.pdf)
 
 ## Personnel
 - Revised Administrative approval to Mau. Tural Harekarwadi, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.\
@@ -443,6 +482,15 @@
 
 - Revised Administrative approval to Mou. Bhamalwadi (Tal. Raver, Dist- Jalgaon) water supply scheme Under JJM.\
   [202504071716317028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071716317028.pdf)
+
+- Revised Administrative approval to Mau. Ozar, Tal. Javhar, Dist. Palghar water supply scheme Under JJM.\
+  [202504111613063328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111613063328.pdf)
+
+- Revised Administrative approval to Mau. Virhe, Tal. Wada, Dist. Palghar water supply scheme Under JJM.\
+  [202504111612584028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111612584028.pdf)
+
+- Revised Administrative approval to Mau. Moj, Tal. Wada, Dist. Palghar water supply scheme Under JJM.\
+  [202504111613003028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111613003028.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

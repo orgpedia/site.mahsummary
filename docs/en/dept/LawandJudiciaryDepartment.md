@@ -16,6 +16,9 @@
 - Regarding granting administrative approval to the proposal for an amount of Rs. 9,81,500/- for the purchase of grip cover and pencil required for the iPad provided to the Office of the Public Prosecutor, High Court, Nagpur Bench.\
   [202504081304404212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081304404212.pdf)
 
+- Regarding granting administrative approval for the renovation work of the Hon. Chief Justices office at the Aurangabad Bench of the Hon. High Court.\
+  [202504111546170612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111546170612.pdf)
+
 ## Miscellaneous
 - Regarding amendment in the High Court, Bombay, Appellate side, Service Rules, 2000, by revising the pay scale in the Secretarial cadre- Corrigendum.\
   [202504071114421312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071114421312.pdf)
@@ -31,6 +34,9 @@
 
 - Ancillary works for Residential Quarters for Civil Judge (J.D.) at Shirur Kasar, Dist Beed.\
   [202504071749302912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071749302912.pdf)
+
+- Constitution of Review Committee and Representation Committee for Service Review of Employees in the Office of The Administrator General and Official Trustee, Maharashtra State, Mumbai.\
+  [202504111103343712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111103343712.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,13 @@
 **Date Range**: 14 April 2025 - 19 April 2025
 
 
+## Funds
+- Regarding granting administrative and financial approval for the purchase of necessary telephones for the offices and official residences of the Honble Chief Minister/Deputy Chief Minister/Minister/Minister of State in the Ministry.\
+  [202504111652047807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111652047807.pdf)
+
+- Marathwada Administrative and Development Training Institute, Nathnagar (North), Paithan Dist. Chhatrapati Sambhajinagar Subsidiary Grant for the year 2025-26 (Compulsory) (First Installment)\
+  [202504111636010007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111636010007.pdf)
+
 ## Miscellaneous
 - Regarding declaration of Competent authority pursuant to disciplinary action\
   [202504071428462207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071428462207.pdf)
@@ -36,6 +43,15 @@
 
 - Regarding filling up of 01 post of Administrative Officer on deputation in the office of Project Coordination and Management Cell, Pune under Balasaheb Thackeray (Maharashtra State) Agribusiness and Rural Transformation (SMART) Project\
   [202504091621057207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091621057207.pdf)
+
+- Regarding changes in the account headings of the Soldiers Welfare Department, Pune office.\
+  [202504111440279407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111440279407.pdf)
+
+- Regarding the formation of a committee to complete BharatNet Phase-2...\
+  [202504111742338007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111742338007....pdf)
+
+- Regarding formation of Procurement Committee: General Administration (Administrative Innovation, Excellence and Good Governance) Department.\
+  [202504111913501407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111913501407.pdf)
 
 ## Personnel
 - Transfer of Joint Secretary- Shri. P. P. Badgeri, Joint  Secretary\

@@ -28,5 +28,8 @@
 - Regarding continuation of temporary posts in the offices under the jurisdiction of the Superintending Engineer, Vigilance and Quality Control Boards.\
   [202504091114408318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091114408318.pdf)
 
+- Regarding publishing the consolidated very provisional seniority list of Civil Engineering Assistant cadre for the period 01.01.2020, 01.01.2021, 01.01.2022, 01.01.2023, 01.01.2024 and 01.01.2025.\
+  [202504111321216718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111321216718.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
