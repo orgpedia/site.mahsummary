@@ -7,6 +7,9 @@
 - Administrative Approval to Renovation work of Juli Kharland Scheme   Tal. Vasai , Dist- Palghar\
   [202504081601481227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081601481227.pdf)
 
+- Administrative Approval under Special Repairs regarding  Dam Safety Work  of   Pitching of Main Dam and Saddle dam and desilting work of Cross Drain and Toe Drain\
+  [202504111212391027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111212391027.pdf)
+
 ## Miscellaneous
 - Continuation of posts.\
   [202504081333425027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081333425027.pdf)
@@ -92,6 +95,15 @@
 
 - Regarding extension of tenure of the posts of Superintending Engineer, Bhandara Irrigation Board, Bhandara and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/03/2025 to 31/08/2025.\
   [202504091843162227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091843162227.pdf)
+
+- Continuation of posts.\
+  [202504111601331327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111601331327.pdf)
+
+- Continuation of posts.\
+  [202504111616406727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111616406727.pdf)
+
+- Continuation of posts.\
+  [202504111605482927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111605482927.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

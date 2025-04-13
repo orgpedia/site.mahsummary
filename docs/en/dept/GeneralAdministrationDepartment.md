@@ -53,6 +53,9 @@
 - Regarding formation of Procurement Committee: General Administration (Administrative Innovation, Excellence and Good Governance) Department.\
   [202504111913501407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504111913501407.pdf)
 
+- Appointment of Shri. Pravin Pardeshi (Retd. IAS) as a Chief Financial Advisor to Honble. Chief Minister\
+  [202504121822382407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504121822382407.pdf.pdf)
+
 ## Personnel
 - Transfer of Joint Secretary- Shri. P. P. Badgeri, Joint  Secretary\
   [202504071125366507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071125366507.pdf)
