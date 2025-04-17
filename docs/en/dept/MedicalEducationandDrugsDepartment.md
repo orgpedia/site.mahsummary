@@ -1,21 +1,29 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 14 April 2025 - 19 April 2025
+**Date Range**: 21 April 2025 - 26 April 2025
 
-
-## Funds
-- Construction of Government Medical College having 100 Students Capacity  430 Bedded connected Hospital, Girls  Boys Hostel and Residential Quarters at Dharashiv, Tal. Dist.Dharashiv.\
-  [202504071105059713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071105059713.pdf)
 
 ## Miscellaneous
-- Regarding the approval to arrange for the rental of a four-wheeled vehicle for the Dean of the Government Dental College and Hospital, Nagpur, under the DMER, for official purposes.\
-  [202504071525090513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504071525090513.pdf)
+- Final seniority list of the posts of Assistant Professor, Otolaryngology, Group-B as on 1.1.2025...\
+  [202504081211496213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081211496213.pdf)
 
-- Regarding increasing the admission capacity for the Postgraduate Dental Degree course in three subjects at Yogita Dental College and Hospital of Shivtej Health Services Institute, Ratnagiri\
-  [202504091454325313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091454325313.pdf)
+- Final seniority list of the post holders of Assistant Professor, Dermatology and Oncology, Group-B cadre as on 1.1.2025\
+  [202504161136419213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161136419213.pdf)
 
-- Regarding preparation of regulations regarding sharing the treatment expenses of needy/poor patients through crowd funding\
-  [202504091454392413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504091454392413.pdf)
+- Final seniority list of gazetted posts in the category of Assistant Professor, Gynecology and Obstetrics (Group-B) as on 1.1.2024...\
+  [202504161137037413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161137037413.pdf)
+
+- Regarding increasing the student intake capacity of Postgraduate Dentistry Degree Course in  Pandit Deendayal Upadhyay Dental College, Kegaon, Solapur\
+  [202504161601293413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161601293413.pdf)
+
+- Final seniority list of gazetted posts in the cadre of Assistant Professor, Preventive and Social Medicine (Group-B) as on 1.1.2024 and 1.1.2025\
+  [202504161136397813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161136397813.pdf)
+
+- Revised final seniority list of gazetted teachers in the category of Assistant Professor, Surgery (Group-B) as on 1.1.2024 and 1.1.2025...\
+  [202504081211477013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504081211477013.pdf)
+
+- Final seniority list of gazetted posts in the cadre of Assistant Professor, Psychiatry (Group-B) as on 1.1.2024 and 1.1.2025...\
+  [202504161136568013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161136568013.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

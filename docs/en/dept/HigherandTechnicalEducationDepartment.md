@@ -7,6 +7,12 @@
 - Regarding continuation of appointment of lecturers in Government Technical Colleges after completing their probationary period.\
   [202504151533191208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151533191208.pdf)
 
+- Regarding granting administrative approval for the purchase of necessary furniture for Government Model Degree College, Nandurbar College - Corrigendum.\
+  [202504161601475408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161601475408.pdf)
+
+- Regarding opening of New Budget Head for De-Novo University.\
+  [202504161211338208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161211338208.pdf)
+
 ## Personnel
 - Regarding continuation of temporary posts in the Directorate of Libraries, Mumbai and offices under the Directorate.\
   [202504151733258408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151733258408.pdf)
