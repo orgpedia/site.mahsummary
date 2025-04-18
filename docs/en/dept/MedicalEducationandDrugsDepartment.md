@@ -25,5 +25,11 @@
 - Final seniority list of gazetted posts in the cadre of Assistant Professor, Psychiatry (Group-B) as on 1.1.2024 and 1.1.2025...\
   [202504161136568013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161136568013.pdf)
 
+- Final seniority list of gazetted posts in the cadre of Assistant Professor, Pediatrics (Group-B) as on 1.1.2024\
+  [202504161136509813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161136509813.pdf)
+
+- Shri. Gurudatta Pratishthan Nanded regarding Nanded Rural Dental College and Research Centre, Nanded starting a new Dental Postgraduate Degree course in 05 subjects\
+  [202504171751160713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171751160713.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -17,5 +17,8 @@
 - Regarding the inclusion of one police constable and one police naik in the Special Investigation Team (SIT) constituted to investigate the murder of Sarpanch Late Shri. Santosh Panditrao Deshmukh of Massajog, Taluka Kage, Dist. Beed\
   [202504161616030129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161616030129.pdf)
 
+- Final seniority list of Assistant Commissioner (Group-B) cadre in the State Excise Department as on 01.01.2019, 01.01.2020, 01.01.2021, 01.01.2022, 01.01.2023 and 01.01.2024.\
+  [202504171600494629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171600494629.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

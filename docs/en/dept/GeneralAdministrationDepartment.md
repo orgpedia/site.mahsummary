@@ -14,6 +14,12 @@
 - Regarding CPTP-10, Section Officer Cadre, Mantralaya..\
   [202504161455333907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161455333907.pdf)
 
+- Regarding the implementation of the Telecommunications Infrastructure Policy 2024.\
+  [202504171912229807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171912229807.pdf)
+
+- Regarding extension of the period of deputation on the post of Chief Officer in the office of Bodwad Nagar Panchayat, Jalgaon District, Shri. Gajanan H. Tayde, Desk Officer\
+  [202504171620383007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171620383007.pdf)
+
 ## Personnel
 - Final seniority list of Group-B (Non-Gazetted) and Group-C cadre officers/employees of the administrative side of the Ministrys Food/Canteen establishment as on 01 January, 2025. (01.01.2024 to 31.12.2024)\
   [202504161237100907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161237100907.pdf)

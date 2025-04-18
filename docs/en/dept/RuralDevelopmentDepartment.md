@@ -29,5 +29,18 @@
 - Cancellation of Administrative Approval given to the work under MMGSY(II) (Batch-1) in chandrapur District\
   [202504161318203420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161318203420.pdf)
 
+- Regarding creation of a total 73 supernumerary posts for 2 years for 12 trainee officers in Block Development Officer, Group-A and 61 trainee officers in Assistant Block Development Officer, Group-B recommended by Maharashtra Public Service Commission on the basis of final result of State Service Examination-2022\
+  [202504171214256820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171214256820.pdf)
+
+## Personnel
+- Regarding temporary promotion to vacancies in regular promotion quota of employees in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Amravati Division- (Select List Year 2024-25)\
+  [202504171524323020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171524323020.pdf)
+
+- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra Development Service, Assistant Block Development Officer, Group-B in Amravati Division - (Select List Year 2024-25)\
+  [202504171524296420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171524296420.pdf)
+
+- Regarding ad hoc promotion to the posts in direct service quota of employees in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Amravati Division- (Select List Year 2024-25)\
+  [202504171524391420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171524391420.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

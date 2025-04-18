@@ -18,5 +18,8 @@
 - Regarding continuation of temporary posts in Taluka Seed Multiplication Center under Agriculture Commissionerate from 01st March, 2025 to 31st August, 2025... (Total 248 posts)\
   [202504161501257201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161501257201.pdf)
 
+- Delegation of Powers regarding transfer of Group A, Group B, Group C and Group D of Agriculture Department.\
+  [202504171004352501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171004352501.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

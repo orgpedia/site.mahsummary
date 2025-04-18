@@ -20,5 +20,8 @@
 - Regarding the transfer of Inspection Officer (Supply)/Circular Officer, Group-B (Gazetted)...\
   [202504161308180406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161308180406.pdf)
 
+- Final State Level Seniority List showing the status of the cadre of Inspection Officer (Supply)/Circular Officer, Group-B (Gazetted) as on 01.01.2025....\
+  [202504171546533106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171546533106....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

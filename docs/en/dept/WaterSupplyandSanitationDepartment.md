@@ -43,6 +43,12 @@
 - Revised Administrative approval to Mou. Padali,  Tal.Shirala, Dist. Sangali  water supply scheme Under JJM.\
   [202504161129464328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161129464328.pdf)
 
+- Regarding distribution of funds to the concerned Zilla Parishads for the salaries of employees working on Converted Regular Temporary (CRT) establishments on water supply schemes for the financial year 2025-26. Account Head 22151914\
+  [202504171627138028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171627138028.pdf)
+
+- Revised Administrative approval to Mau.  Sadavali, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202504171254181128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171254181128.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Navegaon   ta.wani dist- yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504151221072128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151221072128.pdf)

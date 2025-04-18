@@ -14,5 +14,8 @@
 - Regarding the continuation of staff category temporary posts from 01.03.2025 to 31.08.2025 for continuous and concurrent audit of cooperative societies.\
   [202504151611094502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151611094502.pdf)
 
+- Hon.Chief Ministers Market Committee Scheme  - Regarding establishment of new Agricultural Produce Market Committee at each taluka level.\
+  [202504171251016802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171251016802.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
