@@ -1,25 +1,18 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 21 April 2025 - 26 April 2025
+**Date Range**: 28 April 2025 - 03 May 2025
 
 
 ## Funds
-- Regarding the formation of State Oilseeds Mission (SOSM) Committee, District Oilseeds Mission Committee and prescribing the responsibilities of the State Mission Director (NMEO-OS) for effective implementation and monitoring of National Edible Oil Mission-Oilseeds (NMEO-OS).\
-  [202504161848115901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161848115901.pdf)
+- Regarding granting administrative approval for implementing the Assistance for Improvements in the States Agricultural Extension Programs (ATMA) Scheme in the year 2025-26 under the Agricultural Promotion Scheme (KY), Agriculture Extension Sub-Mission.\
+  [202504211442481101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211442481101....pdf)
+
+- Regarding granting administrative approval to the annual work plan of Rs. 6083.73 lakhs for implementing the Soil Health and Fertility Programme (SHF) under the National Agricultural Development Scheme (PM RKVY) in the year 2025-26.\
+  [202504211748187701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211748187701.pdf)
 
 ## Miscellaneous
-- Regarding the development of a comprehensive Farmer Field School (FFS) app and a Learning Management System (LMS) app -\
-  [202504151840415401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151840415401.pdf.pdf)
-
-- PHASEWISE ACTION UNDER SINGLE WINDOW INTERFACE\
-  [202504161633082801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161633082801.pdf)
-
-## Personnel
-- Regarding continuation of temporary posts in Taluka Seed Multiplication Center under Agriculture Commissionerate from 01st March, 2025 to 31st August, 2025... (Total 248 posts)\
-  [202504161501257201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161501257201.pdf)
-
-- Delegation of Powers regarding transfer of Group A, Group B, Group C and Group D of Agriculture Department.\
-  [202504171004352501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171004352501.pdf)
+- Distribution of Budget Estimates of the Agriculture Department for the Financial Year 2025-26 (Agriculture, Horticulture and Universities)\
+  [202504211708257001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211708257001.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

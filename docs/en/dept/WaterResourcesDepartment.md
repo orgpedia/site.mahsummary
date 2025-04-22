@@ -1,24 +1,27 @@
 # Water Resources Department
 
-**Date Range**: 21 April 2025 - 26 April 2025
+**Date Range**: 28 April 2025 - 03 May 2025
 
 
-## Funds
-- Regarding granting administrative approval to the budget for preparation of the remaining survey, conceptual design and detailed project report of the Dhanora Project on the Wardha River (Dhanora Barrage and Dhanora-2 Lift Irrigation Scheme).\
-  [202504161603463327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161603463327.pdf)
-
-- In the Patalganga River, May. Rocking Bombay Brewery, Mauje Khanaw, Ta. Khalapur, Dist. Raigad Water Reservation for Industrial Use Large Scale Non-Irrigation Water Entitlement Proposed\
-  [202504171655440827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171655440827.pdf)
+## Miscellaneous
+- Regarding publication of provisional seniority list dated 01.01.2024 of Assistant Engineer Grade-2 (Electrical and Mechanical), Group-B cadre in Water Resources Department.\
+  [202504211605582327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211605582327.pdf)
 
 ## Personnel
-- Bulk Water Entitlement Proposal to M/s Megha Engineering and Infrastructure Limited, Hyderabad for development of Kamod Udanchan Hydroelectric Project (2000 MW) from Rangavali Medium Project, Tal. Navapur, Dist. Nandurbar\
-  [202504171657434327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171657434327.pdf)
+- Regarding extension of tenure of the fixed temporary posts under the Superintending Engineer and Administrator, Benefit Area Development Authority, Ahilyanagar for the period from 01/03/2025 to 31/08/2025.\
+  [202504211745193727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211745193727.pdf)
 
-- Extension of tenure of posts on fixed temporary establishment in the office of Maharashtra Madhya Pradesh Interstate Control Board, Nagpur from 01.03.2025 to 31.08.2025.\
-  [202504171845245827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171845245827.pdf)
+- Regarding extension of tenure of the posts of Executive Engineer, Minor Irrigation Division No. 1, Pandharpur and its sub-divisional offices under the Superintendent Engineer, Pune Irrigation Project Board, Pune on fixed temporary establishment and converted temporary establishment from 01/03/2025 to 31/08/2025.\
+  [202504211742497427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211742497427.pdf)
 
-- Regarding the approval of Bulk Water Entitlement reservation to M/s Megha Engineering and Infrastructure Limited, Hyderabad for the development of Bahula Medium Project Tal. Pachora Dist. Jalgaon to Ghosla Udanchan Hydroelectric Project (2000 MW) at Tal. Soygaon Dist. Chhatrapati Sambhajinagar.\
-  [202504171653067427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171653067427.pdf)
+- Regarding extension of tenure of the posts of Superintendent Engineer, Ratnagiri Irrigation Board, Kuwarbaon, Ratnagiri on fixed temporary establishment and converted temporary establishment in the Board office and 2 divisional offices under the Board for the period from 01/03/2025 to 31/08/2025.\
+  [202504211755260227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211755260227.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Upper Wardha Irrigation Board, Amravati and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/03/2025 to 31/08/2025.\
+  [202504211739448027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211739448027.pdf)
+
+- Regarding extension of tenure of posts on fixed temporary establishment and posts on converted temporary establishment in the Superintending Engineer, Pune Irrigation Board, Pune and 5 divisional offices under him for the period from 01/03/2025 to 31/08/2025\
+  [202504211805594127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211805594127.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
