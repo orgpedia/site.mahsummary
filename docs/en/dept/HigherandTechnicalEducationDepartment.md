@@ -1,39 +1,24 @@
 # Higher and Technical Education Department
 
-**Date Range**: 21 April 2025 - 26 April 2025
+**Date Range**: 28 April 2025 - 03 May 2025
 
 
 ## Miscellaneous
-- Regarding continuation of appointment of lecturers in Government Technical Colleges after completing their probationary period.\
-  [202504151533191208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151533191208.pdf)
+- Regarding the announcement of Office Head and Drawing and Disbursement Officer for the office of District Library Officer, District Library Officer Office, Palghar.\
+  [202504211738009708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211738009708.pdf)
 
-- Regarding granting administrative approval for the purchase of necessary furniture for Government Model Degree College, Nandurbar College - Corrigendum.\
-  [202504161601475408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161601475408.pdf)
+- Regarding extension of time for final approval of new law colleges for the academic year 2025-26.\
+  [202504211301015008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211301015008.pdf)
 
-- Regarding opening of New Budget Head for De-Novo University.\
-  [202504161211338208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504161211338208.pdf)
-
-- Regarding the assignment of additional charge of the posts of Presiding Officers of the Vidyapeeth and College Tribunals, Mumbai and Nagpur.\
-  [202504171129365308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171129365308.pdf)
-
-- Regarding the formation of a committee to amend the Maharashtra Public Universities Act, 2016.\
-  [202504172034328808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504172034328808.pdf)
-
-- Regarding cancellation of the letter of intent granted to start a new college for the academic year 2024-25.\
-  [202504171538051408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171538051408.pdf)
-
-- Regarding strengthening of tribal study centers in public universities in tribal-dominated areas and establishment of new tribal study centers.\
-  [202504171907599408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171907599408.pdf)
-
-- Regarding the constitution of a committee to review the provisions of the Maharashtra Unaided Private Professional Educational Institutions (Regulation of Admission and Fees) Act, 2015 and submit recommendations to the Government...\
-  [202504172014315708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504172014315708.pdf)
+- Regarding the approval of the Government to close the institution in phases from the academic year 2021-22 as per the approval of the All India Council for Technical Education. Sardar Patel Memorial Societys Namdevrao Poreddiwar College of Engineering and Technology, Mu.Mouja Bodli, Dhanora Road, Gadchiroli.\
+  [202504211516109808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211516109808.pdf)
 
 ## Personnel
-- Regarding continuation of temporary posts in the Directorate of Libraries, Mumbai and offices under the Directorate.\
-  [202504151733258408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504151733258408.pdf)
+- Regarding extension of tenure for 11 months for the majority post of Clerk-Typist at Gokhale Institute of Political Science and Economics, Pune.\
+  [202504211502000008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211502000008.pdf)
 
-- Create of MAHADNYANDEEP Portal\
-  [202504172022293308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504172022293308.pdf)
+- Regarding inclusion of salary and non-salary expenses of teachers and non-teaching staff working in non-government aided social work colleges (BSW/MSW courses) under the account head Demand No. W 02 (2202 0872)\
+  [202504211257218108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211257218108.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
