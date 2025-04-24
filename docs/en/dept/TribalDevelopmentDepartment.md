@@ -3,6 +3,10 @@
 **Date Range**: 28 April 2025 - 03 May 2025
 
 
+## Funds
+- Regarding the distribution of funds for the implementation of the Child Helpline project for the year 2024-25 under the centrally sponsored scheme Mission Vatsalya.Regarding the distribution of funds for the implementation of the Centrally Sponsored Scheme Support to Tribal Research Institutes (TRIs)........\
+  [202504221529152124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221529152124.pdf)
+
 ## Miscellaneous
 - To release grant for the scheme of District Annual Sub Plan under the TSP in financial year 2025-26. (Demand No T-9, T-10  T-11)\
   [202504211209049924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211209049924.pdf)

@@ -10,5 +10,24 @@
 - Regarding administrative approval for the purchase of Extended Half Life Factor VIII from state grant in the financial year 2025-26.\
   [202504211054117217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211054117217.pdf)
 
+- Maharashtra Medical and Health Services Group-A Dr. Vrishali Maharudra Darade, Medical Officer, P.H.C Kharwandi Kasar Pathardi, Dist. Ahilyanagar Regarding his resignation.\
+  [202504231539048517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231539048517.pdf)
+
+- Maharashtra Medical and Health Services, Medical Officer, Group-A (S-20), Final Seniority List of Medical Officers working in this post on 01.01.2023....\
+  [202504221543292317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221543292317.pdf)
+
+- Maharashtra Medical and Health Services, Medical Officer, Group-A (S-20), Final Seniority List of Medical Officers working in this post on 01.01.2022....\
+  [202504221538290017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221538290017.pdf)
+
+## Personnel
+- Provisional seniority list dated 01.01.2025 for the post of Pathologist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202504171146111617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171146111617.pdf)
+
+- Provisional seniority list of officers in the cadre of District civil Surgeon in Maharashtra Medical and Health Services, Group-A as on 01.01.2025.\
+  [202504171146136517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171146136517.pdf)
+
+- There are complaints regarding the negligence, negligence, etc. of doctors at Pandya Hospital in Mahatmanagar, Nashik, and a committee should be formed to investigate the medical officers who are ignoring those complaints.\
+  [202504221133552817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221133552817.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
