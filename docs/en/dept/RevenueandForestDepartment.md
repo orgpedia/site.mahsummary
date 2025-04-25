@@ -16,6 +16,9 @@
 - Regarding the establishment of State Institute of Disaster Management (SIDM) in Nagpur.\
   [202504221837181319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221837181319.pdf)
 
+- Honble High Court, Bombay, Aurangabad Bench, in the case of Shri. Uddhav Dhondiba Yerkal in Writ Petition No. 8955/2023 dated 26/07/2023 and in the case of Shri. Narayan Sahebrao Karale in Writ Petition No. 644/2023 dated 01/09/2023, regarding the creation of 2 supernumerary forest labour posts for them from 01/06/2012 and the distribution of the arrears of Rs. 29,19,248/- admissible to them.\
+  [202504241158398619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241158398619.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds for 36-Assistive Grants (Salary) under this scheme to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26 (2415-1077).\
   [202504211735474219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211735474219.pdf)
@@ -43,6 +46,9 @@
 
 - Honble Supreme Court in Civil Appeal No. 14604/2024 and 14605/2024 dated 17.12.2024 regarding strict compliance of the directions given...\
   [202504231611460519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231611460519.pdf)
+
+- Implementation of the directions of Honble Supreme Court, New Delhi  regarding  unauthorized constructions in the Forest Department.\
+  [202504241611583319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241611583319.pdf)
 
 ## Personnel
 - Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
@@ -302,6 +308,15 @@
 
 - Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
   [202504221649160819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221649160819.pdf)
+
+- Forest Land-Pune Diversion of 0.96363 ha. Forest land under section 2 of Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Palasdev-Nhavi-Vyahli Road, MDR-190 from Chainage Km.1/485 to Km.2/256 and 3/330 to Km.3/630 at Village Nhavi, Taluka Indapur, Dist. Pune.\
+  [202504241657177019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241657177019.pdf)
+
+- Forest Land-Pune Diversion of 0.65826 ha. Forest land under section 2 of Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Walchandnagar- Anthurne - Shelgaon-Vyahali-Kauthali MDR-76 from Chainage Km.25/000 to Km.26/540 at Village Bijwadi, Taluka Indapur, Dist. Pune.\
+  [202504241655027219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241655027219.pdf)
+
+- Final seniority list of Administrative Officers, Group-A (Gazetted) cadre showing the status as on 01.01.2025.\
+  [202504241240573819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241240573819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

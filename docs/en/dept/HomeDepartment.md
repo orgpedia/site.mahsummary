@@ -41,6 +41,9 @@
 - Sanctioning of professional fees to Adv.Kaushik M. Mhatre as a Special Public Prosecutor for conducting the case/s pending before Honble Session Court, Panvel,Dist Raigad which is arising out of C.R.No. 216/2024  registered with the Uran Police Station, Navi Mumbai.\
   [202504231505044429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231505044429.pdf)
 
+- Sanctioning of professional fees to Adv.Vinod P.Phate as a Special Public Prosecutor for conducting the case/s pending before Honble District and Session Court, Akot which is arising out of C.R.No. 80/2020  registered with the Akot Police Station, Akola.\
+  [202504241702066029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241702066029.pdf)
+
 ## Personnel
 - Regarding cancellation of transfer orders of S.P.S. officers\
   [202504211546545829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211546545829.pdf)

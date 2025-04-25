@@ -16,12 +16,22 @@
 - Regarding administrative approval of the annual work plan of 59658.33 lakhs approved for the year 2025-26 for the scheme More Crops Per Drop (Micro Irrigation) under the Pradhan Mantri Rashtriya Krishi Vikas Yojana.\
   [202504221234447401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221234447401.pdf)
 
+- Administrative approval for Chief Minister Sustainable Agricultural Irrigation Scheme in FY 2025-26.\
+  [202504241649240901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241649240901.pdf)
+
+- Regarding the distribution of funds amounting to Rs. 6,38,01,200/- for Nanaji Deshmukh Krishi Sanjeevani Project, Phase-2 for the financial year 2025-26.\
+  [202504241619183701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241619183701.pdf)
+
 ## Miscellaneous
 - Distribution of Budget Estimates of the Agriculture Department for the Financial Year 2025-26 (Agriculture, Horticulture and Universities)\
   [202504211708257001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211708257001.pdf)
 
 - Cancelation of Promotion for the post Maharashtra Agriculture Services  Group-B.\
   [202504231635181301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231635181301.pdf)
+
+## Personnel
+- Appointment of Coordination Officers and Single Coordination Mechanism for all missions under Centrally Sponsored Schemes for the purpose of SNA-SPARSH methodology.\
+  [202504241155109501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241155109501.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

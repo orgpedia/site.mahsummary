@@ -19,6 +19,9 @@
 - Maharashtra Medical and Health Services, Medical Officer, Group-A (S-20), Final Seniority List of Medical Officers working in this post on 01.01.2022....\
   [202504221538290017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221538290017.pdf)
 
+- Regarding the creation of Government Drug Quality Testing Laboratory and RT-PCR Molecular Testing Facility Laboratories under the auspices of the Department to conduct post-supply quality testing of drugs supplied to government health institutions in the state.\
+  [202504241921055217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241921055217.pdf)
+
 ## Personnel
 - Provisional seniority list dated 01.01.2025 for the post of Pathologist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
   [202504171146111617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504171146111617.pdf)

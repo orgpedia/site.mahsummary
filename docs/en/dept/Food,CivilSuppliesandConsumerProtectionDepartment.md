@@ -7,6 +7,9 @@
 - Regarding the appointment of a one-member inquiry committee of Deputy Commissioner (Supply), Chhatrapati Sambhajinagar regarding the seizure of 30 tonnes of rice by the police at Watur Phata, Partur, district Jalna.\
   [202504231555554806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231555554806.pdf)
 
+- Regarding approval of incentive amount for 500 farmers who purchased paddy at Murbad Paddy Procurement Center in Thane district under the Minimum Support Price Purchase Scheme in the marketing season 2020-21.\
+  [202504241133120406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241133120406.pdf)
+
 ## Personnel
 - Regarding the publication of the final seniority list dated 01.01.2025 in the cadre of Manager, Group-B (Gazetted) in the District Consumer Grievance Redressal Commission...\
   [202504211151173606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211151173606.pdf)

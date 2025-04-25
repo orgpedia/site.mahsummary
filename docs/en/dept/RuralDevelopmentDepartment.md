@@ -7,6 +7,9 @@
 - Regarding extension of the arrangement to make 1600 rural housing engineers available from external agencies for effective implementation of Pradhan Mantri Awas Yojana - Rural and other rural housing schemes in the state\
   [202504231247260620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231247260620.pdf)
 
+- Corrigendum - The work within the jurisdiction of Shri Kshetra Ambai Devasthan Takahari, Tal. Akole, Dist. Ahilyanagari shall be responsible for the implementation of this approval.\
+  [202504231507372920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231507372920.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Jafrabad Taluka (Dist-Jalna)  as a Village Road in the Road Development Plan 2001-21.\
   [202504211135578120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211135578120.pdf)
@@ -22,6 +25,9 @@
 
 - Regarding the inclusion of non-plan roads in Ahmednagar Taluka (Dist-Ahmednagar)  as a Village Road in the Road Development Plan 2001-21.\
   [202504221441194520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221441194520.pdf)
+
+- Regarding strict compliance with the directions given by the Hon. Supreme Court in Writ Petition (Civil) No. 295/2022 and two other cases as well as Civil Appeal No. 14604/2024 and 14605/2024.\
+  [202504231304450320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231304450320.pdf)
 
 ## Personnel
 - Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Kokan Division- (Select List Year 2023-24)- Shri. Kanekar\

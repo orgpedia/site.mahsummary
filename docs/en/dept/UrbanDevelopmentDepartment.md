@@ -11,5 +11,9 @@
 - Regarding the priority of investment  in the citys development work, creating a priority plan of the city infrastructure and the action of eliminating the difference in water supply and sewage facilities.\
   [202504231832251025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231832251025.pdf)
 
+## Personnel
+- Regarding the governments approval of the appointment by promotion to the post of Deputy Engineer (Civil Engineering) on the establishment of Mira-Bhayander Municipal Corporation, as per the provisions of the Municipal Corporations Service Entry Rules.\
+  [202504241316104025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241316104025.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

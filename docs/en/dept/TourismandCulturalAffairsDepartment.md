@@ -10,5 +10,8 @@
 - Regarding the formation of a Screening Committee and a Selection Committee for providing support grants to Marathi films/documentaries/short films based on the lives of individuals in the historical, social, educational, art and sports fields of Maharashtra.\
   [202504231033252223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231033252223.pdf)
 
+- Regarding not leaving the headquarters without permission.\
+  [202504241731439423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241731439423.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

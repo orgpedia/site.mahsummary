@@ -106,6 +106,21 @@
 - Revised Administrative approval to Mou. Narayangaon (Tal. Nandgaon, Dist- Nashik) water supply scheme Under JJM.\
   [202504231556538428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231556538428.pdf)
 
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje Jakraiwadi, Taluka Walwa, District Sangli under the Jal Jeevan Mission program.\
+  [202504241403070828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241403070828.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Dhuldev-Algudewadi, Taluka Phaltan, District Satara under the Jal Jeevan Mission program.\
+  [202504241404450128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241404450128.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje Dhamwade, Taluka Shirala, District Sangli under the Jal Jeevan Mission program.\
+  [202504241404023528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241404023528.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje Tisangi, Taluka Kavathe Mahankal, District Sangli under the Jal Jeevan Mission program.\
+  [202504241403450028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241403450028.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Manewadi, Taluka Shirala, District Sangli under the Jal Jeevan Mission program.\
+  [202504241404213628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241404213628.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme savkhed tejan  ta.sindhkhed raja  dist-Buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504211239234228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211239234228.pdf)
@@ -127,6 +142,9 @@
 
 - Regarding giving Revised administrative approval to the regional water supply scheme Dhotra Bhangoji  ta.Chikhli dist-Buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504211239088828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211239088828.pdf)
+
+- Action to be taken regarding measures to be taken to alleviate the drinking water scarcity in rural areas\
+  [202504241532456428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241532456428.pdf)
 
 ## Personnel
 - Regarding granting improved administrative approval to the piped water supply scheme at Mouje Gojubabi-Kharatewadi, Taluka Baramati, District Pune under the Jal Jeevan Mission program.\
@@ -230,6 +248,15 @@
 
 - Revised Administrative approval to Mou. Fakrabad (Tal. Jamkhed, Dist- Ahilyanagar) water supply scheme Under JJM.\
   [202504231557437928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231557437928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Autewadi, Taluka Atpadi, District Sangli under the Jal Jeevan Mission program.\
+  [202504241403209628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241403209628.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje Ramnagar, Taluka Khanapur, District Sangli under the Jal Jeevan Mission program.\
+  [202504241402331928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241402331928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Banwadi, Taluka Karad, District Satara under the Jal Jeevan Mission program.\
+  [202504241434193228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241434193228.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
