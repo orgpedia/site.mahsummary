@@ -24,5 +24,8 @@
 - Regarding to approval for extension of 2 more years to 16 additional courts and 23 fast track courts temporarily established in the state under the 14th Finance Commission and approving the expenditure incurred for the same.\
   [202504221729454212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221729454212.pdf)
 
+- Regarding the re-location of 1 special court each from Mumbai and Nagpur to Thane and Chhatrapati Sambhajinagar respectively for the speedy disposal of cases filed by the Central Bureau of Investigation (CBI) and also regarding the declaration of jurisdiction of all (CBI) courts in the state.\
+  [202504251854203612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251854203612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

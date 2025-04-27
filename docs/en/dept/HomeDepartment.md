@@ -16,6 +16,9 @@
 - Sanctioning of professional fees to Adv.Shishir Hire as a Special Public Prosecutor for conducting the case/s pending before Honble Session Court, Pune, Honble High Court,Bombay, Honble JMFC Court,Pune and Juvenile Justice Board, Pune which is arising out of C.R.No. 306/2024, C.R.No. 307/2024, C.R.No. 322/2024 registered with the Yerwada Police Station, Pune City.\
   [202504231455552629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231455552629.pdf)
 
+- Regarding granting ex-post facto approval to the proposal to pay the rent of vehicles acquired on hire basis for the Assembly Elections 2024 by the Additional Commissioner of Police, Motor Transport Department, Nagpada, Mumbai, amounting to Rs. 4,09,41,503/- (in words, which is Rs. four crore nine lakh forty-one thousand five hundred three).\
+  [202504251129268829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251129268829....pdf)
+
 ## Miscellaneous
 - Regarding extension of the term of the consulting company Ernst  Young, New Delhi, appointed as a consultant for the Computerization of Forensic Labs project in the state.\
   [202504231728379929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231728379929.pdf)
@@ -43,6 +46,15 @@
 
 - Sanctioning of professional fees to Adv.Vinod P.Phate as a Special Public Prosecutor for conducting the case/s pending before Honble District and Session Court, Akot which is arising out of C.R.No. 80/2020  registered with the Akot Police Station, Akola.\
   [202504241702066029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241702066029.pdf)
+
+- Final seniority list of officers in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police, Police Communication and Information Technology earlier Deputy Superintendent of Police/Assistant Commissioner of Police, Wireless (Engineering) as on 01.01.2024.\
+  [202504251802273629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251802273629.pdf)
+
+- To bring MARVEL under the command of a high power committee, to give works in artificial intelligence on priority, etc.\
+  [202504251628218629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251628218629.pdf)
+
+- Regarding extension of time to the inquiry committee appointed to conduct a high-level inquiry into the incident of illegal billboard collapse in Ghatkopar, Mumbai.\
+  [202504251727167729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251727167729.pdf)
 
 ## Personnel
 - Regarding cancellation of transfer orders of S.P.S. officers\

@@ -19,6 +19,18 @@
 - Honble High Court, Bombay, Aurangabad Bench, in the case of Shri. Uddhav Dhondiba Yerkal in Writ Petition No. 8955/2023 dated 26/07/2023 and in the case of Shri. Narayan Sahebrao Karale in Writ Petition No. 644/2023 dated 01/09/2023, regarding the creation of 2 supernumerary forest labour posts for them from 01/06/2012 and the distribution of the arrears of Rs. 29,19,248/- admissible to them.\
   [202504241158398619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241158398619.pdf)
 
+- Regarding the approval to expend funds as a special case from the Personal Ledger Account (PLA) of the Registration and Stamps Department for the purpose of paying the interest amount to the applicants, as per the orders issued by the Honble Supreme Court, New Delhi, and the Honble High Court, Mumbai.\
+  [202504251758069119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251758069119.pdf)
+
+- Regarding payment of air travel expenses for tourists from Maharashtra who went to Jammu and Kashmir for tourism, to bring them back to the state after the terrorist attack in Pahelgam.\
+  [202504251817574619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251817574619.pdf)
+
+- Regarding payment of air travel expenses for tourists from Maharashtra who went to Jammu and Kashmir for tourism, to bring them back to the state after the terrorist attack in Pahelgam.\
+  [202504251820291119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251820291119.pdf)
+
+- Regarding payment of air travel expenses for tourists from Maharashtra who went to Jammu and Kashmir for tourism, to bring them back to the state after the terrorist attack in Pahelgam.\
+  [202504251814507419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251814507419.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds for 36-Assistive Grants (Salary) under this scheme to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26 (2415-1077).\
   [202504211735474219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211735474219.pdf)
@@ -49,6 +61,12 @@
 
 - Implementation of the directions of Honble Supreme Court, New Delhi  regarding  unauthorized constructions in the Forest Department.\
   [202504241611583319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241611583319.pdf)
+
+- Regarding increase in the honorarium of contractual Law officers appointed in the Divisional Commissioner and District Collectors Office.\
+  [202504251442032219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251442032219.pdf)
+
+- Honble Supreme Court in Writ Petition (Civil) No. 295/2022 and Appeal No. 14604/2024 dated 13.11.2024 and 17.12.2024 regarding strict compliance of the directions given...\
+  [202504251734403919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251734403919.pdf)
 
 ## Personnel
 - Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
@@ -317,6 +335,18 @@
 
 - Final seniority list of Administrative Officers, Group-A (Gazetted) cadre showing the status as on 01.01.2025.\
   [202504241240573819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241240573819.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202504251719121319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251719121319.pdf)
+
+- Selection List Regarding promotion and posting on a purely temporary basis to eligible officers in the Additional District Collector cadre in the year 2024-25 against vacant posts in the regular promotion quota in the Additional District Collector (Selected Category) cadre.......\
+  [202504251716512919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251716512919.....pdf)
+
+- Creation of  08 Supernumerary Assistant Collector Post for Probationary (IAS) Batch  2024.\
+  [202504251439274119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251439274119.pdf)
+
+- Transfer of officers in the Deputy Collector cadre... Shri. Popat Omase\
+  [202504251721183819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251721183819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

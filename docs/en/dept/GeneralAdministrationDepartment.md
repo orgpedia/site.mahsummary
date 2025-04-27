@@ -20,6 +20,21 @@
 - Revised staffing pattern in the office of Maharashtra State Right to Service Commission - Supplementary Letter\
   [202504241705329407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241705329407.pdf)
 
+- Extension of deputation advertisement\
+  [202504251456232807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251456232807.pdf)
+
+- Extension of deputation advertisement\
+  [202504251451211907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251451211907.pdf)
+
+- Regarding allotment of Government residence to the Honorable Deputy Speaker, Maharashtra Legislative Assembly.\
+  [202504251315429207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251315429207.pdf)
+
+- Post-promotion training of Training Cell Officers (Group B) in the year 2025 under the State Training Policy (Dated 05.05.2025 to Date 16.05.2025)\
+  [202504251846197607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251846197607.pdf)
+
+- Duties and Responsibilities of Presenting Officers.\
+  [202504251635250807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251635250807.pdf)
+
 ## Personnel
 - Continuation of posts.\
   [202504211546023107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211546023107.pdf)
@@ -47,6 +62,15 @@
 
 - Seniority wise list for promotion on the post of Mantralaya Clerk- Typist Group-C as on 01-01-2025 (Provisional) from Mantralaya Group-D Employees.\
   [202504241452115707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241452115707.pdf)
+
+- Transfer of Shri D.H.Kadam, Deputy Secretary\
+  [202504251158360507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251158360507.pdf)
+
+- Posting of Deputy Secretary after Repatriation.\
+  [202504251201120707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251201120707.pdf)
+
+- Regarding the reorganization of the Governing Body of the Pre-Service Military Education Institute, Chhatrapati Sambhajinagar...\
+  [202504251809567807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251809567807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
