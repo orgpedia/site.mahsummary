@@ -1,15 +1,19 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 28 April 2025 - 03 May 2025
+**Date Range**: 05 May 2025 - 10 May 2025
 
+
+## Funds
+- Regarding granting administrative approval for the construction of a joint complex building of Ratan Tata Maharashtra State Skill Development Institute Headquarters and Maharashtra Bhushan Dr. Shri. Nanasaheb Dharmadhikari Government Industrial Training Institute, Panvel.\
+  [202504291527347503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291527347503.pdf)
 
 ## Miscellaneous
-- Principal, Government Industrial Training Institute or Deputy Principal, Government Industrial Training Institute or Inspector, Controller of Vocational Education and Training or Examination, Maharashtra State Skill, Vocational Education and Training Board, Group-A (Technical) (Junior) (Gazetted), Maharashtra Education Service (Pay Scale S-20: 56100-177500/-) in institutions and offices under the Directorate of Vocational Education and Training. Dated. 01/01/2024 and Final seniority list as on 01/01/2025.\
-  [202504221535474903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221535474903.pdf)
+- Regarding service review of officers holding Group-B (Technical) (Gazetted) posts in the Maharashtra Education Service Cadre of the Directorate of Vocational Education and Training after attaining the age of 50/55 years.\
+  [202504291737260603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291737260603.pdf)
 
 ## Personnel
-- Regarding devolution of transfer rights of Group-A (Junior) and Group-B employees working in the offices under the Directorate of Vocational Education and Training under the Department of Skills, Employment, Entrepreneurship and Innovation.\
-  [202504251204135603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251204135603.pdf)
+- Regarding temporary promotion from the cadre of Junior Skill Development, Employment and Entrepreneurship Guidance Officer (Group-C) to Skill Development, Employment and Entrepreneurship Guidance Officer (Group-B) in the Skill Development, Employment and Entrepreneurship System...\
+  [202504281757405703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281757405703.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

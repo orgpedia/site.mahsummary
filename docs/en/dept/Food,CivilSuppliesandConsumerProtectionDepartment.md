@@ -1,24 +1,21 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 28 April 2025 - 03 May 2025
+**Date Range**: 05 May 2025 - 10 May 2025
 
 
 ## Miscellaneous
-- Regarding the appointment of a one-member inquiry committee of Deputy Commissioner (Supply), Chhatrapati Sambhajinagar regarding the seizure of 30 tonnes of rice by the police at Watur Phata, Partur, district Jalna.\
-  [202504231555554806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231555554806.pdf)
-
-- Regarding approval of incentive amount for 500 farmers who purchased paddy at Murbad Paddy Procurement Center in Thane district under the Minimum Support Price Purchase Scheme in the marketing season 2020-21.\
-  [202504241133120406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241133120406.pdf)
+- Regarding the appointment of Mr. Mahesh Dhawale as Chairman, State Food Commission.\
+  [202504281605020806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281605020806.pdf)
 
 ## Personnel
-- Regarding the publication of the final seniority list dated 01.01.2025 in the cadre of Manager, Group-B (Gazetted) in the District Consumer Grievance Redressal Commission...\
-  [202504211151173606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211151173606.pdf)
+- Final seniority list of officers in the cadre of Ration Distribution Officer/Chief Inspection Officer, Group-B (Gazetted) as on 01st January, 2025.\
+  [202504281628484206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281628484206.pdf)
 
-- Regarding appointment to the post of Assistant Controller Ration Distribution, Group-B (Gazetted) through direct service recruitment...\
-  [202504221736411806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221736411806.pdf)
+- Final seniority list of officers in the cadre of Assistant Controller, Ration Distribution, Group-B (Gazetted) as on 01 January, 2025.\
+  [202504281631309106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281631309106.pdf)
 
-- Final seniority lists showing the status of Group-D cadre on the establishment of Food, Civil Supplies and Consumer Protection Department (Own) from 01.01.2019 to 01.01.2025.\
-  [202504221741388306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221741388306.pdf)
+- Regarding the transfer of Inspection Officer (Supply), Group-B... Shri. Vinod Sahdevji Vagde, Inspection Officer (Supply), Group-B (Gazetted).\
+  [202504281626216406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281626216406.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

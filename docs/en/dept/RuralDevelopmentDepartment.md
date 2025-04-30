@@ -1,40 +1,21 @@
 # Rural Development Department
 
-**Date Range**: 28 April 2025 - 03 May 2025
+**Date Range**: 05 May 2025 - 10 May 2025
 
 
 ## Funds
-- Regarding extension of the arrangement to make 1600 rural housing engineers available from external agencies for effective implementation of Pradhan Mantri Awas Yojana - Rural and other rural housing schemes in the state\
-  [202504231247260620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231247260620.pdf)
-
-- Corrigendum - The work within the jurisdiction of Shri Kshetra Ambai Devasthan Takahari, Tal. Akole, Dist. Ahilyanagari shall be responsible for the implementation of this approval.\
-  [202504231507372920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231507372920.pdf)
+- Administrative Approval for Construction of 1th Floor of administrative building P. S. Narkhed (Dist. Nagpur)\
+  [202504291200592820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291200592820.pdf)
 
 ## Miscellaneous
-- Regarding the inclusion of non-plan roads in Jafrabad Taluka (Dist-Jalna)  as a Village Road in the Road Development Plan 2001-21.\
-  [202504211135578120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211135578120.pdf)
+- Regarding the precautions to be taken during hearings conducted by Honble Minister/Minister of State through VC (Video Conference)....\
+  [202504291645566920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291645566920.pdf)
 
-- Regarding the inclusion of non-plan roads in Parbhani Taluka (Dist-Parbhani)  as a Village Road in the Road Development Plan 2001-21.\
-  [202504221441138420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221441138420.pdf)
+- Maharashtra Development Service, regarding ad hoc promotion of Assistant Group Development Officer, Group-B (S-15) cadre officers to Group Development Officer, Group-A (S-20) cadre. (Selection list year 2023-24)\
+  [202504281532233420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281532233420.pdf)
 
-- Regarding the inclusion of non-plan roads in Hinganghat Taluka (Dist-Wardha)  as a Village Road in the Road Development Plan 2001-21.\
-  [202504221441254020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221441254020.pdf)
-
-- Regarding the inclusion of non-plan roads in Parbhani Taluka (Dist-Parbhani)  as a Village Road in the Road Development Plan 2001-21.\
-  [202504221441115820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221441115820.pdf)
-
-- Regarding the inclusion of non-plan roads in Ahmednagar Taluka (Dist-Ahmednagar)  as a Village Road in the Road Development Plan 2001-21.\
-  [202504221441194520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221441194520.pdf)
-
-- Regarding strict compliance with the directions given by the Hon. Supreme Court in Writ Petition (Civil) No. 295/2022 and two other cases as well as Civil Appeal No. 14604/2024 and 14605/2024.\
-  [202504231304450320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231304450320.pdf)
-
-## Personnel
-- Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Kokan Division- (Select List Year 2023-24)- Shri. Kanekar\
-  [202504211136102020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211136102020.pdf)
-
-- Transfer of Group Development Officer Group-A S-20 Cadre Shri.S.N.Kendre in Maharashtra Development Service.\
-  [202504211657571620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211657571620.pdf)
+- Regarding the inclusion of non-plan roads in Ratnagiri Taluka (Dist-Ratnagiri)  as a Village Road in the Road Development Plan 2001-21.\
+  [202504291320315920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291320315920.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

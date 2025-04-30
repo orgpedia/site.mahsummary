@@ -1,76 +1,34 @@
 # General Administration Department
 
-**Date Range**: 28 April 2025 - 03 May 2025
+**Date Range**: 05 May 2025 - 10 May 2025
 
 
 ## Funds
-- Marathwada Administrative and Development Training Institute, Nathnagar (North), Paithan Dist. Chhatrapati Sambhajinagar Subsidiary Grant Year 2025-26 (Compulsory) (Second Installment)\
-  [202504241126184807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241126184807.pdf)
+- Regarding granting administrative and financial approval for the expenses incurred for the distribution ceremony of the awards Lokmanya Tilak Jeevan Gaurav Journalism Award, Outstanding Journalism Award and Atal Bihari Vajpayee National Journalism Award given by the State Government for the years 2019 to 2023.\
+  [202504281332368407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281332368407.pdf)
 
 ## Miscellaneous
-- Regarding the combined training period for Assistant Cell Officer Post-Entry Training Examination 2025 and Cell Officer Departmental Examination 2025....\
-  [202504211813060807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211813060807...pdf)
+- Regarding extension of time for submission of recommendations to the Task Force constituted to develop Maharashtra Cyber Security Policy to secure and protect the infrastructure of the state of Maharashtra...\
+  [202504281858511807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281858511807.pdf)
 
-- Filling the post of deputation basis\
-  [202504221635043007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221635043007.pdf)
+- Regarding extension of time for submission of recommendations to the Task Force set up by Maharashtra Global Competence Centre (GCC) to attract foreign investors in the state of Maharashtra...\
+  [202504281856538507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281856538507.pdf)
 
-- Filling the post of deputation basis\
-  [202504221632037007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221632037007.....pdf)
+- Regarding extension of time for submission of recommendations to the Task Force constituted for setting up a Centre of Excellence and Innovation...\
+  [202504281854162307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281854162307.pdf)
 
-- Revised staffing pattern in the office of Maharashtra State Right to Service Commission - Supplementary Letter\
-  [202504241705329407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241705329407.pdf)
-
-- Extension of deputation advertisement\
-  [202504251456232807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251456232807.pdf)
-
-- Extension of deputation advertisement\
-  [202504251451211907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251451211907.pdf)
-
-- Regarding allotment of Government residence to the Honorable Deputy Speaker, Maharashtra Legislative Assembly.\
-  [202504251315429207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251315429207.pdf)
-
-- Post-promotion training of Training Cell Officers (Group B) in the year 2025 under the State Training Policy (Dated 05.05.2025 to Date 16.05.2025)\
-  [202504251846197607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251846197607.pdf)
-
-- Duties and Responsibilities of Presenting Officers.\
-  [202504251635250807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251635250807.pdf)
+- Regarding the celebration of the incarnation day of Bhagwan Sarvadnya Sri Chakradhar Swami on the second day of Bhadrapada Shuddha Dwitiya as Avatar Din\
+  [202504291332302907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291332302907.pdf)
 
 ## Personnel
-- Continuation of posts.\
-  [202504211546023107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504211546023107.pdf)
+- Direct Service Assistant Section Officer (Main) Examination-2023 Allotment of candidates recommended by Maharashtra Public Service Commission from the waiting list to the post of Assistant Section Officer in the Ministrys Administrative Department and the office of Maharashtra Public Service Commission.\
+  [202504291150559707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291150559707....pdf)
 
-- Posting of Deputy Secretary after Repatriation.\
-  [202504221442586607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221442586607.pdf)
+- Transfer of Shri S. S. Yadhav, Under Secretary\
+  [202504281749514907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281749514907.pdf)
 
-- Regarding temporary promotion to the cadre of Deputy Director (Information), Group-A (Senior).\
-  [202504221127278207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221127278207.pdf)
-
-- Master GR -Consolidated guidelines regarding Review of Suspension Cases\
-  [202504221732089007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221732089007.pdf)
-
-- Regarding the implementation of the service fortnight from April 28, 2025 to May 12, 2025...\
-  [202504231837398907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504231837398907.pdf)
-
-- Transfer of Shri Santosh Deshmukh, Deputy Secretary\
-  [202504221439540207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221439540207.pdf)
-
-- Adhoc promotion to the post of Deputy Secretary.\
-  [202504221446094507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221446094507.....pdf)
-
-- Transfer of Shri S. E. Andhale, Deputy Secretary\
-  [202504221436506107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504221436506107.pdf)
-
-- Seniority wise list for promotion on the post of Mantralaya Clerk- Typist Group-C as on 01-01-2025 (Provisional) from Mantralaya Group-D Employees.\
-  [202504241452115707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504241452115707.pdf)
-
-- Transfer of Shri D.H.Kadam, Deputy Secretary\
-  [202504251158360507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251158360507.pdf)
-
-- Posting of Deputy Secretary after Repatriation.\
-  [202504251201120707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251201120707.pdf)
-
-- Regarding the reorganization of the Governing Body of the Pre-Service Military Education Institute, Chhatrapati Sambhajinagar...\
-  [202504251809567807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504251809567807.pdf)
+- Regarding approval for continuation of temporary posts in the offices of Pune, District Soldier Welfare Offices, Boys/Girls Hostels, Soldier Rest Houses, Pre-College Training Centre, Nashik.\
+  [202504291814481907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291814481907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
