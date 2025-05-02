@@ -26,5 +26,11 @@
 - Regarding granting freehold rights to the lands transferred on lease to Mahametro for the Metro project.\
   [202504281958323325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281958323325.pdf)
 
+- Regarding government approval to develop the reserved plots at Vitthalwadi Kalyan East, Reservation No. 412 Parking Lot, Reservation No. 413 Vegetable Market, Reservation No. 415 Shop Center (Total Area 11000 sq. m.) on Finance-Build-Operate-Transfer (FBOT) basis in Kalyan-Dombivli Municipal Corporation area.\
+  [202504301812339925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301812339925.pdf)
+
+- Regarding approval of promotion to the posts of Executive Engineer (Civil) and Deputy Engineer (Mechanical/Electrical) in the Chandrapur Municipal Corporation establishment.\
+  [202504301330517225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301330517225...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

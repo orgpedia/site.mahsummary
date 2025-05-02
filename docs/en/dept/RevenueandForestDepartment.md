@@ -7,6 +7,15 @@
 - Regarding the disbursement of funds under the account head (4415 0192) for the year 2025-26 for the establishment of Bamboo Research and Training Center at Chichpalli in Chandrapur district.\
   [202504291454543119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291454543119.pdf)
 
+- Regarding payment of air travel expenses for tourists from Maharashtra who went to Jammu and Kashmir for tourism, to bring them back to the state after the terrorist attack in Pahelgam.\
+  [202504301625089519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301625089519.pdf)
+
+- Regarding payment of air travel expenses for tourists from Maharashtra who went to Jammu and Kashmir for tourism, to bring them back to the state after the terrorist attack in Pahelgam.\
+  [202504301627351319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301627351319.pdf)
+
+- Regarding the distribution of funds under the Kundal Development, Administration and Management Prabodhini (Forest) Kundal (Program) (2415-1068) Scheme for the year 2025-26.\
+  [202504301446054119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301446054119.pdf)
+
 ## Miscellaneous
 - Regarding appointment of Maharashtra Metrorail Corporation Ltd. (Maha-Metro) Nagpur, a public undertaking, as the project implementation agency for setting up the State Institute of Disaster Management (SIDM) at Nagpur.\
   [202504281716545319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281716545319.pdf)
@@ -23,9 +32,15 @@
 - Forest Land- Gadchiroli Re-diversion of 2.658 ha. Reserved Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fibre Cable along the road within RoW of existing road NH-353 C, in Aheri  Sironcha Tehsil of District Gadchiroli in the State of Maharashtra.\
   [202504291717498819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291717498819.pdf)
 
+- Regarding the update of the 7/12 campaign-phase-2, 7/12 excerpt.\
+  [202504301808549819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301808549819.pdf)
+
 ## Personnel
 - Regarding Standard Operating Procedure (SOP) for granting permission and transportation license for felling trees in non-forest areas under Mukhyamantri Saur Krishi Vahini Yojana 2.0.\
   [202504291606453319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291606453319.pdf)
+
+- Regarding approval to implement the NAKSHA program as a pilot program for urban surveying of the core and extended areas in the areas of local self-government bodies in urban areas of the state.\
+  [202504301617107319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301617107319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

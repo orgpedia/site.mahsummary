@@ -17,5 +17,18 @@
 - Regarding the inclusion of non-plan roads in Ratnagiri Taluka (Dist-Ratnagiri)  as a Village Road in the Road Development Plan 2001-21.\
   [202504291320315920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291320315920.pdf)
 
+- Regarding the addition of new defined contribution pension scheme/National Pension System for the purpose of retirement gratuity to officers/employees first appointed in service on or after 01.11.2005.\
+  [202504301412591120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301412591120.pdf)
+
+- Corrigendum to the State Level Consolidated Final Seniority List dated 01.01.2024 for Assistant Livestock Development Officer in District Technical Service, Class-3 (Animal Husbandry) cadre in Zilla Parishad.\
+  [202504301414323220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301414323220.pdf)
+
+## Personnel
+- Transfer of  Maharashtra Development Services, Group-A, Deputy Chief Executive officer cadre, Shri. Vijaysinh Nalawade\
+  [202504301203291620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301203291620.pdf)
+
+- Transfer of  Maharashtra Development Services, Group-A, Deputy Chief Executive officer cadre, Shri. Bhushan Joshi\
+  [202504301203359420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301203359420.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

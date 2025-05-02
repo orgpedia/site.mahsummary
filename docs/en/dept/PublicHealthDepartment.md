@@ -45,5 +45,8 @@
 - Regarding continuation of 124 temporary posts of Medical Officer Group-A in Primary Health Centers under the Zilla Parishad under the supervision  of Deputy Director, Health Services, Akola Board, Akola.\
   [202504291549175617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291549175617.pdf)
 
+- Regarding continuation of 130 temporary posts in the Dental Department in Rural Hospital/Sub-District/District Hospital under the  supervision of Deputy Director, Health Services, Akola Board, Akola.\
+  [202504291809245817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291809245817.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

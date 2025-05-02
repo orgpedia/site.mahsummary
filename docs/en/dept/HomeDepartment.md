@@ -25,5 +25,19 @@
 - Regarding the disbursement of funds for the payment of the fourteenth quarterly installment for the modernization of police control rooms (Dial-112) project in the state.\
   [202504281837387729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281837387729.pdf)
 
+- Mandatory installation of e-lock/ digital lock for transportation of alcohol/ liquor and fixing the technical standards (Specifications) for the same.\
+  [202504301205205429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301205205429.pdf)
+
+## Miscellaneous
+- Regarding creation of a large number of posts for Combined Probationary Training Programme-10 (CPTP-10) of officers in Group-A (Gazetted) cadre working under the Motor Vehicles Department recommended by the Maharashtra Public Service Commission on the basis of the final results of the State Services Examination-2022.\
+  [202504301720476529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301720476529.pdf)
+
+- Regarding amendment/change in the account head of the Special Executive Magistrates Offices and approval of a new account head.\
+  [202504301437244329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301437244329.pdf)
+
+## Personnel
+- Regarding posting on the post of Commissioner of Police, Brihan Mumbai.\
+  [202504301127304129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301127304129.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,9 +13,15 @@
 - Regarding granting administrative approval to the Annual Action Plan of the Kodavahu Area Development Agricultural Area Development (RAD) Programme for the year 2025-26.\
   [202504291822221401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291822221401.pdf)
 
+- Regarding granting administrative approval to the Annual Action Plan for implementing the Traditional Agricultural Development Scheme (PKVY) under the National Agricultural Development Scheme (RKVY) in the year 2025-26.\
+  [202504301614368401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301614368401.pdf)
+
 ## Miscellaneous
 - Regarding the recognition of sorghum as an agricultural crop.\
   [202504291754134101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291754134101.pdf)
+
+- Regarding appointment on deputation to the post of Registrar, Mahatma Phule Agricultural University, Rahuri, Shri. Rajendrakumar Bhagwat Patil, Additional District Collector.\
+  [202504301917499601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301917499601.pdf)
 
 ## Personnel
 - Regarding continuation of temporary posts in the scheme of Seed, Chemical Fertilizer, Pesticide Testing, Pesticide Residue Testing and Biological Pest Control Laboratory from 01/03/2025 to 31/08/2025.\
@@ -32,6 +38,9 @@
 
 - Regarding direct recruitment in Maharashtra Agricultural Service, Group-B (Pay Scale S-16: 44900-142400) cadre....\
   [202504281802527301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281802527301.pdf)
+
+- Regarding the transfer and posting of the officers of the cadre of Superintendent Agricultural Officer, Maharashtra Agricultural Service, Group-A from the post of deputation.\
+  [202504301537562801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301537562801.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

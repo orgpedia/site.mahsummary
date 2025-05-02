@@ -10,5 +10,15 @@
 - Regarding disbursement of funds for payment of honorarium of Anganwadi worker and Anganwadi Helper.\
   [202504281319347030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281319347030.pdf)
 
+- Regarding the distribution of funds for paying salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2025-26.\
+  [202504301209287330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301209287330.pdf)
+
+- Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister.\
+  [202504301802157730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301802157730....pdf)
+
+## Miscellaneous
+- Regarding approval of Chacha Nehru Childrens Festival for children in the state.\
+  [202504301326045530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301326045530.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

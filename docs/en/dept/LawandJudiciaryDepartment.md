@@ -26,6 +26,9 @@
 - Regarding approval to open a Personal Deposit Account (PDA) for the District and Additional Sessions Court, Warud, Dist. Amravati.\
   [202504291727351912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291727351912.pdf)
 
+- Regarding granting administrative approval for the work related to addition and alteration in the Visakha residence of Honble High Court Judges at Civil Lines, Nagpur.\
+  [202504301213143312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301213143312.pdf)
+
 ## Personnel
 - In the establishment of Registrar of Partnership Firms, Maharashtra State, appointment by promotion to the post of Deputy Registrar, Partnership Firms, Group-A on a purely temporary basis (Selection List Year 2024-25)\
   [202504291621156212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291621156212.....pdf)

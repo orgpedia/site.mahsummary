@@ -7,6 +7,12 @@
 - Regarding granting administrative and financial approval for the expenses incurred for the distribution ceremony of the awards Lokmanya Tilak Jeevan Gaurav Journalism Award, Outstanding Journalism Award and Atal Bihari Vajpayee National Journalism Award given by the State Government for the years 2019 to 2023.\
   [202504281332368407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281332368407.pdf)
 
+- Regarding granting administrative and financial approval for the expenditure incurred in connection with the training program Tech-Wari to be organized in the Ministry from May 05 to 09, 2025.\
+  [202504301819597907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301819597907.pdf)
+
+- Selection of an agency for branding of Maharashtra Government.\
+  [202504301144489407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301144489407.pdf)
+
 ## Miscellaneous
 - Regarding extension of time for submission of recommendations to the Task Force constituted to develop Maharashtra Cyber Security Policy to secure and protect the infrastructure of the state of Maharashtra...\
   [202504281858511807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281858511807.pdf)
@@ -19,6 +25,12 @@
 
 - Regarding the celebration of the incarnation day of Bhagwan Sarvadnya Sri Chakradhar Swami on the second day of Bhadrapada Shuddha Dwitiya as Avatar Din\
   [202504291332302907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291332302907.pdf)
+
+- Regarding extension of the rental agreement of Bharatiya Janata Party- Maharashtra State Office.\
+  [202504301502359607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301502359607.pdf)
+
+- Appointment on Deputation . Smt. Jayrekha Nikhumb, Deputy Secretary.\
+  [202504301843065907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301843065907.pdf)
 
 ## Personnel
 - Direct Service Assistant Section Officer (Main) Examination-2023 Allotment of candidates recommended by Maharashtra Public Service Commission from the waiting list to the post of Assistant Section Officer in the Ministrys Administrative Department and the office of Maharashtra Public Service Commission.\
