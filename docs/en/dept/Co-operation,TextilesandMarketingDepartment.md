@@ -3,6 +3,13 @@
 **Date Range**: 05 May 2025 - 10 May 2025
 
 
+## Funds
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Kolhapur District Farmers Weavers Cooperative Spinning Mills Ltd., Ichalkaranji, Tal. Shirol, Dist. Kolhapur.\
+  [202505021647201102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021647201102.pdf)
+
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Parvati Sahakari Soot Girni Maryadit, Kurundwad Terwad, Tal. Shirol, Dist. Kolhapur.\
+  [202505021650147302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021650147302.pdf)
+
 ## Miscellaneous
 - Regarding cancellation of the order granting administrative approval for construction of new Shetkari Bhavan at Agricultural Product Market Committee, Chandur Bazar, Dist. Amravati...\
   [202504281530267902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281530267902.pdf)

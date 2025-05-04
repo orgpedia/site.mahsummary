@@ -26,5 +26,9 @@
 - To grant administrative approval for the total expenditure of Rs. 7,77,83,107/- for the construction of a girls hostel, purchase of materials, necessary training/workshops at Government Technical College, Nandurbar under Component No. 5 Gender Inclusion and Equity Initiatives of the Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA) Scheme.\
   [202504301832480708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301832480708.pdf)
 
+## Personnel
+- Regarding extension of temporary promotion to the post of Principal, Government Engineering Colleges. Dr. R. P. Borkar\
+  [202505021224068308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021224068308.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

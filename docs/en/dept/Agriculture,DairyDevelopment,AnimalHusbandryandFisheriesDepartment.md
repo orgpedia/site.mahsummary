@@ -16,12 +16,18 @@
 - Regarding granting administrative approval to the Annual Action Plan for implementing the Traditional Agricultural Development Scheme (PKVY) under the National Agricultural Development Scheme (RKVY) in the year 2025-26.\
   [202504301614368401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301614368401.pdf)
 
+- Regarding approval of the Annual Action Plan worth Rs. 20414.58 lakhs under the Agricultural Mechanization Sub-Mission for the year 2025-26.\
+  [202505021244567301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021244567301....pdf)
+
 ## Miscellaneous
 - Regarding the recognition of sorghum as an agricultural crop.\
   [202504291754134101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291754134101.pdf)
 
 - Regarding appointment on deputation to the post of Registrar, Mahatma Phule Agricultural University, Rahuri, Shri. Rajendrakumar Bhagwat Patil, Additional District Collector.\
   [202504301917499601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301917499601.pdf)
+
+- Regarding approval of foreign tour of Hon.Adv.Shri.Manikrao Kokate, Minister (Agriculture), Hon.Shri.Jaykumar Rawal, Minister (Marketing) and Hon.Adv.Shri.Ashish Jaiswal, Hon. State Minister (Agriculture) to visit MacFrut-2025 exhibition at Remini, Italy.\
+  [202505021836261501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021836261501.pdf)
 
 ## Personnel
 - Regarding continuation of temporary posts in the scheme of Seed, Chemical Fertilizer, Pesticide Testing, Pesticide Residue Testing and Biological Pest Control Laboratory from 01/03/2025 to 31/08/2025.\

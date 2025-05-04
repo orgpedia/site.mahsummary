@@ -7,6 +7,9 @@
 - Regarding the distribution of State share grant of Rs. 399.13 lakhs as 40 State share in Kind Grant from the budget provision of the year 2025-26 under the centrally sponsored National Health Mission under the Tribal Upgradation Scheme under the Head of Account 2210E455.\
   [202504281517208817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281517208817.pdf)
 
+- Regarding sanction of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (70 percent payment of March, 2025)\
+  [202505021812179317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021812179317.pdf)
+
 ## Miscellaneous
 - Regarding evaluation of public health services by an expert organization.\
   [202504291507273117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291507273117.pdf)
@@ -16,6 +19,15 @@
 
 - Establish a state-level committee to examine all the health problems of the tribal people in the tribal areas of the state and suggest measures to reduce them - Corrigendum\
   [202504291510305417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291510305417.pdf)
+
+- Year-wise interim seniority list of General State Service Group-B, Statistical Officer Cadre for the period from 01.01.2017 to 01.01.2024...\
+  [202504281105213817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281105213817.pdf)
+
+- Regarding administrative approval of the budget for the repair and construction of various departments at General Hospital, Malegaon, Dist. Nashik.\
+  [202505021047351017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021047351017.pdf)
+
+- Maharashtra Medical and Health Services Group-A   Dr. Chandan Pandurang Vani, Medical Officer,   District Hospital, Washim  Regarding his resignation.\
+  [202503111455251017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202503111455251017.pdf)
 
 ## Personnel
 - Continuation of 174 temporary posts of Medical Officers (Group A and B) in Primary Health Centers of Zilla Parishad under the authority of Deputy Director, Health Services, Nagpur Circle, Nagpur.\

@@ -3,6 +3,10 @@
 **Date Range**: 05 May 2025 - 10 May 2025
 
 
+## Funds
+- Regarding the distribution of funds amounting to Rs. 12.00 crore for the memorial work of late leader R.S.Gavai at Mau.Wadali, Taluka. Amravati...\
+  [202505021121125325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021121125325.pdf)
+
 ## Miscellaneous
 - Regarding determining a policy for providing financial assistance for setting up solar power projects to save on electricity bills.\
   [202504291630372425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291630372425.pdf)
@@ -31,6 +35,9 @@
 
 - Regarding approval of promotion to the posts of Executive Engineer (Civil) and Deputy Engineer (Mechanical/Electrical) in the Chandrapur Municipal Corporation establishment.\
   [202504301330517225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301330517225...pdf)
+
+- Regarding the transfer of government lands within the limits of the Metropolitan Region Development Authorities of Pune, Nashik, Chhatrapati Sambhajinagar and Nagpur in the name of those authorities in the state.\
+  [202505021622382925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021622382925.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

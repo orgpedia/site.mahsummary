@@ -16,6 +16,12 @@
 - Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister.\
   [202504301802157730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301802157730....pdf)
 
+- Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister.\
+  [202505021311377830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021311377830.pdf)
+
+- Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister\
+  [202505021307578630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021307578630.pdf)
+
 ## Miscellaneous
 - Regarding approval of Chacha Nehru Childrens Festival for children in the state.\
   [202504301326045530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301326045530.pdf)

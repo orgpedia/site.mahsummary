@@ -187,6 +187,129 @@
 - Revised Administrative approval to Mou. Ragatvihir (Tal. Surgana, Dist-Nashik) water supply scheme Under JJM.\
   [202504291746160428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291746160428.pdf)
 
+- Regarding granting revised administrative approval to the budget of Mangrulpir Tap Water Supply Scheme, Mangkheda Taluka, Washim District under the Jal Jeevan Mission Program.\
+  [202504301756001028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301756001028.pdf)
+
+- Revised Administrative approval to Mau.  Khamgaon, Tal. Mhasala, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824125928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824125928.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Marathaguda, Taluka Jiwati, District Chandrapur (Scheme Code 20091865) under the Jal Jeevan Mission program.\
+  [202504301822224428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301822224428.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Shirgaon, Tal. Bhor, District Pune under the Jal Jeevan Mission program.\
+  [202504301110184528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301110184528.pdf)
+
+- Revised Administrative approval to Mou. Pachamba (Tal. Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202505021731156628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021731156628.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Man Patawade, Tal. Shahuwadi, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109073628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109073628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme soyata  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301756058428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301756058428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme vadgaon tejan  ta. Lonar r dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216394828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216394828.pdf)
+
+- Regarding granting revised administrative approval to the budget of the Bitoli Teli Taluka Washim Water Supply Scheme in Washim district under the Jal Jeevan Mission Program.\
+  [202504301433256928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433256928.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme jambharun jahagir  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301432454328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301432454328.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Mulikwadi, Tal. Khatav, Dist. Satara under the Jal Jeevan Mission program.\
+  [202504301110047328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301110047328.pdf)
+
+- Revised Administrative approval to Mau.  Pangari, Tal. Mahad, Dist. Raigad water supply scheme Under JJM.\
+  [202504301823468728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301823468728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme warud bu  ta. mangrulpir dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301755557228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301755557228.pdf)
+
+- Revised Administrative approval to Mou. Pimparpada (Tal. Taloda, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202504301219530628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301219530628.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Loghe, Tal. Gaganbawada, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109118628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109118628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme khandala makardvaj  ta. Chikhali  dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216252328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216252328.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mt. Shelgaon Atol, Tal. Chikhali, Dist. Buldhana (20070819) under the Jal Jeevan Mission program\
+  [202504301216072928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216072928.pdf)
+
+- Revised Administrative approval to Mou. Hatbari (Tal. Taloda, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202504301220071228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301220071228.pdf)
+
+- Revised Administrative approval to Mou. Lahit Bk., (Tal. Akole, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301220161928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301220161928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Nanawale, Tal. Bhor, District Pune under the Jal Jeevan Mission program.\
+  [202504301110290328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301110290328.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Dhanakal, Tal. Patan, Dist. Satara under the Jal Jeevan Mission program.\
+  [202504301110139828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301110139828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme kotodha    ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216578128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216578128.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Village Vadgaon Dighi, Taluka Nandura, Dist. Buldhana (7949554) under the Jal Jeevan Mission program\
+  [202504301216440628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216440628.pdf)
+
+- Revised Administrative approval to Mou.  Shelkui Devulpanipada (Tal. Akrani, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202505021731248628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021731248628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme jayshinga    ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217156528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217156528.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme bitoda teli  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301432498028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301432498028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme ekamba  ta. mangrulpir dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301432541628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301432541628.pdf)
+
+- Revised Administrative approval to Mau.  Nagazari, Tal. Vikramgad, Dist. Palghar water supply scheme Under JJM.\
+  [202504301924224328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301924224328.pdf)
+
+- Revised Administrative approval to Mou. Mungusagaon  (Tal. Shrigonda, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533179528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533179528.pdf)
+
+- Revised Administrative approval to Mou. Doudachiwadi  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533455628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533455628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme kanzara  ta. mangrulpir dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301432587228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301432587228.pdf)
+
+- Revised Administrative approval to Mau.  Chochinde, Tal. Mahad, Dist. Raigad water supply scheme Under JJM.\
+  [202504301823444828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301823444828.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje Birdevwadi, Taluka Hatkanangle, Dist. Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738263628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738263628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme masla khurd  ta.  malegaon  dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301433345428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433345428.pdf)
+
+- Revised Administrative approval to Mau.  Kalambe, Tal. Wada, Dist. Palghar water supply scheme Under JJM.\
+  [202504301924386328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301924386328.pdf)
+
+- Revised Administrative approval to Mou. Ambhol  (Tal. Akole, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301220210128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301220210128.pdf)
+
+- Revised Administrative approval to Mau.  Jhambultep Mudhani, Tal. Pen, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824439728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824439728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Yergavhan, Taluka Korpana, District Chandrapur (Scheme Code 20081712) under the Jal Jeevan Mission program.\
+  [202504301822339128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301822339128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Supkhela  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301756025228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301756025228.pdf)
+
+- Revised Administrative approval to Mau.  Karanjade, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824303028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824303028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Tupurwadi, Tal. Gadhinglaj, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301108581628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301108581628.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme adgaon kh.  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504301432123428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301432123428.pdf)
@@ -199,6 +322,48 @@
 
 - Regarding giving Revised administrative approval to the regional water supply scheme umara kapse  ta. washim  dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202504301432168028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301432168028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme kalambha mahali  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202505021812425528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021812425528.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme chinchamba pen  ta. risod dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301433115728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433115728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme yehoti    ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217319928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217319928.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme panchala  ta. washim dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301433199028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433199028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme jamgaon    ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217065328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217065328.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme jagatpur ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217021828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217021828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Borkhedi  ta. risod dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301433301828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433301828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme dabhdi  ta. mangrulpir dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301433156628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433156628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Yerla, Taluka Hinganghat, District Wardha under the Jal Jeevan Mission program.\
+  [202504301433388428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433388428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Chakwa  ta. mangrulpir dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301433072428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301433072428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme pala   ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217226728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217226728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme javra molvan    ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217108528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217108528.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme shahapur    ta.nandgaon khandeshwar  dist- Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301217369828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301217369828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme mozari  kharbi  ta. mangrulpir dist-washim for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301755511528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301755511528.pdf)
 
 ## Personnel
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Machhiguda (Bhari), Taluka Jiwati, District Chandrapur (20083325) under the Jal Jeevan Mission program.\
@@ -713,6 +878,300 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Vaddeli Rai, Gram Panchayat Jhinganur, Taluka Sironcha, Dist. Gadchiroli (20067428) under the Jal Jeevan Mission program\
   [202504291810473428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291810473428.pdf)
+
+- Revised Administrative approval to Mou Wanjulshet-purushwadi  (Tal. Akole, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533133928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533133928.pdf)
+
+- To grant revised administrative approval to the Mauje arbali, Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520351528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520351528.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chak Likithwada, Tal. Gondpimpri, Dist. Chandrapur (Scheme Code 20088946) under the Jal Jeevan Mission program.\
+  [202504301822009328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301822009328.pdf)
+
+- Revised Administrative approval to Mou. Sonegaon  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533083228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533083228.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme chandai  ta. Chikhali  dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216204028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216204028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme in Mauje Idarguchchi, Tal. Gadhinglaj, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109026828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109026828.pdf)
+
+- Revised Administrative approval to Mou. Anandwadi  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533515328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533515328.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Dharpana, Taluka Jivati, District Chandrapur (Scheme Code 20090885) under the Jal Jeevan Mission program.\
+  [202504301822171728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301822171728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Shivapur, Taluka Korpana, District Chandrapur (20097719,) under the Jal Jeevan Mission program.\
+  [202504301114478428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114478428.pdf)
+
+- Regarding granting revised administrative approval to the budget of the piped water supply scheme at Mouja Lanjera, Taluka Tumsar, District Bhandara (Scheme Code 20020510) under the Jal Jeevan Mission program.\
+  [202505021703454328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021703454328.pdf)
+
+- To grant revised administrative approval to the Mauje itkal, Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520408028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520408028.pdf)
+
+- Revised Administrative approval to Mou. Adgaon (Tal. Shahada, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202505021731095028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021731095028.pdf)
+
+- To give revised administrative approval for Mauje Jhari Bk., Tq. Chakur, Dist. Latur water supply scheme under Jal Jeevan Mission\
+  [202505021315019128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021315019128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme dhaba  ta. lonar dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216346928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216346928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Goliwade, Tal. Panhala, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109501228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109501228.pdf)
+
+- Revised Administrative approval to Mou. Bhawarwadi  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301534015228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301534015228.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Thana, Taluka Kuhi, District Nagpur (20046818) under the Jal Jeevan Mission program.\
+  [202504301913464128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301913464128.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kokewada Mankar, Taluka Bhadravati, District Chandrapur (20071867) under the Jal Jeevan Mission program.\
+  [202504301114254528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114254528.pdf)
+
+- Revised Administrative approval to Mou. Daliamba (Chedapada)(Tal. Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202505021731113028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021731113028.pdf)
+
+- Revised Administrative approval to Mau.  Venjnath, Tal. Roha, Dist. Raigad water supply scheme Under JJM.\
+  [202504301825101728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301825101728.pdf)
+
+- To grant revised administrative approval to the Mauje kashegaon,) Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520480428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520480428.pdf)
+
+- Revised Administrative approval to Mau.  Aadgaon Kunbiwadi, Tal. Shrivardhan, Dist. Raigad water supply scheme Under JJM.\
+  [202504301825151528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301825151528.pdf)
+
+- Revised Administrative approval to Mau.  Kandale, Tal. Roha, Dist. Raigad water supply scheme Under JJM.\
+  [202504301825003028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301825003028.pdf)
+
+- Revised Administrative approval to Mou. Bhawanipada (Tal., Dist. Nandurbar) water supply sceme Under JJM.\
+  [202504301219580828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301219580828.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Chikhali, Taluka Kagal, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738187428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738187428.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Pimpalgaon Bu, Taluka Kagal, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738207628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738207628.pdf)
+
+- Revised Administrative approval to Mou. Shelad  (Tal. Akole, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533562628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533562628.pdf)
+
+- To grant revised administrative approval to the Mauje gulhali, Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520555628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520555628.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Laxmiwadi, Taluka Hatkanangle, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738418028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738418028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme kalyana  ta. mehkar dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216299128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216299128.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Khutalwadi, Tal. Shahuwadi, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109445128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109445128.pdf)
+
+- Revised Administrative approval to Mou. Veerpur (Tal. Shahada, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202505021731203628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021731203628.pdf)
+
+- To grant revised administrative approval to the Mauje pimpri, Tal.Dharashiv, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521006128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521006128.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme in Mauje Ghalwad, Tal. Shirol, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109297228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109297228.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme khirav  ta. Chikhali  dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216152828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216152828.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Malharpeth, Tal. Panhala, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738318528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738318528.pdf)
+
+- Revised Administrative approval to Mau.  Saje, Tal. Mangaon, Dist. Raigad water supply scheme Under JJM.\
+  [202504301823598628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301823598628.pdf)
+
+- To grant revised administrative approval to the Mauje bhoigaon, Tal.gangapur, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521171328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521171328.pdf)
+
+- To grant revised administrative approval to the Mauje vasai, Tal.sillod, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521258728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521258728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Minzhari (Paradpar), Taluka Chimur, District Chandrapur (Scheme Code 20097440) under the Jal Jeevan Mission program.\
+  [202504301821416928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301821416928.pdf)
+
+- To grant revised administrative approval to the Mauje naigaon, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521284428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521284428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chak Ghadoli, Taluka Gondpimpri, District Chandrapur (Scheme Code 20097610) under the Jal Jeevan Mission program.\
+  [202504301821555628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301821555628.pdf)
+
+- To grant revised administrative approval to the Mauje naigaon, Tal.gangapur, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521319128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521319128.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Gadpipri, Taluka Chimur, District Chandrapur (Scheme Code 20035751) under the Jal Jeevan Mission program.\
+  [202504301821497328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301821497328.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Tala SHI, Taluka Radhanagari, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738062228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738062228.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Manegaon Ba., Tal. Bhandara, Dist. Bhandara (20052146) under the Jal Jeevan Mission program.\
+  [202504301114574028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114574028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme chinchala  ta. mehkar dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202504301216486228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301216486228.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Sirsala, Taluka Pawani, District Bhandara (20051867) under the Jal Jeevan Mission program.\
+  [202504301114529128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114529128.pdf)
+
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje Ghoti Bu, Taluka Khanapur, Dist. Sangli under the Jal Jeevan Mission program.\
+  [202504301738510828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738510828.pdf)
+
+- Revised Administrative approval to Mau.  Pale Khurda, Tal. Roha, Dist. Raigad water supply scheme Under JJM.\
+  [202504301825054628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301825054628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Mohgaon, Taluka Mohadi, District Bhandara (20059986) under the Jal Jeevan Mission program.\
+  [202504301115149028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301115149028.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chichbodi, Taluka Rajura, District Chandrapur (20076125) under the Jal Jeevan Mission program.\
+  [202504301114431328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114431328.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Faraktewadi, Tal. Kagal, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109211628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109211628.pdf)
+
+- Regarding granting revised administrative approval to the budget of the tap water supply scheme at Mouja Sakharwahi, Taluka Rajura, District Chandrapur (Scheme Code 20073260) under the Jal Jeevan Mission program.\
+  [202505021703473128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021703473128.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme in Mauje Pimple Tarf Thane Jadhavwadi, Tal. Panhala, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109599428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109599428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Tirkhura, Taluka Chimur, District Chandrapur (Scheme Code 20037134) under the Jal Jeevan Mission program.\
+  [202504301822111028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301822111028.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kotgaon, Tal. Nagbhid, Dist. Chandrapur (20084614) under the Jal Jeevan Mission program.\
+  [202504301114342828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114342828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Pipri Deshmukh, Taluka Bhadravati, District Chandrapur (20088573) under the Jal Jeevan Mission program.\
+  [202504301913001228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301913001228.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Khambwadi, Tal. Velhe, District Pune under the Jal Jeevan Mission program.\
+  [202504301739100128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301739100128.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Baje (Nanel), Tal. Patan, Dist. Satara under the Jal Jeevan Mission program.\
+  [202504301110094728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301110094728.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chicholi, Taluka Chimur, District Chandrapur (Scheme Code 20091532) under the Jal Jeevan Mission program.\
+  [202504301822060028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301822060028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme in Mauje Khede, Tal. Shahuwadi, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301108533228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301108533228.pdf)
+
+- Revised Administrative approval to Mou. Narayandoh  (Tal. Nagar, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301534060728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301534060728.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Yavluj, Taluka Panhala, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738370428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738370428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Sonegaon Tukum, Taluka Bhadravati, District Chandrapur (20079671) under the Jal Jeevan Mission program.\
+  [202504301114207328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114207328.pdf)
+
+- Revised Administrative approval to Mau.  Gadade, Tal. Vikramgad, Dist. Palghar water supply scheme Under JJM.\
+  [202504301924499828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301924499828.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Telwadi, Tal. Bhor, District Pune under the Jal Jeevan Mission program.\
+  [202504301110229328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301110229328.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Mangarli, Tal. Tumsar, Dist. Bhandara (20045247) under the Jal Jeevan Mission program\
+  [202504301115061728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301115061728.pdf)
+
+- Revised Administrative approval to Mou. Nikpani-Bhagdari (Tal. Akkalkuwa, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202504301219484728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301219484728.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme in Mauje Kanwad, Tal. Shirol, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109163728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109163728.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Mutnal, Tal. Gadhinglaj, District Kolhapur\
+  [202504301109549628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109549628.pdf)
+
+- Revised Administrative approval to Mau.  Mahalunge, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824494928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824494928.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Umarhira, Taluka Korpana, District Chandrapur (Scheme Code 20087044) under the Jal Jeevan Mission program.\
+  [202504301821436028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301821436028.pdf)
+
+- Revised Administrative approval to Mau.  Parmachi, Tal. Mahad, Dist. Raigad water supply scheme Under JJM.\
+  [202504301823534228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301823534228.pdf)
+
+- Revised Administrative approval to Mau.  Shiroshi, Tal. Javhar, Dist. Palghar water supply scheme Under JJM.\
+  [202504301924426928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301924426928.pdf)
+
+- To grant revised administrative approval to the Mauje phulwadi, Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521045328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521045328.pdf)
+
+- To grant revised administrative approval to the Mauje bhabalgaon, Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521081828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521081828.pdf)
+
+- Revised Administrative approval to Mau.  Bhingarwadi, Tal. Panvel, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824248428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824248428.pdf)
+
+- Revised Administrative approval to Mau.  Mahagaon, Tal. Tala, Dist. Raigad water supply scheme Under JJM.\
+  [202504301825202128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301825202128.pdf)
+
+- Revised Administrative approval to Mau.  Borli, Tal. Murud, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824186328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824186328.pdf)
+
+- To grant revised administrative approval to the Mauje kamegaon, Tal.Dharashiv, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520441428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520441428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mauja Satona, Tal. Mohadi, Dist. Bhandara (634253) under the Jal Jeevan Mission program.\
+  [202504301115250128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301115250128.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Khairlanji, Tal. Mohadi, Dist. Bhandara (20045248) under the Jal Jeevan Mission program.\
+  [202504301115019328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301115019328.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Pedrewadi, Tal. Ajra, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301738464028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738464028.pdf)
+
+- Revised Administrative approval to Mou. Lahit Kh  (Tal. Akole, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301534101828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301534101828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kukudsath, Tal. Korpana, Dist. Chandrapur (20090306) under the Jal Jeevan Mission program.\
+  [202504301114385428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114385428.pdf)
+
+- To grant revised administrative approval to the Mauje Angathan, Tal.bhum, Dist. Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520314128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520314128.pdf)
+
+- Revised Administrative approval to Mau.  Karadhan, Tal. Javhar, Dist. Palghar water supply scheme Under JJM.\
+  [202504301924463928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301924463928.pdf)
+
+- To grant revised administrative approval to the Mauje gandora, Tal.tuljapur, Dist.dharashiv water supply scheme under the Jal Jeevan Mission program.\
+  [202504301520516328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301520516328.pdf)
+
+- Revised Administrative approval to Mau.  Ombali, Tal. Poladpur, Dist. Raigad water supply scheme Under JJM.\
+  [202504301824544028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301824544028.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Alsand, Tal. Khanapur, District Sangli under the Jal Jeevan Mission program.\
+  [202504301738574828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301738574828.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Ghoti Khurd, Tal. Khanapur, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301739033328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301739033328.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Salai (Khu), Taluka Mohadi, District Bhandara (20050563) under the Jal Jeevan Mission program.\
+  [202504301115200428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301115200428.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kanhalgaon  Sonurli, Taluka Nagbhid, District Chandrapur (20053686) under the Jal Jeevan Mission program.\
+  [202504301114299128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301114299128.pdf)
+
+- To grant revised administrative approval to the Mauje naigaon, Tal.chtt.sambhajinagar Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
+  [202504301521123628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301521123628.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje Junee Danwad, Tal. Shirol, District Kolhapur under the Jal Jeevan Mission program.\
+  [202504301109254928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301109254928.pdf)
+
+- Revised Administrative approval to Mou. Malda (Tal. Taloda, Dist. Nandurbar) water supply sceme Under JJM.\
+  [202504301220025928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301220025928.pdf)
+
+- Revised Administrative approval to Mou. Parewadi  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202504301533233428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301533233428.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

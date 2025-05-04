@@ -35,12 +35,30 @@
 - Regarding the update of the 7/12 campaign-phase-2, 7/12 excerpt.\
   [202504301808549819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301808549819.pdf)
 
+- Regarding the restructuring of the Koyna Earthquake Rehabilitation Fund Committee.\
+  [202505021117118919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021117118919.pdf)
+
+- Sand/Sand Removal Policy-2025\
+  [202505021821378319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021821378319.pdf)
+
 ## Personnel
 - Regarding Standard Operating Procedure (SOP) for granting permission and transportation license for felling trees in non-forest areas under Mukhyamantri Saur Krishi Vahini Yojana 2.0.\
   [202504291606453319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291606453319.pdf)
 
 - Regarding approval to implement the NAKSHA program as a pilot program for urban surveying of the core and extended areas in the areas of local self-government bodies in urban areas of the state.\
   [202504301617107319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301617107319.pdf)
+
+- Continuation of posts.\
+  [202505021137273819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021137273819.pdf)
+
+- Continuation of Posts\
+  [202505021132219119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021132219119.pdf)
+
+- Continuation of posts.\
+  [202505021135523119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021135523119.pdf)
+
+- Continuation of posts.\
+  [202505021134183919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021134183919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
