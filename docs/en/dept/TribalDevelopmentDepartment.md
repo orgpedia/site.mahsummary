@@ -7,6 +7,9 @@
 - To release grant for the scheme of Mukhyamantri Mazi Ladaki Bahin Yojana(Scheme) under the TSP in financial year 2025-26.\
   [202504301700394524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301700394524.pdf)
 
+- Under TSP for the year 2025-26 Fund distribution for the Subsidiary Grant Scheme to Agricultural Universities.\
+  [202505021652098524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021652098524.pdf)
+
 ## Miscellaneous
 - Regarding sanction of long term loans to tribal (Scheduled Tribe) cooperative spinning mills.\
   [202504281120006024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281120006024.pdf)
