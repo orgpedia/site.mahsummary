@@ -1,25 +1,24 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 05 May 2025 - 10 May 2025
+**Date Range**: 12 May 2025 - 17 May 2025
 
-
-## Funds
-- Regarding approval of the budget for implementing the Madhache Gaon (Honey Village) scheme in 10 villages in various districts of the state.\
-  [202504301743144110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301743144110.pdf)
 
 ## Miscellaneous
-- Combined Probationary Training Programme-10 Regarding creation of majority posts for Commission sponsored Probationary Government Labour Officers (Group-B) who have been given extension on the basis of the final result of State Services (Main) Examination-2021.\
-  [202504301715579210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301715579210.pdf)
+- Final seniority list of Government Labour Officers, Group-B cadre as on 01.01.2025\
+  [202505051758248110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051758248110.pdf)
 
-- Deputation on the post of Executive Director (H.R.), Maharashtra State Electricity Transmission Company Ltd.\
-  [202504301424098910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301424098910.pdf)
+- Final seniority list of Assistant Labour Commissioner, Group-A cadre as on 01.01.2025.\
+  [202505051755570310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051755570310.pdf)
 
 ## Personnel
-- Regarding the Falling Distance specified in the Micrositting Guidelines for the development of wind project in the state.\
-  [202504291610177210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291610177210.pdf)
+- Final seniority list of Deputy Commissioner of Labour, Group-A cadre as on 01.01.2025.\
+  [202505051752350310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051752350310.pdf)
 
-- Regarding appointment on deputation to the post of Technical Advisor of Maharashtra Industrial Development Corporation.\
-  [202504301535360110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301535360110.pdf)
+- Final seniority list of Additional Labour Commissioner, Group-A cadre as on 01.01.2025\
+  [202505051750281910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051750281910.pdf)
+
+- Regarding the implementation of the old pension scheme on the lines of the Central Government to the Government officers/employees who joined the Government service on or after 01.11.2005 in cases where the recruitment advertisement/notification was issued before 01.11.2005. (Shri. Hemant Gangurde, Superintendent Engineer)\
+  [202505051552108210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051552108210.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

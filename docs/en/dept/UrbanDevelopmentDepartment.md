@@ -1,43 +1,20 @@
 # Urban Development Department
 
-**Date Range**: 05 May 2025 - 10 May 2025
+**Date Range**: 12 May 2025 - 17 May 2025
 
-
-## Funds
-- Regarding the distribution of funds amounting to Rs. 12.00 crore for the memorial work of late leader R.S.Gavai at Mau.Wadali, Taluka. Amravati...\
-  [202505021121125325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021121125325.pdf)
 
 ## Miscellaneous
-- Regarding determining a policy for providing financial assistance for setting up solar power projects to save on electricity bills.\
-  [202504291630372425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291630372425.pdf)
+- Regarding granting administrative approval under Maharashtra Fire Safety Mission Scheme to strengthen fire fighting emergency services. Mandangad Nagar Panchayat, Dist. Ratnagiri\
+  [202505051818369525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051818369525.pdf)
 
-- Regarding adoption of tender booklets of Public Works Department for construction in Urban Local Government Bodies.\
-  [202504291628267525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291628267525.pdf)
+- Regarding granting administrative approval under Maharashtra Fire Safety Campaign Scheme to strengthen fire fighting emergency services. Mahabaleshwar Giristhan Municipal Council, Dist. Satara\
+  [202505051336522825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051336522825.pdf)
 
-- Regarding publication of the final seniority list as on 01.01.2025 of the officers in the cadre of Director, Town Planning (Group-A / Gazetted) on the establishment of the Directorate of Town Planning and Valuation.\
-  [202504291314266825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291314266825.pdf)
+- Aaple Sarkar Seva Kendra Guidelines for accepting online applications and providing services for all online public services notified by various administrative departments of the State Government under the Maharashtra Right to Public Services Act, 2015 through Aaple Sarkar Seva Kendra at the Municipal Corporation/Municipal Council/Municipal Panchayat level.\
+  [202505051234043225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051234043225.pdf)
 
-## Personnel
-- Regarding publication of the final seniority list as on 01.01.2025 of the officers in the Assistant Director, Town Planning (Group-A / Gazetted) cadre on the establishment of the Directorate of Town Planning and Valuation.\
-  [202504291310434925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291310434925.pdf)
-
-- Regarding approval to create a majority of Group D posts for appointment on compassionate grounds in the establishments of Navi Mumbai Municipal Corporation.\
-  [202504281752322125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281752322125%E2%80%8D....pdf)
-
-- Regarding extension of tenure of 14 working temporary posts on the establishment of Divisional Commissioner and on the establishment of Directorate of Municipal Administration (Department level) from 01.03.2025 to 31.08.2025.\
-  [202504291514337025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291514337025.pdf)
-
-- Regarding granting freehold rights to the lands transferred on lease to Mahametro for the Metro project.\
-  [202504281958323325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281958323325.pdf)
-
-- Regarding government approval to develop the reserved plots at Vitthalwadi Kalyan East, Reservation No. 412 Parking Lot, Reservation No. 413 Vegetable Market, Reservation No. 415 Shop Center (Total Area 11000 sq. m.) on Finance-Build-Operate-Transfer (FBOT) basis in Kalyan-Dombivli Municipal Corporation area.\
-  [202504301812339925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301812339925.pdf)
-
-- Regarding approval of promotion to the posts of Executive Engineer (Civil) and Deputy Engineer (Mechanical/Electrical) in the Chandrapur Municipal Corporation establishment.\
-  [202504301330517225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301330517225...pdf)
-
-- Regarding the transfer of government lands within the limits of the Metropolitan Region Development Authorities of Pune, Nashik, Chhatrapati Sambhajinagar and Nagpur in the name of those authorities in the state.\
-  [202505021622382925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021622382925.pdf)
+- Regarding granting administrative approval under Maharashtra Fire Safety Mission Scheme to strengthen fire fighting emergency services. Dapoli Nagar Panchayat, Dist. Ratnagiri\
+  [202505051822476325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051822476325.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

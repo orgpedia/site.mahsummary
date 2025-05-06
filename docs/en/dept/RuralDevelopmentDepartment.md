@@ -1,34 +1,14 @@
 # Rural Development Department
 
-**Date Range**: 05 May 2025 - 10 May 2025
+**Date Range**: 12 May 2025 - 17 May 2025
 
-
-## Funds
-- Administrative Approval for Construction of 1th Floor of administrative building P. S. Narkhed (Dist. Nagpur)\
-  [202504291200592820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291200592820.pdf)
-
-## Miscellaneous
-- Regarding the precautions to be taken during hearings conducted by Honble Minister/Minister of State through VC (Video Conference)....\
-  [202504291645566920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291645566920.pdf)
-
-- Maharashtra Development Service, regarding ad hoc promotion of Assistant Group Development Officer, Group-B (S-15) cadre officers to Group Development Officer, Group-A (S-20) cadre. (Selection list year 2023-24)\
-  [202504281532233420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281532233420.pdf)
-
-- Regarding the inclusion of non-plan roads in Ratnagiri Taluka (Dist-Ratnagiri)  as a Village Road in the Road Development Plan 2001-21.\
-  [202504291320315920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504291320315920.pdf)
-
-- Regarding the addition of new defined contribution pension scheme/National Pension System for the purpose of retirement gratuity to officers/employees first appointed in service on or after 01.11.2005.\
-  [202504301412591120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301412591120.pdf)
-
-- Corrigendum to the State Level Consolidated Final Seniority List dated 01.01.2024 for Assistant Livestock Development Officer in District Technical Service, Class-3 (Animal Husbandry) cadre in Zilla Parishad.\
-  [202504301414323220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301414323220.pdf)
 
 ## Personnel
-- Transfer of  Maharashtra Development Services, Group-A, Deputy Chief Executive officer cadre, Shri. Vijaysinh Nalawade\
-  [202504301203291620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301203291620.pdf)
+- Regarding ad hoc promotion to the posts in direct service quota of employee in District Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-15) Assistant Block Development Officers in Chhatrapati Sambhajinagar Division- (Select List Year 2023-24)- Shri. Chormale\
+  [202505051058000920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051058000920.pdf)
 
-- Transfer of  Maharashtra Development Services, Group-A, Deputy Chief Executive officer cadre, Shri. Bhushan Joshi\
-  [202504301203359420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301203359420.pdf)
+- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra Development Service, Assistant Block Development Officer, Group-B in Amravati Division - (Select List Year 2024-25)\
+  [202505051057578920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051057578920.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

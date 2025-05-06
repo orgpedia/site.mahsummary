@@ -1,11 +1,11 @@
 # Public Works Department
 
-**Date Range**: 05 May 2025 - 10 May 2025
+**Date Range**: 12 May 2025 - 17 May 2025
 
 
 ## Personnel
-- Regarding temporary appointment by nomination to the candidates from the additional selection list for the post of Civil Engineering Assistant, Group-C under the Public Works Department.\
-  [202504301459065818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504301459065818.pdf)
+- Regarding the announcement of the posts of Controlling Officer, Office Head and Drawing and Disbursement Officer for the office of Executive Engineer, World Bank Project Department, Akot.\
+  [202505051305088818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051305088818.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
