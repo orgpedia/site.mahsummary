@@ -10,6 +10,9 @@
 - Final seniority list of Assistant Labour Commissioner, Group-A cadre as on 01.01.2025.\
   [202505051755570310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051755570310.pdf)
 
+- Regarding approval of Maharashtra State Financial Corporation to open a savings account in IndusInd Bank.\
+  [202505061716100610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061716100610.pdf)
+
 ## Personnel
 - Final seniority list of Deputy Commissioner of Labour, Group-A cadre as on 01.01.2025.\
   [202505051752350310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051752350310.pdf)
