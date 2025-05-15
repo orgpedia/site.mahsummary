@@ -1,36 +1,11 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 05 May 2025 - 10 May 2025
+**Date Range**: 19 May 2025 - 24 May 2025
 
 
 ## Funds
-- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Kolhapur District Farmers Weavers Cooperative Spinning Mills Ltd., Ichalkaranji, Tal. Shirol, Dist. Kolhapur.\
-  [202505021647201102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021647201102.pdf)
-
-- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Parvati Sahakari Soot Girni Maryadit, Kurundwad Terwad, Tal. Shirol, Dist. Kolhapur.\
-  [202505021650147302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505021650147302.pdf)
-
-## Miscellaneous
-- Regarding cancellation of the order granting administrative approval for construction of new Shetkari Bhavan at Agricultural Product Market Committee, Chandur Bazar, Dist. Amravati...\
-  [202504281530267902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281530267902.pdf)
-
-- Regarding cancellation of the order granting administrative approval for construction of new Shetkari Bhavan at Agricultural Income Market Committee, Wadigodri, District Jalna...\
-  [202504281525038402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281525038402.pdf)
-
-- Regarding cancellation of the order granting administrative approval for construction of new Shetkari Bhavan at Agricultural Product Market Committee, Sironcha, Dist. Gadchiroli...\
-  [202504281520445202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281520445202.pdf)
-
-- Regarding cancellation of the order granting administrative approval for construction of new Shetkari Bhavan at Agricultural Income Market Committee, Vadgaon, District Kolhapur...\
-  [202504281526303102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281526303102.pdf)
-
-- Regarding cancellation of the order granting administrative approval for construction of new Shetkari Bhavan at Agricultural Produce Market Committee, Biloli, District Nanded...\
-  [202504281528578102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281528578102.pdf)
-
-- Regarding cancellation of the order granting administrative approval for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Ambajogai, District Beed...\
-  [202504281522278702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281522278702.pdf)
-
-- Regarding the formation of a district level committee to implement the order of Honble High Court, Mumbai under Su Moto Writ Petition No. 1/2023.\
-  [202504281746263302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202504281746263302.pdf)
+- सहकारी सूतगिरण्यांना वित्तीय संस्थांकडून मिळणा-या कर्जावरील 12 टक्के व्याजाचे प्रदान करणेबाबत- चौंडेश्वरी सहकारी सूतगिरणी लि., इचलकरंजी, ता.शिरोळ, जि.कोल्हापूर.\
+  [20250513120058032802.pdf](https://gr.maharashtra.gov.in/assets/public/20250513120058032802.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
