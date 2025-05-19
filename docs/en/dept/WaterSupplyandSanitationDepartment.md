@@ -1,324 +1,187 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 12 May 2025 - 17 May 2025
+**Date Range**: 19 May 2025 - 24 May 2025
 
 
 ## Funds
-- To grant revised administrative approval to the Mauje Umardara ( Sarfarajpur), Tal.Anantpal, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149311828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149311828.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे जामसर, ता. जव्हार, जि. पालघर येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513174241087428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513174241087428.pdf)
 
-- To grant revised administrative approval to the Mauje Takalgaon  Shenkud, Tal.Ahmedpur, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149592928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149592928.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  पांगरी तर्फे वेळंब, ता. गुहागर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513172456093428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513172456093428.pdf)
 
-- Revised Administrative approval to Mou. Mohane  Pade (Tal. Sakri, Dist.Dhule) water supply sceme Under JJM.\
-  [202505061556273828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061556273828.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  कोरेगाव, ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514180008079628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514180008079628.pdf)
 
-- Revised Administrative approval to Mau.  Chidrawali Lokhandewadi, Tal. Ratnagiri , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714369128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714369128.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कोळवली, ता. मुळशी, जि.पुणे (Scheme Code 20040852 ) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514150704044428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514150704044428.pdf)
 
-- Revised Administrative approval to Mou. Jambhore (Tal. Sakri, Dist. Dhule) water supply sceme Under JJM.\
-  [202505061556118028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061556118028.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कोतवली भाग-ब (आंब्रेवाडी), ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514180249094628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514180249094628.pdf)
 
-- To give revised administrative approval for Mauje Chondhi tarfe sendurasana , Tq. Vasmat, Dist. Hingoli (20074110)  water supply scheme under Jal Jeevan Mission\
-  [202505051152487428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152487428.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  किन्हळ (हनुमानवाडी), ता.दापोली, जि. रत्नागिरी  (20073185) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174429057228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174429057228.pdf)
 
-- Revised Administrative approval to Mau. Navanagar, Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714086728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714086728.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  नवा सोमश्वर, ता. रत्नागिरी, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513172526003728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513172526003728.pdf)
 
-- Revised Administrative approval to Mau. Musalondi, Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714223028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714223028.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  पाथरट पाली, ता. रत्नागिरी, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513172742049728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513172742049728.pdf)
 
-- To give revised administrative approval for Mauje Dayanandnagar Tanda Tq. Omarga, Dist. Dharashiv (20084883) water supply scheme under Jal Jeevan Mission\
-  [202505051153131928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051153131928.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  पडवे, ता. राजापुर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250513171931042528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513171931042528.pdf)
 
-- To grant revised administrative approval to the Mauje BalKheda, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152225528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152225528.pdf)
+- पाणीपुरवठा योजनांवरील रुपांतरीत नियमित अस्थायी सीआरटी आस्थापनेवरील कार्यरत कर्मचाऱ्यांच्या सन 2025-26 या आर्थिक वर्षातील वेतनासाठी संबंधित जिल्हा परिषदांना निधी वितरीत करण्याबाबत.  लेखाशिर्ष 22151914\
+  [20250513170527006028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513170527006028.pdf)
 
-- Revised Administrative approval to Mau. Vedhe, Tal. Vikramgad, Dist. Palghar water supply scheme Under JJM.\
-  [202505051715001028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051715001028.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  दमामे, ता.दापोली, जि. रत्नागिरी (20034315) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174726085128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174726085128.pdf)
 
-- Revised Administrative approval to Mau. Pacherisada , Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714166428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714166428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  पोमेंडी बुद्रुक (बौध्दवाडी & मयेकरवाडी), ता. गुहागर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513172240089128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513172240089128.pdf)
 
-- To give revised administrative approval for Mauje Wadi Tuljapur, Tq. Vasmat, Dist. Hingoli (20035062)  water supply scheme under Jal Jeevan Mission\
-  [202505051152298328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152298328.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  होडखाड खुर्द, ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513174036061228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513174036061228.pdf)
 
-- Revised Administrative approval to Mau. Kolawali, Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714188128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714188128.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कोतवली भाग-क (टेपभोईवाडी), ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514180453018628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514180453018628.pdf)
 
-- Revised Administrative approval to Mou. Malanjan (Tal. Sakri, Dist.Dhule) water supply sceme Under JJM.\
-  [202505061556318628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061556318628.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे. साहिलनगर, ता.दापोली, जि. रत्नागिरी (20079544) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514175641025028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514175641025028.pdf)
 
-- Revised Administrative approval to Mau. Janawale, Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714123528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714123528.pdf)
+- महाराष्ट्र जीवन प्राधिकरणातील कर्मचाऱ्यांना सातव्या वेतन आयोगानुसार सुधारित वेतन संरचना मंजूर करण्याबाबत.\
+  [20250513170846097028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513170846097028.pdf)
 
-- Revised Administrative approval to Mau. Mohallawadi  Mhaskarwadi, Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714259728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714259728.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे आळ्याचीमोट, ता. जव्हार, जि. पालघर येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513174848033428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513174848033428.pdf)
 
-- Revised Administrative approval to Mou. Dhanore GP Bhatgaon (Tal. Yeola, Dist. Nashik) water supply sceme Under JJM.\
-  [202505051628471428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051628471428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  बोंड्ये, ता. संगमेश्वर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513173122091928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513173122091928.pdf)
 
-- To give revised administrative approval for Mauje matola Khu. Tq. Omarga, Dist. Dharashiv (20089820)  water supply scheme under Jal Jeevan Mission\
-  [202505051153046528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051153046528.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  बोंड्ये, ता. संगमेश्वर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513171859077128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513171859077128.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  कुडावळे (अ) भोईदवाडी, गोविंदनगर, ता.दापोली, जि. रत्नागिरी (20063309) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174451033928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174451033928.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  बोंडीवली, ता.दापोली, जि. रत्नागिरी (20088731) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514175014044028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514175014044028.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Khopi Part-I (Gaothan), Tal. Khed, Dist. Ratnagiri under the Jal Jeevan Mission program.\
+  [202505151455265628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505151455265628.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  आपेडे, ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513172216093128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513172216093128.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  घाटीवळी बुद्रुक, ता. संगमेश्वर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513174451025228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513174451025228.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कठापूर, ता. कोरेगाव, जि.सातारा (Scheme Code 20033449) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514151536025328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514151536025328.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  पोमेंडी बुद्रुक (बाणेकरवाडी, ब्राम्हणवाडी व शिंदेवाडी), ता. रत्नागिरी, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513173325065228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513173325065228.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत  मौजे सातेरे तर्फ नातु, ता.दापोली, जि. रत्नागिरी (20086559) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514173526075928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514173526075928.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  कात्रण, ता.दापोली, जि. रत्नागिरी (20030367) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174225030128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174225030128.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे धनगव्हाण, ता. मावळ, जि.पुणे (Scheme Code 20045123 ) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514151122079128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514151122079128.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  भेलसई बाराणे गावठाण, ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514175942090928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514175942090928.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कोल्हेवाडी, ता. जुन्नर, जि.पुणे (Scheme Code 20064358 ) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514150231000728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514150231000728.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  कुडावळे (ब) वळजाईवाडी, गावठाण, ता.दापोली, जि. रत्नागिरी (20063309) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174605012128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174605012128.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  नाचणे आंबेशेत झोन-2, ता. रत्नागिरी, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513175058016828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513175058016828.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत  मौजे विश्रांतीनगर, ता.दापोली, जि. रत्नागिरी (20041002) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514173901038028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514173901038028.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  भिलारे आयणी, ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513175557035228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513175557035228.pdf)
+
+- अर्थसंकल्पिय अनुदान सन 2024-25 2215 पाणीपुरवठा व स्वच्छता 196, जिल्हा परिषदांना सहाय्य 01 जिल्हा परिषद-पंचायत संस्थांना सहाय्य, महाराष्ट्र जिल्हा परिषद व पंचायत समिती अधिनियम, 1961, च्या कलम 183 अन्वये जिल्हा परिषदांना आस्थापना अनुदाने, 01-05 नियमित आस्थापना अनिवार्य 2215 1881   मागणी क्रमांक वाय-२\
+  [20250513170145050228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513170145050228.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कोतवली भाग-अ (मांडवकरवाडी), ता. खेड, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514180217087728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514180217087728.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  समशेरअली नगर, ता.दापोली, जि. रत्नागिरी (20090640) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514175446023728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514175446023728.pdf)
+
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  देहेन, ता.दापोली, जि. रत्नागिरी (20040768) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174819065428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174819065428.pdf)
+
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  मिठगवाणे, ता. राजापुर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513171729054128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513171729054128.pdf)
+
+## Miscellaneous
+- Regarding extension of the period of deputation of Shri. Virendra Singh Pardeshi, Assistant Revenue Officer on the post of Assistant in the State Water and Sanitation Mission, Belapur office.\
+  [202505151506410028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505151506410028.pdf)
 
 ## Personnel
-- To grant revised administrative approval to the Mauje Tavshi Tad, Tal.Ausa, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150075128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150075128.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे कुंभेरी, ता. मुळशी, जि.पुणे (Scheme Code 20043735) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514150716042428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514150716042428.pdf)
 
-- To grant revised administrative approval to the Mauje Utti Kh, Tal.Latur, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149248328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149248328.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत  मौजे आसोंड, ता.दापोली, जि. रत्नागिरी (20042179) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514173038027128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514173038027128.pdf)
 
-- To grant revised administrative approval to the Mauje Kasarkheda, Tal.Latur, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149415428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149415428.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  मांदिवली, ता.दापोली, जि. रत्नागिरी (20041962) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514175248027928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514175248027928.pdf)
 
-- To grant revised administrative approval to the Mauje Ekambi, Tal.Ausa, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149344728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149344728.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  भोके, ता. रत्नागिरी, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513171527068928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513171527068928.pdf)
 
-- To grant revised administrative approval to the Mauje Kolkheda, Tal.Udagir, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149448028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149448028.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  तेऱ्ये, ता. संगमेश्वर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513172813037828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513172813037828.pdf)
 
-- To grant revised administrative approval to the Mauje Hiparga Daul, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150521428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150521428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  निवातेवाडी, ता. गुहागर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513173518062528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513173518062528.pdf)
 
-- To grant revised administrative approval to the Mauje Malkapur, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150213228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150213228.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत मौजे  मुगीज इक्बालनगर, ता.दापोली, जि. रत्नागिरी (20122957) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514174040066328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514174040066328.pdf)
 
-- To grant revised administrative approval to the Mauje Ujani, Tal.Ausa, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149226528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149226528.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत  मौजे भोपण, ता. दापोली , जि. रत्नागिरी (20022596) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514173315031328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514173315031328.pdf)
 
-- To grant revised administrative approval to the Mauje walandi, Tal.Ausa, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150372028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150372028.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे जांभवडे, ता. मावळ, जि.पुणे (Scheme Code 20043853 ) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514150354082028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514150354082028.pdf)
 
-- To grant revised administrative approval to the Mauje Daul hiparga, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150030528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150030528.pdf)
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Ukhanda (Pitthi), Taluka Patoda, Dist. Beed under the Jal Jeevan Mission program\
+  [202505151510189528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505151510189528.pdf)
 
-- To grant revised administrative approval to the Mauje Atola, Tal.Latur, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149158028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149158028.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे बानुगडेवाडी, ता. कराड, जि.सातारा (Scheme Code 20030719) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514151719000628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514151719000628.pdf)
 
-- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Ainapur, Tal. Gadhinglaj, District Kolhapur under the Jal Jeevan Mission program.\
-  [202505051148229128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051148229128.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे तुंग, ता. मावळ, जि.पुणे (Scheme Code 20049394 ) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514150938031128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514150938031128.pdf)
 
-- To grant revised administrative approval to the Mauje Kherda kh, Tal.Udagir Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149486428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149486428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे वाघाडी, ता. डहाणु, जि. पालघर येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513174650026628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513174650026628.pdf)
 
-- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Burude, Tal. Ajra, District Kolhapur under the Jal Jeevan Mission program.\
-  [202505051148415428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051148415428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  पांगरी तर्फे हवेली, ता. गुहागर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513173753012328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513173753012328.pdf)
 
-- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Burude, Tal. Ajra, District Kolhapur under the Jal Jeevan Mission program.\
-  [202505051148324028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051148324028.pdf)
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Valandi, Taluka Devani, Dist. Latur under the Jal Jeevan Mission program\
+  [202505151509117228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505151509117228.pdf)
 
-- To grant revised administrative approval to the Mauje Shend, Tal.Nilanga, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150414428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150414428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे मळवंडी ठुले, ता. मावळ, जि.पुणे (Scheme Code 20044475 ) येथील नळ पाणी पुरवठा योजनेस सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250514151347018128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514151347018128.pdf)
 
-- To grant revised administrative approval to the Mauje Kherda , Tal.Udagir Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150556428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150556428.pdf)
+- जल जीवन मिशन कार्यक्रमांतर्गत मौजे  बेनगीवाडी, ता. राजापुर, जि. रत्नागिरी येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत.\
+  [20250513175344035628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513175344035628.pdf)
 
-- To grant revised administrative approval to the Mauje Kadmuli (N.V ), Tal.Chakur, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149383428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149383428.pdf)
-
-- To grant revised administrative approval to the Mauje Awalkonda, Tal.Udagir, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149188728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149188728.pdf)
-
-- To grant revised administrative approval to the Mauje Bombli kh, Tal.Devni, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150147028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150147028.pdf)
-
-- To grant revised administrative approval to the Mauje Umarga (Court), Tal.Anantpal, Dist.Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149279528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149279528.pdf)
-
-- To grant revised administrative approval to the Mauje Malkapur, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150265128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150265128.pdf)
-
-- To grant revised administrative approval to the Mauje Janapur, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149554828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149554828.pdf)
-
-- To grant revised administrative approval to the Mauje Ramtirt, Tal.Nilanga, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150297328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150297328.pdf)
-
-- To grant revised administrative approval to the Mauje Ralga  Ralga Tanda, Tal.Ahmedpur, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150335528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150335528.pdf)
-
-- Regarding granting improved administrative approval to the piped water supply scheme at Mauje Shelap, Tal. Ajra, District Kolhapur under the Jal Jeevan Mission program.\
-  [202505051148392028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051148392028.pdf)
-
-- To grant revised administrative approval to the Mauje Dawan hiparga, Tal.Devni, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150106528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150106528.pdf)
-
-- To grant revised administrative approval to the Mauje Bhakaskheda, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150178928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150178928.pdf)
-
-- To grant revised administrative approval to the Mauje Tisgaon, Tal.Khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151101628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151101628.pdf)
-
-- Revised Administrative approval to Mau. Khodade, Tal. Wada, Dist. Palghar water supply scheme Under JJM.\
-  [202505051714485128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714485128.pdf)
-
-- To grant revised administrative approval to the Mauje indapur, Tal. Khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151284028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151284028.pdf)
-
-- To grant revised administrative approval to the Mauje Khaspur  Galleborgaon, Tal.Khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151062928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151062928.pdf)
-
-- To grant revised administrative approval to the Mauje Khupta, Tal.Sillod, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151422828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151422828.pdf)
-
-- To grant revised administrative approval to the Mauje Takali, Tal.Gangapur, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152048128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152048128.pdf)
-
-- To grant revised administrative approval to the Mauje Loni, Tal.Khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151219728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151219728.pdf)
-
-- To grant revised administrative approval to the Mauje Sonkheda, Tal. Khultabad,Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151252328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151252328.pdf)
-
-- To grant revised administrative approval to the Mauje Takali bk, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152012128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152012128.pdf)
-
-- Revised Administrative approval to Mou. Fanaspada (GP Ragatvihir) (Tal. Surgana, Dist. Nashik) water supply sceme Under JJM.\
-  [202505051629048928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051629048928.pdf)
-
-- To grant revised administrative approval to the Mauje Kolegaon, Tal.Gangapur, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151382428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151382428.pdf)
-
-- To grant revised administrative approval to the Mauje Ramnagar, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051620006728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051620006728.pdf)
-
-- To grant revised administrative approval to the Mauje Koparwel, Tal.Kannad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151349228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151349228.pdf)
-
-- Revised Administrative approval to Mau. Manmohadi, Tal. Jawhar, Dist. Palghar water supply scheme Under JJM.\
-  [202505051714563128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714563128.pdf)
-
-- Revised Administrative approval to Mau. Thakarpada, Tal. Talasari, Dist. Palghar water supply scheme Under JJM.\
-  [202505051714523528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714523528.pdf)
-
-- To grant revised administrative approval to the Mauje Malegaon, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051619368228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051619368228.pdf)
-
-- Revised Administrative approval to Mou. Babhulade (Tal. Sakri, Dist.Dhule) water supply sceme Under JJM.\
-  [202505061556225228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061556225228.pdf)
-
-- To grant revised administrative approval to the Mauje Hinchnal, Tal.Devni, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150485928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150485928.pdf)
-
-- To grant revised administrative approval to the Mauje Chimanpur wadi, Tal.Kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151533728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151533728.pdf)
-
-- To grant revised administrative approval to the Mauje kodapur, Tal.Gangapur, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151315828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151315828.pdf)
-
-- Revised Administrative approval to Mou. Vijaynagar (Tal. Deola, Dist. Nashik) water supply sceme Under JJM.\
-  [202505051629133628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051629133628.pdf)
-
-- To grant revised administrative approval to the Mauje pimpri, Tal.Khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151137528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151137528.pdf)
-
-- To give revised administrative approval for Mauje Salana, Tq. Aundha Na., Dist. Hingoli (20035453) water supply scheme under Jal Jeevan Mission\
-  [202505051152416428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152416428.pdf)
-
-- Revised Administrative approval to Mou. Paregaon (Tal. Yeola, Dist. Nashik) water supply sceme Under JJM.\
-  [202505051628566528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051628566528.pdf)
-
-- To grant revised administrative approval to the Mauje Wasadi, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051619394728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051619394728.pdf)
-
-- To grant revised administrative approval to the Mauje Jarandi, Tal.Soyegaon, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151570128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151570128.pdf)
-
-- To grant revised administrative approval to the Mauje Wetalwadi, Tal.Soyegaon, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051619446928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051619446928.pdf)
-
-- To give revised administrative approval for Mauje Indral, Tq. Deoni Dist. Latur  water supply scheme under Jal Jeevan Mission\
-  [202505051620117628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051620117628.pdf)
-
-- To give revised administrative approval for Mauje Chandgavhan, Tq. Vasmat, Dist. Hingoli (20027874) water supply scheme under Jal Jeevan Mission\
-  [202505051152375428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152375428.pdf)
-
-- To grant revised administrative approval to the Mauje hilalpur, Tal.Vaijapur, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051619501128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051619501128.pdf)
-
-- Revised Administrative approval to Mau. Mhapral, Tal. Guhagar , Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714403428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714403428.pdf)
-
-- To grant revised administrative approval to the Mauje Warul, Tal.Khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151026028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151026028.pdf)
-
-- To grant revised administrative approval to the Mauje Kholapur, Tal.Kannad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151457528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151457528.pdf)
-
-- To give revised administrative approval for Mauje Idoli, Tq. Dist. Hingoli  (20039529) water supply scheme under Jal Jeevan Mission\
-  [202505051152562128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152562128.pdf)
-
-- To grant revised administrative approval to the Mauje MahaLpimpri  Murshadkuli, Tal. chtt.sambhajinagar, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051619284528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051619284528.pdf)
-
-- To grant revised administrative approval to the Mauje Dakephal, Tal.Paithan, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152083528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152083528.pdf)
-
-- To grant revised administrative approval to the Mauje Aurali, Tal.Kannad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051150589628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150589628.pdf)
-
-- To give revised administrative approval for Mauje Changefal, Tq. Sengaon, Dist. Hingoli (20061763) water supply scheme under Jal Jeevan Mission\
-  [202505051152522228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152522228.pdf)
-
-- To grant revised administrative approval to the Mauje Chigali, Tal.Udagir, Dist. Latur water supply scheme under the Jal Jeevan Mission program.\
-  [202505051149520228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051149520228.pdf)
-
-- Revised Administrative approval to Mau. Tarawal Mayangadewadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714335828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714335828.pdf)
-
-- To give revised administrative approval for Mauje Fuldhaba, Tq. Aundha Na., Dist. Hingoli (20035027) water supply scheme under Jal Jeevan Mission\
-  [202505051153005528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051153005528.pdf)
-
-- To grant revised administrative approval to the Mauje Nagad Tanda, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152123428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152123428.pdf)
-
-- Revised Administrative approval to Mou. Thangaon (Tal. Yeola, Dist. Nashik) water supply sceme Under JJM.\
-  [202505051628426328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051628426328.pdf)
-
-- To give revised administrative approval for Mauje Malvata, Tq. Vasmat, Dist. Hingoli (20063513) water supply scheme under Jal Jeevan Mission\
-  [202505051152340028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152340028.pdf)
-
-- To grant revised administrative approval to the Mauje Palshi Bk, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152157628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152157628.pdf)
-
-- To give revised administrative approval for Mauje Maharana Pratap and Nishari Tanda Tq. Omarga, Dist. Dharashiv (20073911) water supply scheme under Jal Jeevan Mission\
-  [202505051153089728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051153089728.pdf)
-
-- Revised Administrative approval to Mou. Aurangpur (Tal. Niphad, Dist. Nashik) water supply sceme Under JJM.\
-  [202505051628286928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051628286928.pdf)
-
-- To grant revised administrative approval to the Mauje ghanwat, Tal.Soyegaon, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151495128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151495128.pdf)
-
-- To give revised administrative approval for Mauje Borol, Tq. Deoni Dist. Latur  water supply scheme under Jal Jeevan Mission\
-  [202505051620064728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051620064728.pdf)
-
-- Revised Administrative approval to Mou. Darkhel (Tal. Sakri, Dist.Dhule) water supply sceme Under JJM.\
-  [202505061556171028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061556171028.pdf)
-
-- Revised Administrative approval to Mau. Tarawal, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.\
-  [202505051714300928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714300928.pdf)
-
-- To give revised administrative approval for Mauje Umra, Tq. Aundha Na., Dist. Hingoli (20029503) water supply scheme under Jal Jeevan Mission\
-  [202505051152453228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152453228.pdf)
-
-- To grant revised administrative approval to the Mauje Sonwati, Tal.Latur, Dist. Latur water supply scheme under the Jal Jeevan Mission program\
-  [202505051150453328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051150453328.pdf)
-
-- To grant revised administrative approval to the Mauje Mohadi, Tal.kannad, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051619551528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051619551528.pdf)
-
-- To grant revised administrative approval to the Mauje Lamangaon, Tal.khultabad, Dist.chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051151174628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051151174628.pdf)
-
-- To grant revised administrative approval to the Mauje Borgaon, Tal.Sillod, Dist. chtt.sambhajinagar water supply scheme under the Jal Jeevan Mission program.\
-  [202505051152262028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051152262028.pdf)
-
-- Revised Administrative approval to Mou. Malgaon Dongarpada (Tal. Sakri, Dist.Dhule) water supply sceme Under JJM.\
-  [202505061556368728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061556368728.pdf)
-
-- Revised Administrative approval to Mau. Ghiwali, Tal. Palghar, Dist. Palghar water supply scheme Under JJM.\
-  [202505051714439928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051714439928.pdf)
+- जल जीवन मिशन कार्यक्रमा अंतर्गत  मौजे पाचवली, ता.दापोली, जि. रत्नागिरी (20064876) येथील नळ पाणी पुरवठा योजनेच्या सुधारीत अंदाजपत्रकास सुधारीत प्रशासकीय मान्यता प्रदान करणेबाबत\
+  [20250514173720085228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514173720085228.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,21 +1,18 @@
 # Law and Judiciary Department
 
-**Date Range**: 12 May 2025 - 17 May 2025
+**Date Range**: 19 May 2025 - 24 May 2025
 
 
 ## Funds
-- Regarding granting administrative approval for the work related to meeting arrangements for the scanning department in the main building of the Nagpur Bench.\
-  [202505051532150012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051532150012.pdf)
+- Revised Administrative Approval  - Construction of new Court Building (G3) at Umerga, Dist Dharashiv\
+  [202505161225457112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505161225457112.pdf)
 
-- Regarding granting administrative approval for the renovation of the residence of Honble Justice, High Court, Saumitra at Civil Lines, Nagpur.\
-  [202505051535178012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051535178012.pdf)
-
-- Honble Bombay High Court, Bench Nagpur, regarding granting administrative approval for the work related to the construction of a canteen kitchen in the main building.\
-  [202505061213250712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061213250712.pdf)
+- New Adminsitrative approval to construction of residential quarter for Civil Judge (J.D.) at Karjat, Dist Ahilyanagar by superseding old administrative approval\
+  [202505161215570712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505161215570712.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval for the renovation of Satyasheel Complex, the residence of the Administrator of the Honble High Court, at Civil Lines, Nagpur.\
-  [202505061217459012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061217459012.pdf)
+- विधि व न्याय विभाग, कार्यासन ८ च्या अधिपत्याखालील १३ सरकारी वकील कार्यालयातील अधिकारी-कर्मचारी यांच्या वेतनसंरचनेत सुधारणा करण्यासंदर्भात उपसमितीने केलेल्या शिफारशींचा अभ्यास करण्याकरिता समिती गठित करण्याबाबत\
+  [20250514175208035212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250514175208035212.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
