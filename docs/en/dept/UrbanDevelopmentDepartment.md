@@ -1,11 +1,11 @@
 # Urban Development Department
 
-**Date Range**: 19 May 2025 - 24 May 2025
+**Date Range**: 26 May 2025 - 31 May 2025
 
 
-## Personnel
-- नगर रचना व मूल्यनिर्धारण संचालनालयाच्या आस्थापनेवरील उप संचालक, नगर रचना (गट-अ  राजपत्रित) संवर्गातील अधिकाऱ्यांची दि.01.01.2025 रोजीची तात्पुरती ज्येष्ठता सूची प्रसिध्द करण्याबाबत.\
-  [20250513150308001025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/20250513150308001025.pdf)
+## Miscellaneous
+- Implementation of Abhay Yojana to recover taxes by waiving penalties on outstanding property taxes In the Nagar Palika/ Municipal Councils and Nagar Panchayats areas.\
+  [202505191514244625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191514244625.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
