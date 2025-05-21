@@ -1,14 +1,17 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 12 May 2025 - 17 May 2025
+**Date Range**: 26 May 2025 - 31 May 2025
 
 
-## Personnel
-- Regarding the reversion of the services of Shri. Prakash Saundaji Aghav-Patil, District Supply Officer, Gadchiroli (original cadre Deputy Collector, Group-A) to the Revenue and Forest Department...\
-  [202505051506489406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505051506489406....pdf)
+## Miscellaneous
+- Regarding the assignment of additional charge of the vacant post of Food Distribution Officer, Nagpur to Mr. Vinod Narayan Kale, Technical Officer, Divisional Commissioners Office, Nagpur...\
+  [202505201143217706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201143217706.pdf)
 
-- Regarding partial change in the posting order for the post of Inspector, Legal Metrology, Group-B (Gazetted).\
-  [202505061305580006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505061305580006.pdf)
+- Regarding the assignment of additional charge of the vacant post of District Supply Officer, Palghar to Mr. Sima Manoharrao Mahalle, Assistant District Supply Officer, Palghar...\
+  [202505201146313206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201146313206.pdf)
+
+- Regarding the assignment of additional charge of the vacant post of District Supply Officer, Jalgaon to Mr. Rupesh Vijay Bijewar, Assistant District Supply Officer, Jalgaon...\
+  [202505201145076106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201145076106.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

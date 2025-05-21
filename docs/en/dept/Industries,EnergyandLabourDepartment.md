@@ -23,6 +23,9 @@
 - Regarding publishing the final seniority list of Group-A and Group-B officers of Directorate of Government Printing, Stationery and Publications as on 01/01/2024.\
   [202505191624596510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191624596510.pdf)
 
+- Visit of Delegation Government of Maharashtra to participate in The Shoe and Leather Fair at Guanzhou, China\
+  [202505201554331410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201554331410.pdf)
+
 ## Personnel
 - Guidelines regarding fund release 2025-26.\
   [202505191446047310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191446047310.pdf)
