@@ -7,6 +7,9 @@
 - Fund distribution of the financial year 2025-2026 for Composit Training Center, Gargoti, Dist. Kolhapur.  Major Account Head - 25150026  1st installment (Salary)\
   [202505201607409620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201607409620.pdf)
 
+- To issue Short tender notice under E-Tendering System\
+  [202505211748257620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211748257620.pdf)
+
 ## Miscellaneous
 - Regarding the ad hoc promotion of officers in the cadre of Assistant Group Development Officer (S-15) Group-B to Group Development Officer, Group-A (S-20) cadre in the Maharashtra Development Service.  (Selection List Year 2023-24)\
   [202505191448525720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191448525720.pdf)

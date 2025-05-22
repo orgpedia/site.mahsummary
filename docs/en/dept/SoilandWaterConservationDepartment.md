@@ -14,6 +14,9 @@
 - Regarding giving individual awards to engineers who have performed outstandingly in the Soil and Water Conservation Department.\
   [202505201114543626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201114543626.pdf)
 
+- Recruitment through external agencies for the establishment of a Project Management Unit to oversee and manage the implementation of Jalyukt Shivar Abhiyan 2.0.\
+  [202505211511044226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211511044226.pdf)
+
 ## Personnel
 - Provisional seniority list dated 01-01-2022 of the cadre of Water Conservation Officer, Group-B (Gazetted) in the Soil and Water Conservation Department - Corrigendum\
   [202505191252397926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191252397926.pdf)

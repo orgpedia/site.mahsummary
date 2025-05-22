@@ -7,5 +7,8 @@
 - Regarding the government approval to take the buildings in R. C. F. Colony on lease for the Government Medical College, Alibaug, as well as to cover the expenses of electricity and water and other maintenance and repair, and to enter into necessary agreements.\
   [202505201207583213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201207583213.pdf)
 
+- Regarding approval to open a Personal Ledger Account (P.L.A.) for the institution Government Medical College, Nashik.\
+  [202505211112486013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211112486013.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

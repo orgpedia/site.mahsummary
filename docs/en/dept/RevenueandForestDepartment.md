@@ -42,5 +42,44 @@
 - Regarding the implementation of Maharajaswa Abhiyan in the revenue year 2024-25 to make revenue administration more people-oriented, efficient, dynamic and transparent....\
   [202505201618069519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201618069519.pdf)
 
+- Regarding transfer of officers in the Additional District Collector cadre\
+  [202505211657587319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211657587319.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211656383119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211656383119.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211705121219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211705121219.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211652437319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211652437319.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211702072619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211702072619.pdf)
+
+- Transfer of officers in the Naib Tehsildar cadre (Konkan Division).\
+  [202505211735528319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211735528319.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211708367819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211708367819.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211703310319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211703310319.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211700441719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211700441719.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211654191119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211654191119.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211650576819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211650576819.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211712184719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211712184719.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202505211709580219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211709580219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

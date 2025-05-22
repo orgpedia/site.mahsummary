@@ -17,5 +17,8 @@
 - Establishment of Court of Civil Judge, Senior Division at Rahuri, Dist. Ahilyanagar.\
   [202505191507274212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191507274212.pdf)
 
+- Year 2025-26 Budgetary Grant Demand No. Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Advances for Purchase of Motor Vehicles (7610 0481) Allocation of Advances for Purchase of New Motorcycle/Scooter.\
+  [202505211234424712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211234424712.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
