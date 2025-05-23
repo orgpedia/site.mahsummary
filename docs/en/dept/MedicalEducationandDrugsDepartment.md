@@ -10,5 +10,8 @@
 - Regarding approval to open a Personal Ledger Account (P.L.A.) for the institution Government Medical College, Nashik.\
   [202505211112486013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211112486013.pdf)
 
+- Regarding the commencement of a new Dental Postgraduate Degree course in Pediatric Dentistry with an admission capacity of 03 students at Mahatma Gandhi Mission Dental College and Hospital, Navi Mumbai.\
+  [202505221341329413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221341329413.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

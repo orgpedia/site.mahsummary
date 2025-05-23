@@ -11,5 +11,8 @@
 - Regarding approval to condone delay in payment of pending payment for more than six years due to lack of demand by the Administrative Department as per Rule No. 39B of Mumbai Financial Rules, 1959--Shri. Vijay Vitthal Barge, Retired Driver (R.A.)\
   [202505211110212018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211110212018.pdf)
 
+- Promotion order of Junior Engineer (Diploma Holder), Zillah Parishad (Works) on the post of Sub Divisional Officer (Civil), Public Works Department\
+  [202505221227271318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221227271318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

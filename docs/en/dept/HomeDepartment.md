@@ -22,6 +22,9 @@
 - Regarding approval of the cost of reinstalling and implementing 07 examination level servers under AMBIS computer system in 02 newly constructed Police Commissionerates and 05 regional divisions under the jurisdiction of Commissioner of Police, Mumbai.\
   [202505211757091629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211757091629.pdf)
 
+- Regarding approval to implement the entire project of Mobile Forensic Vehicles in the state of Maharashtra for the implementation of the Indian Civil Security Code-2023.\
+  [202505221332560629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221332560629.pdf)
+
 ## Miscellaneous
 - Regarding the implementation of Aggregators Policy for app-based vehicles in the state of Maharashtra.\
   [202505201148431129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201148431129.pdf)
@@ -35,6 +38,12 @@
 
 - Regarding transfers/ postings of State Police Service officers.\
   [202505201715068829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201715068829.pdf)
+
+- Regarding transfer/postings of I.P.S. officer.\
+  [202505221514299229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221514299229.pdf)
+
+- Regarding transfer/postings of I.P.S. officer.\
+  [202505221705271529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221705271529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

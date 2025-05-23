@@ -17,9 +17,15 @@
 - Recruitment through external agencies for the establishment of a Project Management Unit to oversee and manage the implementation of Jalyukt Shivar Abhiyan 2.0.\
   [202505211511044226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211511044226.pdf)
 
+- Final Seniority List dated 01-01-2021 of the cadre of Water Conservation Officer, Group-B (Gazetted) in the Soil and Water Conservation Department - Corrigendum\
+  [202505221106421426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221106421426.pdf)
+
 ## Personnel
 - Provisional seniority list dated 01-01-2022 of the cadre of Water Conservation Officer, Group-B (Gazetted) in the Soil and Water Conservation Department - Corrigendum\
   [202505191252397926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191252397926.pdf)
+
+- Provisional seniority list dated 01-01-2022 of the cadre of Water Conservation Officer, Group-B (Gazetted) in the Soil and Water Conservation Department - Corrigendum\
+  [202505221101274026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221101274026.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,5 +16,12 @@
 - Special program for the development of the Gowari community - Regarding the implementation of financial concessions in the fees for competitive examinations for unemployed youths/women belonging to the Gowari community belonging to the Special Backward Category.\
   [202505201733080934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201733080934.pdf)
 
+## Personnel
+- Appointment and posting on deputation to the post of Assistant Director, OBC Dept. Solapur in the subordinate regional office of the department Shri. Ganesh A. Sontakke, Assistant Conservator of Forests\
+  [202505221224120534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221224120534.pdf)
+
+- Appointment and posting on deputation to the post of Assistant Director, I.M.B.K. Dharashiv in the subordinate regional office of the department Shri. Amol B. Takbhate, Group Development Officer\
+  [202505221219395434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221219395434.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

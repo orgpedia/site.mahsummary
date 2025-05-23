@@ -23,5 +23,8 @@
 - Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill. Major Account Head - 24150624, 24150312. 1st installment (Salary)\
   [202505201607338120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201607338120.pdf)
 
+- Regarding declaring Director, State Management Cell, Panchayat Raj, Pune as Controlling Officer and Deputy Director, Director, State Management Cell, Panchayat Raj, Maharashtra State, Pune as Drawing and Disbursement Officer.\
+  [202505221440448220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221440448220.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

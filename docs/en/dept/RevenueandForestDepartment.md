@@ -29,6 +29,18 @@
 - Regarding approval to register the expenditure incurred for the Unified Project Management Unit established under the Revenue Department from the personal ledger accounts of the Inspector General and Controller of Stamps.\
   [202505201231358019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201231358019.pdf)
 
+- Forest Land- Pune Diversion 0f 0.02375 ha. of Reserved forest land in favour of Pune Municipal Corporation, Pune for laying of underground drinking water pipeline from Cloud nine ESR to Krishna Nagar, Mohammad Wadi, Pune, at village- Mohammad Wadi, Taluka-Haveli, District-Pune in the State of Maharashtra.\
+  [202505221748294019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221748294019.pdf)
+
+- Forest Land- Dhule Re-diversion of forest land 0.8991 ha. for Laying Underground Optical Fiber Cable along with the road in ROW of NH-52 from Songir to Sondale and Dahiwad - Sanghvi -Palasner to MH/MP State Border in Dhule, Sindkheda and Shirpur Tehsil of Dist. Dhule in State of Maharashtra.\
+  [202505221751377319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221751377319.pdf)
+
+- Regarding providing agricultural roads and taking note of other rights of 7/12 passage in this regard, giving directions to the Regional Officers/Authorities\
+  [202505221710059019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221710059019.pdf)
+
+- Regarding granting administrative approval for the research proposal HEalth risks of hAT Waves in informal settlements in Maharashtra: Informing policy and practice through Scientific Evidence and simulation modelling (HEAT WISE) through IIT, Mumbai for an expenditure of Rs. 4,90,29,354/-.\
+  [202505221451107419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221451107419.pdf)
+
 ## Personnel
 - Regarding regularization of acquired land at Mouje Bidkin, Mouje Bannitanda, Taluka Paithan, District Chhatrapati Sambhajinagar for the project Delhi Mumbai Industrial Corridor (DMIC) -- Applicant- Shri. Vishnu Dhadu Pawar\
   [202505191716290019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191716290019.pdf)
@@ -80,6 +92,15 @@
 
 - Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
   [202505211709580219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211709580219.pdf)
+
+- Regarding posting of Assistant Revenue Officer and Board Officer cadre to Naib Tehsildar cadre on a purely temporary basis on vacant posts in regular promotion quota as well as on deputation on vacant posts by ad hoc promotion (Konkan Division).\
+  [202505221622296219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221622296219.pdf)
+
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List Year 2023-24).\
+  [202505221625148119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221625148119....pdf)
+
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List Year 2023-24).\
+  [202505221624128019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221624128019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
