@@ -60,5 +60,8 @@
 - Request for Transfer-2025. Electrical Inspector, Group-A (Gazetted)\
   [202505221821419210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221821419210.pdf)
 
+- Superintending Engineer, Group-A (Gazetted) Periodic Transfer Year 2025.\
+  [202505231802352610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231802352610.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

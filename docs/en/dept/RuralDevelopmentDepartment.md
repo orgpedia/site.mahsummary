@@ -26,5 +26,9 @@
 - Regarding declaring Director, State Management Cell, Panchayat Raj, Pune as Controlling Officer and Deputy Director, Director, State Management Cell, Panchayat Raj, Maharashtra State, Pune as Drawing and Disbursement Officer.\
   [202505221440448220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221440448220.pdf)
 
+## Personnel
+- Amendment in Government Resolution Dated 15.5.2014 regarding Transfer Policy of Zilla Parishad Group C and D employees.\
+  [202505231734215920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231734215920.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

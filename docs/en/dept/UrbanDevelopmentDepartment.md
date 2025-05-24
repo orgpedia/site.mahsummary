@@ -52,6 +52,12 @@
 - Regarding Administrative Approval to the water supply Project of Bhamragad Nagar Panchayat under Amrut 2.0. (Rs. 64.89 Cr.)\
   [202505221303551325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221303551325.pdf)
 
+- Regarding administrative approval to the water supply project of Kulgaon Badlapur Municipal council under Nagarotthan Mahabhiyan\
+  [202505231107454425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231107454425.pdf)
+
+- Regarding relaxation in charging ground rent for the redevelopment and renovation project of the building at Nagpur Sudhar Pranyas Cultural Complex at Gokulpeth Market, Maw. Gadga, Khasra No. 28/1, and Maw. Ambazari, Khasra No. 40.\
+  [202505231208105625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231208105625.pdf)
+
 ## Miscellaneous
 - Implementation of Abhay Yojana to recover taxes by waiving penalties on outstanding property taxes In the Nagar Palika/ Municipal Councils and Nagar Panchayats areas.\
   [202505191514244625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191514244625.pdf)
@@ -59,6 +65,9 @@
 ## Personnel
 - Regarding transfer and promotion of officers in the Design Assistant cadre, who have been given the status of Assistant Town Planner, Grade-2 (Group-B / Gazetted) on the establishment of the Directorate of Town Planning and Valuation, to the approved post of Design Assistant cadre.\
   [202505221449029025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221449029025.pdf)
+
+- Regarding approval to open a separate drawing account with the Reserve Bank of India for the Centrally Sponsored Swachh Maharashtra Mission (Civil) 2.0 scheme to implement the alternative fund flow mechanism SNA-SPARSH for disbursing funds of Centrally Sponsored Schemes.\
+  [202505231554119125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231554119125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

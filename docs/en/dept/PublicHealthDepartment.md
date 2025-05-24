@@ -59,5 +59,11 @@
 - Regarding review of service of officers in the Maharashtra Medical and Health Services Group-A Class-1 District Surgeon/District Health Officer/Specialist (Pay Scale S-23: 67700-208700) cadre and General State Services Group-A Senior Scientific Officer (Public Analyst) cadre after the age of 50/55 years under the Health Services Commissionerate.\
   [202505211259384917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211259384917.pdf)
 
+- Regarding temporary promotion to the post of Chief Technical Officer/Officer-in-Charge in General State Service Group-A\
+  [202505211300307117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211300307117.pdf)
+
+- Regarding termination of services of Medical Officers, Group-A (S-20) who are unauthorized absent during the probationary period. . .\
+  [202505211300349817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211300349817.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,6 +25,9 @@
 - Regarding approval to implement the entire project of Mobile Forensic Vehicles in the state of Maharashtra for the implementation of the Indian Civil Security Code-2023.\
   [202505221332560629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221332560629.pdf)
 
+- Maharashtra Electric Vehicle Policy-2025.\
+  [202505231834008229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231834008229....pdf)
+
 ## Miscellaneous
 - Regarding the implementation of Aggregators Policy for app-based vehicles in the state of Maharashtra.\
   [202505201148431129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201148431129.pdf)

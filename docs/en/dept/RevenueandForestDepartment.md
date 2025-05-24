@@ -41,6 +41,9 @@
 - Regarding granting administrative approval for the research proposal HEalth risks of hAT Waves in informal settlements in Maharashtra: Informing policy and practice through Scientific Evidence and simulation modelling (HEAT WISE) through IIT, Mumbai for an expenditure of Rs. 4,90,29,354/-.\
   [202505221451107419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221451107419.pdf)
 
+- Determining the policy to use artificial sand (M-SAND) for various exports\
+  [202505231704410819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231704410819.pdf)
+
 ## Personnel
 - Regarding regularization of acquired land at Mouje Bidkin, Mouje Bannitanda, Taluka Paithan, District Chhatrapati Sambhajinagar for the project Delhi Mumbai Industrial Corridor (DMIC) -- Applicant- Shri. Vishnu Dhadu Pawar\
   [202505191716290019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191716290019.pdf)
