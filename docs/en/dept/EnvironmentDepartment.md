@@ -70,6 +70,30 @@
 - Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 3.0 Kerhale bk. Gram Panchayat.\
   [202505231250185004.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231250185004.pdf)
 
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. Pemgiri gram panchayat\
+  [202505231252031204.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231252031204.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. Lohare gram panchayat\
+  [202505231251475204.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231251475204.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. chincholi Gurav Gram panchayat\
+  [202505231251424304.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231251424304.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. Satara Muncipal Council\
+  [202505231252171904.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231252171904.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. Kharabi gram panchayat\
+  [202505231251582304.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231251582304.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0.Bela gram panchayat\
+  [202505231251533104.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231251533104.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. Pimpri Sayyad Gram panchayat\
+  [202505231251375304.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231251375304.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0. Aavli Dumala  gram panchayat\
+  [202505231251319004.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231251319004.pdf)
+
 ## Personnel
 - Regarding declaring the Drawing and Disbursement Officer of the Department of Environment and Climate Change as Virtual Personal Deposit Account Administrator (VPDAA) for speedy disbursement and monitoring of grant-in-aid.\
   [202505211607540104.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211607540104.pdf)
