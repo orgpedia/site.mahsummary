@@ -13,5 +13,8 @@
 - Regarding blacklisting of Kunal, I.T. Services Pvt. Ltd., Pune organization for providing goods and services to the Tribal Development Department.\
   [202505261604404624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505261604404624.pdf)
 
+- Regarding granting administrative approval to the computerization process for projects implemented through the Construction Management Cell under the Tribal Development Department.\
+  [202505271701012624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271701012624.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
