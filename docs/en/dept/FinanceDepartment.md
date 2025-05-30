@@ -1,11 +1,17 @@
 # Finance Department
 
-**Date Range**: 19 May 2025 - 24 May 2025
+**Date Range**: 02 June 2025 - 07 June 2025
 
 
-## Personnel
-- महाराष्ट्र वित्त व लेखा सेवा लेखा अधिकारी  संवर्गातील अधिकाऱ्यांची दि.1.1.२०२३ व दि.1.1.२०२४ ची स्थिती दर्शविणारी तात्पूरती ज्येष्ठतासूची.\
-  [20250513111920033605.pdf](https://gr.maharashtra.gov.in/assets/public/20250513111920033605.pdf)
+## Miscellaneous
+- Terms and Conditions for appointment of Shri.S.Chnadrasekhar, Economist,   Member 6th Maharashtra Finance Commission.\
+  [202505291716569805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291716569805.pdf)
+
+- Supplementary Demands, June 2025\
+  [202505291058423105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291058423105.pdf)
+
+- Terms and Conditions for appointment of Shri.Mukesh Khullar, (Retired IAS) Chairman 6th Maharashtra Finance Commission.\
+  [202505291641085605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291641085605.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

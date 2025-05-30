@@ -1,34 +1,11 @@
 # Rural Development Department
 
-**Date Range**: 26 May 2025 - 31 May 2025
+**Date Range**: 02 June 2025 - 07 June 2025
 
-
-## Funds
-- Fund distribution of the financial year 2025-2026 for Composit Training Center, Gargoti, Dist. Kolhapur.  Major Account Head - 25150026  1st installment (Salary)\
-  [202505201607409620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201607409620.pdf)
-
-- To issue Short tender notice under E-Tendering System\
-  [202505211748257620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505211748257620.pdf)
 
 ## Miscellaneous
-- Regarding the ad hoc promotion of officers in the cadre of Assistant Group Development Officer (S-15) Group-B to Group Development Officer, Group-A (S-20) cadre in the Maharashtra Development Service.  (Selection List Year 2023-24)\
-  [202505191448525720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191448525720.pdf)
-
-- Regarding the inclusion of non-plan roads in Tuljapur Taluka (Dist-Dharashiv) as a Village Road in the Road Development Plan 2001-21.\
-  [202505191456190320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191456190320.pdf)
-
-- Regarding the inclusion of non-plan roads in Khatav Taluka (Dist-Satara) as a Village Road in the Road Development Plan 2001-21.\
-  [202505191456211520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191456211520.pdf)
-
-- Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill. Major Account Head - 24150624, 24150312. 1st installment (Salary)\
-  [202505201607338120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505201607338120.pdf)
-
-- Regarding declaring Director, State Management Cell, Panchayat Raj, Pune as Controlling Officer and Deputy Director, Director, State Management Cell, Panchayat Raj, Maharashtra State, Pune as Drawing and Disbursement Officer.\
-  [202505221440448220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221440448220.pdf)
-
-## Personnel
-- Amendment in Government Resolution Dated 15.5.2014 regarding Transfer Policy of Zilla Parishad Group C and D employees.\
-  [202505231734215920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231734215920.pdf)
+- Calculation tables for the benefit provision of savings fund of the group insurance scheme implemented for Zilla Parishad employees - Year 2025.\
+  [202505231302095020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231302095020.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

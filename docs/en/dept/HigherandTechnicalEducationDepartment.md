@@ -19,5 +19,8 @@
 - Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... Indrayani Vidya Mandirs Yashoda Mahadev Kakade College of Engineering, Talegaon-Dabhade, Pune.\
   [202505271131569108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271131569108.pdf)
 
+- Regarding issuing guidelines regarding the procurement process to all non-agricultural universities in the state...\
+  [202505281620087408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281620087408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -178,5 +178,11 @@
 - Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self-government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan  3.0  Barshi  municipal Council\
   [202505271036446704.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271036446704.pdf)
 
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self- government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0 . Yevala MUNCIPAL COUNCIL\
+  [202505281733305804.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281733305804.pdf)
+
+- Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self- government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0 . bhajepar  Gram Panchayat.\
+  [202505281152432304.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281152432304.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

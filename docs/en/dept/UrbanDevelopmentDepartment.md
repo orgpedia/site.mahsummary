@@ -1,73 +1,45 @@
 # Urban Development Department
 
-**Date Range**: 26 May 2025 - 31 May 2025
+**Date Range**: 02 June 2025 - 07 June 2025
 
 
 ## Funds
-- Regarding Administrative Approval to the Lendala Lake Rejuvenation Project of Bhadravati Municipal Council under Amrut 2.0. (Rs. 17.00 Cr.)\
-  [202505221301102525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221301102525.pdf)
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-5 (Thane-Bhivandi-Kalyan) Project (FY 2025-26)\
+  [202505291646203025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291646203025.pdf)
 
-- Regarding Administrative Approval to the Green Space Development Project of Dharangaon Municipal Council under Amrut 2.0. . (Rs. 2.55 crore)\
-  [202505221316185425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221316185425.pdf)
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-7 (Andheri (East) to Dahisar (East)) Project (FY 2025-26)\
+  [202505291701396325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291701396325.pdf)
 
-- Regarding Administrative Approval to the water supply Project of Akola Municipal Corporation under Amrut 2.0. (Rs. 217.51 Cr.)\
-  [202505221258247025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221258247025.pdf)
+- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-9 Dahisar to Mira-Bhayandar and Line-7A- Andheri-CSMIA Project (FY 2025-26)\
+  [202505291654328125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291654328125.pdf)
 
-- Regarding Administrative Approval to the Lake Rejuvenation Project of Erandol Municipal Council under Amrut 2.0. . (Rs.3.52 crore)\
-  [202505221318424225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221318424225.pdf)
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-2A (Dahisar (E) to D.N. Nagar) Project (FY 2025-26)\
+  [202505291649590325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291649590325.pdf)
 
-- Regarding Administrative Approval to the Green Space Development of Umri Municipal Council under Amrut 2.0. . (Rs. 1.81 crore)\
-  [202505221324079025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221324079025.pdf)
+- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-6 (Swami Samarth Nagar-Jogeshwari-Vikhroli) Project (FY 2025-26)\
+  [202505291705496125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291705496125.pdf)
 
-- Regarding Administrative Approval to the lake rejuvenation project of Bodwad Nagar Panchayat under Amrut 2.0. . (Rs. 1.95 crore)\
-  [202505221307567825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221307567825.pdf)
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-10 Gaimukh  Shivaji Chowk(Mira road) Project (FY 2025-26)\
+  [202505291657062825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291657062825.pdf)
 
-- Regarding Administrative Approval to the Green space Development Project of Ajra Nagar Panchayat under Amrut 2.0. (Rs.0.77 Cr.)\
-  [202505221255298125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221255298125.pdf)
+- Regarding disbursement of State Governments secondary loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Route-4 (Wadala-Ghatkopar-Mulund-Thane-Kasarvadavali) and Mumbai Metro Route-4A (Kasarvadavali-Gaymukh) projects. (Year 2025-26)\
+  [202505291652178825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291652178825.pdf)
 
-- Regarding Administrative Approval to the water supply Project of Bhandara Municipal Council under Amrut 2.0. . (Rs. 20.12 crore)\
-  [202505221306172025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221306172025.pdf)
+- Regarding granting approval of the State Government to lease land at Deonar, Mumbai of Brihanmumbai Municipal Corporation to M.Mahanagar Gas Limited at a concessional rate for the construction, operation and maintenance of a compressed biogas project using biomethanation technology.\
+  [202505281741449825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281741449825.pdf)
 
-- Regarding Administrative Approval to the Lake Rejuvenation Project of Paranda Municipal Council under Amrut 2.0. . (Rs.2.65 crore)\
-  [202505221322267225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221322267225.pdf)
+- Release of State Government Sub-ordinate Loan for Mumbai Metro-2B (D.N.Nagar- Mandale) Project to Mumbai Metropolitan Region Development Authority.                 (FY 2025-26)\
+  [202505291703395325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291703395325.pdf)
 
-- Regarding Administrative Approval to the Lake Rejuvenation Project of Shegaon Municipal Council under Amrut 2.0. . (Rs. 7.68 crore)\
-  [202505221326197425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221326197425.pdf)
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-12 (Kalyan - Taloja) Project (FY 2025-26)\
+  [202505291659525825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291659525825.pdf)
 
-- Regarding Administrative Approval to the Lake Rejuvenation Project of Junnar Municipal Council under Amrut 2.0. . (Rs. 7.67 crore)\
-  [202505221320454425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221320454425.pdf)
-
-- Regarding Administrative Approval to the Green space Development Project of Chopda Municipal Counci under Amrut 2.0. . (Rs. 1.95 crore)\
-  [202505221310210825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221310210825.pdf)
-
-- Regarding granting administrative approval to the Development Plans of Pilgrimage sites i) Shri Lakshmi Narayan Mandir ii) Kuttewala Baba Mandir iii) Muralidhar Mandir in Nagpur city.\
-  [202505221437374425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221437374425.pdf)
-
-- Regarding Administrative Approval to the Lake Rejuvenation Project of Dharangaon Municipal Council under Amrut 2.0. . (Rs.5.86 crore)\
-  [202505221312185925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221312185925.pdf)
-
-- Regarding Administrative Approval to the water supply Project of Dharangaon Municipal Council under Amrut 2.0. . (Rs. 39.69 crore)\
-  [202505221314269725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221314269725.pdf)
-
-- Regarding Administrative Approval to the water supply Project of Bhamragad Nagar Panchayat under Amrut 2.0. (Rs. 64.89 Cr.)\
-  [202505221303551325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221303551325.pdf)
-
-- Regarding administrative approval to the water supply project of Kulgaon Badlapur Municipal council under Nagarotthan Mahabhiyan\
-  [202505231107454425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231107454425.pdf)
-
-- Regarding relaxation in charging ground rent for the redevelopment and renovation project of the building at Nagpur Sudhar Pranyas Cultural Complex at Gokulpeth Market, Maw. Gadga, Khasra No. 28/1, and Maw. Ambazari, Khasra No. 40.\
-  [202505231208105625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231208105625.pdf)
+- Regarding granting administrative approval for new/improved works under the pilgrimage site development plan of Shri Mahalaxmi Jagdamba Sansthan, Koradi, Tal. Kamthi, Dist. Nagpur.\
+  [202505291254527325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291254527325.pdf)
 
 ## Miscellaneous
-- Implementation of Abhay Yojana to recover taxes by waiving penalties on outstanding property taxes In the Nagar Palika/ Municipal Councils and Nagar Panchayats areas.\
-  [202505191514244625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505191514244625.pdf)
-
-## Personnel
-- Regarding transfer and promotion of officers in the Design Assistant cadre, who have been given the status of Assistant Town Planner, Grade-2 (Group-B / Gazetted) on the establishment of the Directorate of Town Planning and Valuation, to the approved post of Design Assistant cadre.\
-  [202505221449029025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505221449029025.pdf)
-
-- Regarding approval to open a separate drawing account with the Reserve Bank of India for the Centrally Sponsored Swachh Maharashtra Mission (Civil) 2.0 scheme to implement the alternative fund flow mechanism SNA-SPARSH for disbursing funds of Centrally Sponsored Schemes.\
-  [202505231554119125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505231554119125.pdf)
+- Regarding determining the premium for the land at Mouja Lendra, Kh.No. 142/2, Plot No. 4/ LA in Nagpur city and forming a tender committee to implement the tender system.\
+  [202505291258224025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291258224025.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
