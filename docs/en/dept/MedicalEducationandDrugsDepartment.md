@@ -32,5 +32,8 @@
 - Administrative Approval for Purchase of Machinary  Equipment at Government Medical College  Hospital Chandrapur\
   [202505261454341113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505261454341113.pdf)
 
+- Administrative Approval for Purchase of Machinary  Equipment from State Plan Grant at Sir J J Group of Hospital Mumbai\
+  [202505301543371913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301543371913.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

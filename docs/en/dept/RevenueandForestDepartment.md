@@ -7,6 +7,12 @@
 - Regarding the distribution of funds to meet the salary expenses of 6 temporary posts working at Shri.Chouranginath Nature Tourism Site, located at Sonsal, Taluka Kadegaon, District Sangli, under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2025-26.\
   [202505281818169719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281818169719.pdf)
 
+- Regarding distribution of funds to all Divisional Commissioners for immediate financial assistance to disaster victims for repair/reconstruction of houses in connection with the collapse of houses during natural disasters.\
+  [202505301832263219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301832263219.pdf)
+
+- Regarding granting administrative approval for the siltation cost of Savitri River and its tributaries under the flood mitigation measures in Mahad City and Mahad MIDC.\
+  [202505302019132019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302019132019.pdf)
+
 ## Miscellaneous
 - Regarding the appointment to the posts of Chairman, Member (Judicial and Administrative) in the Honble Maharashtra Land Revenue Tribunal.\
   [202505271214201019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271214201019.pdf)
@@ -34,6 +40,12 @@
 
 - Sub-Divisional Officer and Land Acquisition Officer, Daund, Dist. Pune Regarding approval to open a new Personal Ledger Account (PLA) of this office.\
   [202505291534346019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291534346019.pdf)
+
+- Regarding assistance to be provided to affected farmers for losses incurred due to heavy rains/floods in various districts of the state from Kharif-2025...\
+  [202505301506138119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301506138119.pdf)
+
+- Regarding authorization to withdraw amount from treasury on minus (-) authorization letter under account head 2245 2194 and account head 2245 2381 for the year 2025-26.\
+  [202505301829488219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301829488219.pdf)
 
 ## Personnel
 - Posting by promotion to Office Superintendent, Group-B (Gazetted) cadre.\
@@ -83,6 +95,24 @@
 
 - Forest Land-Pune Diversion of 0.37672 ha. Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of Palasdev-Malwadi-Bhawdi-Varkute to Karewadi to Kalthan No.1 MDR-171 from Chainage km 5/829 to Km 6/300 at Village Bhavdi, Taluka Indapur, Dist. Pune.\
   [202505291709298019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291709298019.pdf)
+
+- Regarding transfer of officers in Branch Engineer, Group-B cadre.\
+  [202505301324568819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301324568819.pdf)
+
+- Regarding transfer of officers in the Office Superintendent, Group-B (Gazetted) cadre\
+  [202505301327107619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301327107619.pdf)
+
+- Regarding transfer of officers in Personal Assistant, Group-A cadre.\
+  [202505301329138419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301329138419.pdf)
+
+- Regarding transfer of Assistant Forest Officers, Group-B cadre.\
+  [202505301323003619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301323003619.pdf)
+
+- Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
+  [202505301321200519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301321200519.pdf)
+
+- Regarding transfer of officers in Forestry, Group-A cadre.\
+  [202505301331180819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301331180819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

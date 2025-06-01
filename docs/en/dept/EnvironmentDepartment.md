@@ -184,5 +184,12 @@
 - Regarding granting administrative approval to the Detailed Project Report (DPR) submitted by the local self- government bodies for the works to be undertaken from the prize money received under the majhi Vasundhara Abhiyan 4.0 . bhajepar  Gram Panchayat.\
   [202505281152432304.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281152432304.pdf)
 
+## Miscellaneous
+- Regarding appointment of a consultancy firm for the Department of Environment and Climate Change.\
+  [202505301209479304.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301209479304.pdf)
+
+- Regarding granting administrative approval to the media plan for the campaign to be implemented in the state in connection with World Environment Day, 2025.\
+  [202505301203333604.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301203333604.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

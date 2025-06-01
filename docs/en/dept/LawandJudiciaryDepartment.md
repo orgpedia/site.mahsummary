@@ -17,5 +17,8 @@
 - Regarding establishment of a senior division civil court at Karanja, Dist. Washim, provision of posts for it and approval of the expenditure incurred.\
   [202505291745135612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291745135612.pdf)
 
+- Appointment by Promotion  on a purely temporary basis to the post of Establishment Officer -(Group B/Gazetted) cadre in the office of The Public Prosecutor for Brihanmumbai (Selection list year 2024-2025)\
+  [202505301257403612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301257403612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

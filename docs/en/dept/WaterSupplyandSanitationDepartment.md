@@ -112,6 +112,33 @@
 - Cash grant for repayment of Life Insurance Corporation loan installment (Rural) due on June 1, 2025 (Account Head 2215 1173)\
   [202505271753275228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271753275228.pdf)
 
+- Revised Administrative approval to Mau.  Bharadin, Tal. Rajapur, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281747150828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281747150828.pdf)
+
+- Revised Administrative approval to Mau Kolambe, Tal. Ratnagiri , Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281746135228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281746135228.pdf)
+
+- Revised Administrative approval to Mau.  Guravwadi, Tal. Rajapur , Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505301432262928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301432262928.pdf)
+
+- Assistance to Zilla Parishads (01) Assistance to Zilla Parishad/Panchayat Institutions, Establishment Grants to Zilla Parishads under Section 183 of the Maharashtra Zilla Parishad and Panchayat Samiti Act, 1961, (01)(05) Regular Establishment (Compulsory) (2215 1881)  Request No. Y-2\
+  [202505301448493828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301448493828.pdf)
+
+- Financial Year 2025-26 - Regarding distribution of Subsidiary Grant towards Salary and Allowances to Maharashtra Life Authority (Mandatory) (2215A041), 36, Subsidiary Grants (Salary).\
+  [202505301448549528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301448549528.pdf)
+
+- Regarding distribution of funds to the concerned Zilla Parishads for the retirement salary of retired employees of Converted Regular Temporary (CRT) establishments on water supply schemes for the financial year 2025-26.  Account Head 22151914\
+  [202505301448439228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301448439228.pdf)
+
+- Revised Administrative approval to Mau.  Khalachiwadi (Kondye Tarfe Saundal), Tal. Rajapur, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505301432109128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301432109128.pdf)
+
+- Revised Administrative approval to Mau.  Kutagiri Yedagewadi, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281747482628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281747482628.pdf)
+
+- Revised Administrative approval to Mau.  Upale, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281745371928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281745371928.pdf)
+
 ## Miscellaneous
 - Regarding granting revised administrative approval to the budget of the Raja Nal Water Supply Scheme, Mau. Sathegaon, Tal. Sindkhed, Buldhana district under the Jal Jeevan Mission Program.\
   [202505281533319628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281533319628.pdf)
@@ -187,6 +214,9 @@
 
 - Regarding granting revised administrative approval to the budget of the Sindkhed Raja Nal Water Supply Scheme, Shelu Taluka, Buldhana District under the Jal Jeevan Mission Program.\
   [202505281547023128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281547023128.pdf)
+
+- Budgetary Grant Year 2013-14 Demand No.Y-4, 2702 Small Irrigation Groundwater Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
+  [202505301459396928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301459396928.pdf)
 
 ## Personnel
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Dhaulavalli, Taluka Rajapur, Dist. Ratnagiri (20040443) under the Jal Jeevan Mission program\
@@ -380,6 +410,39 @@
 
 - Regarding revised administrative approval to Hingna, Taluka Mouda, District Nagpur (Scheme Code 20089907) under the Jal Jeevan Mission program.\
   [202505271754480628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271754480628.pdf)
+
+- Regular transfers of officers in the Assistant Administratative Officer, Group-B category in the Ground Water Surveys and Development Agency -2025\
+  [202505301045456228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301045456228.pdf)
+
+- Regular transfers of officers in the Junior Geologist, Group-B category in the Ground Water Surveys and Development Agency -2025\
+  [202505301045567128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301045567128.pdf)
+
+- Revised Administrative approval to Mau.  Kharawate Madhaliwadi, Tal. Rajapur, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281746388428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281746388428.pdf)
+
+- Regular transfers of officers in the Senior Drilling Engineer, Group-A category in the Ground Water Surveys and Development Agency -2025\
+  [202505301045543728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301045543728.pdf)
+
+- Regular transfers of officers in the Deputy Engineer(Mech.) category in the Ground Water Surveys and Development Agency -2025\
+  [202505301045325028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301045325028.pdf)
+
+- Regular transfers of officers in the Senior Geologist, Group-A category in the Ground Water Surveys and Development Agency -2025\
+  [202505301045346228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301045346228.pdf)
+
+- Revised Administrative approval to Mau.  Juwathi, Tal. Rajapur , Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505301432431728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301432431728.pdf)
+
+- Revised Administrative approval to Mau.  Vikhare Gothane, Tal. Rajapur, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281747270028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281747270028.pdf)
+
+- Revised Administrative approval to Mau.  Ozar, Tal. Rajapur, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281746269028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281746269028.pdf)
+
+- Revised Administrative approval to Mau.  Veergaon, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.\
+  [202505281745592128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281745592128.pdf)
+
+- Regular transfers of officers in the Assistant Geologist, Group-B category in the Ground Water Surveys and Development Agency -2025\
+  [202505301045402528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301045402528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

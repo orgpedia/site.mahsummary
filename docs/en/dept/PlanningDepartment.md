@@ -29,5 +29,12 @@
 - Regarding the appointment of Drawing and Disbursing Officer and Coordinating Officer, and establishment of a Single Nodal Agency (SNA) for the purpose of implementing the SNA-SPARSH method for fund distribution under this centrally sponsored scheme - Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) - wherein 75 (Central Share) and 25 (State Share) of the funds are allocated for skilled works and materials, 6 is allocated for administrative expenses, 100 (Central Share) is allocated for the Cluster Facilitation Project (CFP), and 100 (Central Share) grant is allocated for the Unnati Project.\
   [202505291754197916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291754197916....pdf)
 
+## Personnel
+- Regarding premature transfers on request of Research Officers/Statistical Officers, Group-B (Gazetted) cadre officers in the Directorate of Finance and Statistics.\
+  [202505301809307116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301809307116.pdf)
+
+- Regarding general transfers of officers in the cadre of Research Officers/Statistical Officers, Group-B (Gazetted) in the Directorate of Finance and Statistics for the year 2025.\
+  [202505301811228016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301811228016.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

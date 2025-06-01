@@ -11,5 +11,12 @@
 - Regarding the distribution of funds under Subsidiary Grants (Salary) for the financial year 2025-26 to Maharashtra Research, Advancement and Training Institute (AMRUT), Pune...\
   [202505281120575234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281120575234.pdf)
 
+## Personnel
+- Appointment and posting on deputation to the post of Assistant Director, I.M.B.K., Nashik in the subordinate regional office of the department Shri. Santosh G. Chavan, Assistant Conservator of Forests\
+  [202505301805165234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301805165234.pdf)
+
+- Appointment and posting on deputation to the post of Assistant Director, OBC dept, Pune in the subordinate regional office of the department Shri. Pradeep Bha. Sankpal, Assistant Conservator of Forests\
+  [202505301808008134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301808008134.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

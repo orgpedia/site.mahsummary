@@ -37,9 +37,19 @@
 - Regarding granting administrative approval for new/improved works under the pilgrimage site development plan of Shri Mahalaxmi Jagdamba Sansthan, Koradi, Tal. Kamthi, Dist. Nagpur.\
   [202505291254527325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291254527325.pdf)
 
+- Administrative approval to shri Gurumandir Piligrimage Development plat at Karanja (lad), Dist-Washim.\
+  [202505301742483425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301742483425.pdf)
+
 ## Miscellaneous
 - Regarding determining the premium for the land at Mouja Lendra, Kh.No. 142/2, Plot No. 4/ LA in Nagpur city and forming a tender committee to implement the tender system.\
   [202505291258224025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291258224025.pdf)
+
+- Regarding the appointment of Shri. Pandurang Rakhmaji Shinde, Audit Officer on deputation to the post of Accounts Officer on the establishment of Mira-Bhayander Municipal Corporation.\
+  [202505301502231525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301502231525.pdf)
+
+## Personnel
+- Regarding transfers and postings of officers in the Maharashtra Urban Administrative Service.\
+  [202505301907527225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301907527225.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

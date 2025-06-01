@@ -50,5 +50,59 @@
 - Regular transfer 2025 at the post of GLO\
   [202505291627588610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291627588610.pdf)
 
+- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
+  [202505301555328410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301555328410.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301312124010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301312124010.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301313306910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301313306910.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301315073410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301315073410.pdf)
+
+- Request for Transfer (Government Labour Officer, Group-B)\
+  [202505301552327610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301552327610.pdf)
+
+- Request for Transfer (Deputy Commissioner of Labour, Group-A)\
+  [202505301556328610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301556328610.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301319085910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301319085910.pdf)
+
+- Regarding transfer and posting of Group-A and Group-B (Gazetted) officers on the establishment of Directorate of Geology and Mines, Nagpur...\
+  [202505301614100310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301614100310.pdf)
+
+- Request for Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301554374910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301554374910.pdf)
+
+- Regarding periodic transfer of Group-A cadre officers on the establishment of the Directorate of Government Printing, Stationery and Publication, Mumbai.\
+  [202505301747289110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301747289110.pdf)
+
+- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
+  [202505301553547310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301553547310.pdf)
+
+- Regarding periodic transfer of Group-A cadre officers on the establishment of the Directorate of Industries\
+  [202505301519578110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301519578110.pdf)
+
+- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
+  [202505301557113810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301557113810.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301316210110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301316210110.pdf)
+
+- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
+  [202505301552235910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301552235910.pdf)
+
+- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
+  [202505301550371210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301550371210.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301317511610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301317511610.pdf)
+
+- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
+  [202505301653057010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301653057010.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
