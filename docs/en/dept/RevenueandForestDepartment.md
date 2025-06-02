@@ -114,5 +114,104 @@
 - Regarding transfer of officers in Forestry, Group-A cadre.\
   [202505301331180819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301331180819.pdf)
 
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302256280319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302256280319.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302243215019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302243215019.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302252492619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302252492619.pdf)
+
+- Posting of officers in the Tehsildar cadre awaiting appointment\
+  [202505302239493419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302239493419.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Chhatrapati Sambhajinagar Division)\
+  [202505302355359419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302355359419.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302251175419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302251175419.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302246064119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302246064119.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302238531819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302238531819.pdf)
+
+- General Transfer-2025 Tehsildar Cadre\
+  [202505302241492819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302241492819.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202505302235427519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302235427519.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Amravati Division)\
+  [202505302355407619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302355407619.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302242000619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302242000619.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302302272319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302302272319.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (Regular) (Konkan Division)\
+  [202505302359079119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302359079119.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302240315219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302240315219.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302249250819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302249250819.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302251395419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302251395419.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302302266919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302302266919.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302236277419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302236277419.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302300216419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302300216419.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302255472819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302255472819.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302254090319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302254090319.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302253417819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302253417819.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302246050919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302246050919.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Pune Division)\
+  [202505302354042819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302354042819.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302305192319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302305192319.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302258596619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302258596619.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302305121619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302305121619.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Nagpur Division)\
+  [202505302355441319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302355441319.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202505302248546919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302248546919.pdf)
+
+- Posting of officers awaiting appointment in the Deputy Collector cadre...\
+  [202505302259329819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302259329819.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202505302237560819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302237560819.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Nashik Division)\
+  [202505302355462219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505302355462219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

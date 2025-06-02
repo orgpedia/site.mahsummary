@@ -56,5 +56,20 @@
 - Premature/request transfers of officers in the Executive Engineer (Civil) cadre.\
   [202505301957258127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301957258127.pdf)
 
+- Regarding temporary promotion to the post of Sub-Divisional Officer (Civil Engineering) from the lower cadre of Junior Engineer (Branch Engineer) (Civil Engineering).. (Selection list for the year 2024-25)\
+  [202505310341192827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505310341192827.pdf)
+
+- Request for Transfer-Year 2025 Junior Engineer / Branch Engineer / Assistant Engineer Grade-2 Cadre.\
+  [202505310202175427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505310202175427.pdf)
+
+- General Transfer-2025 Transfer of Engineers in the Deputy Engineer Civil/ Mechanical/ Electrical Cadre.\
+  [202505310034480027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505310034480027.pdf)
+
+- Regarding extension of tenure of officers in the Deputy Engineer (Civil/Mechanical/Electrical) cadre.\
+  [202505310034416527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505310034416527.pdf)
+
+- Request for transfer 2025 Engineer in the Deputy Engineer cadre\
+  [202505310038257127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505310038257127.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
