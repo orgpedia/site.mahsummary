@@ -7,6 +7,9 @@
 - Grant Realease For Supplimentry Nutrition Program Under ICDS For Financial Year 2025-26\
   [202506021506555930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021506555930.pdf)
 
+- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2025-26\
+  [202506031535067330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031535067330.pdf)
+
 ## Miscellaneous
 - Increase the amount of graduity given to the inmates of Government Beggers Home\
   [202506021817574530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021817574530.pdf)

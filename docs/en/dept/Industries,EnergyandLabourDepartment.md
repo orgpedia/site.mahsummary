@@ -1,108 +1,39 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 02 June 2025 - 07 June 2025
+**Date Range**: 09 June 2025 - 14 June 2025
 
+
+## Funds
+- Demand No. K-6, Account Head 2801 Electricity and 2810 New and Renewable Energy for Provision through Re-Planning in the year 2024-25\
+  [202506031755540110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031755540110.pdf)
+
+- Regarding approval to spend funds under the Wine Industry Promotion Scheme for the year 2025-26..\
+  [202506031726398510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031726398510.pdf)
+
+- Demand No. K-6 Regarding the refund of savings amount for the financial year 2024-25 under the main account head 2810 New and Renewable Energy\
+  [202506031748319810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031748319810.pdf)
+
+- Regarding the transfer of the final provision and savings amount for the financial year 2024-25 under the main account head 2045 Other taxes and duties on saleable goods and services (Mandatory)\
+  [202506031753221810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031753221810.pdf)
 
 ## Miscellaneous
-- Corrigendum-Maharashtra Green Hydrogen Policy-2023.\
-  [202505271123198910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505271123198910.pdf)
+- Regarding the application of the provisions of the service entry rules in the notification of the General Administration Department to the Stenographer (Higher Grade), Stenographer (Lower Grade) and Stenographer cadres in the Directorate of Industrial Safety and Health under the Department of Industries, Energy, Labour and Mines.\
+  [202506031639574510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031639574510.pdf)
 
-- Instructions regarding compulsory implementation of E-Office in office work\
-  [202505291102551810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291102551810.pdf)
+- Regarding approval to spend funds from the budgetary provision for the year 2025-26 for paying pension/family pension to retired employees of Chitali Distillery.\
+  [202506031803570110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031803570110.pdf)
 
-## Personnel
-- Regular transfer 2025 at the post of GLO\
-  [202505291613144410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291613144410.pdf)
+- Regarding the application of the service entry rules and conditions of service for the posts of Clerk-Typist in the State Government Group-C cadre in the offices nominated by the Maharashtra State Public Service Commission to the cadre of Clerk-Typist in the Directorate of Industrial Safety and Health.\
+  [202506031641545310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031641545310.pdf)
 
-- Regular transfer 2025 at the post of GLO\
-  [202505291630132310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291630132310.pdf)
+- Regarding the application of the provisions of the service entry rules in the notification of the General Administration Department to the cadre of Staff Clerk (Lower Category) in the Directorate of Boilers under the Department of Industries, Energy, Labour and Mines.\
+  [202506031637503410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031637503410.pdf)
 
-- Regular transfer 2025 at the post of GLO\
-  [202505291621064310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291621064310.pdf)
+- Regarding the application of the service entry rules and conditions of service for the posts of Clerk-Typist in the State Government Group-C cadre in the offices nominated by the Maharashtra State Public Service Commission to the cadre of Clerk-Typist in the Directorate of Boiler Works.\
+  [202506031635336410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031635336410.pdf)
 
-- Regular transfer 2025 at the post of GLO\
-  [202505291617370410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291617370410.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291632189810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291632189810.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291624065910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291624065910.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291619206710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291619206710.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291615222210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291615222210.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291637584110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291637584110.pdf)
-
-- Periodic transfers of officers in the cadre of Deputy Director, Group-A on the establishment of Directorate of Industrial Safety and Health, Mumbai (Year 2025).\
-  [202505291711136210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291711136210.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291625551810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291625551810.pdf)
-
-- Periodic transfers of officers in the cadre of Deputy Director, Group-A on the establishment of Directorate of Boilers, Mumbai (Year 2025).\
-  [202505291712435610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291712435610.pdf)
-
-- Regular transfer 2025 at the post of GLO\
-  [202505291627588610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291627588610.pdf)
-
-- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
-  [202505301555328410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301555328410.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301312124010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301312124010.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301313306910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301313306910.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301315073410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301315073410.pdf)
-
-- Request for Transfer (Government Labour Officer, Group-B)\
-  [202505301552327610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301552327610.pdf)
-
-- Request for Transfer (Deputy Commissioner of Labour, Group-A)\
-  [202505301556328610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301556328610.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301319085910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301319085910.pdf)
-
-- Regarding transfer and posting of Group-A and Group-B (Gazetted) officers on the establishment of Directorate of Geology and Mines, Nagpur...\
-  [202505301614100310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301614100310.pdf)
-
-- Request for Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301554374910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301554374910.pdf)
-
-- Regarding periodic transfer of Group-A cadre officers on the establishment of the Directorate of Government Printing, Stationery and Publication, Mumbai.\
-  [202505301747289110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301747289110.pdf)
-
-- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
-  [202505301553547310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301553547310.pdf)
-
-- Regarding periodic transfer of Group-A cadre officers on the establishment of the Directorate of Industries\
-  [202505301519578110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301519578110.pdf)
-
-- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
-  [202505301557113810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301557113810.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301316210110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301316210110.pdf)
-
-- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
-  [202505301552235910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301552235910.pdf)
-
-- Periodic Transfer (Deputy Commissioner of Labour, Group-A)\
-  [202505301550371210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301550371210.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301317511610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301317511610.pdf)
-
-- Periodic Transfer (Assistant Labour Commissioner, Group-A)\
-  [202505301653057010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301653057010.pdf)
+- Requisition No. K-6 Main Account Head 2801 Electricity Regarding refund of final grant and savings amount for the financial year 2024-25 (Programme)\
+  [202506031751307510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031751307510.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

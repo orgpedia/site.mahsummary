@@ -29,5 +29,8 @@
 - Regarding financial approval for organizing the cultural program Shiv Vandana on the seventh day of Chaitra Shuddha Saptami.\
   [202506021749275323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021749275323.pdf)
 
+- Financial approval for the second phase of surplus funds for the construction of a theatre at Alibaug, District Raigad.\
+  [202506031800022123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031800022123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

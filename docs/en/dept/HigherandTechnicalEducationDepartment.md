@@ -13,5 +13,8 @@
 - Regarding approval in accordance with the approval given by the All India Council for Technical Education, New Delhi, to start new unaided diploma engineering institution in the state from the academic year 2025-26.\
   [202506021814378008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021814378008.pdf)
 
+- Academic Year 2025-26 Regarding approval of new courses/subjects/special level subjects, additional batches, new faculties in existing colleges.\
+  [202506031920484308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031920484308.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

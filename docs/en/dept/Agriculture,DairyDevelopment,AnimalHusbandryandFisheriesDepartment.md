@@ -13,12 +13,18 @@
 - Regarding granting financial approval for the first installment (Central and State share) of a total fund of Rs. 15690.35000 lakhs for the year 2025-26 for all three categories (General, Scheduled Castes, Scheduled Tribes) for National Food Security and Nutrition Mission- Foodgrains and Commercial Crops.\
   [202506021625480401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021625480401.pdf)
 
+- Regarding granting administrative approval to the revised Annual Action Plan for implementing the Assistance for Improvements in State Agricultural Extension Programs (ATMA) Scheme in the year 2025-26 under the Krishi Unnati Yojana (KY), Krishi Visar Sub-Mission.\
+  [202506031646595801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031646595801.pdf)
+
 ## Miscellaneous
 - Regarding providing a grant of Rs. 95.6767 lakhs to Vanamati and Rameti Institutions for the year 2025-26, under Account Head - 2401 4258 (Compulsory) - 36, Subsidiary Grants (Salary).\
   [202506021309254501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021309254501.pdf)
 
 - Regarding approval of a new account head for Honorary allowance and other incidental allowances of the Chairman, State Agricultural Prices Commission.\
   [202506021153512501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021153512501.pdf)
+
+- Regarding opening of new account heads for the General, Scheduled Caste and Scheduled Tribe categories for the National Natural Farming Mission scheme....\
+  [202506031057446201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031057446201.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
