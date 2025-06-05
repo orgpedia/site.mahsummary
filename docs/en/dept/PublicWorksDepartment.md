@@ -10,6 +10,10 @@
 - Regarding reimbursement of medical expenses. Reimbursement of expenses incurred on the illness of Shri.Prashant Surve, son of Shri.Shantaram Surve, mail worker...\
   [202506021449427518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021449427518.pdf)
 
+## Miscellaneous
+- Final seniority list of Junior Engineer (Electrical) cadre in Public Works Department as on 01/01/2025.\
+  [202506041603011018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041603011018.pdf)
+
 ## Personnel
 - Regarding changes in the length of major district road number 26 in Satara taluka of Satara district.\
   [202506021801351018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021801351018.pdf)

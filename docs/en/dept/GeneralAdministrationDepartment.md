@@ -23,5 +23,23 @@
 - Regarding the use of Email and Whatsapp in disciplinary proceedings\
   [202506021358326507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021358326507.pdf)
 
+- Regarding the e-Cabinet system... Regarding placing supply orders for purchasing Apple brand iPads and related items.\
+  [202506041229461307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041229461307...pdf)
+
+- Regarding exclusion of nominated Desk officers from training after promotion of training cell officers (Group B) in the year 2025 under the State Training Policy\
+  [202506041758236207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041758236207....pdf)
+
+- Honble Justice Shri. Sandeep Shinde (Retd) regarding the return of the services of the Desk Officer provided for the Committee Cell to their original department.\
+  [202506041801170107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041801170107.pdf)
+
+- Digital Media Government Advertisement Guidelines\
+  [202506031514098707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031514098707.pdf)
+
+- Regarding appointment of representatives from ministerial departments to conduct interviews of candidates for recommendation for the advertised posts of Maharashtra Public Service Commission.\
+  [202506041252452007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041252452007.pdf)
+
+- Regarding amendments to the provisions regarding guidelines under CSC 2.0 of the Central Government regarding Aaple Sarkar Seva Kendra\
+  [202506021655059307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021655059307.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

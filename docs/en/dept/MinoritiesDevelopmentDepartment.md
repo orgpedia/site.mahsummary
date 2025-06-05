@@ -10,5 +10,8 @@
 - Starting the second/third shift in the existing Industrial Training Institutes in minority dominated areas of the state... . Fund allocation for the year 2025-26.\
   [202506021558378914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021558378914.pdf)
 
+- Regarding the distribution of funds for students selected under the Foreign Scholarship Scheme in the financial year 2024-25.\
+  [202506041737414414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041737414414.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -26,5 +26,12 @@
 - Regarding opening of new account heads for the General, Scheduled Caste and Scheduled Tribe categories for the National Natural Farming Mission scheme....\
   [202506031057446201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031057446201.pdf)
 
+## Personnel
+- Regarding cancellation of appointments of officers/employees of Dr. Punjabrao Deshmukh Natural Farming Mission and posting by transfer. Shri.Kolapkar Navnath Muralidhar, Joint Director\
+  [202506041702153701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041702153701.pdf)
+
+- Regarding cancellation of appointments of officers/employees of Dr. Punjabrao Deshmukh Natural Agriculture Mission and posting by transfer. Shri. Vivek Shankar Birhade, Deputy Director of Agriculture\
+  [202506041657447201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041657447201.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,24 +1,18 @@
 # Law and Judiciary Department
 
-**Date Range**: 02 June 2025 - 07 June 2025
+**Date Range**: 09 June 2025 - 14 June 2025
 
+
+## Funds
+- Regarding Administrative Approval to the Solar Energy Project of Maharashtra Judicial Academy and Indian Mediation Centre and Training Institute, Mauje Uttan, Dist. Thane\
+  [202506041117367912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041117367912.pdf)
+
+- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
+  [202506041449342112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041449342112.pdf)
 
 ## Miscellaneous
-- Revised rate of Dearness Allowance to the Judicial Officer/Retired Judicial Officers in the sub ordinate Judiciary of the State of Maharashtra.\
-  [202505281450572612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281450572612.pdf)
-
-- Regarding increase in the amount of Permanent Advance for the head office of the Chief Judicial Magistrate, Mumbai and 15 Judicial Centres\
-  [202505281604147012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281604147012.pdf)
-
-## Personnel
-- Administrative approval for the construction of a new building for the Public Trust Registration Office, Dharashiv.\
-  [202505281548456412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505281548456412.pdf)
-
-- Regarding establishment of a senior division civil court at Karanja, Dist. Washim, provision of posts for it and approval of the expenditure incurred.\
-  [202505291745135612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505291745135612.pdf)
-
-- Appointment by Promotion  on a purely temporary basis to the post of Establishment Officer -(Group B/Gazetted) cadre in the office of The Public Prosecutor for Brihanmumbai (Selection list year 2024-2025)\
-  [202505301257403612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202505301257403612.pdf)
+- Year 2025-26 Budgetary Grant Demand No. J-5, 7610- Loan to Government Employees etc. - (201)(00)(01) House Construction Advance Allocation.\
+  [202506041622518312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041622518312.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

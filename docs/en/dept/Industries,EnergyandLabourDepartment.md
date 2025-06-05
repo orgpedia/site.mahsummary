@@ -35,5 +35,11 @@
 - Requisition No. K-6 Main Account Head 2801 Electricity Regarding refund of final grant and savings amount for the financial year 2024-25 (Programme)\
   [202506031751307510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031751307510.pdf)
 
+- Regarding termination of probationary period of Mr. Mohsin Anwar Syed, appointed on nomination to the post of Assistant Labour Commissioner, Group-A.\
+  [202506041149086810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041149086810.pdf)
+
+- Regarding the establishment of a State Mining Program and Monitoring Committee to review the progress and take measures in accordance with the difficulties encountered in the process after the approval of the mining lease and after the highest bidder is declared after the e-auction of the major mining lease, till the actual excavation and transportation from the mining area is started.\
+  [202506041443303110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041443303110...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

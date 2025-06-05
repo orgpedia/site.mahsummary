@@ -16,5 +16,8 @@
 - Academic Year 2025-26 Regarding approval of new courses/subjects/special level subjects, additional batches, new faculties in existing colleges.\
   [202506031920484308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031920484308.pdf)
 
+- Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... Thakur Educational Trust, Thakur Shri DPS College of Engineering and Management, Dist. Palghar, Vasai, Thane.\
+  [202506041502216308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041502216308....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
