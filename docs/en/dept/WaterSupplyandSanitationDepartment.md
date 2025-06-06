@@ -25,6 +25,37 @@
 - Subsidiary Grant to the Authority for sanctioning pension benefits to retired employees of Maharashtra Jeevan Authority (2215 A052)  31, Subsidiary Grants (Non-Salary)\
   [202506031759295328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031759295328.pdf)
 
+- Regarding giving Revised administrative approval to the regional water supply scheme Ghatkinhi ta. Darwha dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500036228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500036228.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme welabai  ta. Wani  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500318728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500318728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Khorad kh ta. Kalamb dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041459588328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041459588328.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Hiwari ta. Maregaon dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500408628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500408628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Umari ta. Zari jamni dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041459566928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041459566928.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Mhasola ta. Kalamb dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500198428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500198428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Pawnar ta. Zari jamni dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500095828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500095828.pdf)
+
+## Miscellaneous
+- Regarding giving Revised administrative approval to the regional water supply scheme Wagdara (new) ta. Wani  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500249728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500249728.pdf)
+
+- Regarding granting administrative approval to the proposal to sanction additional manpower for the State Level Experimental School for Groundwater Survey and Development System.\
+  [202506051331368928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051331368928.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Bopapur ta. Zari jamni dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506041500148528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500148528.pdf)
+
 ## Personnel
 - Regarding temporary promotion and posting to the post of Deputy Engineer (Civil Engineering) in the establishment of Maharashtra Life Authority to Assistant Engineer, Grade and Branch Engineer (Civil Engineering) in Zilla Parishad.......Corrigendum\
   [202506021203494228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021203494228.pdf)
@@ -58,6 +89,24 @@
 
 - Regarding granting improved administrative approval to the piped water supply scheme at Mouje Berdmachi, Taluka Walwa, District Sangli under the Jal Jeevan Mission program.\
   [202506041256107028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041256107028.pdf)
+
+- Regarding revised administrative approval to Mauja Tembhri, Ta.Kuhi, District Nagpur (Scheme Code 20088460) under the Jal Jeevan Mission program.\
+  [202506051321365028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321365028.pdf)
+
+- Regarding revised administrative approval to Mauja Jangona, Ta.Samudrapur, Dist.Wardha (Scheme Code 20029215) under the Jal Jeevan Mission program.\
+  [202506051321316528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321316528.pdf)
+
+- Regarding revised administrative approval to Mauja Keslapar, Ta.Samudrapur, Dist.Wardha (Scheme Code 20030162) under the Jal Jeevan Mission program.\
+  [202506051321292628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321292628.pdf)
+
+- Regarding revised administrative approval to Mauja Dharmaram, Ta.Jiwati, Dist.Chandrapur (Scheme Code 20067663) under the Jal Jeevan Mission program.\
+  [202506051321422328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321422328.pdf)
+
+- Regarding revised administrative approval to Mauja Pathar, Ta.Samudrapur, Dist.Wardha (Scheme Code 20027865) under the Jal Jeevan Mission program.\
+  [202506051321535128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321535128.pdf)
+
+- Regarding revised administrative approval to Mauja Dhondgaon, Ta.Samudrapur, Dist.Wardha (Scheme Code 20027715) under the Jal Jeevan Mission program.\
+  [202506051321484028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321484028.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

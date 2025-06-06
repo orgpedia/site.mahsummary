@@ -16,6 +16,15 @@
 - Regarding the transfer of the final provision and savings amount for the financial year 2024-25 under the main account head 2045 Other taxes and duties on saleable goods and services (Mandatory)\
   [202506031753221810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031753221810.pdf)
 
+- Regarding opening of new account head - Regarding opening of new account head to provide grants for implementing infrastructure projects of logistics nodes and logistics hubs under the Logistics Policy 2024 of the State of Maharashtra.\
+  [202506051625465710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051625465710.pdf)
+
+- Mukhyamantri Saur Krushi Vahini Yojana - 2.0: Regarding the formation of a Special Task Force for implementing the Governments ambitious initiative to provide uninterrupted and sustainable daytime electricity supply to farmers agricultural pumps.\
+  [202506051314471710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051314471710.pdf)
+
+- Regarding opening of new account head - Regarding opening of new account head for capital subsidy for small, large, giant, super giant, integrated truck terminals as well as incentives for interest rate subsidy and technology assistance to individual units under the Maharashtra State Logistics Policy 2024.\
+  [202506051622023610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051622023610.pdf)
+
 ## Miscellaneous
 - Regarding the application of the provisions of the service entry rules in the notification of the General Administration Department to the Stenographer (Higher Grade), Stenographer (Lower Grade) and Stenographer cadres in the Directorate of Industrial Safety and Health under the Department of Industries, Energy, Labour and Mines.\
   [202506031639574510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031639574510.pdf)

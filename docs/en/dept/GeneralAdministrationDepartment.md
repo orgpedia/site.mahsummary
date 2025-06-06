@@ -41,5 +41,8 @@
 - Regarding amendments to the provisions regarding guidelines under CSC 2.0 of the Central Government regarding Aaple Sarkar Seva Kendra\
   [202506021655059307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021655059307.pdf)
 
+- Final Common Seniority List of the Desk Officer Cadre as on 01.01.2024\
+  [202506051550050707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051550050707.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

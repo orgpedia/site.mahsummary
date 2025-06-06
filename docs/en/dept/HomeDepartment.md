@@ -10,6 +10,9 @@
 - Regarding the disbursement of funds amounting to Rs. 374,09,19,792 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of April, 2025...\
   [202506041631238229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041631238229.pdf)
 
+- Regarding approval of the accounts of Maharashtra Cyber Crime Security Corporation.\
+  [202506051725025929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051725025929.pdf)
+
 ## Miscellaneous
 - Regarding extension of time to Mr. KPMG Company appointed as consultant for implementing e-challan project in the state.....\
   [202506021803406529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021803406529.pdf)
