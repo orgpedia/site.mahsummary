@@ -10,6 +10,12 @@
 - Regarding distribution of grant to Yashada, Pune for the financial year 2025-26 for the Integrated Probationary Training Program (1st installment of salary)\
   [202506021442410807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021442410807.pdf)
 
+- Regarding grant of administrative approval for carrying out legal work. M/S Vidhi Center for Legal Policy, New Delhi.\
+  [202506061455346607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061455346607.pdf)
+
+- Regarding grant of administrative approval for carrying out legal work: M/S Vidhi Centre for Legal Policy, New Delhi.\
+  [202506061806573907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061806573907.pdf)
+
 ## Miscellaneous
 - Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Institute, Amravati Assistant Grant for the year 2025-26 (Compulsory) (Second Installment)\
   [202506021605324407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021605324407.pdf)
@@ -43,6 +49,9 @@
 
 - Final Common Seniority List of the Desk Officer Cadre as on 01.01.2024\
   [202506051550050707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051550050707.pdf)
+
+- Regarding the disbursement of funds to the National Informatics Centre Services Incorporation (NICSI) for developing the Employment to Retirement (e-HRMS) system.\
+  [202506061749562407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061749562407.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

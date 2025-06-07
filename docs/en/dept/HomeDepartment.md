@@ -48,5 +48,11 @@
 - Regarding implementation of old pension scheme..Shri. Saudan Bhavani Singh, Retired Police Inspector (Band Master)\
   [202506041819087129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041819087129.pdf)
 
+- Regarding transfers/postings of S.P.S.officers.\
+  [202506061538413029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061538413029.pdf)
+
+- Regarding administrative transfer of officers working in the post of Assistant Chemical Analyst, Group-B, in the Directorate of Judicial Scientific Laboratories - Year 2025.\
+  [202506061505271529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061505271529.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

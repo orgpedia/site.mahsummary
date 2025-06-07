@@ -14,5 +14,8 @@
 - Regarding granting administrative approval for the post of Driver in the office of Controller Ration Distribution and Director Civil Supplies, Mumbai. Regarding the service provided by the external organization Krishna Motors, Mumbai...\
   [202506041458107506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041458107506.pdf)
 
+- Regarding the appointment of Shri. Ramchandra Dhanawade, Joint Secretary, as Member Secretary of the State Food Commission.\
+  [202506061706096906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061706096906.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

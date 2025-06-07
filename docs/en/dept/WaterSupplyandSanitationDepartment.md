@@ -46,6 +46,18 @@
 - Regarding giving Revised administrative approval to the regional water supply scheme Pawnar ta. Zari jamni dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202506041500095828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500095828.pdf)
 
+- Regarding revised administrative approval to Mauja Narayanguda, Ta.Jiwati, Dist.Chandrapur (Scheme Code 20086950) under the Jal Jeevan Mission program.\
+  [202506061113171828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061113171828.pdf)
+
+- Regarding revised administrative approval to Mauja Aher Navargaon, Ta.Brahmapuri, District Chandrapur (Scheme Code 20084391) under the Jal Jeevan Mission program.\
+  [202506061113119128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061113119128.pdf)
+
+- Budgetary Grant for the year 2025-26 2215 Water Supply and Sanitation 196, Assistance to Zilla Parishads (01) Assistance to Zilla Parishad/Panchayat Institutions, Establishment Grants to Zilla Parishads under Section 183 of the Maharashtra Zilla Parishad and Panchayat Samiti Act, 1961, (01)(05) Regular Establishment (Compulsory) (2215 1881) Order No. Y-2\
+  [202506061119306628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061119306628.pdf)
+
+- Budgetary Grant Year 2025-26 2215 Water Supply and Sanitation 01, Water Supply 001, Director and Administration (01) (01) Departmental / Sub-Departmental Establishment for Implementation of Water Supply Programme (Mandatory) (22151843)  Request No. Y-2\
+  [202506061119088728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061119088728.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Wagdara (new) ta. Wani  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202506041500249728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041500249728.pdf)
@@ -107,6 +119,15 @@
 
 - Regarding revised administrative approval to Mauja Dhondgaon, Ta.Samudrapur, Dist.Wardha (Scheme Code 20027715) under the Jal Jeevan Mission program.\
   [202506051321484028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051321484028.pdf)
+
+- Regarding revised administrative approval to Mauja Dhochi, Ta.Samudrapur, Dist.Wardha (Scheme Code 20029176) under the Jal Jeevan Mission program.\
+  [202506061113229828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061113229828.pdf)
+
+- Regarding revised administrative approval to Mauja Chikhali (Na), Ta.Samudrapur, Dist.Wardha (Scheme Code 20027747) under the Jal Jeevan Mission program.\
+  [202506061113050628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061113050628.pdf)
+
+- Regarding revised administrative approval to Mauja Sawangi (Mirzapur), Ta.Samudrapur, Dist.Wardha (Scheme Code 20030169) under the Jal Jeevan Mission program.\
+  [202506061112590428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061112590428.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

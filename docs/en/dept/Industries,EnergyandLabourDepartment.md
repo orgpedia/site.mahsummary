@@ -25,6 +25,12 @@
 - Regarding opening of new account head - Regarding opening of new account head for capital subsidy for small, large, giant, super giant, integrated truck terminals as well as incentives for interest rate subsidy and technology assistance to individual units under the Maharashtra State Logistics Policy 2024.\
   [202506051622023610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051622023610.pdf)
 
+- In the year 2024-25, Provision to be made available by re-appropriation Demand No. K-11, Head of Account Capital expenditure on 4801 power projects and loans for 6801 power projects\
+  [202506061306076710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061306076710.pdf)
+
+- Creation of a separate new budget head for the installation of off-grid solar agricultural pumps and solar electrification of agricultural feeders under the scheme involving a loan from the Asian Infrastructure Investment Bank (AIIB).\
+  [202506061628062810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061628062810.pdf)
+
 ## Miscellaneous
 - Regarding the application of the provisions of the service entry rules in the notification of the General Administration Department to the Stenographer (Higher Grade), Stenographer (Lower Grade) and Stenographer cadres in the Directorate of Industrial Safety and Health under the Department of Industries, Energy, Labour and Mines.\
   [202506031639574510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031639574510.pdf)

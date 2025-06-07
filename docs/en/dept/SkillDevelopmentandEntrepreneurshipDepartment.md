@@ -3,6 +3,10 @@
 **Date Range**: 09 June 2025 - 14 June 2025
 
 
+## Funds
+- Sanctioning the total 45 (738) manpower Development of Applied Knowledge and Skills for Human Development DAKSH Project.\
+  [202506061203375003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061203375003.....pdf)
+
 ## Miscellaneous
 - Regarding implementing the policy of modernizing government industrial training institutions through public-private partnership.\
   [202506021651380903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021651380903.pdf)

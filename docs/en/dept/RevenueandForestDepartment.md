@@ -20,6 +20,12 @@
 - Regarding modification of the terms and conditions regarding the land allotted to the Journalists Club of Nagpur, Nagpur, in Swati Bungalow No. 64/1, Sheet No. 13, Urban Survey No. 49, Mauja Gadga, Nagpur, measuring 3744.40 sq.m., under the jurisdiction of Public Works Department, Nagpur......\
   [202506051833505219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051833505219.pdf)
 
+- Regarding the formation of a committee to implement the My Land, My Rights campaign under the Chhatrapati Shivaji Maharaj Maharajswa Abhiyan.\
+  [202506061542074219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061542074219.pdf)
+
+- To follow procedure while document registration under One District One Registration program.\
+  [202506061550482919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061550482919.pdf)
+
 ## Personnel
 - Annual Plan 2025-26 Under the State Level Scheme Empowerment of Mobile Team (2406 2161), regarding the purchase of 02 new vehicles of the same type in replacement of 02 deregistered vehicles in the Conservator of Forests (Regional), Chhatrapati Sambhajinagar Forest Report.\
   [202506031347471519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506031347471519.pdf)

@@ -20,6 +20,9 @@
 - Regarding approval for B.Sc. (Nursing) course to the upgraded B.Sc. (Nursing) College from GNM College, Satara under the jurisdiction of Public Health Department.\
   [202506051710282813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051710282813.pdf)
 
+- Regarding granting approval for availing the Services of Security Guards for Chhatrapati Pramilaraje General Hospital, Kolhapur.\
+  [202506061112481213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506061112481213.pdf)
+
 ## Personnel
 - Administrative Approval For Purchase of Machinary From State Plan Grant at Government Medical College  Hospital Nagpur\
   [202506041335037413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041335037413.pdf)
