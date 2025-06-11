@@ -3,9 +3,16 @@
 **Date Range**: 16 June 2025 - 21 June 2025
 
 
+## Funds
+- Grant Release for Lek Ladki Scheme\
+  [202506101347383130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101347383130.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds received under the centrally sponsored scheme Mission Vatsalya for the year 2025-26.\
   [202506091637216430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091637216430.pdf)
+
+- To recommend to the government for appointment to the post of Chairman and Member of the Maharashtra State Commission for Protection of Child Rights appoint a third member on a three-member committee\
+  [202506101724373730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101724373730.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

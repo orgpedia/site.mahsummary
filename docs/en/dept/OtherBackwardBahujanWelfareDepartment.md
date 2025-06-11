@@ -1,18 +1,11 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 09 June 2025 - 14 June 2025
+**Date Range**: 16 June 2025 - 21 June 2025
 
 
-## Funds
-- Bank for final disbursement of Scholarship and Tuition Fee and Examination Year Schemes being implemented under the Department in the financial year 2025-26.\
-  [202506021702179334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506021702179334.pdf)
-
-- Regarding the disbursement of funds under the Foreign Scholarship Scheme for the financial year 2024-25\
-  [202506051634313834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506051634313834.pdf)
-
-## Personnel
-- Regarding the benefit of one-level promotion to teachers and non-teaching staff in private aided residential ashram schools of the Vijayabhaj category run by NGOs in Naxal-affected / tribal areas.\
-  [202506041559381034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506041559381034.pdf)
+## Miscellaneous
+- Hon. Chairman, National Commission for Backward Classes, New Delhi Regarding approval of the payment of expenses on meeting arrangements for the period January, 2025 amounting to Rs. 6,450/-.\
+  [202506101705076134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101705076134.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,5 +16,32 @@
 - Regarding payment of fees of Adv. Manish S. Kelkar, Junior Lawyer.\
   [202506091725226208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091725226208.pdf)
 
+- Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Technical Education Council, New Delhi... NKSPT Institute of Engineering and Technology Pathrikar Campus, Tal. Badnapur, Dist. Jalna of Nirmal Sports and Social Enlightenment Trust.\
+  [202506101841269608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101841269608.pdf)
+
+- Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... CDS College of Engineering in Chhatrapati Sambhajinagar division.\
+  [202506101838162608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101838162608.pdf)
+
+- Regarding the continuation of the appointment of lecturers in Government Technical Colleges after completing their probationary period.\
+  [202506101304186708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101304186708.pdf)
+
+- Regarding the government approval to start a new college of professional courses on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... Vidy Niketan Institute of Management and Computer Applications, Bota, Ahilyanagar.\
+  [202506101844097908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101844097908.pdf)
+
+- Opening of separate account heads for expenditure for Non-Government institution, Management, Monitoring, Evaluation and Research (MMER-) and Erstwhile Model Degree Colleges under the Tribal Area Sub Plan of Rashtriya Uchchatar Shiksha Abhiyan.\
+  [202506101247421908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101247421908.pdf)
+
+- Opening of separate account heads for expenditure for Management, Monitoring, Evaluation and Research (MMER-) and Erstwhile Model Degree Colleges under the General Plan of Rashtriya Uchchatar Shiksha Abhiyan.\
+  [202506101243100608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101243100608.pdf)
+
+- Regarding the continuation of the appointment of lecturers in Government Technical Colleges after completing their probationary period.\
+  [202506101302003408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101302003408.pdf)
+
+- Regarding the approval of the Government to start a new institute for the course of Pharmacy from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. Shri.Vile Parle Kelvani Mandal College of Pharmacy, Shirpur\
+  [202506101059323808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101059323808.pdf)
+
+- Regarding issuance of letter of intent to new college for academic year 2025-26. (Corrigendum)\
+  [202506101459552808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101459552808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

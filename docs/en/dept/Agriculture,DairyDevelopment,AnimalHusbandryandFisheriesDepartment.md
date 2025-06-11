@@ -10,6 +10,9 @@
 - Regarding the distribution of funds amounting to Rs. 60.35 crore under the Gopinath Munde Farmers Accident Safety Grant Scheme in the financial year 2025-26.\
   [202506091741029601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091741029601.pdf)
 
+- Regarding distribution of funds for printing of Farmers Monthly issue and office expenses under the Farmers Monthly Scheme.\
+  [202506101900418101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101900418101.pdf)
+
 ## Personnel
 - Regarding the disbursement of an amount of Rs. 10,59,77,931/- for payment to insurance companies for advance state share subsidy under the restructured weather-based fruit crop insurance scheme Mrig Bahar 2025.\
   [202506091905489101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091905489101.pdf)
