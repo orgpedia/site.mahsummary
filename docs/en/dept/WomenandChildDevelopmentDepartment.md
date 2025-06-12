@@ -14,5 +14,12 @@
 - To recommend to the government for appointment to the post of Chairman and Member of the Maharashtra State Commission for Protection of Child Rights appoint a third member on a three-member committee\
   [202506101724373730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101724373730.pdf)
 
+- Regarding implementation of Defined Contribution Pension Scheme to the employees who joined Maharashtra State Probation and Maintenance Organization after 1.11.2005.\
+  [202506111543015730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111543015730.pdf)
+
+## Personnel
+- Regarding publication of provisional seniority list of District Women and Child Development Officers and similar posts under the jurisdiction of Women and Child Development Commissionerate, Maharashtra State, Pune and Integrated Child Development Service Scheme, Navi Mumbai as on 01.01.2025 in Group-A cadre.\
+  [202506111113488630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111113488630.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

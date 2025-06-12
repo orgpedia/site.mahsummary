@@ -7,6 +7,12 @@
 - Regarding providing assistance to those affected for the loss of agricultural crops due to heavy rains/floods in various districts during the period from June to October, 2024 (mainly August and September)...\
   [202506091744017919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091744017919.pdf)
 
+- Regarding allocating department-wise targets for implementing 10 crore tree plantation campaign for the year 2025 under the campaign Green Maharashtra, Prosperous Maharashtra.\
+  [202506111546382219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111546382219.pdf)
+
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2025-26 (2406 8669).\
+  [202506111645485519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111645485519.pdf)
+
 ## Miscellaneous
 - Regarding the formulation of a policy for compensation by Western Coldfield Limited for agricultural crops damaged by coal dust pollution in Taluka Wani, District Yavatmal...\
   [202506091746369719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091746369719.pdf)
@@ -26,6 +32,12 @@
 - Implementation of the order dated 4.03.2025 in Writ Petition (Civil) No. 1164/2023 of the Honble Supreme Court.. Constitution of a Committee.\
   [202506101701573719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101701573719.pdf)
 
+- Various revenue offices, residences under main head (4059 0799) regarding administrative approval of work.\
+  [202506111218464719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111218464719.pdf)
+
+- Regarding creation of majority posts, Deputy Superintendent, Land Records\
+  [202506111539094519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111539094519.pdf)
+
 ## Personnel
 - Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Nashik Division)\
   [202506102018093319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506102018093319.pdf)
@@ -35,6 +47,54 @@
 
 - Regarding the provision of 6 hectares (15 acres) of government undeveloped land in Block No. 24, Block Karodi, Chhatrapati Sambhajinagar, revenue free and with full exemption to the Employees State Insurance Corporation, Ministry of Labour and Employment, Government of India for the construction of ESIC Hospital (200-bed Insurance Workers Hospital).\
   [202506101826516019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101826516019.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202506111802355319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111802355319.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202506111819116419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111819116419.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111757285019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111757285019.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202506111744020119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111744020119.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202506111830370219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111830370219.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111816336919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111816336919.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111759213919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111759213919.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111804508119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111804508119.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111745502419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111745502419.pdf)
+
+- Transfer of officers in the Deputy Collector cadre\
+  [202506111801023919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111801023919.pdf)
+
+- Transfer and posting of officers in the Deputy Collector cadre...\
+  [202506111815108219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111815108219.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111820444719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111820444719.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111808503419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111808503419.pdf)
+
+- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
+  [202506111806252219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111806252219.pdf)
+
+- Forest Land-Pune  Diversion of 0.0586 ha. Forest land for laying underground PNG Pipeline in RoW passing through along National Highway No.48 from Village Kiwale to Talegaon Dabhade in Haveli/Maval Tehsil of Dist. Pune in the State of Maharashtra.\
+  [202506111647442519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111647442519.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506111833132919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111833132919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

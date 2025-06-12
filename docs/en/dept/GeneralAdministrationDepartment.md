@@ -19,12 +19,24 @@
 - Timeline for completing the departmental inquiry.\
   [202506101534127007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101534127007.pdf)
 
+- Regarding exemption from training after promotion to the post of Assistant Section officer.\
+  [202506111231282307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111231282307.pdf)
+
+- Post-promotion training for the Assistant Section officer cadre under the State Training Policy.\
+  [202506111225341807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111225341807.pdf)
+
+- Regarding extension of the contract for maintenance/repair of telephone equipment entered into with Mr. Laser Telesystem Pvt. Ltd.\
+  [202506111304291707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111304291707.pdf)
+
 ## Personnel
 - Adhoc promotion to the post of Deputy Secretary.\
   [202506091920550607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091920550607.pdf)
 
 - Regarding the promotion of 1 post in the cadre of Under Secretary (Law) to the cadre of Deputy Secretary (Law) in the establishment of General Administration Department (Own)...\
   [202506101529009307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101529009307.pdf)
+
+- Consolidated guidelines regarding granting the benefit of permanent certificate to temporary government officers/employees in government service.\
+  [202506111534466507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111534466507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

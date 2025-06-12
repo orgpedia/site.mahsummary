@@ -13,9 +13,18 @@
 - Regarding distribution of funds for printing of Farmers Monthly issue and office expenses under the Farmers Monthly Scheme.\
   [202506101900418101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101900418101.pdf)
 
+- Regarding the distribution of grants to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli in the financial year 2025-26 for the following items: Grant for the creation of capital assets, Rs. 35. (Programme)...\
+  [202506111824058501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111824058501.pdf)
+
 ## Personnel
 - Regarding the disbursement of an amount of Rs. 10,59,77,931/- for payment to insurance companies for advance state share subsidy under the restructured weather-based fruit crop insurance scheme Mrig Bahar 2025.\
   [202506091905489101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091905489101.pdf)
+
+- To be declared as Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds of centrally sponsored schemes through SNA-SPARSH mechanism\
+  [202506111442259901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111442259901.pdf)
+
+- Regarding the transfer of Aarey Hospital in Aarey Dairy Colony to the Brihanmumbai Municipal Corporation...\
+  [202506111812115001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111812115001.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

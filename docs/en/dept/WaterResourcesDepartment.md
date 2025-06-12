@@ -17,5 +17,8 @@
 - Transfers of officers in the Executive Engineer (Civil) cadre.\
   [202506101848106627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101848106627.pdf)
 
+- Regarding the posting of officers in the Chief Engineer  cadre.\
+  [202506111747575927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111747575927.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

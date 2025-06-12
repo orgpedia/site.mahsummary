@@ -13,5 +13,9 @@
 - Regarding the promotion and dissemination of the Transport Departments schemes on Ashadhi Dindi, 2025 routes...\
   [202506101655453029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101655453029.pdf)
 
+## Miscellaneous
+- Regarding administrative approval for Repairing works  of Thane Central Jail Barracks no. 1 to 8\
+  [202506111625165029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111625165029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

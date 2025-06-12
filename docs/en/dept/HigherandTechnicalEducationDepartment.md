@@ -43,5 +43,20 @@
 - Regarding issuance of letter of intent to new college for academic year 2025-26. (Corrigendum)\
   [202506101459552808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101459552808.pdf)
 
+- Regarding the government approval to start a new college of professional courses on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... Shri Vishweshwar Shikshan Prasarak Mandals Vishweshwaraya Institute of Management and Technology, M.P.O.Vasangaon, Dist.Latur\
+  [202506111843170108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111843170108.pdf)
+
+- Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... Maharashtra Institute of Technology, Mira Bhayandar, Thane.\
+  [202506111840314608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111840314608.pdf)
+
+- Government approval for change in the names of existing unaided educational institutions in Chhatrapati Sambhajinagar division under the Directorate of Technical Education, as per the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26...\
+  [202506111837455008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111837455008.pdf)
+
+- Regarding approval of changes in the Admission regulations for Engineering / Architecture/ Pharmacy diploma courses from the academic year 2025-26.\
+  [202506111120159608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111120159608.pdf)
+
+- Regarding reinstatement of cancelled letter of intent for the academic year 2025-26. (Court case).\
+  [202506111527420008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111527420008.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
