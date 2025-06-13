@@ -16,6 +16,10 @@
 - Regarding the distribution of grants to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli in the financial year 2025-26 for the following items: Grant for the creation of capital assets, Rs. 35. (Programme)...\
   [202506111824058501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111824058501.pdf)
 
+## Miscellaneous
+- Regarding the distribution of funds amounting to Rs. 10,92,51,989/- to the insurance companies for the remaining state share of insurance premium subsidy for the year 2024 under the restructured weather-based fruit crop insurance scheme.\
+  [202506121819398301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121819398301.pdf)
+
 ## Personnel
 - Regarding the disbursement of an amount of Rs. 10,59,77,931/- for payment to insurance companies for advance state share subsidy under the restructured weather-based fruit crop insurance scheme Mrig Bahar 2025.\
   [202506091905489101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091905489101.pdf)
@@ -25,6 +29,9 @@
 
 - Regarding the transfer of Aarey Hospital in Aarey Dairy Colony to the Brihanmumbai Municipal Corporation...\
   [202506111812115001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111812115001.pdf)
+
+- Regarding the formation of a committee to prescribe the procedure and guidelines for the implementation of a new scheme for increasing capital investment in the agricultural sector and creating infrastructure.\
+  [202506121228282401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121228282401.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

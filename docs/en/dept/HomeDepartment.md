@@ -13,9 +13,16 @@
 - Regarding the promotion and dissemination of the Transport Departments schemes on Ashadhi Dindi, 2025 routes...\
   [202506101655453029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506101655453029.pdf)
 
+- Sanctioning of professional fees to Senior Adv.Rajiv Patil as a Special Public Prosecutor for conducting the matters pending before Honble Bombay High Court, Mumbai of which is arising out of C.R.No. 487/2016  registered at Sakinaka  Police Station, Mumbai.\
+  [202506121751238829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121751238829.pdf)
+
 ## Miscellaneous
 - Regarding administrative approval for Repairing works  of Thane Central Jail Barracks no. 1 to 8\
   [202506111625165029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111625165029.pdf)
+
+## Personnel
+- Regarding the termination of suspension and reinstatement in service of Mr. Petrus Gaikwad, Acting Superintendent, District Jail, Jalgaon.\
+  [202506121442511829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121442511829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

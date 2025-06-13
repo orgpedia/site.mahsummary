@@ -23,5 +23,8 @@
 - To create a new account head for the expenditure incurred for wide publicity of various schemes implemented by the department and the work done in this regard.\
   [202506111827468702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111827468702.pdf)
 
+- Regarding the formation of a committee under the chairmanship of Shri. Pasha Patel, Chairman, State Agricultural Prices Commission, Maharashtra State, to formulate the onion policy in the state and suggest various measures....\
+  [202506121828397102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121828397102.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

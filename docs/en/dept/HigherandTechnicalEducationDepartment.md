@@ -58,5 +58,11 @@
 - Regarding reinstatement of cancelled letter of intent for the academic year 2025-26. (Court case).\
   [202506111527420008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111527420008.pdf)
 
+- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Balwantrao Chavan College of Pharmacy, Naigaon, Dist. Nanded)\
+  [202506121810240608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121810240608.pdf)
+
+- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Indira Gandhi Pharmacy College, Parbhani, of Kaji Educational and Social Welfare Society)\
+  [202506121806322408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121806322408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

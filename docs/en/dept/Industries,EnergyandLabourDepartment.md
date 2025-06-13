@@ -3,6 +3,10 @@
 **Date Range**: 16 June 2025 - 21 June 2025
 
 
+## Miscellaneous
+- Regarding approval of proposals pending with the department under policies whose policy period has expired under the Department of Industries.\
+  [202506121834409010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121834409010.pdf)
+
 ## Personnel
 - Regarding extension of tenure of the supernumerary post created for Shri.P.Pun.Nimje, Research Assistant in the office of Mr. M. Lokhande Maharashtra Institute of Labour Sciences, Mumbai.\
   [202506091155472210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091155472210.pdf)

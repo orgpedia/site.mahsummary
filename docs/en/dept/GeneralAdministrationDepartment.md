@@ -28,6 +28,12 @@
 - Regarding extension of the contract for maintenance/repair of telephone equipment entered into with Mr. Laser Telesystem Pvt. Ltd.\
   [202506111304291707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111304291707.pdf)
 
+- Regarding the 150-day action plan of the state government - e-governance reforms.\
+  [202506121813578307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121813578307.pdf)
+
+- Maharashtra Strengthening Institutional Capabilities in Districts for Enabling Growth Project - MahaSTRIDE\
+  [202506121312474807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121312474807.pdf)
+
 ## Personnel
 - Adhoc promotion to the post of Deputy Secretary.\
   [202506091920550607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091920550607.pdf)

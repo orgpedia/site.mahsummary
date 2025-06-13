@@ -13,6 +13,12 @@
 - Release of fund under the Scheme Computerization of Forest Department in for the year 2025-26 (2406 8669).\
   [202506111645485519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111645485519.pdf)
 
+- Regarding the distribution of central share and equivalent state share funds on the BEAMS system for general, SC and ST category wise as per the State Annual Action Plan approved by the Central Government in the year 2025-26 under the centrally sponsored National Bamboo Mission scheme.\
+  [202506121743566219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121743566219.pdf)
+
+- Granting Administrative approval for the construction work of the proposed Mangrove Training and Research Center, Thane.\
+  [202506121740356119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121740356119.pdf)
+
 ## Miscellaneous
 - Regarding the formulation of a policy for compensation by Western Coldfield Limited for agricultural crops damaged by coal dust pollution in Taluka Wani, District Yavatmal...\
   [202506091746369719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091746369719.pdf)
@@ -37,6 +43,12 @@
 
 - Regarding creation of majority posts, Deputy Superintendent, Land Records\
   [202506111539094519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111539094519.pdf)
+
+- Regarding approval of sanctioning funds to provide assistance for property and other damages excluding agricultural crops/farmland due to heavy rains and floods during the period June, 2023 to December, 2024....\
+  [202506121503344919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121503344919....pdf)
+
+- Regarding the sanction of funds for the year 2025-26 under the Central Government sponsored Forest Deforestation Prevention and Management Scheme.\
+  [202506121842421819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121842421819.pdf)
 
 ## Personnel
 - Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Nashik Division)\
@@ -95,6 +107,36 @@
 
 - Regarding posting of officers in the Deputy Collector cadre.\
   [202506111833132919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111833132919.pdf)
+
+- Regarding Posting of Shri.Prabhakar Dattatray Musale, District Superintendent of Land Records,\
+  [202506121941265719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121941265719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506121339457819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121339457819.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506121341471519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121341471519.pdf)
+
+- Regarding creation of a large number of posts for organizing On the Job Training (OJT) training for officers of the 2023 batch of Indian Forest Service.\
+  [202506121738065819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121738065819.pdf)
+
+- Regarding extension of 38 temporary posts in 14 teams of valuation experts created to assist government prosecutors in land acquisition matters under Section 18 of the Land Acquisition Act, 1894 from 01.03.2025 to 31.08.2025.\
+  [202506121233210019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121233210019....pdf)
+
+- Regarding transfer of Shri.Vikas B. Gophane, Deputy Superintendent of Land Records, Bhor, Dist.Pune\
+  [202506121938419419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121938419419.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506121335267919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121335267919.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506121331324919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121331324919.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506121337211519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121337211519.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202506121333290719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121333290719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

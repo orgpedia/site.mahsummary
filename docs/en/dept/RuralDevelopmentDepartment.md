@@ -25,6 +25,9 @@
 - Regarding the distribution of funds to the Zilla Parishad, Pune for the arrangement of temporary toilets and other sanitation facilities at the places of stay for the devotees accompanying the palanquins of various saints who are passing through the districts of Pune, Satara and Solapur on the occasion of Ashadhi Ekadashi 2025.\
   [202506111112382520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506111112382520.pdf)
 
+- To issue Short tender notice under E-Tendering System\
+  [202506121652523420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121652523420.pdf)
+
 ## Miscellaneous
 - Administrative approval for construction of Grampanchayat building under Hon. Balasaheb Thackrey Smruti Matoshree Grampanchayat Bandhani Yojana...(Dist-Sangli)\
   [202506091038419820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091038419820.pdf)
