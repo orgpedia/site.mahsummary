@@ -28,6 +28,9 @@
 - To issue Short tender notice under E-Tendering System\
   [202506121652523420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121652523420.pdf)
 
+- Regarding the distribution of government subsidy share for the salaries of Gram Panchayat employees, honorarium of Sarpanch, Upasarpanch and member meeting allowance as well as Gram Panchayat Employees Provident Fund for the financial year 2025-26.\
+  [202506131151188320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131151188320.pdf)
+
 ## Miscellaneous
 - Administrative approval for construction of Grampanchayat building under Hon. Balasaheb Thackrey Smruti Matoshree Grampanchayat Bandhani Yojana...(Dist-Sangli)\
   [202506091038419820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091038419820.pdf)

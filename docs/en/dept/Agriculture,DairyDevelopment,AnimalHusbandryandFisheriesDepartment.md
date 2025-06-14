@@ -20,6 +20,15 @@
 - Regarding the distribution of funds amounting to Rs. 10,92,51,989/- to the insurance companies for the remaining state share of insurance premium subsidy for the year 2024 under the restructured weather-based fruit crop insurance scheme.\
   [202506121819398301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121819398301.pdf)
 
+- Chief Ministers Animal Health Scheme.. Regarding the launch of a mobile veterinary team in the state to provide animal health services to the doorsteps of animal husbandry..\
+  [202506131636199701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131636199701.pdf)
+
+- Regarding approval to celebrate Desi Cattle Preservation and Conservation Day on 22nd July every year in the state.\
+  [202506131640357401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131640357401....pdf)
+
+- Regarding approval of the District Agricultural Festival Scheme.\
+  [202506131311465001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131311465001.pdf)
+
 ## Personnel
 - Regarding the disbursement of an amount of Rs. 10,59,77,931/- for payment to insurance companies for advance state share subsidy under the restructured weather-based fruit crop insurance scheme Mrig Bahar 2025.\
   [202506091905489101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091905489101.pdf)

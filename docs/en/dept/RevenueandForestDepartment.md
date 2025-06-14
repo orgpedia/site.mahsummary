@@ -50,6 +50,9 @@
 - Regarding the sanction of funds for the year 2025-26 under the Central Government sponsored Forest Deforestation Prevention and Management Scheme.\
   [202506121842421819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121842421819.pdf)
 
+- Regarding granting of Junior Administrative Grade (JAG) to officers of the Indian Forest Service (allocation years 2014, 2015 and 2016).\
+  [202506131241022519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131241022519.pdf)
+
 ## Personnel
 - Regarding transfer and posting of officers in the Naib Tehsildar cadre (scheduled) (Nashik Division)\
   [202506102018093319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506102018093319.pdf)

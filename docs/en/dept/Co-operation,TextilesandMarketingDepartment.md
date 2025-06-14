@@ -26,5 +26,8 @@
 - Regarding the formation of a committee under the chairmanship of Shri. Pasha Patel, Chairman, State Agricultural Prices Commission, Maharashtra State, to formulate the onion policy in the state and suggest various measures....\
   [202506121828397102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121828397102.pdf)
 
+- Regarding expanding the mandate of the committee formed to study and recommend to the government regarding the timely restructuring and empowerment of the Marketing Department.\
+  [202506131618584302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131618584302.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

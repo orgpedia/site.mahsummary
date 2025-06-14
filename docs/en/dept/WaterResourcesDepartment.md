@@ -50,5 +50,11 @@
 - Regarding promotion of Secretary and Secretary equivalent rank to Executive Director/Director General cadre.\
   [202506122014183727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506122014183727.pdf)
 
+- Regarding posting by promotion in the Chief Engineer (Civil) cadre.\
+  [202506131915269327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131915269327.pdf)
+
+- Transfers of officers in the Chief Engineer (Civil) cadre.\
+  [202506131913339527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131913339527.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

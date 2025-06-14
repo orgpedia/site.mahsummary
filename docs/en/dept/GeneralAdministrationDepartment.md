@@ -34,6 +34,15 @@
 - Maharashtra Strengthening Institutional Capabilities in Districts for Enabling Growth Project - MahaSTRIDE\
   [202506121312474807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121312474807.pdf)
 
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary - Smt. Reena Vitthal Phansekar, Deputy Secretary\
+  [202506131723481307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131723481307.pdf)
+
+- Regarding the announcement of the results of the Clerk-Typist Post-Service Training Examination 2024 in the ministerial department.\
+  [202506131828194707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131828194707.pdf)
+
+- Regarding the e-cabinet system.. Regarding cancellation of supply orders for purchase of Apple brand iPads and related items.\
+  [202506131314514607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131314514607.pdf)
+
 ## Personnel
 - Adhoc promotion to the post of Deputy Secretary.\
   [202506091920550607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091920550607.pdf)
