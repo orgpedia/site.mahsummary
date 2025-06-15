@@ -139,5 +139,11 @@
 - Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Thakur Shyam Narayan Engineering College, Kandivali (East), Mumbai)\
   [202506131100363908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131100363908.pdf)
 
+- Regarding final approval of colleges for the academic year 2025-26. (Second phase)\
+  [202506142010358408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506142010358408.pdf)
+
+- Regarding final approval of colleges for the academic year 2025-26. (Second phase)\
+  [202506142015567708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506142015567708.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
