@@ -145,5 +145,8 @@
 - Regarding final approval of colleges for the academic year 2025-26. (Second phase)\
   [202506142015567708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506142015567708.pdf)
 
+- Academic Year 2025-26 Regarding approval of new courses/subjects/special level subjects, additional batches, new faculties in existing colleges.\
+  [202506141839596108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506141839596108.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
