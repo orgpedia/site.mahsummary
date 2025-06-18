@@ -1,14 +1,15 @@
 # Planning Department
 
-**Date Range**: 16 June 2025 - 21 June 2025
+**Date Range**: 23 June 2025 - 28 June 2025
 
+
+## Funds
+- Regarding granting administrative approval to the media plan prepared by the Planning (Rohyo) Department for the publicity of various schemes during the Ashadhi Wari period of the financial year 2025-26 for more effective implementation of the Mahatma Gandhi National Rural Employment Guarantee Scheme... (Excluding Mumbai City and Mumbai Suburbs)\
+  [202506171314356816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171314356816.pdf)
 
 ## Miscellaneous
-- Regarding implementation of a unique infrastructure ID portal for every infrastructure development project in the state.\
-  [202506091817475416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506091817475416.pdf)
-
-- Regarding granting administrative approval to the Medium Plan of the Planning (Rohyo) Department for the financial year 2025-26 for more effective implementation of the Mahatma Gandhi National Rural Employment Guarantee Scheme... (Excluding Mumbai City and Mumbai Suburbs)\
-  [202506131838287116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131838287116.pdf)
+- Regarding approval of the account head under the Project Investment Facility (IPF) from the World Bank for the World Bank-assisted Maharashtra District Level Development Institutional Capacity Strengthening (MahaSTRIDE) project.\
+  [202506171805052316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171805052316.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

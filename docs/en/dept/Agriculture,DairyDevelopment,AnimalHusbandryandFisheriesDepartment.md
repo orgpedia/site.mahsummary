@@ -10,6 +10,13 @@
 - Regarding establishment of District Level Coordination Committee under Nanaji Deshmukh Krishi Sanjeevani Project Phase-2\
   [202506161621325301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161621325301.pdf)
 
+- Regarding the transfer of 9.09 hectares of land in the area of Punyashloka Ahilyadevi Sheep and Goat Development Area, Bilakhed, Taluka Chalisgaon, District Jalgaon to the Revenue Department.\
+  [202506171436567201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171436567201.pdf)
+
+## Miscellaneous
+- Regarding appointment on deputation to the post of Joint Director (Administration), Maharashtra Council of Agricultural Education and Research, Pune. Smt. Aarti Balasaheb Bhosale, Additional District Collector......\
+  [202506171757508301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171757508301.pdf)
+
 ## Personnel
 - Regarding transfer posting of officers in Maharashtra Agricultural Service Group-B cadre.\
   [202506161519030701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161519030701.pdf)

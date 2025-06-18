@@ -3,6 +3,10 @@
 **Date Range**: 23 June 2025 - 28 June 2025
 
 
+## Funds
+- Regarding granting administrative approval to provide a subsidy of Rs. 20,000/- per dindi for 1400 dindis accompanying 10 palanquins for the Ashadhi Ekadashi Yatra 2025 at the pilgrimage site of Pandharpur.\
+  [202506171058571522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171058571522.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to provide a subsidy of Rs. 20,000/- per Dindy to the Dindy accompanying 10 palanquins of the same size for the Ashadhi Ekadashi Yatra 2025 at the pilgrimage site of Pandharpur.\
   [202506161502365422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161502365422.pdf)
@@ -16,6 +20,9 @@
 
 - Regarding ad hoc promotion of Assistant Commissioner, Social Welfare and similar, Group-A cadre officers to Deputy Commissioner, Social Welfare and similar, Group-A cadre...\
   [202506161604230122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161604230122....pdf)
+
+- Regarding transfer of Assistant Commissioner, Social Welfare and similar officers in Group-A cadre on administrative grounds...\
+  [202506171559171022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171559171022.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
