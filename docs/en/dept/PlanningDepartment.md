@@ -11,5 +11,8 @@
 - Regarding approval of the account head under the Project Investment Facility (IPF) from the World Bank for the World Bank-assisted Maharashtra District Level Development Institutional Capacity Strengthening (MahaSTRIDE) project.\
   [202506171805052316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171805052316.pdf)
 
+- Regarding approval of the new account head opened in the Planning Department in connection with Maharashtra Institution for Transformation-MITRA-\
+  [202506181555413816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181555413816....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

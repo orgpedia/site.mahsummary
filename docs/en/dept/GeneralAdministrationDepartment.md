@@ -35,6 +35,9 @@
 - Regarding the formation of a state-level administrative department procurement committee.\
   [202506171154281607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171154281607.pdf)
 
+- Regarding the formation of a committee in connection with the preparations for the Simhastha Kumbh Mela to be held in Nashik in the year 2027.\
+  [202506181301528507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181301528507.pdf)
+
 ## Personnel
 - Ad-hoc Promotion to the post of Desk officer, Shri. Mahesh B. Bhamare\
   [202506171636367907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171636367907.pdf)

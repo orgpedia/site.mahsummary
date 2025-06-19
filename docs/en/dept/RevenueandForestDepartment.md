@@ -24,5 +24,14 @@
 - Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
   [202506161656104419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161656104419.pdf)
 
+- Regarding inclusion of terms and conditions in the Government Order of the officers who have been promoted to the post of deputation in the Additional District Collector (Selective Category) cadre in the year 2024-25 vide order dated 25.02.2025...\
+  [202506181055222519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181055222519.pdf)
+
+- Regarding inclusion of terms and conditions in the Government Order of the officers who have been promoted to the post of deputation in the Additional District Collector (Selective Category) cadre in the year 2024-25 vide order dated 25.02.2025...\
+  [202506181058157119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181058157119.pdf)
+
+- Regarding posting by ad hoc promotion to the post vacant due to deputation from the Assistant Revenue Officer cadre to the Naib Tehsildar cadre on a purely temporary basis (Konkan Division).\
+  [202506181809309719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181809309719.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -11,6 +11,9 @@
 - Regarding granting administrative approval to provide a subsidy of Rs. 20,000/- per Dindy to the Dindy accompanying 10 palanquins of the same size for the Ashadhi Ekadashi Yatra 2025 at the pilgrimage site of Pandharpur.\
   [202506161502365422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161502365422.pdf)
 
+- Regarding the implementation of a scheme for reimbursement of educational fees of students belonging to Scheduled Castes, Deemukt Castes, Nomadic Tribes, Other Backward Classes and Special Backward Classes taking admission in professional courses in government-recognized private unaided and permanent unaided educational institutions in the state...\
+  [202506181714218422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181714218422.pdf)
+
 ## Personnel
 - Regarding distribution of financial assistance to beneficiaries of Special Assistance Scheme through DBT portal.\
   [202506161555119922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161555119922.pdf)

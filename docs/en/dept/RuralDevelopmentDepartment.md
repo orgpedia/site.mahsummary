@@ -16,6 +16,9 @@
 - Regarding the distribution of additional funds for the arrangement of German hangar pavilions and other necessary matters at the stopping places of the palanquins of various saints passing through Khandala and Phaltan talukas of Satara district on the occasion of Ashadhi Ekadashi.\
   [202506171112071320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171112071320.pdf)
 
+- Ashadhiwari- 2025 Regarding distribution of funds to provide medical treatment facilities to the Warkaris accompanying the palanquins of saints who are passing through Solapur districts on the occasion of Ashadhi Ekadashi.\
+  [202506171112259920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171112259920.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Khatav Taluka (Dist-Satara)  as a Village Road in the Road Development Plan 2001-21.\
   [202506161205027820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161205027820.pdf)
@@ -125,6 +128,12 @@
 
 - Maharashtra Development Service, Block Development Officer (S-20) in the cadre of Group-A, regarding the partial change in posting made by promotion of officers - Shri. P.K. Narvatkar\
   [202506171713376420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171713376420.pdf)
+
+- Consolidated state-level provisional seniority list of Junior Engineers in District Technical Service, Class-3 (Electrical and Mechanical) cadre in Zilla Parishad as on 01.01.2025.\
+  [202506181628574320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181628574320.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfers of Group-A Cadre Officers - Shri. Ganesh B. More\
+  [202506181507584720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181507584720.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
