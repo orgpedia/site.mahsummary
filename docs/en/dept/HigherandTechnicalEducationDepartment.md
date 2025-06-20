@@ -52,6 +52,15 @@
 - Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degrees/postgraduates in the existing institutions under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi... (Ms. Sharachandrika Suresh Patil Institute of Technology (Engineering and Polytechnic), Chopra)\
   [202506181609458708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181609458708.pdf)
 
+- Regarding extension of final approval of new law colleges for the academic year 2025-26.\
+  [202506191248034408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191248034408.pdf)
+
+- Regarding the formation of a Library Policy Committee to prepare a Public Library Policy of the State of Maharashtra in line with the strengthening, digitization and modernization of government-approved public libraries and government libraries in the state.\
+  [202506191632051008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191632051008.pdf)
+
+- Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Technical Education Council, New Delhi... JSPM College of Engineering of Jayakranti Shikshan Prasarak Mandal, Latur.\
+  [202506191207553008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191207553008.pdf)
+
 ## Personnel
 - Regarding providing space for departmental centers and sub-centers of Dr. Babasaheb Ambedkar University of Technology, Lonere.\
   [202506181218423908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181218423908.pdf)

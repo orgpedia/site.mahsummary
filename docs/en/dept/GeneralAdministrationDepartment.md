@@ -38,9 +38,27 @@
 - Regarding the formation of a committee in connection with the preparations for the Simhastha Kumbh Mela to be held in Nashik in the year 2027.\
   [202506181301528507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181301528507.pdf)
 
+- Revised instructions for immediate submission of feedback/factual information regarding non-factual/responsible news published about the state government in various media.\
+  [202506191621326307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191621326307.pdf)
+
+- Regarding submission of performance appraisal reports of government officers/employees online in the Mahapar system under the 150-day Sevakarmi program of the Honble Chief Minister.\
+  [202506191539513407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191539513407.pdf)
+
+- Regarding the appointment of retired Army officers on the Board of Directors of Maharashtra Ex-Servicemen Corporation (ltd.) Pune.\
+  [202506191241002407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191241002407.pdf)
+
+- Revised Final Common Seniority List of the Desk Officer Cadre as on 01.01.2024\
+  [202506191749053907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191749053907.pdf)
+
+- High Power Committee For Maharashtra - Karnataka Border Dispute\
+  [202506191532290107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191532290107.pdf)
+
 ## Personnel
 - Ad-hoc Promotion to the post of Desk officer, Shri. Mahesh B. Bhamare\
   [202506171636367907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171636367907.pdf)
+
+- Final Common Seniority List dated 1st January, 2025 of eligible employees in Group-D cadre for promotion to the fixed-term post of Jamadar/Chopdar in the Ministerial Establishment\
+  [202506191735059707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191735059707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

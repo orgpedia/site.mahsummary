@@ -1,14 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 16 June 2025 - 21 June 2025
+**Date Range**: 23 June 2025 - 28 June 2025
 
 
 ## Funds
-- Regarding the distribution of funds to the Maharashtra State Hajj Committee for the financial year 2025-26...\
-  [202506121449431914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506121449431914.pdf)
-
-- Regarding the distribution of funds for the Maharashtra State Minorities Commission Helpline scheme in the financial year 2025-26.\
-  [202506131538427114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506131538427114.pdf)
+- Administrative approval for the expenditure (under programmes) of various schemes to be implemented during the financial year 2025-26 by the Maharashtra State Urdu Sahitya Academy.\
+  [202506191447594414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191447594414.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

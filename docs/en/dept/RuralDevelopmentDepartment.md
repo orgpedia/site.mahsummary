@@ -41,6 +41,12 @@
 - Mukhyamantri Gram Sadak Yojana Phase II  (Batch- I )                  According Administrative Approval to Upgradation of Roads under Research and                    Development Scheme in Satara district.\
   [202506171133095120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171133095120.pdf)
 
+- Regarding the announcement of the Controlling Officer and Drawing and Disbursing Officer for the Maharashtra State Cyber Treasury for the Just-in-Time disbursement of funds for the Centrally Sponsored State Affiliated Schemes Maharashtra State Rural Livelihood Mission and Deen Dayal Upadhyay Grameen Kaushalya Yojana through the SNA-SPARSH mechanism.\
+  [202506191217517220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191217517220.pdf)
+
+- Regarding the implementation of the Telecommunications Act, 2023, dated June 26, 2024 and the Telecommunications (Right of Way) Rules, 2024, dated January 01, 2025 in Rural Local bodies.\
+  [202506191250401220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191250401220.pdf)
+
 ## Personnel
 - Maharashtra Development Service, Request Transfers of Officers in Group-A, Block Development Officer Cadre- Shri. Shriram Murlidhar Kulkarni\
   [202506161201047320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161201047320.pdf)

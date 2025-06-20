@@ -23,5 +23,8 @@
 - Regarding declaring officers of the Cooperative, Marketing and Textiles Department as Virtual Personal Deposit Account Administrators for the speedy disbursement and monitoring of Subsidiary Grants...\
   [202506171513364802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171513364802.pdf)
 
+- Regarding the reorganization of the Board of Directors of the Maharashtra State Oilseeds Commercial and Industrial Corporation Limited, Mumbai (MOSICOL).\
+  [202506191616179902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191616179902.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

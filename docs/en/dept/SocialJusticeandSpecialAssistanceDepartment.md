@@ -14,6 +14,12 @@
 - Regarding the implementation of a scheme for reimbursement of educational fees of students belonging to Scheduled Castes, Deemukt Castes, Nomadic Tribes, Other Backward Classes and Special Backward Classes taking admission in professional courses in government-recognized private unaided and permanent unaided educational institutions in the state...\
   [202506181714218422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181714218422.pdf)
 
+- Regarding the continuation of the services of food suppliers appointed to supply food to students admitted to government hostels and government residential schools under the Department of Social Justice and Special Assistance.\
+  [202506191145050022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191145050022.pdf)
+
+- Regarding making corrections in the work in Kolhapur district which has been given administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202506191739002722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191739002722.pdf)
+
 ## Personnel
 - Regarding distribution of financial assistance to beneficiaries of Special Assistance Scheme through DBT portal.\
   [202506161555119922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161555119922.pdf)

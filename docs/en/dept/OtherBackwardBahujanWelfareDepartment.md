@@ -7,6 +7,9 @@
 - Regarding repairs to works in Parbhani district under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
   [202506161635058334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161635058334.pdf)
 
+- Regarding the distribution of funds under the Pre-Matric Scholarship Scheme in the financial year 2025-26.\
+  [202506191552587534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191552587534.pdf)
+
 ## Miscellaneous
 - Regarding the reorganization of the Banjara-dominated Hingoli District Committee to suggest works to be undertaken under the Vasantrao Naik Tanda/Hasti Improvement Scheme and Yashwantrao Chavan Mukt Vasahat Scheme.\
   [202506171807405234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171807405234.pdf)

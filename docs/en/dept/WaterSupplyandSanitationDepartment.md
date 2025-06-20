@@ -44,6 +44,9 @@
 - Regarding appointment by nomination to the post of Assistant Administration Officer Group-B, Groundwater Surveys and Development Agency. Shri. Avinash Revu Jadhav\
   [202506181101582928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181101582928.pdf)
 
+- Under the centrally sponsored Jal Jeevan Mission scheme, regarding the declaration of the Accounts Officer, Jal Jeevan Mission, State Water and Sanitation Mission, Belapur Office, as the Drawing and Disbursing Officer for the Maharashtra State Cyber Treasury Office, Mumbai.\
+  [202506191120127128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191120127128.pdf)
+
 ## Personnel
 - Revised Administrative approval to Mau.  Sagave Shirase, Tal. Rajapur , Dist. Ratnagiri (20058322) water supply scheme Under JJM.\
   [202506181552386428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552386428.pdf)

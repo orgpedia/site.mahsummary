@@ -17,6 +17,9 @@
 - Regarding appointment on deputation to the post of Joint Director (Administration), Maharashtra Council of Agricultural Education and Research, Pune. Smt. Aarti Balasaheb Bhosale, Additional District Collector......\
   [202506171757508301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171757508301.pdf)
 
+- Approval of drought relief projects under the National Disaster Management Fund (NDMF) and establishment of committees at various levels for project implementation.\
+  [202506191536155301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191536155301.pdf)
+
 ## Personnel
 - Regarding transfer posting of officers in Maharashtra Agricultural Service Group-B cadre.\
   [202506161519030701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161519030701.pdf)
