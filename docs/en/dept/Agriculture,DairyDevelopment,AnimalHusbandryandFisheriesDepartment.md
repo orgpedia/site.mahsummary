@@ -20,6 +20,9 @@
 - Approval of drought relief projects under the National Disaster Management Fund (NDMF) and establishment of committees at various levels for project implementation.\
   [202506191536155301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191536155301.pdf)
 
+- Extension of the deadline for farmers to fill online insurance applications for registration of grapes, lemon, orange and guava crops in Mriga Bahar 2025 under the restructured weather-based fruit crop insurance scheme from 17.06.2025 to 30.06.2025.\
+  [202506201344529201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201344529201.pdf)
+
 ## Personnel
 - Regarding transfer posting of officers in Maharashtra Agricultural Service Group-B cadre.\
   [202506161519030701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161519030701.pdf)

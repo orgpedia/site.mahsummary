@@ -61,6 +61,51 @@
 - Regarding the government approval to start a new engineering college on permanent unaided basis from the academic year 2025-26 as per the approval of All India Technical Education Council, New Delhi... JSPM College of Engineering of Jayakranti Shikshan Prasarak Mandal, Latur.\
   [202506191207553008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191207553008.pdf)
 
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degrees/postgraduates in the existing institution under the Directorate of Technical Education from the academic year 2025-26.... (Sant Gajanan Maharaj College of Engineering, Chinchewadi, Tal. Gadhinglaj)\
+  [202506201752557108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201752557108.pdf)
+
+- Regarding granting government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Arts, Science and Commerce College, Tal. Badnapur, Dist. Chhatrapati Sambhajinagar)\
+  [202506201318582808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201318582808.pdf)
+
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses from the academic year 2025-26 in the existing institution under the auspices of the Directorate of Technical Education.... K. K. Wagh Institute of Engineering Education and Research, Panchavati, Nashik\
+  [202506201310143508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201310143508.pdf)
+
+- Regarding amendment in the government decision on final approval of new colleges for the academic year 2024-25.\
+  [202506201221259508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201221259508.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses/introduction of admission capacity in the existing institutions under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi from the academic year 2025-26.... (Jawahar Education Societys A. C. Patil College of Engineering, Kharghar, Navi Mumbai)\
+  [202506201747195908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201747195908.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institutions under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Dadasaheb Dr. Suresh G. Patil College, Yaval Road, Chopra)\
+  [202506201750170508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201750170508.pdf)
+
+- Government approval for merger of unaided institutions running under a single management from the academic year 2025-26, as per the approval of All India Council for Technical Education, New Delhi...\
+  [202506201306054908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201306054908.pdf)
+
+- Regarding granting government approval to start a new unaided diploma institute in the state from the academic year 2025-26, in accordance with the approval given by the All India Council for Technical Education, New Delhi. (Sadguru Gram Vikas Pratishthan, Phalke Patil College of Engineering, Karjat, Dist. Ahilyanagar)\
+  [202506201800548208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201800548208.pdf)
+
+- Government approval for merger of unaided institutions running under a single management from the academic year 2025-26, as per the approval of All India Council for Technical Education, New Delhi...\
+  [202506201303059108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201303059108.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... Kalyani Charitable Trusts Late G. N. Sapkal College of Engineering, Trimbakeshwar, Nashik\
+  [202506201745249108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201745249108.pdf)
+
+- Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institutions under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26.... (Sangola College, Kadlas Road, Sangola)\
+  [202506201322176908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201322176908.pdf)
+
+- Government approval for merger of unaided institutions running under a single management from the academic year 2025-26, as per the approval of All India Council for Technical Education, New Delhi...\
+  [202506201308031208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201308031208.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degrees/postgraduates in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... Sant Dnyaneshwar Institute of Management and Business Administration, Nevasa\
+  [202506201314204108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201314204108.pdf)
+
+- Regarding the government approval to start a new college of professional courses on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council of Technical Education, New Delhi... Shiva Samarth Institute of Management, Talmavale, Dist. Satara.\
+  [202506201316284508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201316284508.pdf)
+
+- Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... SNJBS Late Mrs. Kantabai Bhawarlalji Jain College of Engineering, Jain Gurukul, Chandwad\
+  [202506201312135608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201312135608.pdf)
+
 ## Personnel
 - Regarding providing space for departmental centers and sub-centers of Dr. Babasaheb Ambedkar University of Technology, Lonere.\
   [202506181218423908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181218423908.pdf)
