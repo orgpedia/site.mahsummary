@@ -17,5 +17,8 @@
 - Provisional seniority list dated 01/01/2025 for the post of Electrical Inspector, Group-A (Gazetted) under the aegis of the Energy Department.\
   [202506191754171810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191754171810.pdf)
 
+- Regarding transfer and posting of Group-A (Gazetted) officers on the establishment of Directorate of Geology and Mines, Nagpur...\
+  [202506201657533410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201657533410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

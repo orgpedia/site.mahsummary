@@ -106,6 +106,12 @@
 - Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... SNJBS Late Mrs. Kantabai Bhawarlalji Jain College of Engineering, Jain Gurukul, Chandwad\
   [202506201312135608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201312135608.pdf)
 
+- Regarding granting Government approval for starting new Engineering Diploma courses in the existing institution/increasing the admission capacity of the existing courses etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2025-26. (Karmaveer Kakasaheb Wagh Polytechnic, Nashik)\
+  [202506201808095208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201808095208.pdf)
+
+- Government approval for starting new Engineering Diploma courses in the existing institution/increasing the admission capacity of the existing courses etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2025-26. (Nicam Institute of Technology (Polytechnic), Dhule)\
+  [202506201804459208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201804459208.pdf)
+
 ## Personnel
 - Regarding providing space for departmental centers and sub-centers of Dr. Babasaheb Ambedkar University of Technology, Lonere.\
   [202506181218423908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181218423908.pdf)

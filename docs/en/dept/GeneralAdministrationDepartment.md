@@ -71,6 +71,9 @@
 - Regarding the e-cabinet system... Regarding placing supply orders for purchasing Apple brand iPads and related items.\
   [202506201933486807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201933486807.pdf)
 
+- Regarding the e-cabinet system... Regarding placing supply orders for purchasing Apple brand iPads and related items.\
+  [202506211234143407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506211234143407.pdf.pdf)
+
 ## Personnel
 - Ad-hoc Promotion to the post of Desk officer, Shri. Mahesh B. Bhamare\
   [202506171636367907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171636367907.pdf)

@@ -19,6 +19,9 @@
 - Ashadhiwari- 2025 Regarding distribution of funds to provide medical treatment facilities to the Warkaris accompanying the palanquins of saints who are passing through Solapur districts on the occasion of Ashadhi Ekadashi.\
   [202506171112259920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171112259920.pdf)
 
+- Ashadhiwari - 2025 Regarding providing additional funds for the work of providing temporary toilet facilities at the accommodation places for the devotees accompanying the palanquin of Sant Muktai in Jalgaon district on the occasion of Ashadhi Ekadashi.\
+  [202506201510569920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201510569920.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in Khatav Taluka (Dist-Satara)  as a Village Road in the Road Development Plan 2001-21.\
   [202506161205027820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161205027820.pdf)
@@ -46,6 +49,12 @@
 
 - Regarding the implementation of the Telecommunications Act, 2023, dated June 26, 2024 and the Telecommunications (Right of Way) Rules, 2024, dated January 01, 2025 in Rural Local bodies.\
   [202506191250401220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191250401220.pdf)
+
+- Regarding declaration of Additional Commissioner (Establishment) as Drawing and Disbursing Officer for Development Branch in Divisional Commissioners Office.\
+  [202506201110073920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201110073920.pdf)
+
+- Corrigendum to the State Level Consolidated Revised Final Seniority List dated 01.01.2024 for Assistant Accounts Officer in District Technical Service, Class-3 (Accounts) cadre in Zilla Parishad.\
+  [202506201522382120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201522382120.pdf)
 
 ## Personnel
 - Maharashtra Development Service, Request Transfers of Officers in Group-A, Block Development Officer Cadre- Shri. Shriram Murlidhar Kulkarni\
