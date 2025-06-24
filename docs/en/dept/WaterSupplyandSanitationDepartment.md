@@ -1,100 +1,30 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 23 June 2025 - 28 June 2025
+**Date Range**: 30 June 2025 - 05 July 2025
 
 
 ## Funds
-- Regarding granting revised administrative approval to the estimate of the Mouje Naleshwar Tap Water Supply Scheme under the Jal Jeevan Mission Programme in District and Taluka Nanded.\
-  [202506161325070828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161325070828.pdf)
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje. Pal, Tal. Karad, Dist. Satara under the Jal Jeevan Mission program.\
+  [202506231229095628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231229095628.pdf)
 
-- Regarding granting revised administrative approval to the estimate of the Mouje Fattepur Tap Water Supply Scheme  under the Jal Jeevan Mission Programme in District Nanded.\
-  [202506161325047428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161325047428.pdf)
-
-- Revised Administrative approval to Mau.  Panchanadi, Tal. Dapoli , Dist. Ratnagiri (20064761) water supply scheme Under JJM.\
-  [202506161551223928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551223928.pdf)
-
-- Revised Administrative approval to Mau.  Yelwan, Tal. Rajapur , Dist. Ratnagiri (20068219) water supply scheme Under JJM.\
-  [202506161551140628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551140628.pdf)
-
-- Revised Administrative approval to  Mau.  Shrungartali  Bajarpeth, Tal. Guhagar , Dist. Ratnagiri (20094593) water supply scheme Under JJM.\
-  [202506181552481928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552481928.pdf)
-
-- Revised Administrative approval to Mau.  Raipatan, Tal. Rajapur , Dist. Ratnagiri (20066796) water supply scheme Under JJM.\
-  [202506181552336428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552336428.pdf)
-
-- Revised Administrative approval to Mau.  Shrungartali Shrungartali Mohalla, Tal. Guhagar , Dist. Ratnagiri (20094593) water supply scheme Under JJM.\
-  [202506181552593328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552593328.pdf)
-
-- Revised Administrative approval to Mau.  Kunwarbao Ravindranagar, Tal. Ratnagiri , Dist. Ratnagiri (20087976) water supply scheme Under JJM.\
-  [202506161551069928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551069928.pdf)
-
-- Revised Administrative approval to Mau.  Borghar, Tal. Khed, Dist. Ratnagiri (20074513) water supply scheme Under JJM.\
-  [202506161551275328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551275328.pdf)
-
-- Revised Administrative approval to Mau.  Moor, Tal. Rajapur, Dist. Ratnagiri (20067572) water supply scheme Under JJM.\
-  [202506181552315728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552315728.pdf)
-
-- Revised Administrative approval to Mau.  Sukondi, Tal. Dapoli , Dist. Ratnagiri (20040760) water supply scheme Under JJM.\
-  [202506161551380528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551380528.pdf)
-
-- Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Regarding granting improved administrative approval to the piped water supply scheme at Wakishivane, Sangola Taluka, Solapur District.\
-  [202506201013323628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201013323628.pdf)
-
-## Miscellaneous
-- Regarding granting revised administrative approval to the estimate of the Mouje Pachpimpali Tap Water Supply Scheme under the Jal Jeevan Mission Programme in District Nanded, Taluka Biloli.\
-  [202506161325124028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161325124028.pdf)
-
-- Regarding appointment by nomination to the post of Assistant Administration Officer Group-B, Groundwater Surveys and Development Agency. Shri. Avinash Revu Jadhav\
-  [202506181101582928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181101582928.pdf)
-
-- Under the centrally sponsored Jal Jeevan Mission scheme, regarding the declaration of the Accounts Officer, Jal Jeevan Mission, State Water and Sanitation Mission, Belapur Office, as the Drawing and Disbursing Officer for the Maharashtra State Cyber Treasury Office, Mumbai.\
-  [202506191120127128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506191120127128.pdf)
+- Regarding granting improved administrative approval to the tap water supply scheme at Mouje. Payapachiwadi, Tal. Miraj, Dist. Sangli under the Jal Jeevan Mission program.\
+  [202506231229049728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231229049728.pdf)
 
 ## Personnel
-- Revised Administrative approval to Mau.  Sagave Shirase, Tal. Rajapur , Dist. Ratnagiri (20058322) water supply scheme Under JJM.\
-  [202506181552386428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552386428.pdf)
+- Regarding granting improved administrative approval to the piped water supply scheme at Madalmuthi, Tal. Khanapur, District Sangli under the Jal Jeevan Mission program.\
+  [202506231228388428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231228388428.pdf)
 
-- To grant Revised Administrative Approval to Mouje Mola, Tq. Jintur Dist. Parbhani (20039163) Water supply Scheme under Jal Jeevan Mission.\
-  [202506171715044828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506171715044828.pdf)
+- Regarding granting improved administrative approval to the piped water supply scheme at Misalwadi, Tal. Purandar, District Pune under the Jal Jeevan Mission program.\
+  [202506231228354428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231228354428.pdf)
 
-- Revised Administrative approval to Mau.  Shrungartali Velamb Road  Roshan Mohalla, Tal. Guhagar , Dist. Ratnagiri (20094593) water supply scheme Under JJM.\
-  [202506181552433328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552433328.pdf)
+- Regarding granting improved administrative approval to the piped water supply scheme at Kankatre, Tal. Khatav, District Satara under the Jal Jeevan Mission program.\
+  [202506231228503028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231228503028.pdf)
 
-- Revised Administrative approval to Mau.  Shrungartali Shrungari mohalla, Tal. Guhagar , Dist. Ratnagiri (20094593) water supply scheme Under JJM.\
-  [202506181552535428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506181552535428.pdf)
+- Regarding granting improved administrative approval to the piped water supply scheme at Pare, Tal. Khanapur, District Sangli under the Jal Jeevan Mission program.\
+  [202506231228598628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231228598628.pdf)
 
-- Revised Administrative approval to Mau.  Sarang, Tal. Dapoli , Dist. Ratnagiri (20079608) water supply scheme Under JJM.\
-  [202506161551327428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551327428.pdf)
-
-- Revised Administrative approval to Mau.  Kalambat, Tal. Dapoli , Dist. Ratnagiri (20041982) water supply scheme Under JJM.\
-  [202506161551169828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506161551169828.pdf)
-
-- Request for Transfers of Officers in the Senior Drilling Engineer Cadre in Groundwater Surveys and Development Agency- 2025\
-  [202506201816196728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201816196728.pdf)
-
-- Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Anakdal, Tal. Sangola, Dist. Solapur.\
-  [202506201012251028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201012251028.pdf)
-
-- Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Kante, Tal. Shahuwadi, Dist. Kolhapur.\
-  [202506201013528528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201013528528.pdf)
-
-- Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Tippehali, Tal. Sangola, Dist. Solapur.\
-  [202506201013122528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201013122528.pdf)
-
-- Request for Transfers of Officers in the Deputy Engineer(Mech.) Cadre in Groundwater Surveys and Development Agency- 2025\
-  [202506201816277228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201816277228.pdf)
-
-- Request for Transfers of Officers in the Assistant Geologist Cadre in Groundwater Surveys and Development Agency- 2025\
-  [202506201726104628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201726104628.pdf)
-
-- Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Alegaon, Tal. Sangola, Dist.\
-  [202506201012388528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201012388528.pdf)
-
-- Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Kalubaluwadi, Tal. Sangola, Dist. Solapur.\
-  [202506201012593328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201012593328.pdf)
-
-- To be declared as the Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds of Swachh Bharat Mission (Gra Phase-2) Centrally Sponsored Scheme through SNA-SPARSH mechanism.\
-  [202506201500561128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506201500561128.pdf)
+- Regarding granting improved administrative approval to the piped water supply scheme at Pusane, Tal. Maval, District Pune under the Jal Jeevan Mission program.\
+  [202506231228552628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231228552628.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
