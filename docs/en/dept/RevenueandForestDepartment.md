@@ -14,5 +14,18 @@
 - Regarding the formation of a Technical Evaluation Committee for works under the Maharashtra Responsive Development Program (MRDP).\
   [202506231757416919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231757416919.pdf)
 
+## Personnel
+- Regarding Posting of Shri. Nitin Ramesh Patil, District Superintendent of Land Records.\
+  [202506241902365519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241902365519.pdf)
+
+- Regarding postings by promotion/transfer of officers Of Indian Forest Service.\
+  [202506242114175019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506242114175019....pdf)
+
+- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
+  [202506241900495019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241900495019.pdf)
+
+- Regarding transfers in the District Superintendent of Land Records (Group-A) cadre.\
+  [202506241904125219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241904125219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
