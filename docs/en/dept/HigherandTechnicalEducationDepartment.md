@@ -196,6 +196,48 @@
 - Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... Jai Hind College Autonomous, Churchgate (W), Mumbai\
   [202506241824528908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241824528908.pdf)
 
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Maharashtra Institute of Management, Kalamb-Walchandnagar, Pune)\
+  [202506251310500408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251310500408.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Jagadamba College of Engineering and Technology, Yavatmal)\
+  [202506251326564608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251326564608.pdf)
+
+- Regarding granting government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Jai Hind College of Engineering, Kuran, Tal. Junnar, Dist. Pune)\
+  [202506251308178908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251308178908.pdf)
+
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the Government approval for starting/discontinuing/increasing/decreasing admission capacity of Degree/Post-Graduate Degree, new courses from the academic year 2025-26 in the existing institution under the auspices of the Directorate of Technical Education.... (R. C. Patel College of Engineering and Polytechnic Shirpur, Dist. Dhule)\
+  [202506251320250808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251320250808.pdf)
+
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degrees/postgraduates in the existing institution under the Directorate of Technical Education from the academic year 2025-26.... (S. V. E. R. I.s College of Engineering, Gopalpur, Pandharpur, Dist. Solapur)\
+  [202506251258422808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251258422808.pdf)
+
+- Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26.... (Arvind Gawli College of Engineering, Panamalewadi, Satara)\
+  [202506251322464308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251322464308.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses/introduction of admission capacity in the existing institutions under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi from the academic year 2025-26.... (D. K. T. E. Societys Textile and Engineering Institute, Rajwada, Ichalkaranji)\
+  [202506251317278908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251317278908.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Fabtech Technical Campus College of Engineering and Research, Pandharpur Road, Sangola)\
+  [202506251300463808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251300463808.pdf)
+
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses from the academic year 2025-26 in the existing institution under the Directorate of Technical Education.... (Father C. Rodrigues Institute of Management Studies, Vashi)\
+  [202506251313006308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251313006308.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses/introduction of admission capacity in the existing institution under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi from the academic year 2025-26.... (H. V. P. Mandal College of Engineering and Technology, Amravati)\
+  [202506251302561108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251302561108.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institutions under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26.... (Yashoda Technical Campus, Wadhe, Satara)\
+  [202506251256188908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251256188908.pdf)
+
+- Regarding granting government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Jaihind Institute of Management and Research, Vadgaon Sahni, Tal. Junnar, Dist. Pune)\
+  [202506251306041508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251306041508.pdf)
+
+- Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institutions under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Maharashtra College, Nilanga, Dist. Latur)\
+  [202506251315173708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251315173708.pdf)
+
+- Regarding granting Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate courses in the existing institution under the Directorate of Technical Education from the academic year 2025-26, in accordance with the approval of All India Council for Technical Education, New Delhi.... (Shri Siddheshwar Womens College of Engineering, Bhavani Peth, Solapur)\
+  [202506251324567508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251324567508.pdf)
+
 ## Personnel
 - Regarding transfers of officers in government colleges/institutions/offices under the Directorate of Higher Education in the year 2025.\
   [202506231451158908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231451158908.pdf)

@@ -13,6 +13,16 @@
 - Regarding granting administrative approval for the cost of construction (renovation) of an updated Visitor Plaza at the Mantralaya Garden Gate entrance under the Mantralaya Security Project.\
   [202506241551403329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241551403329.pdf)
 
+## Miscellaneous
+- Regarding the establishment of a committee to conduct a comparative study of the provisions of the Criminal Laws (Maharashtra Amendment) Bill, 2020 with the new criminal laws.\
+  [202506251818302729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251818302729.pdf)
+
+- Regarding extension of the surrender scheme for Naxalites.\
+  [202506251535035829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251535035829.pdf)
+
+- Corrigendum regarding the revised structure, working procedures and terms of reference of Women Vigilance Committees at the police station level, circle level in Police Commissionerate and District Superintendent of Police level in the state.\
+  [202506251706124429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251706124429.pdf)
+
 ## Personnel
 - Regarding authorizing the Drawing and Disbursement Officer in the subordinate offices of the Home Department as Virtual Personal Deposit Account Administrator for the speedy disbursement and monitoring of Subsidiary Grant.\
   [202506241722190629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241722190629.pdf)

@@ -3,6 +3,10 @@
 **Date Range**: 30 June 2025 - 05 July 2025
 
 
+## Miscellaneous
+- Fees and allowances of Special  Government Pleaders or Additional Special  Government Pleaders for Maharashtra Revenue Tribunal in the State of Maharashtra  Revision of the rates of fees .\
+  [202506251825464512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251825464512.pdf)
+
 ## Personnel
 - Transfer of 01 post in the Senior Clerk cadre of the Deputy Registrar Partnership Firm, Pune office to the office of the Deputy Registrar Partnership Firm, Nagpur.\
   [202506231240244012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231240244012.pdf)

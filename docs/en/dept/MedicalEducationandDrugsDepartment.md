@@ -19,6 +19,9 @@
 - Regarding the filling of security guard posts through an external agency at Rajarshi Chhatrapati Shahu Maharaj Government Medical College, Kolhapur.\
   [202506241730213313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241730213313.pdf)
 
+- Regarding granting approval to open a Personal Ledger Account (P.L.A.) for Vilasrao Deshmukh Government Medical College and Super Specialty Hospital, Latur.\
+  [202506251229318813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251229318813.pdf)
+
 ## Personnel
 - Regarding granting approval to open a Personal Ledger Account (P.L.A.) for Vilasrao Deshmukh Government Medical College and Hospital, Latur.\
   [202506231715316213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231715316213.pdf)

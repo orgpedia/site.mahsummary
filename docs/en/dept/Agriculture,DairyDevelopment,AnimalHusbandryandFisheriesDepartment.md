@@ -10,6 +10,9 @@
 - Regarding the implementation of the Maharashtra Agriculture-Artificial Intelligence (MahaAgri-AI) Policy 2025-2029 to transform the agriculture sector through the use of artificial intelligence and emerging technologies.\
   [202506241857097601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241857097601.....pdf)
 
+- Regarding granting administrative approval to implement the State e-Governance Program in the financial year 2025-26.\
+  [202506251550281101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251550281101.pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list of Maharashtra Agricultural Service, Group-A, Deputy Director of Agriculture cadre as on 01/01/2025.\
   [202506231816121501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231816121501.pdf)

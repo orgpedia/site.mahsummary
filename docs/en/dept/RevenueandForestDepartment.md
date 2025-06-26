@@ -14,6 +14,12 @@
 - Regarding the formation of a Technical Evaluation Committee for works under the Maharashtra Responsive Development Program (MRDP).\
   [202506231757416919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231757416919.pdf)
 
+- Administrative arrangements to be made for Indian Forest Service officers on their way to a one-week in-service training program.\
+  [202506251625085119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251625085119.pdf)
+
+- Regarding the restructuring of the Standing Committee of the State Wildlife Board.\
+  [202506251759507019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251759507019.pdf)
+
 ## Personnel
 - Regarding Posting of Shri. Nitin Ramesh Patil, District Superintendent of Land Records.\
   [202506241902365519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241902365519.pdf)

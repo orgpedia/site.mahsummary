@@ -13,5 +13,14 @@
 - Repair of EVM storage warehouse in Dist.Jalgaon:- Administrative approval.\
   [202506241502194207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241502194207.pdf)
 
+- Interim Seniority of Assistant Section Officer as on 1 st January 2025\
+  [202506251747108107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251747108107.pdf)
+
+- Regarding approval of the revision training program conducted by the Indian Institute of Public Administration, Maharashtra Branch in accordance with various subjects and fixing the rate of one-day non-resident training fee.\
+  [202506251140258107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251140258107.pdf)
+
+- Regarding the disbursement of funds to the National Informatics Centre Services Incorporation (NICSI) for developing the Employment to Retirement (e-HRMS) system.\
+  [202506251815479707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251815479707.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

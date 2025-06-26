@@ -10,5 +10,8 @@
 - Regarding the appointment of the first Director of Shri Vasavi Kanyaka Economic Development Corporation and approval of the Articles of Association (AOA) and Memorandum of Association (MOA).\
   [202506241910032316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241910032316.pdf)
 
+- Two State Government Nominee For Board of Director of State RRB Maharashtra Gramin Bank\
+  [202506251712157316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251712157316.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
