@@ -22,5 +22,14 @@
 - Regarding the disbursement of funds to the National Informatics Centre Services Incorporation (NICSI) for developing the Employment to Retirement (e-HRMS) system.\
   [202506251815479707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251815479707.pdf)
 
+- Provisional Additional Seniority list of clerk typist of mantralaya department eligible for promotion to post of Assistant Section officer-Provisional Seniority list As on 01.01.2025\
+  [202506261810574207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261810574207.pdf)
+
+- Regarding the distribution of funds from the sanctioned grant under the detailed head 17-Computer Expenditure under Main Account Head 2052- Secretariat General Services (00) (10) Directorate of Information Technology (20520482) (Programme) for the financial year 2025-26.\
+  [202506261706217107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261706217107.pdf)
+
+- Filling the post of deputation basis\
+  [202506261849374907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261849374907.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

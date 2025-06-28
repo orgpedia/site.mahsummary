@@ -13,6 +13,10 @@
 - Regarding the replacement of old Scraped vehicles in the Groundwater Surveys and Development Agency also Approval for purchase of permissible new vehicles after Vehicle Review.\
   [202506241221296828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241221296828.pdf)
 
+## Miscellaneous
+- Regarding amendments to the Groundwater Rich Village Competition Award to honor villages that have shown excellent public participation and are working under the Atal Bhujal Yojana.\
+  [202506261220439928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261220439928.pdf)
+
 ## Personnel
 - Regarding granting improved administrative approval to the piped water supply scheme at Madalmuthi, Tal. Khanapur, District Sangli under the Jal Jeevan Mission program.\
   [202506231228388428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231228388428.pdf)
@@ -46,6 +50,39 @@
 
 - Request for Transfers of Officers in the Deputy Engineer(Mech.) Cadre in Groundwater Surveys and Development Agency- 2025 Corrigendum\
   [202506241106030528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241106030528.pdf)
+
+- To grant Revised Administrative Approval to Mouje Vadi, Tq. Pathari, Dist. Parbhani (20040132) Water supply Scheme under Jal Jeevan Mission.\
+  [202506251143459328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251143459328.pdf)
+
+- To grant Revised Administrative Approval to Mouje Andhapuri, Tq. Pathari, Dist Parbhani (20068800)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251144183828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144183828.pdf)
+
+- To grant Revised Administrative Approval to Mouje Digras, Tq. Parbhani, Dist Parbhani (20018378)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251144086428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144086428.pdf)
+
+- To grant Revised Administrative Approval to Mouje Limala, Tq. Purna, Dist Parbhani (20039092) Water supply Scheme under Jal Jeevan Mission.\
+  [202506251144270028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144270028.pdf)
+
+- To give revised administrative approval for Mauje Parwa Tarfe Palasgaon, Ta. Vasmat, Dist. Hingoli (20028013) water supply scheme under Jal Jeevan Mission (Revised Order)\
+  [202506251144366728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144366728.pdf)
+
+- To grant Revised Administrative Approval to Mouje Aaherwadi, Tq. Purna, Dist Parbhani (20039103)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251144322828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144322828.pdf)
+
+- To grant Revised Administrative Approval to Mouje Mandakhali, Tq. Parbhani Dist. Parbhani (20082974)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251143568228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251143568228.pdf)
+
+- To grant Revised Administrative Approval to Mouje Dagadwadi Bamani, Tq. Purna, Dist Parbhani (20023152)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251144131728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144131728.pdf)
+
+- To grant Revised Administrative Approval to Mouje Varpud, Tq. Parbhani, Dist Parbhani (20052399)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251144015728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251144015728.pdf)
+
+- To grant Revised Administrative Approval to Mouje Banegaon, Tq. Pathari Dist. Parbhani (7945396)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251143520528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251143520528.pdf)
+
+- To grant Revised Administrative Approval to Mouje Phularwadi, Tq. Pathari, Dist. Parbhani (20035772)  Water supply Scheme under Jal Jeevan Mission.\
+  [202506251143410628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251143410628.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

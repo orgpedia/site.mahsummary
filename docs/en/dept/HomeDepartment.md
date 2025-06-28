@@ -27,5 +27,11 @@
 - Regarding authorizing the Drawing and Disbursement Officer in the subordinate offices of the Home Department as Virtual Personal Deposit Account Administrator for the speedy disbursement and monitoring of Subsidiary Grant.\
   [202506241722190629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241722190629.pdf)
 
+- Regular Select List 2024-25: Regarding posting-on-promotion to post in the cadre of Superintendent, District Prison, Class 1/Additional Superintendent, Central Prison, Group A\
+  [202506261826407029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261826407029.pdf)
+
+- Regular Select List 2024-25: Regarding posting-on-promotion to post in the cadre of Special Inspector General, Prison, Group A\
+  [202506261828130929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261828130929.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,12 +10,18 @@
 - Revised policy for sanctioning loans for capital expenditure and working capital to cooperative sugar factories in the state through the National Cooperative Development Corporation (NCDC) through the Maharashtra Government.\
   [202506251430016202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251430016202.pdf)
 
+- Regarding approval of research grant-in-aid for the financial year 2025-26 to Vasantdada Sugar Institute Manjari (B.) Taluka Haveli District Pune.\
+  [202506261703194002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261703194002.pdf)
+
 ## Miscellaneous
 - Extension to One Time Settlement scheme of Urban  Co-Opertive Bank\
   [202506241541010602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241541010602.pdf)
 
 - Regarding termination of probationary period of Probationary Deputy Registrar, Cooperative Society Group-A appointed through direct service in the year 2011..........\
   [202506251821125802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251821125802.pdf)
+
+- Regarding the formation of a vigilance and control team to inspect textile industry projects in the state.\
+  [202506261106118402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261106118402.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

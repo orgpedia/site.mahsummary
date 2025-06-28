@@ -3,6 +3,10 @@
 **Date Range**: 30 June 2025 - 05 July 2025
 
 
+## Miscellaneous
+- Regarding extension of the order for determination of bulk water used for agricultural irrigation, domestic and industrial purposes in the state.\
+  [202506261152498127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261152498127.pdf)
+
 ## Personnel
 - Constitution of Comprehensive Dam Safety Review Panels as per Dam Safety Act-2021 for comprehensive dam safety evaluation of Specified Dams.\
   [202506231650065927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231650065927.pdf)

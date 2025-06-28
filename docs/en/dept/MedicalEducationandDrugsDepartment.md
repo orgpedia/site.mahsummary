@@ -3,6 +3,10 @@
 **Date Range**: 30 June 2025 - 05 July 2025
 
 
+## Funds
+- Administrative approval for the purchase of machinery and equipment for Swami Ramanand Tirtha Rural Government Medical College and Hospital, Ambajogai.\
+  [202506251756482313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251756482313.pdf)
+
 ## Miscellaneous
 - MIMER Punes Maharashtra Institute of Physiotherapy, Vishwanathpuram, Ambajogai Road, Latur- 413531 have Regarding permission to start a new Postgraduate Degree course in Physiotherapy.\
   [202506231524115113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231524115113.pdf)
@@ -21,6 +25,12 @@
 
 - Regarding granting approval to open a Personal Ledger Account (P.L.A.) for Vilasrao Deshmukh Government Medical College and Super Specialty Hospital, Latur.\
   [202506251229318813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251229318813.pdf)
+
+- Regarding increasing the admission capacity of the college for P.B.B.Sc. Nursing degree course at Maharashtra Institute of Nursing Sciences (College of Nursing), Latur\
+  [202506261112404413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261112404413.pdf)
+
+- Administrative approval for the purchase of machinery and equipment for Government Medical College and Hospital, Parbhani\
+  [202506251756434513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251756434513.pdf)
 
 ## Personnel
 - Regarding granting approval to open a Personal Ledger Account (P.L.A.) for Vilasrao Deshmukh Government Medical College and Hospital, Latur.\

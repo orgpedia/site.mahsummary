@@ -32,12 +32,18 @@
 - Establishment of Task Force to prepare an Integrated Bus Transportation Plan for the Mumbai Metropolitan Region- Reg.\
   [202506241527515425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241527515425.pdf)
 
+- Regarding creation of a large number of posts for the probationary training period of candidates in the Chief Officer Group-A and Chief Officer Group-B cadres selected through direct service by the Maharashtra Public Service Commission.\
+  [202506261620242325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261620242325.pdf)
+
 ## Personnel
 - Temporary Promotion of officers in the cadre of Town Planner (Degree holder) (Group-A/Gazetted) to the post of Assistant Director, Town Planning (Degree holder) (Group-A/Gazetted).\
   [202506231619020725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231619020725.pdf)
 
 - To be declared as the Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds of centrally sponsored schemes through SNA-SPARSH mechanism.\
   [202506241613490425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241613490425.pdf)
+
+- Regarding issuing guidelines in accordance with the Grievance Redressal System Procedure\
+  [202506261625364125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261625364125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
