@@ -29,5 +29,8 @@
 - Regarding the confusion regarding construction permits under the Collective Incentive Scheme-2013 and the demand for interest rate subsidy for micro, small and medium textile industries.\
   [202506241143123210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241143123210.pdf)
 
+- Visit of Delegation, Government of Maharashtra to EVS-38 event at Gothenburg, Sweden.\
+  [202506271453251810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271453251810.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

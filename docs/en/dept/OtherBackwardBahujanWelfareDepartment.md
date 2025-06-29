@@ -3,6 +3,10 @@
 **Date Range**: 30 June 2025 - 05 July 2025
 
 
+## Funds
+- Regarding the disbursement of funds under the Foreign Scholarship Scheme in the financial year 2025-26\
+  [202506271509442334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271509442334.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds under the Foreign Scholarship Scheme in the financial year 2025-26.\
   [202506231444326034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231444326034.pdf)

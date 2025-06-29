@@ -13,9 +13,30 @@
 - Regarding the replacement of old Scraped vehicles in the Groundwater Surveys and Development Agency also Approval for purchase of permissible new vehicles after Vehicle Review.\
   [202506241221296828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241221296828.pdf)
 
+- Regarding giving Revised administrative approval to the regional water supply scheme dhulghat railway  ta. Dharni dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261518022728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261518022728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Ranapisa  ta. Dharni dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261518259428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261518259428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Pimpalkhuta  ta. amravati dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261518171128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261518171128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Khaparkheda  ta. Dharni dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261517520828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261517520828.pdf)
+
 ## Miscellaneous
 - Regarding amendments to the Groundwater Rich Village Competition Award to honor villages that have shown excellent public participation and are working under the Atal Bhujal Yojana.\
   [202506261220439928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261220439928.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Takali Gilba  ta. Nandgaon khandeswar dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261517576428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261517576428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Nimbhora Bodakha  ta. Dhamangaon railway dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261518071028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261518071028.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Pusali  ta. Warud dist-amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202506261518215628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261518215628.pdf)
 
 ## Personnel
 - Regarding granting improved administrative approval to the piped water supply scheme at Madalmuthi, Tal. Khanapur, District Sangli under the Jal Jeevan Mission program.\
@@ -83,6 +104,9 @@
 
 - To grant Revised Administrative Approval to Mouje Phularwadi, Tq. Pathari, Dist. Parbhani (20035772)  Water supply Scheme under Jal Jeevan Mission.\
   [202506251143410628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251143410628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chargaon, Gram Panchayat Chargaon, Taluka Parshivni, Dist. Nagpur under the Jal Jeevan Mission program.\
+  [202506261622517528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261622517528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

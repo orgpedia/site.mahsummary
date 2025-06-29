@@ -13,6 +13,24 @@
 - Regarding approval of research grant-in-aid for the financial year 2025-26 to Vasantdada Sugar Institute Manjari (B.) Taluka Haveli District Pune.\
   [202506261703194002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261703194002.pdf)
 
+- Regarding granting administrative approval to the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Nandgaon Khandeshwar, Dist. Amravati...\
+  [202506271752425302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271752425302.pdf)
+
+- Regarding granting administrative approval to the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Nandgaon Khandeshwar, Dist. Amravati...\
+  [202506271751055302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271751055302.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Sironcha, Dist. Gadchiroli...\
+  [202506271424205802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271424205802.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkar Bhavan at Agricultural Produce Market Committee, Ghansawangi, main market, Kumbharpimpalgaon, Dist. Jalna...\
+  [202506271747469202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271747469202.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Dharani, Dist. Amravati...\
+  [202506271746222502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271746222502.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Jintur, Dist. Parbhani...\
+  [202506271749097802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271749097802.pdf)
+
 ## Miscellaneous
 - Extension to One Time Settlement scheme of Urban  Co-Opertive Bank\
   [202506241541010602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241541010602.pdf)
@@ -22,6 +40,9 @@
 
 - Regarding the formation of a vigilance and control team to inspect textile industry projects in the state.\
   [202506261106118402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261106118402.pdf)
+
+- Regarding granting revised administrative approval to the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Ambajogai, District Beed...\
+  [202506271422186602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271422186602.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

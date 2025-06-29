@@ -19,9 +19,15 @@
 - Regarding the distribution of grants for social special components for programs under the centrally sponsored National Rural Health Mission, a total of Rs. 586.00 lakhs (Rs. fifty-eight crore sixty-four lakhs only) under Central Share 2210G592, under Item 31, Rs. 5278.00 lakhs and Rs. 586.00 lakhs under Item 35, totaling Rs. 5864.00 lakhs (Rs. fifty-eight crore sixty-four lakhs only) and the corresponding balance State Share 2210G609, under Item 31, Rs. 1859.87 lakhs and Rs. 390.67 lakhs under Item 35, totaling Rs. 2250.54 lakhs (Rs. twenty-two crore fifty lakh fifty-four thousand only).\
   [202506261150025817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261150025817.pdf)
 
+- Regarding the distribution of funds amounting to Rs. 116.50 lakhs as State share of 40 percent under Account Head 2210E455, 31 Subsidiary Grants (Non-Salary) from the budgetary provision of the year 2025-26 for the tribal scheme under the centrally sponsored National Rural Health Mission.\
+  [202506261150110617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261150110617.pdf)
+
 ## Miscellaneous
 - Regarding approval to distribute and spend funds amounting to Rs. 2,40,00,000/- under Account Head 2210 0146, 21- Supplies and Materials for the purchase of medicines, materials and supplies for the year 2025 at Shri Shretra Pandharpur\
   [202506231229517117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231229517117.pdf)
+
+- Regarding the approval of the resignation of Shri. Aditya Ranganath Vavare, Statistical Officer, General State Service Group-B.\
+  [202506271134205717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271134205717.pdf)
 
 ## Personnel
 - Continuation of temporary posts in health institutions under the jurisdiction of Deputy Director, Health Services, Latur Board, Latur.\

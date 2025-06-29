@@ -32,6 +32,12 @@
 - Administrative approval for the purchase of machinery and equipment for Government Medical College and Hospital, Parbhani\
   [202506251756434513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251756434513.pdf)
 
+- Renovation of new PG resident doctor hostel, PG student old hostel building and girls hostel building no. 1 etc. at Swami Ramanand Tirtha Rural Government Medical College and Hospital, Ambajogai.\
+  [202506271529414713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271529414713.pdf)
+
+- Administrative approval for the purchase of machinery Dr. Shankarrao Chavan Government Medical College and Hospital, Vishnupuri, Nanded\
+  [202506271529348213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271529348213.pdf)
+
 ## Personnel
 - Regarding granting approval to open a Personal Ledger Account (P.L.A.) for Vilasrao Deshmukh Government Medical College and Hospital, Latur.\
   [202506231715316213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231715316213.pdf)

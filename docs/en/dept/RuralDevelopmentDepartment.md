@@ -7,6 +7,15 @@
 - Ashadhiwari- 2025 Regarding distribution of additional funds to Satara Zilla Parishad for the Palkhi ceremony of Shri Sant Dnyaneshwar Maharaj on the occasion of Ashadhi Ekadashi.\
   [202506251856120720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251856120720.pdf.pdf)
 
+- Under the Pradhan Mantri Awas Yojana (Rural) (Scheduled Caste Plan) (Vigio), the first part of the first installment of the Central Government is Rs. 557,73,90,000/- and the state governments share of Rs. 371,82,60,000/- about distribution of funds.\
+  [202506271305570520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271305570520.pdf)
+
+- In the financial year 2025-26 under the Pradhan Mantri Awas Yojana (Rural) constituency, the first part of the Central Governments first installment is Rs.  1301,64,10,000/- and state equal share of Rs. About distributing funds to 867,76,06,666/-.\
+  [202506271305548220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271305548220.pdf)
+
+- Under the Pradhan Mantri Awas Yojana (Rural) (Scheduled Tribe Planning), the first part of the first installment of the Central Government is Rs. 1315,12,00,000/- and the state government share Rs. 876,74,66,666/- to distribute funds.\
+  [202506271306020520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271306020520.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-plan roads in South Solapur Taluka (Dist-Solapur)  as a Village Road in the Road Development Plan 2001-21.\
   [202506251436052320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251436052320.pdf)

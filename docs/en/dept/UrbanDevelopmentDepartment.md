@@ -35,6 +35,12 @@
 - Regarding creation of a large number of posts for the probationary training period of candidates in the Chief Officer Group-A and Chief Officer Group-B cadres selected through direct service by the Maharashtra Public Service Commission.\
   [202506261620242325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261620242325.pdf)
 
+- Hand over the land of Patur Municipal Council to the Original Owner.\
+  [202506271555301225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271555301225.pdf)
+
+- Regarding the approval of the Government to the service entry rules for the post of Deputy Chief Auditor of the Municipal Corporation on the establishment of the Municipal Auditor General of the Brihanmumbai Municipal Corporation...\
+  [202506271541445725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271541445725.pdf)
+
 ## Personnel
 - Temporary Promotion of officers in the cadre of Town Planner (Degree holder) (Group-A/Gazetted) to the post of Assistant Director, Town Planning (Degree holder) (Group-A/Gazetted).\
   [202506231619020725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231619020725.pdf)
@@ -44,6 +50,9 @@
 
 - Regarding issuing guidelines in accordance with the Grievance Redressal System Procedure\
   [202506261625364125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261625364125.pdf)
+
+- Business Process Re-engineering of the services notified under Right To Service Act 2015\
+  [202506271657286725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271657286725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

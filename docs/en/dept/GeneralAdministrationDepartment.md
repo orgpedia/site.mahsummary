@@ -31,5 +31,15 @@
 - Filling the post of deputation basis\
   [202506261849374907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261849374907.pdf)
 
+- Amendment to the policy regarding honouring/respecting those who were imprisoned for fighting for democracy during the Emergency period from 1975 to 1977.....\
+  [202506271505457107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271505457107.....pdf)
+
+- Regarding selection of a consulting firm for the Project Implementation Cell established under the General Administration Department (AIEGG) and appointment of three consultants (1-Consultant and 2-Associate Consultants) through the said firm.\
+  [202506271054423107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271054423107...pdf)
+
+## Personnel
+- Regarding appointment on deputation to the post of Assistant Professor in Yashwantrao Chavan Vikas Administration Prabodhini, Pune, an administrative training institute.\
+  [202506271613470507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271613470507.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

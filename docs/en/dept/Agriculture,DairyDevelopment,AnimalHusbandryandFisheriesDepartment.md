@@ -17,6 +17,12 @@
 - Regarding changing the name of the organization Maharashtra Sendriya Pramanikaran Yantrana to Maharashtra Rajya Sendriya Pramanikaran Yantrana...\
   [202506261057538101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261057538101.pdf)
 
+- Regarding revision in the remuneration admissible to assistants per owners plot under Agristake Scheme - Digital Crop Survey...\
+  [202506271107506301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271107506301...pdf)
+
+- Regarding extension of Mahavedha project...\
+  [202506271900401401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271900401401.pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list of Maharashtra Agricultural Service, Group-A, Deputy Director of Agriculture cadre as on 01/01/2025.\
   [202506231816121501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231816121501.pdf)

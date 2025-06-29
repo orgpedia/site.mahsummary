@@ -17,6 +17,9 @@
 - To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2025-26.\
   [202506231314245424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231314245424.pdf)
 
+- Additional Commissioner, Tribal Development, Nashik and A.A.V.P., Dhule under Tribal Development Department, Shirpur Educ. Society, Shirpur, Tal. Shirpur, Dist. Dhule, grant approval to start classes from class 8th to 10th by upgrading the Ashram School, Tal. Shirpur, Dist. Dhule, from the academic year 2025-26.\
+  [202506271725260824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271725260824.pdf)
+
 ## Personnel
 - Regarding the continuation of the temporary post of Joint Director on the establishment of Tribal Development Department (self).\
   [202506231216016824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231216016824.pdf)

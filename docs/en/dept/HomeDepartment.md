@@ -23,6 +23,15 @@
 - Corrigendum regarding the revised structure, working procedures and terms of reference of Women Vigilance Committees at the police station level, circle level in Police Commissionerate and District Superintendent of Police level in the state.\
   [202506251706124429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251706124429.pdf)
 
+- Regarding measures to be taken to control the infiltration of Bangladeshi citizens\
+  [202506271737428329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271737428329.pdf)
+
+- Regarding determining the improved permissibility of vehicles for the Commissioner of Police, Brihanmumbai Dal.\
+  [202506271757504629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271757504629.pdf)
+
+- Regarding declaration of improved Naxal-affected areas in the state.\
+  [202506271435060729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271435060729.pdf)
+
 ## Personnel
 - Regarding authorizing the Drawing and Disbursement Officer in the subordinate offices of the Home Department as Virtual Personal Deposit Account Administrator for the speedy disbursement and monitoring of Subsidiary Grant.\
   [202506241722190629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241722190629.pdf)
@@ -32,6 +41,18 @@
 
 - Regular Select List 2024-25: Regarding posting-on-promotion to post in the cadre of Special Inspector General, Prison, Group A\
   [202506261828130929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261828130929.pdf)
+
+- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202506271853128029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271853128029.pdf)
+
+- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202506271854467429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271854467429.pdf)
+
+- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202506271721143629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271721143629.pdf)
+
+- Regarding transfer/postings of I.P.S. officer.\
+  [202506271851257929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271851257929.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
