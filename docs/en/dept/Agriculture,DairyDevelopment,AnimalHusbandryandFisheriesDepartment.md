@@ -23,6 +23,9 @@
 - Regarding extension of Mahavedha project...\
   [202506271900401401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271900401401.pdf)
 
+- Reorganization of Taluka level Dispute Resolution Committee with respect to quality control of agricultural inputs such as seeds, fertilizers, insecticides.\
+  [202506291154408301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506291154408301.pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list of Maharashtra Agricultural Service, Group-A, Deputy Director of Agriculture cadre as on 01/01/2025.\
   [202506231816121501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231816121501.pdf)
