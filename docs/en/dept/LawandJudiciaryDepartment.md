@@ -1,24 +1,15 @@
 # Law and Judiciary Department
 
-**Date Range**: 30 June 2025 - 05 July 2025
+**Date Range**: 07 July 2025 - 12 July 2025
 
 
 ## Miscellaneous
-- Fees and allowances of Special  Government Pleaders or Additional Special  Government Pleaders for Maharashtra Revenue Tribunal in the State of Maharashtra  Revision of the rates of fees .\
-  [202506251825464512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251825464512.pdf)
-
-- Regarding recruitment of 23 vacant posts of Stenographer (Lower Grade)-03 and Clerk-Typist-20 in the Office of the Government Pleader Office, High Court, Appelate Side (Writ Cell), Mumbai through outsourcing till regular candidates are available from Maharashtra Public Service Commission\
-  [202506271823104212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271823104212.pdf)
-
-- Regarding recruitment of 40 vacant posts of Stenographer (Lower Grade)-03, Stenographer-02 and Clerk-Typist-35 in the Office of the Government Pleader Office, High Court,Original Side, Mumbai through outsourcing till regular candidates are available from Maharashtra Public Service Commission\
-  [202506271824517512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271824517512.pdf)
+- For the office of Registrar of Partnership Firm, Maharashtra State, Mumbai approval to hire the services of 1 computer expert manpower through external agencies.\
+  [202506301234042212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301234042212.pdf)
 
 ## Personnel
-- Transfer of 01 post in the Senior Clerk cadre of the Deputy Registrar Partnership Firm, Pune office to the office of the Deputy Registrar Partnership Firm, Nagpur.\
-  [202506231240244012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231240244012.pdf)
-
-- Regarding permanent inclusion of Shri. Sachin Abasaheb Aher, Stenographer (Group-C), Office of the Government Pleader Office, High Court, Appellate Side, Mumbai, on the establishment of the office of Superintendent Engineer, Nanded Irrigation Board, Nanded.\
-  [202506231710504212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231710504212.pdf)
+- Regarding appointment by promotion to two vacant posts in the Establishment Officer (Group B/Gazetted) cadre in the Office of the Government Pleader, High Court, Bench Aurangabad and the Chief Presenting Officer, Maharashtra Administrative Tribunal, Chhatrapati Sambhajinagar.\
+  [202506301456386512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301456386512.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

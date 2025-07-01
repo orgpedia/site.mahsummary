@@ -1,17 +1,11 @@
 # Planning Department
 
-**Date Range**: 30 June 2025 - 05 July 2025
+**Date Range**: 07 July 2025 - 12 July 2025
 
 
-## Miscellaneous
-- Regarding the appointment of the first Director of Veer Shiromani Maharana Pratap Economic Development Corporation and approval of the Articles of Association (AOA) and Memorandum of Association (MOA).\
-  [202506241906578316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241906578316.pdf)
-
-- Regarding the appointment of the first Director of Shri Vasavi Kanyaka Economic Development Corporation and approval of the Articles of Association (AOA) and Memorandum of Association (MOA).\
-  [202506241910032316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241910032316.pdf)
-
-- Two State Government Nominee For Board of Director of State RRB Maharashtra Gramin Bank\
-  [202506251712157316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251712157316.pdf)
+## Funds
+- Regarding the distribution of funds for the year 2025-26 under the Pandharpur Temple Development Plan.\
+  [202506301520454416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301520454416.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

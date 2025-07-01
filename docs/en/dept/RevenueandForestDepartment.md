@@ -1,340 +1,133 @@
 # Revenue and Forest Department
 
-**Date Range**: 30 June 2025 - 05 July 2025
+**Date Range**: 07 July 2025 - 12 July 2025
 
 
 ## Funds
-- Regarding granting administrative and financial approval for disaster mitigation works. 132 KV cable shifting work on Mankapur - Hingna-1 route, Dist. Nagpur.\
-  [202506231442340219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231442340219.pdf)
+- Hon. High Court, Mumbai in the case of Shri. Ashok Shankar Chikhalkar and Shri. Prakash Shankar Chikhalkar in Writ Petition No. 13180/2017 and No. 31530/2017, dated 23/01/2019 and Hon. Industrial Court, Kolhapur in Revision Application No. 68 and 69, dated 23/02/2016 regarding implementation of the order.\
+  [202506301729577619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301729577619.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative and financial approval for disaster mitigation works. Regarding availability of funds amounting to Rs.19,84,12,976/- for widening of Nag River.\
-  [202506231440028919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231440028919.pdf)
+- Forest Land- Sindhudurg Diversion 0f 4.13 ha of forest land in favour of Small Scale Irrigation (W.C.) Division, Kuwarbav, Ratnagiri for construction of Minor Irrigation Tank at Mazgaon, Taluka-Sawantwadi, District - Sindhudurg in the State of Maharashtra.\
+  [202506301159525419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301159525419.pdf)
 
-- Regarding the formation of a Technical Evaluation Committee for works under the Maharashtra Responsive Development Program (MRDP).\
-  [202506231757416919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231757416919.pdf)
-
-- Administrative arrangements to be made for Indian Forest Service officers on their way to a one-week in-service training program.\
-  [202506251625085119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251625085119.pdf)
-
-- Regarding the restructuring of the Standing Committee of the State Wildlife Board.\
-  [202506251759507019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251759507019.pdf)
+- Guidelines for handling court cases related to service matters of daily wage laborers and forest laborers in the Forest Department as well as departmental inquiry cases of Class-1 and Class-2 officers.\
+  [202506301732217719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301732217719.pdf)
 
 ## Personnel
-- Regarding Posting of Shri. Nitin Ramesh Patil, District Superintendent of Land Records.\
-  [202506241902365519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241902365519.pdf)
+- Regarding transfer of officers in the Deputy Collector cadre...\
+  [202506302056567919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302056567919.pdf)
 
-- Regarding postings by promotion/transfer of officers Of Indian Forest Service.\
-  [202506242114175019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506242114175019....pdf)
+- Appointment and posting on deputation - Shri.Babasaheb Redekar, District Superintendent of Land Records.\
+  [202506301721210519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301721210519.pdf)
 
-- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
-  [202506241900495019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241900495019.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302042345519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302042345519.pdf)
 
-- Regarding transfers in the District Superintendent of Land Records (Group-A) cadre.\
-  [202506241904125219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241904125219.pdf)
+- Posting of officers in the Tehsildar cadre awaiting appointment Smt. Aishwarya Giri, Tehsildar\
+  [202506302032411919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302032411919.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Amravati Division)\
-  [202506262116128019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262116128019.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302052579219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302052579219.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Konkan Division)\
-  [202506262113548319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262113548319.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302044201119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302044201119.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Nagpur Division)\
-  [202506262142076119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262142076119.pdf)
+- Appointment of officers in the Tehsildar cadre Mrs. Renuka Kokate, Tehsildar\
+  [202506302038022319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302038022319.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262211210219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262211210219.pdf)
+- Posting of officers in the Tehsildar cadre Dr. Sonia Ghuge, Tehsildar\
+  [202506302035237019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302035237019.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Pune Division)\
-  [202506262130018219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262130018219.pdf)
+- Posting of officers in the Tehsildar cadre Shri. Sameer Mohan Yadav, Tehsildar\
+  [202506302027335119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302027335119.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Nagpur Division)\
-  [202506262118406719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262118406719.pdf)
+- Posting of officers in the Tehsildar cadre Mrs. Jyoti Pawar, Tehsildar\
+  [202506302036485819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302036485819.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262204596819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262204596819.pdf)
+- Appointment of officers in the Tehsildar cadre Shri. Sachin Maske, Tehsildar\
+  [202506302026210419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302026210419.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Chhatrapati Sambhjinagar Division)\
-  [202506262119420719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262119420719.....pdf)
+- Appointment of officers in the Tehsildar cadre Shri. Vijay Laxman Chavan, Tehsildar\
+  [202506302031256119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302031256119.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262206149819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262206149819.pdf)
+- Appointment of officers in the Tehsildar cadre Shri. Akash Dahadde, Tehsildar\
+  [202506302012580219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302012580219.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262203205419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262203205419.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302048537819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302048537819.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre...\
-  [202506262156115119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262156115119.pdf)
+- Appointment of officers in the Tehsildar cadre Shri. Madan Ashokrao Jadhav, Tehsildar\
+  [202506302020255419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302020255419.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Konkan Division)\
-  [202506262115047119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262115047119.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302045343319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302045343319.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Amravati Division)\
-  [202506262122011619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262122011619.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302047422919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302047422919.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Konkan Division)\
-  [202506262145115619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262145115619.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302053596419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302053596419.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Pune Division)\
-  [202506262128504219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262128504219.pdf)
+- Posting of officers in the Tehsildar cadre awaiting appointment Shri. Dhondiba Gaikwad, Tehsildar\
+  [202506302016366819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302016366819.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Nashik Division)\
-  [202506262125023919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262125023919.pdf)
+- Regarding transfer of officers in the Deputy Collector cadre...\
+  [202506302059291419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302059291419.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262207340119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262207340119.pdf)
+- Appointment of officers in the Tehsildar cadre Mrs. Asawari Sansare, Tehsildar\
+  [202506302040277019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302040277019.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Pune Division)\
-  [202506262131164319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262131164319.pdf)
+- Posting of officers in the Tehsildar cadre Shri. Sanjay Warkad, Tehsildar\
+  [202506302028479419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302028479419.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262216251019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262216251019.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302049541719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302049541719.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262159245719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262159245719.pdf)
+- Posting of officers in the Tehsildar cadre awaiting appointment Shri. Pradeep Yashwant Shelar, Tehsildar\
+  [202506302023474519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302023474519.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262215199019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262215199019.pdf)
+- Posting of officers in the Tehsildar cadre awaiting appointment Shri. Vijay Kumar Chobe, Tehsildar\
+  [202506302014571019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302014571019.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Chhatrapati Sambhjinagar Division)\
-  [202506262127342919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262127342919.pdf)
+- Regarding transfer of officers in the Deputy Collector cadre...\
+  [202506302058093919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302058093919.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Nagpur Division)\
-  [202506262143274219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262143274219.pdf)
+- Posting of officers in the Tehsildar cadre Shri. Mohanish Shelvatkar, Tehsildar\
+  [202506302030019319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302030019319.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Amravati Division)\
-  [202506262149251619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262149251619.pdf)
+- Partial change in transfer order Tehsildar cadre\
+  [202506302018120919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302018120919.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Amravati Division)\
-  [202506262150435719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262150435719.pdf)
+- Regarding transfer of officers in the Deputy Collector cadre...\
+  [202506302100335619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302100335619.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262212487219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262212487219.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302051571319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302051571319.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262157544319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262157544319.pdf)
+- Posting of officers in the Tehsildar cadre Shri. Ramdas Shelke, Tehsildar\
+  [202506302025040319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302025040319.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre... (Konkan Division)\
-  [202506262152495719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262152495719.pdf)
+- Posting of officers in the Tehsildar cadre awaiting appointment Shri.P. S. Gaikwad, Tehsildar\
+  [202506302022160419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302022160419.pdf)
 
-- Regarding transfer of officers in the Additional District Collector cadre\
-  [202506261510058619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261510058619.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302050543519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302050543519.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Konkan Division)\
-  [202506262104569019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262104569019.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302046373219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302046373219.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Chhatrapati Sambhjinagar Division)\
-  [202506262120453919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262120453919.pdf)
+- Regarding appointment by deputation, Smt. Geeta Dalvi, Tehsildar\
+  [202506302034138319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302034138319.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Amravati Division)\
-  [202506262147528019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262147528019.pdf)
+- Regarding transfer of officers in the Deputy Collector cadre...\
+  [202506302101392419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302101392419.pdf)
 
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262209510119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262209510119.pdf)
+- Regarding transfer posting of officers in the Deputy Collector cadre...\
+  [202506302055166219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302055166219.pdf)
 
-- Regarding the publication of the provisional seniority list of Assistant Conservator of Forests, Group-A (Junior Grade) cadre dated 01/01/2025...\
-  [202506261217267319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261217267319.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262214094819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262214094819.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Pune Division)\
-  [202506262133024219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262133024219.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre ..... (Amravati Division)\
-  [202506262117244719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262117244719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Amravati Division)\
-  [202506262200539019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262200539019.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre..... (Amravati Division)\
-  [202506262154304719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262154304719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262217319419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262217319419.pdf)
-
-- Regarding transfers in Deputy Director of Land Records cadre.\
-  [202506271905502519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271905502519.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262252136619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262252136619.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262220280519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262220280519.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262249588019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262249588019.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271947227819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271947227819....pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271835302619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271835302619.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262243117419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262243117419.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262248585719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262248585719.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271839131519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271839131519.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271832517319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271832517319.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271842392119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271842392119.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271838092219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271838092219.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271912242719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271912242719.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271946187819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271946187819.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Chhatrapati Sambhajinagar Division)\
-  [202506262230122419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262230122419.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271913448219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271913448219.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262246094719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262246094719.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271843503719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271843503719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262227448819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262227448819.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271915010519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271915010519.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Chhatrapati Sambhajinagar Division)\
-  [202506262232333719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262232333719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262247462919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262247462919.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271957075119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271957075119.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271840190719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271840190719.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271959576719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271959576719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Chhatrapati Sambhajinagar Division)\
-  [202506262229055119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262229055119.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nagpur Division)\
-  [202506262236378219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262236378219.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262251110719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262251110719.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271911093019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271911093019.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262222136419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262222136419.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Chhatrapati Sambhajinagar Division)\
-  [202506271846270119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271846270119.pdf)
-
-- Regarding posting of Mr. Mahesh Madhukar Khadtare, Deputy Director Land Records in the department.\
-  [202506271902554419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271902554419.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271958476419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271958476419.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271834031219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271834031219.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nagpur Division)\
-  [202506262238524019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262238524019.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262226371419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262226371419.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262225340919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262225340919.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271831238619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271831238619.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506262235175519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262235175519.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271942056919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271942056919.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Konkan Division)\
-  [202506271847468519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271847468519.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271955301419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271955301419.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nagpur Division)\
-  [202506262237462619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262237462619.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271841241619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271841241619.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Chhatrapati Sambhajinagar Division)\
-  [202506262231252019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262231252019.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262224274019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262224274019.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262223229919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262223229919.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271945013219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271945013219.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271950263519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271950263519.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271951524519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271951524519.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271954129219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271954129219.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271836461219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271836461219.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Chhatrapati Sambhajinagar Division)\
-  [202506262233393619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262233393619.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271943477619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271943477619.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nagpur Division)\
-  [202506262240082519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262240082519.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271953052719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271953052719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262241257419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262241257419.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Nashik Division)\
-  [202506262244317519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262244317519.pdf)
-
-- Regarding transfers in Deputy Director of Land Records cadre.\
-  [202506271904294719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271904294719.pdf)
-
-- Regarding posting of officers in the Naib Tehsildar cadre. (Pune Division)\
-  [202506262219039119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506262219039119.pdf)
-
-- Regarding termination of deputation of officers in the Deputy Collector cadre.....\
-  [202506271829356819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271829356819.pdf)
+- Appointment of officers in the Tehsildar cadre Mrs. Minal Bhamre, Tehsildar\
+  [202506302039126219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302039126219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
