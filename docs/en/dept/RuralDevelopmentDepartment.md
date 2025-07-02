@@ -3,6 +3,13 @@
 **Date Range**: 07 July 2025 - 12 July 2025
 
 
+## Funds
+- Fund distribution of the financial year 2025-2026 for Composit Training Center, Gargoti, Dist. Kolhapur.  Major Account Head - 25150026 3rd installment (non-salary  salary)\
+  [202507011147180720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011147180720.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2025-26.\
+  [202507011614119120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011614119120.pdf)
+
 ## Miscellaneous
 - Approval for Construction of Gram Panchayat Buildings for 20 Gram Panchayats in Sangli District under the Hon. Balasaheb Thackeray Smruti Matoshri Gram Panchayat Bandhni Yojana\
   [202506301137270720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301137270720.pdf)
@@ -12,6 +19,9 @@
 
 - Job chart of Extension Officer (Panchayat) and Extension Officer (Statistical)\
   [202506301135516120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301135516120.pdf)
+
+- Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill Gargoti  Amravati. Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  3rd installment (non-salary  salary)\
+  [202507011147160020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011147160020.pdf)
 
 ## Personnel
 - Regarding ad-hoc promotion of Assistant Block Development Officer, Group-B cadre (S-16), to the post of Block Development Officer, Group-A (S-20) cadre in the Maharashtra Development Service. (Selection List Year 2024-25)\

@@ -20,5 +20,8 @@
 - Regarding approval for direct allotment of land for school to Late Bhanutai Gadkari Rural Development Institute through Nagpur Improvement Trust.\
   [202506301741017425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301741017425.pdf)
 
+- Regarding allotment of 1125.00 sq.m. land at Khasra No. 72,73, Mauja Dabha to Maharashtra State Electricity Distribution Company Limited (MSEDCL) for Sub-station.\
+  [202507011830573125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011830573125.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

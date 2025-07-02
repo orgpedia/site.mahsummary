@@ -1,18 +1,17 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 30 June 2025 - 05 July 2025
+**Date Range**: 07 July 2025 - 12 July 2025
 
-
-## Funds
-- Regarding financial approval to organize cultural programs in 6 revenue divisions on the occasion of the 300th birth anniversary of Punyashloka Ahilyadevi Holkar.\
-  [202506241521506723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241521506723.pdf)
-
-- Regarding financial approval for the organization expenses of the 63rd Maharashtra State Drama Competition and the 21st Maharashtra State Childrens Drama Competition Divisional Prize Distribution Ceremony\
-  [202506261736174923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261736174923.pdf)
 
 ## Miscellaneous
-- Regarding cancellation of appointments of non-official members on the Fort Preservation Committee and the Barav Preservation and Promotion Committee.\
-  [202506241815491223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241815491223.pdf)
+- Regarding the declaration of Drawing and Disbursing as well as Controlling Officers for the offices of Maharashtra State Hindi, Sindhi, Gujarati, Sanskrit, Telugu, Bengali and Gor Banjara Sahitya Akademi, Mumbai.\
+  [202507011137046723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011137046723.pdf)
+
+- Regarding approval of the new account title Maharashtra District Darshanika Editorial Board (Mandatory) (2070A067).\
+  [202507011528527523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011528527523.pdf)
+
+- Regarding granting the status of A class tourist destination to Trimbak Municipal Council, Trimbakeshwar District, Nashik.\
+  [202507011525391023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011525391023.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

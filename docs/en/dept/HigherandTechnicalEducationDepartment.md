@@ -109,5 +109,14 @@
 - Regarding granting Government approval for starting new Engineering Diploma courses in the existing institution/increasing the admission capacity of the existing courses etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2025-26. (Mithulalji Sarda Institute of Technology, Bahirwadi, Beed)\
   [202506301145141808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301145141808.pdf)
 
+- Regarding approval of the recruitment of the approved posts of Professor, Associate Professor, Assistant Professor, Head of Department (Diploma) and Lecturer (Diploma) at Dr. Babasaheb Ambedkar University of Technology, Lonere.\
+  [202507011656277708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011656277708.pdf)
+
+- Government approval for starting/discontinuing/increasing/decreasing admission capacity of new courses/degree/postgraduate degrees in the existing institutions under the Directorate of Technical Education, in accordance with the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26....\
+  [202507011441272708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011441272708.pdf)
+
+- Regarding the formation of a committee to inspect the basic facilities available in the New Girls Hostel of Mumbai University.\
+  [202507011748190708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011748190708.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

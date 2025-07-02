@@ -1,58 +1,17 @@
 # Home Department
 
-**Date Range**: 30 June 2025 - 05 July 2025
+**Date Range**: 07 July 2025 - 12 July 2025
 
 
 ## Funds
-- Regarding granting administrative and financial approval for effective social awareness regarding cybercrime through LED/LCD screens at railway stations (Maharel) in the state.\
-  [202506231742215129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506231742215129.pdf)
+- Regarding determining the procedures at the administrative department level for all types of purchases required for the Home Department and subordinate offices.\
+  [202507011434588029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011434588029.pdf)
 
-- M/s Pelorus Technologies Pvt. Ltd. Mumbai Regarding payment of a total amount of Rs. 66,98,700/- for comprehensive warranty and maintenance of Mobile Device Forensic tools in three quarters from December-2023 to August-2024 to the supplier.\
-  [202506241808539929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241808539929.pdf)
+- Regarding the distribution of funds for the work of the Dial-100 project under the Mumbai City CCTV project.\
+  [202507011738561129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011738561129.pdf)
 
-- Regarding granting administrative approval for the cost of construction (renovation) of an updated Visitor Plaza at the Mantralaya Garden Gate entrance under the Mantralaya Security Project.\
-  [202506241551403329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241551403329.pdf)
-
-## Miscellaneous
-- Regarding the establishment of a committee to conduct a comparative study of the provisions of the Criminal Laws (Maharashtra Amendment) Bill, 2020 with the new criminal laws.\
-  [202506251818302729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251818302729.pdf)
-
-- Regarding extension of the surrender scheme for Naxalites.\
-  [202506251535035829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251535035829.pdf)
-
-- Corrigendum regarding the revised structure, working procedures and terms of reference of Women Vigilance Committees at the police station level, circle level in Police Commissionerate and District Superintendent of Police level in the state.\
-  [202506251706124429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506251706124429.pdf)
-
-- Regarding measures to be taken to control the infiltration of Bangladeshi citizens\
-  [202506271737428329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271737428329.pdf)
-
-- Regarding determining the improved permissibility of vehicles for the Commissioner of Police, Brihanmumbai Dal.\
-  [202506271757504629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271757504629.pdf)
-
-- Regarding declaration of improved Naxal-affected areas in the state.\
-  [202506271435060729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271435060729.pdf)
-
-## Personnel
-- Regarding authorizing the Drawing and Disbursement Officer in the subordinate offices of the Home Department as Virtual Personal Deposit Account Administrator for the speedy disbursement and monitoring of Subsidiary Grant.\
-  [202506241722190629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506241722190629.pdf)
-
-- Regular Select List 2024-25: Regarding posting-on-promotion to post in the cadre of Superintendent, District Prison, Class 1/Additional Superintendent, Central Prison, Group A\
-  [202506261826407029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261826407029.pdf)
-
-- Regular Select List 2024-25: Regarding posting-on-promotion to post in the cadre of Special Inspector General, Prison, Group A\
-  [202506261828130929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506261828130929.pdf)
-
-- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
-  [202506271853128029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271853128029.pdf)
-
-- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
-  [202506271854467429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271854467429.pdf)
-
-- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
-  [202506271721143629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271721143629.pdf)
-
-- Regarding transfer/postings of I.P.S. officer.\
-  [202506271851257929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506271851257929.pdf)
+- Regarding the distribution of funds amounting to Rs. 90.91 crore to Maharashtra State Road Transport Corporation...\
+  [202507011612439129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011612439129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
