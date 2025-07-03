@@ -19,9 +19,25 @@
 - Release funds for Anganwadi Construction\
   [202507011303465230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011303465230.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 1522.13 lakhs under Account Head 2235 B183 of the Manodhairya Scheme for the financial year 2025-26.\
+  [202507021741346430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021741346430.pdf)
+
+- Regarding the distribution of funds for paying salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2025-26.\
+  [202507021816569530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021816569530.pdf)
+
+- Grant Release for Anganwadi Construction (13th Finance Commission)\
+  [202507021109126030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021109126030.....pdf)
+
+- Regarding the distribution of funds under the scheme Chief Minister-My Beloved Sister.\
+  [202507021047288330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021047288330.pdf)
+
 ## Miscellaneous
 - Regarding implementing Adi Shakti Abhiyan and awarding Adi Shakti Puraskar for the empowerment of women in the state.\
   [202507011436540130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011436540130.pdf)
+
+## Personnel
+- Regarding the relocation of Anganwadi centers which do not have their own building to the nearest Zilla Parishad schools.\
+  [202507021023494430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021023494430.pdf.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

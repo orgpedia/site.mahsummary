@@ -43,6 +43,42 @@
 - Regarding granting revised administrative approval to the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Biloli, Dist. Nanded...\
   [202507011836426702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011836426702.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Deoni District, Latur...\
+  [202507021510256702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021510256702.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Jaysingpur, District Kolhapur...\
+  [202507021508406202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021508406202.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Mangalorepir District Washim...\
+  [202507021517242402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021517242402.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Dondaicha, District Dhule...\
+  [202507021512071602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021512071602.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Armori, District Gadchiroli...\
+  [202507021507050402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021507050402.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Parli-Vaijnath, Dist. Beed...\
+  [202507021515269902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021515269902.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Chakur, District Latur...\
+  [202507021505135202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021505135202.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Hinganghat, Wardha District...\
+  [202507021524164802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021524164802.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Majalgaon, Beed District...\
+  [202507021520522002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021520522002.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Dharashiv, District Dharashiv...\
+  [202507021513448502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021513448502.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Mandhal, Dist. Nagpur...\
+  [202507021519097702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021519097702.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Sindhi, District Wardha...\
+  [202507021522376102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021522376102.pdf)
+
 ## Miscellaneous
 - Regarding changes in the terms of reference of the committee formed to study and recommend to the government regarding the timely reorganization and empowerment of the Marketing Department......\
   [202507011833039002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011833039002.pdf)

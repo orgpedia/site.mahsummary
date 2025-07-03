@@ -19,5 +19,18 @@
 - Final seniority list of Associate Professor, X-Ray, Group-A as on 01.01.2024\
   [202506301330026513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301330026513.pdf)
 
+- Corrigendum------Administrative approval for the purchase of machinery and equipment to Sir J.G. Group of Hospital.\
+  [202507021136121113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021136121113.pdf)
+
+- Regarding granting approval to rent a building for hostel accommodation for the students of Government Medical College, Jalna.\
+  [202507021649421913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021649421913.pdf)
+
+- Regarding permission to start Post Basic Diploma Course in Ayurveda Specialty Nursing IN Government Ayurveda Nursing College, Government Ayurveda College and Hospital, Wazirabad, Dist. Nanded\
+  [202507021649233513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021649233513.pdf)
+
+## Personnel
+- Administrative approval to Establish e-digital library for students in Government Medical Colleges and Government Dental Colleges.\
+  [202506301627236413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301627236413.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,5 +10,12 @@
 - Regarding approval of the media plan for the promotion and publicity of the Agriculture Department.\
   [202506301147584601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301147584601.pdf)
 
+## Miscellaneous
+- Opening an account for funding crop harvesting experiments under the General Crop Estimation Survey.\
+  [202507021304214401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021304214401.pdf)
+
+- Regarding the implementation of e-office system from state level to regional level under the Department of Agriculture.\
+  [202507021307459001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021307459001.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

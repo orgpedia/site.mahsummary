@@ -10,6 +10,12 @@
 - To give administrative approval to the proposal for an amount of Rs. 44,89,032/- for starting Live Streaming Facility in the Honble High Court, Mumbai and its Benches to bring transparency and convenience in the judicial process of the courts.\
   [202507011516577112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011516577112.pdf)
 
+- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
+  [202507021449571412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021449571412.pdf)
+
+- Year 2025-26 Budgetary Grant Demand No. J-5, 7610- Loan to Government Employees etc. - (201)(00)(01) House Construction Advance Allocation.\
+  [202507021443179112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021443179112.pdf)
+
 ## Miscellaneous
 - For the office of Registrar of Partnership Firm, Maharashtra State, Mumbai approval to hire the services of 1 computer expert manpower through external agencies.\
   [202506301234042212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301234042212.pdf)

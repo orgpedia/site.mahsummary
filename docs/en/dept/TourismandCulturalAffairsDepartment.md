@@ -3,6 +3,10 @@
 **Date Range**: 07 July 2025 - 12 July 2025
 
 
+## Funds
+- Regarding granting administrative approval to fill the posts of Kolhapur Chitranagari Mahamandal Limited, Kolhapur through external sources.\
+  [202507021200400323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021200400323.pdf)
+
 ## Miscellaneous
 - Regarding the declaration of Drawing and Disbursing as well as Controlling Officers for the offices of Maharashtra State Hindi, Sindhi, Gujarati, Sanskrit, Telugu, Bengali and Gor Banjara Sahitya Akademi, Mumbai.\
   [202507011137046723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011137046723.pdf)

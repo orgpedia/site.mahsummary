@@ -118,5 +118,8 @@
 - Regarding the formation of a committee to inspect the basic facilities available in the New Girls Hostel of Mumbai University.\
   [202507011748190708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011748190708.pdf)
 
+- Regarding Government approval for starting new Engineering Diploma courses in the existing institution/increasing/decreasing the admission capacity of the existing course etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2025-26. (Sandeep Polytechnic of Sandeep Foundation, Nashik)\
+  [202507021322257308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021322257308.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

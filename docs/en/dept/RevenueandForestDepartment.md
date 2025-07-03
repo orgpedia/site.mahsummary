@@ -216,5 +216,17 @@
 - Regarding transfer posting of officers in the Deputy Collector cadre....\
   [202507011945372219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011945372219.pdf)
 
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List Year 2024-25).\
+  [202507021618057319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021618057319.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202507021012029919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021012029919.pdf)
+
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List Year 2024-25).\
+  [202507021616408919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021616408919.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202507021010166719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021010166719.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
