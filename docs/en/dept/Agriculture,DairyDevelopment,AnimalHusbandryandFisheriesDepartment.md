@@ -10,6 +10,9 @@
 - Regarding approval of the media plan for the promotion and publicity of the Agriculture Department.\
   [202506301147584601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301147584601.pdf)
 
+- Regarding financial approval of the budget for construction works on the areas of government orchards under the account head 27- Minor Construction under Vegetable Nurseries, Fruit Orchards and Local Gardens (Compulsory) (2401 1722).\
+  [202507031607427901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031607427901.pdf)
+
 ## Miscellaneous
 - Opening an account for funding crop harvesting experiments under the General Crop Estimation Survey.\
   [202507021304214401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021304214401.pdf)

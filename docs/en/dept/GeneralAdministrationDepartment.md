@@ -20,9 +20,15 @@
 - Regarding the provision of technical manpower from NIC .....\
   [202507021502161407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021502161407.pdf)
 
+- Reconstitution of the Expert Committee for the petition filed in the Honble Supreme Court regarding the Maharashtra-Karnataka border issue\
+  [202507031600139407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031600139407.pdf)
+
 ## Personnel
 - Promotion Order 2025 - Higher Grade Stenographer\
   [202506301600174007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301600174007.pdf)
+
+- Regarding the service of Shri. Kishore Ramesh Gangurde, Director (Information), Marathwada Division, Chhatrapati Sambhajinagar in the Directorate General of Information and Public Relations as Assistant Director (Information) and Senior Assistant Director (Information) to be added to his service as Director (Information) Group-A post....\
+  [202507031701208707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031701208707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

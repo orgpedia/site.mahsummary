@@ -3,6 +3,10 @@
 **Date Range**: 07 July 2025 - 12 July 2025
 
 
+## Funds
+- Regarding making available the Central and State share to the Food Civil Supplies and Consumer Protection Department under the centrally sponsored scheme National Food Security Scheme for the financial year 2025-26, as per the sanctioned funds.\
+  [202507031439129306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031439129306.pdf)
+
 ## Personnel
 - Regarding the mandatory waiting period of Shri. Manisha Rameshrao Manjarkhede, Inspection Officer (Supply), Group-B (Gazetted) dated 09.09.2024 to 24.09.2024 being accepted as duty period.\
   [202506301445196606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301445196606.pdf)

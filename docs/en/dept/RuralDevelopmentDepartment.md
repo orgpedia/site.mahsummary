@@ -16,6 +16,9 @@
 - For the year 2025-26 Mahila Kisan Sashaktikaran Pariyojana Funding for Scheduled Caste (SCP) Category.\
   [202507021705364220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021705364220.pdf)
 
+- Ashadhiwari- 2025 Regarding the distribution of additional funds to Solapur Zilla Parishad to provide facilities to the Warkaris accompanying the palanquins of various saints passing through Solapur district.\
+  [202507031817333320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031817333320.pdf)
+
 ## Miscellaneous
 - Approval for Construction of Gram Panchayat Buildings for 20 Gram Panchayats in Sangli District under the Hon. Balasaheb Thackeray Smruti Matoshri Gram Panchayat Bandhni Yojana\
   [202506301137270720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301137270720.pdf)

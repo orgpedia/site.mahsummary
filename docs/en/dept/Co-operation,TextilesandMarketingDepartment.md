@@ -79,6 +79,15 @@
 - Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Sindhi, District Wardha...\
   [202507021522376102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021522376102.pdf)
 
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Shri. Mahesh Co-op Spinning Mill Ltd., Ichalkaranji, Dist. Kolhapur.\
+  [202507031656311102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031656311102.pdf)
+
+- Regarding provision of 12 Persent interest on loans received from financial institutions to co-operative cotton mills - Mahatma Phule Backward Class Cooperative Spinning Mill Ltd., Pethwadgaon, Tal. Hatkanangle, Dist. Kolhapur.\
+  [202507031654092302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031654092302.pdf)
+
+- Regarding distribution of the provision received in the year 2025-26. Financial assistance for empowerment of District Central Cooperative Banks under Short Term Cooperative Credit Structure (STCCS) in the State (2425 2524).\
+  [202507031116579002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031116579002.pdf)
+
 ## Miscellaneous
 - Regarding changes in the terms of reference of the committee formed to study and recommend to the government regarding the timely reorganization and empowerment of the Marketing Department......\
   [202507011833039002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011833039002.pdf)

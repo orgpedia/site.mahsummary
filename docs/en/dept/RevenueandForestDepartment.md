@@ -23,6 +23,12 @@
 - Regarding the appointment of Shri  Hanumant Gyanu Koli, Junior Clerk, to the majority post of Registration and Stamps Department.\
   [202507011704402819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011704402819.pdf)
 
+- Regarding increase in the honorarium of 36 posts of District Disaster Management Officer (DDMO) and 6 posts of Divisional Disaster Management Coordinator (DDMC).\
+  [202507031616592119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031616592119......pdf)
+
+- Regarding issuance of guidelines regarding the timing of sand/gravel extraction and its transportation.\
+  [202507031601435119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031601435119.pdf)
+
 ## Personnel
 - Regarding transfer of officers in the Deputy Collector cadre...\
   [202506302056567919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506302056567919.pdf)

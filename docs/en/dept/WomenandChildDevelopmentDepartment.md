@@ -35,6 +35,9 @@
 - Regarding implementing Adi Shakti Abhiyan and awarding Adi Shakti Puraskar for the empowerment of women in the state.\
   [202507011436540130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011436540130.pdf)
 
+- Regulations for private institutions/hostels for children.\
+  [202507031330191530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031330191530.pdf)
+
 ## Personnel
 - Regarding the relocation of Anganwadi centers which do not have their own building to the nearest Zilla Parishad schools.\
   [202507021023494430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021023494430.pdf.pdf)

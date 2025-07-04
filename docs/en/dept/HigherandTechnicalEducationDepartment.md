@@ -121,5 +121,35 @@
 - Regarding Government approval for starting new Engineering Diploma courses in the existing institution/increasing/decreasing the admission capacity of the existing course etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2025-26. (Sandeep Polytechnic of Sandeep Foundation, Nashik)\
   [202507021322257308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021322257308.pdf)
 
+- Regarding granting government approval to start a new unaided diploma institute in the state from the academic year 2025-26, in accordance with the approval given by the All India Council for Technical Education, New Delhi. (Shri. Shamgir Educational Institution, Jai Bharat College of Polytechnic, Dapka, Latur)\
+  [202507031339110308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031339110308.pdf)
+
+- Government approval to start a new Post Graduate Degree course in the existing Degree Pharmacy course from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Shri Sant Gajanan Maharaj College of Pharmacy, Buldhana)\
+  [202507031615393708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031615393708.pdf)
+
+- Regarding the government approval to start a new vocational course institution on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... (Sant Tukaram Samajik Sansthas Siddhanth Senior College, Pandharpur (Ambapur))\
+  [202507031613228808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031613228808.pdf)
+
+- Regarding the distribution of funds for the construction of the Divisional Center buildings of Yashwantrao Chavan Maharashtra Open University, Nashik in Pune\
+  [202507031215071408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031215071408.pdf)
+
+- Regarding the government approval to start a new professional course institution on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... (Delight Management Studies and Research Institute, Bhorwadi, Tal. Ambegaon, Dist. Pune.)\
+  [202507031610104308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031610104308.pdf)
+
+- Regarding the approval of the Government to start a new professional course institution on permanent unaided basis from the academic year 2025-26 as per the approval of the All India Council for Technical Education, New Delhi... (Zheel Institute of Technology, Bamanoli, Sangli)\
+  [202507031609044008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031609044008.pdf)
+
+- Regarding the approval of the Government to start a new institute for the course of Pharmacy from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (Moreshwar Institute of Pharmaceutical Science and Research, Bhokardan of Moreshwar Shikshan Prasarak Mandal)\
+  [202507031713501508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031713501508.pdf)
+
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the governments approval to start a new professional course institution on a permanent unaided basis from the academic year 2025-26... (Dr. Sudhakarrao Jadhav Institute of Management and Technology, Narhe, Pune.)\
+  [202507031612236608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031612236608.pdf)
+
+- Government approval to start a new Post Graduate Degree course in the existing Institute of Pharmacy from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Karmayogi Tatyasaheb Bondre Institute of Pharmacy, Chikhali, Dist. Buldhana.\
+  [202507031105133208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031105133208.pdf)
+
+- Regarding the distribution of funds for the construction of the Ratnagiri sub-centre of Yashwantrao Chavan Maharashtra Open University, Nashik, and the Chhatrapati Shivaji Maharaj International Library and Research Centre buildings...\
+  [202507031211101008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031211101008.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

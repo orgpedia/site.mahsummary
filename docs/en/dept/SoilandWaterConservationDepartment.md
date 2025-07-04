@@ -11,6 +11,9 @@
 - Regarding the establishment of a Departmental Review Committee.\
   [202507011700416426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011700416426.pdf)
 
+- Regarding the appointment of a three-member committee to determine the reasons for the delay in the completion of the ongoing works under the Maharashtra Water Conservation Corporation and to plan the completion according to the available funds.\
+  [202507031627182926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031627182926.pdf)
+
 ## Personnel
 - Regarding appointment of Coordination Officer and Single Coordination Mechanism for the purpose of SNA-SPARSH Methodology for disbursing funds of the centrally sponsored scheme for enumeration of small irrigation schemes.\
   [202507011744519226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011744519226.pdf)
