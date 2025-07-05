@@ -15,5 +15,8 @@
 - Regarding widening the jurisdiction of the office of Superintendent Engineer, Krishna Water Dispute Arbitration Special Cell, Pune and renaming it as Superintendent Engineer, Inter-State River Water Arbitration Office.\
   [202507021647120827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021647120827.pdf)
 
+- Regarding getting water reservation for the use of agricultural college under P. R. Pote Patil Education and Welfare Trust from Bor Small Project, Taluka Amravati, Dist. Amravati Project\
+  [202507041434153727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041434153727.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

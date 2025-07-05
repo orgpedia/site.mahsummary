@@ -13,6 +13,9 @@
 - Regarding financial approval of the budget for construction works on the areas of government orchards under the account head 27- Minor Construction under Vegetable Nurseries, Fruit Orchards and Local Gardens (Compulsory) (2401 1722).\
   [202507031607427901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031607427901.pdf)
 
+- Regarding distribution of grants under Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme and Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Under the program)\
+  [202507041735204801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041735204801.pdf)
+
 ## Miscellaneous
 - Opening an account for funding crop harvesting experiments under the General Crop Estimation Survey.\
   [202507021304214401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021304214401.pdf)

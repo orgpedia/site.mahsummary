@@ -13,5 +13,9 @@
 - Regarding granting administrative approval to the budget for the construction of Dr. Babasaheb Ambedkar Government Hostel for Backward Class Children, Jail Road, Ratnagiri.\
   [202507011532399822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011532399822.pdf)
 
+## Miscellaneous
+- Rajshri Shahu Maharaj Foreing Scholarship Student Selection List 2025-26\
+  [202507041522584122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041522584122.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -234,5 +234,14 @@
 - Regarding posting of officers in the Deputy Collector cadre.\
   [202507021010166719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021010166719.pdf)
 
+- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
+  [202507041810500019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041810500019.pdf)
+
+- Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted).\
+  [202507041808374119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041808374119.pdf)
+
+- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
+  [202507041812172619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041812172619.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

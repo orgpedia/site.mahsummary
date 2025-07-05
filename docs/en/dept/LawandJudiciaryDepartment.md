@@ -16,9 +16,18 @@
 - Year 2025-26 Budgetary Grant Demand No. J-5, 7610- Loan to Government Employees etc. - (201)(00)(01) House Construction Advance Allocation.\
   [202507021443179112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021443179112.pdf)
 
+- Regarding granting administrative approval to the proposal for the purchase of computer equipment for the establishment of the newly constructed court, Family Court, Belapur, amounting to Rs. 12,75,000/-.\
+  [202507041803588812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041803588812.pdf)
+
 ## Miscellaneous
 - For the office of Registrar of Partnership Firm, Maharashtra State, Mumbai approval to hire the services of 1 computer expert manpower through external agencies.\
   [202506301234042212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301234042212.pdf)
+
+- Regarding granting administrative approval to the proposal for the purchase of computer equipment for the newly constructed courts of District and Additional Sessions Courts and Civil Courts, Senior Level Court, Nashik Road, Nashik, amounting to Rs. 29,89,001/-.\
+  [202507041801206212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041801206212.pdf)
+
+- Regarding granting administrative approval to the proposal to extend the period from 01.06.2025 to 31.05.2026 for the appointment of one Senior Consultant and one Consultant through M/s KPMG Advisory services pvt. Ltd. for the work of Phase-02 of the online system developed for reserving beds for patients from poor and vulnerable groups in Charitable Hospitals.\
+  [202507041759438012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041759438012.pdf)
 
 ## Personnel
 - Regarding appointment by promotion to two vacant posts in the Establishment Officer (Group B/Gazetted) cadre in the Office of the Government Pleader, High Court, Bench Aurangabad and the Chief Presenting Officer, Maharashtra Administrative Tribunal, Chhatrapati Sambhajinagar.\

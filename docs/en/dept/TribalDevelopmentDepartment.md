@@ -23,6 +23,9 @@
 - Regarding the opening of Government Primary Ashram School Borivan Tal. Umarkhed Dist. Yavatmal, this school is located at Mahagaon Tal. Mahagaon Dist. Yavatmal.Regarding the opening of Government Primary Ashram School Borivan Tal. Umarkhed Dist. Yavatmal, this school is located at Mahagaon Tal. Mahagaon Dist. Yavatmal.\
   [202507021525265824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021525265824.pdf)
 
+- Regarding increase in subsistence allowance, educational material purchase allowance and food allowance of students admitted in tribal government hostels.\
+  [202507041620544924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041620544924.pdf)
+
 ## Personnel
 - Regarding promotion of Scheduled Tribe students in the state of Maharashtra to class 11th within a period of two years after class 10th at the Engineering and Medical Entrance Examination Centers with the help of a renowned private training institute.\
   [202507031525073624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031525073624.pdf)

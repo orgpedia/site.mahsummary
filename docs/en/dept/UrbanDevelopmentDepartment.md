@@ -10,6 +10,9 @@
 - Regarding distribution of funds to the project implementing agencies MMRDA and Mahametro from the amount collected as one percent additional stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and Maharashtra Municipal Corporation Act-1949. (Year 2025-26)\
   [202506301453194225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301453194225.pdf)
 
+- Regarding the distribution of budgetary provisions for the financial year 2025-2026... Grant in Aid\
+  [202507041221092825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041221092825.pdf)
+
 ## Miscellaneous
 - Regarding the use of Geopolymer Technopatch-Ex and Ezy Additive in road works of urban local bodies.\
   [202506301254093625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301254093625.pdf)

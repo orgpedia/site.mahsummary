@@ -13,5 +13,9 @@
 - Regarding extension of the period of deputation on the post of Chief Clerk in the office of Director, Directorate of Other Backward Classes Welfare, Pune. Shri. Rohini Pramod Danane, Chief Clerk\
   [202507031658536034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031658536034.pdf)
 
+## Personnel
+- Regarding the establishment of a Cabinet Sub-Committee to determine the policy for the distribution of land reserved for the ex-criminal community in Nehrunagar and Majrewadi blocks, Taluka North Solapur, Dist. Solapur.\
+  [202507041723346034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041723346034.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

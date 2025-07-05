@@ -38,6 +38,9 @@
 - Regulations for private institutions/hostels for children.\
   [202507031330191530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031330191530.pdf)
 
+- National Commission for Protection of Child Rights regarding implementation of guidelines in the state regarding support persons under Section 39 of the Protection of Children from Sexual Offences (POCSO) Act, 2012.\
+  [202507041707272830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041707272830.pdf)
+
 ## Personnel
 - Regarding the relocation of Anganwadi centers which do not have their own building to the nearest Zilla Parishad schools.\
   [202507021023494430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021023494430.pdf.pdf)

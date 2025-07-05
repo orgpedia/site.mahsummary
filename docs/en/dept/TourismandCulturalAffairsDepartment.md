@@ -17,5 +17,8 @@
 - Regarding granting the status of A class tourist destination to Trimbak Municipal Council, Trimbakeshwar District, Nashik.\
   [202507011525391023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011525391023.pdf)
 
+- Regarding financial approval for the expenses of organizing programs of Maharashtra State Sindhi Sahitya Academy.\
+  [202507041153358123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041153358123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

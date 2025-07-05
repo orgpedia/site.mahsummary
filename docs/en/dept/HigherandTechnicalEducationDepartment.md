@@ -151,5 +151,14 @@
 - Regarding the distribution of funds for the construction of the Ratnagiri sub-centre of Yashwantrao Chavan Maharashtra Open University, Nashik, and the Chhatrapati Shivaji Maharaj International Library and Research Centre buildings...\
   [202507031211101008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031211101008.pdf)
 
+- Government approval to start a new Post Graduate Degree course in the existing Degree Pharmacy course in the institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Central India College of Pharmacy, Lonara, Nagpur)\
+  [202507041512065408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041512065408.pdf)
+
+- Government approval for starting new Post Graduate Degree courses/increasing the admission capacity of Post Graduate Degree/Degree courses in the existing Institute of Pharmacy from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (NCRDs Sterling Institute of Pharmacy, Nerul, Navi Mumbai)\
+  [202507041509347708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041509347708.pdf)
+
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2025-26. (Mahatma Phule Vidya Prasarak Sanstha, Atal College of Pharmacy, Dhule)\
+  [202507041708571208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041708571208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,9 @@
 - Regarding setting up of Integrated Traffic Management System (ITMS) on 9 important National Highways of total length of 1967 km in Maharashtra State.\
   [202507031230551029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031230551029.pdf)
 
+- Regarding payment of the difference in interest on loans taken through banks under the Housing Advance Scheme to the police.\
+  [202507041244519529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041244519529.pdf)
+
 ## Miscellaneous
 - Regarding service review of officers in the Gazetted Cadre of the Prisons Department beyond the age of 50/55 years/after 30 years of qualifying service.\
   [202507021438579529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021438579529.pdf)

@@ -32,6 +32,12 @@
 - Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill Gargoti  Amravati. Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  3rd installment (non-salary  salary)\
   [202507011147160020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011147160020.pdf)
 
+- Regarding inclusion of unclassified length in existing Rural Road No.56 in Parbhani Taluka of Parbhani District.\
+  [202507041117209020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041117209020.pdf)
+
+- Administrative approval for construction of Grampanchayat building under Hon. Balasaheb Thackrey Smruti Matoshree Grampanchayat Bandhani Yojana...(Dist-Nanded)\
+  [202507041117111020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041117111020.pdf)
+
 ## Personnel
 - Regarding ad-hoc promotion of Assistant Block Development Officer, Group-B cadre (S-16), to the post of Block Development Officer, Group-A (S-20) cadre in the Maharashtra Development Service. (Selection List Year 2024-25)\
   [202506300958136720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506300958136720.pdf)

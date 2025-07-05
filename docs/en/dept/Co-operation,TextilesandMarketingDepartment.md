@@ -88,9 +88,18 @@
 - Regarding distribution of the provision received in the year 2025-26. Financial assistance for empowerment of District Central Cooperative Banks under Short Term Cooperative Credit Structure (STCCS) in the State (2425 2524).\
   [202507031116579002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031116579002.pdf)
 
+- Regarding approval of revised project report. Mandeshi Prabodhankar Backward Classes Cooperative Spinning Mill Limited, Vaduz, Tal. Vaduz, Dist. Satara\
+  [202507041218238602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041218238602.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Shirpur, District Dhule...\
+  [202507041532391402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041532391402.pdf)
+
 ## Miscellaneous
 - Regarding changes in the terms of reference of the committee formed to study and recommend to the government regarding the timely reorganization and empowerment of the Marketing Department......\
   [202507011833039002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011833039002.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Bhadravati, District Chandrapur....\
+  [202507041535060602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041535060602.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
