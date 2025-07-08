@@ -1,27 +1,24 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 07 July 2025 - 12 July 2025
+**Date Range**: 14 July 2025 - 19 July 2025
 
 
 ## Funds
-- Hon. Balasaheb Thackeray regarding the distribution of Rs. 312.72 crores of funds in the year 2025-26 for Agribusiness and Rural Transformation Project....\
-  [202506301832533101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301832533101.pdf)
+- Regarding granting administrative approval to various works in the Rameti, Kolhapur Institute.\
+  [202507071136323401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071136323401.pdf)
 
-- Regarding approval of the media plan for the promotion and publicity of the Agriculture Department.\
-  [202506301147584601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301147584601.pdf)
+- Regarding the disbursement of a fund of Rs. 40 lakhs for the project to assess the crop condition in the state using the criteria of Normalized Difference Vegetation Index (NDVI) through the All India Coordinated Agro-Meteorological Research Project.\
+  [202507071050279701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071050279701.pdf)
 
-- Regarding financial approval of the budget for construction works on the areas of government orchards under the account head 27- Minor Construction under Vegetable Nurseries, Fruit Orchards and Local Gardens (Compulsory) (2401 1722).\
-  [202507031607427901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507031607427901.pdf)
-
-- Regarding distribution of grants under Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme and Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Under the program)\
-  [202507041735204801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507041735204801.pdf)
+- Regarding making available in the ESCROW bank account of the scheme for payment to the concerned insurance companies as per the guidelines of the scheme, an amount of Rs. 1530.00 crore as advance state share crop insurance premium for the Kharif season 2025 under the revised Pradhan Mantri Fasal Bima Yojana.\
+  [202507071502013601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071502013601.pdf)
 
 ## Miscellaneous
-- Opening an account for funding crop harvesting experiments under the General Crop Estimation Survey.\
-  [202507021304214401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021304214401.pdf)
+- Regarding distribution of the remaining amount of Rs. 15,59,71,986/- as farmers share insurance premium for the Rabi season 2024-25 under the Comprehensive Crop Insurance Scheme to the crop insurance companies implementing the scheme.\
+  [202507071454099601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071454099601.pdf)
 
-- Regarding the implementation of e-office system from state level to regional level under the Department of Agriculture.\
-  [202507021307459001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021307459001.pdf)
+- Regarding distribution of the remaining state share of crop insurance premium amounting to Rs. 207,05,80,776/- for the Rabi season 2024-25 under the Comprehensive Crop Insurance Scheme to the crop insurance companies implementing the scheme.\
+  [202507071459083601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071459083601.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
