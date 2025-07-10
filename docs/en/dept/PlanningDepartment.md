@@ -3,6 +3,10 @@
 **Date Range**: 14 July 2025 - 19 July 2025
 
 
+## Funds
+- Regarding granting administrative approval to Shri Trimbakeshwar, District Nashik Pilgrimage Development Plan.\
+  [202507091817506316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091817506316.pdf)
+
 ## Personnel
 - Regarding publication of provisional seniority list of Deputy Director, Group-A cadre in the Directorate of Finance and Statistics as on 01/01/2025 (from 01/01/2024 to 31/12/2024).\
   [202507071531411316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071531411316.pdf)

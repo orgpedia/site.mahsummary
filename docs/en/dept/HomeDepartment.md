@@ -23,6 +23,12 @@
 - Regarding the inclusion of non-governmental members in the committee formed to suggest solutions to the government to resolve various problems of goods transporters associations, bus owners associations, school bus associations and other transporters.\
   [202507081739254229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081739254229.pdf)
 
+- Combined Probationary Training Programme-C.P.T.P.10: Regarding creation of supernumerary posts of Deputy Superintendent of Police/Assistant Commissioner of Police, Group A.\
+  [202507091601155529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091601155529.pdf)
+
+- Regarding the declaration of police stations / sub-police stations / AOP in Naxal-affected areas as extremely sensitive zones.\
+  [202507091250111829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091250111829.pdf)
+
 ## Personnel
 - Regarding transfer/posting of I.P.S./R.P.S. officers.\
   [202507071906270129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071906270129.pdf)
@@ -38,6 +44,27 @@
 
 - Promotion/postings in Senior Time Scale of I.P.S. officers.\
   [202507081439287229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081439287229.pdf)
+
+- Regarding transfer of 03 posts of 1 Reserve Police Inspector and 2 Reserve Police Sub-Inspectors from the establishment of Police Training Centre, Nanvij-Daund to the establishment of Police Commissioner, Pimpri Chinchwad.\
+  [202507091823198029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091823198029.pdf)
+
+- Regarding transfer/posting of I.P.S. officers.\
+  [202507091649201129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091649201129.pdf)
+
+- Promotion/postings in Senior Time Scale of I.P.S. officers.\
+  [202507091348185329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091348185329.pdf)
+
+- Regarding transfer/posting of I.P.S. officers.\
+  [202507091401420829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091401420829.pdf)
+
+- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Superintendent of Police/ Deputy Commissioner of Police (Non-cadre).\
+  [202507091210563229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091210563229.pdf)
+
+- Regarding transfer/posting of I.P.S. officers.\
+  [202507091812531929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091812531929.pdf)
+
+- Posting of probationer IPS officers\
+  [202507091357419229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091357419229......pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Regarding granting improved administrative approval to the piped water supply scheme at Mouj. Devale, Tal. Panhala, Dist. Kolhapur under the Jal Jeevan Mission program.\
   [202507081235513928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081235513928.pdf)
 
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouj. vandur, Tal. kagal, Dist. Kolhapur under the Jal Jeevan Mission program.\
+  [202507091618366528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091618366528.pdf)
+
 ## Personnel
 - Under the Jal Jeevan Mission Program, regarding granting improved administrative approval to the piped water supply scheme at Mooje. Kante, Tal. Shahuwadi, Dist. Kolhapur.\
   [202507081235435628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081235435628.pdf)

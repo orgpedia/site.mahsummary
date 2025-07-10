@@ -3,6 +3,16 @@
 **Date Range**: 14 July 2025 - 19 July 2025
 
 
+## Funds
+- Regarding the distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the year 2025-26...\
+  [202507091139339008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091139339008.pdf)
+
+- Regarding the distribution of funds for Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme in the year 2025-26...\
+  [202507091143102108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091143102108.pdf)
+
+- Regarding sanctioning a lump sum of Rs. 3.24 crore per year to Marathi Language University, Riddhapur Dist. Amravati for the period 2025-26 to 2027-28...\
+  [202507091245330308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091245330308.pdf)
+
 ## Miscellaneous
 - Government approval for change in name of existing unaided educational institution in Mumbai division under the Directorate of Technical Education, as per the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26...\
   [202507071504027708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071504027708.pdf)
@@ -48,6 +58,24 @@
 
 - Government approval for the restoration of admission capacity for postgraduate courses and new seats for children of Non-Resident Indians NRI in unaided institutions under the Directorate of Technical Education from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... (D. Y. Patil College of Engineering, Nigdi Authority, Akurdi, Pune)\
   [202507081253590608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081253590608.pdf)
+
+- Regarding approval to start a new institute of Diploma in Pharmacy course on permanent unaided basis from the academic year 2025-26. (Ekvira Multipurpose Charitable Institution, Nanded run by Marathwada Institute of Pharmacy, Loni, Taluka Ardhapur, Dist. Nanded)\
+  [202507091523303608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091523303608.pdf)
+
+- Government approval for starting a new Postgraduate Degree course/increasing the admission capacity of Postgraduate Degree/Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Mrs. Shadrachandrika Suresh Patil College of Pharmacy, Chopda, Dist. Jalgaon)\
+  [202507091759210108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091759210108.pdf)
+
+- Government approval for starting new Post Graduate Degree courses/increasing the admission capacity of Post Graduate Degree/Degree courses in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Fabtech College of Pharmacy, Sangola\
+  [202507091756180008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091756180008.pdf)
+
+- Regarding granting government approval, in accordance with the permission of the Council of Architecture, New Delhi, to start a Diploma in Architecture course on an unaided basis in the existing unaided course institutions in the state from the academic year 2025-26.\
+  [202507091529034108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091529034108.pdf)
+
+- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Sarvodaya College of Pharmacy, Warud Kazi, Ch. Sambhajinagar)\
+  [202507091532091608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091532091608.pdf)
+
+- Government approval for starting new Postgraduate Degree courses/increasing the admission capacity of Postgraduate Degree/Degree courses in the existing Institute of Pharmacy course from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. School of Pharmacy and Research Centre, Baramati\
+  [202507091133463708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091133463708.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

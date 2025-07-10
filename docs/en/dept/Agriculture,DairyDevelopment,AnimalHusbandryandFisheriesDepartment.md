@@ -19,6 +19,9 @@
 - Approval of the implementation of the World Bank-assisted Nanaji Deshmukh Krishi Sanjeevani Project, Phase-2, as well as approval of entering into an agreement with the World Bank.\
   [202507081524526501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081524526501....pdf)
 
+- Regarding the distribution of the remaining state share grant amount of Rs. 1028.97 crore for the Kharif season 2024 under the Comprehensive Crop Insurance Scheme.\
+  [202507091833473401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091833473401.pdf.pdf)
+
 ## Miscellaneous
 - Regarding distribution of the remaining amount of Rs. 15,59,71,986/- as farmers share insurance premium for the Rabi season 2024-25 under the Comprehensive Crop Insurance Scheme to the crop insurance companies implementing the scheme.\
   [202507071454099601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071454099601.pdf)
@@ -28,6 +31,13 @@
 
 - Regarding providing a grant of Rs. 95.6767 lakhs to Vanamati and Rameti Institutions for the year 2025-26 under Account Head - 2401 4258 (Mandatory) - 36 - Subsidiary Grants (Salary).\
   [202507081439522001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081439522001.pdf)
+
+## Personnel
+- Regarding temporary promotion from Maharashtra Agricultural Service, Group-A, Superintendent Agricultural Officer cadre to Maharashtra Agricultural Service, Group-A, Joint Director of Agriculture cadre\
+  [202507091826412401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091826412401.pdf)
+
+- Regarding promotion from Maharashtra Agricultural Service, Group-B cadre to Maharashtra Agricultural Service, Group-A (Deputy Director of Agriculture) cadre.....\
+  [202507091821050301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091821050301.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
