@@ -7,9 +7,15 @@
 - Regarding the construction of Revenue Bhavan office building at Mulund (W) Taluka Kurla.\
   [202507071804209319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071804209319.pdf)
 
+- Regarding release of funds under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2025-26.\
+  [202507101841116519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101841116519.pdf)
+
 ## Miscellaneous
 - Appointment of Arbitrator in the matter of payment of compensation of Forest Land coming under submergence of Sardar Sarovar Project (SSP).\
   [202507071817441619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071817441619.pdf)
+
+- Revised Subject list of the Revenue and Forest Department\
+  [202507101507270119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101507270119.pdf)
 
 ## Personnel
 - Forest Land - Dhule Nandurbar Proposal for permission to carry out 3D Seismic survey (32 Shot Holes / Square Km) for hydrocarbon exploration over an area of 15212.8 ha. forest land by drilling of 4754 shot holes having diameter 2.95 inches by using existing forest roads / paths in Dhule and Nandurbar Districts of the State of Maharashtra.\

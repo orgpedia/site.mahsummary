@@ -13,6 +13,9 @@
 - To release grant for the scheme of Ashramshala Complex (State Level Scheme)(Scheme) under the TSP in financial year 2025-26. CRC 2225D734\
   [202507091224571824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091224571824.pdf)
 
+- To release grant for the scheme of Mukhya Mantri Annapurna Yojana (Scheme) under the TSP in financial year 2025-26. (CRC 2408 0903 )\
+  [202507101550176024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101550176024.pdf)
+
 ## Miscellaneous
 - Reorganization of Maharashtra State Tribal Advisory Council.\
   [202507071148261024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071148261024.pdf)

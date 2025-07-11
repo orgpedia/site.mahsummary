@@ -1,22 +1,17 @@
 # Finance Department
 
-**Date Range**: 07 July 2025 - 12 July 2025
+**Date Range**: 14 July 2025 - 19 July 2025
 
-
-## Funds
-- Regarding the appointment of Special Counsellors and payment of their fees to the Commissioner of State Tax, State of Maharashtra, Mumbai and amendment of the powers conferred thereon.\
-  [202507021655461705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021655461705.pdf)
-
-## Miscellaneous
-- Regarding the implementation of State Government Employees Group Personal Accident Insurance Scheme only for officers/employees of government/semi-government establishments.\
-  [202506301524006805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202506301524006805.pdf)
-
-- Regarding prescribing certain procedures (guidelines) regarding the interest rate of loans to be taken from NABARD under NIDA for the completion of 31 incomplete irrigation projects out of 75 incomplete irrigation projects in the first phase of the Water Resources Department and improvement of canals and distribution systems of 60 projects out of 155 projects in the first phase.\
-  [202507021459353605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507021459353605.pdf)
 
 ## Personnel
-- General instructions regarding timely submission of complete payments to the Maharashtra State Cyber Treasury Office for disbursing funds of centrally sponsored schemes through SNA SPARSH mechanism and carrying out ancillary work...\
-  [202507011610231105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507011610231105.pdf)
+- Regarding revised procedures for timely deposit of contributions of employees on deputation into their PRAN accounts.\
+  [202507101618093405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101618093405.pdf)
+
+- Regarding the action to be taken when missing credit noticed in the contribution under the Defined Contribution Pension Scheme / National Pension System.\
+  [202507101621050605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101621050605.pdf)
+
+- Regarding prescribing the procedure to be followed in connection with the implementation of the Virtual Personal Deposit Account System and Procedures when the Office of the Virtual Personal Deposit Account Administrator of the Non-Government Implementing Authorities and the Office of the Drawing and Disbursing Officer transferring funds to them are located and working in different districts i.e. in the jurisdiction of different District Treasury Offices....\
+  [202507081309390305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081309390305.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

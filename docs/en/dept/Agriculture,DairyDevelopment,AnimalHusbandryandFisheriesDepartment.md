@@ -39,5 +39,17 @@
 - Regarding promotion from Maharashtra Agricultural Service, Group-B cadre to Maharashtra Agricultural Service, Group-A (Deputy Director of Agriculture) cadre.....\
   [202507091821050301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091821050301.pdf)
 
+- Regarding the publication of the provisional seniority list of Maharashtra Agricultural Service, Group-B cadre dated 01/01/2023, 01/01/2024 and 01/01/2025......\
+  [202507101539474401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101539474401.......pdf)
+
+- Regarding transfer posting of officers in Maharashtra Agricultural Service Group-B cadre.\
+  [202507101537317501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101537317501.pdf)
+
+- Regarding the transfer /additional charge of officers in the Agriculture Director and Joint Director Agriculture cadres.\
+  [202507101108302301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101108302301.pdf)
+
+- Maharashtra Fisheries Service - Regarding appointment on the post of Fisheries Development Officer, Fisheries Training Officer, Curator Training and Extension Officer (Technical) Group-B (Advertisement No. 4/2020).\
+  [202507101917295001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101917295001.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

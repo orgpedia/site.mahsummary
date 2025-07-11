@@ -16,6 +16,9 @@
 - Regarding approval of construction of new MIDC Police Station on the premises of Police Commissioner, Nashik City, creation of posts for the same and recurrent and non-recurrent expenditure incurred in connection therewith.\
   [202507081807519729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081807519729.pdf)
 
+- Regarding payment of Rs. 34,25,198/- to Mr. PricewaterhouseCoopers Pvt. Ltd. Mumbai towards the honorarium of a total of 03 consultants for the Cyber Security Project from 1st January, 2024 to 14th March, 2024.\
+  [202507101307017429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101307017429.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the expenditure incurred for outsourcing the technical manpower required by M/s MahaOnline to enter into a maintenance contract (AMC) for the website of the Transport Department and for paying his remuneration.\
   [202507071537595629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071537595629...pdf)

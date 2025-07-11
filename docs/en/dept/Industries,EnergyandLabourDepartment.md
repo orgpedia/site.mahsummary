@@ -7,6 +7,9 @@
 - Regarding granting administrative and financial approval for the construction of a new Kamgar Bhavan building for Dhule district.\
   [202507071139234110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071139234110.pdf)
 
+- Regarding granting administrative approval for various electrical works in tribal areas of Kalvan-Surgana constituency in Nashik district.\
+  [202507101723552310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101723552310.pdf)
+
 ## Miscellaneous
 - Regarding the formation of an Implementation and Monitoring Committee (War Room) for the Industries Department to implement and monitor the various stages from investment of the unit to setting up of the industry for the industrial development of the state of Maharashtra...\
   [202507081830439910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081830439910.pdf)

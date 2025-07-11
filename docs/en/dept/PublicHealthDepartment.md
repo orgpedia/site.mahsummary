@@ -11,5 +11,21 @@
 - Regarding the establishment of a State Level Task Force regarding the investigation                                             of maternal and child mortality\
   [202507091131551017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091131551017.pdf)
 
+- Year-wise interim seniority list of General State Service Group-B, District Epidemiology Officer/Elephant Disease Officer/Biologist cadre for the period from 01.01.2018 to 01.01.2025\
+  [202507081509267017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081509267017.pdf)
+
+- Year-wise interim seniority list of General State Service Group-B, Chief Life Scientist Cadre for the period from 01.01.2018 to 01.01.2025\
+  [202507081509419517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081509419517.pdf)
+
+- General State Service Group-B, District Health Officer/Elephant Disease Officer/Biological Cadre Year-wise Final Seniority List of Admissions from 01.01.2011 to 01.01.2017\
+  [202507081509286317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081509286317.pdf)
+
+- General State Service Group-B, Chief Life Scientist Cadre Year-wise Final Seniority List for the period from 01.01.2011 to 01.01.2017\
+  [202507081509488917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081509488917.pdf)
+
+## Personnel
+- Regarding termination of services of Medical Officers, Group-A (S-20) who are unauthorized absent during the probationary period. . .\
+  [202507091551384517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091551384517.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

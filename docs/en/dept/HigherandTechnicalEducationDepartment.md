@@ -13,6 +13,9 @@
 - Regarding sanctioning a lump sum of Rs. 3.24 crore per year to Marathi Language University, Riddhapur Dist. Amravati for the period 2025-26 to 2027-28...\
   [202507091245330308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091245330308.pdf)
 
+- Regarding creation of statutory posts for Lakshminarayan Innovative Technology University, Nagpur (LIT University).\
+  [202507101101236808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101101236808.pdf)
+
 ## Miscellaneous
 - Government approval for change in name of existing unaided educational institution in Mumbai division under the Directorate of Technical Education, as per the approval of All India Council for Technical Education, New Delhi, from the academic year 2025-26...\
   [202507071504027708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071504027708.pdf)
@@ -76,6 +79,55 @@
 
 - Government approval for starting new Postgraduate Degree courses/increasing the admission capacity of Postgraduate Degree/Degree courses in the existing Institute of Pharmacy course from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. School of Pharmacy and Research Centre, Baramati\
   [202507091133463708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091133463708.pdf)
+
+- Regarding the formation of a selection committee to examine the qualifications of the candidates and recommend eligible candidates for the additional charge of the posts of Divisional Joint Director (Higher Education) and Joint Director (Administration) in the Directorate of Higher Education...\
+  [202507101514181108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101514181108.pdf)
+
+- Regarding the distribution of funds for the construction of a memorial and tower of Punyashloka Ahilyadevi Holkar at Solapur University.\
+  [202507101753144308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101753144308.pdf)
+
+- Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Institute of Pharmacy course from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. P R Patil Institute of Pharmacy, Tal. Ashti, Wardha\
+  [202507101814043108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101814043108.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (Gurukul Institute of Pharmacy, Kshirsagar, Taluka Bhokardan, Dist. Jalna)\
+  [202507101809204608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101809204608.pdf)
+
+- Government approval to start a new Post Graduate Degree course from the academic year 2025-26 in the existing institution under the auspices of the Directorate of Technical Education, in accordance with the approval of the All India Council for Technical Education, New Delhi.... (Mumbai Institute of Management and Research (MIMR), Wadala (East), Mumbai)\
+  [202507101815588808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101815588808.pdf)
+
+- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Swami Vivekananda Institute of Pharmacy, Mavsala, Tal. Khultabad, Dist. Chhatrapati Sambhajinagar)\
+  [202507101802341308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101802341308.pdf)
+
+- Government approval for starting new Post Graduate Degree courses/increasing the admission capacity of Post Graduate Degree/Degree courses in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Dr. D. Y. Patil Pratishthans Dr. D. Y. Patil College of Pharmacy, Akurdi, Pune)\
+  [202507101811244508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101811244508.pdf)
+
+- Regarding increasing the student admission capacity for the MFA-Drawing and Painting course at Government College of Art and Design, Nagpur.\
+  [202507101617284008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101617284008.pdf)
+
+- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Kohinoor Institute of Pharmacy, Vasangaon, Latur)\
+  [202507101806254708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101806254708.pdf)
+
+- Government approval to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of Pharmacy Council of India, New Delhi. (Somaiya Diploma in Pharmacy, Chandrapur)\
+  [202507101818144308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101818144308.pdf)
+
+- Regarding the formation of a committee to amend the acts of the universities of Kavi Vice Chancellor Kalidas Sanskrit University, Nagpur, Yashwantrao Chavan Maharashtra Open University, Nashik, Babasaheb Ambedkar University of Technology, Lonere, Raigad and COEP University of Technology, Pune.\
+  [202507101611188408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101611188408.pdf)
+
+- Government approval to start a new Post Graduate Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Samarth College of Pharmacy, Pangri Mali, Deulgaon Raja)\
+  [202507101640416008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101640416008.pdf)
+
+## Personnel
+- Regarding partial change in posting/cancellation of transfer... Government Engineering Colleges/ Pharmacy Colleges and Administrative Posts\
+  [202507102025202908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507102025202908.pdf)
+
+- Regarding partial change in posting and cancellation of transfer. Head of Department and Lecturer, Government Technical Colleges and Similar Institutions, Maharashtra Technical College Teachers Service, Group-A.\
+  [202507102010201808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507102010201808....pdf)
+
+- Regarding providing services on a case-by-case basis.\
+  [202507102021564308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507102021564308.pdf)
+
+- To fill the Posts in State Common Entrance Cell by Deputation\
+  [202507101630385508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101630385508.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
