@@ -23,6 +23,12 @@
 - Catering services at the official residence of the Hon. Chief Minister and Hon. Deputy Chief Minister. Regarding extension of time to service providers.\
   [202507081723345607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081723345607.pdf)
 
+- Regarding filling up of posts in the office of Maharashtra State Khadi and Village Industries Board, Mumbai by deputation from the departmental officers of the ministerial cadre.\
+  [202507111753465307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111753465307.pdf)
+
+- Measures for expeditious disposal of cases of Departmental enquiries -Appointment of Nodel officer and his duties and responsibilities. .\
+  [202507111250328507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111250328507.pdf)
+
 ## Personnel
 - Regarding appointment on deputation to the post of Assistant Professor Class-1 (Public Administration) under the Integrated Probationary Training Program at Vasantrao Naik State Agricultural Extension Management Training Institute (Vanamati), Nagpur.\
   [202507071213322507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507071213322507.pdf)

@@ -20,5 +20,15 @@
 - Regarding the confusion regarding construction permits under the Collective Incentive Scheme-2013 and the demand for interest rate subsidy for micro, small and medium textile industries.\
   [202507091540282510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091540282510.pdf)
 
+- Regarding the appointment of nominated/ex-officio members on the Governing Council under District Mineral Foundation, Raigad...\
+  [202507111756276410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111756276410.pdf)
+
+- Regarding the application of the provisions of the service entry rules in the notification of the General Administration Department to the cadre of  Higher Grade and Lower Grade Steno Typist and Clerk-Typist in the Labour Commissionerate.\
+  [202507111749565510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111749565510.pdf)
+
+## Personnel
+- Regarding extension of tenure of appointments to majority of posts in the Electricity Inspectorate under the auspices of the Department of Energy...\
+  [202507111614221910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111614221910.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

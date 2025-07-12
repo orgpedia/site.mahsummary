@@ -84,5 +84,26 @@
 - Revised Administrative approval to Mou. Ratir Ramtir (Tal.Baglan  Dist.Nashik) water supply scheme Under JJM.\
   [202507091739466428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091739466428.pdf)
 
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Ghotmundri, Tal. Mouda, Dist. Nagpur. (20079826) under the Jal Jeevan Mission program.\
+  [202507101452397628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101452397628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Chikhlabodi, Tal. Mouda, Dist. Nagpur (20063400) under the Jal Jeevan Mission program\
+  [202507101453082128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101453082128.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Devmundhari, Tal. Mouda, Dist. Nagpur. (20063403) under the Jal Jeevan Mission program\
+  [202507101452373828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101452373828.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Dhanoli, Taluka Karanja, District Wardha (20028020) under the Jal Jeevan Mission program.\
+  [202507101453026928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101453026928.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mauja Bori (Ghiwari), Tal. Mauda, Dist. Nagpur. (20083665) under the Jal Jeevan Mission program\
+  [202507101452522628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101452522628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Pitesur, Tal. Nagpur, Dist. Nagpur (20063587) under the Jal Jeevan Mission program\
+  [202507101452462228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101452462228.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Dhavsa, Taluka Karanja, District Wardha (20049811) under the Jal Jeevan Mission program.\
+  [202507101452569528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101452569528.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

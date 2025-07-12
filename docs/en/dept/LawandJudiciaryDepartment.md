@@ -13,6 +13,9 @@
 - Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
   [202507101538473812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101538473812.pdf)
 
+- Regarding allowing cashless medical services to the serving and retired Hon. Chief Justice/Judges of the Hon. High Court, Mumbai.\
+  [202507111436205812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111436205812....pdf)
+
 ## Miscellaneous
 - Construction of Lawyers Hall in the  Court Premises at Telhara, Dist-Akola\
   [202507101528353712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101528353712.pdf)

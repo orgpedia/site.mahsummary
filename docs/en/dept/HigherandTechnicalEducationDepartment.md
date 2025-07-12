@@ -116,6 +116,12 @@
 - Government approval to start a new Post Graduate Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Samarth College of Pharmacy, Pangri Mali, Deulgaon Raja)\
   [202507101640416008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507101640416008.pdf)
 
+- Regarding the government approval to start a new professional course institution on permanent unaided basis from the academic year 2025-26 as per the approval of All India Council for Technical Education, New Delhi... Sambhajiraje College of Management Science, Shirur Kasar, Beed.\
+  [202507111537524108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111537524108.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (Ekdant College of Pharmacy, Umred, Dist. Nagpur)\
+  [202507111534474008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507111534474008.pdf)
+
 ## Personnel
 - Regarding partial change in posting/cancellation of transfer... Government Engineering Colleges/ Pharmacy Colleges and Administrative Posts\
   [202507102025202908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507102025202908.pdf)
