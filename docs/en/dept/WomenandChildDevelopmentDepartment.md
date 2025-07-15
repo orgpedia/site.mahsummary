@@ -1,23 +1,17 @@
 # Women and Child Development Department
 
-**Date Range**: 14 July 2025 - 19 July 2025
+**Date Range**: 21 July 2025 - 26 July 2025
 
 
 ## Funds
-- Regarding approval for purchase of Baby Care Kit under Integrated Child Development Services Scheme.\
-  [202507081411468930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081411468930.pdf)
+- Disbursement of fund to give One Time benefit  to the  Anganwadi employees in the state for those whose Retirement / Resignation / Death / Removal from Service etc. after dated 01.04.2022 by Govt Disbursement.   Under Integrated Child Development Services Scheme\
+  [202507141046241030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141046241030.pdf)
 
-- Regarding the distribution of budgeted funds for payment of honorarium and incentive  to Anganwadi workers and Anganwadi helpers.\
-  [202507081609375630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081609375630.pdf)
+- Regarding distribution of funds for the scheme Counseling Centers for Women for the financial year 2025-26.\
+  [202507141529561030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141529561030.pdf)
 
-- Regarding providing funds for administrative expenses for implementing the New Tejaswini-Maharashtra Rural Womens Enterprise Development Project supported by the International Fund for Agricultural Development (IFAD) for the financial year 2025-26.\
-  [202507091626414030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091626414030.pdf)
-
-- Regarding distribution of funds to Maharashtra State Womens Commission for the financial year 2025-2026.\
-  [202507091628470730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091628470730.pdf)
-
-- Regarding providing funds for the implementation of the New Tejaswini-Maharashtra Rural Womens Enterprise Development Project supported by the International Fund for Agricultural Development (IFAD) for the financial year 2025-26.\
-  [202507091624459630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091624459630.pdf)
+- Regarding Grant release for VCDC and UCDC scheme for FY 2025-26\
+  [202507141046039630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141046039630.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

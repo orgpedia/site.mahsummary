@@ -1,22 +1,15 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 14 July 2025 - 19 July 2025
+**Date Range**: 21 July 2025 - 26 July 2025
 
 
 ## Funds
-- administrative approval for the expenditure incurred towards the monthly salary of Group D cadre posts to be paid through outsource in the institution of M.A. Podar Hospital, Worli, Mumbai.\
-  [202507081453341413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081453341413.pdf)
+- Regarding granting approval for hiring two 44-seater buses on a rental basis for the students of Government Medical College, Buldhana.\
+  [202507141448140713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141448140713.pdf)
 
 ## Miscellaneous
-- Regarding implementation of a system to prevent kidnapping/theft of newborns in government medical colleges and affiliated hospitals.\
-  [202507091520391113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091520391113.pdf)
-
-- Approval to outsource bio-medical solid waste management at Padma Bhushan Vasantdada Patil Government Hospital, Sangli and Sarvopchar Hospital, Miraj.\
-  [202507091520370013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091520370013.pdf)
-
-## Personnel
-- Regarding granting the authority to the concerned Dean at the institution level to make temporary appointments for 364 days to the posts in the Dental Surgeon cadre in the Department of Dentistry in Government Dental College and Hospital and Government Medical College and Hospital.\
-  [202507091523580713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507091523580713.pdf)
+- Regarding granting approval for availing security guard services for 04 Government Medical Colleges and affiliated hospitals and health training teams under the departments jurisdiction.\
+  [202507141448122713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141448122713.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
