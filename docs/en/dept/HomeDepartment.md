@@ -3,6 +3,10 @@
 **Date Range**: 21 July 2025 - 26 July 2025
 
 
+## Funds
+- Fund Distribution 2025-26. Requisition No. B-11- Main Account Head-7610 - Loans to Government Employees etc.\
+  [202507151130425629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151130425629.pdf)
+
 ## Miscellaneous
 - Regarding giving additional charge of vacant posts in the cadre of Deputy Inspector General of Prisons.\
   [202507141156050229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141156050229.pdf)
@@ -22,6 +26,9 @@
 
 - Regarding transfers/ postings of IPS/ State Police Service officers.\
   [202507141745428629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141745428629.pdf)
+
+- Regarding authorizing the Drawing and Disbursement Officer in the subordinate offices of the Home Department as Virtual Personal Deposit Account Administrator for the speedy disbursement and monitoring of Subsidiary Grant.\
+  [202507151518014329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151518014329.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

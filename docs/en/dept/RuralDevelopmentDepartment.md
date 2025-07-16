@@ -10,6 +10,13 @@
 - Regarding allocation of funds with the department for the financial year 2025-2026 for the purchase of Electronic Voting Machines (EVM) for the elections of local bodies in the state.\
   [202507141257277320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141257277320.pdf)
 
+## Miscellaneous
+- For the year 2025-26 Mahila Kisan Sashaktikaran Pariyojana Funding for Scheduled Caste (SCP) Category (Corrigendum).\
+  [202507151448027120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151448027120.pdf)
+
+- Regarding granting administrative approval for the purchase of tabs, computers and other related materials for the office of the Honble Minister (Rural Development).\
+  [202507151653078820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151653078820.pdf)
+
 ## Personnel
 - Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A cadre officials - Shri. J.N. Abhale\
   [202507141205245820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141205245820.pdf)
@@ -46,6 +53,192 @@
 
 - Maharashtra Development Service, Block Development Officer (S-20), regarding the posting of officers in the cadre of Group-A- Shri. S.T.Sonavane\
   [202507141205420620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141205420620.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer-Mr. A.R. Kumbhar\
+  [202507141207446420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207446420.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Shri. P.P. Totewad\
+  [202507151108135620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108135620.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Shri. V.L. Khedkar.\
+  [202507151108178720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108178720.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Shri.T.K. Bhalke.\
+  [202507141207243320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207243320.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), regarding the transfer request of Group-A Cadre Officer- Shri. K.V. Kale\
+  [202507141208469020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208469020.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Shri. B.A. Rejivad\
+  [202507151108328520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108328520.pdf)
+
+- Maharashtra Development Services, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre - Shri.J.D. Ugle.\
+  [202507141208058220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208058220.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), regarding the request transfer of Group-A Cadre Officer- Shri. S.G. the Wagh\
+  [202507141208344920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208344920.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer - Smt.T.C.Awle\
+  [202507151108362220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108362220.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Smt.A.K. Waghmale.\
+  [202507141208027420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208027420.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre - Shri. V.M. Jadhav\
+  [202507141207138220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207138220.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), regarding extension of general transfer of Group-A cadre officers.\
+  [202507141205579820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141205579820.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Shri. S.R. Kambale\
+  [202507151108289420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108289420.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer- Shri.S.M. Godbharle\
+  [202507141207275920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207275920.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer (Selection Grade), (S-27), General Transfers of Officers in Group-A Cadre- Shri. V.L. Mulik\
+  [202507141206072820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206072820.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer- Shri.R.S. Kanase\
+  [202507151108027220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108027220.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Mr. A.S. Miragane.\
+  [202507151108253720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108253720.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre - Shri. V.G. Tanpure\
+  [202507141208202120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208202120.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. P.D. Yadav\
+  [202507141206114520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206114520.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre - Shri. R.B. Desai.\
+  [202507141208240620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208240620.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer- Shri.R.S. Kalbhor\
+  [202507141206520120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206520120.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Officer in Group-A Cadre - Smt. Shweta Kale-Yadav\
+  [202507141206552520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206552520.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. Manoj Jadhav.\
+  [202507141206417120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206417120.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer- Shri.S.B. Patil\
+  [202507141207017620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207017620.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Shri. S.R. Tichkule\
+  [202507151108399920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108399920.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. V.P. Jadhav\
+  [202507141206255220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206255220.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), regarding the transfer request of Group-A Cadre Officer- Shri. O.R. Ramawat\
+  [202507141208429620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208429620.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer- Shri.S.G.Ghonsikar\
+  [202507141207415520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207415520.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. R.V. Ingle\
+  [202507141206288520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206288520.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Smt.S.M. Kolhe\
+  [202507141207087820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207087820.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre - Shri.C.U. Jagtap\
+  [202507141208277020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208277020.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Smt.S.K. Pawar\
+  [202507141208158120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208158120.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. P.R. Raut.\
+  [202507141206331720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206331720.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. P.R. Pawar\
+  [202507141206146520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206146520.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), regarding transfer request of Group-A cadre officer-Shri.CY Pawar\
+  [202507141208547020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208547020.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Shri.D.M. Mokate\
+  [202507141207370220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207370220.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), Group-A regarding transfer of post-Shri. Nikhil Kumar Oswal.\
+  [202507151108065520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108065520.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer (Selection Grade) (S-27), regarding extension of general transfer of Group-A cadre officers.\
+  [202507141205530220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141205530220.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer- Shri.S.M. Bhujbal\
+  [202507151107382720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151107382720.pdf)
+
+- Maharashtra Development Services, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre- Smt. D.S.Patil.\
+  [202507151108100920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108100920.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. Vishvash Sid.\
+  [202507141206385620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206385620.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), regarding the transfer request of Group-A cadre officer- Shri.D.B. Giri.\
+  [202507141208383320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208383320.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer-Shri. A.R. Jadhav\
+  [202507141207555920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207555920.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Shri.M.T. Chaudhar\
+  [202507141208134820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208134820.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. V. P. Solanke\
+  [202507141206216820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206216820.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), General Transfers of Officers in Group-A Cadre- Shri. A.S. Shengulvar\
+  [202507141206184520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206184520.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Shri.S.M. Shelar\
+  [202507141207051920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207051920.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre - Shri.C.M. Dhokane\
+  [202507141207521420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207521420.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer-Mr. R.S. Lahoti\
+  [202507141207204320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207204320.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Shri.P.K. Bhoyar\
+  [202507141207173620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207173620.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officers by transfer - Shri.M.V. Kapse\
+  [202507141208308020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208308020.pdf)
+
+- Regarding disbursement of funds for Tribal Component Program (TSP) under National Rural Livelihood Mission (NRLM) for the year 2025-26 (Corrigendum).\
+  [202507151447539120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151447539120...pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre- Shri.O.P.Yadav\
+  [202507141207485120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207485120.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), regarding extension of general transfer of officers in Group-A cadre.\
+  [202507141206015920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206015920.pdf)
+
+- Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2025-26(Corrigendum).\
+  [202507151448007220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151448007220.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), regarding the transfer request of Group-A Cadre Officer- Shri. J.A. Parab\
+  [202507141208513220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208513220.pdf)
+
+- Maharashtra Development Service, Group Development Officer (S-20), regarding request transfer of Group-A Cadre Officer-Shri. P.A. Sinare\
+  [202507151108215120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151108215120.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer-Shri. R.B. Bhalerao\
+  [202507141206476220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141206476220.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre- Shri.R.O. Bhagwat.\
+  [202507151107586220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151107586220.pdf)
+
+- Maharashtra Development Service, Additional Chief Executive Officer/Project Director (S-25), regarding transfer request of Group-A cadre officer-Shri.Sudhir B.Thombare\
+  [202507141208579720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141208579720.pdf)
+
+- General Transfer of Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A Cadre Officer - Smt.M.A. Desai\
+  [202507141207589420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141207589420.pdf)
+
+- Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre- Shri. Ganesh B. More\
+  [202507151107407120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151107407120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

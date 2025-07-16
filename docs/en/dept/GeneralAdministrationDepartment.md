@@ -10,6 +10,9 @@
 - Scheme for honouring/deserving honour to those who were imprisoned during the Emergency... Regarding payment of honorarium arrears to Shri. Maroti Ganapati Lokhande as per the decision of Honble High Court Bench, Aurangabad......\
   [202507141738566607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141738566607.pdf)
 
+- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of JUN and JUL, 2024\
+  [202507151501238207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151501238207.pdf)
+
 ## Miscellaneous
 - Regarding approval of revised Head of Account for Maharashtra State Service Rights Commission Office....\
   [202507141453138007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141453138007.pdf)

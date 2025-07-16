@@ -23,5 +23,8 @@
 - Regarding approval to allotment of plot number 4LA, 62,888 sq. ft. of land at M. Lendra, Khasra No. 142/2, to Dr. Abaji Thatte Seva Aur Anusandhan Sanstha by Nagpur Improvement Trust.\
   [202507141905488325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141905488325.pdf)
 
+- Regarding the State Government accepting contingent liability for the externally supported loan to be taken for the Mumbai Metro Route-5, 6, 7A, 9, 10 and 12 Metro Rail projects being implemented by the Mumbai Metropolitan Region Development Authority and approving the execution of the Project Agreement, Loan Agreement and Secondary Finance Agreement in accordance with the externally supported loan to be taken for the said project.\
+  [202507151520026425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151520026425.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

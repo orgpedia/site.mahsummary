@@ -11,5 +11,8 @@
 - Regarding distribution of financial assistance to beneficiaries of Special Assistance Scheme through DBT portal.\
   [202507141540451822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141540451822.pdf)
 
+- Regarding distribution of financial assistance to beneficiaries of Special Assistance Scheme through DBT portal.\
+  [202507151750275522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151750275522.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,11 +1,11 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 14 July 2025 - 19 July 2025
+**Date Range**: 21 July 2025 - 26 July 2025
 
 
-## Funds
-- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan in the Supe Sub-Market premises of Agricultural Produce Market Committee, Baramati District, Pune...\
-  [202507081759520302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507081759520302.pdf)
+## Miscellaneous
+- Regarding the formation of a committee for the implementation of various programs to be implemented in connection with the celebration of the International Year of Cooperation 2025...\
+  [202507151607231102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151607231102.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
