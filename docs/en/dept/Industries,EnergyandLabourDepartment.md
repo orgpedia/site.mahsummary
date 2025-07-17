@@ -3,6 +3,10 @@
 **Date Range**: 21 July 2025 - 26 July 2025
 
 
+## Funds
+- Regarding approval of budget for construction of Kamgar Bhavan (Administrative Building) at Akola.\
+  [202507161517331110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161517331110.pdf)
+
 ## Personnel
 - Regarding transfer and posting of Group-A (Gazetted) officer on the establishment of Directorate of Geology and Mines, Nagpur...\
   [202507141755104310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141755104310.pdf)

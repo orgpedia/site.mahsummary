@@ -3,6 +3,10 @@
 **Date Range**: 21 July 2025 - 26 July 2025
 
 
+## Miscellaneous
+- Regarding merging the previous services of the Water Resources Department with the services of the Public Works Department... Shri. Krunal Rajendra Pinjarkar, Executive Engineer.\
+  [202507161145137818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161145137818.pdf)
+
 ## Personnel
 - Posting - Sub Divisional Engineer (Civil)\
   [202507141610329918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141610329918.pdf)

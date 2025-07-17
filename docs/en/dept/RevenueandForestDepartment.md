@@ -7,6 +7,9 @@
 - Hyderabad Inams and Cash Grants Abolition (Amendment) Act, 2024 (Maharashtra Act No. 7 of 2025) - Amendments made to Section 2(A) and Section 6 of the Hyderabad Inams and Cash Grants Abolition Act, 1954\
   [202507151545510719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151545510719.pdf)
 
+- Regarding providing assistance to those affected due to the damage to agricultural crops and fruit crops caused by unseasonal rains and hailstorms in Solapur district during May, 2024 and heavy rains and floods in Sangli and Ahilyanagar districts during July, 2024 to October, 2024...\
+  [202507161708426519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161708426519.pdf)
+
 ## Miscellaneous
 - Regarding termination of deputation of officers in the Deputy Collector cadre.....\
   [202507141846437919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141846437919.pdf)
@@ -26,6 +29,21 @@
 - Regarding disposal of remaining sand in sand depot\
   [202507151548436719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151548436719.pdf)
 
+- Regarding the distribution of funds under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2025-26.\
+  [202507161310046419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161310046419.pdf)
+
+- Regarding continuation of the appointment of Shri. Sangetrao S. Patil, Retired, Justice, Bombay High Court, as Chairman, Village Remediation Authority, Sardar Sarovar Project, Nandurbar.\
+  [202507161527090819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161527090819.pdf)
+
+- To set a war room for publicity of schemes and programs implemented by the Revenue Department and updation of website of the department.\
+  [202507161123249819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161123249819.pdf)
+
+- Current Affairs Proposal under State Plan Year 2025-26 Establishment of Wildlife Rehabilitation Centre (2406 2232).\
+  [202507161655531719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161655531719.pdf)
+
+- Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme (2406-A185) for the year 2025-26.\
+  [202507161313268819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161313268819.pdf)
+
 ## Personnel
 - Regarding the constitution of a committee to amend the provisions of the Maharashtra Act, 1947 (Prevention of Disintegration of Holding Lands and their Consolidation).\
   [202507151648514719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151648514719.pdf)
@@ -35,6 +53,9 @@
 
 - Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List 2024-25)\
   [202507151209008219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151209008219.pdf)
+
+- Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
+  [202507161520514919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161520514919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

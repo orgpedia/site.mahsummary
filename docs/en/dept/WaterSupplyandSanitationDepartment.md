@@ -25,6 +25,43 @@
 - Revised Administrative approval to Mou. Palshet GP Palsan (Tal. Surgana, Dist. Nashik) water supply sceme Under JJM.\
   [202507141801188828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141801188828.pdf)
 
+- Revised Administrative approval to Mau.  Wadi Jaitapur, Tal. Khed, Dist. Ratnagiri (20008908) water supply scheme Under JJM.\
+  [202507161131221028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131221028.pdf)
+
+- Revised Administrative approval to Mau.  Kandoshi, Tal. Khed, Dist. Ratnagiri (20046269) water supply scheme Under JJM.\
+  [202507161131352828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131352828.pdf)
+
+- Revised Administrative approval to Mau.  Diwankhawati, Tal. Khed, Dist. Ratnagiri (20043885) water supply scheme Under JJM.\
+  [202507161131462428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131462428.pdf)
+
+- Revised Administrative approval to Mau.  Tale Chinchawadi, Tal. Khed, Dist. Ratnagiri (20046190) water supply scheme Under JJM.\
+  [202507161131170628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131170628.pdf)
+
+- Revised Administrative approval to Mau.  Chaughule Mohalla, Tal. Khed, Dist. Ratnagiri (20016394) water supply scheme Under JJM.\
+  [202507161131263028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131263028.pdf)
+
+- Revised Administrative approval to Mau.  Tise  Tise Khurd, Tal. Khed, Dist. Ratnagiri (20089177) water supply scheme Under JJM.\
+  [202507161131507828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131507828.pdf)
+
+- Revised Administrative approval to Mau.  Birmani, Tal. Khed, Dist. Ratnagiri (20073061) water supply scheme Under JJM.\
+  [202507161131112028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131112028.pdf)
+
+- Revised Administrative approval to Mau.  Varachi Humbari, Tal. Khed, Dist. Ratnagiri (20048199) water supply scheme Under JJM.\
+  [202507161131063628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131063628.pdf)
+
+- Revised Administrative approval to Mau.  Wadgaon Bu., Tal. Khed, Dist. Ratnagiri (20084628) water supply scheme Under JJM.\
+  [202507161131556328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131556328.pdf)
+
+- Revised Administrative approval to Mau.  Kulawandi Jambhulgaon, Tal. Khed, Dist. Ratnagiri (20040069) water supply scheme Under JJM.\
+  [202507161131311128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131311128.pdf)
+
+- Revised Administrative approval to Mau. Anasapure , Tal. Khed, Dist. Ratnagiri (20065346) water supply scheme Under JJM.\
+  [202507161132002928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161132002928.pdf)
+
+## Miscellaneous
+- Regarding regularization of daily wage services of Shri Chandraprakash Jagoji Shende, retired soldier, on the establishment of Ground Water Survey and Development Authority.\
+  [202507161318586728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161318586728.pdf)
+
 ## Personnel
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje- Khed, Tal. Lohara, Dist. Dharashiv (Scheme Code 20074262) under the Jal Jeevan Mission program.\
   [202507141441246828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141441246828.pdf)
@@ -82,6 +119,24 @@
 
 - Revised Administrative approval to Mou. Savargaon  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
   [202507141802286828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141802286828.pdf)
+
+- To grant Rerevised Administrative Approval to Mouje Borgaon aknak, Tq. Loha, Dist. Nanded (20020832)  Water supply Scheme under Jal Jeevan Mission.\
+  [202507161221495028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161221495028.pdf)
+
+- To grant Rerevised Administrative Approval to Mouje Rampurthadi, Tq. Biloli, Dist. Nanded (20078917)  Water supply Scheme under Jal Jeevan Mission.\
+  [202507161221584728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161221584728.pdf)
+
+- To grant Rerevised Administrative Approval to Mouje Masalaga, Tq. Kandhar, Dist. Nanded (20080769)  Water supply Scheme under Jal Jeevan Mission.\
+  [202507161221540428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161221540428.pdf)
+
+- To grant Rerevised Administrative Approval to Mouje Takli Kh., Tq. Biloli, Dist. Nanded (20080274)  Water supply Scheme under Jal Jeevan Mission.\
+  [202507161221444228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161221444228.pdf)
+
+- Revised Administrative approval to Mau.  Suseri, Tal. Khed, Dist. Ratnagiri (20044024) water supply scheme Under JJM.\
+  [202507161131398428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161131398428.pdf)
+
+- To grant Rerevised Administrative Approval to Mouje Kangathi, Tq. Biloli, Dist. Nanded (20079809)  Water supply Scheme under Jal Jeevan Mission.\
+  [202507161221395628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161221395628.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

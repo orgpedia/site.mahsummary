@@ -25,6 +25,18 @@
 - Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Late Bhagirathi Yashwantrao Pathrikar College of Pharmacy, Pathri, Phulambri\
   [202507141700154808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141700154808.pdf)
 
+- Regarding extension of final approval of new law college for academic year 2025-26.\
+  [202507161642377908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161642377908.pdf)
+
+- Regarding extension of final approval of new law college for academic year 2025-26.\
+  [202507161644199408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161644199408.pdf)
+
+- Government approval for starting new Post Graduate Degree courses/increasing the admission capacity of Post Graduate Degree/Degree courses in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Trinity College of Pharmacy, Pune\
+  [202507161800460808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161800460808.pdf)
+
+- Government approval to start a new Post Graduate Degree course in the existing Institute of Pharmacy from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. National College of Pharmacy, Hatnoor\
+  [202507161514546008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161514546008.pdf)
+
 ## Personnel
 - Provisional seniority list dated 01.01.2025 for the post of Junior Administrative Officer/Manager/Director, Group-B on the establishment of Directorate of Higher Education.\
   [202507141553233208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141553233208.pdf)

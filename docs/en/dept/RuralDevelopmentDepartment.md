@@ -10,12 +10,24 @@
 - Regarding allocation of funds with the department for the financial year 2025-2026 for the purchase of Electronic Voting Machines (EVM) for the elections of local bodies in the state.\
   [202507141257277320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141257277320.pdf)
 
+- Regarding administrative approval of the budget for development works to be carried out under Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class). Hazrat Sat Syed Pir Dargah, Nangole, Tal. Kavathemahankal, Dist. Sangli.\
+  [202507161843591620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161843591620.pdf.pdf)
+
+- Regarding giving administrative approval to the budget of development works to be carried out under Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class). Shri. Siddheshwar Temple, Salgare, Tal. Miraj, Dist. Sangli.\
+  [202507161843521020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161843521020.pdf.pdf)
+
 ## Miscellaneous
 - For the year 2025-26 Mahila Kisan Sashaktikaran Pariyojana Funding for Scheduled Caste (SCP) Category (Corrigendum).\
   [202507151448027120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151448027120.pdf)
 
 - Regarding granting administrative approval for the purchase of tabs, computers and other related materials for the office of the Honble Minister (Rural Development).\
   [202507151653078820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151653078820.pdf)
+
+- Opening of new account head for construction of new roads and bridges and upgradation of existing roads (especially vulnerable tribal groups) under Pradhan Mantri Janajati Adivasi Nyay Mahaabhiyan (PM-JANMAN) scheme with central share (60) and state share (40).\
+  [202507161237396820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161237396820.pdf.pdf)
+
+- Regarding the inclusion of non-plan roads in Maan Taluka (Dist-Satara)  as a Village Road in the Road Development Plan 2001-21.\
+  [202507161237289620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161237289620.pdf)
 
 ## Personnel
 - Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A cadre officials - Shri. J.N. Abhale\
@@ -239,6 +251,12 @@
 
 - Maharashtra Development Service, Deputy Chief Executive Officer (S-23), General Transfer of Officers in Group-A Cadre- Shri. Ganesh B. More\
   [202507151107407120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151107407120.pdf)
+
+- Regarding the reinstatement and posting of Shri. V.D. Londhe, Group Development Officer (S-20), Maharashtra Development Service, Group-A cadre.\
+  [202507161119094220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161119094220.pdf)
+
+- Regarding the transfer of Mr. A.R. Lokre, Block Development Officer (S-20), Maharashtra Development Service, Group-A cadre.\
+  [202507161119019120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161119019120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

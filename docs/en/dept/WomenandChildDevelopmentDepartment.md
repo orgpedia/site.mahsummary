@@ -13,5 +13,13 @@
 - Regarding Grant release for VCDC and UCDC scheme for FY 2025-26\
   [202507141046039630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141046039630.pdf)
 
+## Miscellaneous
+- Regarding cancellation of the recognition of Vidyadeep Balgruh (Girls) Chhatrapati Sambhajinagar, an institution run by Jyoti Society.\
+  [202507161700333630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161700333630.pdf)
+
+## Personnel
+- Regarding the appointment of a Single Nodal Agency to implement the alternative funding flow mechanism, SNA-SPARSH, for disbursing funds under the centrally sponsored scheme Mission Vatsalya.\
+  [202507161437490130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161437490130.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

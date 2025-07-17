@@ -23,5 +23,8 @@
 - Design, Supply, Installation, Testing and Commissioning of Prefabricated Packaged Hospital Liquid Waste Management System (PPHLWMS) Including all Civil, Mechanical, Electrical  Instrumentation in GMCH Ambajogai  Dist.Beed.\
   [202507151112323713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151112323713.pdf)
 
+- Regarding granting approval for the transportation and disposal of bio-medical solid waste through an external agency at Government Medical College and Hospital, Sindhudurg.\
+  [202507151219496813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151219496813.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
