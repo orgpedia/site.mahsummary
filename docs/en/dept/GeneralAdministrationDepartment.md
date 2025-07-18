@@ -29,5 +29,17 @@
 - Office attendance of Mantralaya officers/employees: regarding flexibility concession.\
   [202507161559372607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161559372607.pdf)
 
+- Regarding compassionate appointments under the 150-day program of the Honble Chief Minister.\
+  [202507171851489607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171851489607.pdf)
+
+- Regarding the adoption of a medical examination policy by officers and employees working in government service at the Directorate General of Information and Public Relations Headquarters and subordinate offices.\
+  [202507171615002107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171615002107.pdf)
+
+- Regarding the appointment of a committee and coordinator for the development of Vertiports in Maharashtra.\
+  [202507171637072707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171637072707.pdf)
+
+- Regarding granting administrative approval for renting one Xerox machine (black and white printing), Multifunctional Photocopier for the Sainik Welfare Department, Pune office.\
+  [202507171240196407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171240196407.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

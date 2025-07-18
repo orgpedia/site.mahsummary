@@ -17,5 +17,8 @@
 - Regarding distribution of financial assistance to beneficiaries of Special Assistance Scheme through DBT portal.\
   [202507151750275522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151750275522.pdf)
 
+- Regarding appointment of Coordination Officers and Single Coordination Mechanism for all missions under Centrally Sponsored Schemes for the purpose of SNA-SPARSH methodology.\
+  [202507171717533922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171717533922.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

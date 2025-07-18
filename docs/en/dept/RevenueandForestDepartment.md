@@ -44,6 +44,21 @@
 - Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme (2406-A185) for the year 2025-26.\
   [202507161313268819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161313268819.pdf)
 
+- Regarding distribution of funds for 36-Assistive Grants (Salary) under this scheme to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26 (2415-1077).\
+  [202507171826172819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171826172819.pdf)
+
+- Current Affairs Proposal under State Plan Year 2025-26 Nature Conservation and Wildlife Management (Programme) (2406 0775).\
+  [202507171424519319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171424519319.pdf)
+
+- Implementation of Artificial Sand Policy   The procedure to be done is fixed about doing\
+  [202507171857028719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171857028719.pdf)
+
+- Regarding taking criminal action under various laws/acts/rules in respect of unauthorized mining, use and transportation of sand and other minor minerals\
+  [202507171226109919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171226109919.pdf)
+
+- Regarding the affidavit to be filed by the District Collector and Land Acquisition Authority or their administrative department in judicial cases.\
+  [202507171828336519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171828336519.pdf)
+
 ## Personnel
 - Regarding the constitution of a committee to amend the provisions of the Maharashtra Act, 1947 (Prevention of Disintegration of Holding Lands and their Consolidation).\
   [202507151648514719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151648514719.pdf)
@@ -56,6 +71,9 @@
 
 - Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202507161520514919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161520514919.pdf)
+
+- Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
+  [202507171934403319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171934403319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

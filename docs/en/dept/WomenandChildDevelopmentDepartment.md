@@ -13,6 +13,9 @@
 - Regarding Grant release for VCDC and UCDC scheme for FY 2025-26\
   [202507141046039630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141046039630.pdf)
 
+- Regarding granting 100 percent benefit for education fees and examination fees to orphaned children/girls...\
+  [202507171212006730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171212006730.pdf)
+
 ## Miscellaneous
 - Regarding cancellation of the recognition of Vidyadeep Balgruh (Girls) Chhatrapati Sambhajinagar, an institution run by Jyoti Society.\
   [202507161700333630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161700333630.pdf)

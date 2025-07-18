@@ -258,5 +258,11 @@
 - Regarding the transfer of Mr. A.R. Lokre, Block Development Officer (S-20), Maharashtra Development Service, Group-A cadre.\
   [202507161119019120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161119019120.pdf)
 
+- Regarding the ad hoc promotion of officers in the cadre of Assistant Group Development Officer (S-16) Group-B to Group Development Officer (S-20), in the Maharashtra Development Service, Group-A.  (Selection Year 2023-24)\
+  [202507171632455920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171632455920.pdf)
+
+- Regarding publication of the final seniority as on 01.01.2024 of the officers working from 01.01.2023 to 31.12.2023 in the cadre of Block Development Officer, Group-A in Maharashtra Development Service.\
+  [202507171632510420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171632510420.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

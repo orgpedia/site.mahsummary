@@ -19,6 +19,12 @@
 - Regarding granting administrative approval to the Central Government sponsored Amrut 2.0 Mission of Lonar Municipal Council water supply project. (Rs. 27.45 crore)\
   [202507141810147525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141810147525.pdf)
 
+- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3 (MUTP-3) (FY 2025-26)\
+  [202507171521461925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171521461925.pdf)
+
+- Regarding provision of State Government financial assistance to Mumbai Railway Development Corporation for Mumbai Urban Transport Project Phase-3A (MUTP-3A) project (Year 2025-26)\
+  [202507171520061125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171520061125.pdf)
+
 ## Miscellaneous
 - Regarding approval to allotment of plot number 4LA, 62,888 sq. ft. of land at M. Lendra, Khasra No. 142/2, to Dr. Abaji Thatte Seva Aur Anusandhan Sanstha by Nagpur Improvement Trust.\
   [202507141905488325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141905488325.pdf)

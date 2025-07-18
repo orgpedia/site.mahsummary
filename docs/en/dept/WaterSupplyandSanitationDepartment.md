@@ -58,6 +58,9 @@
 - Revised Administrative approval to Mau. Anasapure , Tal. Khed, Dist. Ratnagiri (20065346) water supply scheme Under JJM.\
   [202507161132002928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161132002928.pdf)
 
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Mangli, Gram Panchayat Kinhi Dhanoli, Taluka Hingna, District Nagpur (Scheme Code 20080791) under the Jal Jeevan Mission program.\
+  [202507171426460228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171426460228.pdf)
+
 ## Miscellaneous
 - Regarding regularization of daily wage services of Shri Chandraprakash Jagoji Shende, retired soldier, on the establishment of Ground Water Survey and Development Authority.\
   [202507161318586728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161318586728.pdf)
@@ -137,6 +140,18 @@
 
 - To grant Rerevised Administrative Approval to Mouje Kangathi, Tq. Biloli, Dist. Nanded (20079809)  Water supply Scheme under Jal Jeevan Mission.\
   [202507161221395628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161221395628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Gavandi, Taluka Karanja, Dist. Wardha (Scheme Code 20027950) under the Jal Jeevan Mission program.\
+  [202507171426404528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171426404528.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Adam, Gram Panchayat Adam, Taluka Kuhi, District Nagpur (Scheme Code 20071537) under the Jal Jeevan Mission program.\
+  [202507171426578628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171426578628.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Girola, Gram Panchayat Metaumri, Taluka Hingna, District Nagpur (Scheme Code 20080793) under the Jal Jeevan Mission program.\
+  [202507171426516228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171426516228.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kandri (Kanhan), Taluka Parshivani, Dist. Nagpur (Scheme Code 20083610) under the Jal Jeevan Mission program\
+  [202507171123451428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171123451428.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

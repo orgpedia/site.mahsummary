@@ -7,6 +7,12 @@
 - Regarding merging the previous services of the Water Resources Department with the services of the Public Works Department... Shri. Krunal Rajendra Pinjarkar, Executive Engineer.\
   [202507161145137818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161145137818.pdf)
 
+- Regarding merging the previous service of Water Resources Department with the service of Public Works Department... Shri. Shivprasad Purushottam Bagdi, Superintending Engineer.\
+  [202507171612103718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171612103718.pdf)
+
+- Regarding merging the previous service of Water Resources Department with the service of Public Works Department... Shri. Pankajkumar Dattatray Metkar, Executive Engineer.\
+  [202507171610354218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171610354218.pdf)
+
 ## Personnel
 - Posting - Sub Divisional Engineer (Civil)\
   [202507141610329918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141610329918.pdf)
@@ -31,6 +37,9 @@
 
 - Transfer/posting of officers in the Executive Engineer (Civil) cadre.\
   [202507151733060318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151733060318.pdf)
+
+- Transfer/Posting order of Deputy Engineer(Civil), Public Works Department.\
+  [202507171757528918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171757528918.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

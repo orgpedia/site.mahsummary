@@ -7,6 +7,9 @@
 - To release grant for the scheme of Grants-in-aid to Voluntary Agencies for running Ashramshla and Post Basic Ashramshalas under the TSP in financial year 2025-26.\
   [202507161209221924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161209221924.pdf)
 
+- To release grant for the scheme of Grant-in-aid to Krishi Vidyapeeth under the TSP in finincial year 2025-26.  CRC 2401 8291\
+  [202507171057369224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171057369224.pdf)
+
 ## Miscellaneous
 - To release grant for the scheme of Bhausaheb Phundkar Horticulture Plantation Scheme under the TSP in financial year 2025-26. CRC 2401 A898\
   [202507161209283724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161209283724.pdf)
