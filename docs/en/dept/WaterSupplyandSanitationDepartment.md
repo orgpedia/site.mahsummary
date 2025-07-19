@@ -153,5 +153,8 @@
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Kandri (Kanhan), Taluka Parshivani, Dist. Nagpur (Scheme Code 20083610) under the Jal Jeevan Mission program\
   [202507171123451428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171123451428.pdf)
 
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje Galane, Tal. Malegaon, Dist. Nashik under the Jal Jeevan Mission program.\
+  [202507181456258428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181456258428.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

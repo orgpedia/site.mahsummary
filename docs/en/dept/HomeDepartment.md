@@ -26,6 +26,9 @@
 - regarding approval to enter into a lease agreement for the period from 14.03.2025 to 13.03.2026 regarding a total area of 10469 sq. ft. at World Trade Center, Mumbai for the office under the control of Additional Director General of Police (M.R. Cyber), Mumbai.\
   [202507171228427929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171228427929.pdf)
 
+- Regarding amendment in the Government decision dated August 21, 2024 regarding Review of service of officers in the cadre of Assistant Regional Transport Officer (Group-A) and Motor Vehicle Inspector (Group-B) in the Transport Department after the age of 50/55 years.\
+  [202507181733503829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181733503829.pdf)
+
 ## Personnel
 - Regarding creation of majority posts in the establishments of the units under the jurisdiction of the Director General of Police, Mumbai, in the police department who were appointed from the Scheduled Tribe category but could not submit caste certificate.\
   [202507141751230729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141751230729.pdf)

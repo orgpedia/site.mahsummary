@@ -11,5 +11,9 @@
 - Requisition No. ZH-5, Account Head 4702 A 019 Pazar Talobar No. 07, Mouje Vilhadi (Mhasla), Tal. Badnapur Dist. Jalna (Land Acquisition Fund)\
   [202507151752505926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151752505926.pdf)
 
+## Personnel
+- Regarding the declaration of Drawing and Disbursing Officer for Maharashtra State Cyber Treasury under the centrally sponsored scheme of Census of Small Irrigation Schemes.\
+  [202507181747451126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181747451126.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

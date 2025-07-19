@@ -13,6 +13,9 @@
 - Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of JUN and JUL, 2024\
   [202507151501238207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151501238207.pdf)
 
+- Supplementary Statement of Expenditure for the year 2025-26 presented in the June-July, 2025 session of the Legislative Assembly.\
+  [202507181602344407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181602344407.pdf)
+
 ## Miscellaneous
 - Regarding approval of revised Head of Account for Maharashtra State Service Rights Commission Office....\
   [202507141453138007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141453138007.pdf)
@@ -40,6 +43,15 @@
 
 - Regarding granting administrative approval for renting one Xerox machine (black and white printing), Multifunctional Photocopier for the Sainik Welfare Department, Pune office.\
   [202507171240196407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171240196407.pdf)
+
+- Regarding constitution of a committee for examining the feasibility of keeping staggered office timings of offices under the command of the State Government, located in Mumbai City and Mumbai Suburban districts.\
+  [202507181505067407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181505067407.pdf)
+
+- Regarding amendment in the rules regarding administration of Chief Ministers Charitable Donation Fund.\
+  [202507181607172107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181607172107.pdf)
+
+- Appointment Order of Regional Departmental Inquiry Officer, Amravati division, Amravati.\
+  [202507181533556907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181533556907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

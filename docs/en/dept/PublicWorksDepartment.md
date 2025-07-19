@@ -41,5 +41,14 @@
 - Transfer/Posting order of Deputy Engineer(Civil), Public Works Department.\
   [202507171757528918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171757528918.pdf)
 
+- Regarding partial change in posting of officers in the Deputy Engineer (Civil) cadre.\
+  [202507181737448818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181737448818.pdf)
+
+- Regarding cancellation of transfer. Deputy Engineer (Civil)\
+  [202507181736121318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181736121318.pdf)
+
+- Transfer/Posting order of Shri.Balaji M. Pawar, Sub Divisional Officer(Civil), Public Works Department.\
+  [202507181739080418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181739080418.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

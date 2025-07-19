@@ -7,6 +7,10 @@
 - Regarding granting administrative approval for payment of pending rent of the offices of Deputy Controller, Legal Metrology, Solapur District and Inspector, Legal Metrology, Solapur-1 to 4 Divisions.\
   [202507151304231706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151304231706.pdf)
 
+## Miscellaneous
+- Regarding declaration of Drawing and Disbursing Officer as Virtual Personal Deposit Account Administrator (VPDA) for speedy disbursement and monitoring of Subsidiary Grants.\
+  [202507181232382806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181232382806.pdf)
+
 ## Personnel
 - Regarding the appointment of Shri. Ashok Atram, Joint Secretary, as Member Secretary of the State Food Commission.\
   [202507151720194506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151720194506.pdf)

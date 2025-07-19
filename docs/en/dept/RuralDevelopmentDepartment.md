@@ -16,6 +16,15 @@
 - Regarding giving administrative approval to the budget of development works to be carried out under Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class). Shri. Siddheshwar Temple, Salgare, Tal. Miraj, Dist. Sangli.\
   [202507161843521020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161843521020.pdf.pdf)
 
+- Regarding distribution of funds for the development plan works of the pilgrimage site of Umri and Pohradevi, Tal. Manora, District Washim.\
+  [202507181307177720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181307177720.pdf)
+
+- Regarding distribution of funds for development works in the development plan of the pilgrimage site of Shri Sant Sevalal Maharaj, Pohradevi, Tal. Manora, Dist. Washim.\
+  [202507181204309920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181204309920.pdf)
+
+- Regarding granting administrative approval for the necessary works at the memorial of the late freedom fighter Pandu Master alias Pandurang Govind Patil at Mouje Yedenipani, Taluka Walwa, District Sangli.\
+  [202507181204288420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181204288420.pdf)
+
 ## Miscellaneous
 - For the year 2025-26 Mahila Kisan Sashaktikaran Pariyojana Funding for Scheduled Caste (SCP) Category (Corrigendum).\
   [202507151448027120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151448027120.pdf)
@@ -28,6 +37,9 @@
 
 - Regarding the inclusion of non-plan roads in Maan Taluka (Dist-Satara)  as a Village Road in the Road Development Plan 2001-21.\
   [202507161237289620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161237289620.pdf)
+
+- Administrative Approval for Construction of  Karad Panchayat Samiti New Administrative Building (Dist. Satara)\
+  [202507181204029220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181204029220.pdf)
 
 ## Personnel
 - Maharashtra Development Service, Deputy Chief Executive Officer (S-23), Group-A cadre officials - Shri. J.N. Abhale\
