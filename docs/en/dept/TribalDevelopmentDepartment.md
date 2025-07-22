@@ -1,18 +1,18 @@
 # Tribal Development Department
 
-**Date Range**: 21 July 2025 - 26 July 2025
+**Date Range**: 28 July 2025 - 02 August 2025
 
 
 ## Funds
-- To release grant for the scheme of Grants-in-aid to Voluntary Agencies for running Ashramshla and Post Basic Ashramshalas under the TSP in financial year 2025-26.\
-  [202507161209221924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161209221924.pdf)
+- Regarding the distribution of funds under the Tribal Component Program for the year 2025-26 under the account head (4225 0532) for the construction of English medium ashram schools.\
+  [202507211741581324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211741581324.pdf)
 
-- To release grant for the scheme of Grant-in-aid to Krishi Vidyapeeth under the TSP in finincial year 2025-26.  CRC 2401 8291\
-  [202507171057369224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171057369224.pdf)
+- Regarding the distribution of funds under the Tribal Component Program for the year 2025-26 under the Construction of Government Ashram Schools (TSP) Account Head (4225 1109).\
+  [202507211734361724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211734361724.pdf)
 
 ## Miscellaneous
-- To release grant for the scheme of Bhausaheb Phundkar Horticulture Plantation Scheme under the TSP in financial year 2025-26. CRC 2401 A898\
-  [202507161209283724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161209283724.pdf)
+- Regarding the distribution of funds under the Tribal Component Program for the year 2025-26 under the Government Ashram School Construction (OTSP) Account Head (4225 1118).\
+  [202507211738396624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211738396624.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
