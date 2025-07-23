@@ -7,5 +7,8 @@
 - Regarding granting administrative approval to purchase necessary items such as bed sheets, bed sheets, blankets, pillows, pillow covers and mattresses for the admitted students of Government Residential School Mhaswad, Taluka Man, District Satara under the Social Justice Department.\
   [202507211457330822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211457330822.pdf)
 
+- Regarding approval to spend the funds budgeted for the year 2025-26 under the scheme to provide margin money to the Scheduled Castes and Neo-Buddhist communities under the governments Stand Up India scheme...\
+  [202507221536389822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221536389822.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

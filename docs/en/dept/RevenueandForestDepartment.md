@@ -7,6 +7,9 @@
 - To extend the period for deposit amount of Stamp Duty and Penalty under Maharashtra Stamp Duty Amnesty Scheme 2023...\
   [202507211526116319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211526116319.pdf)
 
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by unseasonal rains and hailstorms in various districts of the state from February 2025 to May 2025...\
+  [202507221519054419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221519054419.pdf)
+
 ## Miscellaneous
 - Forest Land- Nagpur Diversion of 87.351 ha. of forests for the Gondkhairi Underground Coal Mine project at Village-Gondkhairi, Tah. Kalmeshwar, Dist. Nagpur in favour of M/s. Adani Power Maharashtra Ltd., in the State of Maharashtra.\
   [202507211718222919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211718222919.pdf)
@@ -20,12 +23,18 @@
 - Regarding allotment of districts for training to the candidates recommended for the post of Tehsildar through State Services Examination-2022 under the Combined Probationary Training Programme-10 (CPTP-10)...\
   [202507211832394419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211832394419.pdf)
 
+- Regarding appointment of a member on the Maharashtra State Wildlife Board.\
+  [202507221450286719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221450286719.pdf)
+
 ## Personnel
 - Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202507211748526519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211748526519.pdf)
 
 - Regarding transfer requests of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202507211746231119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211746231119.pdf)
+
+- Regarding approval to sanction funds to provide assistance at a special rate to citizens affected by natural disasters such as heavy rains and floods during the period from June, 2024 to October, 2024.... (Residual assistance) Minus (-) on the authorization letter\
+  [202507221516109219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221516109219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -21,5 +21,8 @@
 - Maharashtra Development Service, Group Development Officer (S-20), regarding the posting of officers in the cadre of Group-A- Shri. A.S. Kadam.\
   [202507211703292420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211703292420.pdf)
 
+- State-level consolidated provisional seniority list of Assistant Accounts Officers in District Technical Service, Class-3 (Accounts) cadre in Zilla Parishad as on 01.01.2025.\
+  [202507221121438920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221121438920.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
