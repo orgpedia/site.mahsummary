@@ -26,6 +26,9 @@
 - Regarding appointment of a member on the Maharashtra State Wildlife Board.\
   [202507221450286719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221450286719.pdf)
 
+- Regarding allotment of districts for training to candidates recommended through State Services Examination-2022 under Probationary Training Program-10 (CPTP-10)...\
+  [202507231344412019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231344412019.pdf)
+
 ## Personnel
 - Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202507211748526519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211748526519.pdf)
@@ -35,6 +38,9 @@
 
 - Regarding approval to sanction funds to provide assistance at a special rate to citizens affected by natural disasters such as heavy rains and floods during the period from June, 2024 to October, 2024.... (Residual assistance) Minus (-) on the authorization letter\
   [202507221516109219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221516109219.pdf)
+
+- Regarding the posting of Assistant Conservator of Forests, Group-A cadre officers.\
+  [202507231155548119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231155548119....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

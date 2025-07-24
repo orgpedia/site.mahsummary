@@ -16,9 +16,15 @@
 - Regarding submission of performance appraisal reports of government officers/employees online in the Mahapar system under the 150-day Sevakarmi program of the Honble Chief Minister.\
   [202507221656079007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221656079007.pdf)
 
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Smt. Rohini P. Jadhav, Deputy Secretary\
+  [202507231627433307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231627433307.pdf)
+
 ## Personnel
 - Appointment of new member on Monitoring Committee under Chief Secretary for monitoring inquiry of Sexual Harassment complaints against All India Services Officers- Regarding.\
   [202507221225342707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221225342707.pdf)
+
+- Cancel Transfer Order-, Smt. Rohini P. Jadhav, Deputy Secretary\
+  [202507231630405607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231630405607.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,33 +1,36 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 21 July 2025 - 26 July 2025
+**Date Range**: 28 July 2025 - 02 August 2025
 
 
 ## Funds
-- Regarding approval of the lowest bid and financial approval for the work of microphotography of records in the Directorate of Archives...\
-  [202507171527519723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171527519723.pdf)
+- Regarding organizing a cultural program on the occasion of Maharashtra Day on May 1st and granting financial approval for the expenses incurred for the same.\
+  [202507231747029323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231747029323.pdf)
 
-- Regarding approval of the organization and expenditure of the training workshop on Archives Management Science organized by the Directorate of Archives, Mumbai.\
-  [202507171523596823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171523596823.pdf)
+- Regarding organizing a cultural program on the occasion of the 368th birth anniversary of the protector of Swarajya, Dharmaveer Chhatrapati Sambhaji Maharaj and granting financial approval for the expenses incurred thereon.\
+  [202507231800311923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231800311923.pdf)
 
-- Regarding financial approval for organizing social awareness cultural programs on the occasion of Dhamma Chakra Parivartan Day.\
-  [202507181612368623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181612368623.pdf)
+- Regarding financial approval for the expenses incurred for the cultural program Abhangwani in Pandharpur Wari, the cultural glory of Maharashtra.\
+  [202507231758252923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231758252923.pdf)
 
-- Regarding the organization of the cultural program Jagar Samvidhanachha Gaurav Vishwaratna Dr. Babasaheb on the occasion of Dr. Babasaheb Ambedkars birth anniversary and granting financial approval for the expenditure on it.\
-  [202507181610416623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181610416623....pdf)
+- Regarding financial approval for the expenses of organizing the grand closing ceremony of the 300th birth anniversary of Punyashloka Ahilyadevi Holkar.\
+  [202507231740495023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231740495023.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative and financial approval for the expenditure incurred for providing services through external mechanisms at the establishments of Maharashtra State Hindi, Sindhi, Gujarati, Sanskrit, Telugu, Bengali and Gor Banjara Sahitya Akademi\
-  [202507141455291823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141455291823.pdf)
+- Regarding the transfer of 08 archaeological relics under the jurisdiction of the Directorate of Archaeology and Museums to Chhatrapati Shivaji Maharaj Museum, Mumbai on a grant basis...\
+  [202507231557583323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231557583323.pdf)
 
-- Regarding the appointment of a special planning authority for the construction of Maharashtra State Museum and Cultural Building...\
-  [202507171544595423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171544595423.pdf)
+- Regarding approval of B-1 tender for conservation and repair work of the monument Gokul Darwaza, Tal. Ramtek, Dist. Nagpur...\
+  [202507231556289523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231556289523.pdf)
 
-- Regarding the declaration of Mumbai Metropolitan Region Development Authority (MMRDA) as the Special Planning Authority (Implementing Agency) for the construction of Maharashtra Purabhilekh Bhavan...\
-  [202507171526015023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507171526015023.pdf)
+- Regarding approval of B-1 tender for conservation and repair work of the monument Kewal Shirpur Darwaza, Tal. Ramtek, Dist. Nagpur...\
+  [202507231554597423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231554597423.pdf)
 
-- Regarding the establishment of an Internal Complaints Committee to investigate complaints received from women regarding sexual harassment at the workplace and recommend action accordingly.\
-  [202507181050359823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181050359823.pdf)
+- Regarding financial approval for the expenses incurred for organizing the Mulund Festival, a cultural event.\
+  [202507231743115623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231743115623.pdf)
+
+- Regarding organizing a cultural program on the occasion of the 368th birth anniversary of the protector of Swarajya, Dharmaveer Chhatrapati Sambhaji Maharaj and granting financial approval for the expenses incurred thereon.\
+  [202507231755456423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231755456423.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
