@@ -17,6 +17,9 @@
 - Approval for Construction of Gram Panchayat Buildings for Gram Panchayats in Satara District under the Hon. Balasaheb Thackeray Smruti Matoshri Gram Panchayat Bandhni Yojana\
   [202507231254090720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231254090720.pdf)
 
+- Regarding granting special approval to entrust the insurance of contractual works and workers compensation under the Department of Rural Development and Panchayati Raj to a nationalized insurance company for the purpose of ensuring prompt and localized service.\
+  [202507241050567320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241050567320.pdf)
+
 ## Personnel
 - Regarding the transfer of Shri. P.N. Wankhede, Group Development Officer (S-20), Group-A cadre, Maharashtra Development Service.\
   [202507211703271020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211703271020.pdf)

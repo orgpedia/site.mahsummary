@@ -10,5 +10,8 @@
 - Regarding granting of second revised administrative approval for Padmalaya-2 Upsa Irrigation Scheme, Erandol Taluka, Jalgaon District.\
   [202507231523384027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231523384027.pdf)
 
+- Regarding permission for construction of new bridges on irrigation system canals/distributors of existing irrigation projects.\
+  [202507241713487427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241713487427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

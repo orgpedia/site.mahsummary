@@ -14,5 +14,8 @@
 - Regarding granting administrative approval for the repair and renovation work of the office of Parashuram Economic Development Corporation.\
   [202507231258052016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231258052016.pdf)
 
+- Women Grievance Redressal Committee of Planning Department\
+  [202507241655302016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241655302016.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

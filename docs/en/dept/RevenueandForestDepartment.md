@@ -10,6 +10,9 @@
 - Regarding providing assistance to those affected by the damage to agricultural crops caused by unseasonal rains and hailstorms in various districts of the state from February 2025 to May 2025...\
   [202507221519054419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221519054419.pdf)
 
+- Regarding granting administrative approval to the Medium Term Plan of works to be implemented under the Maharashtra Responsive Development Programme (MRDP).\
+  [202507241823286819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241823286819.pdf)
+
 ## Miscellaneous
 - Forest Land- Nagpur Diversion of 87.351 ha. of forests for the Gondkhairi Underground Coal Mine project at Village-Gondkhairi, Tah. Kalmeshwar, Dist. Nagpur in favour of M/s. Adani Power Maharashtra Ltd., in the State of Maharashtra.\
   [202507211718222919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211718222919.pdf)
@@ -29,6 +32,12 @@
 - Regarding allotment of districts for training to candidates recommended through State Services Examination-2022 under Probationary Training Program-10 (CPTP-10)...\
   [202507231344412019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231344412019.pdf)
 
+- Forest Land-Pune Diversion of 0.066 ha. Reserved Forest land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of approach road for Navsahyadri Education Society at Village Kelavade, Tal. Bhor, Dist. Pune in the State of Maharashtra.\
+  [202507241658214619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241658214619.pdf)
+
+- Forest Land-Sangli Re-diversion of 0.0215 ha. Forest Land for laying of underground Optical Fiber Cable within RoW of existing road of Kasegaon-Girajvade-Nathavade in District Sangli in the State of Maharashtra.\
+  [202507241329570919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241329570919.pdf)
+
 ## Personnel
 - Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202507211748526519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211748526519.pdf)
@@ -41,6 +50,9 @@
 
 - Regarding the posting of Assistant Conservator of Forests, Group-A cadre officers.\
   [202507231155548119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231155548119....pdf)
+
+- Forest Land-Pune Diversion of 0.94 ha. Forest land under section-2 of Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of two lane SH-54 Bhigwan - Baramati Road (Chainage Km 145000 to Km 173166) under Maharashtra Road Improvement Programme.\
+  [202507241659517319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241659517319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

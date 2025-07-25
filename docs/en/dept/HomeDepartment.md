@@ -13,6 +13,12 @@
 - Reorganizing the Police Deputy Commissioner Zone-1, Vashi and Police Deputy Commissioner Zone-2, Panvel on the establishment of the Commissioner of Police, Navi Mumbai to create a new Police Deputy Commissioner Zone-1, Vashi, Police Deputy Commissioner Zone-2, Belapur and Police Deputy Commissioner Zone-3, Panvel and creating a total of 03 new posts of Police Deputy Commissioner-01 and Assistant Police Commissioner-02 for the said new Zone No. 02 Belapur, and approving the recurring and non-recurring expenses incurred accordingly.\
   [202507231831379529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231831379529.pdf)
 
+- Regarding creation of a total of 03 new posts namely Deputy Commissioner of Police-01 post for Circle-06, Assistant Police Commissioner-02 posts (for Kalamana and Pardi Division) on the establishment of Commissioner of Police, Nagpur City, and approval of the recurring and non-recurring expenses incurred accordingly.\
+  [202507241707298229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241707298229.pdf)
+
+- Regarding the creation of a total of 285 new posts for the Navi Mumbai International Airport Immigration Check Post on the premises of the Commissioner of Police, Navi Mumbai and approval of the recurring expenditure incurred accordingly.\
+  [202507241709358929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241709358929.pdf)
+
 ## Miscellaneous
 - Dual Feed Policy For Ethanol Production\
   [202507231819263829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231819263829.pdf)

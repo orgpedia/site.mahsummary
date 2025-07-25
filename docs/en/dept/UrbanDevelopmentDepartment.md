@@ -35,6 +35,9 @@
 - Regarding the inclusion of employees of the then Gram Panchayat in the newly formed Municipal Council / Nagar Panchayat.\
   [202507231336529625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231336529625.pdf)
 
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban an amount of Rs.10.00 crore (Corrigendum)\
+  [202507241828375825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241828375825.pdf)
+
 ## Personnel
 - Regarding the recognition of the Brihanmumbai Municipal Corporations MCGM Center for Municipal Capacity Building and Research (M.C.M.C.R.) as a state-level Special Training Center\
   [202507211539011225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211539011225.pdf)

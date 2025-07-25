@@ -16,6 +16,9 @@
 - Regarding financial approval for the expenses of organizing the grand closing ceremony of the 300th birth anniversary of Punyashloka Ahilyadevi Holkar.\
   [202507231740495023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231740495023.pdf)
 
+- Regarding financial approval of the eligible names and grant amount for the book publication grant scheme of Maharashtra State Sindhi Sahitya Academy.\
+  [202507241721240023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241721240023.pdf)
+
 ## Miscellaneous
 - Regarding the transfer of 08 archaeological relics under the jurisdiction of the Directorate of Archaeology and Museums to Chhatrapati Shivaji Maharaj Museum, Mumbai on a grant basis...\
   [202507231557583323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231557583323.pdf)
@@ -31,6 +34,9 @@
 
 - Regarding organizing a cultural program on the occasion of the 368th birth anniversary of the protector of Swarajya, Dharmaveer Chhatrapati Sambhaji Maharaj and granting financial approval for the expenses incurred thereon.\
   [202507231755456423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231755456423.pdf)
+
+- Regarding financial approval of the eligible names and grant amount for the book publication grant scheme of Maharashtra State Gujarati Sahitya Academy.\
+  [202507241724250523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241724250523.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

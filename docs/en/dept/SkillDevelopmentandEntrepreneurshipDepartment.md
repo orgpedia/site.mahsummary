@@ -11,5 +11,11 @@
 - Regarding the declaration of the Office Head and Drawing and Disbursing Officer of the Government Higher Industrial Training Institute for Scheduled Caste and Neo-Buddhist children, Chembur, Dist. Mumbai Suburban.\
   [202507211307417903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211307417903.pdf)
 
+- Regarding issuance of Letter of Intent (LOI) to start a new vocational course in the existing institution Don Bosco Private Industrial Training Institute, Kurla...\
+  [202507241746018603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241746018603.pdf)
+
+- Regarding allowing 100 percent reimbursement of training fees to disabled trainees in government and private industrial training institutions.\
+  [202507241743060803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241743060803....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
