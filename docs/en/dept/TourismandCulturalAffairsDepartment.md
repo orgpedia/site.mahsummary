@@ -19,6 +19,9 @@
 - Regarding financial approval of the eligible names and grant amount for the book publication grant scheme of Maharashtra State Sindhi Sahitya Academy.\
   [202507241721240023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241721240023.pdf)
 
+- Regarding approval of grant scheme experimental grant for new drama productions to drama production institutions.\
+  [202507251525230323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251525230323.pdf)
+
 ## Miscellaneous
 - Regarding the transfer of 08 archaeological relics under the jurisdiction of the Directorate of Archaeology and Museums to Chhatrapati Shivaji Maharaj Museum, Mumbai on a grant basis...\
   [202507231557583323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231557583323.pdf)

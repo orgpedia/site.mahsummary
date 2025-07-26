@@ -31,12 +31,39 @@
 - Release of State Government Sub-ordinate Loan for Mumbai Metro-2B (D.N.Nagar- Mandale) Project to Mumbai Metropolitan Region Development Authority.  (FY 2025-26)\
   [202507231557081925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231557081925.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Metropolitan Municipality Area. For the year 2025-26 (MH2217 0913) For Nashik Municipal Corporation, Dist. Nashik Amount Rs. 2.00 Crore (Corrigendum)\
+  [202507251316009925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251316009925.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in the Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, District Nashik, an amount of Rs. 2.00 crore (Corrigendum)\
+  [202507251327357125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251327357125.pdf)
+
+- Regarding the distribution of funds under the scheme Development of basic facilities in the Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, Dist. Nashik, an amount of Rs. 1.00 crore\
+  [202507251556245825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251556245825.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Corporation Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, District Nashik, an amount of Rs. 2.00 crore (Corrigendum)\
+  [202507251324359125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251324359125.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2023-24 (MH 4217 0541) For Nashik Municipal Corporation, District Nashik, an amount of Rs. 9.60 crore (Corrigendum)\
+  [202507251322455525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251322455525.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24, under the account head (4217 0603), the amount for Peth Nagar Panchayat, District Nashik is Rs. 5.00 crore. For Dindori Nagar Panchayat, District Nashik, the amount is Rs. 5.00 crore. Total amount is Rs. 10.00 crore (Corrigendum)\
+  [202507251319389125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251319389125.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of employees of the then Gram Panchayat in the newly formed Municipal Council / Nagar Panchayat.\
   [202507231336529625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231336529625.pdf)
 
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban an amount of Rs.10.00 crore (Corrigendum)\
   [202507241828375825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241828375825.pdf)
+
+- Regarding the implementation of street lighting system in all urban local self-government bodies in the state...\
+  [202507251759525425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251759525425.pdf)
+
+- Regarding depositing funds of Urban Local Self-Government Organizations under the Centrally Sponsored Amrut 2.0 Mission in the Head of Accounts. (Corrigendum)\
+  [202507251605316325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251605316325.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation Dist. Nashik (State Government share to be 100)\
+  [202507251313087425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251313087425.pdf)
 
 ## Personnel
 - Regarding the recognition of the Brihanmumbai Municipal Corporations MCGM Center for Municipal Capacity Building and Research (M.C.M.C.R.) as a state-level Special Training Center\

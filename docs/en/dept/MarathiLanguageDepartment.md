@@ -11,5 +11,8 @@
 - Date 03 October shall be observed as Classical Marathi Language Day and the period from 03 October to 09 October shall be observed as Classical Marathi Language Week every year, along with the following guidelines.\
   [202507211125325033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211125325033.pdf)
 
+- Regarding regularization of temporary promotion to the post of Deputy Director of Languages (Translation and Terminology) Group-A in the establishment of the Directorate of Languages.\
+  [202507251434363833.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251434363833.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

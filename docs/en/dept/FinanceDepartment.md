@@ -14,6 +14,12 @@
 - Under the Financial Powers Manual, 1978 (Part-2), the administrative and financial powers to sanction various types of expenses required for the representatives of the State Goods and Services Tax Department on the Goods and Services Tax Appellate Tribunal are conferred on the State Tax Commissioner, Goods and Services Tax Department.....\
   [202507221757507905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221757507905.pdf)
 
+- Regarding conferring the status of Member Secretary, Sixth Maharashtra Finance Commission as Ex-officio Secretary, Government of Maharashtra....\
+  [202507241818197505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241818197505.pdf)
+
+- Regarding amendment in the specimen of final pay certificate prescribed under the annexure attached to Schedule 12 of Volume-2 of Maharashtra Treasury Rules, 1968.....\
+  [202507251736002205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251736002205.pdf)
+
 ## Personnel
 - Regarding creation of posts for the work of the 6th Maharashtra Finance Commission.\
   [202507211633544705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211633544705.pdf)

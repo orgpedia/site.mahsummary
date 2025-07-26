@@ -19,9 +19,18 @@
 - Regarding approval for implementation of the Magnet 2.0 project, which is an expanded version of the Magnet project (Maharashtra Agribusiness Network-MAGNET).......\
   [202507231810392002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231810392002.pdf)
 
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Hutatma Swami Warke Cooperative Spinning Mills Limited, Mudal, Tal. Bhudargad, Dist. Kolhapur.\
+  [202507251330304202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251330304202.pdf)
+
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Mandeshi Prabodhankar Backward Classes Cooperative Spinning Mills Limited, Vaduz, Tal. Khatav, Dist. Satara.\
+  [202507251332435702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251332435702.pdf)
+
 ## Miscellaneous
 - Regarding approval to increase the lease period of the factory to be run on lease by Karmaveer Kakasaheb Wagh Cooperative Sugar Factory Ltd., Kakasahebnagar, Tal. Niphad, Dist. Nashik (in operation) to 20 years instead of 15 years\
   [202507211508419102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211508419102....pdf)
+
+- Regarding opening a new account head for the Urban Haat scheme announced in line with the Integrated and Sustainable Textile Policy 2023-28.\
+  [202507251645517602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251645517602.pdf)
 
 ## Personnel
 - Regarding the appointment of a Single Nodal Agency to implement the alternative fund distribution mechanism SNA-SPARSH for the distribution of funds under the scheme for computerization of centrally sponsored primary agricultural credit cooperative societies.\

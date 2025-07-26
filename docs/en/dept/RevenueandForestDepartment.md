@@ -38,6 +38,12 @@
 - Forest Land-Sangli Re-diversion of 0.0215 ha. Forest Land for laying of underground Optical Fiber Cable within RoW of existing road of Kasegaon-Girajvade-Nathavade in District Sangli in the State of Maharashtra.\
   [202507241329570919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241329570919.pdf)
 
+- State Plan Year 2025-26 Maharashtra State Zoological Museum Authority Establishment (2406 A087) Current Matter Proposal.\
+  [202507251633235219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251633235219.pdf)
+
+- Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
+  [202507251732549619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251732549619.pdf)
+
 ## Personnel
 - Transfers of officers in the Assistant Conservator of Forests Group-A (Junior Grade) cadre.\
   [202507211748526519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211748526519.pdf)
@@ -53,6 +59,18 @@
 
 - Forest Land-Pune Diversion of 0.94 ha. Forest land under section-2 of Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of two lane SH-54 Bhigwan - Baramati Road (Chainage Km 145000 to Km 173166) under Maharashtra Road Improvement Programme.\
   [202507241659517319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241659517319.pdf)
+
+- Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
+  [202507251730480819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251730480819.pdf)
+
+- Regarding partial change in posting given by promotion from Assistant Revenue Officer cadre to Naib Tehsildar cadre (Konkan Division)\
+  [202507251756491119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251756491119.pdf)
+
+- Regarding the appointment of a Coordination Officer and a Single Coordination Mechanism for the Project Tiger  Elephant project under the centrally sponsored scheme for the purpose of the SNA-SPARSH methodology.\
+  [202507251636444919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251636444919.pdf)
+
+- Policy regarding renting out government open spaces/grounds in Mumbai city and suburban districts as well as open spaces in government land given to government/semi-government and private institutions/corporations for various temporary purposes. Exemption for circus purposes.\
+  [202507251642335019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251642335019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

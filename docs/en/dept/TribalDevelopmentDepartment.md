@@ -21,5 +21,8 @@
 - Regarding promotion to the Selection Grade Stenographer (Personal Assistant), Group-B cadre in the Tribal Development Service.\
   [202507221733406124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221733406124.pdf)
 
+- Regarding the distribution of funds for centrally sponsored schemes through the SNA-SPARSH mechanism, approval is granted to open a separate drawing account with the Reserve Bank of India for the Prime Ministers Tribal Justice Maha Abhiyan (PM JANMAN). and declaration of a Nodal Officer and Single Nodal Agency for this purpose.\
+  [202507251521122724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251521122724.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

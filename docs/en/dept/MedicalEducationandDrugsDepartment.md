@@ -19,5 +19,8 @@
 - Regarding permission to increase the admission capacity of Homeopathy (B.H.M.S.) Degree Course inVidya Vaibhav Education Board, Dapoli Homeopathic College and Hospital, Md. Apti, Po. Talsure, Tah. Dapoli, Dist. Ratnagiri\
   [202507221616001913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221616001913.pdf)
 
+- Regarding permission to increase the admission capacity of B.Sc. (Nursing) degree course IN Sindhudurg Education Society, Shri. Saraswati College of Nursing, M.P. Todavli, Tal. Kankavli, Dist. Sindhudurg\
+  [202507251556072213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251556072213.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

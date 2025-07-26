@@ -19,6 +19,9 @@
 - Regarding the creation of a total of 285 new posts for the Navi Mumbai International Airport Immigration Check Post on the premises of the Commissioner of Police, Navi Mumbai and approval of the recurring expenditure incurred accordingly.\
   [202507241709358929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241709358929.pdf)
 
+- Approved Development Plan- New Chandrapur Administrative approval for land acquisition of area 8.30 Hectares in Reservation No. 110 and area 12.25 Hectares in Reservation No. 133\
+  [202507251743465329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251743465329.pdf)
+
 ## Miscellaneous
 - Dual Feed Policy For Ethanol Production\
   [202507231819263829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231819263829.pdf)
@@ -28,6 +31,16 @@
 
 - Sanctioning of professional fees to Adv.Ketan Dhake as a Special Public Prosecutor for conducting the case/s pending before Honble Session Court, Bhusaval, Dist Jalgaon  which is arising out of C.R.No. 63/2025  registered with the Muktainagar Police Station, Jalgaon.\
   [202507231506122929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231506122929.pdf)
+
+- Regarding change in the designation of the post of Deputy Commissioner of Police at the Prevention of Atrocities on Women Branch/Cell.\
+  [202507251817392629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251817392629.pdf)
+
+## Personnel
+- SPS Officer transfer  Posting.\
+  [202507251953375629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251953375629.pdf)
+
+- SPS Officer transfer  Posting.\
+  [202507252009068529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507252009068529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

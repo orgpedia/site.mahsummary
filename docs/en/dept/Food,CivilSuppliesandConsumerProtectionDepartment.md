@@ -1,19 +1,11 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 21 July 2025 - 26 July 2025
+**Date Range**: 28 July 2025 - 02 August 2025
 
-
-## Funds
-- Regarding granting administrative approval for payment of pending rent of the offices of Deputy Controller, Legal Metrology, Solapur District and Inspector, Legal Metrology, Solapur-1 to 4 Divisions.\
-  [202507151304231706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151304231706.pdf)
-
-## Miscellaneous
-- Regarding declaration of Drawing and Disbursing Officer as Virtual Personal Deposit Account Administrator (VPDA) for speedy disbursement and monitoring of Subsidiary Grants.\
-  [202507181232382806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507181232382806.pdf)
 
 ## Personnel
-- Regarding the appointment of Shri. Ashok Atram, Joint Secretary, as Member Secretary of the State Food Commission.\
-  [202507151720194506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507151720194506.pdf)
+- Regarding authorizing the Drawing and Disbursing Officer and the Controlling Officer for the Direct Benefit Transfer Scheme instead of food grains for APL (Orange) ration cardholder farmers from Chhatrapati Sambhaji Nagar and Amravati divisions, as well as from Wardha district in the Nagpur division.\
+  [202507251225472306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251225472306.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

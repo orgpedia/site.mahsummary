@@ -17,5 +17,8 @@
 - Regarding allowing 100 percent reimbursement of training fees to disabled trainees in government and private industrial training institutions.\
   [202507241743060803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241743060803....pdf)
 
+- Regarding termination of probationary period of Shri. Pranali Hiramanrao Dahat, Principal, Industrial Training Institute (MU), Chandrapur, belonging to Maharashtra Education Service Group-B (Technical) cadre.\
+  [202507251247375903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251247375903.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
