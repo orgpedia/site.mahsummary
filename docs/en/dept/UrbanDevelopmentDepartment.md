@@ -1,82 +1,78 @@
 # Urban Development Department
 
-**Date Range**: 28 July 2025 - 02 August 2025
+**Date Range**: 04 August 2025 - 09 August 2025
 
 
 ## Funds
-- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-9 Dahisar to Mira-Bhayandar and Line-7A- Andheri-CSMIA Project (FY 2025-26)\
-  [202507231609587325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231609587325.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202507301828343525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301828343525.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-10 Gaimukh  Shivaji Chowk(Mira road) Project (FY 2025-26)\
-  [202507231611428725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231611428725.pdf)
+- Regarding approval of the service entry rules for the posts of Secondary Headmaster and Secondary Assistant Teacher in Chhatrapati Sambhajinagar Municipal Corporation.\
+  [202507301501419025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301501419025.pdf)
 
-- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-12 (Kalyan - Taloja) Project (FY 2025-26)\
-  [202507231614122025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231614122025.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Metropolitan Municipality Area. For the year 2025-26 under the Head of Account (2217 0913) For Amravati Municipal Corporation, Dist. Amravati Amount Rs. 1.00 Crore (Corrigendum)\
+  [202507301805196925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301805196925.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-2A (Dahisar (E) to D.N. Nagar) Project (FY 2025-26)\
-  [202507231554120825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231554120825.pdf)
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) Total amount for Jejuri Municipal Council, District Pune Instead of Rs. 5.60 crore (Amount Rs. 4.80 crore) Total amount for Saswad Municipal Council, District Pune Instead of Rs. 8.50 crore (Amount Rs. 6.90 crore) Total amount for Fursungi Uruli Deochi Municipal Council, District Pune Instead of Rs. 2.40 crore Total amount Rs. 14.10 (Corrigendum)\
+  [202507301822014925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301822014925.pdf)
 
-- Regarding disbursement of State Governments secondary loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Route-4 (Wadala-Ghatkopar-Mulund-Thane-Kasarvadavali) and Mumbai Metro Route-4A (Kasarvadavali-Gaymukh) projects. (Year 2025-26)\
-  [202507231559124925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231559124925.pdf)
+- Regarding sanction of funds under the scheme Special Grant to Municipal Councils. For the year 2024-25 under the head of account (4217 0603) Amount Rs. 1.8375483 crore for Ambernath Municipal Council, Dist. Thane\
+  [202507301812119425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301812119425.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-7 (Andheri (East) to Dahisar (East)) Project (FY 2025-26)\
-  [202507231607360825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231607360825.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.2.00 crore (Corrigendum)\
+  [202507301830154825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301830154825.pdf)
 
-- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-6 (Swami Samarth Nagar-Jogeshwari-Vikhroli) Project (FY 2025-26)\
-  [202507231604411425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231604411425.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202507301813414625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301813414625.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-5 (Thane-Bhivandi-Kalyan) Project (FY 2025-26)\
-  [202507231602235325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231602235325.pdf)
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) For Igatpuri Municipal Council, Dist. Nashik Amount Rs. 5.00 crore For Trimbakeshwar Municipal Council, Dist. Nashik Amount Rs. 5.00 crore Total amount Rs. 10.00 crore (Corrigendum)\
+  [202507301857088025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301857088025.pdf)
 
-- Release of State Government Sub-ordinate Loan for Mumbai Metro-2B (D.N.Nagar- Mandale) Project to Mumbai Metropolitan Region Development Authority.  (FY 2025-26)\
-  [202507231557081925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231557081925.pdf)
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) Total amount Rs. 2.00 crore for Telhar Municipal Council, District Akola Total amount Rs. 2.00 crore for Akot Municipal Council, District Akola Total amount Rs. 2.00 crore for Hiwarkhed Municipal Council, District Akola Total amount Rs. 2.00 crore (Total amount Rs. 0.00 crore) To Patur Municipal Council, District Akola Total amount Rs. 2.00 crore for Khamgaon Municipal Council, District Buldana (Revised) Total amount Rs. 1.00 crore for Jintur Municipal Council, District Parbhani (Revised) Total amount Rs. 1.00 crore for 10.00 crore (Corrigendum)\
+  [202507301803272325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301803272325.pdf)
 
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Metropolitan Municipality Area. For the year 2025-26 (MH2217 0913) For Nashik Municipal Corporation, Dist. Nashik Amount Rs. 2.00 Crore (Corrigendum)\
-  [202507251316009925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251316009925.pdf)
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2024-25 under the Head of Account (2217 1301) Amount Rs. 0.30 crore for Ambernath Municipal Council, Dist. Thane (Corrigendum)\
+  [202507301810271125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301810271125.pdf)
 
-- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in the Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, District Nashik, an amount of Rs. 2.00 crore (Corrigendum)\
-  [202507251327357125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251327357125.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 2217 0913) under Amravati Municipal Corporation Dist. Amravati Amount Rs.1.00 crore (Corrigendum)\
+  [202507301815228725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301815228725.pdf)
 
-- Regarding the distribution of funds under the scheme Development of basic facilities in the Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, Dist. Nashik, an amount of Rs. 1.00 crore\
-  [202507251556245825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251556245825.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) Thane Municipal Corporation, Dist. Thane Amount Rs. 5.00 Crore\
+  [202507301747157825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301747157825.pdf)
 
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Corporation Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, District Nashik, an amount of Rs. 2.00 crore (Corrigendum)\
-  [202507251324359125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251324359125.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202507301753277825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301753277825.pdf)
 
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2023-24 (MH 4217 0541) For Nashik Municipal Corporation, District Nashik, an amount of Rs. 9.60 crore (Corrigendum)\
-  [202507251322455525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251322455525.pdf)
+- Regarding sanction of funds under the scheme Special Grant to Municipal Councils. For the year 2024-25 under the head of account (4217 0603) Amount Rs. 0.30 crore for Ambernath Municipal Council, Dist. Thane\
+  [202507301832271825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301832271825.pdf)
 
-- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24, under the account head (4217 0603), the amount for Peth Nagar Panchayat, District Nashik is Rs. 5.00 crore. For Dindori Nagar Panchayat, District Nashik, the amount is Rs. 5.00 crore. Total amount is Rs. 10.00 crore (Corrigendum)\
-  [202507251319389125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251319389125.pdf)
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (2217 1301) To Kalamb Municipal Council, Dist. Dharashiv Amount Rs. 1.00 Crore (Corrigendum)\
+  [202507301854323725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301854323725.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 2217 0913) under Jalna Municipal Corporation District Jalna Amount Rs.1.00 crore (Corrigendum)\
+  [202507301825207325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301825207325.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202507301827027925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301827027925.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2024-25 under the account head (4217 0603) Amount Rs. 5.81 crore for Chandur Railway Municipal Council, Dist. Amravati Amount Rs. 2.08 crore for Nandgaon Khandeshwar Municipal Council, Dist. Amravati Amount Rs. 2.11 crore for Dhamangaon Railway Municipal Council, Dist. Amravati Amount Rs. 10.00 crore\
+  [202507301807100325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301807100325.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) For Vani Municipal Council, District Yavatmal Amount Rs. 8.00 crore instead (Amount Rs. 10.00 crore) For Maregaon Municipal Council, District Yavatmal Amount Rs. 2.00 crore instead (Amount Rs. 0.00 crore) Total amount Rs. 10.00 crore (Corrigendum)\
+  [202507301823477225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301823477225.pdf)
 
 ## Miscellaneous
-- Regarding the inclusion of employees of the then Gram Panchayat in the newly formed Municipal Council / Nagar Panchayat.\
-  [202507231336529625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231336529625.pdf)
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 2217 0913) for Nanded Waghala City Municipal Corporation, District Nanded, an amount of Rs. 20.00 crore (Corrigendum)\
+  [202507301808254325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301808254325.pdf)
 
-- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban an amount of Rs.10.00 crore (Corrigendum)\
-  [202507241828375825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507241828375825.pdf)
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2024-25 (Account Head 4217 0603) for Ambernath Municipal Council, Dist. Thane Amount Rs.25.00 crore (Corrigendum)\
+  [202507301751200925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301751200925.pdf)
 
-- Regarding the implementation of street lighting system in all urban local self-government bodies in the state...\
-  [202507251759525425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251759525425.pdf)
+- Regarding the celebration of the year 2025 as the post-seventh century golden jubilee (750) of the great saint Shri. Dnyaneshwar Maharaj in all urban local self-government bodies.....\
+  [202507301908397825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301908397825.pdf)
 
-- Regarding depositing funds of Urban Local Self-Government Organizations under the Centrally Sponsored Amrut 2.0 Mission in the Head of Accounts. (Corrigendum)\
-  [202507251605316325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251605316325.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation Dist. Nashik (State Government share to be 100)\
-  [202507251313087425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251313087425.pdf)
-
-## Personnel
-- Regarding the recognition of the Brihanmumbai Municipal Corporations MCGM Center for Municipal Capacity Building and Research (M.C.M.C.R.) as a state-level Special Training Center\
-  [202507211539011225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211539011225.pdf)
-
-- Regarding long-term lease of the land for Kanji House within the limits of Hinganghat Municipal Council.\
-  [202507221515575525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221515575525.pdf)
-
-- Regarding permanent inclusion of Shri. Sumant Patil, Sixth Executive Engineer (Civil), CIDCO, who is working on deputation in Nanded - Waghala City Municipal Corporation, in the equivalent post of Deputy Engineer in the Municipal Corporation.\
-  [202507221634427025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221634427025.pdf)
-
-- Temporary Promotion of officers in the cadre of Town Planner (Degree holder) (Group-A/Gazetted) to the post of Assistant Director, Town Planning (Degree holder) (Group-A/Gazetted).\
-  [202507231851081525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507231851081525.pdf)
+- Regarding approval of 21 posts of Secondary Assistant Teacher in Chhatrapati Sambhajinagar Municipal Corporation and regular inclusion of 21 secondary teachers working on hourly basis in the said posts in the service of the Municipal Corporation.\
+  [202507301510227825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301510227825.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

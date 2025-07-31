@@ -10,5 +10,8 @@
 - Starting the second/third shift in existing industrial training institutes in minority dominated areas of the state... Fund allocation for the year 2025-26.\
   [202507281650178014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281650178014.pdf)
 
+- Regarding granting administrative approval to the advertisement and publicity media plan to publicize the schemes implemented by the Minority Development Department.\
+  [202507291819490314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291819490314.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

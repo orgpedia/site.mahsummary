@@ -1,26 +1,15 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 28 July 2025 - 02 August 2025
+**Date Range**: 04 August 2025 - 09 August 2025
 
+
+## Funds
+- Regarding granting administrative approval to the budget for the construction of the Medical College Building, Boys Hostel, Girls Hostel and Staff Residences, etc. at Government Medical College, Mumbai.\
+  [202507300915315413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507300915315413.pdf)
 
 ## Miscellaneous
-- To determine the structure of posts in the Department of Medical Education and Pharmaceuticals, Ministry (Own).\
-  [202507211455128513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211455128513.pdf)
-
-- Regarding increasing the student admission capacity of Postgraduate Degree Course in Physiotherapy in 03 subjects at VSPMs College of Physiotherapy, Digdoh Hills, Nagpur\
-  [202507211619197913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211619197913.pdf)
-
-- Regarding starting a new Postgraduate Degree course in Physiotherapy in 01 subject at VSPMs College of Physiotherapy, Digdoh Hills, Nagpur\
-  [202507211619222313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211619222313.pdf)
-
-- Regarding permission to increase the admission capacity of M.Sc. (Nursing) Postgraduate Degree Course in Madhuribai Deshmukh Institute of Nursing Education, Lata Mangeshkar Hospital, Hingna Road, Nagpur .\
-  [202507221616077713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221616077713.pdf)
-
-- Regarding permission to increase the admission capacity of Homeopathy (B.H.M.S.) Degree Course inVidya Vaibhav Education Board, Dapoli Homeopathic College and Hospital, Md. Apti, Po. Talsure, Tah. Dapoli, Dist. Ratnagiri\
-  [202507221616001913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221616001913.pdf)
-
-- Regarding permission to increase the admission capacity of B.Sc. (Nursing) degree course IN Sindhudurg Education Society, Shri. Saraswati College of Nursing, M.P. Todavli, Tal. Kankavli, Dist. Sindhudurg\
-  [202507251556072213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251556072213.pdf)
+- Regarding permission to start new subjects of M.Sc. (Nursing) postgraduate degree course at Vision Buldhana Educational and Social Institution, M.P.O. Wankhede Layout, Buldhana.\
+  [202507291519259013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291519259013.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

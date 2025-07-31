@@ -123,5 +123,20 @@
 - Posting of officers in the Tehsildar cadre Shri. Rahul Patil, Tehsildar\
   [202507292039125419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507292039125419.pdf)
 
+- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
+  [202507302152156419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507302152156419.pdf)
+
+- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
+  [202507302150222819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507302150222819.pdf)
+
+- Regarding transfers in the Deputy Superintendent of Land Records (Group-B gazetted) cadre.\
+  [202507302148429319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507302148429319.pdf)
+
+- Posting of officers in the Tehsildar cadre. Mrs. Jyoti Deore, Tehsildar\
+  [202507301757080819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301757080819.pdf)
+
+- Regarding appointment of Coordination Officer/State Scheme Manager and Single Coordination Mechanism for the centrally sponsored 9145 - National Agricultural Development Scheme- Agriculture and Forestry (MH-693) scheme for the purpose of SNA-SPARSH methodology.\
+  [202507301141021019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301141021019.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

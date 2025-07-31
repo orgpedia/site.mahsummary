@@ -1,21 +1,24 @@
 # Public Works Department
 
-**Date Range**: 28 July 2025 - 02 August 2025
+**Date Range**: 04 August 2025 - 09 August 2025
 
 
 ## Miscellaneous
-- Regarding extension of tenure of majority of posts created for officers/employees in the office under the jurisdiction of Chief Engineer (Electrical), Public Works Department, Mumbai.\
-  [202507211500319818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211500319818.pdf)
+- Regarding the announcement of the Controlling Officer, Office Head and Drawing and Disbursement Officer for the office of Deputy Engineer, Public Works Sub-Division, Himayatnagar.\
+  [202507291504449418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291504449418.pdf)
 
 ## Personnel
-- Transfer/posting of officers in the cadre of Executive Engineer (Civil)\
-  [202507221056420518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221056420518.pdf)
+- Final seniority list of the Deputy Engineer (Electrical) Diploma holders in the Public Works Department as on 01/01/2012, 01/01/2013, 01/01/2014, 01/01/2015, 01/01/2016, 01/01/2017, 01/01/2018, 01/01/2019, 01/01/2020, 01/01/2021, 01/01/2022, 01/01/2023, 01/01/2024 and 01/01/2025.\
+  [202507291456301018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291456301018.pdf)
 
-- Promotion order of Junior Engineer (Diploma Holder), Zillah Parishad (Works) on the post of Sub Divisional Officer (Civil), Public Works Department.\
-  [202507251607559518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251607559518.pdf)
+- Final seniority list of the cadre of Deputy Engineer (Electrical), Graduate in the Public Works Department as on 01/01/2025.\
+  [202507291452496318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291452496318.pdf)
 
-- Promotion order of Junior Engineer (Degree Holder), Zillah Parishad (Works) on the post of Sub Divisional Engineer (Civil), Public Works Department.\
-  [202507251610065418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251610065418.pdf)
+- Regarding approval of the date of appointment to Shri. Sanjay Ambadas Shelke, Assistant Engineer, Grade-2\
+  [202507291132070818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291132070818.pdf)
+
+- Final seniority list of Assistant Engineer (Civil) Grade-1 cadre in Public Works Department as on 01.01.2025.\
+  [202507291202408218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291202408218.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
