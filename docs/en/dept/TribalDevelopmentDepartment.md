@@ -10,6 +10,9 @@
 - To release grant for the scheme of Maharashtra State Electricity Distribution Company under the TSP in financial year 2025-26. (CRC 2801 5089)\
   [202507281507226224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281507226224.pdf)
 
+- To release grant for the scheme of general education schemes under the TSP in financial year 2025-26. (CRC 2202 1901, 2202 1948  2202 H973)\
+  [202507311306276124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311306276124.pdf)
+
 ## Miscellaneous
 - To release grant for the schem expenditure schemes under the TSP in financial year 2025-26.\
   [202507281506533024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281506533024.pdf)

@@ -3,6 +3,10 @@
 **Date Range**: 04 August 2025 - 09 August 2025
 
 
+## Funds
+- Regarding the distribution of funds for the construction of Phase-2 of the memorial of Loknete Balasaheb Desai at Daulatnagar, Taluka Patan, District Satara...\
+  [202507311742373807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311742373807.pdf)
+
 ## Miscellaneous
 - Regarding making non-creamy layer certificate mandatory for the tuition fee and examination fee reimbursement scheme for students belonging to the Socially and Educationally Backward Classes (SEBC) category...\
   [202507281629100907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281629100907.pdf)
@@ -31,12 +35,21 @@
 - Regarding the prescription of revised reservation and point list including reservation for Socially and Educationally Backward Classes (SEBC) for district level Group-C and Group-D cadre posts in the eight tribal dominated districts of the state namely Nashik, Dhule, Nandurbar, Palghar, Yavatmal, Raigad, Chandrapur and Gadchiroli....\
   [202507291748112407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291748112407.pdf)
 
+- Revised structure of posts in the office of Maharashtra State Information Commission\
+  [202507311557372607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311557372607.pdf)
+
+- Procedure for implementing reservation for disabled people in government direct service recruitment as per the Rights of Persons with Disabilities Act, 2016...\
+  [202507311517101707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311517101707.pdf)
+
 ## Personnel
 - Guildlines regarding the Use of Social Media by Government Employees\
   [202507281811487507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281811487507.pdf)
 
 - Subject to the decision of the Honble Supreme Court in Special Leave Petition No. 28306/2017, regarding fixing the date of seniority of employees promoted through Limited Departmental Competitive Examination.\
   [202507291756357007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291756357007.pdf)
+
+- Regarding providing space for the work of PM Gatishakti.\
+  [202507311730299507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311730299507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,6 +13,9 @@
 - Granting administrative approval for organizing the 60th and 61st Maharashtra State Marathi Film Awards.\
   [202507291523157523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291523157523.pdf)
 
+- Regarding financial approval for the expenses of organizing the Shahiri Mahotsav.\
+  [202507311635163623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311635163623.pdf)
+
 ## Miscellaneous
 - Special incentive awards to child artists at the 61st Maharashtra State Marathi Film Awards ceremony.\
   [202507301117049823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301117049823...pdf)

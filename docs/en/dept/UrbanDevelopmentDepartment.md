@@ -61,6 +61,9 @@
 - Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) For Vani Municipal Council, District Yavatmal Amount Rs. 8.00 crore instead (Amount Rs. 10.00 crore) For Maregaon Municipal Council, District Yavatmal Amount Rs. 2.00 crore instead (Amount Rs. 0.00 crore) Total amount Rs. 10.00 crore (Corrigendum)\
   [202507301823477225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301823477225.pdf)
 
+- Regarding sanction of funds under the Specialty Block scheme. For the year 2024-25 under the account head (4217 0603) Amount Rs. 0.30 crore for Ambernath Municipal Council, Dist. Thane\
+  [202507311644203125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311644203125.pdf)
+
 ## Miscellaneous
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 2217 0913) for Nanded Waghala City Municipal Corporation, District Nanded, an amount of Rs. 20.00 crore (Corrigendum)\
   [202507301808254325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301808254325.pdf)

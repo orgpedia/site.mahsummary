@@ -67,6 +67,9 @@
 - Regarding giving Revised administrative approval to the regional water supply scheme Yelabara  ta.Yavatmal  dist-Yavatmal for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202507291127312828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291127312828.pdf)
 
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouj. chinchner s nimb, Tal.Dist. satara under the Jal Jeevan Mission program.\
+  [202507311230438628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311230438628.pdf)
+
 ## Personnel
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Savari Jawaharnagar, Taluka Bhandara (20055585) under the Jal Jeevan Mission program.\
   [202507281737272528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281737272528.pdf)
@@ -178,6 +181,12 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Apti, Taluka Deoli, District Wardha (Scheme Code 20028042) under the Jal Jeevan Mission program.\
   [202507291124529928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291124529928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouj. machtur, Tal. mahabaleshwar, Dist. satara under the Jal Jeevan Mission program.\
+  [202507311230538828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311230538828.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouj. petri aanavale, Tal. Dist. satara under the Jal Jeevan Mission program.\
+  [202507311230457828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311230457828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

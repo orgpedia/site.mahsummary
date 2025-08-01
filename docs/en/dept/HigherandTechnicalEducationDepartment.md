@@ -54,5 +54,8 @@
 - Regarding promotion to the equivalent posts of Manager/Assistant Director (Technical)/Assistant Secretary (Technical) etc. in Maharashtra Engineering Administrative Service, Group-B cadre.\
   [202507301448108608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301448108608.pdf)
 
+- Regarding the announcement of a Virtual Personal Deposit Account Administrator for the organization Maharashtra State Teacher Development Institute.\
+  [202507311231233508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311231233508.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
