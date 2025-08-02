@@ -3,6 +3,10 @@
 **Date Range**: 04 August 2025 - 09 August 2025
 
 
+## Funds
+- Granting revised administrative approval for the improvement of road km. 145/00 to 180/00 from Amrapur Kada Pathardi Rashin Bhigwan Baramati State Road 54 in Pune district under the Asian Development Bank-assisted project Maharashtra Road Improvement Project.\
+  [202508011426579318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011426579318.pdf)
+
 ## Miscellaneous
 - Regarding the announcement of the Controlling Officer, Office Head and Drawing and Disbursement Officer for the office of Deputy Engineer, Public Works Sub-Division, Himayatnagar.\
   [202507291504449418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291504449418.pdf)
@@ -25,6 +29,9 @@
 
 - Final seniority list of the cadre of Superintending Engineer (Civil) in the Public Works Department as on 01.01.2023, 01.01.2024 and 01.01.2025.\
   [202507311656126118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311656126118.pdf)
+
+- Provisional seniority list of the cadre of Junior Engineer (Civil Engineering) in the Public Works Department as on 01.01.2022.\
+  [202508011429528718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011429528718....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

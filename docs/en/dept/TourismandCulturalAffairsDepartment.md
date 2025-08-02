@@ -16,6 +16,9 @@
 - Regarding financial approval for the expenses of organizing the Shahiri Mahotsav.\
   [202507311635163623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311635163623.pdf)
 
+- Granting financial approval for the production of a multi-lingual grand commercial film based on the life story of Punyashlok Ahilyadevi Holkar by the government.\
+  [202508011556348023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011556348023.pdf)
+
 ## Miscellaneous
 - Special incentive awards to child artists at the 61st Maharashtra State Marathi Film Awards ceremony.\
   [202507301117049823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301117049823...pdf)

@@ -3,6 +3,10 @@
 **Date Range**: 04 August 2025 - 09 August 2025
 
 
+## Funds
+- Year 2025-26 Budgetary Grant Demand No. Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Advances for Purchase of Motor Vehicles (7610 0481) Allocation of Advances for Purchase of New Motorcycle/Scooter.\
+  [202508011631393412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011631393412.pdf)
+
 ## Miscellaneous
 - Clarification-Corrigendum regarding the issues raised by various Organizations, Federations Judicial employees in the state and District Judges of in accordance with Government Resolution No. Sankirn-2011/C.R.167/Desk-6 Dt.20.10.2011.\
   [202507281227223112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281227223112.pdf)
@@ -30,6 +34,9 @@
 
 - Regarding approval to recruit a total of 10 vacant posts through external recruitment for a period of two years or until regular candidates become available.\
   [202507301739237912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301739237912.pdf)
+
+- Honble High Court, Bombay Bench, regarding approval of the creation of fictitious posts of gardeners and laborers for the maintenance and repair work of the gardens in the vicinity of the main and extended court building at Aurangabad by an external mechanism through a service provider appointed through a tender process.\
+  [202508011330257912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011330257912.pdf)
 
 ## Personnel
 - Temporary Promotion to the post of Deputy Registrar, Group-A on the establishment of Registrar of Firms, Maharashtra State, Mumbai (Selection Year 2024-25)\

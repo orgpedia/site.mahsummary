@@ -87,5 +87,8 @@
 - Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
   [202507311152257929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311152257929.pdf)
 
+- Regarding temporary promotion to the post of Deputy Director, Group-A, under the Director, Directorate of Forensic Scientific Laboratories, Maharashtra State, Mumbai.\
+  [202508011622107229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011622107229.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

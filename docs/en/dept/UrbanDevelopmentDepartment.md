@@ -64,6 +64,36 @@
 - Regarding sanction of funds under the Specialty Block scheme. For the year 2024-25 under the account head (4217 0603) Amount Rs. 0.30 crore for Ambernath Municipal Council, Dist. Thane\
   [202507311644203125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311644203125.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, Dist. Nashik, amount Rs. 2.00 crore\
+  [202508011320257325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011320257325.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Thane Municipal Corporation, Dist. Thane, an amount of Rs. 2.50 crore\
+  [202508011754111525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011754111525.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) For Nashik Municipal Corporation, Dist. Nashik Amount Rs. 2.00 crore\
+  [202508011318179525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011318179525.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Thane Municipal Corporation, Dist. Thane, an amount of Rs. 2.00 crore\
+  [202508011755312725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011755312725.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Nashik Municipal Corporation, Dist. Nashik Amount Rs. 3.00 Crore\
+  [202508011322287725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011322287725.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban, an amount of Rs. 4.00 crore\
+  [202508011757109325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011757109325.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in the Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Thane Municipal Corporation, Dist. Thane, an amount of Rs. 5.00 crore\
+  [202508011800304225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011800304225.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Thane Municipal Corporation, Dist. Thane, an amount of Rs. 1.00 crore\
+  [202508011758378825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011758378825.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, Dist. Nashik, amount Rs. 2.00 crore\
+  [202508011326141625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011326141625.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (MH 2217 0913) for Nashik Municipal Corporation, Dist. Nashik, amount Rs. 2.00 crore\
+  [202508011324368225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011324368225.pdf)
+
 ## Miscellaneous
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 2217 0913) for Nanded Waghala City Municipal Corporation, District Nanded, an amount of Rs. 20.00 crore (Corrigendum)\
   [202507301808254325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301808254325.pdf)

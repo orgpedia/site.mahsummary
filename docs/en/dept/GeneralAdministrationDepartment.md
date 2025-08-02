@@ -41,6 +41,18 @@
 - Procedure for implementing reservation for disabled people in government direct service recruitment as per the Rights of Persons with Disabilities Act, 2016...\
   [202507311517101707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311517101707.pdf)
 
+- Regarding amendment in the plan of the combined probationary training program for probationary trainee officers appointed in Group-A and Group-B in the Government Service through the State Service Examination by the Maharashtra Public Service Commission.\
+  [202508011257404107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011257404107.pdf)
+
+- Nomination Proposal for Padma Awards 2026\
+  [202508011749561207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011749561207.pdf)
+
+- Filling the post of deputation basis\
+  [202508011726273007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011726273007.pdf)
+
+- Regarding the assignment of additional charge to the post of State Service Rights Commissioner, Pune Revenue Department.....\
+  [202508011625016007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011625016007.pdf)
+
 ## Personnel
 - Guildlines regarding the Use of Social Media by Government Employees\
   [202507281811487507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281811487507.pdf)
@@ -50,6 +62,18 @@
 
 - Regarding providing space for the work of PM Gatishakti.\
   [202507311730299507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311730299507.pdf)
+
+- Promotion from Selection Grade Stenographer to Senior Personal Assistant - 2025\
+  [202508011305057607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011305057607.pdf)
+
+- Allotment of Recommended Candidate From Assistant Section officer (Main) Exam 2023 in Mantralaya and MPSC\
+  [202508011313436207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011313436207....pdf)
+
+- Promotion from Higher Grade Stenographer to Selection Grade Stenographer   - 2025\
+  [202508011302202707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011302202707.pdf)
+
+- Allotment of Recommended Candidate From Clerk Cum Typist (Main) Exam 2023 in Mantralaya\
+  [202508011309203707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011309203707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

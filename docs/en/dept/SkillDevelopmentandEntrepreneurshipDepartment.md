@@ -14,6 +14,9 @@
 - Regarding approval to start 27 New Age courses under the Capacity Expansion Plan in Government Industrial Training Institutes.\
   [202507301308154403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301308154403.pdf)
 
+- Regarding declaration of competent authority for taking disciplinary action against officers/employees of the establishment of Commissioner, Skill Development, Employment and Entrepreneurship...\
+  [202508011202316903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011202316903.pdf)
+
 ## Personnel
 - Regarding the publication of the provisional seniority list dated 01/01/2025 of the officers in the Skill Development, Employment and Entrepreneurship Guidance Officer, Group-B cadre in the system of the Skill Development, Employment and Entrepreneurship Commissionerate...\
   [202507281445272103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281445272103.pdf)

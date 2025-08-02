@@ -17,5 +17,8 @@
 - Administrative approval for the purchase of machinery and equipment for Government Medical College and Hospital, Chandrapur.\
   [202507311316241613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311316241613.pdf)
 
+- Administrative Approval for Purchase of Machinery  Equipment at Government Medical College   Cancer Hospital Aurangabad\
+  [202508011052291913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011052291913.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

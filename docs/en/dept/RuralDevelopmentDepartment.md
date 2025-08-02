@@ -39,5 +39,8 @@
 - Consolidated State-level Provisional Seniority List of Junior Engineers in District Technical Service, Class-3 (Construction) (Qualified) Cadre in Zilla Parishad as on 01.01.2025.\
   [202507311627593720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311627593720.pdf)
 
+- Regarding temporary promotion to the post in regular promotion quota of employee in District Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-16) Assistant Block Development Officer in Nagpur Division- (Select List Year 2024-25)- Shri. Pal\
+  [202508011356031920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011356031920.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -14,6 +14,9 @@
 - Committee to determine the policy/procedure for implementing the Shri Karveer Niwasini Mahalaxmi Ambabai Devasthan Area Development Plan in Kolhapur City with a view to reducing the expected cost of land acquisition and how land acquisition can be done using other options of town planning.\
   [202507311529433116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311529433116.pdf)
 
+- Determination of working procedures in relation to the District Annual Plan (General).\
+  [202508011146311116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011146311116.pdf)
+
 ## Personnel
 - Regarding transfers on request/administrative grounds of the Deputy Director, Directorate of Finance and Statistics, Group-A cadre officers.\
   [202507311806218816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311806218816.pdf)

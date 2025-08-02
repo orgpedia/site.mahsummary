@@ -16,6 +16,15 @@
 - Regarding the disbursement of funds under the account head (4415 0192) for the year 2025-26 for the establishment of Bamboo Research and Training Center at Chichpalli in Chandrapur district.\
   [202507311653493919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311653493919.pdf)
 
+- Regarding granting administrative approval for civic facility works in villages rehabilitated due to floods in Naigaon taluka of Nanded district.\
+  [202508011144048719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011144048719.pdf)
+
+- Regarding the sanction of remaining funds for temporary rehabilitation of villages affected by landslides due to heavy rains on July 1, 2021, namely Kondalkarwadi and Bouddhawadi in Taliye, Tal. Mahad, Dist. Raigad and Village Kevanale, Tal. Mahad, Dist. Raigad and Village Sakhar (Sutarwadi), Tal. Poladpur, Dist. Raigad\
+  [202508011156258519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011156258519.pdf)
+
+- Regarding administrative approval for the civic facilities to be provided in the resettled village stations of Sardar Sarovar Project, Rehabilitation Village Station No. 01, Narmadanagar, No. 02, Sardarnagar and No. 07, Tarhavad, No. 13, Nuban Tal. Taloda as well as Rehabilitation Village Station No. 09, Wadi, No. 10, Chikhali Tal. Shahada in Nandurbar District.\
+  [202508011436476319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011436476319.pdf)
+
 ## Miscellaneous
 - Regarding the celebration of Revenue Day on August 1, 2025 and Revenue Week-2025 from August 1 to 7, 2025 in the state through the Revenue Department\
   [202507291436001119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291436001119.pdf)
@@ -52,6 +61,12 @@
 
 - Forest Land- Sindhudurg Diversion of 0.07115 ha. forest land in favour of M/s Bharti Airtal Limited, Pune for laying Underground Optical Fiber Cable duct and Cable within  RoW of existing road State Highway-186, road passing through Forest area at Village-Majgaon to Insurli, Taluka-Sawantwadi, District-Sindhudurg in the State of Maharashtra.\
   [202507311219080519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311219080519.pdf)
+
+- Final seniority list showing the status of Deputy Forest Engineer, Group-A (Gazetted) cadre as on 01.01.2025.\
+  [202508011300285019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011300285019.pdf)
+
+- Regarding the formation of a committee to prepare a comprehensive plan for strengthening farm/land roads.\
+  [202508011127380419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011127380419....pdf)
 
 ## Personnel
 - Regarding the appointment of a Coordination Officer and a Single Coordination Mechanism for the Development of Wildlife Habitats scheme under the Centrally Sponsored Scheme for the purpose of the SNA-SPARSH mechanism.\
@@ -194,6 +209,18 @@
 
 - Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Chhatrapati Sambhajinagar division (Selection list for the year 2023-24).\
   [202507311916033219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311916033219.pdf)
+
+- Regarding the appointment of Coordination Officer/State Scheme Manager and Single Coordination Mechanism for the State Linked Scheme (MH-257) under the Centrally Awarded 9153 - National Mission for a Green India for the purpose of SNA-SPARSH methodology.\
+  [202508011250206919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011250206919.pdf)
+
+- Housing for All/Pradhan Mantri Awas Yojana Procedure for regularizing encroachments for housing by cancelling the rights of public roads on land transferred from other departments of the government to the revenue department, unused Pandan roads or village roads as well as land within the boundaries of roads not required for widening/development of roads in the future as per Section 21 of the Maharashtra Land Revenue Code, 1966...\
+  [202508011723357719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011723357719.pdf)
+
+- Regarding ad hoc promotion from Naib Tehsildar cadre to Tehsildar cadre, Shri. Navnath Katkade, Naib Tehsildar\
+  [202508011855269919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011855269919.pdf)
+
+- Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List Year 2023-24).\
+  [202508011158303719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011158303719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

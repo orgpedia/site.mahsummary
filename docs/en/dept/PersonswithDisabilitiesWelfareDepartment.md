@@ -1,14 +1,15 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 28 July 2025 - 02 August 2025
+**Date Range**: 04 August 2025 - 09 August 2025
 
 
 ## Miscellaneous
-- Government approval to sanctioned posts for special workshop of mentally challenged category at Ekalavya Vocational Training Center, Pen, Raigad, run by Suhit Jeevan Trust, Pen, District Raigad.\
-  [202507221535558335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221535558335.pdf)
+- Guidelines for providing scribes and other facilities and concessions to the disabled persons who are not able to write as per their demand for Maharashtra Public Service Commission and all other competitive examinations as well as other written examinations.\
+  [202508011541211635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011541211635.pdf)
 
-- Government approval to sanctioned posts for special School runed by Suhit Jeevan Trust, Pen, Dist.-Raigad.\
-  [202507221538139535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507221538139535.pdf)
+## Personnel
+- Regarding the provision of Sign Language Interpreter services for all administrative departments at the ministerial level and their subordinate field offices...\
+  [202508011553078435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011553078435.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

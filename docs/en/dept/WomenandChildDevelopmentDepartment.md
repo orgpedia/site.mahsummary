@@ -13,6 +13,10 @@
 - Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister.\
   [202507311252272730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311252272730.pdf)
 
+## Miscellaneous
+- Regarding the distribution of funds received under the centrally sponsored scheme Mission Vatsalya for the year 2025-26.\
+  [202508011328113130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011328113130.pdf)
+
 ## Personnel
 - Regarding declaration as Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds of centrally sponsored schemes through SNA SPARSH mechanism.\
   [202507291717545530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291717545530.pdf)

@@ -13,6 +13,9 @@
 - Regarding granting prior permission of the Government to Jejuri Hinjewadi Power Transmission Company Ltd. to construct new transmission lines under Section 68 of the Electricity Act, 2003.\
   [202507311702581110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311702581110.pdf)
 
+- Regarding the celebration of Shri. Bhagwan Vishwakarmas birth anniversary on September 17th in all offices under the Labor Department.\
+  [202508011212447510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011212447510.pdf)
+
 ## Personnel
 - Regarding the posting of Electrical Inspector, Group-A (Gazetted).\
   [202507301741220110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301741220110...pdf)
@@ -25,6 +28,9 @@
 
 - Regarding the reorganization of the procurement committee for various procurement processes implemented by the Maharashtra Building and Other Construction Workers Welfare Board.\
   [202507311726427610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311726427610.pdf)
+
+- Regarding promotion to the post of Government Labour Officer, Group-B (Pay Scale S-15, Rs.41800-132300) on a purely temporary basis in the establishment of the Labour Commissioner, Mumbai. (Select List Year 2024-25)\
+  [202508011533593210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011533593210.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

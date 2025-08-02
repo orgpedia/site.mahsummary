@@ -22,6 +22,9 @@
 - Fund Distribution for the Year 2025-2026 Distribution of funds under the objective 2210 G 251 (General) 10-Contractual Services for Mahatma Jyotirao Phule Jan Arogya Yojana\
   [202507311258286017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311258286017....pdf)
 
+- Regarding approval to pay pending payments for laundry services provided at Rural Hospital Akkalkuwa, District Nandurbar under District Hospital Nandurbar.\
+  [202507311106549617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311106549617.pdf)
+
 ## Miscellaneous
 - Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
   [202507281709448217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281709448217.pdf)
@@ -34,6 +37,9 @@
 
 - Maharashtra Medical and Health Services Group-A Dr. Vivek Namdev Lanjekar, Medical Officer, Primary Health Center Kalmana, District Chandrapur Regarding his resignation\
   [202507281710014517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507281710014517.pdf)
+
+- Regarding approval for payment of pending payments for contractual sanitation services provided in 16 health institutions under District Surgeon, District Hospital, Amravati\
+  [202507311128162817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311128162817.pdf)
 
 ## Personnel
 - Extension of tenure to the temporary post of  District Health Officer, Washim under Deputy Director, Health Services, Akola Board, Akola.\

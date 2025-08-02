@@ -44,6 +44,27 @@
 - Government approval to change the name of the existing institutions trust from the academic year 2024-25, as per the approval given by the Pharmacy Council of India, New Delhi...\
   [202507301209289308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301209289308.pdf)
 
+- Regarding extension of time to the committee constituted to prepare draft rules and regulations of Admission Regulatory Authority (ARA), State Common Entrance Test Cell (CET Cell) and Fee Regulatory Authority (FRA) as per the provisions of Maharashtra Unaided Private Professional Educational Institutions (Regulation of Admission and Fees) Act, 2015.\
+  [202508011507386508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011507386508.pdf)
+
+- Regarding opening a separate new account head for the SEBC component for the scheme Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship-SEBC (Program)...\
+  [202508011503002308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011503002308.pdf)
+
+- Regarding extension of time to the committee constituted to review the Maharashtra Unaided Private Professional Educational Institutions (Regulation of Admission and Fees) Act, 2015 and submit the draft of the amended Act to the Government.\
+  [202508011509259308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011509259308.pdf)
+
+- Government approval to increase the admission capacity of the Vastu Shastra Degree Course in the Institute of Architecture from the academic year 2025-26 as per the approval of the Council of Architecture, New Delhi... (P. R. Patil College of Architecture, Amravati)\
+  [202508011512376308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011512376308.pdf)
+
+- Regarding the Government approval to start a new Post Graduate Degree course in the existing Institute of Architecture from the academic year 2025-26 as per the approval of the Council of Architecture, New Delhi... (Thakur School of Architecture and Planning, Kandivali (East))\
+  [202508011510573608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011510573608.pdf)
+
+- Regarding opening a separate new account head to implement Free Vocational Education Scheme for Girls- Technical Education (Programme) under the Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme...\
+  [202508011500542908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011500542908.pdf)
+
+- Regarding approval for progressive closure of the institute offering Professional Diploma Engineering courses from the academic year 2020-21 as per the approval given by the All India Council for Technical Education. (Rambhau Lingade Polytechnic of Late Rambhauji Lingade Foundation, Buldhana)\
+  [202508011745467508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011745467508.pdf)
+
 ## Personnel
 - Final seniority list of Maharashtra State Library Service Group-B cadre officers in the Directorate of Libraries and subordinate offices as on 01.01.2024.\
   [202507291805287008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291805287008.pdf)
@@ -56,6 +77,9 @@
 
 - Regarding the announcement of a Virtual Personal Deposit Account Administrator for the organization Maharashtra State Teacher Development Institute.\
   [202507311231233508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311231233508.pdf)
+
+- Regarding deputation appointment for posts in the State Common Entrance Examination Hall...\
+  [202508011124145708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011124145708.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 04 August 2025 - 09 August 2025
 
 
+## Funds
+- Revision of tender acceptance powers for works under jurisdiction of the Water Resources Department\
+  [202508011823249727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011823249727.pdf)
+
 ## Miscellaneous
 - Standing Coordination and Monitoring Committee to determine the annual water consumption of Krishna Valley.\
   [202507291310251027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291310251027.pdf)
@@ -15,6 +19,12 @@
 
 - Regarding the seniority date of Shri. Sarla Madhukar Dhoke Assistant Executive Engineer (civil).\
   [202507291438515727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291438515727....pdf)
+
+- Regarding the formation of Bhandardara Dam (Early Revolutionary Veer Raghoji Bhangre Reservoir) Centenary Celebration Committee.\
+  [202508011616363427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011616363427.pdf)
+
+- A committee was formed to determine the policy for conversion of the traditional open-flow canal distribution system of completed irrigation projects to a closed-pipe distribution system.\
+  [202508011654101227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011654101227.pdf)
 
 ## Personnel
 - Provisional seniority list of the cadre of Superintending Engineer (Civil) in the Water Resources Department as on 01.01.2025.\
