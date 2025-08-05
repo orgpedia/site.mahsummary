@@ -1,28 +1,22 @@
 # Women and Child Development Department
 
-**Date Range**: 04 August 2025 - 09 August 2025
+**Date Range**: 11 August 2025 - 16 August 2025
 
 
 ## Funds
-- Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister.\
-  [202507301042058430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301042058430.pdf)
-
-- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2025-26\
-  [202507311506221230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311506221230.pdf)
+- Regarding the distribution of funds under the account head (2235 B906) for the current financial year 2025-26 for the Krantijyoti Savitribai Phule Child Care Scheme.\
+  [202508041648518230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041648518230.pdf)
 
 - Regarding the distribution of funds under the scheme Chief Minister - My Beloved Sister.\
-  [202507311252272730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311252272730.pdf)
+  [202508041302318130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041302318130.pdf)
 
 ## Miscellaneous
-- Regarding the distribution of funds received under the centrally sponsored scheme Mission Vatsalya for the year 2025-26.\
-  [202508011328113130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508011328113130.pdf)
+- Regarding finalising the criteria for aid in  grants provided under the Probation of Offenders Act, 1958\
+  [202508041622429930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041622429930.pdf)
 
 ## Personnel
-- Regarding declaration as Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds of centrally sponsored schemes through SNA SPARSH mechanism.\
-  [202507291717545530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291717545530.pdf)
-
-- To be declared as the Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds for the centrally sponsored scheme Mission Vatsalya through SNA-SPARSH mechanism.\
-  [202507291713369230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507291713369230.pdf)
+- Request for transfer on special grounds of officers in Group-A cadre under the jurisdiction of Women and Child Development Department.\
+  [202508041839568230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041839568230.pdf.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
