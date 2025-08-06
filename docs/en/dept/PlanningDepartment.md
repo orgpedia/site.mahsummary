@@ -14,5 +14,8 @@
 - Regarding promotion of the employees of the cadre of Assistant Research Officer, Group-B (Non-Gazetted) on the establishment of the Directorate of Finance and Statistics to the post of Research Officer / Statistical Officer, Group-B (Gazetted) cadre.\
   [202508041631334716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041631334716.pdf)
 
+- Regarding the announcement of appointing authority for officers/employees from Group-A to Group-D on the establishment of Directorate of Finance and Statistics\
+  [202508051619468116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051619468116.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

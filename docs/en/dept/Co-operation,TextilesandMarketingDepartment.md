@@ -1,18 +1,14 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 04 August 2025 - 09 August 2025
+**Date Range**: 11 August 2025 - 16 August 2025
 
 
-## Funds
-- Regarding approval of government share capital to cooperative spinning mills - Lotus Co. Op. Spinning Mill Ltd., Ichalkaranji, Tal. Hatkanangle, Dist. Kolhapur.\
-  [202507301514323302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301514323302.pdf)
+## Personnel
+- Regarding issuance of guidelines for appointment of secretaries through nomination or direct service in Primary Agricultural Credit Cooperative Societies and various executive cooperative societies.\
+  [202508051741539902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051741539902.pdf)
 
-- Regarding provision of 12 percent interest on loans received from financial institutions to cooperative yarn mills - Dr. Bhai Ganpatrao Deshmukh Shetkari Cooperative Yarn Mills Limited, Sangole, Tal. Sangole, Dist. Solapur\
-  [202507311250383202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507311250383202.pdf)
-
-## Miscellaneous
-- Regarding declaring officers of the Cooperative, Marketing and Textiles Department as Virtual Personal Deposit Account Administrators for the speedy disbursement and monitoring of Subsidiary Grants...\
-  [202507301122066402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507301122066402.pdf)
+- Regarding the constitution of a committee to implement the orders of the Honble High Court, Bombay in Su Moto Writ Petition No. 1/2023.\
+  [202508051816111302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051816111302.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
