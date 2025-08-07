@@ -1,18 +1,18 @@
 # Marathi Language Department
 
-**Date Range**: 28 July 2025 - 02 August 2025
+**Date Range**: 11 August 2025 - 16 August 2025
 
+
+## Funds
+- Regarding granting administrative approval to organize Setu Parishad of non-governmental organizations working on Marathi language and literature in Maharashtra in Pune.\
+  [202508061759482933.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061759482933.pdf)
 
 ## Miscellaneous
-- Regarding the establishment of a committee to review the eligibility of Group-A and Group-B Gazetted Officers in the subordinate offices of the Department to continue in Government service beyond the age of 50/55 years or after 30 years of qualifying service.\
-  [202507211541228933.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211541228933.pdf)
+- Regarding the continuation of the appointment of Shri. B. U. Jagtap on the post of Assistant Language Director, Group-B (Gazetted) after completing the probation period.\
+  [202508061708051033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061708051033.pdf)
 
-## Personnel
-- Date 03 October shall be observed as Classical Marathi Language Day and the period from 03 October to 09 October shall be observed as Classical Marathi Language Week every year, along with the following guidelines.\
-  [202507211125325033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507211125325033.pdf)
-
-- Regarding regularization of temporary promotion to the post of Deputy Director of Languages (Translation and Terminology) Group-A in the establishment of the Directorate of Languages.\
-  [202507251434363833.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507251434363833.pdf)
+- Regarding the continuation of the appointment of Shri. S. D. Gosavi on the post of Assistant Director of Languages, Group-B (Gazetted) after completing the probationary period.\
+  [202508061705556233.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061705556233.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

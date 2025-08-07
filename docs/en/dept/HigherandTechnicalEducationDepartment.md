@@ -11,5 +11,11 @@
 - Government approval to increase the admission capacity of the existing degree course in the existing Pharmacy course in the institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (SVS College of Pharmaceutical Education and Research, Tembhurni)\
   [202508041817467508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041817467508.pdf)
 
+- Government approval for starting a new degree course from the academic year 2025-26 in the existing institution under the auspices of the Directorate of Technical Education, in accordance with the approval of the All India Council for Technical Education, New Delhi.... Reena Mehta College of Arts, Science, Commerce and Management Studies, Bhayander (W.)\
+  [202508061731056608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061731056608.pdf)
+
+- Regarding cancellation of the letter of intent granted to start a new college for the academic year 2022-23. (Court case)\
+  [202508061534235508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061534235508.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

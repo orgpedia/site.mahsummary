@@ -14,5 +14,8 @@
 - Regarding the revised structure of posts in the Raj Bhavan office....\
   [202508041239104307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041239104307.pdf)
 
+- Regarding filling up of vacant posts in the training institute, Divisional Administrative Training Institute, Nashik, on deputation basis.\
+  [202508061206570807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061206570807.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

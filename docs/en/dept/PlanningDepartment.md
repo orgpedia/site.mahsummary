@@ -10,6 +10,9 @@
 - Regarding approval to disburse funds under the objective of 10-Contractual Services for the financial year 2025-26 to Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (Sarathi), Pune.\
   [202508041447165916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041447165916.pdf)
 
+- Regarding approval to distribute funds under the objective of 36-Subsidiary Grant (Salary) for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune.\
+  [202508061155174516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061155174516.pdf)
+
 ## Personnel
 - Regarding promotion of the employees of the cadre of Assistant Research Officer, Group-B (Non-Gazetted) on the establishment of the Directorate of Finance and Statistics to the post of Research Officer / Statistical Officer, Group-B (Gazetted) cadre.\
   [202508041631334716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041631334716.pdf)

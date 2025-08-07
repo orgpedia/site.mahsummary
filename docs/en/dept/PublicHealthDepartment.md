@@ -10,6 +10,10 @@
 - Regarding the disbursement of funds amounting to Rs. 1134.47 lakhs out of the available provision of Rs. 10611.87 lakhs under the centrally sponsored National Rural Health Mission for the financial year 2025-26, with a Central share of 60 and a matching State share of 40 for the general component under Account Head 22105246, Item 35.\
   [202508041246542017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041246542017.pdf)
 
+## Miscellaneous
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
+  [202508061709573317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061709573317.pdf)
+
 ## Personnel
 - Final seniority list dated 01.01.2025 for the post of Anesthetist in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A\
   [202508051808495117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051808495117.pdf)
