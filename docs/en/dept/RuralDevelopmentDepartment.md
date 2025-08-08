@@ -7,6 +7,9 @@
 - Regarding the implementation of the Chief Ministers Samriddhi Panchayat Raj Mission in the state.\
   [202508061325445120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061325445120.pdf)
 
+- Regarding distribution of grant for the year 2025-26 for payment of salaries and allowances of officers and employees of the District Rural Development System\
+  [202508071557470320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071557470320.pdf)
+
 ## Miscellaneous
 - Regarding the procedure for paying honorarium to the center operators (Village Level Entrepreneurs) at the Aaple Sarkar Seva Kendra (Gram Panchayat) in the Gram Panchayats of the state.\
   [202508051121121620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051121121620.pdf)

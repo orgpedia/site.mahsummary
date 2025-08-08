@@ -19,6 +19,12 @@
 - Subsidiary Grant to the Authority for sanctioning retirement benefits to the retired employees of Maharashtra Jeevan Authority (2215 A052) 31, Subsidiary Grants (Non-Salary)\
   [202508051629048228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051629048228.pdf)
 
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Tiddi, Taluka Bhandara (20037817) under the Jal Jeevan Mission program.\
+  [202508071300448228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071300448228.pdf)
+
+- Funds for 18 villages, Vengurla city and industrial areas along the way, tourist spots, Sindhudurg District Water Supply Scheme based on Tillari Project (Account Head 2215 A032)\
+  [202508061750531628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061750531628.pdf)
+
 ## Miscellaneous
 - Budgetary Grant Year 2013-14 Demand No.Y-4, 2702 Small Irrigation Groundwater Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
   [202508051034535528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051034535528.pdf)
@@ -32,6 +38,12 @@
 
 - To grant Revised Administrative Approval to Mouje Vadgaon, Tq. Chakur, Dist. Latur (20043406)  Water supply Scheme under Jal Jeevan Mission.\
   [202508051548328328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051548328328.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Sonegaon, Taluka Bhandara (20052139) under the Jal Jeevan Mission program.\
+  [202508071300469528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071300469528.pdf)
+
+- Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Palgaon, Taluka Bhandara (20061492) under the Jal Jeevan Mission program.\
+  [202508071300519228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071300519228.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

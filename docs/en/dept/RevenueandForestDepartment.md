@@ -20,6 +20,12 @@
 - Indian Forest Service - Reviewing the Records - Constitution of Review Committee regarding\
   [202508061559493019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061559493019.pdf)
 
+- Forest Land-Buldhana Re-diversion of 0.1014 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtal Limited, Pune for laying underground Optical Fiber Cable along the road in Right of Way of NH-193 in from Dudha to Dalsawangi in Buldhana Tehsil of District Buldhana in the State of Maharashtra.\
+  [202508071805014419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071805014419.pdf)
+
+- Regarding exemption from obtaining non-agricultural license/certificate and levy of non-agricultural tax for setting up solar and wind energy power generation projects.\
+  [202508071259093019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071259093019.pdf)
+
 ## Personnel
 - Regarding reinstatement and posting in government service.\
   [202508061817355319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061817355319.pdf)

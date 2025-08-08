@@ -26,12 +26,24 @@
 - Regarding creation of a supernumerary post in the Armed Police Constable cadre at the establishment of Commander State Reserve Police Force Group No. 13, Gadchiroli...Shri. Nilesh Pandurang Musale, Armed Police Constable\
   [202508051206169529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051206169529.pdf)
 
+- Regarding the inclusion of a new type of liquor, Maharashtra Made Liquor (MML).\
+  [202508071918383229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071918383229.pdf)
+
 ## Personnel
 - Regarding appointment to the post of Assistant Government Prosecutor, Group A through direct service.\
   [202508041703484429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041703484429.pdf)
 
 - Regular Selection List 2024-25: Regarding posting by promotion to the post of Special Inspector General of Prisons, Group A cadre.\
   [202508061628035729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061628035729.pdf)
+
+- Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202508072159211729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508072159211729.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202508072204462829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508072204462829.pdf)
+
+- Regarding transfers/ postings of Asst Commissioner of Police/ Deputy Superintendent of Police, Police Communication and Information Technology\
+  [202508072202071629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508072202071629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

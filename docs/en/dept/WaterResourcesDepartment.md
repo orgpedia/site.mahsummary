@@ -7,6 +7,9 @@
 - Regarding granting of third revised administrative approval to Hiranyakeshi (Surfanala) Medium Project, Taluka Ajra, District Kolhapur.\
   [202508041311252327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041311252327.pdf)
 
+- Regarding obtaining second revised administrative approval for the budget for survey and exploration work of the Tapi Mahakaya Recharge Scheme.\
+  [202508071626537527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071626537527.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to determine the promotion level, grade pay, duties and responsibilities of the post, seniority, etc., for the post of Canal Inspector, Counter and Office Clerk in the Water Resources Department, by changing the designation to Irrigation Assistant.\
   [202508051859241027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051859241027.pdf)
