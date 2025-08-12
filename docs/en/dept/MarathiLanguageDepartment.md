@@ -1,18 +1,17 @@
 # Marathi Language Department
 
-**Date Range**: 11 August 2025 - 16 August 2025
+**Date Range**: 18 August 2025 - 23 August 2025
 
 
 ## Funds
-- Regarding granting administrative approval to organize Setu Parishad of non-governmental organizations working on Marathi language and literature in Maharashtra in Pune.\
-  [202508061759482933.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061759482933.pdf)
+- Regarding granting administrative approval for renovation of the premises of the Directorate of Languages at New Administrative Building, 18th Floor, Mantralaya, Mumbai and for providing updated meeting arrangements for the employees.\
+  [202508111509332433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111509332433.pdf)
 
-## Miscellaneous
-- Regarding the continuation of the appointment of Shri. B. U. Jagtap on the post of Assistant Language Director, Group-B (Gazetted) after completing the probation period.\
-  [202508061708051033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061708051033.pdf)
+- Regarding granting administrative approval for the Madiya language project.\
+  [202508111511007133.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111511007133.pdf)
 
-- Regarding the continuation of the appointment of Shri. S. D. Gosavi on the post of Assistant Director of Languages, Group-B (Gazetted) after completing the probationary period.\
-  [202508061705556233.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061705556233.pdf)
+- Regarding granting administrative approval to organize a conference of experts in 11 Indian classical languages at Amravati.\
+  [202508111507416833.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111507416833.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,15 +1,30 @@
 # Finance Department
 
-**Date Range**: 11 August 2025 - 16 August 2025
+**Date Range**: 18 August 2025 - 23 August 2025
 
 
 ## Funds
-- Regarding authorization of private banks (Scheduled Commercial Banks) with a net asset value of more than Rs. 16,000/- crore along with nationalized banks and Maharashtra State Cooperative Bank, Mumbai if the net asset value is more than Rs. 4,000/- crore for banking transactions of government offices and investment of additional funds from public undertakings/corporations for the year 2025-2026....\
-  [202508041521277205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508041521277205....pdf)
+- Regarding providing government guarantee of Rs. 2000 crore to Maharashtra Urban Infrastructure Fund (MUIF) for loans taken from HUDCO under Maharashtra Urban Infrastructure Development Loan Scheme.\
+  [202508111545170605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111545170605.pdf)
 
-## Personnel
-- Regarding the action to be taken by the Drawing and Disbursing Officers and Administrative Departments in connection with the reconciliation of approved posts in the service system...\
-  [202508061117513505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061117513505.pdf)
+## Miscellaneous
+- Revision of rate of Dearness Allowance admissible to State Government and other eligible employees with effect from 1st January, 2025\
+  [202508111122037305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111122037305.pdf)
+
+- Dearness Relief Increase to 252 for the pension / family pension being drawn in the pre-revised scale (sixth pay commission) w.e.f. 1st January 2025.\
+  [202508111215201905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111215201905.pdf)
+
+- Revision of rate of dearness allowance admissible to State Government and other eligible employees drawing salary in unrevised pay structure (as per 5th Pay Commission) w.e.f. 1st January, 2025\
+  [202508111117447205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111117447205.pdf)
+
+- Revision of rate of dearness allowance admissible to State Government and other eligible employees drawing salary in unrevised pay structure (as per 6th Pay Commission) w.e.f. 1st January, 2025\
+  [202508111119292505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111119292505.pdf)
+
+- Dearness Relief Increase to 55 on Pension/Family Pension w.e.f. 1st January, 2025.\
+  [202508111220004505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111220004505.pdf)
+
+- Dearness Relief Increase to 466 for the pension / family pension being drawn in the pre-revised scale (Fifth Pay Commission) w.e.f. 1st January 2025.\
+  [202508111218145905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111218145905.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

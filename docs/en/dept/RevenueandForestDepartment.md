@@ -1,49 +1,43 @@
 # Revenue and Forest Department
 
-**Date Range**: 11 August 2025 - 16 August 2025
+**Date Range**: 18 August 2025 - 23 August 2025
 
 
 ## Funds
-- Dahigaon Plot No.1 (Adjacent Group No.6, 60, 61 and 63) for the year 2018-1 Koregaon, Dist. Recovery of amount of sand not extracted from Satara sand dune. May. Unity Asian (W) Construction Company Mumbai.\
-  [202508051738157119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508051738157119.pdf)
-
-- Regarding distribution of funds for the honorarium of 42 posts of Divisional Disaster Management Coordinator and District Disaster Management Officer.\
-  [202508061041469819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061041469819.pdf)
-
-- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in the Amravati division of the state during June, 2025...\
-  [202508061823272219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061823272219.pdf)
-
-- Regarding granting administrative approval to development works in South Karad Taluka under the Koyna Earthquake Rehabilitation Fund Committee....\
-  [202508061133043019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061133043019.pdf)
+- In the auction of the year 2018-19, Mauje Gosevadi-B Ta. Regarding the refund of the auction amount of Savaner Sand Group. - Mr. Amol Ulhasrao Chakole by AC Enterprises\
+  [202508111641255319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111641255319.pdf)
 
 ## Miscellaneous
-- Indian Forest Service - Reviewing the Records - Constitution of Review Committee regarding\
-  [202508061559493019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061559493019.pdf)
+- Regarding change in district affiliation given to probationary Deputy Collectors under Combined Probationary Training Program-10 for account-wise district affiliation training under various departments....\
+  [202508111548533719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111548533719.pdf)
 
-- Forest Land-Buldhana Re-diversion of 0.1014 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Bharti Airtal Limited, Pune for laying underground Optical Fiber Cable along the road in Right of Way of NH-193 in from Dudha to Dalsawangi in Buldhana Tehsil of District Buldhana in the State of Maharashtra.\
-  [202508071805014419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071805014419.pdf)
+- Forest Land-Gondia Re-Diversion of 0.5304 ha. of Forest land in favour of M/s Bharti Airtel Ltd., Pune for laying underground Optical Fiber Cable Within RoW of the Existing Road of Gondia-Dawwa-Sadak Arjuni in District Gondia in the State of Maharashtra.\
+  [202508111758074119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111758074119.pdf)
 
-- Regarding exemption from obtaining non-agricultural license/certificate and levy of non-agricultural tax for setting up solar and wind energy power generation projects.\
-  [202508071259093019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071259093019.pdf)
+- Forest Land-Wardha Diversion of 0.1957 ha. Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for laying of underground Optical Fiber Cable within existing RoW of NH-347 (Talegaon-Wardud-MP Border Road) in Wardha District.\
+  [202508111802371619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111802371619.pdf)
+
+- Regarding the establishment of a Special Investigation Team (SIT).\
+  [202508111515102219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111515102219.pdf)
+
+- Forest Land-Yavatmal  Diversion of  0.4707 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour M/s Bharti Airtel, Ltd.,  Pune for laying underground Optical Fiber Cable along existing Right of Way of Watfali-Darwha-Ghoti road in Yavatmal District in the State of Maharashtra.\
+  [202508111801176219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111801176219.pdf)
+
+- Forest Land - Jalgaon Diversion of 0.0225 ha. Reserved forest land for Restoration of Chhatri and Ancilleries at Shrikshetra Shravan Tale, Rajdehare by President, Shrinath Baba Trust, Rajdehare, Tal. Chalisgaon, Dist. Jalgaon in the State of Maharashtra.\
+  [202508111756254419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111756254419.pdf)
+
+- Forest Land-Bhandara  Diversion of 0.3094 ha. of Forest land under Van (Sanrakshan Evam Sanvardhan) Adhiniyam, 1980 in favour of M/s Reliance Jio Infocomm Private Ltd., Nagpur for laying of underground Optical Fiber Cable along the existing RoW from Pathari-Deosarra, in Tumsar Taluka, Bhandara District in the State of Maharashtra.\
+  [202508111800002419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111800002419.pdf)
+
+- Minor Minerals- Regarding the return of the amount deposited by the government and the interest thereon to the plaintiff Mr. Vasantrao Gyanoba Mahajan in the Sangli unauthorized mining case.\
+  [202508111709018319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111709018319.pdf)
 
 ## Personnel
-- Regarding reinstatement and posting in government service.\
-  [202508061817355319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061817355319.pdf)
+- Regarding the conversion of government lands of lien type L in Sangli city to type A...\
+  [202508111556182919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111556182919.pdf)
 
-- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in the Chhatrapati Sambhajinagar division during June, 2025 in the state...\
-  [202508061826023019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061826023019.pdf)
-
-- Regarding creation of a large number of posts for organizing On the Job Training (OJT) training for officers of the 2022 batch of Indian Forest Service.\
-  [202508061256257619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061256257619.pdf)
-
-- Regarding reinstatement and posting in government service.\
-  [202508061817375719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061817375719.pdf)
-
-- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in Dharashiv, Chhatrapati Sambhajinagar and Dhule districts from September, 2024 to October, 2024...\
-  [202508061820321419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061820321419.pdf)
-
-- Posting of officers in the Tehsildar cadre awaiting appointment - Smt. Vinita Lanjewar, Tehsildar\
-  [202508061749251119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061749251119.pdf)
+- Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
+  [202508111519080819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111519080819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
