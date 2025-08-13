@@ -39,5 +39,8 @@
 - Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
   [202508111519080819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111519080819.pdf)
 
+- Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
+  [202508121721230119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121721230119.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

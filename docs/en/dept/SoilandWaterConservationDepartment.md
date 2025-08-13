@@ -1,11 +1,18 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 11 August 2025 - 16 August 2025
+**Date Range**: 18 August 2025 - 23 August 2025
 
 
 ## Funds
-- Regarding distribution of funds under Jalyukt Shivar Abhiyan 2.0, Account Head 4402 2781 for the financial year 2025-26. Fund Distribution Order No.1\
-  [202508061200568626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508061200568626.pdf)
+- Standard Operating Procedures to be followed regarding soil and water conservation works.\
+  [202508121550237626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121550237626.pdf)
+
+## Miscellaneous
+- Regarding recovery of 10 amount from the payment of contractors due to non-establishment of water user organization from the payment of works under the Chief Minister Jalsanvardhan Yojana.\
+  [202508121553477326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121553477326.pdf)
+
+- Procedures to be followed for survey and investigation work of soil and water conservation construction project.\
+  [202508121552051926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121552051926.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
