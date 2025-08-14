@@ -21,5 +21,8 @@
 - Regarding the publication of the final seniority list dated 01/01/2025 of officers in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police, Police Communication and Information Technology Department earlier Wireless Messaging (Transport).\
   [202508121629597629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121629597629.pdf)
 
+- Regarding the termination of the suspension of Smt. Rajalakshmi Sunil Bhandari, Additional Government Prosecutor, Group-A and reinstatement and appointment in the service.\
+  [202508131241096029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131241096029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

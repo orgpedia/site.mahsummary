@@ -14,5 +14,9 @@
 - Procedures to be followed for survey and investigation work of soil and water conservation construction project.\
   [202508121552051926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121552051926.pdf)
 
+## Personnel
+- Regarding approval to open a separate Drawing Account in the Reserve Bank of India for the centrally sponsored scheme of Census of Small Irrigation Schemes.\
+  [202508131818096526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131818096526.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

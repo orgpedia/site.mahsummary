@@ -16,6 +16,18 @@
 - Regarding the benefit of one-step promotional pay fixation to the AIS (IAS/ IPS/ IFS) officers working in Tribal/ Naxal affected areas or regarding allowing one and a half times pay to the AIS (IAS/ IPS/ IFS) officers working in highly sensitive areas of Gadchiroli and Gondia districts. Revised Naxal affected areas in the state.\
   [202508121159027607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121159027607.pdf)
 
+- Regarding the observance of Partition Horrors Remembrance Day on August 14, 2025.\
+  [202508131555467307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131555467307.pdf)
+
+- Regarding allotment of space for Inspector, State Excise, J Department, Mumbai Suburban Office.\
+  [202508131105303707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131105303707.pdf)
+
+- Deputation Order. Smt Mugdha bane, Section officer\
+  [202508131758374107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131758374107.pdf)
+
+- Regarding approval of the rental agreement of the Republican Party of India office.\
+  [202508131452044407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131452044407.pdf)
+
 ## Personnel
 - Filling the post of deputation basis\
   [202508111241566507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111241566507.pdf)
@@ -25,6 +37,21 @@
 
 - Partial change in posting for promotion  Mr. Manoj Bhiku Kale\
   [202508121532289207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121532289207.pdf)
+
+- Regarding reinstatement of service due to expiry of deputation period. Shri Anup Kudav, Section Officer\
+  [202508131752264807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131752264807.pdf)
+
+- Regarding reinstatement of service due to expiry of deputation period. Smt. Sanika Mane, Section Officer\
+  [202508131800267207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131800267207.pdf)
+
+- Extension of transfer. Smt Mugdha Bane, Section officer\
+  [202508131755510807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131755510807.pdf)
+
+- Regarding partial change in posting after promotion to the post of Desk Officer, Shri. Eknath Shan. Jadhav, S.K.A.\
+  [202508131754028507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131754028507.pdf)
+
+- Regarding appointment on deputation to the post of Director Class-1 in the Departmental Administrative Training Institute, Nashik.\
+  [202508131614185107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131614185107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

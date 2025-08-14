@@ -17,5 +17,21 @@
 - Under Maharashtra Logistics Policy- 2024, regarding the inclusion of Additional Chief Secretary (Skill Development, Employment, Entrepreneurship and Innovation Department) as a member in the State Level Empowerment Committee (SLEC) headed by Honble Chief Secretary.\
   [202508121730585010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121730585010.pdf)
 
+- Regarding appointment on deputation to the post of Welfare Commissioner, Maharashtra Workers Welfare Board- Shri. Bha. Hon. Morde, Additional Labour Commissioner.\
+  [202508131709479610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131709479610.....pdf)
+
+- Regarding making the registration/renewal fee payable by workers working in the building and other construction sectors free for registration/renewal with the Maharashtra Building and Other Construction Workers Welfare Board.\
+  [202508131226246810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131226246810.pdf)
+
+## Personnel
+- Periodic Transfer-Year 2025 (Deputy Commissioner of Labour, Group-A)\
+  [202508131144374310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131144374310.pdf)
+
+- Regarding temporary promotion to the post of Additional Labour Commissioner (Group-A) S-25 (Rs.78800-209200).\
+  [202508131141441510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131141441510.pdf)
+
+- Regarding the repatriation of Shri. Raviraj Ilve, Additional Labour Commissioner from the post of Welfare Commissioner, Maharashtra Labour Welfare Board, Mumbai on deputation.\
+  [202508131707504910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131707504910.....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

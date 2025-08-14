@@ -13,9 +13,15 @@
 - Regarding distribution of budgetary provision for the year 2025-26. Empowerment of Primary Agricultural Credit Cooperative Societies under the Short-Term Cooperative Credit Structure in the State (Account Head 2425 2515)\
   [202508121753371802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121753371802.pdf)
 
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Mahatma Phule Backward Class Cooperative Spinning Mill Ltd., Pethwadgaon, Tal. Hatkanangle, Dist. Kolhapur.\
+  [202508131544447102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131544447102.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of pending onion subsidy to eligible beneficiaries after revision of the Onion Subsidy Scheme for the year 2022-2023.\
   [202508121133250202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121133250202.pdf)
+
+- Regarding the establishment of an advisory committee under the chairmanship of the District Collector Palghar regarding the establishment of an international standard agricultural market at Dapachari Taluka Dahanu...\
+  [202508131341018202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131341018202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -46,6 +46,81 @@
 - Regarding the disbursement of Rs. 13.75 crore in the first phase out of the Rs. 55.00 crore fund sanctioned for the financial year 2025-26 under the scheme Development of Basic Amenities in Municipal Area (L.S. 2217 0913) from the funds kept with the Directorate of Municipal Council Administration for the financial year 2024-25. (Nashik Division)\
   [202508121300324725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121300324725.pdf)
 
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) To Kulgaon Badlapur Municipal Council, Dist. Thane Amount Rs. 7.90 crore To Murbad Nagar Panchayat, Dist. Thane Amount Rs. 2.00 crore Total amount Rs. 9.90 crore (Corrigendum)\
+  [202508131220468225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131220468225.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Navi Mumbai Municipal Corporation, Dist. Thane under Swachh Maharashtra Mission (N.) 2.0.\
+  [202508131537346925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131537346925.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202508131238435125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131238435125.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Paithan Municipal Council, Dist. Chhatrapati Sambhajinagar under Swachh Maharashtra Mission (N.) 2.0.\
+  [202508131535105925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131535105925.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) Amount Rs. 1.00 crore for Ashta Nagar Parishad, Dist. Sangli Amount Rs. 1.00 crore for Islampur Nagar Parishad, Dist. Sangli Amount Rs. 2.00 crore for Shirala Nagar Parishad, Dist. Sangli Amount Rs. 4.00 crore for Total Amount Rs. 4.00 crore (Corrigendum)\
+  [202508131232242425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131232242425.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Gangapur Municipal Council, Dist. Chhatrapati Sambhajinagar under Swachh Maharashtra Mission (N.) 2.0.\
+  [202508131530007125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131530007125.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) For Hupari Municipal Council, District Kolhapur Amount Rs. 2.50 crore For Shirol Municipal Council, District Kolhapur Amount Rs. 1.25 crore For Kurundwad Municipal Council, District Kolhapur Amount Rs. 2.50 crore For Peth Vadgaon Municipal Council, District Kolhapur Amount Rs. 1.75 crore For Hatkanangle Nagar Panchayat, District Kolhapur Amount Rs. 0.50 crore For Malkapur Municipal Council, District Kolhapur Amount Rs. 0.50 crore For Panhala Municipal Council, District Kolhapur Amount Rs. 0.50 crore Total amount Rs. 9.50 crores (Corrigendum)\
+  [202508131230429525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131230429525.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Metropolitan Municipality Area. For the year 2024-25 under the Head of Account (2217 0913) For Amravati Municipal Corporation, Dist. Amravati Amount Rs. 1.00 Crore (Corrigendum)\
+  [202508131255054325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131255054325.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Lanja Nagar Panchayat, Dist. Ratnagiri under Swachh Maharashtra Abhiyan (N.) 2.0.\
+  [202508131536197325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131536197325.pdf)
+
+- Regarding distribution of funds to Municipal Councils under Special Scheme. For the year 2023-24 under the Head of Account (4217 0603) To Kamathi Municipal Council, Dist. Nagpur Amount Rs. 15.00 crore To Mahadula Nagar Panchayat, Dist. Nagpur Amount Rs. 5.00 crore To Besa- Pimpla Nagar Panchayat, Dist. Nagpur Amount Rs. 10.00 crore To Bahadura Nagar Panchayat, Dist. Nagpur Amount Rs. 10.00 crore (Total amount Rs. 40.00 crore) (Corrigendum)\
+  [202508131222346825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131222346825.pdf)
+
+- Regarding granting administrative approval to the Solid Waste Management Project of Solapur Municipal Corporation, Dist. Solapur under Swachh Maharashtra Mission (No.) 2.0.\
+  [202508131538591825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131538591825.pdf)
+
+- Regarding sanction of funds under the Special Grant scheme to Municipal Councils/Nagar Panchayats. For the year 2024-25 under the head of account (2217 1301) For Khed Nagar Parishad, Dist. Ratnagiri Amount Rs. 5.50 crore For Mandangad Nagar Panchayat, Dist. Ratnagiri Amount Rs. 0.40 crore Total amount Rs. 5.90 crore (Corrigendum)\
+  [202508131214189525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131214189525.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (2217 1301) For Kopargaon Municipal Council, Dist. Ahilyanagar Amount Rs. 1.00 Crore (Corrigendum)\
+  [202508131234025025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131234025025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (2217 1301) For Deulgaon Raja Municipal Council, Dist. Buldana Amount Rs. 2.50 crore For Sindkhed Raja Municipal Council, Dist. Buldana Amount Rs. 2.50 crore Total amount Rs. 5.00 crore (Corrigendum)\
+  [202508131236576825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131236576825.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Nashik Municipal Corporation, District Nashik, an amount of Rs. 3.00 crore (Corrigendum)\
+  [202508131245275425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131245275425.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) To Tasgaon Municipal Council, District Sangli Amount Rs. 1.18 crore To Kawathe Mahankal Municipal Council, District Sangli Amount Rs. 1.06 crore To Vita Municipal Council, District Sangli Amount Rs. 1.05 crore To Jat Municipal Council, District Sangli Amount Rs. 0.75 crore To Atpadi Municipal Panchayat, District Sangli Amount Rs. 0.86 crore To Palus Municipal Council, District Sangli Amount Rs. 0.75 crore To Kadegaon Municipal Panchayat, District Sangli Amount Rs. 0.50 crore Total amount Rs. 6.15 crore (Corrigendum)\
+  [202508131243236725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131243236725.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Muktai Nagar Nagar Panchayat, Dist. Jalgaon under Swachh Maharashtra Abhiyan (N.) 2.0.\
+  [202508131534008825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131534008825.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) For Hupari Municipal Council, District Kolhapur Amount Rs. 1.10 crore For Jaysingpur Municipal Council, District Kolhapur Rs. 1.20 crore For Vadgaon Municipal Council, District Kolhapur Amount Rs. 1.03 crore For Shirol Municipal Council, District Kolhapur Amount Rs. 1.03 crore For Kurundwad Municipal Council, District Kolhapur Amount Rs. 1.20 crore For Hatkanangle Nagar Panchayat, District Kolhapur Amount Rs. 1.00 crore Total amount Rs. 6.56 crore (Corrigendum)\
+  [202508131228167125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131228167125.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for the Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202508131247045225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131247045225.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Metropolitan Municipality Area. For the year 2024-25 under the head of account (2217 0913) To Chhatrapati Sambhajinagar Municipal Corporation, Dist. Chhatrapati Sambhajinagar Amount Rs. 1.00 crore (Corrigendum)\
+  [202508131251006925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131251006925.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Chandwad Municipal Council, Dist. Nashik under Swachh Maharashtra Mission (N.) 2.0.\
+  [202508131532540925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131532540925.pdf)
+
+- Regarding granting administrative approval to the solid waste management project of Peth Nagar Panchayat, Dist. Nashik under Swachh Maharashtra Mission (N.) 2.0.\
+  [202508131531399125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131531399125.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Brihanmumbai Municipal Corporation District Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202508131252485425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131252485425.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2024-25 under the Account Head (2217 1301) For Borrowing Nagar Panchayat, District Ahilyanagar Amount Rs. 1.00 Crore (Corrigendum)\
+  [202508131248417325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131248417325.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) For Dapoli Municipal Council, Dist. Ratnagiri Amount Rs. 5.00 crore For Khed Municipal Council, Dist. Ratnagiri Amount Rs. 4.00 crore For Mandangad Nagar Panchayat, Dist. Ratnagiri Amount Rs. 4.35 crore Total amount Rs. 13.35 crore (Corrigendum)\
+  [202508131217015025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131217015025.pdf)
+
 ## Miscellaneous
 - Regarding publication of the final seniority list as on 01.01.2025 of the officers in the Deputy Director, Urban Planning (Group-A / Gazetted) cadre on the establishment of the Directorate of Urban Planning and Valuation.\
   [202508111540426425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111540426425.pdf)
@@ -55,6 +130,12 @@
 
 - Regarding sanction of funds to Municipal Councils under the Special Scheme. Amount for Malkapur Municipal Council, District Satara under Account Head (4217 0603) for the year 2024-25 Rs. 20.80 crore (Corrigendum)\
   [202508121834480725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121834480725.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) For Uran Municipal Council, District Raigad Amount Rs.15.00 crore (Corrigendum)\
+  [202508131235316425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131235316425.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Nashik Municipal Corporation Dist. Nashik (Change in Implementation Mechanism)\
+  [202508131219152325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131219152325.pdf)
 
 ## Personnel
 - Regarding publication of the final seniority list as on 01.01.2025 of the officers in the Joint Director, Urban Planning (Group-A / Gazetted) cadre on the establishment of the Directorate of Urban Planning and Valuation.\

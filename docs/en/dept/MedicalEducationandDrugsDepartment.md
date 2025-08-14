@@ -14,5 +14,35 @@
 - Regarding permission to increase the admission capacity of the degree course in Physiotherapy in Dr. D. Y. Patil (Abhimat University), Pune under Dr. D. Y. Patil College of Physiotherapy, Pimpri, Pune\
   [202508111530045913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111530045913.pdf)
 
+- Regarding permission to increase the admission capacity of B.Sc. (Nursing) degree course at D.Y.Patil (Abhimat University), Dr.D.Y.Patil College of Nursing, Pimpri, Pune.\
+  [202508131511468313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131511468313.pdf)
+
+- Final seniority list of Associate Professor, Pathology, Group-A as on 01.01.2025\
+  [202508131601033213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131601033213.pdf)
+
+- Final seniority list of Associate Professor, Anotomy, Group-A as on 01.01.2025\
+  [202508131611112513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131611112513.pdf)
+
+- Final seniority list of Associate Professor, Cardiology, Group-A as on 01.01.2025\
+  [202508131613312713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131613312713.pdf)
+
+- Final seniority list of Associate Professor, Otolaryngology Group-A as on 01.01.2025\
+  [202508131607046713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131607046713.pdf)
+
+- Final seniority list of Associate Professor, Physiology, Group-A on\
+  [202508131608523913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131608523913.pdf)
+
+- Final seniority list of Associate Professor, Microbiology, Group-A category as on 01.01.2025\
+  [202508131611121713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131611121713.pdf)
+
+- Regarding increasing the student intake capacity of Postgraduate Dental Degree course at Late Dadasaheb Kalmegh Memorial Dental College and Hospital, Hingna, Nagpur.\
+  [202508131511528013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131511528013.pdf)
+
+- Final seniority list of Associate Professor, Pharmacology, Group-A category as on 01.01.2025\
+  [202508131605224713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131605224713.pdf)
+
+- Regarding the start of a new Superspeciality Postgraduate Degree Course in  Medicine at Government Medical College, Chhatrapati Sambhajinagar.\
+  [202508131511580613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131511580613.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

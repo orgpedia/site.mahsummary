@@ -7,6 +7,9 @@
 - In the auction of the year 2018-19, Mauje Gosevadi-B Ta. Regarding the refund of the auction amount of Savaner Sand Group. - Mr. Amol Ulhasrao Chakole by AC Enterprises\
   [202508111641255319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111641255319.pdf)
 
+- Regarding granting administrative approval to the civic facility works in the flood-rehabilitated villages in Biloli taluka of Nanded district.\
+  [202508131446555619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131446555619.pdf)
+
 ## Miscellaneous
 - Regarding change in district affiliation given to probationary Deputy Collectors under Combined Probationary Training Program-10 for account-wise district affiliation training under various departments....\
   [202508111548533719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111548533719.pdf)
@@ -31,6 +34,12 @@
 
 - Minor Minerals- Regarding the return of the amount deposited by the government and the interest thereon to the plaintiff Mr. Vasantrao Gyanoba Mahajan in the Sangli unauthorized mining case.\
   [202508111709018319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111709018319.pdf)
+
+- Forest Land-Pune Diversion of 0.99 ha. of Forest Land for residential buildings for staff of Animal Husbandry Division, Bhamburda, Distt. Pune.\
+  [202508131802414419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131802414419.pdf)
+
+- Regarding distribution of funds for 36-Assistive Grants (Salary) under this scheme to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26 (2415-1077).\
+  [202508131520444319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131520444319.pdf)
 
 ## Personnel
 - Regarding the conversion of government lands of lien type L in Sangli city to type A...\

@@ -29,6 +29,12 @@
 - Regarding administrative approval of the expenditure incurred for the development and maintenance of a mobile app for geo-tagging in the Single Unified Portal system.\
   [202508071240010620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508071240010620.pdf)
 
+- Regarding the inclusion of non-plan roads in Chandgad Taluka (Dist-Kolhapur)  as a Village Road in the Road Development Plan 2001-21.\
+  [202508131304443220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131304443220.pdf)
+
+- Regarding Change in District Attachment of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP)-10- Smt.Naukudkar, Probationary Block Development Officer\
+  [202508121452432720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121452432720.pdf)
+
 ## Personnel
 - Appointment of a Nodal Officer and a Single Nodal Agency (SNA) for the centrally sponsored scheme, the Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) for the purpose of the SNA-SPARSH.\
   [202508111650379820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111650379820.pdf)
