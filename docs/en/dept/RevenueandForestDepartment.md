@@ -51,5 +51,14 @@
 - Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
   [202508121721230119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121721230119.pdf)
 
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202508141143037419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141143037419.pdf)
+
+- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
+  [202508141140315919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141140315919.pdf)
+
+- Regarding transfer of officers in the Additional District Collector (Selective Category) cadre\
+  [202508141137164419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141137164419.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

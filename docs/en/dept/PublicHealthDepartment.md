@@ -20,5 +20,18 @@
 - Regarding administrative approval for expenditure incurred for the services of security guards hired through outsourcing at Transport (Headquarters) Pune and 8 divisional workshops at the board level... Corrigendum\
   [202508131154405017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131154405017.pdf)
 
+- Regarding the formation of an inquiry committee under the chairmanship of a retired judge of the Honble High Court to inquire into the illegal kidney racket at Ruby Hall Clinic, Pune - Extension of time.\
+  [202508141144173117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141144173117.pdf)
+
+- Regularization of Mr. madhav katre,senior biomedical engineer, Mr. Daniel Fernandis,perfusionist, Mr. Mahesh Thakre,X-ray technician, Mr. Ramnath Jadhv, Cathlab Technician According to MAT order.\
+  [202508141223010217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141223010217.pdf)
+
+- Constitution of a committee to oversee and speed up the work under the Prime Ministers Ayushman Bharat Health Infrastructure Scheme.\
+  [202508141636541817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141636541817.pdf)
+
+## Personnel
+- Regularization of services of Dr. Sandip Pimpre, Dentist According to MAT order.\
+  [202508141223033117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141223033117.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

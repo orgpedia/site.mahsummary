@@ -11,5 +11,8 @@
 - Regarding the distribution of funds for the distribution of scholarships under the scholarship scheme to minority students in the state studying in higher vocational and all courses after class XII.\
   [202508111721575814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111721575814.pdf)
 
+- Regarding the declaration of Nodal Officer and Single Nodal Agency for the Centrally Sponsored Pradhan Mantri Jan Vikas Kayram Yojana in accordance with the mechanism of distributing funds of Centrally Sponsored Schemes through SNA-SPARSH.\
+  [202508141219504214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141219504214.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,9 @@
 - Regarding distribution of remaining funds of completed works at pilgrimage sites under Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme B Category (2515 2566). (District, Kolhapur)\
   [202508121106300820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121106300820.pdf)
 
+- Regarding amendments in the implementation of Pandit Deendayal Upadhyay Housing Land Purchase Financial Assistance Scheme\
+  [202508141504520320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141504520320.pdf)
+
 ## Miscellaneous
 - Regarding inclusion of unclassified length in existing Rural Road No.73 in Koregoan Taluka of Satara District.\
   [202508121314446420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121314446420.pdf)
@@ -34,6 +37,9 @@
 
 - Regarding Change in District Attachment of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP)-10- Smt.Naukudkar, Probationary Block Development Officer\
   [202508121452432720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121452432720.pdf)
+
+- Regarding the nomination of 4 non-official members in the State Direction (DISHA) Committee. ....\
+  [202508141441317920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141441317920.pdf)
 
 ## Personnel
 - Appointment of a Nodal Officer and a Single Nodal Agency (SNA) for the centrally sponsored scheme, the Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) for the purpose of the SNA-SPARSH.\

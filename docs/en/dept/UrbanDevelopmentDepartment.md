@@ -137,6 +137,9 @@
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Nashik Municipal Corporation Dist. Nashik (Change in Implementation Mechanism)\
   [202508131219152325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131219152325.pdf)
 
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) For Uran Municipal Council, District Raigad Amount Rs.15.00 crore (Corrigendum)\
+  [202508141442383025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141442383025.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list as on 01.01.2025 of the officers in the Joint Director, Urban Planning (Group-A / Gazetted) cadre on the establishment of the Directorate of Urban Planning and Valuation.\
   [202508111542466525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111542466525.pdf)

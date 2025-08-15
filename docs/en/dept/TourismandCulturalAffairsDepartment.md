@@ -7,6 +7,12 @@
 - Regarding financial approval for the expenses incurred for organizing a festival of various broadcast programs on the entertainment medium of radio and the work of artists, presenters and technicians in the field of broadcasting/reporting/technology, which celebrates the work of radio stations that have done remarkable work in this field and the programs produced by radio stations.\
   [202508111635268623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111635268623.pdf)
 
+- Regarding celebrating Ganeshotsav as a State Festival.\
+  [202508141729093623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141729093623.pdf)
+
+- Regarding the financial approval for the first installment of the exhibition arrangement work at the museum, Lakshmi Vilas Palace, Kolhapur under the exhibition Shivshastra Shaurya Gatha...\
+  [202508141234287223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141234287223.pdf)
+
 ## Miscellaneous
 - Regarding financial approval for the work of museums under the jurisdiction of the Directorate of Archaeology and Museums, Mumbai...\
   [202508121720540823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121720540823.pdf)

@@ -7,6 +7,9 @@
 - Regarding granting administrative approval and provision of funds to the proposal approved in principle to establish Bharat Ratna Dr. Babasaheb Ambedkar Conventional Centre at Mauje Chikhloli, Tal. Ambernath, Dist. Thane in the year 2023-24 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
   [202508111824417322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111824417322.pdf)
 
+- Regarding granting revised administrative approval along with 10 percent supervision fee to the budget for the construction of the new Government Hostel Phase-2 (Sant Chokhamela 1000 Boys and Girls Hostel, Nagpur) at the site of Kh.No. 257/1 Nagar Land Survey No. 1516 Moja Lendra and Khasra No. 7,8 Nagar Land Survey No. 606 Mouja Ajni at Nagpur.\
+  [202508141618495022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141618495022.pdf)
+
 ## Miscellaneous
 - Regarding declaration as Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for centrally sponsored schemes implemented through the Social Justice Department.\
   [202508131503216222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131503216222.pdf)

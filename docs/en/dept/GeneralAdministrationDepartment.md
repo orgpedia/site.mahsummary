@@ -28,6 +28,12 @@
 - Regarding approval of the rental agreement of the Republican Party of India office.\
   [202508131452044407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131452044407.pdf)
 
+- Regarding appointment on deputation to the post of Assistant Professor Class-1 in Marathwada Administrative and Development Training Institute Nathnagar (North) Paithan, Dist. Chhatrapati Sambhajinagar.\
+  [202508141656050707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141656050707.pdf)
+
+- To observe August 14, 2025 as Partition Horrors Remembrance Day.\
+  [202508141430382207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141430382207.pdf)
+
 ## Personnel
 - Filling the post of deputation basis\
   [202508111241566507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111241566507.pdf)
