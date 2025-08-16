@@ -51,5 +51,8 @@
 - Regarding transfer/promotion of S.P.S. officers\
   [202508141715581529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141715581529.pdf)
 
+- Regarding the posting of the SPS officer\
+  [202508142122232129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508142122232129.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
