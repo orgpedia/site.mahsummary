@@ -1,64 +1,42 @@
 # Revenue and Forest Department
 
-**Date Range**: 18 August 2025 - 23 August 2025
+**Date Range**: 25 August 2025 - 30 August 2025
 
-
-## Funds
-- In the auction of the year 2018-19, Mauje Gosevadi-B Ta. Regarding the refund of the auction amount of Savaner Sand Group. - Mr. Amol Ulhasrao Chakole by AC Enterprises\
-  [202508111641255319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111641255319.pdf)
-
-- Regarding granting administrative approval to the civic facility works in the flood-rehabilitated villages in Biloli taluka of Nanded district.\
-  [202508131446555619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131446555619.pdf)
 
 ## Miscellaneous
-- Regarding change in district affiliation given to probationary Deputy Collectors under Combined Probationary Training Program-10 for account-wise district affiliation training under various departments....\
-  [202508111548533719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111548533719.pdf)
+- Regarding the provision of 6 hectares (15 acres) of government undeveloped land in Block No. 24 at Mouje Karodi, Taluka Chhatrapati Sambhajinagar to the Employees State Insurance Corporation, Ministry of Labour and Employment, Government of India, free of revenue and with full exemption, for the construction of ESIC Hospital (200-bed Insurance Workers Hospital).\
+  [202508181201177919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181201177919.pdf)
 
-- Forest Land-Gondia Re-Diversion of 0.5304 ha. of Forest land in favour of M/s Bharti Airtel Ltd., Pune for laying underground Optical Fiber Cable Within RoW of the Existing Road of Gondia-Dawwa-Sadak Arjuni in District Gondia in the State of Maharashtra.\
-  [202508111758074119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111758074119.pdf)
-
-- Forest Land-Wardha Diversion of 0.1957 ha. Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for laying of underground Optical Fiber Cable within existing RoW of NH-347 (Talegaon-Wardud-MP Border Road) in Wardha District.\
-  [202508111802371619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111802371619.pdf)
-
-- Regarding the establishment of a Special Investigation Team (SIT).\
-  [202508111515102219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111515102219.pdf)
-
-- Forest Land-Yavatmal  Diversion of  0.4707 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour M/s Bharti Airtel, Ltd.,  Pune for laying underground Optical Fiber Cable along existing Right of Way of Watfali-Darwha-Ghoti road in Yavatmal District in the State of Maharashtra.\
-  [202508111801176219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111801176219.pdf)
-
-- Forest Land - Jalgaon Diversion of 0.0225 ha. Reserved forest land for Restoration of Chhatri and Ancilleries at Shrikshetra Shravan Tale, Rajdehare by President, Shrinath Baba Trust, Rajdehare, Tal. Chalisgaon, Dist. Jalgaon in the State of Maharashtra.\
-  [202508111756254419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111756254419.pdf)
-
-- Forest Land-Bhandara  Diversion of 0.3094 ha. of Forest land under Van (Sanrakshan Evam Sanvardhan) Adhiniyam, 1980 in favour of M/s Reliance Jio Infocomm Private Ltd., Nagpur for laying of underground Optical Fiber Cable along the existing RoW from Pathari-Deosarra, in Tumsar Taluka, Bhandara District in the State of Maharashtra.\
-  [202508111800002419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111800002419.pdf)
-
-- Minor Minerals- Regarding the return of the amount deposited by the government and the interest thereon to the plaintiff Mr. Vasantrao Gyanoba Mahajan in the Sangli unauthorized mining case.\
-  [202508111709018319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111709018319.pdf)
-
-- Forest Land-Pune Diversion of 0.99 ha. of Forest Land for residential buildings for staff of Animal Husbandry Division, Bhamburda, Distt. Pune.\
-  [202508131802414419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131802414419.pdf)
-
-- Regarding distribution of funds for 36-Assistive Grants (Salary) under this scheme to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26 (2415-1077).\
-  [202508131520444319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131520444319.pdf)
+- Regarding the formation of a panel of architectural consultancy firms for tourism development work to be carried out under Maharashtra Nature Tourism Development Board, Nagpur.\
+  [202508181257124119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181257124119.pdf)
 
 ## Personnel
-- Regarding the conversion of government lands of lien type L in Sangli city to type A...\
-  [202508111556182919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111556182919.pdf)
+- Regarding regularization of land acquired for the project of Delhi Mumbai Industrial Corridor (DMIC) in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant Shri. Gonvida Bhavsingh, Devidas Bhavsingh\
+  [202508181238567319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181238567319.pdf)
 
-- Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
-  [202508111519080819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111519080819.pdf)
+- Regarding regularization of land acquired for the project of Delhi Mumbai Industrial Corridor (DMIC) in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant Shri. Raju Rohidas Apak Mirabai Rohidas\
+  [202508181235479419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181235479419.pdf)
 
-- Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
-  [202508121721230119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121721230119.pdf)
+- Regarding regularization of acquired land at Mouje Bidkin/Moje Bannitanda, Taluka Paithan, District Chhatrapati Sambhajinagar for the project Delhi Mumbai Industrial Corridor (DMIC) -- Applicant- Shri. Gopinath Rathod\
+  [202508181207366319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181207366319.pdf)
 
-- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
-  [202508141143037419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141143037419.pdf)
+- Regarding regularization of land acquired at Mouje Bidkin/Moje Bannitanda, Taluka Paithan, District Chhatrapati Sambhajinagar for the project Delhi Mumbai Industrial Corridor (DMIC) -- Applicant Smt. Janabai Kalyan Jadhav\
+  [202508181215448719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181215448719.pdf)
 
-- Regarding promotion and posting of eligible officers in the Deputy Collector (Selective Category) cadre to the vacant posts in the regular promotion quota in the Additional District Collector cadre in the year 2024-25 on a purely temporary basis.......\
-  [202508141140315919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141140315919.pdf)
+- Regarding regularization of land acquired for the Delhi Mumbai Industrial Corridor (DMIC) project in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant- Smt. Kusumbai Vishnu Pawar\
+  [202508181228598219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181228598219.pdf)
 
-- Regarding transfer of officers in the Additional District Collector (Selective Category) cadre\
-  [202508141137164419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141137164419.pdf)
+- Regarding regularization of land acquired for the project of Delhi Mumbai Industrial Corridor (DMIC) in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant- Smt. Mirabai Devdas Rathod\
+  [202508181221501419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181221501419.pdf)
+
+- Regarding regularization of land acquired at Mouje Bidkin/Moje Bannitanda, Taluka Paithan, District Chhatrapati Sambhajinagar for the project Delhi Mumbai Industrial Corridor (DMIC) -- Applicant Smt. Seema Satyasham Toshniwal\
+  [202508181211125019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181211125019.pdf)
+
+- Regarding regularization of land acquired for the Delhi Mumbai Industrial Corridor (DMIC) project in Mooje Bidkin Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant- Shri. Rohidas Dhau and Krishna Vishnu\
+  [202508181225276919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181225276919.pdf)
+
+- Regarding regularization of land acquired for the project of Delhi Mumbai Industrial Corridor (DMIC) in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant- Shri. Raju Rohidas Apak Rohidas Dhau\
+  [202508181232185019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181232185019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

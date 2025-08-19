@@ -1,37 +1,18 @@
 # Public Health Department
 
-**Date Range**: 18 August 2025 - 23 August 2025
+**Date Range**: 25 August 2025 - 30 August 2025
 
-
-## Funds
-- Approval of funds for recurring expenditure on ambulances operating under the Maharashtra Emergency Medical Service Scheme (MEMS) for the year 2025-26. (70 payment for June 2025)\
-  [202508131304178517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131304178517.pdf)
-
-- Regarding granting administrative approval for the expenditure incurred for the services of security guards hired through outsourcing at Regional Psychiatric Hospitals Pune, Ratnagiri, Nagpur, Thane and Geriatric Health and Mental Illness Centre Beed.\
-  [202508131154429517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131154429517.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval to implement skilled and unskilled posts, security guards, food service and cleaning services through external mechanisms on a contractual basis at Rural Hospital, Patansawangi.\
-  [202508111729452717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111729452717.pdf)
+- Maharashtra Medical and Health Service Group-A cadre who first joined temporary service on or before 01.11.2005 vide notification dated 02.02.2009 Also to implement the old Pension Scheme (under Maharashtra Civil Services (Pension) Rules,1982) prior to 01 November, 2005 to Medical Officers appointed through MPSC/ MKCL / Selection Board.\
+  [202508181611326017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181611326017.pdf.pdf)
 
-- Regarding the establishment of a State Advisory Committee under the Human Organ Transplantation Act, 1994.\
-  [202508131112101217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131112101217.pdf)
-
-- Regarding administrative approval for expenditure incurred for the services of security guards hired through outsourcing at Transport (Headquarters) Pune and 8 divisional workshops at the board level... Corrigendum\
-  [202508131154405017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131154405017.pdf)
-
-- Regarding the formation of an inquiry committee under the chairmanship of a retired judge of the Honble High Court to inquire into the illegal kidney racket at Ruby Hall Clinic, Pune - Extension of time.\
-  [202508141144173117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141144173117.pdf)
-
-- Regularization of Mr. madhav katre,senior biomedical engineer, Mr. Daniel Fernandis,perfusionist, Mr. Mahesh Thakre,X-ray technician, Mr. Ramnath Jadhv, Cathlab Technician According to MAT order.\
-  [202508141223010217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141223010217.pdf)
-
-- Constitution of a committee to oversee and speed up the work under the Prime Ministers Ayushman Bharat Health Infrastructure Scheme.\
-  [202508141636541817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141636541817.pdf)
+- Disability Allowance admissible to Maharashtra Medical and Health Services Group-A Cadre Medical Officers Group-A (S-20) and above pay scale officers working in Public Health Service of Government of Maharashtra Also regarding the grant of incapacity allowance to Dental Surgeons (S-20) and Dental Surgeon Specialist Cadre (S-23) as per pay scale in the 7th Pay Commission...\
+  [202508181611258217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181611258217.pdf)
 
 ## Personnel
-- Regularization of services of Dr. Sandip Pimpre, Dentist According to MAT order.\
-  [202508141223033117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141223033117.pdf)
+- Correspondence dated 02.02.2009 to Medical Officers inducted in the post of Medical Officer, Group-A regarding the benefits of temporary service period as per the order of Maharashtra Administrative Tribunal (Hon.Mat., Mumbai).\
+  [202508181611105817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181611105817.pdf.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
