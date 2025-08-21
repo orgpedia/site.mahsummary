@@ -17,5 +17,12 @@
 - Regarding the formation of a committee to formulate a policy regarding the implementation, management and maintenance of PM Ekta Mall (Unity Mall)...\
   [202508181123226325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181123226325.pdf)
 
+## Personnel
+- Regarding the governments approval for the promotion of Shri. Yogesh Pithe, Statistical Officer to the post of Deputy Commissioner.\
+  [202508201445513725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201445513725....pdf)
+
+- Regarding the governments approval for the promotion of Shri. Narendra Wankhede, Women and Child Development Officer to the post of Deputy Commissioner.\
+  [202508201444172025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201444172025.....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
