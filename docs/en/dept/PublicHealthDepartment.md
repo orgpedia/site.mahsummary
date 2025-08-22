@@ -3,6 +3,13 @@
 **Date Range**: 25 August 2025 - 30 August 2025
 
 
+## Funds
+- Regarding approval to pay interest on loans received from HUDCO.\
+  [202508211704032617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211704032617.pdf)
+
+- Regarding administrative approval and availability of funds for the budget for various repair works at Rural Hospital Dharur,Dist. Beed.\
+  [202508211449546117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211449546117.pdf)
+
 ## Miscellaneous
 - Maharashtra Medical and Health Service Group-A cadre who first joined temporary service on or before 01.11.2005 vide notification dated 02.02.2009 Also to implement the old Pension Scheme (under Maharashtra Civil Services (Pension) Rules,1982) prior to 01 November, 2005 to Medical Officers appointed through MPSC/ MKCL / Selection Board.\
   [202508181611326017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181611326017.pdf.pdf)

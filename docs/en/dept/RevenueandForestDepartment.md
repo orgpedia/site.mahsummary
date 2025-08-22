@@ -10,6 +10,12 @@
 - Regarding the disbursement of funds under the account head (4415 0192) for the year 2025-26 for the establishment of Bamboo Research and Training Center at Chichpalli in Chandrapur district.\
   [202508201353546919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201353546919.pdf)
 
+- Regarding granting administrative approval for the purchase of 1200 GNSS Rovers, Controllers and Post Processing Software for the Land Records Department in the financial year 2025-26.\
+  [202508211456469719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211456469719.pdf)
+
+- Minor Minerals-Regarding refund of auction amount of joint sand group of Banegaon, Ghansawangi, Jalna and Rohri, Gevrai, Beed for the year 2013-24.-Prof. Shri. Digambar Bhausaheb Lawale on behalf of M/s. Lakshmi Contractor\
+  [202508211637416919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211637416919.pdf)
+
 ## Miscellaneous
 - Regarding the provision of 6 hectares (15 acres) of government undeveloped land in Block No. 24 at Mouje Karodi, Taluka Chhatrapati Sambhajinagar to the Employees State Insurance Corporation, Ministry of Labour and Employment, Government of India, free of revenue and with full exemption, for the construction of ESIC Hospital (200-bed Insurance Workers Hospital).\
   [202508181201177919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181201177919.pdf)
@@ -19,6 +25,12 @@
 
 - Regarding distribution of funds for 31-Assistive Grants (Non-Salary) under this scheme (2415-1077) to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26.\
   [202508201344284419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201344284419.pdf)
+
+- Regarding the establishment of a study group to make recommendations to the committee formed under the chairmanship of the Honble Minister (Revenue) regarding the strengthening of farm/land roads.\
+  [202508211502412319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211502412319.pdf)
+
+- Regarding the payment of the amount of possession or ground rent to be levied for the provision of government or nazul land in small/independent construction/small in size/not of suitable shape/not having easy access or land locked form owned by the government...\
+  [202508211722013619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211722013619.pdf)
 
 ## Personnel
 - Regarding regularization of land acquired for the project of Delhi Mumbai Industrial Corridor (DMIC) in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant Shri. Gonvida Bhavsingh, Devidas Bhavsingh\
@@ -53,6 +65,27 @@
 
 - Regarding transfer requests of officers in the Divisional Forest Officer Group-A (Senior Grade) cadre.\
   [202508201546574819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201546574819.pdf)
+
+- Partial change in transfer order of Mrs. Jyoti Deore, Tehsildar\
+  [202508211648182119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211648182119.pdf)
+
+- Posting of officers in the Tehsildar cadre Shri. Anil Gawande, Tehsildar\
+  [202508211649564619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211649564619.pdf)
+
+- Regarding the purchase of modern four-wheel drive vehicles from the State CAMPA funds, as and when the vehicles used by the forest range officers in the regional and wildlife forest areas of the Forest Department are deregistered.\
+  [202508211214310619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211214310619.pdf)
+
+- Posting of officers in the Tehsildar cadre. Dnyaneshwar Kakade, Tehsildar and Shri. Santosh Bankar, Tehsildar\
+  [202508211644357519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211644357519.pdf)
+
+- Posting of officers in the Tehsildar cadre Shri. Pankaj Pawar, Tehsildar\
+  [202508211643116619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211643116619.pdf)
+
+- Regarding termination of deputation of officers in the Tehsildar cadre. Shri. Santosh Doifode, Tehsildar\
+  [202508211646472619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211646472619.pdf)
+
+- Regarding regularization of ad hoc promotion given from Forest Guard cadre to Forest Range Guard, Group-B cadre.Regarding regularization of ad hoc promotion given from Forest Guard cadre to Forest Range Guard, Group-B cadre.\
+  [202508211652389519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211652389519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

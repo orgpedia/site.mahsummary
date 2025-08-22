@@ -1,22 +1,21 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 18 August 2025 - 23 August 2025
+**Date Range**: 25 August 2025 - 30 August 2025
 
-
-## Funds
-- Standard Operating Procedures to be followed regarding soil and water conservation works.\
-  [202508121550237626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121550237626.pdf)
 
 ## Miscellaneous
-- Regarding recovery of 10 amount from the payment of contractors due to non-establishment of water user organization from the payment of works under the Chief Minister Jalsanvardhan Yojana.\
-  [202508121553477326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121553477326.pdf)
-
-- Procedures to be followed for survey and investigation work of soil and water conservation construction project.\
-  [202508121552051926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508121552051926.pdf)
+- Regarding the announcement of State Scheme Manager (SSM) for Centrally Sponsored Schemes in accordance with the SNA-SPARSH methodology\
+  [202508211530267826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211530267826.pdf)
 
 ## Personnel
-- Regarding approval to open a separate Drawing Account in the Reserve Bank of India for the centrally sponsored scheme of Census of Small Irrigation Schemes.\
-  [202508131818096526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131818096526.pdf)
+- Requisition No. ZH-5 Account Head 4702 A028 Storage Tank Dhanora Digras Mouje Dhanora (Kokate), Tal. Dist. Amravati (Land Acquisition Fund).\
+  [202508211702585726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211702585726.pdf)
+
+- Final seniority list of the cadre of Regional Water Conservation Officers in the Soil and Water Conservation Department as on 01.01.2024 and 01.01.2025.\
+  [202508211107528626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211107528626.pdf)
+
+- Regarding taking action within the given time limit and expeditiously in court cases...\
+  [202508211705078026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211705078026.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

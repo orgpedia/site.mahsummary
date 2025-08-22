@@ -1,14 +1,11 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 18 August 2025 - 23 August 2025
+**Date Range**: 25 August 2025 - 30 August 2025
 
 
 ## Miscellaneous
-- Regarding the establishment of a state-level committee on the occasion of the 150th anniversary of the song Vande Mataram....\
-  [202508131625057203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508131625057203.pdf)
-
-- Regarding the issuance of Letter of Intent (LOI) for starting new private institutions on permanent grant-free basis for the year 2025-26 and for introducing new vocational courses/expansion in existing private industrial training institutions...\
-  [202508141808478503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508141808478503.pdf)
+- Regarding approval to start business courses on a permanent non-subsidized basis for new institutions and more batches of 2 level dual business courses from the year 2025-26.\
+  [202508211244329403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211244329403.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

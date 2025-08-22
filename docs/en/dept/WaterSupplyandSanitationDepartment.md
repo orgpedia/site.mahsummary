@@ -62,5 +62,11 @@
 - To grant Revised Administrative Approval to Mouje Bhendewadi, Tq. Gangakhed, Dist. Parbhani (20018482)  Water supply Scheme under Jal Jeevan Mission.\
   [202508201123466328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201123466328.pdf)
 
+- To grant Revised Administrative Approval to Mouje Laxman Naik Tanda, Tq. Aundha, Dist. Hingoli (7945902)  Water supply Scheme under Jal Jeevan Mission.\
+  [202508211536554628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211536554628.pdf)
+
+- To appoint Shrim. Samina Jamil Sheikh, Block Development Officer by way of deputation...\
+  [202508211536500028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211536500028.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

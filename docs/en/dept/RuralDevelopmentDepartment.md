@@ -10,5 +10,11 @@
 - Regarding declaration of Controlling Officer and Drawing and Disbursing Officer (DDO) for Maharashtra State Cyber Treasury for Just-in-Time disbursement of funds for the centrally sponsored scheme Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) through SNA-SPARSH procedure.\
   [202508201312224320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201312224320.pdf)
 
+- Consolidated state-level final seniority list of Junior Engineers in District Technical Service, Class-3 (Water Supply) cadre in Zilla Parishad as on 01.01.2025.\
+  [202508211715383020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211715383020.pdf)
+
+- Consolidated state-level final seniority list of Junior Engineers in District Technical Service, Class-3 (Electrical and Mechanical) cadre in Zilla Parishad as on 01.01.2025.\
+  [202508211719585620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211719585620.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
