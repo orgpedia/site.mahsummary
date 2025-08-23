@@ -13,6 +13,9 @@
 - Regarding provision of 12 percent interest on loans received from financial institutions to cooperative spinning mills...Datta Shetkari Weavers Cooperative Spinning Mills Ltd., Ichalkaranji, Tal. Hatkanangle, Dist. Kolhapur.\
   [202508211222071302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211222071302.pdf)
 
+- Regarding distribution of capital subsidy to self-financed projects to textile units under the Textile Policy.\
+  [202508221619434202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221619434202.pdf)
+
 ## Miscellaneous
 - State Cooperative Election Authority  Regarding implementation of election process.\
   [202508201040481802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201040481802.pdf)

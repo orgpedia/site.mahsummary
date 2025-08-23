@@ -16,6 +16,24 @@
 - Minor Minerals-Regarding refund of auction amount of joint sand group of Banegaon, Ghansawangi, Jalna and Rohri, Gevrai, Beed for the year 2013-24.-Prof. Shri. Digambar Bhausaheb Lawale on behalf of M/s. Lakshmi Contractor\
   [202508211637416919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211637416919.pdf)
 
+- Regarding distribution of funds for the honorarium of 42 posts of Divisional Disaster Management Coordinator and District Disaster Management Officer.\
+  [202508221834307319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221834307319.pdf)
+
+- Government approval for Proposal regarding Payment of Adivasi Khatedars under the Maharashtra Sales of Trees by occupants belonging to the Scheduled Tribes (Regulation) Act, 1969 Scheme (2406 0686) for the year of 2025-26\
+  [202508221322248219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221322248219.pdf)
+
+- Regarding granting administrative approval to the budget for the work of establishing a wildlife safari at Mouje Gadikhel in the Baramati forest area of the Pune Forest Department.\
+  [202508221803374919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221803374919.pdf)
+
+- Regarding administrative approval for the civic facilities to be provided in the resettled village stations of Sardar Sarovar Project, Rehabilitation Village Station No. 02, Sardarnagar, No. 06, Gopalpur and Village Station No. 14 Mod, Taloda as well as Rehabilitation Village Station No. 10 Chikhali and Village Station No. 11 Kathardedigar, Talada in Nandurbar district.\
+  [202508221714341619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221714341619.pdf)
+
+- Honble Industrial Court, Nashik, in the complaint ULP No. 789/98, 794/98, 410/99, 418/99, 422 to 424/99, 432/99, 437/99, 440 to 442/99 and 444/99 dated 11/12/2001, regarding the creation of 13 supernumerary forest labour posts for 13 daily wage labourers from 01/12/2001 and the distribution of the total amount of Rs. 13,14,979/- as wage difference due to them from 01/12/2001 to 31/03/2021. Shri. Yewaji Ladya Pawar and 12 others.\
+  [202508221803182619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221803182619.pdf)
+
+- Regarding providing funds for the remuneration of contractual employees working for water transport in Tapola, Taluka Mahabaleshwar, Dist. Satara as well as for the fuel and maintenance and repair expenses of barges and launches.....\
+  [202508221508270119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221508270119.pdf)
+
 ## Miscellaneous
 - Regarding the provision of 6 hectares (15 acres) of government undeveloped land in Block No. 24 at Mouje Karodi, Taluka Chhatrapati Sambhajinagar to the Employees State Insurance Corporation, Ministry of Labour and Employment, Government of India, free of revenue and with full exemption, for the construction of ESIC Hospital (200-bed Insurance Workers Hospital).\
   [202508181201177919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181201177919.pdf)
@@ -31,6 +49,15 @@
 
 - Regarding the payment of the amount of possession or ground rent to be levied for the provision of government or nazul land in small/independent construction/small in size/not of suitable shape/not having easy access or land locked form owned by the government...\
   [202508211722013619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211722013619.pdf)
+
+- Dr. Seniya Sethi, (I.A.S.) Additional Chief Secretary Disaster Management, Relief and Rehabilitation, Ministry, Mumbai, on a foreign tour to Australia from 24th to 31st August, 2025 (including travel days).\
+  [202508221841506219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221841506219.pdf)
+
+- Forest Land-  Sangli Diversion of 0.252 ha. of Reserved Forest land  for drinking water supply for Village Gothkhindi, Tal. Walwa, Dist. Sangli in the State of Maharashtra.\
+  [202508221318175019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221318175019.pdf)
+
+- Regarding purchase of laptops and printers for Village Revenue Officers and Circle Officers for computerization of rights records under DILRMP.\
+  [202508221950116419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221950116419.pdf)
 
 ## Personnel
 - Regarding regularization of land acquired for the project of Delhi Mumbai Industrial Corridor (DMIC) in Taluka Paithan, District Chhatrapati Sambhajinagar -- Applicant Shri. Gonvida Bhavsingh, Devidas Bhavsingh\
@@ -86,6 +113,9 @@
 
 - Regarding regularization of ad hoc promotion given from Forest Guard cadre to Forest Range Guard, Group-B cadre.Regarding regularization of ad hoc promotion given from Forest Guard cadre to Forest Range Guard, Group-B cadre.\
   [202508211652389519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211652389519.pdf)
+
+- Regarding approval for purchase of laptop for the subordinate office of the Commissioner of Land Records and Director, Land Records, Pune.\
+  [202508221949571019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221949571019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

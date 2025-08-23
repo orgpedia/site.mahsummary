@@ -16,6 +16,27 @@
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Nashik Municipal Corporation, Dist. Nashik Amount Rs. 2.00 crore\
   [202508211207115425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211207115425.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 4.00 crore\
+  [202508221828165925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221828165925.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount Rs. 52.00 crore\
+  [202508221825177225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221825177225.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 4.00 crore\
+  [202508221826509825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221826509825.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (under Account Head (2217 0913) For Thane Municipal Corporation, District Thane Amount Rs. 1.00 Crore (Corrigendum)\
+  [202508221831454225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221831454225.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Thane Municipal Corporation, Dist. Thane Amount Rs. 17.00 crore\
+  [202508221822321425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221822321425.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) Brihanmumbai Municipal Corporation, Dist. Mumbai City Amount Rs. 3.75 crore\
+  [202508221820301225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221820301225.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 4.00 crore\
+  [202508221829502925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221829502925.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to formulate a policy regarding the implementation, management and maintenance of PM Ekta Mall (Unity Mall)...\
   [202508181123226325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181123226325.pdf)
@@ -25,6 +46,9 @@
 
 - Regarding the improvements in line with the progress of projects under the Urban Upliftment Mission and the centrally sponsored Amrut 2.0 Mission.\
   [202508211510002225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211510002225.pdf)
+
+- Regarding the formation of an expert committee on the impact of pigeons on human health.\
+  [202508221808576225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221808576225.pdf)
 
 ## Personnel
 - Regarding the governments approval for the promotion of Shri. Yogesh Pithe, Statistical Officer to the post of Deputy Commissioner.\

@@ -16,6 +16,9 @@
 - Regarding granting administrative approval for the estimated cost of the construction of Phase no.2 of the proposed Dog Training Center at Mouje Gojubai, Taluka Baramati, District Pune and the water supply scheme for the said Dog Training Center.\
   [202508201236244929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201236244929.pdf)
 
+- Regarding approval of distribution of funds totaling Rs. 2,11,96,740/- for registration of Maharashtra Cyber Crime Security Corporation and remuneration of Company Secretary\
+  [202508221835296729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221835296729.pdf)
+
 ## Miscellaneous
 - Formation of coordination committee to solve various problems of Police families.\
   [202508201240279129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201240279129.pdf)
@@ -31,6 +34,9 @@
 
 - Sanctioning of professional fees to Adv.Vijay Kolhe as a Special Public Prosecutor for conducting the case/s pending before Honble Judicial Magistrate First Class Nagpur, Honble Chief Judicial Magistrate, Nagpur and Honble District and Session Court,  Nagpur which is arising out of C.R.No. 669/2023, C.R.No.. 718/2023, C.R.No. 719/2023, C.R.No. 08/2024, C.R.No. 09/2024, C.R.No. 10/2024, C.R.No. 11/2024, C.R.No. 14/2024, C.R.No. 15/2024, C.R.No. 16/2024, C.R.No. 17/2024registered with the Sadar Police Station, Nagpur City.\
   [202508211533001829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211533001829.pdf)
+
+- Sanctioning of professional Fees to Adv. Vijay Kolhe as a Special Public Prosecutor for conducting the case in the Honble Special MCOC Court, Nagpur which is arising out of C.R.No. 397/2020 registered with the Sitabardi Police Station, Nagpur City (Corrigendum in G.R.dt.21.10.2021)\
+  [202508221718435229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221718435229.pdf)
 
 ## Personnel
 - Regarding transfer/promotion of SPS officers.\
@@ -53,6 +59,9 @@
 
 - Final seniority list of officers in the cadre of Armed Deputy Superintendent of Police/Assistant Commandant, State Reserve Police Force dated 01/01/2025.\
   [202508211649399729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211649399729.pdf)
+
+- Supplementary Regular Select List, 2024-2025: Regarding promotion to a post in the cadre of Senior Administrative Officer on the establishment of the Commissioner of Police, Greater Mumbai.\
+  [202508221523548429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221523548429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

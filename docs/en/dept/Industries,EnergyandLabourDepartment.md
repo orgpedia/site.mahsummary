@@ -17,6 +17,9 @@
 - Regarding publication of draft provisional seniority list of officers in the cadre of Joint Director, Group-A, Directorate of Industrial Safety and Health as on 01.01.2025.\
   [202508201300337910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201300337910....pdf)
 
+- Regarding the declaration of Drawing and Disbursing Officer and Controlling Officer under the Group Incentive Scheme (28520434)\
+  [202508221813360910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221813360910.pdf)
+
 ## Personnel
 - Regarding publication of the draft provisional seniority list of officers in the cadre of Additional Director, Group-A, Directorate of Industrial Safety and Health as on 01.01.2025.\
   [202508201256432310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201256432310...pdf)

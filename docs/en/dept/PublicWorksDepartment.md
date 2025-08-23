@@ -20,6 +20,15 @@
 - To sanction vacant posts on Contract Basis  Assistant Draftsman and Tracer in the office of S.E., Sankalpachitra Mandal (Buildings and Bridges)\
   [202508211704148918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211704148918.pdf)
 
+- Regarding revival of posts in the Driver and Peon cadre for compassionate appointment in the office under the jurisdiction of the Chief Engineer (National Highways), Navi Mumbai.\
+  [202508221600297118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221600297118.pdf)
+
+- Regarding the announcement of the Controlling Officer, Office Head and Drawing and Disbursing Officer for the office of Deputy Engineer, Public Works Sub-Division, Umri.\
+  [202508221559056118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221559056118.pdf)
+
+- Regarding approval of the revised structure of the Civil Engineering Branch (34 posts within the cadre) under the Public Works Department...\
+  [202508221603439018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221603439018.pdf)
+
 ## Personnel
 - Posting Sub Divisional Engineer (Civil)\
   [202508181153247618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181153247618.pdf)
@@ -32,6 +41,24 @@
 
 - Granting revised administrative approval for the construction of railway flyover in place of level crossing no. 42 at km. 76/400 on Saphale Manda Khodave Road Prajima-38 (km. 0/050) Virar Surat Railway Line in Palghar District and Taluka.\
   [202508211712235618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211712235618.pdf)
+
+- Transfer/posting of officers in the Executive Engineer (Civil) cadre.\
+  [202508221659174318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221659174318.pdf)
+
+- Transfer/posting of officers in the Superintending Engineer (Civil) cadre.\
+  [202508221655350918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221655350918.pdf)
+
+- Transfer/posting of officers in the Executive Engineer (Civil) cadre.\
+  [202508221657490318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221657490318.pdf)
+
+- Transfer/posting of officers in the Executive Engineer (Civil) cadre.\
+  [202508221657596518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221657596518.pdf)
+
+- Promotion and posting from the post of Architect, Group-A to the post of Senior Architect, Group-A.\
+  [202508221659344218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221659344218.pdf)
+
+- Promotion and posting from the lower cadre of Executive Engineer (Civil Engineering) to the senior cadre of Superintending Engineer (Civil Engineering).\
+  [202508221655592718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221655592718.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

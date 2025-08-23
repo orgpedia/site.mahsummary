@@ -26,6 +26,21 @@
 - Regarding filling up of posts in the State Rights to Service Commission by deputation\
   [202508211505225407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211505225407.pdf)
 
+- Guidelines for scanning and uploading performance appraisal reports of government officers/employees online in the Mahapar system under the 150-day Sevakarmi program of the Honble Chief Minister.\
+  [202508221746107207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221746107207.pdf)
+
+- New Panels of Contractual Inquiry Officers\
+  [202508221828062507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221828062507.pdf)
+
+- Guidance on the difficulties faced in implementing the comprehensive revised policy of compassionate appointment.\
+  [202508221815300007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221815300007.pdf)
+
+- Regarding approval of purchase of new electric vehicle by deregistering old vehicle for State Information Commissioner, State Information Commission, Konkan Bench....\
+  [202508221241171207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221241171207.pdf)
+
+- Regarding reconstitution of the Cabinet Sub-Committee on action to be taken on the recommendations regarding the social, educational and economic condition of the Maratha community and other related matters.\
+  [202508221616375107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221616375107.pdf)
+
 ## Personnel
 - Regarding extension of transfer period of employees in the ministerial high-level stenographer cadre.\
   [202508211717188907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211717188907.pdf)

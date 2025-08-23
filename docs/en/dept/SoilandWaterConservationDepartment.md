@@ -3,6 +3,10 @@
 **Date Range**: 25 August 2025 - 30 August 2025
 
 
+## Funds
+- Distribution of funds for new/ongoing projects of 101 to 250 ha: Dist. Ratnagiri (Uttar Maharashtra Division)\
+  [202508221441404426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221441404426.pdf)
+
 ## Miscellaneous
 - Regarding the announcement of State Scheme Manager (SSM) for Centrally Sponsored Schemes in accordance with the SNA-SPARSH methodology\
   [202508211530267826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211530267826.pdf)

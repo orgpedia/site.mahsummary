@@ -26,6 +26,12 @@
 - Regarding the implementation of the Scheme for Care and Support to Victims under Section 4  6 of Protection of Children from Sexual Offences (POCSO) Act, 2012 in the state under Mission Vatsalya.\
   [202508201746456730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201746456730....pdf)
 
+- Action to be taken in accordance with the Prevention of Sexual Harassment of Women at Workplace.\
+  [202508221615012930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221615012930.pdf)
+
+- Regarding recognition of child care NGOs working under the Juvenile Justice (Care and Protection of Children) Act, 2015.\
+  [202508221148047430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221148047430.pdf)
+
 ## Personnel
 - Declaration of Drawing and Disbursing officer for the PMMVY.\
   [202508211152420230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211152420230.pdf)
