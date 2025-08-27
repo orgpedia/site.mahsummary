@@ -1,24 +1,15 @@
 # Tribal Development Department
 
-**Date Range**: 25 August 2025 - 30 August 2025
+**Date Range**: 01 September 2025 - 06 September 2025
 
 
 ## Funds
-- To release grant for the scheme of Ashramshala Complex (State Level Scheme) under the TSP in financial year 2025-26. (CRC 2225 D734) (Object 50-Other Charges)\
-  [202508201044548224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201044548224.pdf)
+- To release grant for the scheme of general education schemes under the TSP in financial year 2025-26. (CRC 2202 1901, 2202 1948  2202 H973) 01-Salary\
+  [202508261103469924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261103469924.pdf)
 
-- To release grant for the scheme of Legal Advice Centre(Scheme) under the TSP in financial year 2025-26.  (CRC 2225 3494) Object 28-Professional Services.\
-  [202508201044496324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201044496324.pdf)
-
-- To release grant for the scheme of Evaluation, Monitoring and Utility measurement of Schemes under Tribal Area Component Program.(Scheme) in financial year 2025-26. (CRC 2225 F281) Object-10 Contratual services.\
-  [202508201044447824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201044447824.pdf)
-
-## Miscellaneous
-- To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2025-26. ( scheme expenditure- BCW )\
-  [202508201044428324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201044428324.pdf)
-
-- To rlease grant for the scheme of committed expenditure schemes under the TSP in financial year 2025-26.\
-  [202508201045002524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201045002524.pdf)
+## Personnel
+- Regarding approval for opening of State Affiliated Scheme wise Drawing Accounts operating under Centrally Sponsored Schemes with Reserve Bank of India to implement the alternative fund flow mechanism SNA-SPARSH....\
+  [202508261827455224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261827455224.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

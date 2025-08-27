@@ -1,64 +1,64 @@
 # General Administration Department
 
-**Date Range**: 25 August 2025 - 30 August 2025
+**Date Range**: 01 September 2025 - 06 September 2025
 
 
 ## Funds
 - Regarding disbursement of funds for mandatory matters under the account head Demand No. A-7 3053 0012 to Nagpur Flying Club, Nagpur.\
-  [202508211733594207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211733594207.....pdf)
+  [202508251457384707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251457384707.pdf)
+
+- Regarding granting administrative and financial approval for the expenditure of Rs. 3,40,45,200/- incurred for selecting an institution for urgent and emergency creative and artistic works in print, audio, audiovisual and digital formats through the Directorate General of Information and Public Relations.\
+  [202508251810184607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251810184607.pdf)
 
 ## Miscellaneous
-- Regarding 100 percent Viability Gap Funding for Solapur-Pune-Mumbai air travel.\
-  [202508181601025007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181601025007.pdf)
+- Regarding the extension of three months to the candidates to submit caste validity certificate for admission to educational institutions in engineering, medical and other professional courses for the academic year 2024-25...\
+  [202508261910331107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261910331107.pdf)
 
-- Regarding permission to leave office early: Mantralaya and other Government offices in Brihan Mumbai.\
-  [202508181459123107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508181459123107.pdf)
+- Regarding submission of option for Unified Pension Scheme (UPS) by officers of All India Services of Maharashtra cadre who are covered under New Pension Scheme (NPS).\
+  [202508251127120207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251127120207.pdf)
 
-- Regarding implementation of 150-day service worker program in line with service related matters\
-  [202508201249276007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201249276007.pdf)
+- Amendment to the policy regarding honouring/respecting those who were imprisoned for fighting for democracy during the Emergency period from 1975 to 1977...\
+  [202508261433340007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261433340007.pdf)
 
-- Regarding Viability Gap Funding for Chipi-Mumbai air travel.\
-  [202508201444356007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508201444356007.pdf)
+- Catering services at the official residence of the Hon. Chief Minister and Hon. Deputy Chief Minister. Regarding extension of time to service providers.\
+  [202508251619439107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251619439107.pdf)
 
-- Regarding prescribing a sample comment for submitting proposals for foreign tours of officers to the General Administration Department.\
-  [202508211218256907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211218256907.pdf)
+- Regarding the granting of six months to candidates to submit caste validity certificate for admission to educational institutions in engineering, medical and other professional courses for the academic year 2025-26...\
+  [202508261913464007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261913464007.pdf)
 
-- Regarding filling up of posts in the State Rights to Service Commission by deputation\
-  [202508211505225407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211505225407.pdf)
+- Appointment on deputation- Shri. Vinod S. Bondare,Deputy Secretary\
+  [202508251833290907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251833290907.pdf)
 
-- Guidelines for scanning and uploading performance appraisal reports of government officers/employees online in the Mahapar system under the 150-day Sevakarmi program of the Honble Chief Minister.\
-  [202508221746107207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221746107207.pdf)
+- Combined Probationary Training Program for the training of candidates in Group A and Group B recommended on the basis of the final results of the State Services Examination-2023- 11 Guidelines\
+  [202508251533025307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251533025307.pdf)
 
-- New Panels of Contractual Inquiry Officers\
-  [202508221828062507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221828062507.pdf)
+- Revised Rates of Remuneration to  Contractual IO and  Remuneration to Presenting Officer\
+  [202508251150351507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251150351507....pdf)
 
-- Guidance on the difficulties faced in implementing the comprehensive revised policy of compassionate appointment.\
-  [202508221815300007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221815300007.pdf)
+- Filling the post of deputation basis\
+  [202508251828302707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251828302707.pdf)
 
-- Regarding approval of purchase of new electric vehicle by deregistering old vehicle for State Information Commissioner, State Information Commission, Konkan Bench....\
-  [202508221241171207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221241171207.pdf)
+- Regarding declaration of competent authority to impose minor punishment in connection with disciplinary action.\
+  [202508251238161907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251238161907.pdf)
 
-- Regarding reconstitution of the Cabinet Sub-Committee on action to be taken on the recommendations regarding the social, educational and economic condition of the Maratha community and other related matters.\
-  [202508221616375107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508221616375107.pdf)
+- Online Hearing Through Video Conferencing in the Offices of RDIO\
+  [202508261149284907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261149284907.pdf)
+
+- Appointment on deputation- Shri. Nilesh M. Phalke, Under Secretary\
+  [202508251259213907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251259213907.pdf)
+
+- Regarding appointment of Honble Ministers/Honble Ministers of State as Guardian Ministers/Co-Guardian Ministers of districts in the State: Bhandara, Buldhana.\
+  [202508252036136507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508252036136507...pdf)
 
 ## Personnel
-- Regarding extension of transfer period of employees in the ministerial high-level stenographer cadre.\
-  [202508211717188907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211717188907.pdf)
+- Regarding transfer of 1204.8 sq. ft. of land out of 2409.59 sq. ft. of land on the east side of 5th floor, New Administration Building.\
+  [202508251815300907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251815300907.pdf)
 
-- Regarding the transfer of Group-A and Group-B cadre officers in the Directorate General of Information and Public Relations.\
-  [202508211539288907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211539288907.pdf)
+- Instructions regarding transfer of Divyang Officers/Employees with regards to the Rights of Persons with Disabilities Act, 2016\
+  [202508261452064207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261452064207.pdf)
 
-- Regarding extension of transfer period of employees in the ministerial assistant desk officer cadre.\
-  [202508211715045207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211715045207.pdf)
-
-- Regarding extension of transfer period of employees in the ministerial clerical typist cadre.\
-  [202508211718456907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211718456907....pdf)
-
-- Regarding transfer of Group-A and Group-B cadre officers in the Directorate General of Information and Public Relations for administrative reasons.\
-  [202508211541526607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211541526607.pdf)
-
-- Desk Officer Transfer order. Smt. Pushpa P. Ravan\
-  [202508211805309107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211805309107.pdf)
+- Regarding temporary promotion to the cadre of Senior Assistant Director (Information) / District Information Officer / Senior Deputy Editor / Public Relations Officer, Group-A (Junior).\
+  [202508261825148907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261825148907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

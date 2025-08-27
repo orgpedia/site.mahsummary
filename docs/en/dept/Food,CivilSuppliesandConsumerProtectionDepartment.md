@@ -1,11 +1,11 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 25 August 2025 - 30 August 2025
+**Date Range**: 01 September 2025 - 06 September 2025
 
 
 ## Miscellaneous
-- Regarding cancellation of the adjustment order of Shri. Prashant Sahebrao Suryavanshi, Clerk-Typist, who is in the establishment of Controller Ration Distribution and Director Civil Supplies, Mumbai....\
-  [202508211256469006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508211256469006.pdf)
+- Regarding the increase in the Margin of the authorized Fair Price Shopkeepers for the distribution of food grains in the Public Distribution System.\
+  [202508261251105906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261251105906.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

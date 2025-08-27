@@ -20,5 +20,14 @@
 - Administrative approval - Construction of compound wall around the residencial Quarter of judicial officers at Majalgaon, Dist. Beed.\
   [202508251524102712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251524102712.pdf)
 
+- Regarding exemption from passing the Marathi shorthand test of 80 words per minute and Marathi typing test of 30 words per minute of the Board.\
+  [202508261630316012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261630316012.pdf)
+
+- Regarding the declaration of Drawing and Disbursing Officer to draw payments from Maharashtra State Cyber Treasury Office in connection with the disbursement of funds of Centrally Sponsored Schemes through SNA-SPARSH system.\
+  [202508261445096412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261445096412....pdf)
+
+- Regarding outsourcing of services for 4 part-time cleaner posts for the office of the Public Prosecutor, Appellate Branch (Writ Cell), High Court, Mumbai.\
+  [202508261634067212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261634067212.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
