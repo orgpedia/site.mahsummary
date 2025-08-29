@@ -44,6 +44,9 @@
 - Corrigendum regarding purchase of laptops and printers for Village Revenue Officers and Mandal Officers for computerization of rights records under DILRMP.\
   [202508261517508819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261517508819.pdf)
 
+- Regarding allotment of districts for training to candidates recommended through State Services Examination-2023 under Combined Probationary Training Programme-11 (CPTP-11)...\
+  [202508281542429319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281542429319.pdf)
+
 ## Personnel
 - Regarding the release of the annual salary increment withheld by condoning the technical clause given to the officers/employees working in the majority of posts in the Registration and Stamps Department...\
   [202508251504156019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251504156019.pdf)

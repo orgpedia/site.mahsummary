@@ -58,6 +58,21 @@
 - Regarding giving Revised administrative approval to the regional water supply scheme   wasadi bk  ta. nandura  dist-Buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202508261156236228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261156236228.pdf)
 
+- Budgetary Grant Year 2025-26  2215 Water Supply and Sanitation 01, Water Supply 001, Director and Administration (01) (01) Departmental / Sub-Departmental Establishment for Implementation of Water Supply Programme (Mandatory) (22151843) Requisition No. Y-2\
+  [202508281306132328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281306132328.pdf)
+
+- Revised Administrative approval to Mau.  Vhanaguti, Tal. Bhudargad , Dist. Kolhapur (20011500) water supply scheme Under JJM.\
+  [202508281046458628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281046458628.pdf)
+
+- Revised Administrative approval to Mau.  Devakewadi, Tal. Bhudargad , Dist. Kolhapur (20043222) water supply scheme Under JJM.\
+  [202508281046427628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281046427628.pdf)
+
+- Budgetary Grant Year 2025-26  2215 Water Supply and Sanitation 196, Assistance to Zilla Parishads (01) Assistance to Zilla Parishads/Panchayat Institutions, Maharashtra Zilla Parishad and Panchayat Samiti Act, 1961, Establishment Grants to Zilla Parishads under Section 183 of the Act, (01)(05) Regular Establishment (Compulsory) (2215 1881)  Request No. Y-2\
+  [202508281306176728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281306176728.pdf)
+
+- Regarding distribution of funds to the concerned Zilla Parishads for the retirement salary of retired employees of Converted Regular Temporary (CRT) establishments on water supply schemes for the financial year 2025-26.  Account Head 22151914 (04)\
+  [202508281622031228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281622031228.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme   sawargaon teli  ta.  Lonar dist-Buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202508261156207828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261156207828.pdf)
@@ -131,6 +146,24 @@
 
 - Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouja Borgaon, Taluka Korpana, District Chandrapur (Scheme Code 20084548) under the Jal Jeevan Mission program.\
   [202508261236183028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261236183028.pdf)
+
+- Revised Administrative approval to Mau.  Bhadale-Vharkatwadi, Tal. Shahuwadi , Dist. Kolhapur (20048755) water supply scheme Under JJM.\
+  [202508281046558428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281046558428.pdf)
+
+- To give revised administrative approval for Mauje Gutti, Tq. Jalkot, Dist. Latur (20094665)  water supply scheme under Jal Jeevan Mission\
+  [202508281449203528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281449203528.pdf)
+
+- Revised Administrative approval to Mau.  Vengarul, Tal. Bhudargad , Dist. Kolhapur (20035221) water supply scheme Under JJM.\
+  [202508281046331528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281046331528.pdf)
+
+- Revised Administrative approval to Mau.  Narewadi, Tal. Gadhingalaj, Dist. Kolhapur (20030043) water supply scheme Under JJM.\
+  [202508281047105428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281047105428.pdf)
+
+- To give revised administrative approval for Mauje Tiruka, Tq. Jalkot, Dist. Latur (20055292)  water supply scheme under Jal Jeevan Mission\
+  [202508281449222428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281449222428.pdf)
+
+- Revised Administrative approval to Mau.  Parkhandale, Tal. Panhala , Dist. Kolhapur (20012973) water supply scheme Under JJM.\
+  [202508281047039628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281047039628.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

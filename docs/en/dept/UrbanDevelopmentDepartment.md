@@ -40,6 +40,12 @@
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Nagpur Municipal Corporation, Dist. Nagpur Amount Rs. 18.00 crore\
   [202508261037519225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261037519225.pdf)
 
+- Regarding sanction of funds to Municipal Councils under Special Scheme.  For the year 2025-26 under the Account Head (2217 1301) Chandwad Municipal Council, Dist. Nashik Amount Rs. 14.00 crore\
+  [202508281311535925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281311535925.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme.  For the year 2025-26 under the Account Head (2217 1301) For Karad Municipal Council, Dist. Satara Amount Rs. 10.00 crore\
+  [202508281309560125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281309560125.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to the biomining (Legacy Waste Remediation) proposals of urban local bodies in the state under Swachh Maharashtra Mission (No.) 2.0.\
   [202508261619233025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261619233025.pdf)

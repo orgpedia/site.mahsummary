@@ -20,5 +20,9 @@
 - Regarding the announcement of a Drawing and Disbursing Officer for Maharashtra State Cyber Treasury to release funds on a Just in Time Release basis for the newly included centrally sponsored scheme Construction of Hostels for OBC Boys and Girls under the SNA-SPARSH mechanism.\
   [202508261429180534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261429180534.pdf)
 
+## Personnel
+- Regarding providing identity cards, certificates and benefits of various schemes to beneficiaries belonging to the Deprived Castes and Nomadic Tribes.\
+  [202508281734104634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281734104634.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

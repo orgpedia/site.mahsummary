@@ -7,6 +7,12 @@
 - Regarding granting administrative approval for electrical renovation work at Government Law College, Mumbai...\
   [202508261455366608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261455366608.pdf)
 
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the governments approval to start a new professional course institution on a permanent unaided basis from the academic year 2025-26... VSS Institute of Business Management, Jalna\
+  [202508281556407508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281556407508.pdf)
+
+- Regarding the formation of a committee to prepare a working procedure for integrated centralized procurement...\
+  [202508281809095708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281809095708.pdf)
+
 ## Personnel
 - Regarding appointment on nomination basis to the post of Associate Professor, Maharashtra Art Education Service, Group-A...\
   [202508251515107008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251515107008.pdf)

@@ -29,5 +29,8 @@
 - Regarding outsourcing of services for 4 part-time cleaner posts for the office of the Public Prosecutor, Appellate Branch (Writ Cell), High Court, Mumbai.\
   [202508261634067212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261634067212.pdf)
 
+- Regarding change in the name of the approved post in the Family Courts of Maharashtra from Stenographer (Higher Grade) to Stenographer (Grade-1) and from Stenographer (Lower Grade) to Stenographer Grade-3.\
+  [202508281728383112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281728383112.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

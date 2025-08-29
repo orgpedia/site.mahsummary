@@ -1,19 +1,24 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 21 July 2025 - 26 July 2025
+**Date Range**: 01 September 2025 - 06 September 2025
 
 
 ## Funds
-- Regarding the distribution of a total fund of Rs. 73,68,82,360 /- as the first installment for the General, Scheduled Castes and Scheduled Tribes categories under the centrally sponsored scheme National Natural Farming Mission.\
-  [202507161229507301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161229507301.pdf)
+- Regarding the disbursement of the first installment of funds in the financial year 2025-26 for the Agristak-Digital Crop Survey component under the Krishi Unnati Yojana - Digital Agriculture Mission.\
+  [202508251305038001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251305038001.pdf)
+
+- Regarding the distribution of Rs. 60 crores of general category funds for the implementation of Bhausaheb Fundkar Fruit Garden Plantation Scheme in the year 2025-26... (2401 A889)\
+  [202508251450330701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251450330701.pdf)
 
 ## Miscellaneous
-- Regarding granting approval for the foreign visit of officials from the SMART project and office-bearers of the Crop Stewardship Council  IPDA, for participation in the international exhibition Ag in Motion, 2025 and collaboration with organizations such as Protein Industries Canada, Saskatchewan.\
-  [202507141816163001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507141816163001.pdf)
+- Regarding the formation of a high-level committee for the expansion of the Farmer Cup initiative.\
+  [202508261659060701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261659060701.pdf)
 
-## Personnel
-- To be declared as the Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for timely disbursement of funds of centrally sponsored schemes through SNA-SPARSH procedure\
-  [202507161646542501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202507161646542501.pdf)
+- Regarding increasing the remuneration of writers writing for the Farmers Magazine.\
+  [202508261237449401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261237449401.pdf)
+
+- Regarding approval of a foreign tour to attend a modern training program on Orchard Management through the organization Mashav, Israel at kibbutz, Israel from 06-21 September 2025.\
+  [202508251221190901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251221190901.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

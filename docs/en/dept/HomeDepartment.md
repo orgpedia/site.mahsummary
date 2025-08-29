@@ -17,6 +17,9 @@
 - Supplementary Regular Select List, 2024-25; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
   [202508261638552229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261638552229.pdf)
 
+- Regarding the appointment of a Nodal Officer of Ports Sub-Division for inter-departmental coordination for the implementation of Maharashtra Green Hydrogen Policy-2023.\
+  [202508281545537529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281545537529.pdf)
+
 ## Personnel
 - Regarding promotion/posting of I.P.S. officer.\
   [202508261745488129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261745488129.pdf)
