@@ -47,6 +47,12 @@
 - Regarding allotment of districts for training to candidates recommended through State Services Examination-2023 under Combined Probationary Training Programme-11 (CPTP-11)...\
   [202508281542429319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281542429319.pdf)
 
+- Regarding allotment of districts for training to the candidates recommended for the post of Deputy Superintendent, Land Records (Group-B) through State Services Examination-2023 under Combined Probationary Training Programme-11 (CPTP-11)...\
+  [202508291611339019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291611339019.pdf)
+
+- Procedure for demarcating and assigning specific numbers to rural roads, boundary rural roads, rural carriageways, footpaths, farm access footpaths/carriageways in rural areas......\
+  [202508291724425419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291724425419...pdf)
+
 ## Personnel
 - Regarding the release of the annual salary increment withheld by condoning the technical clause given to the officers/employees working in the majority of posts in the Registration and Stamps Department...\
   [202508251504156019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251504156019.pdf)
@@ -56,6 +62,12 @@
 
 - Regarding transfer of officers in the Additional District Collector (Selective Category) cadre\
   [202508261144172019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261144172019.pdf)
+
+- Regarding granting administrative approval for civic facility works in villages rehabilitated due to floods in Biloli taluka of Nanded district.\
+  [202508291352360719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291352360719.pdf)
+
+- Regarding extension of 1362 temporary posts in the Registration and Stamps Department. Date 01.09.2025 to Date 28.02.2026\
+  [202508291222049019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291222049019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

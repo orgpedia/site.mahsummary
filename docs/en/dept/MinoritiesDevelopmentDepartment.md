@@ -20,5 +20,8 @@
 - Regarding distribution of funds to Maharashtra State Hajj Committee for the financial year 2025-26\
   [202508251537278114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251537278114.pdf)
 
+- Regarding the distribution of funds for the distribution of scholarships under the scholarship scheme to minority students in the state studying in higher vocational and all courses after class XII.\
+  [202508291647224814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291647224814.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

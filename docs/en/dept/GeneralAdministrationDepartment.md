@@ -65,6 +65,9 @@
 - Filling the post of deputation basis\
   [202508281739047407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281739047407.pdf)
 
+- Regarding extension of deputation of officers in the cadre of Under Secretary  Shri. Shrinivas Bhagwanrao Mokalikar, Under Secretary\
+  [202508291504494307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291504494307.pdf)
+
 ## Personnel
 - Regarding transfer of 1204.8 sq. ft. of land out of 2409.59 sq. ft. of land on the east side of 5th floor, New Administration Building.\
   [202508251815300907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251815300907.pdf)
@@ -74,6 +77,9 @@
 
 - Regarding temporary promotion to the cadre of Senior Assistant Director (Information) / District Information Officer / Senior Deputy Editor / Public Relations Officer, Group-A (Junior).\
   [202508261825148907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261825148907.pdf)
+
+- Adhoc promotion to the post of Deputy Secretary.\
+  [202508291508062907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291508062907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

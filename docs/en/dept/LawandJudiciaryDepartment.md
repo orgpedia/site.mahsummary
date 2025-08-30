@@ -32,5 +32,17 @@
 - Regarding change in the name of the approved post in the Family Courts of Maharashtra from Stenographer (Higher Grade) to Stenographer (Grade-1) and from Stenographer (Lower Grade) to Stenographer Grade-3.\
   [202508281728383112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281728383112.pdf)
 
+- Regarding creation of a new Personal Deposit Account (PDA) for Civil Cases for the Civil Court Junior Division, Arjuni Morgaon, District Gondia\
+  [202508291559477612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291559477612.pdf)
+
+- Year 2025-26 Budgetary Grant Demand No. J-5, 7610- Loan to Government Employees etc. - (201)(00)(01) House Building Advance Allocation.\
+  [202508291445516512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291445516512.pdf)
+
+- Regarding opening of new Personal Deposit Account (PDA) for Civil Cases for Civil Court Junior Division, Deori, District Gondia.\
+  [202508291557256012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291557256012.pdf)
+
+- Regarding opening of new Personal Deposit Account (PDA) for Civil Cases for Civil Court Junior Division, Sadak Arjuni, District Gondia.\
+  [202508291601560712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291601560712.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

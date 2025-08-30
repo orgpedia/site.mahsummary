@@ -46,13 +46,28 @@
 - Regarding sanction of funds to Municipal Councils under Special Scheme.  For the year 2025-26 under the Account Head (2217 1301) For Karad Municipal Council, Dist. Satara Amount Rs. 10.00 crore\
   [202508281309560125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281309560125.pdf)
 
+- Regarding the distribution of budgetary provisions for the financial year 2025-2026... Grant in Aid\
+  [202508291400369025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291400369025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special scheme.  For the year 2025-26 under the account head (2217 1301) Mahad Municipal Council District Raigad Amount Rs.1.70 crore\
+  [202508291142030525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291142030525.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to the biomining (Legacy Waste Remediation) proposals of urban local bodies in the state under Swachh Maharashtra Mission (No.) 2.0.\
   [202508261619233025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261619233025.pdf)
 
+- Regarding declaration of competent authority for taking disciplinary action against officers/employees of the Directorate of Town Planning and Valuation......\
+  [202508291705466325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291705466325.pdf)
+
+- Regarding the appointment of Dr. Shankar Ratan Bharti on deputation to the post of Medical Health Officer (MOH) in Latur City Municipal Corporation.\
+  [202508291514338025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291514338025.pdf)
+
 ## Personnel
 - Regarding the implementation of a comprehensive revised policy for compassionate appointment to the heirs of officers/employees in Municipal Corporations (except Brihanmumbai Municipal Corporation)/ Municipal Councils and Municipal Panchayats in the state.\
   [202508261309048425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261309048425.pdf)
+
+- Temporary Promotion of officers in the cadre of Assistant Town Planner (Degree/Diploma holder) to the post of Town Planner (Degree/Diploma holder).\
+  [202508291651002825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291651002825.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

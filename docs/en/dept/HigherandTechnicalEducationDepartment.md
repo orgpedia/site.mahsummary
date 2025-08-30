@@ -13,6 +13,12 @@
 - Regarding the formation of a committee to prepare a working procedure for integrated centralized procurement...\
   [202508281809095708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281809095708.pdf)
 
+- Regarding the Government approval to change the address of the existing Vastu Shastra course institute from the academic year 2025-26 as per the approval of the Architectural Council, New Delhi...\
+  [202508291613423708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291613423708.pdf)
+
+- Regarding fast-track approval of new additional blocks of specific faculties under extraordinary circumstances for the academic year 2025-26.\
+  [202508291659327708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291659327708.pdf)
+
 ## Personnel
 - Regarding appointment on nomination basis to the post of Associate Professor, Maharashtra Art Education Service, Group-A...\
   [202508251515107008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251515107008.pdf)

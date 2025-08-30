@@ -73,6 +73,9 @@
 - Regarding distribution of funds to the concerned Zilla Parishads for the retirement salary of retired employees of Converted Regular Temporary (CRT) establishments on water supply schemes for the financial year 2025-26.  Account Head 22151914 (04)\
   [202508281622031228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281622031228.pdf)
 
+- To give revised administrative approval for Mauje Limabala, Tq. Nilanga, Dist. Latur (20063643)  water supply scheme under Jal Jeevan Mission\
+  [202508291244337528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291244337528.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme   sawargaon teli  ta.  Lonar dist-Buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202508261156207828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261156207828.pdf)
@@ -88,6 +91,9 @@
 
 - Budgetary Grant Year 2025-2026 Demand No.Y-4, 2702 Small Irrigation Groundwater Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
   [202508261239124728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261239124728.pdf)
+
+- Action to be taken regarding measures to be taken to alleviate the situation of scarcity of drinking water in rural areas. (Corrigendum)\
+  [202508281446212028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281446212028.pdf)
 
 ## Personnel
 - To grant Revised Administrative Approval to Mouje Runj Tarfe Parbhani Tq. Purna, Dist. Parbhani (20060619)  Water supply Scheme under Jal Jeevan Mission\
@@ -164,6 +170,12 @@
 
 - Revised Administrative approval to Mau.  Parkhandale, Tal. Panhala , Dist. Kolhapur (20012973) water supply scheme Under JJM.\
   [202508281047039628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281047039628.pdf)
+
+- To give revised administrative approval for Mauje Bendaga, Tq. Nilanga, Dist. Latur (20027362)  water supply scheme under Jal Jeevan Mission\
+  [202508291244357828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291244357828.pdf)
+
+- To give revised administrative approval for Mauje Handral, Tq. Nilanga, Dist. Latur (20046388)  water supply scheme under Jal Jeevan Mission\
+  [202508291244403528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291244403528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

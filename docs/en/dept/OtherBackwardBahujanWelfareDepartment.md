@@ -13,6 +13,9 @@
 - Distribution of necessary funds to meet the expenses of celebrating 31st August as Bhatke Vimukta Diwas. (Year 2025-2026)\
   [202508261822097334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261822097334.pdf)
 
+- Regarding installation of solar power system (Ongrid Solar Power Plant System Kit) in ashram schools of Vijabhaj category run on subsidized basis under the Other Backward Classes Welfare Department.\
+  [202508291800517834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291800517834.pdf)
+
 ## Miscellaneous
 - Regarding the selection of schools for the academic year 2025-26 under the scheme to provide education to students of the Dhangar community belonging to the Nomadic Tribes-C category in renowned English medium residential schools in cities.Anjana Pratishthan, Pune run Anjana School of Excellent Group No.6, Talesman, Tal. Gangapur, Dist. Sambhajinagar\
   [202508261554296234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261554296234.pdf)

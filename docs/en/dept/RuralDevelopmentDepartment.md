@@ -17,5 +17,11 @@
 - Regarding ensuring the posts of teaching staff in Zilla Parishads for the disabled as per the Rights of Persons with Disabilities Act, 2016.\
   [202508281455485820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281455485820.pdf)
 
+- Regarding District Attachment of Probationary Assistant Block Development Officer, Group-B in Combined Probationary Training Program (CPTP)-11\
+  [202508291130181920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291130181920.pdf)
+
+- Regarding District Attachment of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP)-11\
+  [202508291130097820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291130097820.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
   [202508261122544917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261122544917.pdf)
 
+- Regarding granting of consolidated administrative approval / revised administrative approval to the proposal for purchase of medicines, medical supplies, machinery and equipment under the health services in the state in the financial year 2025-26. (Corrigendum)\
+  [202508291510258117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291510258117.pdf)
+
 ## Personnel
 - Administrative transfers of Group-A and Group-B cadre officers under the subordinate office of the Commissioner, State Workers Insurance Scheme, Mumbai - Improved Establishment\
   [202508261457463317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261457463317.pdf)

@@ -13,5 +13,11 @@
 - Regarding granting administrative approval to the budget for electrification work in various departments of Chhatrapati Pramilaraje Government Hospital, Kolhapur.\
   [202508251244178613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251244178613.pdf)
 
+- Regarding granting administrative approval to the budget for preparing the access road for the project of Karmaveer Honble Kannamwar Government Medical College and Hospital, Chandrapur.\
+  [202508281731072313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281731072313.pdf)
+
+- Regarding permission to start a new subject of M.Sc. (Nursing) at Dr. D. Y. Patil College of Nursing, Pimpari, Pune\
+  [202508291224420413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291224420413.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
