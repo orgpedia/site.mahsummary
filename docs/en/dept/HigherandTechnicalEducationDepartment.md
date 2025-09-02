@@ -1,30 +1,11 @@
 # Higher and Technical Education Department
 
-**Date Range**: 01 September 2025 - 06 September 2025
+**Date Range**: 08 September 2025 - 13 September 2025
 
 
 ## Miscellaneous
-- Regarding granting administrative approval for electrical renovation work at Government Law College, Mumbai...\
-  [202508261455366608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261455366608.pdf)
-
-- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the governments approval to start a new professional course institution on a permanent unaided basis from the academic year 2025-26... VSS Institute of Business Management, Jalna\
-  [202508281556407508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281556407508.pdf)
-
-- Regarding the formation of a committee to prepare a working procedure for integrated centralized procurement...\
-  [202508281809095708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281809095708.pdf)
-
-- Regarding the Government approval to change the address of the existing Vastu Shastra course institute from the academic year 2025-26 as per the approval of the Architectural Council, New Delhi...\
-  [202508291613423708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291613423708.pdf)
-
-- Regarding fast-track approval of new additional blocks of specific faculties under extraordinary circumstances for the academic year 2025-26.\
-  [202508291659327708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291659327708.pdf)
-
-## Personnel
-- Regarding appointment on nomination basis to the post of Associate Professor, Maharashtra Art Education Service, Group-A...\
-  [202508251515107008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251515107008.pdf)
-
-- Regarding approval for transfer of the amount of service liability under the jurisdiction of the State Government. Dr. Madhukar Maruti Vavare\
-  [202508261800586108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261800586108.pdf)
+- Regarding the establishment of a state-level task force group to prepare a Vision Document for a developed Maharashtra-2047.\
+  [202509011315312508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011315312508.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

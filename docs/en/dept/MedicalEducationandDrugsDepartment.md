@@ -1,23 +1,15 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 01 September 2025 - 06 September 2025
+**Date Range**: 08 September 2025 - 13 September 2025
 
 
 ## Miscellaneous
-- Barr. Nath Pai Educational Institution, Sindhudurg, Barr.Nath Pai Academic Building, M.I.D.C., Plot No. 04, Tal. Kudal, Dist. Sindhudurg ----------------- Regarding permission to start M.Sc. (Nursing) Postgraduate Degree Course.\
-  [202508251509312613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251509312613.pdf)
+- Regarding permission to increase the admission capacity of Homeopathy (B.H.M.S.) Degree Course at R.R.Patil College of Homeopathy, Hospital and Research Centre, Sangli, run by Shri. Tatyasaheb Ghatge Charitable Trust.\
+  [202509011320424613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011320424613.pdf)
 
-- Dr. G.D. Pol Foundations Y. M. T. College of Physiotherapy, Kharghar, Raigad - 410 210 Regarding increasing the admission capacity for the Postgraduate Degree Course in Physiotherapy\
-  [202508261113471513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261113471513.pdf)
-
-- Regarding granting administrative approval to the budget for electrification work in various departments of Chhatrapati Pramilaraje Government Hospital, Kolhapur.\
-  [202508251244178613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251244178613.pdf)
-
-- Regarding granting administrative approval to the budget for preparing the access road for the project of Karmaveer Honble Kannamwar Government Medical College and Hospital, Chandrapur.\
-  [202508281731072313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281731072313.pdf)
-
-- Regarding permission to start a new subject of M.Sc. (Nursing) at Dr. D. Y. Patil College of Nursing, Pimpari, Pune\
-  [202508291224420413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291224420413.pdf)
+## Personnel
+- Administrative Approval for Purchase of Design, Supply  Installation of Modular Clinical Skill Hub on Turnkey Basis at Various Medical Colleges  Hospital\
+  [202509011555382113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011555382113.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
