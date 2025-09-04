@@ -17,5 +17,8 @@
 - Regarding regularization of ad hoc promotions in the cadre of Assistant Conservator of Forests Group-A (Junior Grade).\
   [202509011224055519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011224055519...pdf)
 
+- Regarding the reconstitution of the Civil Service Board to make recommendations to the competent authority regarding the posting and transfers of officers in Group-A under the jurisdiction of the Revenue Department......\
+  [202509031206166219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031206166219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
