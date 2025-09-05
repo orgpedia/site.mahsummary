@@ -1,24 +1,27 @@
 # Water Resources Department
 
-**Date Range**: 01 September 2025 - 06 September 2025
+**Date Range**: 08 September 2025 - 13 September 2025
 
 
 ## Funds
-- Regarding granting administrative approval to the proposal for construction of flood protection wall in Sangliwadi, Taluka Miraj, Dist. Sangli\
-  [202508251625165427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251625165427.pdf)
+- Administrative Approval Under Special Reapirs to Repair works of Dam, Main Canal, Distributory and Minors of Dham Medium Project Taluka Aravi Dist Wardha.\
+  [202509041526081727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041526081727.pdf)
+
+- Regarding granting third revised administrative approval to the Hanbarwadi Lift Irrigation Scheme, Tal.- Karad, Dist.- Satara Scheme.\
+  [202509041539117727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041539117727.pdf)
+
+- Administrative Approval under Special Repairs to Canal renovation work of Bhojapaur Left Bank Canal.\
+  [202509041529522727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041529522727.pdf)
 
 ## Personnel
-- Regarding cancellation of temporary appointment made by nomination to the post of Deputy Engineer (Electrical and Mechanical), Group-A (Gazetted) in Maharashtra Electrical and Mechanical Engineering Service Main Examination-2022\
-  [202508261736092727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261736092727.pdf)
+- Administrative Approval under Special  Repairs to Repair works of Dam, Spillway, Distributory and Minors of Bor Major Project  Taluka Selu Dist Wardha.\
+  [202509041520117427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041520117427.pdf)
 
-- Provisional seniority list of the cadre of Sub-Divisional Officer (Civil Engineering) in the Water Resources Department as on 01.01.2021, 01.01.2022, 01.01.2023, 01.01.2024 and 01.01.2025\
-  [202508261652257727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261652257727....pdf)
+- Administrative Approval under Special Repairs for Provision of new Vertical Lift type Gates in Borgaon Anjanapur Low Level Barrage Tal  Dist Latur.\
+  [202509041533576127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041533576127.pdf)
 
-- Regarding posting after promotion to the Executive Director/Director General cadre of Secretary and Secretary equivalent rank.\
-  [202508261424565927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261424565927.pdf)
-
-- Regarding the posting of an officer in the Executive Engineer (Civil) cadre.\
-  [202508261636269427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508261636269427.pdf)
+- Extension of posting period for promotion of Assistant Engineer Grade-1 cadre officers in the Water Resources Department to the post of Executive Engineer (Civil Engineering).\
+  [202509041612591527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041612591527.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

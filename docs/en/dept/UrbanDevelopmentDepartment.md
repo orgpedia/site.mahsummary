@@ -22,6 +22,12 @@
 - Regarding granting administrative approval to the Central Government sponsored Amrut 2.0 Mission of Thane Municipal Corporation for water supply project. (Rs. 12.79 crore)\
   [202509031805332425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031805332425.pdf)
 
+- Regarding the distribution of Rs. 11.55 crore in the first phase out of the Rs. 46.20 crore funds sanctioned under the Vaishishtyapurna (Lt. No. 2217 1301) scheme to the concerned District Collector from the funds kept with the Directorate of Municipal Council Administration for the financial year 2023-24.\
+  [202509041713346725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041713346725.pdf)
+
+- Release of Fund\
+  [202509041711066025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041711066025.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a high-level committee to investigate the solid waste management project at Gokhivare in the Vasai Virar City Municipal Corporation area...\
   [202509011715300825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011715300825.pdf)

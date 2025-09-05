@@ -11,6 +11,9 @@
 - Regarding approval of revised policy for commercial utilization of surplus lands in the possession of Maharashtra State Road Transport Corporation...\
   [202509011434167129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011434167129.pdf)
 
+- Regarding granting ex-post facto approval to pay the amount due of  Rs. 12,06,770/- towards the rental of private vehicles acquired by the Superintendent of Police, Ahilyanagar from a private supplier as vehicles are required for the SPG team on the visit of Hon. Prime Minister\
+  [202509041726265829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041726265829.pdf)
+
 ## Personnel
 - Limited Departmental Competitive Examination for the Post of Police Sub Inspector\
   [202509011806529429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011806529429.pdf)

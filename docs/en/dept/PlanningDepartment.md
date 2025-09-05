@@ -1,24 +1,18 @@
 # Planning Department
 
-**Date Range**: 01 September 2025 - 06 September 2025
+**Date Range**: 08 September 2025 - 13 September 2025
 
 
 ## Funds
-- Regarding granting administrative approval to the Development Plan for the Shri Karveer Niwasini Mahalaxmi Ambabai Devasthan Premises in Kolhapur City.\
-  [202508281509419716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281509419716.pdf)
+- Regarding the distribution of funds for the Shri Kshetra Jejuri Gad Pilgrimage Development Plan for the year 2025-26.\
+  [202509041252089116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041252089116.pdf)
 
-- Regarding approval to distribute funds for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune.\
-  [202508291216136916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291216136916.pdf)
+- Regarding the distribution of funds for the Shri Kshetra Bhimashankar Pilgrimage Development Plan for the year 2025-26.\
+  [202509041254588716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041254588716.pdf)
 
-- Regarding granting administrative approval to Shri Kshetra Bhimashankar Development Plan (Kumbh Mela 2027-Crowd Management and Other Facilities).\
-  [202508291200275416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508291200275416.pdf)
-
-## Miscellaneous
-- Guidelines regarding Unique Infrastructure ID for infrastructure development projects in the state.\
-  [202508251738560716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508251738560716.pdf)
-
-- Regarding cancellation of stay on issuing orders for commencement of works for undertaking evaluation studies/type studies/surveys/other observations of schemes as well as providing expert services on statistical and economic matters.\
-  [202508281712297016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508281712297016.pdf)
+## Personnel
+- Regarding extension of 36 temporary posts on establishment of Planning Department (Including Employment Guarantee Scheme Division itself)..\
+  [202509041136193216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041136193216.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

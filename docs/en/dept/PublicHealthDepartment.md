@@ -20,6 +20,9 @@
 - Regarding obtaining administrative approval for outsourcing security guard services for District Women and Childrens Hospitals/General Hospitals/Rural Hospitals.\
   [202509031553028417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031553028417.pdf)
 
+- Corrigendum...Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Services cadre.\
+  [202509041059315217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041059315217.pdf)
+
 ## Personnel
 - Regarding payment of fuel price hike difference in accordance with Maharashtra Emergency Medical Services Project. (December 2023 to November 2024)\
   [202509031118232317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031118232317.pdf)

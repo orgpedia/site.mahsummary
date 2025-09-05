@@ -39,5 +39,11 @@
 - Regarding Temporary posting of Probationary Section Officers of Mantralaya Cadre Under CPTP-11\
   [202509011312391307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011312391307....pdf)
 
+- Regarding extension of transfer period of Under Secretary in Mantralaya cadre.\
+  [202509041716005507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041716005507.pdf)
+
+- Temporary promotion on the post of Assistant Section officer-Additional Ad-hoc Select List 2024-25.\
+  [202509041601527207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041601527207.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,5 +19,15 @@
 - Regarding the inclusion of non-plan roads in Partur Taluka (Dist-Jalna)  as a Village Road in the Road Development Plan 2001-21.\
   [202509031036200420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031036200420.pdf)
 
+- Comptroller and Auditor General of India has issued instructions to add notes in MAS Form No. 1 to 8 regarding all Zilla Parishad and Gram Panchayat Election Annual/Sikh Accounts.\
+  [202509041129128320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041129128320.pdf)
+
+- Instructions to all Zilla Parishads, Panchayat Samiti and Gram Panchayat Offices to submit compliance reports to the Accountant Generals Office within the stipulated time frame in respect of pending paragraphs raised during audit observations by the Comptroller and Auditor General of India.\
+  [202509041129148320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041129148320.pdf)
+
+## Personnel
+- Regarding extension a total 1384 temporary posts created at the state level/division level/district level for the implementation of the centrally sponsored Pradhan Mantri Gram Sadak Yojana.\
+  [202509041154279220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041154279220.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

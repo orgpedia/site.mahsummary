@@ -30,5 +30,8 @@
 - Regarding purely temporary promotion from Maharashtra Agricultural Service, Group-A, Superintendent Agricultural Officer cadre to Maharashtra Agricultural Service, Group-A, Joint Director of Agriculture cadre.....\
   [202509031109080001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031109080001.pdf)
 
+- Regarding publication of interim seniority list of officers in Maharashtra Agricultural Administrative Service, Group-B, Assistant Administrative Officer cadre as on 01.01.2024 and as on 01.01.2025.\
+  [202509041335169801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041335169801.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
