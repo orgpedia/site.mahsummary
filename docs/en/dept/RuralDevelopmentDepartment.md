@@ -25,6 +25,9 @@
 - Instructions to all Zilla Parishads, Panchayat Samiti and Gram Panchayat Offices to submit compliance reports to the Accountant Generals Office within the stipulated time frame in respect of pending paragraphs raised during audit observations by the Comptroller and Auditor General of India.\
   [202509041129148320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041129148320.pdf)
 
+- Cancellation of Administrative Approval for the work under Package No. RD STA AUR(II) 15 in Chhatrapati Sambhajinagar district under Chief  Minister Gram Sadak Yojana Phase-2  (Research and Development)\
+  [202509051143596320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051143596320.pdf)
+
 ## Personnel
 - Regarding extension a total 1384 temporary posts created at the state level/division level/district level for the implementation of the centrally sponsored Pradhan Mantri Gram Sadak Yojana.\
   [202509041154279220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041154279220.pdf)

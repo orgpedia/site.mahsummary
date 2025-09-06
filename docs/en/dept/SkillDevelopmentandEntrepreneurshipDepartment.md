@@ -18,5 +18,8 @@
 - Final seniority list of Assistant Commissioner, Group-A cadre officers in Skill Development, Employment and Entrepreneurship System as on 01/01/2025...\
   [202509041124479403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041124479403.pdf)
 
+- Regarding continuation of the temporary post of 1 (Cash Accountant) on the establishment of the Department of Skills, Employment, Entrepreneurship and Innovation (Self).\
+  [202509051459447003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051459447003.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

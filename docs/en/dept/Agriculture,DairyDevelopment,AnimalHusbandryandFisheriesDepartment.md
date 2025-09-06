@@ -20,6 +20,9 @@
 - Regarding approval of a foreign tour to attend a modern training program on Orchard Management through the organization Mashav, Israel at kibbutz, Israel from 06-21 September, 2025.\
   [202509031539298301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031539298301.pdf)
 
+- Regarding implementation of Dairy Development Project Phase-2 in 19 districts of Marathwada region from 2024-25 to 2026-27.\
+  [202509051506014101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051506014101.pdf)
+
 ## Personnel
 - Regarding transfer/additional assignment of officers in the Joint Director of Agriculture cadre.\
   [202509031112146701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031112146701.pdf)
@@ -32,6 +35,9 @@
 
 - Regarding publication of interim seniority list of officers in Maharashtra Agricultural Administrative Service, Group-B, Assistant Administrative Officer cadre as on 01.01.2024 and as on 01.01.2025.\
   [202509041335169801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041335169801.pdf)
+
+- Regarding declaration of Drawing and Disbursement Officer of the Commissioner, Animal Husbandry Department as Virtual Personal Deposit Account Administrator (VPDAA) for speedy disbursement and monitoring of subsidy.\
+  [202509051511585001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051511585001.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

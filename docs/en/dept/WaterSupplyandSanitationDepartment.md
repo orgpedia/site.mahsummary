@@ -13,6 +13,9 @@
 - Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Kapil Pachwad Vasahat, Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
   [202509041145327728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145327728.pdf)
 
+- Regarding granting administrative approval for the construction of cabins for the officials of the Water Supply and Sanitation Department on the 7th and 8th floors of the Go.Te.Hospital building complex.\
+  [202509051340428328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051340428328.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for the tap water supply scheme for 18 villages, Vengurla city and industrial areas, tourist places in Sindhudurg District based on the Tillari project (Account Head 2215 A032)-Corrigendum\
   [202509041320575328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041320575328.pdf)

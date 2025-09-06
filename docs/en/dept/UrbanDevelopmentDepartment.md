@@ -28,6 +28,12 @@
 - Release of Fund\
   [202509041711066025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041711066025.pdf)
 
+- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3 (MUTP-3) (FY 2025-26)\
+  [202509051202121125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051202121125.pdf)
+
+- Regarding disbursement of financial assistance received from AIIB Bank (Loan No.L0353A) for Mumbai Urban Transport Project-3A (MUTP-3A) to Mumbai Railway Development Corporation (Year 2025-26)\
+  [202509051157591225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051157591225.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a high-level committee to investigate the solid waste management project at Gokhivare in the Vasai Virar City Municipal Corporation area...\
   [202509011715300825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011715300825.pdf)

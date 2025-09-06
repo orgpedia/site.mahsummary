@@ -3,6 +3,10 @@
 **Date Range**: 08 September 2025 - 13 September 2025
 
 
+## Funds
+- Dr. G.P. Naik  Adarsh  Teacher Award for Professors, Guides and teachers from  Universities, Traditional Colleges as well as  Engineering and Technical Colleges.\
+  [202509051620576808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051620576808.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of a state-level task force group to prepare a Vision Document for a developed Maharashtra-2047.\
   [202509011315312508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011315312508.pdf)

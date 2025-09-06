@@ -35,6 +35,9 @@
 - Filling the post of deputation basis\
   [202509031121214907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031121214907.pdf)
 
+- Regarding filling up of direct service posts in 17 cadres in the Scheduled Sector (PESA) on honorarium basis.\
+  [202509051739572307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051739572307.pdf)
+
 ## Personnel
 - Regarding Temporary posting of Probationary Section Officers of Mantralaya Cadre Under CPTP-11\
   [202509011312391307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011312391307....pdf)

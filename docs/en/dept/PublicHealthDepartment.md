@@ -10,6 +10,12 @@
 - Regarding approval to disburse and spend a combined fund of Rs. 192,14,45,000/- for the purchase of medicines, consumables, laboratory materials, chemicals and surgical items for District/Divisional Referral Service/General/Sub-District/Rural/Cottage/Trauma and other hospitals in the financial year 2025-26.\
   [202509031811094017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031811094017.pdf)
 
+- Fund Distribution Year 2025-2026 Regarding distribution of funds under the account head 2210 G 251 (General) under 10-Contractual Services for Mahatma Jyotirao Phule Jan Arogya Yojana. ...Corrigendum\
+  [202509051204266217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051204266217.pdf)
+
+- Fund Distribution Year 2025-2026- Regarding the distribution of funds amounting to Rs. 6,99,00,366/-(Six Crore Ninety-Nine Lakh Three Hundred Sixty-Six) as State Share (40) under the Account Head 2210G449 (General) Sub-Head 31-Subsidies (Non-Salary) for Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana... Corrigendum\
+  [202509051204286617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051204286617.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of a State Health Policy Technical Advisory Committee..\
   [202509031129339417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031129339417.pdf)

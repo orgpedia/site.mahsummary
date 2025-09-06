@@ -19,6 +19,9 @@
 - Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty  Tax on Electricity against Subsidy to Agricultural pump consumers for the year 2025-26\
   [202509031146371910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031146371910.pdf)
 
+- Regarding the distribution of Rs. 341.19 crore grant in the year 2025-26 for concession in electricity tariff to Scheduled Caste agricultural pump consumer beneficiaries under the Special Component Programme of the Social Justice Department (Main Account Head No. N-3).\
+  [202509051526291010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051526291010...pdf)
+
 ## Miscellaneous
 - Regarding revival of posts in the cadre of Group-D constables on the establishment of the Directorate of Civil Aviation for compassionate appointment.\
   [202509031517051810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031517051810.pdf)
