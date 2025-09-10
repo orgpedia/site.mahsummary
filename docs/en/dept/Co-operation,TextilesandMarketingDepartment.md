@@ -1,18 +1,23 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 08 September 2025 - 13 September 2025
+**Date Range**: 15 September 2025 - 20 September 2025
 
 
 ## Funds
-- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Warora, District Chandrapur...\
-  [202509041639047002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041639047002.pdf)
+- Regarding approval to distribute and spend funds under the Silk Industry Promotion and Publicity Program for mulberry cultivation under the Green Maharashtra Prosperous Maharashtra campaign...\
+  [202509091440503802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091440503802.pdf)
 
-- Regarding transfer of surplus assets and warehouse of the dissolved Rajur Division Tribal Services Cooperative Society to the name of the currently functioning Rajur Tribal Various Executive Cooperative Society Limited, Rajur.\
-  [202509041248199902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041248199902.pdf)
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Kalmeshwar, Dist. Nagpur...\
+  [202509091816479302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091816479302.pdf)
 
-## Miscellaneous
-- Regarding the distribution of pending onion subsidy to eligible beneficiaries after revision of the Onion Subsidy Scheme for the year 2022-2023.\
-  [202509041605328102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041605328102.pdf)
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Nanded, District Nanded...\
+  [202509091815194002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091815194002.pdf)
+
+- Sri Ramakrishna Godavari Cooperative Upsa Jalcinchan Sanstha Marya. Vaijapur, Dist. Chhatrapati Sambhaji Nagar Regarding waiver of outstanding loan (principal) amount Rs 60 lakh regarding to disbursement\
+  [202509091442093002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442093002.pdf)
+
+- Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Khed, District Pune...\
+  [202509091818140102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091818140102.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

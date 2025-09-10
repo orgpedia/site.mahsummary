@@ -1,37 +1,18 @@
 # Public Health Department
 
-**Date Range**: 08 September 2025 - 13 September 2025
+**Date Range**: 15 September 2025 - 20 September 2025
 
 
 ## Funds
-- Regarding granting administrative approval for the expenditure of notional skilled and notional unskilled manpower through external mechanisms for newly established and upgraded health institutions in the state.\
-  [202509031553006717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031553006717.pdf)
-
-- Regarding approval to disburse and spend a combined fund of Rs. 192,14,45,000/- for the purchase of medicines, consumables, laboratory materials, chemicals and surgical items for District/Divisional Referral Service/General/Sub-District/Rural/Cottage/Trauma and other hospitals in the financial year 2025-26.\
-  [202509031811094017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031811094017.pdf)
-
-- Fund Distribution Year 2025-2026 Regarding distribution of funds under the account head 2210 G 251 (General) under 10-Contractual Services for Mahatma Jyotirao Phule Jan Arogya Yojana. ...Corrigendum\
-  [202509051204266217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051204266217.pdf)
-
-- Fund Distribution Year 2025-2026- Regarding the distribution of funds amounting to Rs. 6,99,00,366/-(Six Crore Ninety-Nine Lakh Three Hundred Sixty-Six) as State Share (40) under the Account Head 2210G449 (General) Sub-Head 31-Subsidies (Non-Salary) for Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana... Corrigendum\
-  [202509051204286617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051204286617.pdf)
+- Regarding granting administrative approval for the purchase of new computers, printers and scanners for the Public Health Department (Own) through the prescribed tender process through GeM portal.\
+  [202509091135127517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091135127517.pdf)
 
 ## Miscellaneous
-- Regarding the establishment of a State Health Policy Technical Advisory Committee..\
-  [202509031129339417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031129339417.pdf)
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
+  [202509091029131817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091029131817.pdf)
 
-- Medical examination policy for state government officers and employees.\
-  [202509031155237417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031155237417.pdf)
-
-- Regarding obtaining administrative approval for outsourcing security guard services for District Women and Childrens Hospitals/General Hospitals/Rural Hospitals.\
-  [202509031553028417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031553028417.pdf)
-
-- Corrigendum...Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Services cadre.\
-  [202509041059315217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041059315217.pdf)
-
-## Personnel
-- Regarding payment of fuel price hike difference in accordance with Maharashtra Emergency Medical Services Project. (December 2023 to November 2024)\
-  [202509031118232317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031118232317.pdf)
+- Regarding administrative approval for expenditure incurred for training sessions in accordance with the Memorandum of Understanding (MoU) signed with Public Health Foundation of India (PHFI), New Delhi, to strengthen public health and training research and policy in the state...\
+  [202509091241120017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091241120017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

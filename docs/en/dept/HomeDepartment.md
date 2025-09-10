@@ -1,31 +1,24 @@
 # Home Department
 
-**Date Range**: 08 September 2025 - 13 September 2025
+**Date Range**: 15 September 2025 - 20 September 2025
 
 
 ## Funds
-- Regarding granting administrative approval to take possession of 5 hectares of forest land for the Police Assistance Center, administrative building, residence, morcha and other security related constructions at Murewada required for the office of the Superintendent of Police, Gadchiroli.\
-  [202509031811573829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031811573829.pdf)
-
-- Regarding approval of the creation of posts for the new batch of State Reserve Police Force created at Varangaon, Taluka Bhusaval, District Jalgaon and the related recurring expenses.\
-  [202509051638315929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051638315929.pdf)
-
-- Regarding distribution of funds for maintenance, repair and other necessary matters of CCTNS project in the state.\
-  [202509051641437629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051641437629.pdf)
-
-## Miscellaneous
-- Regarding approval of revised policy for commercial utilization of surplus lands in the possession of Maharashtra State Road Transport Corporation...\
-  [202509011434167129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011434167129.pdf)
-
-- Regarding granting ex-post facto approval to pay the amount due of  Rs. 12,06,770/- towards the rental of private vehicles acquired by the Superintendent of Police, Ahilyanagar from a private supplier as vehicles are required for the SPG team on the visit of Hon. Prime Minister\
-  [202509041726265829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041726265829.pdf)
+- Regarding granting administrative approval for construction of residences for officers and employees of the office of the Superintendent, State Excise, Ratnagiri.\
+  [202509091632295929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091632295929.pdf)
 
 ## Personnel
-- Limited Departmental Competitive Examination for the Post of Police Sub Inspector\
-  [202509011806529429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509011806529429.pdf)
+- Regarding extension of temporary posts in various establishments of the Police Department\
+  [202509091125510429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091125510429.pdf)
 
-- Regarding posting of probationary who have completed training of the post Deputy Superintendent of Police/ Assistant Commissioner of Police, Police Communication and I.T.\
-  [202509031104375929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031104375929.pdf)
+- Regular Select List 2024-25: Regarding posting-on-promotion to post in the cadre of Superintendent, District Prison, Grade-2/Deputy Superintendent, Central Prison, Group B (Gazetted).\
+  [202509091444491129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091444491129.pdf)
+
+- Regarding extension of tenure of a total of 1482 temporary posts related to security from 01.09.2025 to 28.02.2026.\
+  [202509091457295729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091457295729.pdf)
+
+- Regarding extension of temporary posts in various establishments of the Police Department...\
+  [202509091127394729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091127394729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

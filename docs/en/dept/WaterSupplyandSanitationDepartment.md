@@ -1,46 +1,37 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 08 September 2025 - 13 September 2025
+**Date Range**: 15 September 2025 - 20 September 2025
 
 
 ## Funds
-- Revised Administrative approval to Mou. Wadgaon (Tal. Malegaon, Dist. Nashik) water supply sceme Under JJM.\
-  [202509031623361528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031623361528.pdf)
+- Revised Administrative approval to Mau. Bhandarsakhari, Tal. Rajapur, Dist. Ratnagiri(20083742) water supply scheme Under JJM.\
+  [202509091442507728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442507728.pdf)
 
-- Revised Administrative approval to Mou. Laling  (Tal., Dist. Dhule) water supply sceme Under JJM.\
-  [202509031623218028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031623218028.pdf)
+- Revised Administrative approval to Mau. Islampur, Tal. Mandangad, Dist. Ratnagiri(20083737) water supply scheme Under JJM.\
+  [202509091442221328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442221328.pdf)
 
-- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Kapil Pachwad Vasahat, Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
-  [202509041145327728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145327728.pdf)
+- Revised Administrative approval to Mau. Zarye, Tal. Rajapur, Dist. Ratnagiri(20065555) water supply scheme Under JJM.\
+  [202509091442410828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442410828.pdf)
 
-- Regarding granting administrative approval for the construction of cabins for the officials of the Water Supply and Sanitation Department on the 7th and 8th floors of the Go.Te.Hospital building complex.\
-  [202509051340428328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509051340428328.pdf)
+- Revised Administrative approval to Mau. Mirgulewadi, Tal. Rajapur, Dist. Ratnagiri(20097343) water supply scheme Under JJM.\
+  [202509091442557928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442557928.pdf)
+
+- Revised Administrative approval to Mau. Parule, Tal. Rajapur, Dist. Ratnagiri(20039695) water supply scheme Under JJM.\
+  [202509091442458628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442458628.pdf)
+
+- Revised Administrative approval to Mau. Umabarshet, Tal. Mandangad, Dist. Ratnagiri(20082952) water supply scheme Under JJM.\
+  [202509091442239428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442239428.pdf)
+
+- Revised Administrative approval to Mau. Kasarwadi, Tal. Rajapur, Dist. Ratnagiri(20065549) water supply scheme Under JJM.\
+  [202509091442349728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442349728.pdf)
 
 ## Miscellaneous
-- Regarding the distribution of funds for the tap water supply scheme for 18 villages, Vengurla city and industrial areas, tourist places in Sindhudurg District based on the Tillari project (Account Head 2215 A032)-Corrigendum\
-  [202509041320575328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041320575328.pdf)
+- Regarding  foreign tour of  Shri. E. Ravindran (I.A.S.), Mission Director, State Water and Sanitation Mission, Belapur, to Gangwon State, Republic of Korea during 13.09.2025  to 22.09.2025  (including travel period)...\
+  [202509091542178628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091542178628.pdf)
 
 ## Personnel
-- Revised Administrative approval to Mou. Ratanpura  (Tal., Dist. Dhule) water supply sceme Under JJM.\
-  [202509031623245328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031623245328.pdf)
-
-- Revised Administrative approval to Mou. Pohane (Tal. Malegaon, Dist. Nashik) water supply sceme Under JJM.\
-  [202509031623310828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031623310828.pdf)
-
-- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Gondi, Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
-  [202509041145267028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145267028.pdf)
-
-- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Aund Thorat Mala, Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
-  [202509041145159528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145159528.pdf)
-
-- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Kanegaon, Taluka.Karad, Dist.Satara under the Jal Jeevan Mission program.\
-  [202509041145211328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145211328.pdf)
-
-- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Gosavewadi, Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
-  [202509041145134628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145134628.pdf)
-
-- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Gureghar, al.Mahabaleshwar, Dist.Satara under the Jal Jeevan Mission program\
-  [202509041145374528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041145374528.pdf)
+- Revised Administrative approval to Mau. Savari, Tal. Mandangad, Dist. Ratnagiri(20040478) water supply scheme Under JJM.\
+  [202509091442289828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442289828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
