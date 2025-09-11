@@ -13,6 +13,21 @@
 - Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Khadawli Education Society, Target College of Pharmacy, Thane)\
   [202509091600286208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091600286208.pdf)
 
+- Shri. Atul Bhatkhalkar, Hon. Member of Legislative Assembly, nominated for the post of Member of Maharashtra State Higher Education and Development Commission\
+  [202509101050081508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101050081508.pdf)
+
+- Government approval to change the name of the existing Institute of Pharmacy from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi...\
+  [202509101536149308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101536149308.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (K. K. Wagh Institute of Pharmacy, M.P. Chandori, Tal. Niphad, Dist. Nashik)\
+  [202509101848066708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101848066708.pdf)
+
+- Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. PES Modern College of Pharmacy for Ladies, Moshi, Tal. Haveli, Dist. Pune\
+  [202509101532196208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101532196208.pdf)
+
+- Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (Rajshree College of Pharmacy, Mehkar, Dist. Buldhana)\
+  [202509101534222208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101534222208.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list of officers working in the post of Assistant Secretary (Technical), Maharashtra State Board of Technical Education dated January 01, 2025.\
   [202509091306089708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091306089708.pdf)
