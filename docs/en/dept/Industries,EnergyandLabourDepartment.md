@@ -16,5 +16,9 @@
 - Regarding the addition of services to Shri. Ajinkya Ashok Aajgekar, Deputy Director of Industries (Technical), Group-A in his previous posts.\
   [202509101812439410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101812439410.pdf)
 
+## Personnel
+- Regarding promotion to the post of Superintending Engineer, Group-A (Gazetted) from the cadre of Electrical Inspector, Group-A (Gazetted)...(Selection List for the year 2024-25)\
+  [202509111336331710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111336331710.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

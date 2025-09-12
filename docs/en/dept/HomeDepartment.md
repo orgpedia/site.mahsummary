@@ -23,6 +23,12 @@
 - Sanctioning of professional fees to Shri.Raja Thakare, A.S.G. as a Special Counsel for appearing and conducting the SLP (Crl.) D.No.1798/2025 before the Honble Supreme Court of India, New Delhi which are arising out of C.R.No.19/2009 registered with Karad City Police Station,\
   [202509101834540129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101834540129.pdf)
 
+- Regarding disbursement of funds for payment of pending rent of helicopter taken on hire basis from M/s Pawan Hans Ltd., Mumbai.\
+  [202509111435148629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111435148629.pdf)
+
+- Regarding revival of Group-D cadre posts for compassionate appointment on the establishment of Police Component Office in Maharashtra Police Force.\
+  [202509111714471629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111714471629.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in various establishments of the Police Department\
   [202509091125510429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091125510429.pdf)

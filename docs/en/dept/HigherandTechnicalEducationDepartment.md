@@ -28,6 +28,9 @@
 - Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (Rajshree College of Pharmacy, Mehkar, Dist. Buldhana)\
   [202509101534222208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101534222208.pdf)
 
+- Regarding issuance of letter of intent to new college for academic year 2026-27. (Court case)\
+  [202509111507127508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111507127508.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list of officers working in the post of Assistant Secretary (Technical), Maharashtra State Board of Technical Education dated January 01, 2025.\
   [202509091306089708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091306089708.pdf)

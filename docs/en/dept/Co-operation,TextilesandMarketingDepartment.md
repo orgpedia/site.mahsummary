@@ -19,6 +19,9 @@
 - Regarding administrative approval for the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Khed, District Pune...\
   [202509091818140102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091818140102.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Aheri, District Gadchiroli...\
+  [202509111042031502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111042031502.pdf)
+
 ## Miscellaneous
 - Regarding appointment of nodal officers at the divisional level for implementation of Maharashtra Public Trust Act.\
   [202509101635272602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101635272602.pdf)

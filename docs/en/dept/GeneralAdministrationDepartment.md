@@ -23,6 +23,9 @@
 - Regarding display of office identity cards by Government officers and employees on foreside\
   [202509101805522707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101805522707.pdf)
 
+- Guidance on the difficulties faced while implementing the comprehensive revised policy of compassionate appointment and making appointments in accordance with the recommendations of the Clerk-Typist Examination-2023.\
+  [202509111610343407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111610343407.pdf)
+
 ## Personnel
 - Extension of transfer. Shri Prashant Andhare, Section officer\
   [202509101122558107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101122558107.pdf)
@@ -32,6 +35,15 @@
 
 - Regarding extension of 36 temporary posts in the Regional Divisional Inquiry Officers Office from 01.09.2025 to 28.02.2026.\
   [202509101216206207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101216206207.pdf)
+
+- Regarding extension of the deputation of Shri. Dhananjay Avadhoot, Assistant Cell Officer, in the office of State Service Rights Commission, Nagpur.\
+  [202509111702489307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111702489307.pdf)
+
+- Transfer Order Mr.Malikarjun Panshetti,  Higher Grade Stenographer\
+  [202509111342196207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111342196207.pdf)
+
+- Transfer Order Smt. Shubhangi Jadhav,  Higher Grade Stenographer\
+  [202509111340092307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111340092307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

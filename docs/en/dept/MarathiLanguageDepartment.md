@@ -1,17 +1,21 @@
 # Marathi Language Department
 
-**Date Range**: 18 August 2025 - 23 August 2025
+**Date Range**: 15 September 2025 - 20 September 2025
 
 
-## Funds
-- Regarding granting administrative approval for renovation of the premises of the Directorate of Languages at New Administrative Building, 18th Floor, Mantralaya, Mumbai and for providing updated meeting arrangements for the employees.\
-  [202508111509332433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111509332433.pdf)
+## Miscellaneous
+- Regarding granting administrative approval to organize Setu Parishad of non-governmental organizations working on Marathi language and literature in Maharashtra in Pune.\
+  [202509111248009033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111248009033.pdf)
 
-- Regarding granting administrative approval for the Madiya language project.\
-  [202508111511007133.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111511007133.pdf)
+## Personnel
+- Regarding extension of temporary posts in Maharashtra State Marathi Encyclopedia Production Board for the period from 01.09.2025 to 28.02.2026.\
+  [202509111604401033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111604401033.pdf)
 
-- Regarding granting administrative approval to organize a conference of experts in 11 Indian classical languages at Amravati.\
-  [202508111507416833.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202508111507416833.pdf)
+- Regarding extension of temporary posts in the office of Maharashtra State Literature and Culture Board from 01.09.2025 to 28.02.2026.\
+  [202509111606021633.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111606021633.pdf)
+
+- Regarding extension of temporary posts in the Directorate of Languages from 01.09.2025 to 28.02.2026.\
+  [202509111602579433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111602579433.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
