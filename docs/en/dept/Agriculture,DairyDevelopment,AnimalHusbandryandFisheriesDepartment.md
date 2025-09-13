@@ -13,6 +13,9 @@
 - Regarding granting administrative and financial approval for a fund of Rs. 800.00 lakhs for various agricultural awards for the years 2023-24 and 2024-25 and prizes for the winning farmers of Rabi and Kharif season crop competitions for the year 2024-25 in the year 2025-26.\
   [202509111140281801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111140281801.pdf)
 
+- Regarding granting financial powers to the Project Director and the Regional Officers of the Agriculture Department as per the Financial Powers Manual 1978, Part-II for the effective implementation of Nanaji Deshmukh Krishi Sanjeevani Project Phase-2.\
+  [202509121654318401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121654318401.....pdf)
+
 ## Miscellaneous
 - Regarding making available the services of Shri. Girish Ashok Bibve, Agriculture Officer, Sub Divisional Agriculture Officer, Shrirampur Dist. Ahilyanagar on a case-by-case basis in the office of Hon. Deputy Chief Minister (Urban Development).\
   [202509111607579601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111607579601.pdf)

@@ -29,6 +29,9 @@
 - Regarding  foreign tour of  Shri. E. Ravindran (I.A.S.), Mission Director, State Water and Sanitation Mission, Belapur, to Gangwon State, Republic of Korea during 13.09.2025  to 22.09.2025  (including travel period)...\
   [202509091542178628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091542178628.pdf)
 
+- Regarding the declaration of State Scheme Manager (SSM) under the Centrally Sponsored Jal Jeevan Mission Scheme.\
+  [202509121504110228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121504110228.pdf)
+
 ## Personnel
 - Revised Administrative approval to Mau. Savari, Tal. Mandangad, Dist. Ratnagiri(20040478) water supply scheme Under JJM.\
   [202509091442289828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091442289828.pdf)

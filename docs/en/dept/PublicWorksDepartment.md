@@ -24,5 +24,11 @@
 - AE2 Electrcial Engineers Seniority  Permanent -  dated 01.01.2023, 01.01.2024 and 1.01.2025\
   [202509111554084218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111554084218.pdf)
 
+- Regarding regularization of ad hoc promotion to the post of Executive Engineer (Civil Engineering).\
+  [202509121100243018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121100243018.pdf)
+
+- Continuation of posts.\
+  [202509121606467318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121606467318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

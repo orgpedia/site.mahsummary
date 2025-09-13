@@ -16,6 +16,9 @@
 - Mauje Sarola, Muktainagar, Dist. District No.30 of Jalgaon is 01.40. R For e-auction of mining leases on government land for the area Regarding refund of 15 amount deposited to Govt - BNA INFRASTRUCTURE PVT. LTD.\
   [202509111746587219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111746587219.pdf)
 
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy and unseasonal rains in Raigad, Ratnagiri and Sindhudurg districts in the state during June, 2025.\
+  [202509121142401719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121142401719.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds under the scheme for the establishment of Maharashtra Nature Tourism Development Board for the year 2025-26 (2406-A096).\
   [202509091217132319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091217132319.pdf)
@@ -59,6 +62,18 @@
 
 - Establishment: Extension of 71 temporary posts in the offices of the Principal Bench of Maharashtra Revenue Tribunal, Mumbai and Benches at Pune, Chhatrapati Sambhaji Nagar and Nagpur from 01/09/2025 to 28/02/2026 ..\
   [202509111250580019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111250580019.pdf)
+
+- Regarding extension of 518 temporary posts of Circle Officer from 01.09.2025 to 28.02.2026.\
+  [202509121750455119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121750455119.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by unseasonal rains and heavy rains in Nagpur, Wardha, Chandrapur, Hingoli and Solapur districts in the state from June, 2025 to August, 2025...\
+  [202509121055024419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121055024419.pdf)
+
+- Regarding continuation of 2 temporary posts under the non-plan scheme of Resource Determination and Basic Material Development Component in the year 2025-26.\
+  [202509121127311519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121127311519.pdf)
+
+- Regarding posting of probationary officers of the 2023 batch of the Indian Forest Service to the posts of Sub-Divisional Forest Officer and Assistant Conservator of Forests.\
+  [202509121651337619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121651337619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

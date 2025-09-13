@@ -1,18 +1,15 @@
 # Planning Department
 
-**Date Range**: 08 September 2025 - 13 September 2025
+**Date Range**: 15 September 2025 - 20 September 2025
 
 
 ## Funds
-- Regarding the distribution of funds for the Shri Kshetra Jejuri Gad Pilgrimage Development Plan for the year 2025-26.\
-  [202509041252089116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041252089116.pdf)
-
-- Regarding the distribution of funds for the Shri Kshetra Bhimashankar Pilgrimage Development Plan for the year 2025-26.\
-  [202509041254588716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041254588716.pdf)
+- Development Plan for the Martyrdom Site of Swarajya Rakshak Dharmaveer Chhatrapati Sambhaji Maharaj, Tulapur Taluka, Haveli and Samadhi Site, Wadhu Bhu. Shirur District, Pune regarding the distribution of funds in the year 2025-26.\
+  [202509121217302516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121217302516.pdf)
 
 ## Personnel
-- Regarding extension of 36 temporary posts on establishment of Planning Department (Including Employment Guarantee Scheme Division itself)..\
-  [202509041136193216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509041136193216.pdf)
+- Regarding approval to continue the temporary posts created for the three pilgrimage development plans: Creating basic facilities in the Shri Kshetra Dehu, Alandi, Pandharpur, Bhandara Dongar, Sadumbare Palkhital Marg area, Creating basic facilities in the Shegaon area on the occasion of the Gajanan Maharaj Samadhi Centenary Festival and Creating basic facilities in the Venerable Rashtrasant Tukadoji Maharaj Mozhari, District Amravati.\
+  [202509121511265416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121511265416.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

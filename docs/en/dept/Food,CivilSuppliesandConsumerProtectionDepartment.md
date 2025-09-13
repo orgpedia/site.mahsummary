@@ -3,6 +3,10 @@
 **Date Range**: 15 September 2025 - 20 September 2025
 
 
+## Funds
+- Regarding distribution of funds for APL-DBT (Orange) Farmers Scheme in 14 districts.\
+  [202509121523424506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121523424506.pdf)
+
 ## Miscellaneous
 - Regarding revival of posts in Peon (Group-D) cadre for compassionate appointment at the establishment of Supply Office in the Regional Supply System.\
   [202509101225541306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101225541306.pdf)

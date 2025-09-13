@@ -3,6 +3,10 @@
 **Date Range**: 15 September 2025 - 20 September 2025
 
 
+## Funds
+- Regarding the distribution of Subsidies (Compulsory) for the first installment of the financial year 2025-26 to Government-approved Gram Panchayat Libraries.....\
+  [202509121858374108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121858374108.pdf)
+
 ## Miscellaneous
 - Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Shri Venkatesha Shikshan Prasarak Mandal, Shri Venkatesha College of Pharmacy, Apatgaon, Dist. Chhatrapati Sambhajinagar)\
   [202509091603337008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091603337008.pdf)
@@ -31,9 +35,15 @@
 - Regarding issuance of letter of intent to new college for academic year 2026-27. (Court case)\
   [202509111507127508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111507127508.pdf)
 
+- Regarding the distribution of Subsidies (Compulsory) to Government-approved Public Libraries for the first installment in the financial year 2025-26.\
+  [202509121854491008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121854491008.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list of officers working in the post of Assistant Secretary (Technical), Maharashtra State Board of Technical Education dated January 01, 2025.\
   [202509091306089708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091306089708.pdf)
+
+- Provisional seniority list of Maharashtra State Library Service Group-B cadre officers in the Directorate of Libraries and its subordinate offices as on 01.01.2025.\
+  [202509121856231408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121856231408.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

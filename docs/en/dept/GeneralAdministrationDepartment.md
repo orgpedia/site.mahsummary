@@ -26,6 +26,15 @@
 - Guidance on the difficulties faced while implementing the comprehensive revised policy of compassionate appointment and making appointments in accordance with the recommendations of the Clerk-Typist Examination-2023.\
   [202509111610343407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111610343407.pdf)
 
+- Regarding filling up the vacant posts of Deputy Secretary/Cell Officer/Assistant Cell Officer in the State Chief Information Commission and its 7 benches on deputation from officers/employees holding equivalent posts from the ministerial cadre and the cadre of the regional offices....\
+  [202509121545363607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121545363607.pdf)
+
+- Regarding amendment in the scheme of combined probationary training programme for probationary officers appointed in Group-A and Group-B in Government Service through State Service Examination by Maharashtra Public Service Commission (Government Corrigendum)\
+  [202509121111504107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121111504107....pdf)
+
+- Visit of Principal Secratary (DGIPR) of Government of Maharashtra to participate Second India-Indonesia Track 1.5 Dialogue to be held in Jakarta on Sept 15-16, 2025.\
+  [202509121849359107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121849359107.pdf)
+
 ## Personnel
 - Extension of transfer. Shri Prashant Andhare, Section officer\
   [202509101122558107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101122558107.pdf)

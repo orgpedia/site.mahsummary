@@ -3,6 +3,10 @@
 **Date Range**: 15 September 2025 - 20 September 2025
 
 
+## Funds
+- Adminstrative Approval Under Special Repairs to Repair work of Mechanical and Electrical Component for Dam safety and Easy Gates Movement of   Tagarkheda   High Level Barrage.\
+  [202509121601418127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121601418127.pdf)
+
 ## Miscellaneous
 - Formation of a study group to revise the forms to collect crop area and irrigated area data required for the report Economic Survey of Maharashtra: Regarding extension of time to the study group\
   [202509101706161827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101706161827.pdf)
@@ -16,6 +20,9 @@
 
 - Regarding extension of 157 temporary posts in the establishment of Water Resources Department (Own) till 28.02.2026.\
   [202509101755473927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101755473927.pdf)
+
+- Adminstrative Approval Under Special Repairs to Repair work of Mechanical and Electrical Component for dam safety and Easy Gate movement of Dongargaon High Level Barrage.\
+  [202509121558450727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121558450727.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -55,6 +55,15 @@
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban, an amount of Rs. 5.00 crore\
   [202509111710029825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111710029825.pdf)
 
+- Regarding redistribution of funds disbursed under Part-1 of the Central Governments Special Assistance to States for Capital Investment 2025-26 scheme.\
+  [202509121748261425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121748261425.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Brihanmumbai Municipal Corporation District Mumbai Suburban, an amount of Rs. 4.00 crore (Corrigendum)\
+  [202509121739083325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121739083325.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) for Brihanmumbai Municipal Corporation, District Mumbai Suburban, an amount of Rs. 5.00 crore (Corrigendum)\
+  [202509121736204525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121736204525.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds under Special scheme. For the year 2025-26, an amount of Rs. 1.40 crores for Ballarpur Municipal Council, Dist. Chandrapur under the account head (2217 1301) (Corrigendum)\
   [202509101213507525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101213507525.pdf)
@@ -86,6 +95,9 @@
 ## Personnel
 - Approval  Staffing Pattern of Jalna city municipal corporation\
   [202509111831142025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111831142025.pdf)
+
+- Regarding approval for implementation of the elevated road project between Thane and Navi Mumbai International Airport (NMIA) on BOT (Build - Operate - Transfer) basis under Public-Private-Partnership (PPP)...\
+  [202509121748362525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121748362525.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

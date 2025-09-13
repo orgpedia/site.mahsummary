@@ -22,6 +22,12 @@
 - Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Aheri, District Gadchiroli...\
   [202509111042031502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111042031502.pdf)
 
+- Regarding the celebration of National Handloom Day on 7th August, 2025 and the distribution of funds for implementing the programs planned for the promotion and publicity of the Integrated and Sustainable Textile Policy 2023-28.\
+  [202509121223241402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121223241402....pdf)
+
+- Regarding granting administrative approval to the budget for the repair of the existing insect nursery and granary building, construction of a protective wall and ancillary works at the Silk Centre, Amboli, Taluka Sawantwadi, District Sindhudurg.\
+  [202509121220281902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121220281902.pdf)
+
 ## Miscellaneous
 - Regarding appointment of nodal officers at the divisional level for implementation of Maharashtra Public Trust Act.\
   [202509101635272602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101635272602.pdf)
