@@ -1,21 +1,14 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 15 September 2025 - 20 September 2025
+**Date Range**: 22 September 2025 - 27 September 2025
 
 
-## Funds
-- Regarding the distribution of funds for the Chief Ministers My Dear Sister Scheme in the financial year 2025-26. (Account Head 2235D767)\
-  [202509091548348022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091548348022.pdf)
+## Miscellaneous
+- Regarding extension of time to the committee constituted under the chairmanship of a retired judge of the Honble High Court to sub-categorize the reservation for Scheduled Castes as per the directions of the Honble Supreme Court in Civil Appeal No. 2317/2011 (The State of Punjab vs. Davinder Singh)...\
+  [202509151829119322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151829119322.pdf)
 
-- Regarding disbursing long-term loans to backward class cooperative spinning mills... Regarding sanctioning of loans to spinning mills in the financial year 2025-26.\
-  [202509121553553922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121553553922.pdf)
-
-## Personnel
-- Regarding the continuation of temporary posts in the Committee for National Integration, Universal Brotherhood and the Promotion of Thought.\
-  [202509101355374622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101355374622.pdf)
-
-- Regarding extension of 23 temporary posts at the establishment of the Department of Social Justice and Special Assistance itself.\
-  [202509101358509122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101358509122.pdf)
+- Regarding increasing the financial assistance to disabled beneficiaries under Sanjay Gandhi Niradhar Grant Scheme and Shravan Bal Seva State Pension Scheme from Rs. 1500/- to Rs. 2500/-.\
+  [202509151544573022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151544573022.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
