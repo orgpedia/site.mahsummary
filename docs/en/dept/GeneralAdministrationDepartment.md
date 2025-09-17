@@ -3,6 +3,10 @@
 **Date Range**: 22 September 2025 - 27 September 2025
 
 
+## Funds
+- Regarding approval to purchase 4 new vehicles for the fleet of Hon. Governor.\
+  [202509161258068007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161258068007.pdf)
+
 ## Miscellaneous
 - Catering services at the official residence of the Hon. Chief Minister and Hon. Deputy Chief Minister. Regarding extension of time to service providers.\
   [202509151601540007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151601540007.pdf)

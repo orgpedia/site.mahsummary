@@ -1,49 +1,28 @@
 # Higher and Technical Education Department
 
-**Date Range**: 15 September 2025 - 20 September 2025
+**Date Range**: 22 September 2025 - 27 September 2025
 
 
 ## Funds
-- Regarding the distribution of Subsidies (Compulsory) for the first installment of the financial year 2025-26 to Government-approved Gram Panchayat Libraries.....\
-  [202509121858374108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121858374108.pdf)
+- Regarding the distribution of funds amounting to Rs. 60.00 lakhs to the Asiatic Society, Mumbai for the year 2025-26.\
+  [202509161753445608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161753445608.pdf)
 
 ## Miscellaneous
-- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Shri Venkatesha Shikshan Prasarak Mandal, Shri Venkatesha College of Pharmacy, Apatgaon, Dist. Chhatrapati Sambhajinagar)\
-  [202509091603337008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091603337008.pdf)
+- Regarding approval to take private space on rent for the District Library Officers Office, Chandrapur due to the expansion of the building.\
+  [202509161127545108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161127545108.pdf)
 
-- Government approval to start a new Post Graduate Degree course in the existing Pharmacy course institute from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. (Dr. Arun Motghare College of Pharmacy, Kosra-Konda, Taluka Pawani)\
-  [202509091557313908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091557313908.pdf)
-
-- Regarding approval to start a new institute of Diploma Pharmacy course on permanent unaided basis from the academic year 2025-26. (Khadawli Education Society, Target College of Pharmacy, Thane)\
-  [202509091600286208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091600286208.pdf)
-
-- Shri. Atul Bhatkhalkar, Hon. Member of Legislative Assembly, nominated for the post of Member of Maharashtra State Higher Education and Development Commission\
-  [202509101050081508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101050081508.pdf)
-
-- Government approval to change the name of the existing Institute of Pharmacy from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi...\
-  [202509101536149308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101536149308.pdf)
-
-- Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (K. K. Wagh Institute of Pharmacy, M.P. Chandori, Tal. Niphad, Dist. Nashik)\
-  [202509101848066708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101848066708.pdf)
-
-- Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. PES Modern College of Pharmacy for Ladies, Moshi, Tal. Haveli, Dist. Pune\
-  [202509101532196208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101532196208.pdf)
-
-- Regarding the approval of the Government to start a new degree course in the existing Diploma in Pharmacy course from the academic year 2025-26 as per the approval of the Pharmacy Council of India, New Delhi. (Rajshree College of Pharmacy, Mehkar, Dist. Buldhana)\
-  [202509101534222208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509101534222208.pdf)
-
-- Regarding issuance of letter of intent to new college for academic year 2026-27. (Court case)\
-  [202509111507127508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111507127508.pdf)
-
-- Regarding the distribution of Subsidies (Compulsory) to Government-approved Public Libraries for the first installment in the financial year 2025-26.\
-  [202509121854491008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121854491008.pdf)
+- Regarding the implementation of the old pension scheme on the lines of the Central Government to the Government officers/employees whose recruitment advertisement/notification was issued before 01.11.2005, but who joined the Government service on or after 01.11.2005.\
+  [202509161718001608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161718001608.pdf)
 
 ## Personnel
-- Regarding publication of the final seniority list of officers working in the post of Assistant Secretary (Technical), Maharashtra State Board of Technical Education dated January 01, 2025.\
-  [202509091306089708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509091306089708.pdf)
+- Regarding publication of provisional seniority list of officers holding the post of Principal, Government Polytechnic College in Maharashtra for the period from 01.01.2011 to 01.01.2025.\
+  [202509161737342008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161737342008.pdf)
 
-- Provisional seniority list of Maharashtra State Library Service Group-B cadre officers in the Directorate of Libraries and its subordinate offices as on 01.01.2025.\
-  [202509121856231408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509121856231408.pdf)
+- Regarding publication of provisional seniority list of officers holding the post of HOD, Government Polytechnic College in Maharashtra for the period from 01.01.2011 to 01.01.2025.\
+  [202509161739182508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161739182508.pdf)
+
+- Regarding extension of temporary posts in the Government Offices/Colleges/Institutions under the jurisdiction of Director, Higher Education, Maharashtra State, Pune and upto 28.02.2026.\
+  [202509161716140008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161716140008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

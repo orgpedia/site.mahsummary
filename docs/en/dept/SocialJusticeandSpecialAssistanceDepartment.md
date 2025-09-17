@@ -10,5 +10,12 @@
 - Regarding increasing the financial assistance to disabled beneficiaries under Sanjay Gandhi Niradhar Grant Scheme and Shravan Bal Seva State Pension Scheme from Rs. 1500/- to Rs. 2500/-.\
   [202509151544573022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151544573022.pdf)
 
+- Regarding the declaration of Drawing and Disbursing Officer and Controlling Officer for Anna Bhau Sathe Research and Training Institute (ARTI), Mumbai.\
+  [202509161218476322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161218476322.pdf)
+
+## Personnel
+- Regarding extension of temporary posts in the establishment of Commissioner, Social Welfare, Maharashtra State, Pune.. 2025-2026\
+  [202509161745158422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161745158422....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

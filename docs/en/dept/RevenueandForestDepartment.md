@@ -17,6 +17,9 @@
 - Regarding granting permission to erect advertisement boards on government land.\
   [202509151445101819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151445101819.pdf)
 
+- Regarding the exercise of powers and duties by the District Collector as the ex-officio Deputy Director of the Land Records Department.\
+  [202509161656237619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161656237619.pdf)
+
 ## Personnel
 - Regarding posting by ad hoc promotion from Assistant Revenue Officer and Board Officer cadre to Naib Tehsildar cadre on purely temporary basis (Konkan Division).\
   [202509151506460919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151506460919.pdf)
@@ -29,6 +32,12 @@
 
 - Regarding regularization of ad hoc promotions in the cadre of Naib Tehsildar in Konkan Division (Selection List 2024-25)\
   [202509151509521219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151509521219.pdf)
+
+- Regarding appointment by deputation. Shri. Pralhad Hiramani, Tehsildar\
+  [202509161518014319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161518014319.pdf)
+
+- Regarding the continuation of temporary posts in the Non Plan Scheme, Human Resource Development for the year 2025-26, reorganization of the Forest Department...\
+  [202509161302328119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161302328119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

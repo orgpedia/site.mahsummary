@@ -7,9 +7,28 @@
 - Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Shri Venkatesh Shetkari Vinkari Cooperative Spinning Mill Ltd., Ichalkaranji, Tal. Hatkanangle, Dist. Kolhapur.\
   [202509151612428102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151612428102.pdf)
 
+- Regarding approval for sale of land owned by Yashwant Cooperative Sugar Factory Ltd. Chintamani Nagar, Theur, Tal. Haveli, Dist. Pune.\
+  [202509161713349402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161713349402.pdf)
+
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Chaundeshwari Cooperative Spinning Mill Ltd., Ichalkaranji, Tal. Shirol, Dist. Kolhapur.\
+  [202509161732262802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161732262802.pdf)
+
 ## Miscellaneous
 - Regarding repayment of interest on loans received by the State Government in the years 2023-24 and 2024-25 under the Margin Money Loan Scheme from the National Cooperative Development Corporation (NCDC).\
   [202509151803425602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151803425602.pdf)
+
+- Regarding the functioning of the District Level Committee constituted to implement the order of Honble High Court, Mumbai under Su Moto Petition No.1/2023.\
+  [202509161734414402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161734414402.pdf)
+
+- Regarding granting the status of Minister of State to Shri. Rajan Baburao Patil, former V.S., who has been appointed as the President of Maharashtra State Cooperative Council, Pune.\
+  [202509161733525002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161733525002.pdf)
+
+## Personnel
+- Continuation of temporary posts Maharashtra State Cooperative Agriculture Rural Multipurpose Development Bank.\
+  [202509161749083402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161749083402.pdf)
+
+- Regarding the continuation of the posts of temporary employees approved for handing over the audit of cooperative societies audited by certified auditors to office auditors. Audit of urban banks.\
+  [202509161746305302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161746305302.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
