@@ -10,6 +10,9 @@
 - Regarding giving administrative recognition to the new buildings (No. 1,2,3,4,5 and 6) located at Goods and Services Tax Bhawan, Mazgaon, Mumbai.\
   [202509161723517305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161723517305.pdf)
 
+- Government Vehicle Price Limit Policy.\
+  [202509171700524805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171700524805.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts on establishment of Finance Department(own) and Directorate of State Lotteries In the period dt.01 September 2025 to 28 February 2026\
   [202509151540397405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151540397405.pdf)

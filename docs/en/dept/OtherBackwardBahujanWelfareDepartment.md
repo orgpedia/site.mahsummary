@@ -22,5 +22,12 @@
 - Dr. Babasaheb Ambedkar Pratishthan, Purna, Dist. Parbhani, Blue Lines Public CBSC English Medium School, Ejali, Tal. Mudkhed, Dist. Nanded\
   [202509161731454334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161731454334.pdf)
 
+- Regarding selection of school for the academic year 2025-26 under Raje Yashwantrao Holkar English Medium Residential Education Scheme. Hasti Charitable Trust run Hasti Public School and Junior College, Dondaicha, Tal. Shindkheda, Dist. Dhule\
+  [202509171715485234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171715485234.pdf)
+
+## Personnel
+- Regarding partial change in the posting of Shri. Vishal Sunil Chaudhary, a candidate sponsored by Maharashtra Public Service Commission, as Other Backward Bahujan Welfare Officer Group-B (Gazetted).\
+  [202509171805475334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171805475334.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

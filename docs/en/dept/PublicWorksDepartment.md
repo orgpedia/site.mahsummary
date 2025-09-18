@@ -13,6 +13,9 @@
 - Regarding creation of 02 supernumerary posts for Departmental Accountant (Probationary).\
   [202509161436416018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161436416018.pdf)
 
+- Regarding the reservation system for VIPs in the Presidential Suite at the Circuit House/Rest House.\
+  [202509171201061118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171201061118.pdf)
+
 ## Personnel
 - Regarding extension of tenure of temporary posts in the office under the Chief Engineer (National Highways), Navi Mumbai.\
   [202509151714317318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151714317318.pdf)

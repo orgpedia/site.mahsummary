@@ -19,6 +19,12 @@
 - Procedure and time-bound program for cancelling invalid delayed birth  and death records and getting back the certificate\
   [202509161520508217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161520508217.pdf)
 
+- Regarding extension of service of contractual security guards at Regional Psychiatric Hospital Pune, Ratnagiri and Nagpur.....Corrigendum\
+  [202509171048162617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171048162617.pdf)
+
+- Regarding administrative approval for expenditure on notional skilled and notional unskilled manpower through external mechanisms for newly established and upgraded health institutions in the state....Corrigendum\
+  [202509171048070817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171048070817.pdf)
+
 ## Personnel
 - Regarding the implementation of the State Training Policy of the Public Health Department.\
   [202509151151400517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151151400517.pdf)

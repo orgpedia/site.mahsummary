@@ -16,5 +16,9 @@
 - Regarding granting ministerial status and facilities to the Chairman of Parashuram Economic Development Corporation.\
   [202509161054448116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161054448116.pdf)
 
+## Personnel
+- Regarding the creation of a comprehensive database of government employees. Employees Master Database (EMDb)\
+  [202509171638555616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171638555616.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

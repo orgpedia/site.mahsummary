@@ -13,6 +13,12 @@
 - Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Chaundeshwari Cooperative Spinning Mill Ltd., Ichalkaranji, Tal. Shirol, Dist. Kolhapur.\
   [202509161732262802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161732262802.pdf)
 
+- Regarding approval for distribution and expenditure of funds for general category beneficiaries under the Central Sector Scheme Silk Samagra-2 (ISDSI) Scheme.\
+  [202509171439170702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171439170702....pdf)
+
+- Regarding distribution of capital subsidy to self-financed projects to textile units under the Textile Policy.\
+  [202509171257121902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171257121902.pdf)
+
 ## Miscellaneous
 - Regarding repayment of interest on loans received by the State Government in the years 2023-24 and 2024-25 under the Margin Money Loan Scheme from the National Cooperative Development Corporation (NCDC).\
   [202509151803425602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151803425602.pdf)
@@ -22,6 +28,9 @@
 
 - Regarding granting the status of Minister of State to Shri. Rajan Baburao Patil, former V.S., who has been appointed as the President of Maharashtra State Cooperative Council, Pune.\
   [202509161733525002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161733525002.pdf)
+
+- Regarding reconstitution of the Cabinet Sub-Committee for sanctioning margin money loans to cooperative sugar factories for working capital from the National Cooperative Development Corporation through the Maharashtra Government.\
+  [202509171609331202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171609331202.pdf)
 
 ## Personnel
 - Continuation of temporary posts Maharashtra State Cooperative Agriculture Rural Multipurpose Development Bank.\

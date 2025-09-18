@@ -13,6 +13,13 @@
 - Regarding the inclusion of the festival Shri Kshetra Renuka Devi Sharadiya Navratri Festival in the calendar of possible festivals to be organized by the Tourism Department in the financial year 2025-26.\
   [202509161320205023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161320205023.pdf)
 
+- Granting administrative approval to organize a conference on the topic Kolhapur Chitranagari: Gateway to Development at Kolhapur Chitranagari.\
+  [202509171313482823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171313482823.pdf)
+
+## Miscellaneous
+- Regarding the establishment of NAMO Tourism Information and Facilitation Center with modern basic amenities for tourists at tourist destinations in the state...\
+  [202509171537254723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171537254723.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts at the establishment of Darshanika Department, Mumbai from 01.09.2025 to 28.02.2026...\
   [202509151502592323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151502592323.pdf)
