@@ -16,6 +16,15 @@
 - Regarding the reservation system for VIPs in the Presidential Suite at the Circuit House/Rest House.\
   [202509171201061118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171201061118.pdf)
 
+- Regarding giving awards to Special Constructions under the Public Works Department, namely  1) Excellent Road, 2) Excellent Bridge and 3) Excellent Building.\
+  [202509181800248418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181800248418.........pdf)
+
+- Regarding providing a due date for the implementation of court decisions.\
+  [202509181555139718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181555139718.pdf)
+
+- Regarding giving Awards to Officers and Employees in the Technical and Non-technical cadres who have performed Outstandingly in the Public Works Department for the period 2024-2025.\
+  [202509181802532318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181802532318.pdf)
+
 ## Personnel
 - Regarding extension of tenure of temporary posts in the office under the Chief Engineer (National Highways), Navi Mumbai.\
   [202509151714317318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151714317318.pdf)

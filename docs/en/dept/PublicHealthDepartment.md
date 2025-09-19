@@ -25,6 +25,15 @@
 - Regarding administrative approval for expenditure on notional skilled and notional unskilled manpower through external mechanisms for newly established and upgraded health institutions in the state....Corrigendum\
   [202509171048070817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171048070817.pdf)
 
+- Regarding administrative approval of the budget for repairs and internal road construction at the hospital at Rural Hospital, Zodga, Dist. Nashik.\
+  [202509181117072017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181117072017.pdf)
+
+- Regarding administrative approval of the budget for furniture work at Rural Hospital, Mouje Pabal, Taluka Shirur, District Pune.\
+  [202509181117092417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181117092417.pdf)
+
+- Regarding administrative approval of the budget for furniture, boundary wall and electrification work at Rural Hospital, Mouje Malthan, Taluka Shirur, District Pune.\
+  [202509181117141017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181117141017.pdf)
+
 ## Personnel
 - Regarding the implementation of the State Training Policy of the Public Health Department.\
   [202509151151400517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151151400517.pdf)
@@ -58,6 +67,24 @@
 
 - Regarding continuation of 174 temporary posts of Medical Officers (Group A and B) in Primary Health Centers of Zilla Parishad under the authority of Deputy Director, Health Services, Nagpur Circle, Nagpur.\
   [202509161516592217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161516592217.pdf)
+
+- Regarding the continuation of 3 temporary posts in the office of Joint Director, Health Services (Maleria, Elephantiasis and Waterborne Diseases), Pune-1 under the Cholera Control Programme.\
+  [202509181731512517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181731512517.pdf)
+
+- Regarding the continuation of 15 temporary posts on the establishment of Joint Director, Health Services (Maleria, Elephantiasis and Waterborne Diseases), Pune-1 office.\
+  [202509181731576017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181731576017.pdf)
+
+- Regarding Declaration of Medical Superintendent, Bai Gangabai Womens Hospital, Gondia as Virtual Personal Deposit Account Administrator (VPDAA) under Public Health Department\
+  [202509181406476817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181406476817.pdf)
+
+- Provisional seniority list dated 01.01.2025 for the post of Medical Officer (Ear, Nose, Throat Specialist) in the Specialist Cadre in Maharashtra Medical and Health Services, Group-A.\
+  [202509161443321617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161443321617.pdf)
+
+- Regarding regularization of the services of drivers who have served 10 years or more among the contractual employees working under the National Health Mission to the post of regular driver in the approved structure of the Public Health Department.\
+  [202509181040071217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181040071217.pdf)
+
+- Regarding the appointment of a State Scheme Manager (SSM) for effective implementation of the SNA SPARSH system for the Central Governments centrally sponsored schemes.\
+  [202509181040164117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181040164117.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

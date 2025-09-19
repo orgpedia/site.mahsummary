@@ -10,5 +10,8 @@
 - Regarding Approval of BAMS course college. Antyodaya Mission, Devgram (Thugaodev) Tal. Narkhed, Dist. Nagpur Antyodaya Institute of Ayurvedic Medical Sciences and Research Institute, Devgram, Tal. Narkhed, Dist. Nagpur\
   [202509161740329913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161740329913.pdf)
 
+- Regarding provision of hostel on rent for the students of the newly constructed Government Medical College at District Amravati under the DMER.\
+  [202509181039132713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181039132713.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

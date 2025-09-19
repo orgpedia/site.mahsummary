@@ -16,9 +16,15 @@
 - Granting administrative approval to organize a conference on the topic Kolhapur Chitranagari: Gateway to Development at Kolhapur Chitranagari.\
   [202509171313482823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171313482823.pdf)
 
+- Regarding approval of B-1 tender for the work of removing encroachments in the vicinity of the monument, Gadmandir Ramtek, Tal. Ramtek, Dist. Nagpur...\
+  [202509181539561823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181539561823.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of NAMO Tourism Information and Facilitation Center with modern basic amenities for tourists at tourist destinations in the state...\
   [202509171537254723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171537254723.pdf)
+
+- Regarding the reconstitution of the State Level Selection Committee to fill the posts under the nomination quota in the Group-B (Non-Gazetted) and Group-C cadres under the Secondary Services Selection Board (outside the purview of the Maharashtra Public Service Commission) on the establishment of regional offices under the auspices of the Tourism and Cultural Affairs Department through direct service-\
+  [202509181322205123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181322205123.pdf)
 
 ## Personnel
 - Regarding extension of temporary posts at the establishment of Darshanika Department, Mumbai from 01.09.2025 to 28.02.2026...\

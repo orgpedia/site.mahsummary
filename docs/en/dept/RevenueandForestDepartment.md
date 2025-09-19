@@ -10,6 +10,12 @@
 - Minor Minerals-Ahilyanagar - Regarding refund of auction amount due to water in the sand group of Sonari-Kolgaonthadi, Kopargaon Taluka for the year 2020-21 and the possession of the sand group could not be given to the auctioneer.\
   [202509171128003219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171128003219.pdf)
 
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in Nanded district in August, 2025...\
+  [202509181915411019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181915411019.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in Parbhani, Satara and Sangli districts from June 2025 to August 2025 in the state..\
+  [202509181630512019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181630512019.pdf)
+
 ## Miscellaneous
 - Regarding creation of majority posts, Deputy Superintendent, Land Records\
   [202509151250198619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151250198619.pdf)
@@ -31,6 +37,9 @@
 
 - Regarding the designation of State Public Information Officer and Appellate Authority under the Right to Information Act, 2005, as per the revised agenda of the Revenue and Forest Department.\
   [202509171831093619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171831093619.pdf)
+
+- Regarding extension of tenure of the deputation of Shri. Satish Raut, Secretary to the Chairman, Vasantdada Sugar Institute, Pune...\
+  [202509181744401119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181744401119.pdf)
 
 ## Personnel
 - Regarding posting by ad hoc promotion from Assistant Revenue Officer and Board Officer cadre to Naib Tehsildar cadre on purely temporary basis (Konkan Division).\
@@ -197,6 +206,45 @@
 
 - Regarding transfer posting of officers in the Deputy Collector cadre....\
   [202509171226334819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171226334819.pdf)
+
+- Continuation of posts.\
+  [202509181532525419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181532525419.pdf)
+
+- Continuation of posts.\
+  [202509181524175519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181524175519.pdf)
+
+- Continuation of posts.\
+  [202509181522497519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181522497519.pdf)
+
+- Continuation of posts.\
+  [202509181529417819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181529417819.pdf)
+
+- Regarding continuation of 149 temporary posts created under the Biodiversity Conservation Program in the year 2025-26.\
+  [202509181527456219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181527456219.pdf)
+
+- Continuation of posts.\
+  [202509181518439119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181518439119.pdf)
+
+- Continuation of posts.\
+  [202509181520541719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181520541719.pdf)
+
+- Continuation of posts.\
+  [202509181536023519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181536023519.pdf)
+
+- Continuation of posts.\
+  [202509181531201519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181531201519.pdf)
+
+- Continuation of posts.\
+  [202509181534265619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181534265619.pdf)
+
+- Continuation of posts.\
+  [202509181526067519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181526067519.pdf)
+
+- Continuation of posts.\
+  [202509181517090119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181517090119.pdf)
+
+- Continuation of posts.\
+  [202509181537391819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181537391819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

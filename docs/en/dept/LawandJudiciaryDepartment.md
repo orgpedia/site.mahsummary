@@ -23,5 +23,8 @@
 - Regarding approval for continuation of temporary posts in the establishment of District Court, Ahmednagar.\
   [202509171630338612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171630338612.pdf)
 
+- Regarding the establishment of a Civil Judge Senior Division Court at Ashti, District Beed, creation of posts of Judicial officers and staff in accordance with the law and approval of the necessary recurring and non-recurring expenses for the same.\
+  [202509181612190712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181612190712.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

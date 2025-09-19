@@ -20,5 +20,8 @@
 - Regarding the creation of a comprehensive database of government employees. Employees Master Database (EMDb)\
   [202509171638555616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171638555616.pdf)
 
+- Regarding publication of the final seniority list of Research Officers/Statistical Officers, Group-B (Gazetted) cadre in the Directorate of Finance and Statistics as on 01/01/2022 (for the period from 01/01/2021 to 31/12/2021).\
+  [202509181140008616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181140008616.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

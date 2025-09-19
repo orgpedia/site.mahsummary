@@ -1,21 +1,20 @@
 # Marathi Language Department
 
-**Date Range**: 15 September 2025 - 20 September 2025
+**Date Range**: 22 September 2025 - 27 September 2025
 
-
-## Miscellaneous
-- Regarding granting administrative approval to organize Setu Parishad of non-governmental organizations working on Marathi language and literature in Maharashtra in Pune.\
-  [202509111248009033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111248009033.pdf)
 
 ## Personnel
-- Regarding extension of temporary posts in Maharashtra State Marathi Encyclopedia Production Board for the period from 01.09.2025 to 28.02.2026.\
-  [202509111604401033.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111604401033.pdf)
+- Provisional seniority list of officers in the single cadre of Secretary, Group-A (Gazetted) in the office of Maharashtra State Literature and Culture Board, Mumbai as on 01.01.2025.\
+  [202509181547087133.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181547087133.pdf)
 
-- Regarding extension of temporary posts in the office of Maharashtra State Literature and Culture Board from 01.09.2025 to 28.02.2026.\
-  [202509111606021633.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111606021633.pdf)
+- Provisional seniority list of officers in the cadre of Language Officer (Hindi), Group-B (Gazetted) on the establishment of the Directorate of Languages as on 01.01.2025.\
+  [202509181542061933.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181542061933.pdf)
 
-- Regarding extension of temporary posts in the Directorate of Languages from 01.09.2025 to 28.02.2026.\
-  [202509111602579433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509111602579433.pdf)
+- Provisional seniority list of officers in the Assistant Director of Languages, Group-B (Gazetted) cadre on the establishment of the Directorate of Languages as on 01.01.2025.\
+  [202509181544512733.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181544512733.pdf)
+
+- Provisional seniority list of officers in the single cadre of Secretary, Group-A (Gazetted) on the establishment of the office of Maharashtra State Marathi Encyclopedia Production Board, Mumbai, as on 01.01.2025.\
+  [202509181549294733.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181549294733.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

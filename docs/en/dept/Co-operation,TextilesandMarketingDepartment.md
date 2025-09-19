@@ -39,5 +39,8 @@
 - Regarding the continuation of the posts of temporary employees approved for handing over the audit of cooperative societies audited by certified auditors to office auditors. Audit of urban banks.\
   [202509161746305302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161746305302.pdf)
 
+- Regarding extension of temporary posts in the Department of Co-operation, Marketing and Textiles (Self) for the period 01.09.2025 to 28.02.2026\
+  [202509181653394802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181653394802.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

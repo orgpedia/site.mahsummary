@@ -10,6 +10,9 @@
 - Regarding granting administrative approval to the Force One team to measure and demarcate the 98.6 acres of land given by the government.\
   [202509161328398629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161328398629.pdf)
 
+- Regarding the promotion and dissemination of the Transport Departments schemes on Ashadhi Dindi, 2025 routes...\
+  [202509181748224729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181748224729.pdf)
+
 ## Miscellaneous
 - Regarding correction in the name of Assistant Government Prosecutor (Group-A).\
   [202509151515488029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151515488029.pdf)
@@ -41,6 +44,15 @@
 
 - Regarding extension of 100 temporary posts newly created for 02 Armed Police Assistance Centers, 1) Nender and 2) Yelichil, at Surjagad in Naxal-affected Gadchiroli district.\
   [202509171604531929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171604531929.pdf)
+
+- Regarding posting of probationary officers from CPTP 9 batch who have completed training of the post Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed)\
+  [202509181955313929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181955313929.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202509181959085829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181959085829.pdf)
+
+- Supplementary Regular Select List, 2024-25,; Regarding posting-on-promotion to a post in the cadre of Superintendent of Police/ Deputy Commissioner of Police (Non-cadre).\
+  [202509181950307429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181950307429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
