@@ -3,6 +3,10 @@
 **Date Range**: 22 September 2025 - 27 September 2025
 
 
+## Funds
+- Regarding distribution of funds to Mahavitaran Company for solar agricultural pumps for Scheduled Caste category in the financial year 2025-26 under the scheme Pradhan Mantri Kusum Ghatak B. (Account Head 2810 0992)\
+  [202509191423438622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191423438622.pdf)
+
 ## Miscellaneous
 - Regarding extension of time to the committee constituted under the chairmanship of a retired judge of the Honble High Court to sub-categorize the reservation for Scheduled Castes as per the directions of the Honble Supreme Court in Civil Appeal No. 2317/2011 (The State of Punjab vs. Davinder Singh)...\
   [202509151829119322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151829119322.pdf)

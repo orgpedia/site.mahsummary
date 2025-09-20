@@ -19,6 +19,12 @@
 - Regarding distribution of capital subsidy to self-financed projects to textile units under the Textile Policy.\
   [202509171257121902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171257121902.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Rahata, Taluka Rahata, Dist. Ahilyanagar...\
+  [202509191257412602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191257412602.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Sangrampur, Taluka Sangrampur, District Buldhana...\
+  [202509191255194002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191255194002.pdf)
+
 ## Miscellaneous
 - Regarding repayment of interest on loans received by the State Government in the years 2023-24 and 2024-25 under the Margin Money Loan Scheme from the National Cooperative Development Corporation (NCDC).\
   [202509151803425602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151803425602.pdf)
@@ -41,6 +47,9 @@
 
 - Regarding extension of temporary posts in the Department of Co-operation, Marketing and Textiles (Self) for the period 01.09.2025 to 28.02.2026\
   [202509181653394802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181653394802.pdf)
+
+- Regarding approval to continue the temporary posts at the establishment of the Silk Directorate from 01.09.2025 to 28.02.2026.\
+  [202509191106357502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191106357502.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

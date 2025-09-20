@@ -3,6 +3,13 @@
 **Date Range**: 22 September 2025 - 27 September 2025
 
 
+## Funds
+- Regarding the disbursement of funds amounting to Rs. 111.68 lakhs from the approved provision in the budget for the year 2025-26, as per the state share of 40, from the account head 2210E455 in kind Grand format under the Tribal Upoyojana under the Centrally Sponsored National Rural Health Mission.\
+  [202509191216324117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191216324117.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 941.71 lakhs from the budget provision for the year 2025-26 under the centrally sponsored National Health Mission from the General Plan for the year 2025-26 under the account head 22105246 in the form of Kind Grant with a state share of 40.\
+  [202509191216402717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191216402717.pdf)
+
 ## Miscellaneous
 - Regarding tender advertisement and administrative approval for providing office cleaning and sanitation, garden development and maintenance and services for the Health Bhavan building.\
   [202509151216250317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151216250317.pdf)
@@ -33,6 +40,9 @@
 
 - Regarding administrative approval of the budget for furniture, boundary wall and electrification work at Rural Hospital, Mouje Malthan, Taluka Shirur, District Pune.\
   [202509181117141017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181117141017.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 141.07 lakhs from the budgetary sanctioned provision of the supplementary demand for the monsoon session of the year 2025-26 from the account head 2210G609 in Kind Grand format for the Scheduled Caste Category (SCSP) for programs under the Centrally Sponsored National Rural Health Mission, with the State share being 40 percent.\
+  [202509191216276117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191216276117.pdf)
 
 ## Personnel
 - Regarding the implementation of the State Training Policy of the Public Health Department.\

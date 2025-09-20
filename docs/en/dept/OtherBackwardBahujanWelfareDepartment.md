@@ -25,9 +25,18 @@
 - Regarding selection of school for the academic year 2025-26 under Raje Yashwantrao Holkar English Medium Residential Education Scheme. Hasti Charitable Trust run Hasti Public School and Junior College, Dondaicha, Tal. Shindkheda, Dist. Dhule\
   [202509171715485234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171715485234.pdf)
 
+- Regarding the appointment of non-governmental members to cooperate with the government in providing identity cards, certificates and benefits of various schemes to beneficiaries belonging to the Vimukta Jatis and Nomadic Tribes.\
+  [202509191614339634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191614339634.pdf)
+
+- Regarding changes in the works in Beed district given administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202509191122175234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191122175234.pdf)
+
 ## Personnel
 - Regarding partial change in the posting of Shri. Vishal Sunil Chaudhary, a candidate sponsored by Maharashtra Public Service Commission, as Other Backward Bahujan Welfare Officer Group-B (Gazetted).\
   [202509171805475334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171805475334.pdf)
+
+- Regarding declaration of Controlling Officer/Drawing Disbursement Officer for MahaIT payments.\
+  [202509191551321134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191551321134.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

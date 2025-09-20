@@ -16,6 +16,9 @@
 - Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in Parbhani, Satara and Sangli districts from June 2025 to August 2025 in the state..\
   [202509181630512019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181630512019.pdf)
 
+- Regarding the disbursement of funds to the United Nations Development Programme (UNDP) for the work carried out under the project Strengthening Disaster Risk Management Systems for Maharashtra...\
+  [202509191553398319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191553398319.pdf)
+
 ## Miscellaneous
 - Regarding creation of majority posts, Deputy Superintendent, Land Records\
   [202509151250198619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151250198619.pdf)
@@ -245,6 +248,36 @@
 
 - Continuation of posts.\
   [202509181537391819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181537391819.pdf)
+
+- Regarding extension of 3 temporary posts to the year 2025-26 under the non-plan scheme Expansion of Forest Training Schools and Colleges and Establishment of New Forest Education Cells.\
+  [202509191156142419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191156142419.pdf)
+
+- Regarding the extension of 452 posts in the non-plan scheme for the restructuring of the Forest Department, creation of new areas, rounds and bits, to continue in the year 2025-26\
+  [202509191151335819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191151335819.pdf)
+
+- Regarding extension of temporary posts of employees/officers for forestry under the Employment Guarantee Scheme in the year 2025-26. (Total 936 posts - 2406 0122).\
+  [202509191205115419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191205115419.pdf)
+
+- Regarding extension of 46 temporary posts in the Circle of Chief Conservator of Forests, Education and Training, Pune in the year 2025-26 (Dt.01.09.2025 to Dt.28.02.2026)...\
+  [202509191203358819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191203358819.pdf)
+
+- Regarding continuation of temporary posts under the Production Forestry Programme under Maharashtra Forestry Projects in the year 2025-26. (Total 13 posts - 2406 0122).\
+  [202509191157497119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191157497119.pdf)
+
+- Reorganization of Forest Department - Creation of new posts for the Office of Principal Chief Conservator of Forests and extension of the posts in this non-plan scheme for the year 2025-26. (Total 5 posts- 2406 0122)\
+  [202509191159239119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191159239119.pdf)
+
+- Reorganization of the Forest Department - Extension of the temporary posts created in the field of statistics under the Management Information System to the year 2025-26.\
+  [202509191154318319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191154318319.pdf)
+
+- Regarding extension of 140 temporary posts under the jurisdiction of the Forest Department under the Western Ghats Development Program to the year 2025-26.\
+  [202509191200574319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191200574319.pdf)
+
+- Regarding the provision of Maharashtra State Agriculture Corporation lands to 11 Gram Panchayats of Malegaon Taluka, District Nashik for the public purpose of village expansion...\
+  [202509191212011919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191212011919.pdf)
+
+- Reinstatement and posting in Government service Deputy Superintendent Land Records\
+  [202509191511010919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191511010919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

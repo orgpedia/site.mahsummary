@@ -29,5 +29,11 @@
 - Regarding extension of tenure of 456 posts on fixed temporary establishment and 09 posts on converted temporary establishment in the Superintending Engineer, Quality Control Board, Pune and 4 departments, 14 sub-departmental offices under his authority for the period from 01.09.2025 to 28.02.2026.\
   [202509171442361427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171442361427.pdf)
 
+- Regarding extension of tenure of approved fixed temporary posts and converted temporary posts under the jurisdiction of the office of Chief Engineer, Hydrology and Dam Safety, Nashik from 01/09/2025 to 28/02/2026.\
+  [202509191209177927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191209177927.pdf)
+
+- Regarding extension of tenure of 19 fixed temporary posts in the office of Superintending Engineer, State Level Technical Advisory Committee Office, Nashik from 01/09/2025 to 28/02/2026.\
+  [202509191136485027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191136485027.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

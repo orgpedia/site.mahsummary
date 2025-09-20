@@ -25,12 +25,18 @@
 - Regarding giving Awards to Officers and Employees in the Technical and Non-technical cadres who have performed Outstandingly in the Public Works Department for the period 2024-2025.\
   [202509181802532318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181802532318.pdf)
 
+- Regarding the mandatory presence of the authorized officer at the field level in the arbitration case constituted for the settlement of disputes of various claims regarding projects under the jurisdiction of the Public Works Department.\
+  [202509191306420718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191306420718.pdf)
+
 ## Personnel
 - Regarding extension of tenure of temporary posts in the office under the Chief Engineer (National Highways), Navi Mumbai.\
   [202509151714317318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151714317318.pdf)
 
 - Posting order of Shri.Pradeep V. Thakare, Sub Divisional Engineer(Civil), Public Works Department\
   [202509161753087718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161753087718.pdf)
+
+- Regarding approval to take employees of daily wage establishments to converted temporary establishments after completing 5 years of continuous service (240 days per year). ... Shri. Vinod Ramesh Valmiki, Sweeper\
+  [202509191238182618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191238182618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

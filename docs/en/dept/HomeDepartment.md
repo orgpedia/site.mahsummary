@@ -13,6 +13,9 @@
 - Regarding the promotion and dissemination of the Transport Departments schemes on Ashadhi Dindi, 2025 routes...\
   [202509181748224729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181748224729.pdf)
 
+- Regarding providing funds under the Community Policing scheme implemented by the police to reduce crime rates by creating awareness and religious harmony in the society.\
+  [202509191332244529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191332244529.pdf)
+
 ## Miscellaneous
 - Regarding correction in the name of Assistant Government Prosecutor (Group-A).\
   [202509151515488029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151515488029.pdf)
@@ -25,6 +28,12 @@
 
 - Regarding extension of time to the company M/s Ernst  Young, appointed as the project consultant for implementing the modernization project (Dial-112) of police control rooms in the state.\
   [202509171828553429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171828553429.pdf)
+
+- Regarding creation of a large number of posts for a period of two years under the Combined Probationary Training Program-11 for the candidates recommended for the post of Deputy Superintendent, Group-B in the State Excise Department under the State Service Examination-2023.\
+  [202509191535488929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191535488929.pdf)
+
+- Regarding approval of distribution of funds totaling Rs. 2,11,96,740/- for registration of Maharashtra Cyber Crime Security Corporation and honorarium of Company Secretary.\
+  [202509191146401129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191146401129.pdf)
 
 ## Personnel
 - Regarding extension of 633 temporary posts in the establishment of Superintendent of Police, Pune (Rural).\
@@ -53,6 +62,18 @@
 
 - Supplementary Regular Select List, 2024-25,; Regarding posting-on-promotion to a post in the cadre of Superintendent of Police/ Deputy Commissioner of Police (Non-cadre).\
   [202509181950307429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181950307429.pdf)
+
+- Regarding extension of the temporary post of Superintendent of Police, Civil Rights Protection Department, Nagpur in the Civil Rights Protection Office under the Director General of Police, Maharashtra State from 01.09.2025 to 28.02.2026.\
+  [202509191545150129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191545150129.pdf)
+
+- Regarding extension of 10 temporary posts in the establishment of Additional Director General of Police, Women and Child Crime Prevention Department, M.R. Mumbai and Additional Director General of Police, Cyber Crime, M.R. Mumbai from 01.09.2025 to 28.02.2026.\
+  [202509191546439029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191546439029.pdf)
+
+- Regarding extension of tenure of 17,103 temporary posts in various offices under the Commissioner of Police, Brihanmumbai.\
+  [202509191612065829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191612065829.pdf)
+
+- Regarding extension of 70 temporary posts under the Civil Rights Protection Scheme in the office of the Director General of Police, Maharashtra State, Mumbai from 01.09.2025 to 28.02.2026.\
+  [202509191543352529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191543352529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

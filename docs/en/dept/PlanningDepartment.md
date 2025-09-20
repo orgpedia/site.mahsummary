@@ -23,5 +23,11 @@
 - Regarding publication of the final seniority list of Research Officers/Statistical Officers, Group-B (Gazetted) cadre in the Directorate of Finance and Statistics as on 01/01/2022 (for the period from 01/01/2021 to 31/12/2021).\
   [202509181140008616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181140008616.pdf)
 
+- Mahatma Gandhi National Rural Employment Guarantee Scheme - Maharashtra, Nagpur Commissionerate, regarding extension of temporary posts in Divisional Commissioner/District Collector/Zilla Parishad/Taluka Office... Date 01.09.2025 to Date 28.02.2026\
+  [202509191743256416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191743256416.pdf)
+
+- Regarding premature transfers as per the request of Research Officers/Statistical Officers, Group-B (Gazetted) cadre officers in the Directorate of Finance and Statistics.......\
+  [202509191819593416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191819593416.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -26,5 +26,20 @@
 - Regarding the establishment of a Civil Judge Senior Division Court at Ashti, District Beed, creation of posts of Judicial officers and staff in accordance with the law and approval of the necessary recurring and non-recurring expenses for the same.\
   [202509181612190712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181612190712.pdf)
 
+- Regarding extension of tenure of temporary posts for the period from 01.09.2025 to 28.02.2026. District and Sessions Courts and Subordinate Courts of Buldhana Judicial District\
+  [202509191814192612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191814192612.pdf)
+
+- Regarding extension of tenure of temporary posts for the period from 01.09.2025 to 28.02.2026. District and Sessions Courts and Subordinate Courts of Amaravati  Judicial District\
+  [202509191812482112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191812482112.pdf)
+
+- Regarding extension of tenure of temporary posts for the period from 01.09.2025 to 28.02.2026. District and Sessions Courts and Subordinate Courts of Washim Judicial District\
+  [202509191815486812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191815486812.pdf)
+
+- Regarding extension of tenure of temporary posts for the period from 01.09.2025 to 28.02.2026. District and Sessions Courts and Subordinate Courts of Akola Judicial District\
+  [202509191811073312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191811073312.pdf)
+
+- Regarding extension of tenure of temporary posts for the period from 01.09.2025 to 28.02.2026. District and Sessions Courts and Subordinate Courts of Yavatmal Judicial District\
+  [202509191817551912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191817551912.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
