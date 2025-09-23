@@ -1,31 +1,14 @@
 # Women and Child Development Department
 
-**Date Range**: 22 September 2025 - 27 September 2025
+**Date Range**: 29 September 2025 - 04 October 2025
 
-
-## Funds
-- Regarding approval for distribution and expenditure of funds for the Supplementary Nutrition program under ICDS.\
-  [202509161253236230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161253236230.pdf)
-
-- Regarding providing training materials to Anganwadi workers under training program Poshan Bhi Padhai Bhi\
-  [202509161153171130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161153171130.pdf)
 
 ## Miscellaneous
-- Regarding publication of the final seniority list of District Women and Child Development Officers, Superintendents, Government Institutions, Inspectors, Certified Schools and Institutions, Structure and Procedure Officers, Statistical Officers, Lecturers, Child Development Project Officers (Rural) Group B (Gazetted) cadres on regional establishments under the Women and Child Development Department as on 1.1.2025.\
-  [202509181137460130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181137460130.pdf)
+- Regarding creation of 1 supernumerary post for the Combined Probationary Training Program (CPTP-11) of officers in Group-A (Gazetted) cadre working under the Women and Child Development Department recommended by the Maharashtra Public Service Commission on the basis of the final results of the State Services Examination-2022.\
+  [202509221140436430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221140436430.pdf)
 
-## Personnel
-- Regarding extension of tenure of 1605 temporary posts in the establishment of Commissioner, Women and Child Development Commissionerate, Maharashtra State, Pune and 716 temporary posts filled through external sources from 1.9.2025 to 28.2.2026.\
-  [202509161719411330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161719411330.pdf)
-
-- Regarding extension of tenure of a total of 136 temporary posts of Class-3 and Class-4 in the District Cadre of the Women and Child Development Department of the Zilla Parishad from 1.9.2025 to 28.2.2026.\
-  [202509161719355630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161719355630.pdf)
-
-- Regarding extension of 52 temporary posts in the beggars home established by the Commissioner, Women and Child Development Commissionerate, Maharashtra State, Pune from 1.9.2025 to 28.2.2026.\
-  [202509161719452830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161719452830.pdf)
-
-- Regarding approval for Aadhaar Authentication through e-KYC for verification and authentication of eligible beneficiary women under the Mukhyamantri Mazi Ladki Bahin scheme...\
-  [202509181610134730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181610134730.pdf)
+- Regarding granting of a valid date to Shri. K.S. Kore.\
+  [202509221140462030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221140462030.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

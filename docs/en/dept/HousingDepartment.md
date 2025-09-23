@@ -1,11 +1,11 @@
 # Housing Department
 
-**Date Range**: 08 September 2025 - 13 September 2025
+**Date Range**: 29 September 2025 - 04 October 2025
 
 
-## Personnel
-- Regarding the establishment of a committee to handle the pending/ongoing court cases and other legal matters related to the salt pan lands owned by the Central Government at Mouje Kanjur Survey No. 657A and Bhandup Survey No. 730.\
-  [202509031157313209.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509031157313209.pdf)
+## Funds
+- Guidelines for submission of detailed project reports under AHP and AHP-PPP components under Pradhan Mantri Awas Yojana (Urban) 2.0 Scheme.\
+  [202509221637384409.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221637384409.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,33 +1,11 @@
 # Planning Department
 
-**Date Range**: 22 September 2025 - 27 September 2025
+**Date Range**: 29 September 2025 - 04 October 2025
 
 
 ## Miscellaneous
-- Regarding the formation of a core committee to finalize the draft of the Vision Document to achieve the goal of Developed Maharashtra - 2047.\
-  [202509151334414616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151334414616.pdf)
-
-- Regarding the formation of an Executive Committee, Coordination Committee and Apex Committee regarding the Pune Metropolitan Region Economic Master Plan\
-  [202509151331552016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509151331552016.pdf)
-
-- Regarding the establishment of committees at various levels for the Eighth Economic Census 2025-26\
-  [202509161540457016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161540457016.pdf)
-
-- Regarding granting ministerial status and facilities to the Chairman of Parashuram Economic Development Corporation.\
-  [202509161054448116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509161054448116.pdf)
-
-## Personnel
-- Regarding the creation of a comprehensive database of government employees. Employees Master Database (EMDb)\
-  [202509171638555616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509171638555616.pdf)
-
-- Regarding publication of the final seniority list of Research Officers/Statistical Officers, Group-B (Gazetted) cadre in the Directorate of Finance and Statistics as on 01/01/2022 (for the period from 01/01/2021 to 31/12/2021).\
-  [202509181140008616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509181140008616.pdf)
-
-- Mahatma Gandhi National Rural Employment Guarantee Scheme - Maharashtra, Nagpur Commissionerate, regarding extension of temporary posts in Divisional Commissioner/District Collector/Zilla Parishad/Taluka Office... Date 01.09.2025 to Date 28.02.2026\
-  [202509191743256416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191743256416.pdf)
-
-- Regarding premature transfers as per the request of Research Officers/Statistical Officers, Group-B (Gazetted) cadre officers in the Directorate of Finance and Statistics.......\
-  [202509191819593416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509191819593416.pdf)
+- Regarding the appointment of Mr. Deepak Karanjikar as a member on the Governing Board of Maharashtra Institution for Transformation-Mitra Sanstha.\
+  [202509221727444416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221727444416.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
