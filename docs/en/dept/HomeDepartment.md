@@ -10,6 +10,15 @@
 - Regarding payment of the work done from October 2024 to February 2025 to the PwC company appointed as the project consultant for the installation of CCTV cameras in police stations in the state.\
   [202509221205279829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221205279829.pdf)
 
+- Regarding creation of a total of 661 regular posts and 8 posts in various cadres in Indian Reserve Battalion No. 4, Chandrapur, Indian Reserve Battalion No. 5 Katol, Nagpur and State Reserve Police Force No. 19 Kusadgaon, Ahmednagar through external mechanism and approval of the recurring expenditure incurred accordingly.\
+  [202509241549532129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241549532129.pdf)
+
+- Regarding granting administrative approval to the proposal for Mumbai CCTV Project Phase-3 with an estimated cost of Rs. 2140.90 crore.\
+  [202509241544327929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241544327929.pdf)
+
+- Regarding granting administrative approval for the construction of the administrative building of the office of Inspector, State Excise, Rajura, Dist. Chandrapur.\
+  [202509231742042429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231742042429.pdf)
+
 ## Miscellaneous
 - Regarding posting of an I.P.S. officer.\
   [202509221552261829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221552261829.pdf)
@@ -32,6 +41,15 @@
 - Regarding payment of the work done for the period from December 2024 to May 2025 to M/s PwC Company appointed as the Pune and Pimpri-Chinchwad City CCTV Project Consultant.\
   [202509221207146729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221207146729.pdf)
 
+- Regarding approval for construction works of the Prison Department through the Maharashtra State Police Housing and Welfare Corporation...\
+  [202509231845582629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231845582629.pdf)
+
+- Regarding posting of anI.P.S. officer.\
+  [202509241616430729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241616430729.pdf)
+
+- Regarding the declaration of Drawing and Disbursing Officers for drawing payments from the Cyber Treasury under the SNA-SPARSH system for the Special Central Assistance scheme.\
+  [202509241804029829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241804029829.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of Deputy Commissioner of Police/ Superintendent of Police, Police Communication and Information Technology\
   [202509221314253829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221314253829.pdf)
@@ -53,6 +71,66 @@
 
 - Provisional seniority list of Superintendent (Group-A) cadre in the State Excise Department as on 01.01.2025.\
   [202509221527415929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221527415929.pdf)
+
+- Regarding publication of provisional and final service seniority list dated 01.01.2025. Personal Assistant / Administration Officer / Structure and Procedure Officer\
+  [202509251735098429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251735098429.pdf)
+
+- Regarding the extension of the temporary post of Director, Civil Defence, State of Maharashtra, Mumbai and 132 temporary posts in the offices under him, in total 133 temporary posts. From 01.09.2025 to 28.02.2026.\
+  [202509231510305929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231510305929.pdf)
+
+- Regarding extension of tenure of a total of 106 temporary posts in the State Mobile Civil Emergency Battalion, Mumbai office on the establishment of Director, Civil Defence, Maharashtra State, Mumbai. From 01.03.2025 to 28.02.2026.\
+  [202509231510392329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231510392329.pdf)
+
+- Regarding extension of tenure of total 1244 temporary posts in the establishment of Director, Directorate of Judicial Scientific Laboratories, Maharashtra State, Mumbai from 01.09.2025 to 28.02.2026.\
+  [202509251844208429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251844208429.pdf)
+
+- Posting by promotion to the post of Regional Transport Officer, Group-A.\
+  [202509231826529629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231826529629.pdf)
+
+- Continuation of posts.\
+  [202509231602522429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231602522429.pdf)
+
+- Continuation of posts.\
+  [202509231605498529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231605498529.pdf)
+
+- Regarding extension of 62 temporary posts of Technical Officers created for technical supervision and administrative control in the Motor Transport Department from 01.09.2025 to 28.02.2026.\
+  [202509231604164529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231604164529.pdf)
+
+- Regarding extension of tenure of a total of 2633 temporary posts created in the first, second and third phases of the establishment of the Commissioner of Police, Pimpri Chinchwad.\
+  [202509241547481629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241547481629.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202509241905482429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241905482429.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202509241909186529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241909186529.pdf)
+
+- Promotion/postings in Senior Time Scale of I.P.S. officers.\
+  [202509241914400129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241914400129.pdf)
+
+- Regarding extension of Temporary post of Director General,  Deputy Director General, Home Guard as well as other 397 Temporary posts TOTAL 399 POSTS on the establishment of Director General of homegard, Maharashtra from dated 01.09.202 to  dated 28.02.2026.\
+  [202509231239086729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231239086729.pdf)
+
+- Regarding extension of 1,101 temporary posts in various cadres on the establishment of Police Commissioner and Superintendent of Police for Highway Safety Team in the state.\
+  [202509231800117929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231800117929.pdf)
+
+- Continuation of posts.\
+  [202509231608354029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231608354029.pdf)
+
+- Regarding extension of tenure of 1,126 temporary posts in various cadres in the establishment of Commissioner of Police, Brihanmumbai.\
+  [202509231751546629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231751546629.pdf)
+
+- Regarding extension of 1,330 temporary posts in various offices under the Director General of Police, Maharashtra State, Mumbai.\
+  [202509231755272729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231755272729.pdf)
+
+- Regarding extension of 2144 temporary posts allotted to various traffic branches in Maharashtra Police Force\
+  [202509231748285229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231748285229.pdf)
+
+- Regarding extension of the tenure of a total of 10 temporary posts newly created for the Handwriting and Photography Department under the jurisdiction of the State Criminal Investigation Department, M.R.A., Pune from 01.09.2025 to 28.02.2026.\
+  [202509231602109329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231602109329.pdf)
+
+- Regarding extension of 505 temporary posts in 35 component offices under the authority of the Director General of Police, Maharashtra State, Mumbai from 01.09.2025 to 28.02.2026.\
+  [202509231607373529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231607373529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

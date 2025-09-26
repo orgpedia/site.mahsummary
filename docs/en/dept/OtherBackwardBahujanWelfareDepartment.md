@@ -3,6 +3,19 @@
 **Date Range**: 29 September 2025 - 04 October 2025
 
 
+## Funds
+- Regarding the distribution of funds under the objective 13- Office Expenses under the scheme of State Backward Classes Commission (Compulsory) (Account Head 2225 F 352).\
+  [202509251700189834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251700189834.pdf)
+
+- Regarding approval for distribution of 31, Subsidiary Grants (Non-Salary) for the financial year 2025-26 Vasantrao Naik Vimukta Jatis and Nomadic Tribes Development Corporation (Limited)\
+  [202509231739357234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231739357234.pdf)
+
+- Regarding approval to disburse funds for 31, Subsidiary Grants (Non-Salary) for the financial year 2025-26 to Maharashtra State Other Backward Classes Finance and Development Corporation Limited.\
+  [202509231738069934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231738069934.pdf)
+
+- Regarding approval to distribute 36, Subsidiary Grants (Salary) funds to Vasantrao Naik Vimukta Jati and Nomadic Tribes Development Corporation Limited for the financial year 2025-26...\
+  [202509251730177034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251730177034.pdf)
+
 ## Miscellaneous
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Daffodil English Medium School, Umdi, Ta. Jat, Dist. Sangli, run by Sarvodaya Shikshan Sanstha, Umdi, Ta. Jat, Dist. Sangli\
   [202509221834477434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221834477434.pdf)
@@ -15,6 +28,12 @@
 
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Valmiki Sevabhav Sanstha, Bhokar, Taluka Bhokar, Dist. Nanded Dolphin Public School and Junior College, Bhokar, Taluka Bhokar, Dist. Nanded\
   [202509221837144434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221837144434.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Matoshree Jijau Gram Vikas Mandal, Mandakhali Taluka, Parbhani, Ramraoji Lohat Public School, Dharmapuri Survey No. 155, Pathri Road, Parbhani\
+  [202509251720069434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251720069434........pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Amrita Vaishnavi Education and Welfare Trust, Kalyan, Dist. Thane Shatabdi English Medium School, Agaskhind, Tal. Sinnar, Dist. Nashik\
+  [202509241712360534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241712360534.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
