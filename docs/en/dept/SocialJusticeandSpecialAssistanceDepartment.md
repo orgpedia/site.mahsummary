@@ -17,5 +17,8 @@
 - Regarding the celebration of 1st October  - World Day of Older Persons.\
   [202509221758062722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221758062722.pdf)
 
+- Regarding the increase in the rates of subsistence allowance provided for daily expenses to students admitted in government hostels under the Department of Social Justice and Special Assistance.\
+  [202509261731441822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261731441822.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

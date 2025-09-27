@@ -84,5 +84,41 @@
 - Regarding extension of tenure for 07 posts on fixed temporary establishment in the office of Executive Director, Tapi Irrigation Development Corporation, Jalgaon for the period from 01.09.2025 to 28.02.2026.\
   [202509231500016227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231500016227.pdf)
 
+- Regarding extension of tenure for the posts of Superintendent Engineer, Sangli Irrigation Board, Sangli and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/09/2025 to 28/02/2026\
+  [202509251442447027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251442447027.pdf)
+
+- Regarding extension of tenure of the posts of Superintendent Engineer, Nanded Irrigation Board, Nanded and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/09/2025 to 28/02/2026.\
+  [202509261048586227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048586227.pdf)
+
+- Regarding extension of tenure of posts on fixed temporary establishments and converted temporary establishments in the Superintending Engineer, Chandrapur Irrigation Project Board, Chandrapur and his subordinate divisional offices for the period from 01/09/2025 to 28/02/2026.\
+  [202509261048490227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048490227.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Yavatmal Irrigation Board, Yavatmal and 3 divisional offices under his jurisdiction on fixed temporary establishment and converted temporary establishment for the period from 01/09/2025 to 28/02/2026.\
+  [202509261048445027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048445027.pdf)
+
+- Continuation of posts.\
+  [202509261221254627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261221254627.pdf)
+
+- Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment in Palkhed and Mula Irrigation Divisional Office under the Superintending Engineer and Administrator, Benefit Area Development Authority, Nashik for the period from 01/09/2025 to 28/02/2026.\
+  [202509261048536327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048536327.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Bhandara Irrigation Board, Bhandara and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/09/2025 to 28/02/2026.\
+  [202509261048398227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048398227.pdf)
+
+- Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment in the office under the authority of Superintending Engineer, Maharashtra Engineering Research Institute, Mary, Nashik from 01/09/2025 to 28/02/2026.\
+  [202509251442399927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251442399927.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Thane Irrigation Board, Thane and his subordinate divisional offices for the period from 01/09/2025 to 28/02/2026.\
+  [202509251442353127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251442353127.pdf)
+
+- Darna Project Godavari Right Bank Canal S. No. 70/200 m. From S2 InfoTech International Ltd., Mumbai under Mouj Nimgaon Korhale, Tal. Rahata, Dist. Regarding obtaining water rights for educational complex, hospital and commercial complex at Ahilyanagar.\
+  [202509261547485827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261547485827.pdf)
+
+- Regarding extension of tenure of the posts of Superintendent Engineer, Ratnagiri Irrigation Board, Kuwarbaon, Ratnagiri on fixed temporary establishment and converted temporary establishment in the Board office and 2 divisional offices under the Board for the period from 01/09/2025 to 28/02/2026\
+  [202509261048357227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048357227.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Akola Irrigation Board, Akola and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/09/2025 to 28/02/2026.\
+  [202509261048335527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261048335527.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

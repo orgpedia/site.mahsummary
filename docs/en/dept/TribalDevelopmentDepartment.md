@@ -19,6 +19,9 @@
 - Regarding the disbursement of funds sanctioned as Mother Sanction by the Central Government for the implementation of the centrally sponsored scheme Support to Tribal Research Institutes (TRIs) through the SNA-SPARSH fund flow mechanism...\
   [202509241728268924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241728268924.pdf)
 
+- Regarding the distribution of funds under the Ashram School Group scheme for the financial year 2025-26 under the Tribal Component Programme. (Account Head 2225 D 734) (Chapter No. 21 Supplies and Materials)\
+  [202509261758495924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261758495924....pdf)
+
 ## Miscellaneous
 - The financial year 2025-26  under the Central Budget Scheme (Nucleus Budget) Regarding disbursement of funds during the year.\
   [202509221440597124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221440597124.pdf)

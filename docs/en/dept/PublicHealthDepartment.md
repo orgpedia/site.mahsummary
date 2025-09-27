@@ -108,5 +108,14 @@
 - Regarding continuation of 09 temporary posts at Sub-District Hospital, Shrirampur Dist. Ahilyanagar.\
   [202509231112332117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231112332117.pdf)
 
+- Regarding continuation of a total of 179 temporary posts of Medical Administration Officers, State Employees Insurance Scheme establishments in Mumbai, Pune and Nagpur from date 01.09.2025 to date 28.02.2026\
+  [202509251732074017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251732074017.pdf)
+
+- Regarding continuation of 29 temporary posts approved under the State Employees Insurance Scheme at the establishment of the Commissioners Office, State Employees Insurance Scheme, Mumbai from 01.09.2025 to 28.02.2026\
+  [202509251731116117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251731116117.pdf)
+
+- Continuation of posts.\
+  [202509251731490417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251731490417.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

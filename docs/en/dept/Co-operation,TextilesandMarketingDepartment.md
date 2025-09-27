@@ -27,5 +27,11 @@
 - Regarding extension of 16 temporary posts of employees appointed for accounting and budget work in the Cooperative Department from 1/9/2025 to 28/2/2026..........\
   [202509251306156802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251306156802.pdf)
 
+- Regarding continuation of temporary posts under the scheme of Continuous and Concurrent Audit of Cooperative Sugar Factories for the year 2025-26. (Date 01/09/2025 to Date 28/02/2026.)\
+  [202509261632573402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261632573402.pdf)
+
+- Regarding the continuation of staff category temporary posts from 01.09.2025 to 28.02.2026 for continuous and concurrent audit of cooperative societies.\
+  [202509261322253502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261322253502.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

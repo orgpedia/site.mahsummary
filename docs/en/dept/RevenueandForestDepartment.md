@@ -10,6 +10,15 @@
 - Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in various districts of the state from June 2025 to August 2025...\
   [202509231108205819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231108205819.pdf)
 
+- Regarding fixing the objectives of 0029-Land Revenue and 0853-Receipts from Minor Mineral Mining Rules for the financial year 2025-26.\
+  [202509261336073019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261336073019.pdf)
+
+- Regarding the distribution of funds to meet the salary expenses of 6 temporary posts working at the nature tourism site of Shri.Chouranginath, located at Sonsal, Taluka Kadegaon, District Sangli, under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2025-26.\
+  [202509261627087019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261627087019.pdf)
+
+- Regarding the distribution of funds under the Kundal Development, Administration and Management Prabodhini (Forest) Kundal (Program) (2415-1068) Scheme for the year 2025-26.\
+  [202509261624588719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261624588719.pdf)
+
 ## Miscellaneous
 - Regarding the allocation of forest area under the control of Assistant Conservator of Forests in the Forest Department.\
   [202509251634008719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251634008719....pdf)
@@ -32,6 +41,15 @@
 - Regarding declaration of Drawing and Disbursing Officers in various offices under Revenue and Forest Department as Virtual Personal Deposit Account Administrators (VPDAA).\
   [202509231732463119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231732463119.pdf)
 
+- Regarding granting administrative approval for disaster mitigation works. Landslide prevention works, Tal. Akole, Dist. Ahilyanagar...\
+  [202509261440453919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261440453919.pdf)
+
+- Regarding distribution of funds for 36-Assistive Grants (Salary) under this scheme to Chandrapur Forest Administration, Development and Management Prabodhini, Chandrapur for the year 2025-26 (2415-1077).\
+  [202509261624218019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261624218019.pdf)
+
+- Continuation of posts.\
+  [202509261158056419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261158056419...pdf)
+
 ## Personnel
 - Regarding extension of temporary posts created for the District Collectors Office and Regional Office (S. S. Q.) at Nandurbar for the rehabilitation work of Sardar Sarovar Project affected persons from 01 September, 2025 to 28 February, 2026.\
   [202509231125534019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231125534019.pdf)
@@ -41,6 +59,45 @@
 
 - Continuation of posts.\
   [202509251258244819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251258244819.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261443506719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261443506719.pdf)
+
+- Regarding extension of tenure of 2 temporary posts in the cell created to send proposals for conversion of forest land to non-forest use for prior approval of the Central Government.\
+  [202509261722415519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261722415519.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261448300719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261448300719.pdf)
+
+- Continuation of posts.\
+  [202509261340484419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261340484419.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261451233919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261451233919.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261450155119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261450155119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261453055119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261453055119.pdf)
+
+- Regarding transfers of officers in the Additional District Collector Cadre.\
+  [202509261122259919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261122259919.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre\
+  [202509261455097019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261455097019.pdf)
+
+- Regarding transfers of officers in the Additional District Collector (Selection Grade cadre)\
+  [202509261117089119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261117089119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261446382519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261446382519.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261448522719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261448522719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202509261451418419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261451418419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

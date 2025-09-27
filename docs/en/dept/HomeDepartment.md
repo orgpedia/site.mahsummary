@@ -19,6 +19,9 @@
 - Regarding granting administrative approval for the construction of the administrative building of the office of Inspector, State Excise, Rajura, Dist. Chandrapur.\
   [202509231742042429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231742042429.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 256.75 crore to Maharashtra State Road Transport Corporation under Account Head 3055 0052-35 Under Bus Stand Modernization and Other Facilities Program....\
+  [202509261647481329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261647481329.pdf)
+
 ## Miscellaneous
 - Regarding posting of an I.P.S. officer.\
   [202509221552261829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221552261829.pdf)
@@ -131,6 +134,12 @@
 
 - Regarding extension of 505 temporary posts in 35 component offices under the authority of the Director General of Police, Maharashtra State, Mumbai from 01.09.2025 to 28.02.2026.\
   [202509231607373529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231607373529.pdf)
+
+- Regarding extension of tenure of a total of 1661 temporary posts in various categories at the establishment of the Directorate of Prosecutions.\
+  [202509261533445029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261533445029.pdf)
+
+- Regarding transfer of an officer in the cadre of Assistant Government and Government Prosecutor (Group-A) for administrative reasons.\
+  [202509261800409629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261800409629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

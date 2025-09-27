@@ -53,9 +53,30 @@
 - Regarding the approval of the Government to start a new institute of Pharmacy course from the academic year 2025-26 as per the approval of Pharmacy Council of India, New Delhi. Sant Ramdas College of Pharmacy of Swami Ramanand Shikshan Prasarak Mandal, Ghansawangi, Dist. Jalna\
   [202509241801097108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241801097108.pdf)
 
+- Regarding the approval of the Government to discontinue the courses in the existing institution from the academic year 2021-22, in accordance with the approval of the All India Council for Technical Education, New Delhi. (Vishva Bharati Academys College of Engineering, Ahmednagar)\
+  [202509261701107308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261701107308.pdf)
+
+- Regarding amendment in the government decision approving new subjects/courses, additional batches, faculties under expansion for the academic year 2024-25.\
+  [202509261512238508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261512238508.pdf)
+
+- Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Institute of Pharmacy course from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Nirmal Krida  Samaj Prabodhan Trust Institute of Pharmacy, Badnapur\
+  [202509261702081008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261702081008.pdf)
+
+- Regarding termination of probation period.\
+  [202509261630068208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261630068208.pdf)
+
 ## Personnel
 - Continuation of posts.\
   [202509221438053808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221438053808.pdf)
+
+- Regarding approval for change in the name of the management of the existing Diploma in Pharmacy course, change in the address of the college, in accordance with the approval given by the Pharmacy Council of India, New Delhi from the academic year 2025-26.\
+  [202509261832589608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261832589608.pdf)
+
+- Regarding partial change in posting/cancellation of transfer...Government Engineering Colleges\
+  [202509261628040008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261628040008.pdf)
+
+- Regarding promotion to the equivalent posts of Manager/Assistant Director (Technical)/Assistant Secretary (Technical) etc. in Maharashtra Engineering Administrative Service, Group-B cadre.\
+  [202509261814279008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261814279008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

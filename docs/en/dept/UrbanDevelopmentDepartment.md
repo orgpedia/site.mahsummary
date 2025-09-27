@@ -49,6 +49,15 @@
 - Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-12 (Kalyan - Taloja) Project (FY 2025-26)\
   [202509251523163525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251523163525.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Metropolitan Municipality Area. For the year 2024-25 under the Head of Account (2217 0913) For Amravati Municipal Corporation, Dist. Amravati Amount Rs. 1.00 Crore (Corrigendum)\
+  [202509261629469325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261629469325.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority (MMRDA) for Thane-Borivali twin tunnel project (FY 2025-26).\
+  [202509261030290625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261030290625.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority (MMRDA) for the construction of twin tunnel between Orange Gate near Eastern Freeway in Mumbai City to Marine Drive project (FY 2025-26)\
+  [202509261035094725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261035094725.pdf)
+
 ## Miscellaneous
 - Regarding changes in the implementation mechanism of the Guru Mandir Pilgrimage Development Plan at Karanja (Lad), Dist. Washim.\
   [202509251457427225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251457427225.pdf)

@@ -7,12 +7,21 @@
 - Regarding granting administrative approval for the expenditure incurred for renovation and upgrading of the District Consumer Grievance Redressal Commission, South Mumbai office...\
   [202509221609429106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221609429106.pdf)
 
+- Regarding providing subsidy to provide Shiv Bhojan at affordable prices to the poor and needy people...\
+  [202509261632455306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261632455306.pdf)
+
 ## Miscellaneous
 - Regarding administrative approval for the expenditure incurred for renovation and upgrading of the District Consumer Grievance Redressal Commission, Central Mumbai office...\
   [202509221607025406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221607025406.pdf)
 
 - Regarding opening of a separate drawing account with the Reserve Bank of India for the centrally sponsored SMART-PDS scheme to implement the alternative fund flow mechanism SNA-SPARSH for disbursing funds of centrally sponsored schemes.\
   [202509241720080806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241720080806.pdf)
+
+- Regarding the declaration of Head of Department for the State Food Commission Office..\
+  [202509261539092606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261539092606.pdf)
+
+- Regarding granting all service benefits to Shri. Dnyaneshwar K. Tandale, Inspector, Legal Metrology, Konkan Divisional Office, Navi Mumbai, considering him reinstated in Government service after 90 days of suspension.\
+  [202509261725479206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261725479206.pdf)
 
 ## Personnel
 - Regarding granting approval to consider only the service of Shri. Sakharam Kashiram Ambekar and Shri. Sadanand Parshuram Jadhav, then Temporary Warehouse Manager, District Ratnagiri, except for the service rendered since their first appointment in the service, for pension purposes.....\

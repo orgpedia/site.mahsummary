@@ -55,6 +55,12 @@
 - Regarding financial approval for the expenses incurred for organizing cultural programs on the occasion of Lokmanya Tilaks birth anniversary.\
   [202509251450163323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251450163323.pdf)
 
+- Regarding financial approval for special cultural programs organized for the transgender community.\
+  [202509261441278523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261441278523.pdf)
+
+- Regarding granting administrative approval to the comprehensive development plan of Shri Bhavani Picture Gallery and Library, Aundh, District Satara...\
+  [202509261652405223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261652405223.pdf)
+
 ## Miscellaneous
 - Visit of Delegation of Government of Maharashtra to participate in the JATA Tourism Expo Japan, 2025 in Japan from 23rd September to 05th October, 2025.\
   [202509221217389123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221217389123.pdf)
@@ -82,6 +88,12 @@
 
 - Regarding granting administrative approval for the conservation and repair work of the state protected monument Kankaleshwar Temple, Taluka Beed...\
   [202509241733017823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241733017823.pdf)
+
+- Regarding financial approval for the expenditure for unveiling of the postage stamp cover on the occasion of the 300th birth anniversary of Punyashloka Ahilyadevi Holkar.\
+  [202509261439445623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261439445623.pdf)
+
+- Regarding implementing the Namo Tourism Skill Training Program for hospitality and guidance training for local youths at tourist destinations in the state.\
+  [202509261111462223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261111462223.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

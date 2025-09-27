@@ -35,5 +35,18 @@
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Amrita Vaishnavi Education and Welfare Trust, Kalyan, Dist. Thane Shatabdi English Medium School, Agaskhind, Tal. Sinnar, Dist. Nashik\
   [202509241712360534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241712360534.pdf)
 
+- Regarding selection of school for the academic year 2025-26 under Raje Yashwantrao Holkar English Medium Residential Education Scheme. Global English Medium School and Junior College run by Star Youth Club, Umbraj, Tal. Karad, Dist. Satara, Umbraj, Tal. Karad, Dist. Satara\
+  [202509261822207234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261822207234.pdf)
+
+- Regarding the admissibility of building rent to privately funded Vijabhaj Ashram Schools / Ashram Schools for children of sugarcane workers / Vidyaniketans under the jurisdiction of Other Backward Classes Welfare Department.\
+  [202509261845056134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261845056134.pdf)
+
+## Personnel
+- Regarding approval to open a separate Drawing Account with the Reserve Bank of India under the State Linked Schemes (SLSs) under the Centrally Sponsored Scheme PM-YASASVI for the implementation of the alternative fund flow mechanism of SNA-SPARSH Real Time System of Integrated Quick Transfers to ensure timely disbursement of funds for the schemes of Pre-Matric and Post-Matric Scholarships for OBC, EBC and DNT category students...\
+  [202509261456284534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261456284534.pdf)
+
+- Appointment and posting on deputation to the post of Assistant Director, assistant commissioner, OBC Palghar of the Department Shri. Shubhangi Dr. Lonkar, Assistant Conservator of Forests\
+  [202509261804191034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261804191034.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

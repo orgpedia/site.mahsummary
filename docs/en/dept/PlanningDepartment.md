@@ -11,6 +11,9 @@
 - Regarding the appointment of Mr. Deepak Karanjikar as a member on the Governing Board of Maharashtra Institution for Transformation-Mitra Sanstha.\
   [202509221727444416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221727444416.pdf)
 
+- Regarding extension of tenure of 94 posts created under Human Development Program of Planning Department from 1st September, 2025 to 28th February, 2026...\
+  [202509261609285716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261609285716.pdf)
+
 ## Personnel
 - Regarding extension of tenure of a total of 12 temporary posts in the offices of Deputy Commissioner (Planning), Divisional Commissioner and a total of 332 temporary posts in the offices of District Planning Committee for the period from 01/09/2025 to 28/02/2026.\
   [202509231700266216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231700266216.pdf)

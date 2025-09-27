@@ -23,5 +23,11 @@
 - Regarding starting of two (02) new postgraduate degree courses in physiotherapy at Indutai Gaikwad Patil College of Physiotherapy, Dhuti, Dongargaon, Wardha Road, Nagpur.\
   [202509241249196313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241249196313.pdf)
 
+- Regarding increasing the admission capacity of medical degree courses at Dr. Vasantrao Pawar Medical College, Hospital and Research Centre, Vasantdada Nagar, Adgaon, Nashik\
+  [202509261438162513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509261438162513.pdf)
+
+- Regarding permission to start a new Ayurveda Postgraduate Degree course in Datta Meghe Ayurvedic Medical College, Hospital and Research Centre, Nagpur-441 110\
+  [202509251518121613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251518121613.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
