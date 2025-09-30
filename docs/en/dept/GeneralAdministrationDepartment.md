@@ -1,52 +1,48 @@
 # General Administration Department
 
-**Date Range**: 29 September 2025 - 04 October 2025
+**Date Range**: 06 October 2025 - 11 October 2025
 
-
-## Funds
-- Fund distribution for the year 2025-26 under the account head 2070 0532, Subsidiary Grant (Compulsory) to Yashwantrao Chavan Institute of Development Administration, Pune\
-  [202509231303124207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231303124207.pdf)
-
-- Regarding granting government approval to withdraw funds of Rs. 20.00 crore approved through supplementary demand under Shankarrao Chavan Golden Jubilee Journalists Welfare Fund.\
-  [202509241758591807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241758591807.pdf)
-
-- Regarding distribution of grant to Yashada, Pune for the financial year 2025-26 for the Integrated Probationary Training Program. (Salary 2nd installment)\
-  [202509231159156807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231159156807...pdf)
-
-- Regarding the formation of a committee in connection with the construction of the second phase of the memorial of the late Narhar Kurundkar at Nanded.\
-  [202509231438428007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231438428007.pdf)
 
 ## Miscellaneous
-- Regarding prescribing revised reservation for small cadres for direct recruitment to district-level Group-C and Group-D posts in the tribal-dominated districts of Nashik, Dhule, Nandurbar, Palghar, Yavatmal, Raigad, Chandrapur and Gadchiroli, which have a predominantly Scheduled Tribe population....\
-  [202509231638301207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231638301207.pdf)
+- Regarding filling up of 01 post of Room Officer in the office of State Election Commission, Mumbai (Maharashtra) on deputation from the Desk Officers of the ministerial cadre.\
+  [202509291549576507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291549576507.pdf)
 
-- Regarding determining the duties, responsibilities and procedure for filling up the posts approved for the training institutes of Yashada, Pune and Vanamati, Nagpur for the combined probationary training programs.\
-  [202509231304342607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231304342607.pdf)
+- Deputation Order. Smt Shilpa N. Natul, Desk officer.\
+  [202509291701117607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291701117607.pdf)
+
+- Regarding filling up of 01 post of Administrative Officer in the office of Divisional Police Complaints Authority, Nashik on deputation from the Desk Officers of the ministerial cadre.\
+  [202509291545086007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291545086007.pdf)
+
+- Regarding filling up of 01 post in the Desk Officer cadre in the office of State Information Commission, Nashik Bench, Nashik on deputation from the Room Officers in the ministerial cadre.\
+  [202509291542133807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291542133807.pdf)
+
+- Filling the post of deputation basis.\
+  [202509291710196607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291710196607.pdf)
+
+- Regarding filling up the post of Administration Officer (Group-B) on the establishment of the Ministry Canteen on deputation from the Desk Officers of the Ministry cadre\
+  [202509291547312407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291547312407.pdf)
+
+- Regarding promotion to the post of Higher grade Stenographer to eligible disabled employees in the lower grade stenographer cadre in the Mantralaya administrative department. (Additional Select List Year- 2018-19 and 2021-22)\
+  [202509291221446507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291221446507.pdf)
 
 ## Personnel
-- Partial change in posting after promotion of Deputy Secretary Cadre. - Smt. Kavita Shrikant Potdar\
-  [202509221454015907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221454015907.pdf)
+- Regarding the extension of tenure for the posts created at the district/taluka level for election-related work under the jurisdiction of the Election Commission of India.\
+  [202509291829238407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291829238407.pdf)
 
-- Regarding extension of 6 temporary posts in the office of Assistant Commissioner (Backward Classes Section) under the jurisdiction of Divisional Commissioner.\
-  [202509221620261207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221620261207.pdf)
+- Regarding the extension of tenure for the posts created at the district/taluka level for election-related work under the jurisdiction of the Election Commission of India.\
+  [202509291828064807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291828064807.pdf)
 
-- Transfer of Deputy Secretary - Smt. S.D. Kocharekar and Shri. T.P.Pawar\
-  [202509221456240007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221456240007.pdf)
+- Regarding promotion to the post of Higher Grade Stenographer to eligible disabled employees in the lower grade stenographer cadre in the Mantralaya administrative department. (Additional Select List Year- 2023-24)\
+  [202509291225094607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291225094607.pdf)
 
-- Regarding transfer of officers in the ministerial Desk officer cadre\
-  [202509221556473907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509221556473907.pdf)
+- Regarding the extension of tenure for the posts created at the district/taluka level for election-related work under the jurisdiction of the Election Commission of India.\
+  [202509291823212007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291823212007.pdf)
 
-- Regarding appointment to the post of Director (Group-A) of the Institute of Pre-Service Military Education, Chhatrapati Sambhajinagar.\
-  [202509231522524107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509231522524107.pdf)
+- Regarding the extension of tenure for the posts created at the district/taluka level for election-related work and tasks related to electoral rolls under the jurisdiction of the Election Commission of India.\
+  [202509291826236107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291826236107.pdf)
 
-- Honble Supreme Court in Civil Appeal No. 8928/2015 and other petitions dated July 6, 2017 regarding extension of appointment to majority of posts in Directorate General of Information and Public Relations whose caste certificate of Scheduled Tribes has been declared invalid....\
-  [202509241322521007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241322521007.pdf)
-
-- Creation of 6 posts of Section Officer in the Offices of RDIO\
-  [202509241203316807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509241203316807.pdf)
-
-- Continuation of posts.\
-  [202509251225008107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509251225008107.pdf)
+- Regarding the extension of tenure for the posts created for urban assembly constituencies in Pune and Nagpur districts.\
+  [202509291824587007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291824587007.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
