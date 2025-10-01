@@ -3,6 +3,10 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Funds
+- Regarding the implementation of the computer system e-Samarth to carry out all the processes online, from recommending works under the MLA Local Development Program and the Mountain Development Program to making final payments.\
+  [202509301442194916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301442194916.pdf)
+
 ## Personnel
 - Regarding measures to be taken in case of heavy rainfall, flood situation, hailstorm and scarcity under the District Annual Plan (General).\
   [202509291050079816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291050079816.pdf)

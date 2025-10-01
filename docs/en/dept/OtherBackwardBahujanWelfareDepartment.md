@@ -3,6 +3,10 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Funds
+- Regarding granting administrative approval for the annual rental cost of vehicles provided on rental basis for the Chairman, Maharashtra State Backward Classes Commission, Pune and for the Commission office.\
+  [202509301251144034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301251144034.pdf)
+
 ## Miscellaneous
 - Regarding the selection of a school for the academic year 2025-26 under the Raje Yashwantrao Holkar English Medium Residential Education Scheme. Shri. Vishweshwar Shikshan Prasarak Mandal Alamla Tal. Ausa Dist. Latur Bluebird International School Alamla Tal. Ausa Dist. Latur\
   [202509291316580834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291316580834.pdf)
@@ -25,6 +29,9 @@
 ## Personnel
 - Regarding publication of the final seniority list of Other Backward Bahujan Welfare Officer (Group-B) cadre on 01.01.2025 on the establishment of the Director, Directorate of Other Backward Bahujan Welfare, Pune under the Other Backward Bahujan Welfare Department.\
   [202509291839591334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291839591334.pdf)
+
+- Regarding determining a comprehensive working procedure under Vasantrao Naik Tanda/Vasti Improvement Scheme.\
+  [202509301746113934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301746113934.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

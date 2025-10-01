@@ -22,6 +22,9 @@
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) under Brihanmumbai Municipal Corporation District Mumbai Suburban instead of District Mumbai City, an amount of Rs. 5.00 crore (Corrigendum)\
   [202509291235286325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291235286325.pdf)
 
+- Regarding payment of interest on loans taken under Urban Infrastructure Development Fund (UIDF) to the National Housing Bank.\
+  [202509301055117025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301055117025.pdf)
+
 ## Miscellaneous
 - Regarding the implementation of Maharashtra Urban Infrastructure Development Loan Scheme for Urban Local Government Bodies.\
   [202509291248407925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291248407925.pdf)
@@ -37,6 +40,12 @@
 
 - Regarding sanctioning of works from the funds remaining with the District Collector, Akola under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2021-22 (Account Head 4217 0541) under Akola Municipal Corporation, District Akola Amount Rs.10.00 crore (Corrigendum)\
   [202509291229479625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291229479625.pdf)
+
+- Regarding creation of 105 posts in various categories for the Post Graduate Medical Institute of Navi Mumbai Municipal Corporation (NMMC Post Graduate Medical Institute) and approval of the pay scale of these posts.\
+  [202509301540291825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301540291825.pdf)
+
+- Regarding approval of the Navi Mumbai Municipal Corporation Medical Postgraduate Degree Institution Services (Service Admission and Classification of Services) Rules, 2025.\
+  [202509301602364925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301602364925....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

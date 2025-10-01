@@ -10,6 +10,9 @@
 - Regarding the creation of temporary posts based on the final results of the State Services Examination-2022, the Maharashtra Public Service Commission has recommended a maximum number of candidates for the Combined Probationary Training Programme (CPTP-11) for officers working in Group-B (Gazetted) cadre of the Women and Child Development Department.\
   [202509291552240630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291552240630.pdf)
 
+- Regarding the distribution of pending grants to NGOs related to the care and protection of children.\
+  [202509301235073030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301235073030.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in 104 urban projects under the Integrated Child Development Service Scheme from 1.9.2025 to 28.2.2026.\
   [202509291552398930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291552398930.pdf)

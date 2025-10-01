@@ -3,6 +3,10 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Miscellaneous
+- Regarding the taking of premises on lease basis for the project Development of Applied Knowledge and Skills for Human Development (DAKSH) and granting administrative and financial approval for the expenses incurred for this......\
+  [202509301812091203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301812091203.pdf)
+
 ## Personnel
 - Periodic transfers of officers in the Directorate of Vocational Education and Training, Group-A (Technical) (Junior) (Gazetted), Maharashtra Education Service cadre for the year 2025.\
   [202509291320454603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291320454603.pdf)

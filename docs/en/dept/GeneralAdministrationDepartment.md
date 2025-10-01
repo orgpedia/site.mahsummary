@@ -25,6 +25,9 @@
 - Regarding promotion to the post of Higher grade Stenographer to eligible disabled employees in the lower grade stenographer cadre in the Mantralaya administrative department. (Additional Select List Year- 2018-19 and 2021-22)\
   [202509291221446507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291221446507.pdf)
 
+- Regarding appointment as District Guardian SecretaryKolhapur.\
+  [202509301448384807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301448384807.pdf)
+
 ## Personnel
 - Regarding the extension of tenure for the posts created at the district/taluka level for election-related work under the jurisdiction of the Election Commission of India.\
   [202509291829238407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291829238407.pdf)
@@ -43,6 +46,9 @@
 
 - Regarding the extension of tenure for the posts created for urban assembly constituencies in Pune and Nagpur districts.\
   [202509291824587007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291824587007.pdf)
+
+- Regarding granting administrative and financial approval for the estimated budget of expreses related to setting up workstations for the Maha-Astha and other technical projects under the General Administration Department.\
+  [202509301456373807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301456373807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
