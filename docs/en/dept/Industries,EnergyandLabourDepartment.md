@@ -7,6 +7,12 @@
 - Regarding disbursement of funds amounting to Rs.98.00 crore to Mahavitaran Company in cash for maintenance and repair of power substations under Mukhyamantri Saur Krishi Vahini Yojana-2.0. (Demand No. K-6 Account Head No. 28100123)....Corrigendum\
   [202509301145303810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301145303810.pdf)
 
+- Disbursement of 20.00 crore in cash to MahaUrja as the State Governments share of subsidy under the Pradhan Mantri KUSUM Component B Scheme for Scheduled Caste beneficiaries. (Demand No. N-3, Head of Account No. 28100992)\
+  [202510011654021610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011654021610.pdf)
+
+- Disbursement of 40.00 crore in cash to Maharashtra State Electricity Distribution Company Ltd. (MSEDCL) towards the State Governments share of subsidy under the Pradhan Mantri KUSUM Component B Scheme for Scheduled Caste beneficiaries. (Demand No. N-3, Head of Account No. 28100992)\
+  [202510011656530010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011656530010.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee under the chairmanship of the Honble Minister (Industries) to review the functioning of the Industries Department...\
   [202509291842479810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291842479810.pdf)
@@ -17,9 +23,15 @@
 - Visit of Dr. Vijay Rathod, Joint Chief Executive Officer, MIDC to Tokyo and Osaka, cities of Japan.\
   [202509301834030010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301834030010.pdf)
 
+- Regarding effective implementation of the Maharashtra Shops and Establishments (Regulation of Employment and Conditions of Service) Act, 2017.\
+  [202510011205158410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011205158410.pdf)
+
 ## Personnel
 - Regarding request/mid-term transfer of Industries Officer (Technical), Group-B cadre officers on the establishment of Directorate of Industries.\
   [202509301828587310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301828587310.pdf)
+
+- Continuation of posts.\
+  [202510011559171410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011559171410.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

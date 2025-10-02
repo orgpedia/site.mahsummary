@@ -28,6 +28,9 @@
 - Regarding appointment as District Guardian SecretaryKolhapur.\
   [202509301448384807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301448384807.pdf)
 
+- 150 Days Programme regarding service related matters- general instruction regarding evaluation.\
+  [202510011659408107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011659408107....pdf)
+
 ## Personnel
 - Regarding the extension of tenure for the posts created at the district/taluka level for election-related work under the jurisdiction of the Election Commission of India.\
   [202509291829238407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291829238407.pdf)
@@ -49,6 +52,12 @@
 
 - Regarding granting administrative and financial approval for the estimated budget of expreses related to setting up workstations for the Maha-Astha and other technical projects under the General Administration Department.\
   [202509301456373807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301456373807.pdf)
+
+- Regarding continuation of temporary posts on the establishment of General Administration Department (Own) and four other offices from 1st September, 2025 to 28th February, 2026\
+  [202510011619536007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011619536007.pdf)
+
+- Regarding payment of salaries of officers awaiting appointment in the Indian Administrative Service through the General Administration Department.\
+  [202510011059549707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011059549707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,6 +25,9 @@
 - Regarding payment of interest on loans taken under Urban Infrastructure Development Fund (UIDF) to the National Housing Bank.\
   [202509301055117025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301055117025.pdf)
 
+- Regarding the determination of the Upfront Premium amount for the lease on BOT basis of the reservation number 86 - Shop Center, Sheet No. 31/1, total area 16,574.40 in the City Development Plan of Yavatmal Municipal Council.\
+  [202510011320196825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011320196825.pdf)
+
 ## Miscellaneous
 - Regarding the implementation of Maharashtra Urban Infrastructure Development Loan Scheme for Urban Local Government Bodies.\
   [202509291248407925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291248407925.pdf)

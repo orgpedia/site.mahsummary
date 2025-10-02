@@ -26,6 +26,15 @@
 - Regarding the selection of a school for the academic year 2025-26 under the Raje Yashwantrao Holkar English Medium Residential Education Scheme. Satyashodhak Mahatma Phule Education Institute, Dondaicha, Tal. Shindkheda, Dist. Dhule Managed by Shri. Sureshchand B. Sanghvi International School, Uttran, Tal. Erandol, Dist. Jalgaon\
   [202509291318493534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291318493534.pdf)
 
+- Regarding approval to select a school under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme and admit students from the Dhangar community of Nomadic Tribes-C Category for the academic year 2025-26.... Taxashila English Medium School, Dedgaon, Ta. Nevasa, Dist. Ahilyanagar, run by Manvantar Educational Institution, Dedgaon, Ta. Nevasa, Dist. Ahilyanagar\
+  [202510011435324734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011435324734....pdf)
+
+- Regarding approval to select a school under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme and admit students from the Dhangar community of Nomadic Tribes-C Category for the academic year 2025-26.... Shri.Satya Sai Multipurpose Educational Institution, Bapatnagar, Chandrapur Sanchalit Sainik Public School, Wadki, Tal.Ralegaon, Dist.Yavatmal\
+  [202510011600169734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011600169734.....pdf)
+
+- Regarding the addition of retirement gratuity for the purpose of officers/employees first appointed in the service on and after 01.11.2005 under the new defined contribution pension scheme/National Pension System.\
+  [202510011759285434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011759285434.pdf)
+
 ## Personnel
 - Regarding publication of the final seniority list of Other Backward Bahujan Welfare Officer (Group-B) cadre on 01.01.2025 on the establishment of the Director, Directorate of Other Backward Bahujan Welfare, Pune under the Other Backward Bahujan Welfare Department.\
   [202509291839591334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291839591334.pdf)

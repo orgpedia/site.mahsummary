@@ -3,6 +3,10 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Funds
+- Regarding the distribution of funds for the scheme Giving government subsidy for cashew seeds to cashew producing farmers in the state....\
+  [202510011329239602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011329239602.pdf)
+
 ## Miscellaneous
 - Approval is being sought to free the plot of Dudhsagar Cooperative Housing Society Ltd., Goregaon (East), Mumbai along with the construction threon from mortgage.\
   [202509291210087402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291210087402....pdf)
@@ -25,6 +29,15 @@
 
 - Continuation of posts.\
   [202509301302522902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301302522902.pdf)
+
+- Regarding to the cancellation of the appointment made by nomination to the Maharashtra State Agricultural Marketing Board...\
+  [202510011331202202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011331202202.pdf)
+
+- Continuation of posts.\
+  [202510011127087102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011127087102.pdf)
+
+- Regarding extension of tenure of 39 temporary posts under the Commissioner (Textiles), Nagpur and 13 temporary posts under the Commissioner of Cooperatives and Registrar, Cooperative Societies, Pune, totaling 52 temporary posts.\
+  [202510011431118202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011431118202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

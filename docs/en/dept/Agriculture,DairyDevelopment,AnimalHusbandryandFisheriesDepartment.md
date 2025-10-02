@@ -3,9 +3,19 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Funds
+- Regarding the distribution of funds of Rs. 200.00 crore for implementing the State Sponsored Agricultural Mechanization Scheme in the year 2025-26.\
+  [202510011629456701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011629456701.pdf)
+
 ## Miscellaneous
 - Regarding voluntary retirement.. Smt. Nita Mahadevrao Shelke, Mandal Agriculture Officer, Akola-1, Tal. Dist. Akola.\
   [202509291438199101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291438199101.pdf)
+
+- Regarding the formation of a study committee to increase the productivity of milk and dairy products in the state...\
+  [202510011706272401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011706272401.pdf)
+
+- Regarding the disbursement of Rs. 215,96,30,414/- as advance state share subsidy for Ambia Bahar 2025-26 under the restructured Weather Based Fruit Crop Insurance Scheme to be transferred to the ESCROW account of the scheme...\
+  [202510011020116401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011020116401.pdf)
 
 ## Personnel
 - Regarding purely temporary promotion from the cadre of Joint Director of Agriculture to the cadre of Director of Agriculture in Maharashtra Agricultural Service, Group-A..... Select List year 2025-26\

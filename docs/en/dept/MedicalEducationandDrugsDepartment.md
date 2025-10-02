@@ -17,5 +17,11 @@
 - Regarding approval for software upgrade and purchase of spare parts for a total of 09 Dionex HPLC instruments installed at Food and Drug Administration Laboratory, Mumbai.\
   [202509301441086713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301441086713.pdf)
 
+- Administrative Approval for installing Lift in Various Building at Chhtrapati Pramilaraje Government Hospital, kolhapur\
+  [202510011037345113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011037345113.pdf)
+
+- Regarding the determination of fees for services provided through Government Medical Colleges under the Department of Medical Education on the Apple Government Portal under the Right to Public Service Act, 2015.\
+  [202509301810192113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301810192113.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

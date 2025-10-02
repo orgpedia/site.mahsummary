@@ -7,6 +7,9 @@
 - N H-54 to Shetfalgade Panand Road- VR-370 length of 1.00 km inclued  in MDR-84 in  Indapur Taluka of Pune District\
   [202509301259571818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301259571818.pdf)
 
+- Regarding the declaration of Drawing and Disbursing Officer for Maharashtra State Cyber Treasury to distribute funds under the centrally sponsored and respective state affiliated Pradhan Mantri Gram Sadak Yojana on just-in-time basis through SNA SPARSH procedure.\
+  [202510011442412118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011442412118.pdf)
+
 ## Personnel
 - Regarding granting revised posting by promotion in the Superintending Engineer (Civil) cadre.\
   [202509301740149918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301740149918.pdf)

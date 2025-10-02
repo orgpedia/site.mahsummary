@@ -3,6 +3,10 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Miscellaneous
+- Regarding the acceptance of the recommendations of the established Shri. Modak Committee regarding the planning of releasing water from the dam during the monsoon period with a view to reducing the increasing vulnerability of Chiplun city to flooding due to the water coming from the Kolkewadi dam during the monsoon period.\
+  [202510011551594627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011551594627.pdf)
+
 ## Personnel
 - Regarding extension of tenure for the posts of Superintending Engineer and Administrator, Command Area Development Authority, Jalgaon and its subordinate divisional offices on fixed temporary establishments and converted temporary establishments for the period from 01/09/2025 to 28/02/2026.\
   [202509291136441027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291136441027.pdf)
@@ -54,6 +58,48 @@
 
 - Continuation of posts.\
   [202509301626085727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301626085727.pdf)
+
+- Continuation of posts.\
+  [202510011143056227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011143056227.pdf)
+
+- Continuation of posts.\
+  [202510011148192527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011148192527.pdf)
+
+- Continuation of posts.\
+  [202510011144437727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011144437727.pdf)
+
+- Continuation of posts.\
+  [202510011202536127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011202536127.pdf)
+
+- Continuation of posts.\
+  [202510011158513227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011158513227.pdf)
+
+- Continuation of posts.\
+  [202510011200447827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011200447827.pdf)
+
+- Continuation of posts.\
+  [202510011152522527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011152522527.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Upper Wardha Irrigation Board, Amravati and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/09/2025 to 28/02/2026.\
+  [202510011549192627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011549192627.pdf)
+
+- Continuation of posts.\
+  [202510011154599727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011154599727.pdf)
+
+- Regarding posting of Secretary and Secretary equivalent rank in the Executive Director/Director General cadre.\
+  [202510011312595127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011312595127.pdf)
+
+- Continuation of posts.\
+  [202510011146371327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011146371327.pdf)
+
+- Continuation of posts.\
+  [202510011743030827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011743030827.pdf)
+
+- Continuation of posts.\
+  [202510011150183627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011150183627.pdf)
+
+- Continuation of posts.\
+  [202510011157003927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011157003927.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

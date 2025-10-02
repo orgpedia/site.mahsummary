@@ -26,6 +26,12 @@
 - To provide funds for the payment of incremental compensation of land acquired for earthquake victims as per the decision given by civil court in accordance with the sections 18 Land Acquisition Act, 1894\
   [202509301116030419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301116030419.pdf)
 
+- Regarding declaration of competent authority to suspend Group-A and Group-B gazetted officers of the Forest Department.\
+  [202510011614211119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011614211119.pdf)
+
+- Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme (2406-A185) for the year 2025-26.\
+  [202510011627046019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011627046019.pdf)
+
 ## Personnel
 - Regarding extension of 134 forest labour posts (outside the prescribed schedule) in the category of Social Forestry Labourers for continuation in the year 2025-2026\
   [202509291819007519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291819007519.pdf)
@@ -62,6 +68,21 @@
 
 - Continuation of 15 Temporary Post of Konkan  Division from 01/09/2025  to 28/02/2026.\
   [202509301458536019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301458536019.pdf)
+
+- Regarding approval to open a separate Drawing Account with the Reserve Bank of India for implementing the alternative mechanism of State Linked Scheme SNA-SPARSH Fund Distribution System for the State Linked Scheme under the Centrally Sponsored National Mission for a Green India Scheme.\
+  [202510011829066419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011829066419.pdf)
+
+- Regarding continuation of temporary posts under the non-scheme scheme Permanently maintaining three contingents of the State Reserve Police Force with the Forest Department for forest protection in sensitive forest areas of the state in the year 2025-26.\
+  [202510011602578719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011602578719.pdf)
+
+- Regarding continuation of temporary posts under this non-scheme scheme for strengthening the work planning mechanism in the year 2025-26.\
+  [202510011609016719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011609016719.pdf)
+
+- Regarding continuation of temporary posts under the non-scheme scheme Survey of Forest Wealth in the year 2025-26.\
+  [202510011611519919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011611519919.pdf)
+
+- Regarding continuation of temporary posts under the non-scheme scheme of Forest Conservation and General Protection in the year 2025-26.\
+  [202510011606095419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011606095419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

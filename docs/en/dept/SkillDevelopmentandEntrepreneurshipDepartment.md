@@ -17,5 +17,8 @@
 - Continuation of posts.\
   [202509291139454503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291139454503.pdf)
 
+- Regarding temporary promotion to the post of Deputy Director (Administration), Vocational Education Maharashtra Education Service, Group-A (Technical) (Gazetted) (Pay Scale S-18: 49100-155800) from the cadre of Assistant Director (Senior) or Deputy Secretary, Maharashtra State Skill, Vocational Education and Training Board, Mumbai, Group-A (Technical) (Gazetted), Maharashtra Education Service (Pay Scale S-18: 49100-155800) in the Directorate of Vocational Education and Training.\
+  [202509301718521903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301718521903.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -22,12 +22,21 @@
 - Guidelines for the utilization of funds collected by all Principal, District Training Centers, Hospital Training Centers level hostels in the state\
   [202509301038552117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301038552117.pdf)
 
+- As per the order of Honble State Human Rights Commission, Mumbai, Late. Mrs.Sharda Kale Regarding payment of compensation amounting to Rs.12,24,750/- to the legal heirs of\
+  [202510011102403117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011102403117.pdf)
+
 ## Miscellaneous
 - Regarding the relocation of the Primary Health Center at Mouje Nizampur, Tal. Mahad, Dist. Raigad to Mouje Nate, Tal. Mahad, Dist. Raigad.\
   [202509291507591817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291507591817.pdf)
 
 - Regarding the appointment of Dr. Balaji Phalke, Medical Superintendent, Group-A on deputation to the post of Medical Superintendent, Group-A at Mahatma Gandhi Memorial Hospital, Parel, Mumbai.\
   [202509291047059117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291047059117.pdf)
+
+- Regarding the delegation of powers under the Financial Powers Rules, 1978 to the Joint/Deputy Secretary (Establishment).\
+  [202509301218256317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301218256317.pdf)
+
+- Regarding granting collective administrative approval for the purchase of new computer sets, printers, medicines and laboratory equipment for tuberculosis and leprosy patients under the National Leprosy Control Programme in the financial year 2025-26.\
+  [202510011220060117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011220060117.pdf)
 
 ## Personnel
 - Regarding continuation of temporary posts in health institutions under the supervision of Deputy Director Health Services, Mumbai Circle, Thane.\
