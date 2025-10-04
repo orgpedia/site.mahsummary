@@ -26,6 +26,18 @@
 - Regarding effective implementation of the Maharashtra Shops and Establishments (Regulation of Employment and Conditions of Service) Act, 2017.\
   [202510011205158410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011205158410.pdf)
 
+- Regarding the appointment of nominated/ex-officio members on the Governing Council under District Mineral Foundation, Hingoli...\
+  [202510031257395210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031257395210.pdf)
+
+- Regarding the appointment of a Bid Process Coordinator (BPC) to implement a competitive bidding process based on electricity rates for the construction of new transmission projects in the state.\
+  [202510031624372510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031624372510.pdf)
+
+- Regarding the appointment of nominated/ex-officio members on the Governing Council under District Mineral Foundation, Nanded...\
+  [202510031253550410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031253550410.pdf)
+
+- Regarding the appointment of nominated/ex-officio members on the Governing Council under the District Mineral Foundation, Mumbai Suburban...\
+  [202510031255567410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031255567410.pdf)
+
 ## Personnel
 - Regarding request/mid-term transfer of Industries Officer (Technical), Group-B cadre officers on the establishment of Directorate of Industries.\
   [202509301828587310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301828587310.pdf)

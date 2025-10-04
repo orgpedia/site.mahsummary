@@ -31,6 +31,39 @@
 - Revised Administrative approval to Mou. Gonde (Tal. Peth, Dist. Nashik) water supply sceme Under JJM.\
   [202509301711108628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301711108628.pdf)
 
+- Regarding giving Revised administrative approval to the regional water supply scheme dahid kh. ta. buldana dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615237428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615237428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme dhandarwadi ta. sindhkhed raja dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615325728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615325728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme paldag ta. buldhana dist-buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615372328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615372328.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme tarapur ta. buldana dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615196428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615196428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme Khupgaon  ta. buldana dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615151428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615151428.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme deulgaon mali ta. mehkar dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615281128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615281128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme shendala ta. mehkar dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615470128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615470128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme khalyal gavan ta. deulgaon raja dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615097628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615097628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme kolori ta. Khamgaon dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615074128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615074128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme palaskhed chakha  ta. sindhkhed raja dist-buldana for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202510031615417328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031615417328.pdf)
+
+- Revised Administrative approval to Mou. Renwadi  (Tal. Parner, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202510031600027528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031600027528.pdf)
+
 ## Miscellaneous
 - Regarding giving Revised administrative approval to the regional water supply scheme Divthana  ta. chikhali  dist-Buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202509301118205128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301118205128.pdf)
@@ -74,6 +107,18 @@
 
 - Revised Administrative approval to Mou. Devgaon (Tal. Surgana, Dist. Nashik) water supply sceme Under JJM.\
   [202509301710549528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301710549528.pdf)
+
+- Revised Administrative approval to Mou. Dongaon  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202510031559522728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031559522728.pdf)
+
+- Temporary promotion to the post of Senior Geophysicist (Group-A) in the Groundwater Surveys and Development Agency.\
+  [202510031339517528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031339517528.pdf)
+
+- Revised Administrative approval to Mou. Nahuli  (Tal. Jamkhed, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202510031559570928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031559570928.pdf)
+
+- Revised Administrative approval to Mou. Gaar  (Tal. Shrigonda, Dist. Ahilyanagar) water supply sceme Under JJM.\
+  [202510031559502628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031559502628.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

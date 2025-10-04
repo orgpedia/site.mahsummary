@@ -28,6 +28,9 @@
 - Regarding the determination of the Upfront Premium amount for the lease on BOT basis of the reservation number 86 - Shop Center, Sheet No. 31/1, total area 16,574.40 in the City Development Plan of Yavatmal Municipal Council.\
   [202510011320196825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011320196825.pdf)
 
+- Regarding permission to raise funds through municipal boards for development projects of Nashik Municipal Corporation\
+  [202510031856306525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031856306525.pdf)
+
 ## Miscellaneous
 - Regarding the implementation of Maharashtra Urban Infrastructure Development Loan Scheme for Urban Local Government Bodies.\
   [202509291248407925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291248407925.pdf)
@@ -49,6 +52,9 @@
 
 - Regarding approval of the Navi Mumbai Municipal Corporation Medical Postgraduate Degree Institution Services (Service Admission and Classification of Services) Rules, 2025.\
   [202509301602364925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301602364925....pdf)
+
+- Regarding the declaration of the Controlling Officer, Head of Office and Drawing and Disbursing Officer (DDO) for the distribution of funds in connection with the financial transactions of Nashik-Trimbakeshwar Simhastha Kumbh Mela 2027-28.\
+  [202510031748178525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031748178525....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

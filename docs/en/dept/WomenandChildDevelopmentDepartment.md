@@ -3,6 +3,10 @@
 **Date Range**: 06 October 2025 - 11 October 2025
 
 
+## Funds
+- Regarding the establishment of an e-tendering process for the supply of food grains and essential commodities to all government institutions operating under the Women and Child Development Department.\
+  [202510031516598530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031516598530.pdf)
+
 ## Miscellaneous
 - Regarding approval of registration certificates of 57 government institutions related to the care and protection of children under the Juvenile Justice (Care and Protection of Children) Act, 2015.\
   [202509291455022330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291455022330.pdf)

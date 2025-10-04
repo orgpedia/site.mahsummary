@@ -13,6 +13,12 @@
 - Mauje Hiradpuri, District Paithan, Dist. Regarding return of unexcavated sand from Sand Ghat at Chhatrapati Sambhajinagar. - GVPR Pvt Ltd on behalf of Executive Engineer, Maharashtra Life Authority, Chhatrapati Sambhajinagar.\
   [202509291814062419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291814062419.pdf)
 
+- Regarding granting administrative approval for civic facility works in flood-affected villages in Naigaon taluka of Nanded district.\
+  [202510031741122919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031741122919....pdf)
+
+- Regarding granting administrative approval to civic facility works in flood-affected villages in Mukhed taluka of Nanded district.\
+  [202510031743151019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031743151019.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2025-26.\
   [202509291323512619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291323512619.pdf)
@@ -31,6 +37,18 @@
 
 - Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme (2406-A185) for the year 2025-26.\
   [202510011627046019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011627046019.pdf)
+
+- Regarding the distribution of funds under the scheme for the construction of administrative building (4406 0026) for the year 2025-26.\
+  [202510031410395119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031410395119.pdf)
+
+- Government Supplement - Regarding ensuring posts in Group-A to Group-D cadre under the jurisdiction of the Forest Department for the disabled as per the Rights of Persons with Disabilities Act, 2016.\
+  [202510031358374019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031358374019.pdf)
+
+- Regarding speedy registration of changes in 7/12 or property sheet income in accordance with the land acquisition award of various ongoing projects in the state.\
+  [202510031704143119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031704143119.pdf)
+
+- Regarding declaration of competent authority for taking disciplinary action against officers/employees of the Registration and Stamps Department.\
+  [202510031505033219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031505033219.pdf)
 
 ## Personnel
 - Regarding extension of 134 forest labour posts (outside the prescribed schedule) in the category of Social Forestry Labourers for continuation in the year 2025-2026\
@@ -83,6 +101,15 @@
 
 - Regarding continuation of temporary posts under the non-scheme scheme of Forest Conservation and General Protection in the year 2025-26.\
   [202510011606095419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011606095419.pdf)
+
+- Regarding taking action as per rules against officers/employees who fail to perform their duties if they do not hold a meeting at least once in two months regarding forest conservation.\
+  [202510031300481819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031300481819.pdf)
+
+- Regarding postings by promotion/transfer of officers of the Indian Forest Service.\
+  [202510031118472919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031118472919....pdf)
+
+- Regarding postings by promotion/transfer of officers of the Indian Forest Service.\
+  [202510031745442419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031745442419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Regarding granting administrative approval for the annual rental cost of vehicles provided on rental basis for the Chairman, Maharashtra State Backward Classes Commission, Pune and for the Commission office.\
   [202509301251144034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301251144034.pdf)
 
+- Regarding administrative approval and distribution of funds for works in Kolhapur, Gondia and Ratnagiri districts for the year 2025-26 under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202510031222321734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031222321734.pdf)
+
 ## Miscellaneous
 - Regarding the selection of a school for the academic year 2025-26 under the Raje Yashwantrao Holkar English Medium Residential Education Scheme. Shri. Vishweshwar Shikshan Prasarak Mandal Alamla Tal. Ausa Dist. Latur Bluebird International School Alamla Tal. Ausa Dist. Latur\
   [202509291316580834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291316580834.pdf)
@@ -34,6 +37,9 @@
 
 - Regarding the addition of retirement gratuity for the purpose of officers/employees first appointed in the service on and after 01.11.2005 under the new defined contribution pension scheme/National Pension System.\
   [202510011759285434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011759285434.pdf)
+
+- Regarding approval to disburse funds for 31, Subsidiary Grants (Non-Salary) (Programme) for the financial year 2025-26 to Vasantrao Naik Vimukta Jati and Nomadic Tribes Development Corporation Limited.\
+  [202510031552265134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031552265134.pdf)
 
 ## Personnel
 - Regarding publication of the final seniority list of Other Backward Bahujan Welfare Officer (Group-B) cadre on 01.01.2025 on the establishment of the Director, Directorate of Other Backward Bahujan Welfare, Pune under the Other Backward Bahujan Welfare Department.\

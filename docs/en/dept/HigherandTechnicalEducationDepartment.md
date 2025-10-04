@@ -10,9 +10,18 @@
 - Regarding creation of a new account head for budgetary provision in connection with the implementation of Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme.\
   [202509301151301808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301151301808.pdf)
 
+- Regarding distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Account Head-2203 3542)\
+  [202510031543009308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031543009308.pdf)
+
+- Regarding distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Account Head-2203 3542)\
+  [202510031541019408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031541019408.pdf)
+
 ## Miscellaneous
 - Regarding sending teachers from government technical colleges on deputation for higher education under the Quality Improvement Scheme.\
   [202509291239113708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291239113708.pdf)
+
+- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the Governments approval to start courses under the Twinning Programme in the existing unaided institution from the academic year 2025-26. (Dattajirao Kadam Technical Education Societys Textile and Engineering Institute, Ichalkaranji, Kolhapur)\
+  [202510031631210108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031631210108.pdf)
 
 ## Personnel
 - Regarding continuation of temporary posts in the Directorate of Libraries, Mumbai and offices under the Directorate from 01.09.2025 to 28.02.2026.\

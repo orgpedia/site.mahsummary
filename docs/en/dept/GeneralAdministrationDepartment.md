@@ -31,6 +31,12 @@
 - 150 Days Programme regarding service related matters- general instruction regarding evaluation.\
   [202510011659408107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011659408107....pdf)
 
+- Regarding joining the candidates of the Ministerial Desk Officer, Group-B cadre selected by the Maharashtra Public Service Commission on the basis of the final results of the Combined Probationary Training Program-10 State Services (Main) Examination - 2022 in the department for account-wise district affiliation training.\
+  [202510031159421107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031159421107....pdf)
+
+- Regarding extension of technical manpower provided by Maharashtra Information Technology Corporation.\
+  [202510031730052607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031730052607....pdf)
+
 ## Personnel
 - Regarding the extension of tenure for the posts created at the district/taluka level for election-related work under the jurisdiction of the Election Commission of India.\
   [202509291829238407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291829238407.pdf)
@@ -58,6 +64,12 @@
 
 - Regarding payment of salaries of officers awaiting appointment in the Indian Administrative Service through the General Administration Department.\
   [202510011059549707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011059549707.pdf)
+
+- Regarding partial change in posting after promotion from the post of Selection Grade Stenographer to the post of Senior Personal Assistant. (Mrs. A. A. Prabhu, Selection Grade Stenographer)\
+  [202510031654226707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031654226707.pdf)
+
+- Combined Probationary Training Program-10 Regarding the account-wise district affiliation training program for candidates in the Desk Officer, Group-B cadre as well as the temporary posting during this training period.\
+  [202510031153414107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031153414107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,6 +25,9 @@
 - As per the order of Honble State Human Rights Commission, Mumbai, Late. Mrs.Sharda Kale Regarding payment of compensation amounting to Rs.12,24,750/- to the legal heirs of\
   [202510011102403117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011102403117.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 3.00 crore from the budgetary grant (2210 4473) for the year 2025-26 to the State Blood\
+  [202510031702536717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031702536717.pdf)
+
 ## Miscellaneous
 - Regarding the relocation of the Primary Health Center at Mouje Nizampur, Tal. Mahad, Dist. Raigad to Mouje Nate, Tal. Mahad, Dist. Raigad.\
   [202509291507591817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291507591817.pdf)

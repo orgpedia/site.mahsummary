@@ -30,5 +30,14 @@
 - Regarding continuation of temporary posts in Taluka Seed Multiplication Center under Agriculture Commissionerate from 01st September, 2025 to 28th February, 2026... (Total 248 posts)\
   [202509301731055701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301731055701.pdf)
 
+- Regarding promotion from the cadre of Agriculture Officer (Zilla Parishad) Group-B (Junior) (Gazetted) to the cadre of Maharashtra Agricultural Service, Group-B..... Select List Year 2024-25\
+  [202510031846576401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031846576401.pdf)
+
+- Regarding promotion on the post of Regional Deputy Commissioner Fisheries and Deputy Commissioner (Budget and Plan), Group-A (Technical).\
+  [202510031555290501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031555290501....pdf)
+
+- The Maharashtra State Horticulture and Medicinal Plants Board has been dissolved and the National Horticulture Mission has been implemented under the Agricultural Development Scheme-Integrated Horticulture Development Mission through the office of the Director (Horticulture)\
+  [202510031508383201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031508383201.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

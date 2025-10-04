@@ -13,6 +13,12 @@
 - Extension of time to Larsen  Toubro Limited for the Operation  Maintenance of the Mumbai CCTV Project, as well as extension of time to PwC, the project consultant for the said project.\
   [202510011437483329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011437483329.pdf)
 
+- Fund Distribution 2025-26. Requisition No. B-6- Main Account Head-22351684, Social Security and Welfare, 104-Deposit Linked Insurance Scheme.\
+  [202510031239535929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031239535929.pdf)
+
+- Fund Distribution 2025-26. Requisition No. B-11- Main Account Head-7610 Loans to Government Employees etc.\
+  [202510031236593629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031236593629.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative and financial approval for payment of outstanding electricity bills of the Office of the Transport Commissioner, Bandra (East), Mumbai.\
   [202509301320017429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301320017429.pdf)
@@ -25,6 +31,9 @@
 
 - Foreign (Stockholm Sweden) Study tour of Minister (Ports and Fisheries), Home Department, Mantralaya, Government of Maharashtra, India from Date 4th October to 08th October, 2025 including travelling time..\
   [202509301841419029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301841419029.pdf)
+
+- Regarding appointment to the post of Assistant Government Prosecutor, Group A through direct service.\
+  [202510031651281229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031651281229.pdf)
 
 ## Personnel
 - Posting after repatriation from the post of deputation - Shri. Manoj Chaudhary, Inspector (Group-B), State Excise.\
