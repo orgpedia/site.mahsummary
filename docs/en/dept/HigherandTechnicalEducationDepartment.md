@@ -1,37 +1,27 @@
 # Higher and Technical Education Department
 
-**Date Range**: 06 October 2025 - 11 October 2025
+**Date Range**: 13 October 2025 - 18 October 2025
 
-
-## Funds
-- Regarding creation of a new budget head for the implementation of the Free Vocational Education Scheme for Girls for girls from Economically Weaker Sections (EWS), Other Backward Classes (OBC), Socially and Educationally Backward Classes (SEBC) who are taking admission in professional courses and whose annual family income is Rs. 8.00 lakhs or less.\
-  [202509301148520908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301148520908.pdf)
-
-- Regarding creation of a new account head for budgetary provision in connection with the implementation of Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme.\
-  [202509301151301808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301151301808.pdf)
-
-- Regarding distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Account Head-2203 3542)\
-  [202510031543009308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031543009308.pdf)
-
-- Regarding distribution of funds for Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Account Head-2203 3542)\
-  [202510031541019408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031541019408.pdf)
 
 ## Miscellaneous
-- Regarding sending teachers from government technical colleges on deputation for higher education under the Quality Improvement Scheme.\
-  [202509291239113708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291239113708.pdf)
+- Government approval to change the name of the existing Pharmacy course institute and start a new Postgraduate degree course in the said institute from the academic year 2025-26, in accordance with the approval of the Pharmacy Council of India, New Delhi.\
+  [202510061304043308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061304043308.pdf)
 
-- Regarding the approval of the All India Council for Technical Education, New Delhi, regarding the Governments approval to start courses under the Twinning Programme in the existing unaided institution from the academic year 2025-26. (Dattajirao Kadam Technical Education Societys Textile and Engineering Institute, Ichalkaranji, Kolhapur)\
-  [202510031631210108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031631210108.pdf)
+- Regarding prescribing procedures to bring more transparency in the recruitment process for statutory posts (non-agricultural) in public universities in the state.\
+  [202510061835199608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061835199608.pdf)
+
+- Regarding granting Government approval based on the approval given by Pharmacy Council of India, New Delhi for starting new Postgraduate Degree courses/increasing the admission capacity of Postgraduate Degree/Degree courses in the existing Institute of Pharmacy course from the academic year 2025-26\
+  [202510061240361508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061240361508....pdf)
+
+- Regarding prescribing procedures to bring more transparency in the recruitment process of (non-agricultural) teachers in public universities in the state.\
+  [202510061832268408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061832268408.pdf)
+
+- Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Channabasaveshwar Pharmacy College, Basaveshwar Chowk, Latur\
+  [202510061259494508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061259494508.pdf)
 
 ## Personnel
-- Regarding continuation of temporary posts in the Directorate of Libraries, Mumbai and offices under the Directorate from 01.09.2025 to 28.02.2026.\
-  [202509291703165808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291703165808.pdf)
-
-- Regarding publication of provisional seniority list of officers holding the posts of Associate Professor, Government Engineering College and Associate Professor, Government Pharmacy College in Maharashtra Engineering College Teachers Service Group-A under the Directorate of Technical Education for the period from 01 January, 2012 to 01 January, 2025.\
-  [202509301818275008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301818275008.pdf)
-
-- Regarding publication of provisional seniority list of officers holding the post of Joint Director, Technical Education/Director, Maharashtra State Board of Technical Education in Maharashtra Engineering Teachers and Administrative Services Group-A cadre for the period from 01 January, 2012 to 01 January, 2025.\
-  [202509301645485108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301645485108...pdf)
+- Regarding administrative transfer of Professors, Group-A in Government Colleges/Institutions under the Directorate of Higher Education in the year 2025.\
+  [202510061254341908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061254341908.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

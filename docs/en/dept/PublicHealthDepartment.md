@@ -1,61 +1,39 @@
 # Public Health Department
 
-**Date Range**: 06 October 2025 - 11 October 2025
+**Date Range**: 13 October 2025 - 18 October 2025
 
-
-## Funds
-- Regarding granting administrative approval to continue sanitation services through external mechanisms at Regional Psychiatric Hospitals Pune, Nagpur, Thane and Ratnagiri.\
-  [202509291146491417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291146491417.pdf)
-
-- Regarding the disbursement of funds amounting to Rs. 3.00 crore from the budgetary grant (2210 4473) for the year 2025-26 to the State Blood Transfusion Council, Mumbai.\
-  [202509291443107817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291443107817.pdf)
-
-- Fund Distribution Year 2025-2026  Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana Centrally Sponsored Scheme State Share (40) 2210 G494 (TSP) 31-Subsidies Regarding the distribution of funds amounting to Rs.20,57,99,586/- under this account head...Corrigendum.\
-  [202509291141103217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291141103217.pdf)
-
-- Regarding granting administrative approval to continue sanitation services through external mechanisms at Regional Psychiatric Hospitals Pune, Nagpur, Thane and Ratnagiri.\
-  [202509291146518117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291146518117.pdf)
-
-- Regarding granting administrative approval for the purchase of 105 types of medicines from the budgetary provision for the year 2025-26 for the HinduHridaySamrat Balasaheb Thackeray Apla Dawakhana center and transferring the said funds to the Maharashtra Medical Goods Procurement Authority.\
-  [202509301215045617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301215045617.pdf)
-
-- Guidelines for the utilization of funds collected by all Principal, District Training Centers, Hospital Training Centers level hostels in the state\
-  [202509301038552117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301038552117.pdf)
-
-- As per the order of Honble State Human Rights Commission, Mumbai, Late. Mrs.Sharda Kale Regarding payment of compensation amounting to Rs.12,24,750/- to the legal heirs of\
-  [202510011102403117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011102403117.pdf)
-
-- Regarding the disbursement of funds amounting to Rs. 3.00 crore from the budgetary grant (2210 4473) for the year 2025-26 to the State Blood\
-  [202510031702536717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031702536717.pdf)
 
 ## Miscellaneous
-- Regarding the relocation of the Primary Health Center at Mouje Nizampur, Tal. Mahad, Dist. Raigad to Mouje Nate, Tal. Mahad, Dist. Raigad.\
-  [202509291507591817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291507591817.pdf)
+- Regarding granting administrative approval to the proposal for the purchase of necessary materials and other items under the National Fever and Elephantiasis Eradication Program for the financial year 2025-2026 for an amount of Rs. 7,01,19,687/-.\
+  [202510061551407917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061551407917.pdf)
 
-- Regarding the appointment of Dr. Balaji Phalke, Medical Superintendent, Group-A on deputation to the post of Medical Superintendent, Group-A at Mahatma Gandhi Memorial Hospital, Parel, Mumbai.\
-  [202509291047059117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291047059117.pdf)
+- Regarding administrative approval of expenditure for advertisement in newspapers on health related programs and activities dated 15th August, 2024.\
+  [202510061830531817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061830531817.pdf)
 
-- Regarding the delegation of powers under the Financial Powers Rules, 1978 to the Joint/Deputy Secretary (Establishment).\
-  [202509301218256317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301218256317.pdf)
+- Regarding creation of 337 supernumerary posts for 337 Medical Officers in Health Institutions/Offices under the auspices of the Public Health Department who have appeared for the Post Graduate Degree courses NEET PG-2024, NEET DNB-2024 and AIA-PGET 2024 (Ayu) in the year 2024-25.\
+  [202510061533016317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061533016317.pdf)
 
-- Regarding granting collective administrative approval for the purchase of new computer sets, printers, medicines and laboratory equipment for tuberculosis and leprosy patients under the National Leprosy Control Programme in the financial year 2025-26.\
-  [202510011220060117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011220060117.pdf)
+- Corrigendum regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Services cadre. . .\
+  [202510061239282317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061239282317.pdf)
+
+- Regarding the establishment of a steering committee to start the Maharashtra Emergency Medical Services (108) project.\
+  [202510061054553217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061054553217.pdf)
+
+- Regarding the relocation of the approved sub-centre at Mouje Metgutad, Tal. Mahabaleshwar, Dist. Satara to Mouje Dudhgaon, Tal. Mahabaleshwar, Dist. Satara.\
+  [202510061607543517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061607543517.pdf)
 
 ## Personnel
-- Regarding continuation of temporary posts in health institutions under the supervision of Deputy Director Health Services, Mumbai Circle, Thane.\
-  [202509291136268217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291136268217.pdf)
+- Regarding the continuation of newly created 10 temporary posts in the office of District Maleria Officer, Palghar.\
+  [202510061104445717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061104445717.pdf)
 
-- Regarding continuation of 1050 temporary posts in 350 Taluka Health Officer offices in the state.\
-  [202509301514101117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301514101117.pdf)
+- Regarding Continuation of 3 Temparary Posts of Plauge Control team.\
+  [202510061104358217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061104358217.pdf)
 
-- Continuation of 41 temporary posts under the Health Services Commissionerate, Mumbai.\
-  [202509301514128417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301514128417.pdf)
+- Regarding the continuation of 4164 temporary posts under National Maleria Eradication Programme.\
+  [202510061104498717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061104498717.....pdf)
 
-- Continuation of temporary posts in the District Health Officer cadre in Deputy Director, Health Services, Nagpur Board\
-  [202509301515023117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301515023117.pdf)
-
-- Regarding continuation of temporary posts in the Dental Department in Rural Hospitals / Sub-District / District Hospital / General Hospital under the jurisdiction of Deputy Director, Health Services Board, Thane and Pune.\
-  [202509301514309517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301514309517.pdf)
+- Regarding continuation of 273 temporary posts under the National Elephantiasis Eradication Programme.\
+  [202510061104379617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061104379617.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

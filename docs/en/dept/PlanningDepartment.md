@@ -1,18 +1,11 @@
 # Planning Department
 
-**Date Range**: 06 October 2025 - 11 October 2025
+**Date Range**: 13 October 2025 - 18 October 2025
 
 
-## Funds
-- Regarding the implementation of the computer system e-Samarth to carry out all the processes online, from recommending works under the MLA Local Development Program and the Mountain Development Program to making final payments.\
-  [202509301442194916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301442194916.pdf)
-
-- Regarding the distribution of administrative funds received from the Central Government for the year 2025-26 for the Mahatma Gandhi National Rural Employment Guarantee Scheme-Maharashtra scheme..\
-  [202510031755316616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031755316616.pdf)
-
-## Personnel
-- Regarding measures to be taken in case of heavy rainfall, flood situation, hailstorm and scarcity under the District Annual Plan (General).\
-  [202509291050079816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291050079816.pdf)
+## Miscellaneous
+- Regarding issuance of guidelines regarding the working procedures under the District Annual Plan (General).\
+  [202510061811165416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061811165416.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
