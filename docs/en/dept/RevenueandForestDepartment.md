@@ -24,5 +24,56 @@
 - Regarding transfers of officers in the Divisional Forest Officer Group-A (Senior Grade) cadre\
   [202510061252192519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061252192519.pdf)
 
+- Continuation of posts.\
+  [202510071346254119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071346254119.pdf)
+
+- Posting of officers in the Tehsildar cadre - Mr. Sachin Dongre, Tehsildar\
+  [202510071947478419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071947478419.pdf)
+
+- Posting of officers in the Tehsildar cadre - Shri. Nitin Kumar Deore, Tehsildar\
+  [202510071942252019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071942252019.pdf)
+
+- Posting of officers in the Tehsildar cadre - Mrs. Shweta Sancheti, Tehsildar\
+  [202510071958047719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071958047719.pdf)
+
+- Posting of officers in the Tehsildar cadre - Shri. Ganesh Jadhav, Tehsildar\
+  [202510071940358619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071940358619.pdf)
+
+- Continuation of posts.\
+  [202510071333130119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071333130119.pdf)
+
+- Posting of officers in the Tehsildar cadre - Shri. Rahul Gurav, Tehsildar\
+  [202510071945239319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071945239319.pdf)
+
+- Posting of officers in the Tehsildar cadre - Shri. Umesh Patil, Tehsildar\
+  [202510071951358419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071951358419.pdf)
+
+- Regarding extension of temporary posts in Land Records Department  from 01.09.2025 to 28.02.2026.\
+  [202510071740576919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071740576919.pdf)
+
+- Posting of officers in the Tehsildar cadre - Mrs. Minal Bhamre, Tehsildar\
+  [202510071953288619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071953288619.pdf)
+
+- Continuation of posts.\
+  [202510071340421719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071340421719.pdf)
+
+- Continuation of posts.\
+  [202510071336229319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071336229319.pdf)
+
+- Posting of officers in the Tehsildar cadre - Shri. Dhananjay Deshmukh, Tehsildar\
+  [202510071938355019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071938355019.pdf)
+
+- Continuation of posts.\
+  [202510071343123719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071343123719.pdf)
+
+- Posting of officers in the Tehsildar cadre - Shri. Sandeep Panmand, Tehsildar\
+  [202510071949418519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071949418519.pdf)
+
+- Continuation of posts.\
+  [202510071338505819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071338505819.pdf)
+
+- Posting of officers in the Tehsildar cadre - Mrs. Sheetal Ghavate, Tehsildar\
+  [202510071955167119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071955167119.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

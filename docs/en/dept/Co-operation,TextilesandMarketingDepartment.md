@@ -7,6 +7,9 @@
 - Regarding the selection of the Nilkanth Cooperative Spinning Mill Ltd., Akola, Dist. Akola for government financial assistance as a special case in the ratio of 5:45:50.\
   [202510061815115802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061815115802.pdf)
 
+- Regarding sanctioning government share capital to cooperative sugar factories for implementing co-generation projects.\
+  [202510071720367802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071720367802.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative and financial approval for the expenses incurred for installation of air conditioning in the office of Divisional Joint Registrar Cooperative Society (Audit), Nagpur Division, Nagpur.\
   [202510061306592502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061306592502.pdf)

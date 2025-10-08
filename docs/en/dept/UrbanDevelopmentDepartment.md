@@ -1,60 +1,19 @@
 # Urban Development Department
 
-**Date Range**: 06 October 2025 - 11 October 2025
+**Date Range**: 13 October 2025 - 18 October 2025
 
 
 ## Funds
-- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2025-26, under the Head of Account (2217 1301), an amount of Rs. 17.00 crore for Bhandara Municipal Council, Dist. Bhandara An amount of Rs. 3.00 crore for Pawani Municipal Council, Dist. Bhandara Total amount of Rs. 20.00 crore (Corrigendum)\
-  [202509291241163325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291241163325.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) for Bhiwandi Nizampur Municipal Corporation, Dist. Thane, an amount of Rs. 25.00 crore (Corrigendum)\
-  [202509291236542325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291236542325.pdf)
-
-- Regarding the disbursement of funds under the scheme Subsidiary Grant to Municipal Councils due to the abolition of Travel Tax. The amount under the head of account (3604 0147) for the year 2025-26 is Rs.5.4250 crore.\
-  [202509291444302825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291444302825.pdf)
-
-- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2023-24 under the Account Head (4217 0603) For Alandi Municipal Council, Dist. Pune Amount Rs. 5.00 crore For Rajgurunagar Municipal Council, Dist. Pune Amount Rs. 2.00 crore For Chakan Municipal Council, Dist. Pune Amount Rs. 3.00 crore Total amount Rs. 10.00 crore (Corrigendum)\
-  [202509291227154525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291227154525.pdf)
-
-- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2023-24 under the account head (4217 0603) To Dharashiv Municipal Council, District Dharashiv Amount Rs. 6.32 crore To Murum Municipal Council, District Dharashiv Amount Rs. 0.25 crore To Paranda Municipal Council, District Dharashiv Amount Rs. 0.25 crore To Kalamb Municipal Council, District Dharashiv Amount Rs. 0.50 crore To Naldurg Municipal Council, District Dharashiv Amount Rs. 6.00 crore To Bhum Municipal Council, District Dharashiv Amount Rs. 0.25 crore To Lohar B. Municipal Council, District Dharashiv Amount Rs. 0.25 crore To Umarga Municipal Council, District Dharashiv Amount Rs. 0.50 crores Tuljapur Municipal Council, Dharashiv Dist. For Amount Rs. 8.4910 crores Vashi Nagar Panchayat, Dharashiv Dist. For Amount Rs. 2.1890 crores Total amount Rs. 25.00 crores (Corrigendum)\
-  [202509291242449125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291242449125.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) under Brihanmumbai Municipal Corporation District Mumbai Suburban instead of District Mumbai City, an amount of Rs. 5.00 crore (Corrigendum)\
-  [202509291235286325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291235286325.pdf)
-
-- Regarding payment of interest on loans taken under Urban Infrastructure Development Fund (UIDF) to the National Housing Bank.\
-  [202509301055117025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301055117025.pdf)
-
-- Regarding the determination of the Upfront Premium amount for the lease on BOT basis of the reservation number 86 - Shop Center, Sheet No. 31/1, total area 16,574.40 in the City Development Plan of Yavatmal Municipal Council.\
-  [202510011320196825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510011320196825.pdf)
-
-- Regarding permission to raise funds through municipal boards for development projects of Nashik Municipal Corporation\
-  [202510031856306525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031856306525.pdf)
+- Regarding amendment in the administrative approval order of the memorial of the late leader R. S. Gavai at Mauje Wadali, Taluka, Dist. Amravati.\
+  [202510071527333625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071527333625.pdf)
 
 ## Miscellaneous
-- Regarding the implementation of Maharashtra Urban Infrastructure Development Loan Scheme for Urban Local Government Bodies.\
-  [202509291248407925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291248407925.pdf)
+- Interim seniority list of Joint Commissioner, Group-A, Chief Officer, Group-A (Selective Category)/Deputy Commissioner, Group-A, Chief Officer, Group-A / Assistant Commissioner, Group-A Chief Officer, Group-B / Assistant Commissioner, Group-B cadre in Maharashtra Urban Administrative Service as on 01.01.2025 (for the period 01.01.2024 and 31.12.2024).\
+  [202510071647357125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071647357125.pdf)
 
-- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2023-24 under the Head of Account (4217 0541) For Nashik Municipal Corporation, Dist. Nashik Amount Rs. 10.00 Crore (Corrigendum)\
-  [202509291231116825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291231116825.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) under Nashik Municipal Corporation Dist. Nashik Amount Rs.25.00 crore (Corrigendum)\
-  [202509291233399025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291233399025.pdf)
-
-- Regarding amendment in the service entry rules regarding the qualifications and method of appointment for the posts of Assistant Engineer (Civil/Mechanical/Electrical) in the cadre of Kalyan-Dombivli Municipal Corporation.\
-  [202509291616404125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291616404125.pdf)
-
-- Regarding sanctioning of works from the funds remaining with the District Collector, Akola under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2021-22 (Account Head 4217 0541) under Akola Municipal Corporation, District Akola Amount Rs.10.00 crore (Corrigendum)\
-  [202509291229479625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509291229479625.pdf)
-
-- Regarding creation of 105 posts in various categories for the Post Graduate Medical Institute of Navi Mumbai Municipal Corporation (NMMC Post Graduate Medical Institute) and approval of the pay scale of these posts.\
-  [202509301540291825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301540291825.pdf)
-
-- Regarding approval of the Navi Mumbai Municipal Corporation Medical Postgraduate Degree Institution Services (Service Admission and Classification of Services) Rules, 2025.\
-  [202509301602364925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202509301602364925....pdf)
-
-- Regarding the declaration of the Controlling Officer, Head of Office and Drawing and Disbursing Officer (DDO) for the distribution of funds in connection with the financial transactions of Nashik-Trimbakeshwar Simhastha Kumbh Mela 2027-28.\
-  [202510031748178525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510031748178525....pdf)
+## Personnel
+- Regarding the allotment of 1055.25 sq.m. area under Najakadha in No. Bhu. No. 39/6/2/2 at Deolali, Tal. Dist. Nashik to Maharashtra Sahitya Parishad Branch, Nashik Road...\
+  [202510071407593825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071407593825.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
