@@ -47,6 +47,48 @@
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Dr.K.D.Shendge Charitable Trust, Umarga, Dz.Dharashiv, Dr. Kushaba Dhondiba Shendge C.B.S. E School, Umarga, T.Umarga, Dz. Dharashiv\
   [202510071848271734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071848271734.pdf)
 
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Sl. Dagdabai Champalalji Biyani Educational Development Board, Bhusawal, Jalgaon District, Biyani Public School, Bhusawal, Jalgaon District\
+  [202510081639424034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081639424034.pdf)
+
+- Regarding selection of school for the academic year 2025-26 under Raje Yashwantrao Holkar English Medium Residential Education Scheme. S.S.K. Public School and Junior College, Vadzire, Ta. Sinnar, Dist. Nashik, run by Dhanalakshmi Education Institute, Naigaon, Ta. Sinnar, Dist. Nashik\
+  [202510081658364434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081658364434.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Ishwar Shikshan Prasarak Mandal, Ralegaon, Yavatmal District, Markandey Public School, Baradgaon, Tal. Ralegaon, Yavatmal District\
+  [202510081725522434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081725522434.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Painganga Multipurpose Development Institute, Yavatmal, Reddys Convent Patanbori, Tal. Kelapur, Dist. Yavatmal\
+  [202510081722147634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081722147634.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Jeevanjyot Social Organization, Ashti, Tal. Hadgaon, Dist. Nanded, Vimal English School, Bhokar, Tal. Bhokar, Dist. Nanded\
+  [202510081652244734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081652244734.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Radhaswamy Various Executive Institutions, Adarsh Sanskar Vidyalaya and Junior College, Hudkeshwar Road, Pipla, Nagpur\
+  [202510081816552534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081816552534.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Dudhganga Education Academy, Kolhapur, managed by Shri. Dudhganga Valley English Medium School, Ispurli, Tal. Karveer, Dist. Kolhapur\
+  [202510081654264134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081654264134.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Purna Kaveri Education Institute, Dist. Chhatrapati Sambhajinagar, Run by Little Wonders School, Sillod, Dist. Chhatrapati Sambhajinagar\
+  [202510081644345634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081644345634.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Two-year Rural and Urban Development Institution Hingoli, Cambridge School of Scholars, Kalamanuri, Dist. Hingoli\
+  [202510081656254134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081656254134.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Vishva Bharati Janseva Pratishthan, Anandnagar, Dist. Parbhani, Vision Public School, Sonpeth, Dist. ParbhaniRegarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Vishva Bharati Janseva Pratishthan, Anandnagar, Dist. Parbhani, Vision Public School, Sonpeth, Dist. Parbhani\
+  [202510081650471734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081650471734....pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Jaikranti Shikshan Prasarak Mandal, Latur, Swami Vivekananda Integration English School M.I.D.C. Kalamb Road, Latur\
+  [202510081648226534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081648226534.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Kai.Matoshree Bhagirathi Sitaram Nidhute Memorial Foundation, Sangamner Sanchalit, Lotus English Medium School and Junior College, Vadgaon Pan, Tal. Sangamner, Dist. Ahilyanagar\
+  [202510081724137734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081724137734.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Dr.K.D.Shendge Charitable Trust, Umarga, Dharashiv District, Dr. K.D. Shendge English Medium School, Umarga, T.Umarga, Dharashiv District\
+  [202510081636462134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081636462134.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Godavari Manar Charitable Trust Shankarnagar, Tal. Biloli, Dist. Nanded, Godavari Manar Public School and Junior College Shankarnagar\
+  [202510081635370734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081635370734.pdf)
+
 ## Personnel
 - Appointment and posting by deputation Shri. Amol Ba. Takbhate, Group Development Officer\
   [202510061840456334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061840456334.pdf)

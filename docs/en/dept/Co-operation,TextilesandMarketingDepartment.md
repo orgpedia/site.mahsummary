@@ -10,9 +10,24 @@
 - Regarding sanctioning government share capital to cooperative sugar factories for implementing co-generation projects.\
   [202510071720367802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071720367802.pdf)
 
+- Regarding extension of the scheme Establishment of modern orange processing centers at Nagpur, Katol and Kalmeshwar, Nagpur District, Morshi, Amravati District and Sangrampur, Buldhana District and making consequential changes in the form of the scheme...\
+  [202510081852301202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081852301202.pdf)
+
+- Regarding extension of the Rashtrasant Tukadoji Maharaj Shetkari Bhavan scheme for 2 financial years i.e. 2026-27 and 2027-28....\
+  [202510081849509702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081849509702.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Product Market Committee, Tumsar, Taluka Tumsar, District Bhandara...\
+  [202510081845554802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081845554802.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative and financial approval for the expenses incurred for installation of air conditioning in the office of Divisional Joint Registrar Cooperative Society (Audit), Nagpur Division, Nagpur.\
   [202510061306592502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061306592502.pdf)
+
+- Regarding changes in the composition of the Steering Committee established to implement the Asian Development Bank-funded Maharashtra Agribusiness Network (MAGNET) project...\
+  [202510081848065602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081848065602.pdf)
+
+- Regarding the constitution of a high-level committee to make changes in the states cooperation policy.\
+  [202510081753398402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081753398402.pdf)
 
 ## Personnel
 - Continuation of posts.\

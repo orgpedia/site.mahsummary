@@ -7,9 +7,18 @@
 - Promotion from Assistant Conservator of Forests, Group-A (Junior Grade) cadre to Divisional Forest Officer, Group-A (Senior Grade) cadre.\
   [202510061249344819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061249344819.pdf)
 
+- Regarding the distribution of funds under the scheme (4406 0171), which is financed from the amount collected from the Forest Development Tax under the State Plan for the year 2025-26.\
+  [202510081747352819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081747352819.pdf)
+
+- Regarding the distribution of grants under the account head 4406 0492 for the financial year 2025-26 for Concrete Afforestation Program at the Community Level.\
+  [202510081834271119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081834271119.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to prepare the Annual Report of the State Disaster Management Authority.\
   [202510061659537619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061659537619.pdf)
+
+- Regarding the declaration of Head of Department as per Rule 9(22) of Maharashtra Civil Services (General Conditions of Service) Rules, 1981 for the purpose of sponsoring the Maharashtra Civil Services Rules...\
+  [202510081244007419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081244007419.pdf)
 
 ## Personnel
 - Continuation of posts.\
@@ -74,6 +83,9 @@
 
 - Posting of officers in the Tehsildar cadre - Mrs. Sheetal Ghavate, Tehsildar\
   [202510071955167119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071955167119.pdf)
+
+- Continuation of posts.\
+  [202510081632097019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081632097019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

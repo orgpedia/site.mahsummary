@@ -13,6 +13,9 @@
 - Regarding the disbursement of funds amounting to Rs. 471.05 to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of August, 2025...\
   [202510071159185329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071159185329.pdf)
 
+- Regarding approval of the second revised estimated cost of the project to convert the 116.15 km Nagpur-Nagbhid narrow gauge railway line into broad gauge railway line and financial participation of the State Government accordingly.\
+  [202510081201001429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081201001429.pdf)
+
 ## Miscellaneous
 - Foreign (Stockholm, Sweden ) Study tour of three officers of Home Department, Mantralaya, Government of Maharashtra from Date 14th October to 19th October, 2025 (including travelling time)\
   [202510071351526229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071351526229.pdf)

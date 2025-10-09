@@ -11,5 +11,8 @@
 - Regarding approval of the selection of a service provider organization to outsource the work of vacant posts in the Directorate of Archaeology and Museums...\
   [202510061512247623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061512247623.pdf)
 
+- Regarding the establishment of a committee for the preservation and conservation of the peak of the state protected monument of Shri Tuljabhawani Temple, Tuljapur, Dist. Dharashiv...\
+  [202510081549574523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081549574523.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

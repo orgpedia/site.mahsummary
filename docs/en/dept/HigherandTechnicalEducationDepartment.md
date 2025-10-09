@@ -19,6 +19,12 @@
 - Government approval for starting new Post Graduate Degree course/increasing the admission capacity of Post Graduate Degree/Degree course in the existing Pharmacy course institution from the academic year 2025-26, as per the approval of Pharmacy Council of India, New Delhi. Channabasaveshwar Pharmacy College, Basaveshwar Chowk, Latur\
   [202510061259494508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061259494508.pdf)
 
+- Regarding revision in the amount of prizes awarded to meritorious students in government art institutions under the control of the Directorate of Arts.\
+  [202510081556212108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081556212108.pdf)
+
+- Regarding the application of the provisions of the recruitment process for (non-agricultural) teaching and statutory posts in public universities in the state to Dr. Babasaheb Ambedkar University of Technology, Lonere...\
+  [202510081927265008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081927265008.pdf)
+
 ## Personnel
 - Regarding administrative transfer of Professors, Group-A in Government Colleges/Institutions under the Directorate of Higher Education in the year 2025.\
   [202510061254341908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061254341908.pdf)

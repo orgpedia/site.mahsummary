@@ -16,6 +16,18 @@
 - Regarding distribution of funds to the concerned Zilla Parishads for the salaries of employees working on Converted Regular Temporary (CRT) establishments on water supply schemes for the financial year 2025-26.  Account Head 22151914(36)\
   [202510061544097028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061544097028.pdf)
 
+- Revised Administrative approval to Mau. Ozare khurd Talawade, Tal. Sangmeshwar, Dist. Ratnagiri(20021380) water supply scheme Under JJM.\
+  [202510081530560828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081530560828.pdf)
+
+- Revised Administrative approval to Mau. Bamnoli, Tal. Sangmeshwar, Dist. Ratnagiri(20033504) water supply scheme Under JJM.\
+  [202510081531010428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081531010428.pdf)
+
+- Revised Administrative approval to Mau. Pale, Tal. Mandangad, Dist. Ratnagiri(20044058) water supply scheme Under JJM.\
+  [202510081531218628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081531218628.pdf)
+
+- Revised Administrative approval to Mau. Velas, Tal. Mandangad, Dist. Ratnagiri(20090776) water supply scheme Under JJM.\
+  [202510081530534128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081530534128.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for the salaries and allowances of regular employees working for the maintenance and repair of hand pumps/electric pumps on the posts created at the Zilla Parishad level under the jurisdiction of the Mechanical Sub-Division under the jurisdiction of the Rural Water Supply Department of the Zilla Parishad, as well as for the retirement salaries and allowances of employees retired from regular posts.\
   [202510071108139428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071108139428.pdf)
@@ -29,6 +41,15 @@
 
 - Revised Administrative approval to the revised budget of  Mouja Khadki, Taluka Mohadi, District Bhandara (20019433) water supply scheme under the Jal Jeevan Mission program.\
   [202510071151542228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071151542228.pdf)
+
+- Revised Administrative approval to Mau. Kudap, Tal. Chiplun, Dist. Ratnagiri(20014117) water supply scheme Under JJM.\
+  [202510081531076828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081531076828.pdf)
+
+- Revised Administrative approval to Mau. Sonavale, Tal. Ambarnath, Dist. Thane(20043150) water supply scheme Under JJM.\
+  [202510081531276828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081531276828.pdf)
+
+- Revised Administrative approval to Mau. Malghar, Tal. Chiplun, Dist. Ratnagiri(20038636) water supply scheme Under JJM.\
+  [202510081531155528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081531155528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
