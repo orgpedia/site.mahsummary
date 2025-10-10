@@ -7,6 +7,10 @@
 - Regarding administrative approval for the cost of services of a project management consultant for prefabricated constructions to start a modern curriculum.\
   [202510081745053903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081745053903.pdf)
 
+## Miscellaneous
+- Regarding the establishment of a state-level committee on the occasion of the 150th anniversary of the song Vande Mataram....\
+  [202510091749464303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091749464303.pdf)
+
 ## Personnel
 - Continuation of posts.\
   [202510071141205403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071141205403.pdf)
@@ -19,6 +23,9 @@
 
 - Request for transfers in the cadre of Principal, Industrial Training Institute or Deputy Principal, Industrial Training Institute or Inspector, Controller of Vocational Education and Training or Examination, Maharashtra State Skill, Vocational Education and Training Board, Group-A (Technical) (Junior) (Gazetted), Maharashtra Education Service in the year 2025 in the institutions and offices under the Directorate of Vocational Education and Training\
   [202510081746209903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081746209903.pdf)
+
+- Request for transfers of officers in the cadre of Principals of institutions and offices under the Directorate of Vocational Education and Training, Assistant Directors of Government Industrial Training Institutes, Vocational Education and Training or District Vocational Education and Training Officers or Secretary, Maharashtra State Skill, Vocational Education and Training Board, Group-A (Technical) (Senior) (Gazetted), Maharashtra Education Service in the year 2025\
+  [202510091610578703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091610578703.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

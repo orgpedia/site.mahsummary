@@ -10,6 +10,9 @@
 - Magasvargiy Lokhit Shikshan Prasark Mandal, Pusad Sanchalit Annasaheb Khadse Vijabhaj Primary Ashram School, Kopra, Tal. Pusad, Dist. Yavatmal, regarding approval to transfer this Ashram School to Magasvargiy Education Society, Gujri Chowk, Pusad, Dist. Yavatmal.\
   [202510061742212534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061742212534.pdf)
 
+- Regarding the distribution of funds to Mahatma Jyotiba Phule Research and Training Institute (Mahajyoti), Nagpur for the financial year 2025-26 under the Head of Account 2225 F 497, 31\
+  [202510091447410634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091447410634.pdf)
+
 ## Miscellaneous
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Balakrishna Sevabhav Sanstha, Hingoli Sanchalit, Hi-Tech Primary Secondary and Higher Secondary School, Erandeshwar Jhere Phata, Tal. Purna, Dist. Parbhani\
   [202510071901135934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071901135934.pdf)
@@ -88,6 +91,18 @@
 
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Godavari Manar Charitable Trust Shankarnagar, Tal. Biloli, Dist. Nanded, Godavari Manar Public School and Junior College Shankarnagar\
   [202510081635370734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081635370734.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Sahyog Sevabhai Sanstha, Vishnupuri, Dist. Nanded, Indira International Public School, Vishnupuri, Dist. Nanded\
+  [202510091808137934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091808137934.pdf)
+
+- Regarding appointment on deputation to the post of Assistant Director, Other Magas Bahujan Kalyan, Chhatrapati Sambhajinagar. Shri. Dayanand M. Kokare, Assistant Conservator of Forests\
+  [202510091912361634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091912361634.pdf)
+
+- Regarding appointment on deputation to the post of Assistant Director, Other Backward Bahujan Welfare, Jalna in the subordinate regional office of the department. Shri. Anant Sh. Kadam, Group Development Officer\
+  [202510091857065934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091857065934.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Kai.Dattatray Baburao Patil Multipurpose Social Organization, Shelgaon D. Sanchalit Vidyaniketan International School, Yermala, Tal.Kalamb, Dist.Dharashiv\
+  [202510091810332034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091810332034.pdf)
 
 ## Personnel
 - Appointment and posting by deputation Shri. Amol Ba. Takbhate, Group Development Officer\

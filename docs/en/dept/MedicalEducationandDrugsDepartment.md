@@ -23,6 +23,21 @@
 - Revise Administrative Approval For Purchase of 3D Electro-Anatomical Mapping System (EP LAB) on Turnkey Basis for Proprietary Basis from State Plan Grant for Government Medical College\
   [202510061504226213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061504226213.pdf)
 
+- Regarding approval of Homeopathy College. Shri. Balasaheb Mane Education Prasarak mandal, Ambap, Kolhapur, manage by Ashokrao Mane Homeopathic Medical College and Hospital, Peth Vadgaon, Hatkanangle Dist. Kolhapur\
+  [202510091709456913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091709456913.pdf)
+
+- Regarding approval of the expenses required for additional LAN infrastructure to implement the NextGen e-Hospital and SLCMS systems in institutions under the Directorate of Medical Education and AYUSH.\
+  [202510091037136713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091037136713.pdf)
+
+- Regarding approval of BAMS course college. National Charitable Trust, Hotel Athi, Jalna Road, CIDCO, Chhatrapati Sambhajinagar National Ayurveda College and Research Institute, Hatnur, Tal. Kannada Chhatrapati Sambhajinagar, Dist. Chhatrapati Sambhajinagar\
+  [202510091155008213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091155008213.pdf)
+
+- Dhanvantari Ayurveda Medical College and Charitable Hospital of Balbhagwan Education Promotion Board, Udgir, Latur-413 517. Admission capacity of BAMS degree course to be increased from 60 to 100 for the academic year 2025-26\
+  [202510091655059313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091655059313.pdf)
+
+- Regarding approval of BAMS Course college. Muktainagar Education Prasarak Board, Muktainagar, Dist. Jalgaon Managed by Shri. Eknathrao Khadse Ayurveda College, Muktainagar, Tal. Muktainagar, Dist. Jalgaon\
+  [202510091149267313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091149267313.pdf)
+
 ## Personnel
 - Regarding making space available for the Government Medical College and Hospital, Dharashiv under the jurisdiction of the Department of Skill Development and Entrepreneurship.\
   [202510071158171613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071158171613.pdf)

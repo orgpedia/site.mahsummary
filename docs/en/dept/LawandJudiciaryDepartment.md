@@ -7,6 +7,12 @@
 - Administrative approval to take the land belonging to Sindhudurg Nagri Navnagar Vikas Pradhikaran on lease for 99 years for building hall for Lawyers.\
   [202510071130354112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071130354112.pdf)
 
+- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., under sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) for Motor Vehicle Purchase Advance, Advance allocation for repayment of vehicle loan.\
+  [202510091756206012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091756206012.pdf)
+
+- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Advances for Purchase of Motor Vehicles (7610 0481) Allocation of Advances for Purchase of Motor Vehicles.\
+  [202510091523106212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091523106212.pdf)
+
 ## Miscellaneous
 - Regarding the declaration of District Judge-1 and Additional Sessions Judge Daryapur, Taluka Daryapur, Dist. Amravati as Head of Office and Drawing and Disbursement Officer...\
   [202510061733565212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061733565212.pdf)
@@ -38,6 +44,9 @@
 ## Personnel
 - To accord administrative approval for purchase of 63 cars for the Honble Judges of High Court of Bombay\
   [202510081320031212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081320031212.pdf)
+
+- Regarding establishment of 1 special court each in Gondia, Ratnagiri and Washim to dispose of cases of atrocities against women.\
+  [202510091821486812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091821486812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

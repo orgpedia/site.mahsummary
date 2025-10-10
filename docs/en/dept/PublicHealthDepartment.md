@@ -3,6 +3,10 @@
 **Date Range**: 13 October 2025 - 18 October 2025
 
 
+## Funds
+- Regarding approval to disburse and spend a fund of Rs. 100.00 crore under the objective 52-Machinery and Equipment under Account Head 4210 1101 for capital expenditure for implementing Emergency Medical Service (EMS).\
+  [202510091103230517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091103230517....pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to the proposal for the purchase of necessary materials and other items under the National Fever and Elephantiasis Eradication Program for the financial year 2025-2026 for an amount of Rs. 7,01,19,687/-.\
   [202510061551407917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061551407917.pdf)
@@ -40,6 +44,12 @@
 
 - Regarding opening of separate drawing account with Reserve Bank of India for effective implementation of SNA SPARSH system for Centrally Sponsored Scheme of Rashtriya Ayush Abhiyan.\
   [202510081105087417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081105087417.pdf)
+
+- Regarding extension of the temporary post of District Health Officer Group-A (Class 1) at Zilla Parishad, Sindhudurg.\
+  [202510081630332117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081630332117.pdf)
+
+- Regarding continuation of temporary posts in health institutions in Pune, Solapur and Satara districts under the Deputy Director, Health Services Board, Pune.\
+  [202510081630313117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081630313117.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

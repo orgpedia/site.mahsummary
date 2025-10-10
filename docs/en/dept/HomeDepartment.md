@@ -32,9 +32,15 @@
 - Regarding termination of probationary period of 7 probationary scientific officers, group and cadre officers working at the establishment of the Directorate of Judicial Scientific Laboratories.....\
   [202510071630366029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071630366029.pdf)
 
+- Regarding the constitution of committee under the chairmanship of Additional Chief Secretary (Appeals and Security) to study the issue of getting screens for Marathi films in multiplexes and other difficulties.\
+  [202510091817524529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091817524529.pdf)
+
 ## Personnel
 - Regarding posting of an I.P.S. officer.\
   [202510071930369929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071930369929.pdf)
+
+- Provisional seniority list of Deputy Commissioner (C.Class) (Gazetted) (Group-A) cadre in the State Excise Department as on 01.01.2017, 01.01.2018, 01.01.2019, 01.01.2020, 01.01.2021, 01.01.2022, 01.01.2023, 01.01.2024 and 01.01.2025.\
+  [202510091123553229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091123553229.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -11,5 +11,11 @@
 - Determination of procedures regarding the District Annual Tribal Component Program....\
   [202510071038057424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071038057424.pdf)
 
+- To release grant for the district annual sub plan under the TSP in financial year 2025-26. Demand no T-9. T-10  T-11\
+  [202510091723580724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091723580724.pdf)
+
+- To release grant for the scheme of Government Hostels for Boys and Girls under the TSP in financial year 2025-26. (CRC 2225 D725)\
+  [202510081833370724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081833370724.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

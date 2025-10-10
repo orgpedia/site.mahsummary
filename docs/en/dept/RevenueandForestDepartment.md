@@ -13,12 +13,36 @@
 - Regarding the distribution of grants under the account head 4406 0492 for the financial year 2025-26 for Concrete Afforestation Program at the Community Level.\
   [202510081834271119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081834271119.pdf)
 
+- Regarding the announcement of a special relief package and concessions for those affected by heavy rains and floods in the state from June to September 2025...\
+  [202510091904513519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091904513519.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to prepare the Annual Report of the State Disaster Management Authority.\
   [202510061659537619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061659537619.pdf)
 
 - Regarding the declaration of Head of Department as per Rule 9(22) of Maharashtra Civil Services (General Conditions of Service) Rules, 1981 for the purpose of sponsoring the Maharashtra Civil Services Rules...\
   [202510081244007419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081244007419.pdf)
+
+- Forest Land- Nashik Re-diversion of 0.0612 ha. Reserved forest land for Laying Underground Optical Fiber Cable along the Road in RoW of NH-953, from Mavadi to Kasbe Wani in Dindori Tehsil  of Nashik District in the state Maharashtra.\
+  [202510091832427419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091832427419.pdf)
+
+- Forest Land- Nanded Re- Diversion of 0.669 ha. Forest land for laying underground Optical Fiber Cable duct  Cable Within RoW of the Existing Road Bhokar-Himayatnagar-Kinwat-Mahur road NH-161A  Mudkhed-Bhokar-Himayatnagar-Kinwat-Ghoti-  Pimpalgaon road MSH-10 road passing through forest at village Sawari, Bodhadi Bk, Chikhali (Kh.) Ambadi, Pimpalgaon, Bhilgaon, Pimpalgaon, Tal-Kinwat District-Nanded in the State of Maharashtra.\
+  [202510091836471119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091836471119.pdf)
+
+- Forest Land-Akola Re-Diversion of 0.0890 ha. of Forest land in favour of M/s. Bharti Airtel Limited, Pune for laying underground Optical Fiber Cable of Within RoW of the Existing Road of Akola-Patur-Charangaon  Road in Akola District in the State of Maharashtra.\
+  [202510091835286019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091835286019.pdf)
+
+- Forest Land-Yavatmal Diversion of 0.5573 ha. forest land in favour of M/s Bharti Airtal Limited, Pune for laying underground Optical Fiber Cable along existing Right of Way of Umarkhed-Mahurgad-Parava Road in Pusad Forest Division, District -Yavatmal in the State of Maharashtra.\
+  [202510091834065219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091834065219.pdf)
+
+- Sand/Sand Removal Policy-2025\
+  [202510091316506719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091316506719.pdf)
+
+- Forest Land- Nandurbar Re-Diversion of 0.43605 Ha. of Forest Land at Mewasi Forest Division for Laying Underground Optical Fiber Cable along the Road from Ranipur to Rapapur in Taluka-Taloda, Dist-Nandurbar in the State of Maharashtra.\
+  [202510091841032819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091841032819.pdf)
+
+- Forest Land- Kolhapur Re-Diversion of 0.1946 ha. forest land for Laying Underground Optical Fiber Cable along the road in RoW of SH-130 in Mangnoor Village, SH-130 from Belewadi Hubalgi to Uttur village Section and  NH-166 from Karanjoshi to Bhairewadi in Kagal, Ajra and Shahuwadi Tehsil of Kolhapur District in the state of Maharashtra.\
+  [202510091839074519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091839074519.pdf)
 
 ## Personnel
 - Continuation of posts.\

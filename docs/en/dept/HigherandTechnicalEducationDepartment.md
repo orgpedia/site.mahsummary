@@ -25,6 +25,9 @@
 - Regarding the application of the provisions of the recruitment process for (non-agricultural) teaching and statutory posts in public universities in the state to Dr. Babasaheb Ambedkar University of Technology, Lonere...\
   [202510081927265008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081927265008.pdf)
 
+- Regarding granting Government approval based on the approval given by Pharmacy Council of India, New Delhi for starting new Postgraduate Degree courses/increasing the accessibility of Postgraduate Degree/Degree courses in the existing Pharmacy course institution from the academic year 2025-26\
+  [202510091809325908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091809325908.pdf)
+
 ## Personnel
 - Regarding administrative transfer of Professors, Group-A in Government Colleges/Institutions under the Directorate of Higher Education in the year 2025.\
   [202510061254341908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061254341908.pdf)

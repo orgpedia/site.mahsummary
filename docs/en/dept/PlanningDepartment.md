@@ -7,6 +7,9 @@
 - Regarding the distribution of funds for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune. (Phase-5)\
   [202510071155015516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071155015516.pdf)
 
+- Regarding the distribution of funds for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune. (Phase-6)\
+  [202510091223089416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091223089416.pdf)
+
 ## Miscellaneous
 - Regarding issuance of guidelines regarding the working procedures under the District Annual Plan (General).\
   [202510061811165416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061811165416.pdf)

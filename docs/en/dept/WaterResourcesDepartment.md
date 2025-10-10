@@ -72,5 +72,8 @@
 - Regarding approval of extension of tenure of posts on fixed temporary and converted temporary establishments in Divisional and Sub-Divisional Offices under Superintending Engineer, North Konkan Irrigation Project Board, Kalwa-Thane Board from 01.09.2025 to 28.02.2026.\
   [202510081700157927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081700157927.pdf)
 
+- Continuation of posts.\
+  [202510091722037527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091722037527.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

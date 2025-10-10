@@ -23,6 +23,9 @@
 - Regarding revival of 01 post in the Peon cadre in the office of Deputy Commissioner of Labour, Pune to adjust it to an open category post.\
   [202510081701128610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081701128610.pdf)
 
+- Regarding the implementation of the old pension scheme on the lines of the Central Government to the Government officers/employees who joined the Government service on or after 01.11.2005 in cases where the recruitment advertisement/notification was issued before 01.11.2005. (Shri. Yashwantrao Balasaheb Gawade, Assistant Electrical Inspector)\
+  [202510091556057610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091556057610.pdf)
+
 ## Personnel
 - Approval to open a Personal Ledger Account (PLA) account for the office of the Assistant Labour Commissioner, Kalyan.\
   [202510071144373210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071144373210.pdf)
