@@ -13,6 +13,12 @@
 - Regarding the distribution of funds to Mahatma Jyotiba Phule Research and Training Institute (Mahajyoti), Nagpur for the financial year 2025-26 under the Head of Account 2225 F 497, 31\
   [202510091447410634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091447410634.pdf)
 
+- Regarding granting administrative approval to the works in Amravati Regional Division for the year 2025-26 under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202510101838436934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101838436934.pdf)
+
+- Regarding providing funds for completed works in Buldhana, Washim and Yavatmal districts under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202510101836366134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101836366134.pdf)
+
 ## Miscellaneous
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Balakrishna Sevabhav Sanstha, Hingoli Sanchalit, Hi-Tech Primary Secondary and Higher Secondary School, Erandeshwar Jhere Phata, Tal. Purna, Dist. Parbhani\
   [202510071901135934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071901135934.pdf)

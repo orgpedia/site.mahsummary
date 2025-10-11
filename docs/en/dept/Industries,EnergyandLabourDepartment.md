@@ -33,5 +33,8 @@
 - Regarding promotion to the post of Electrical Inspector, Group-A (Gazetted) from the cadre of Assistant Electrical Inspector, Group-A (Gazetted) in the Electricity Inspectorate.\
   [202510081855493210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081855493210.pdf)
 
+- Regarding the declaration of the Appointing Authority for the appointment of the posts in Group-B (Non-Gazetted), Group-C and Group-D on the post of Director, Industrial Safety and Health, Mumbai, through direct service, promotion and deputation.\
+  [202510101539432710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101539432710.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

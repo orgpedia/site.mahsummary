@@ -41,12 +41,18 @@
 - Approval to open PLA account for Civil  Court Senior Division, Indapur, Pune for Civil cases.\
   [202510081839485812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081839485812.pdf)
 
+- Revised rate of Dearness Allowance to the Judicial Officers/Retired Judicial Officers in the sub ordinate Judiciary of the State of Maharashtra.\
+  [202510101536570512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101536570512.pdf)
+
 ## Personnel
 - To accord administrative approval for purchase of 63 cars for the Honble Judges of High Court of Bombay\
   [202510081320031212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081320031212.pdf)
 
 - Regarding establishment of 1 special court each in Gondia, Ratnagiri and Washim to dispose of cases of atrocities against women.\
   [202510091821486812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091821486812.pdf)
+
+- Regarding the establishment of the Civil Court, Senior Division, Phaltan, District Satara and sanction of posts accordingly.\
+  [202510101534361612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101534361612.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

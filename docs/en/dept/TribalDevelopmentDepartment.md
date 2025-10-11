@@ -17,5 +17,9 @@
 - To release grant for the scheme of Government Hostels for Boys and Girls under the TSP in financial year 2025-26. (CRC 2225 D725)\
   [202510081833370724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081833370724.pdf)
 
+## Personnel
+- Regarding the distribution of funds approved as Mother Sanction by the Central Government for the implementation of the centrally sponsored scheme Dharti Aaba Tribal Gram Utkarsh Abhiyan (DA JGUA) through the SNA-SPARSH fund flow mechanism...\
+  [202510101755128024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101755128024.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

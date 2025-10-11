@@ -16,6 +16,9 @@
 - Regarding sanction of financial assistance to Scheduled Caste Cooperative Societies under this scheme. Rajarshi Shahu Maharaj Backward Class Industrial Producers Cooperative Society Limited, Dongargaon (Kawad), Tal. Phulambri, Dist. Chhatrapati Sambhajinagar\
   [202510091741421222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091741421222.pdf)
 
+- Regarding distribution of funds from the budgetary provision for the year 2025-26 for the beneficiaries of the Scheduled Category for the Mahatma Jyotirao Phule Jan Arogya Yojana. (Account Head 2210G861)\
+  [202510101659458922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101659458922.pdf)
+
 ## Miscellaneous
 - Regarding implementation of old pension scheme on the lines of Central Government for State Government officers/employees.\
   [202510061532059622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061532059622.pdf)
@@ -25,6 +28,12 @@
 
 - Regarding declaration as Drawing and Disbursing Officer for Maharashtra State Cyber Treasury for centrally sponsored schemes implemented through the Social Justice Department.\
   [202510071459372322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071459372322.pdf)
+
+- Regarding granting administrative approval to the budget for the construction of the Government Hostel for Backward Class Children, Lakhni, District Bhandara.\
+  [202510101638302822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101638302822.pdf)
+
+- Regarding administrative approval of the budget for the construction of the Government Hostel for Backward Classes and Economically Backward Girls, Alibaug, District Raigad.\
+  [202510101642146722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101642146722.pdf)
 
 ## Personnel
 - Regarding implementation of old pension scheme on the lines of Central Government for State Government officers/employees.\

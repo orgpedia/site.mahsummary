@@ -10,6 +10,12 @@
 - Regarding granting administrative approval for the construction of an agricultural building at Shenda Park in Karvir taluka of Kolhapur district.\
   [202510091248361001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091248361001.pdf)
 
+- Regarding the awarding of prizes to the best 25 state-level groups selected by the Paani Foundation at the Farmer Cup 2024 award ceremony as announced by the Honble Chief Minister\
+  [202510101621088701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101621088701.pdf)
+
+- Administrative approval for construction of Multispecialty hospital at Mumbai Veterinary College under the Maharashtra University of Animal and Fisheries Science.\
+  [202510101635192501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101635192501.pdf)
+
 ## Miscellaneous
 - Regarding the implementation of the First Come First Served (FCFS) system for the selection of beneficiaries on the MahaDBT system.\
   [202510061507588901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061507588901....pdf)

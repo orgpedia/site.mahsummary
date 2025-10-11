@@ -7,6 +7,9 @@
 - Marathwada Administrative and Development Training Institute, Nathnagar (North), Paithan, Dist. Subsidiary Grant to Chhatrapati Sambhajinagar Sanstha for the year 2025-26 (Compulsory), 31 Assistant Non-Salary (First Installment)\
   [202510081632186207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081632186207.pdf)
 
+- Disbursement of funds from the budgetary provision for the year 2025-26 Rajiv Gandhi Science and Technology Commission\
+  [202510101548494707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101548494707.pdf)
+
 ## Miscellaneous
 - Regarding extension of time for filling up the vacant posts of Deputy Secretary/Desk Officer/Assistant Desk Officer in various offices of the State Rights to Service Commission under the jurisdiction of the General Administration Department by deputation from officers/employees holding equivalent posts from the ministerial cadre and other cadres...\
   [202510061147085207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061147085207.pdf)
@@ -37,6 +40,9 @@
 
 - Regarding making one days salary of all the officers/employees of the IAS, IAS Post, IAS and Maharashtra State Government in the state available as a donation to the Chief Ministers Relief Fund for the month of October, 2025 as a relief to the citizens affected by the natural disaster caused by heavy rains in the state...\
   [202510081802221007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081802221007.pdf)
+
+- Appointment on Deputation -Shri. Keshav Sadashiv Jadhav, Under Secretary.\
+  [202510101623486707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101623486707.pdf)
 
 ## Personnel
 - Regarding transfer of Shri. Guru Gobind Singh Ji Airport, Nanded from Maharashtra Industrial Development Corporation to Maharashtra Airport Development Company.\

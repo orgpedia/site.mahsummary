@@ -38,6 +38,12 @@
 - Regarding approval of BAMS Course college. Muktainagar Education Prasarak Board, Muktainagar, Dist. Jalgaon Managed by Shri. Eknathrao Khadse Ayurveda College, Muktainagar, Tal. Muktainagar, Dist. Jalgaon\
   [202510091149267313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091149267313.pdf)
 
+- Administrative approval is being given to the construction budget of the Dharmshala at Government Medical College and Cancel Hospital, Chhatrapati Sambhajinagar.\
+  [202510091600438513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091600438513.pdf)
+
+- Regarding permission to start a new Post Basic Diploma Course in Pediatric Nursing at Government Nursing College, District General Hospital, Barshi Road, Beed.\
+  [202510101649133013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101649133013.pdf)
+
 ## Personnel
 - Regarding making space available for the Government Medical College and Hospital, Dharashiv under the jurisdiction of the Department of Skill Development and Entrepreneurship.\
   [202510071158171613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071158171613.pdf)

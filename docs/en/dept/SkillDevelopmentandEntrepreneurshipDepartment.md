@@ -27,5 +27,11 @@
 - Request for transfers of officers in the cadre of Principals of institutions and offices under the Directorate of Vocational Education and Training, Assistant Directors of Government Industrial Training Institutes, Vocational Education and Training or District Vocational Education and Training Officers or Secretary, Maharashtra State Skill, Vocational Education and Training Board, Group-A (Technical) (Senior) (Gazetted), Maharashtra Education Service in the year 2025\
   [202510091610578703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091610578703.pdf)
 
+- Directorate of Vocational Education and Training, Maharashtra State, Mumbai, regarding extension of temporary posts in 2nd/3rd shift in existing Industrial Training Institutes in 43 minority dominated areas of the state and 2 new Industrial Training Institutes in Brihanmumbai, Mandovi and Nehrunagar (Kurla) from 01/09/2025 to 28/02/2026...\
+  [202510101813556003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101813556003.pdf)
+
+- Request for transfer of officers in the cadre of Joint Director, Training-cum-Trainee-cum-Advisor or Joint Director, Vocational Education and Training-cum-Trainee-cum-Advisor or Director, Maharashtra State Skill, Vocational Education and Training Board, Group-A (Technical) (Senior) (Gazetted), Maharashtra Education Service in the year 2025 in the institutions and offices under the Directorate of Vocational Education and Training\
+  [202510101235335403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101235335403.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

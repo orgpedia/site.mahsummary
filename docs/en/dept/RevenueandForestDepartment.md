@@ -16,6 +16,15 @@
 - Regarding the announcement of a special relief package and concessions for those affected by heavy rains and floods in the state from June to September 2025...\
   [202510091904513519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091904513519.pdf)
 
+- Regarding distribution of funds for payment of compensation for land acquired for rehabilitation of flood victims in Panshet.\
+  [202510101252427119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101252427119.pdf)
+
+- Regarding the distribution of funds under the ongoing and new item proposals under the account head Forest Festival (2406 8551) for the financial year 2025-26.\
+  [202510101809119719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101809119719.pdf)
+
+- Regarding granting administrative approval to civic facility works in villages rehabilitated due to floods in Nanded district.\
+  [202510101531343419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101531343419.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to prepare the Annual Report of the State Disaster Management Authority.\
   [202510061659537619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061659537619.pdf)
@@ -43,6 +52,15 @@
 
 - Forest Land- Kolhapur Re-Diversion of 0.1946 ha. forest land for Laying Underground Optical Fiber Cable along the road in RoW of SH-130 in Mangnoor Village, SH-130 from Belewadi Hubalgi to Uttur village Section and  NH-166 from Karanjoshi to Bhairewadi in Kagal, Ajra and Shahuwadi Tehsil of Kolhapur District in the state of Maharashtra.\
   [202510091839074519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091839074519.pdf)
+
+- Disbursement of funds under UNDP- GCF Project Enhancing Climate Resilience of Indias Coastal Communities (2406 B272).\
+  [202510101306330919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101306330919.pdf)
+
+- Procedure to be followed while submitting disciplinary cases against officers of the Indian Forest Service to the Government...\
+  [202510101319387419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101319387419.pdf)
+
+- Regarding strengthening the Board Officers office.\
+  [202510101750533019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101750533019.pdf)
 
 ## Personnel
 - Continuation of posts.\
@@ -110,6 +128,18 @@
 
 - Continuation of posts.\
   [202510081632097019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081632097019.pdf)
+
+- Land Acquisition Establishment: Divisional Commissioner, Konkan Regarding extension of 35 temporary posts on Land Acquisition Establishment in Konkan Division from 01.09.2025 to 28.02.2026.\
+  [202510101603480219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101603480219.pdf)
+
+- Land Acquisition Establishment - Regarding extension of the temporary teams of Konkan Division Special Land Acquisition Officers from 01.09.2025 to 28.02.2026.\
+  [202510101602007719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101602007719.pdf)
+
+- Regarding transfer and posting of officers in the Naib Tehsildar cadre (Amravati Division)\
+  [202510101710462619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101710462619.pdf)
+
+- Continuation of 1534 Temporary Post of Nagpur  Division from 01/09/2025  to 28/02/2026.\
+  [202510101728592219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101728592219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

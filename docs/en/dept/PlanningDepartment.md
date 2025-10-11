@@ -10,6 +10,12 @@
 - Regarding the distribution of funds for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune. (Phase-6)\
   [202510091223089416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091223089416.pdf)
 
+- Regarding the distrubutjion fo funds to Maharashtra Institution for Transformation (MITRA) for the financial year 2025-26 to implement the MahaSTRIDE project.\
+  [202510101138388116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101138388116.pdf)
+
+- Regarding making the agricultural lands of small and marginal farmers suitable for cultivation due to heavy rains/floods in the state under Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGA).\
+  [202510102201072616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510102201072616.pdf)
+
 ## Miscellaneous
 - Regarding issuance of guidelines regarding the working procedures under the District Annual Plan (General).\
   [202510061811165416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061811165416.pdf)

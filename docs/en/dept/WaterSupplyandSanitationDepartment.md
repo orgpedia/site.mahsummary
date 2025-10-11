@@ -67,6 +67,9 @@
 - Regarding giving Revised administrative approval to the regional water supply scheme   Malkhed  ta. Vrud  dist-Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202510081435110728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081435110728.pdf)
 
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Sanjaynagar (Shere), Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
+  [202510101136273328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101136273328.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for the salaries and allowances of regular employees working for the maintenance and repair of hand pumps/electric pumps on the posts created at the Zilla Parishad level under the jurisdiction of the Mechanical Sub-Division under the jurisdiction of the Rural Water Supply Department of the Zilla Parishad, as well as for the retirement salaries and allowances of employees retired from regular posts.\
   [202510071108139428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071108139428.pdf)
@@ -86,6 +89,9 @@
 - Regarding giving Revised administrative approval to the regional water supply scheme   Pandhari  ta. Vrud dist-Amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202510081435265828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081435265828.pdf)
 
+- Regarding the abolition of the district level committee established for the effective implementation of the Municipal Solid Waste Management and Handling (Municipal Solid Waste) Rules 2000 in the state.......\
+  [202510101435064028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101435064028.pdf)
+
 ## Personnel
 - Revised Administrative approval to the revised budget of Mouja Shekapur Bai, Taluka Hinganghat, Dist. Wardha (Scheme Code 20030532)  water supply scheme under the Jal Jeevan Mission\
   [202510071151445028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071151445028.pdf)
@@ -101,6 +107,18 @@
 
 - Revised Administrative approval to Mau. Malghar, Tal. Chiplun, Dist. Ratnagiri(20038636) water supply scheme Under JJM.\
   [202510081531155528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081531155528.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Nerle, Tal.Walwa, Dist.Sangli under the Jal Jeevan Mission program.\
+  [202510101136256328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101136256328.pdf)
+
+- Regarding preparation of the Probable Drinking Water Scarcity Action Plan for the scarcity - Oct. 2025 to June 2026.\
+  [202510101210483328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101210483328.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Shivade, Tal.Karad, Dist.Satara under the Jal Jeevan Mission program.\
+  [202510101136320928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101136320928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.Bordara, Tal.Khed, Dist.Pune under the Jal Jeevan Mission program.\
+  [202510101135044528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101135044528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

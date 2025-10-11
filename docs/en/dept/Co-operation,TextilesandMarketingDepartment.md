@@ -34,6 +34,12 @@
 - Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Dr. Bhai Ganpatrao Deshmukh Shetkari Cooperative Spinning Mills Limited, Sangole, Tal. Sangole Dist. Solapur\
   [202510091502085502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091502085502.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Phulambri, Taluka Phulambri, District Chhatrapati Sambhajinagar.\
+  [202510101615587102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101615587102.pdf)
+
+- Regarding granting administrative approval to the budget for the repair of the existing Shetkari Bhavan at Agricultural Product Market Committee, Wai, Taluka Wai, District Satara...\
+  [202510101617334902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101617334902.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative and financial approval for the expenses incurred for installation of air conditioning in the office of Divisional Joint Registrar Cooperative Society (Audit), Nagpur Division, Nagpur.\
   [202510061306592502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061306592502.pdf)
@@ -49,6 +55,9 @@
 
 - Integrated and Sustainable Textile Policy, 2023-28 Guidelines for Capital Grant Scheme for Textile Projects in the State.\
   [202510091559083602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091559083602.pdf)
+
+- Regarding the formation of a committee for the purchase of gunpowder under the Minimum Support Purchase Price Scheme in the state....\
+  [202510101324204002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101324204002.pdf)
 
 ## Personnel
 - Continuation of posts.\
