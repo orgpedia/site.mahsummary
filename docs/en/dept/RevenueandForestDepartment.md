@@ -25,6 +25,12 @@
 - Regarding granting administrative approval to civic facility works in villages rehabilitated due to floods in Nanded district.\
   [202510101531343419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101531343419.pdf)
 
+- Regarding the announcement of a special relief package for those affected by heavy rains and floods in the state from June to September 2025...\
+  [202510102357501519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510102357501519.pdf)
+
+- Regarding declaring talukas affected for relief due to heavy rainfall and flood disaster in the state in the year 2025...\
+  [202510102358219219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510102358219219.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to prepare the Annual Report of the State Disaster Management Authority.\
   [202510061659537619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061659537619.pdf)

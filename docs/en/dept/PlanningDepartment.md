@@ -20,6 +20,9 @@
 - Regarding issuance of guidelines regarding the working procedures under the District Annual Plan (General).\
   [202510061811165416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061811165416.pdf)
 
+- Maharashtra State-Social Audit and Transparency Society for the purpose of distributing funds of the Centrally Sponsored Scheme (02) (03) Grants for Social Audit Process of Mahatma Gandhi National Rural Employment Guarantee Scheme (20) Other Administrative Expenditure Account Head (2505A156) regarding the appointment of Drawing and Disbursement Officers and Coordination Officers and Single Coordination Mechanism for the purpose of SNA-SPARSH mechanism...\
+  [202510102206392816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510102206392816.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts created at the state level and at the Divisional Commissioner, Nagpur level under the Special Action Programme for the rapid development of Naxal-affected areas.\
   [202510071749430616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071749430616.pdf)
