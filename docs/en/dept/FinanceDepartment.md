@@ -1,25 +1,11 @@
 # Finance Department
 
-**Date Range**: 13 October 2025 - 18 October 2025
+**Date Range**: 20 October 2025 - 25 October 2025
 
-
-## Funds
-- Regarding Government Guarantee for a loan of Rs. 4800 Crore to be taken from HUDCO for land acquisition for the project to develop the outer Ring Road around Nagpur city and 4 adjacent transport islands. (Truck and Bus Terminal) through nagpur metropolitan region development authority.\
-  [202510091218552205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091218552205.pdf)
 
 ## Miscellaneous
-- Regarding the action to be taken by the Drawing and Disbursing Officers and Administrative Departments in connection with the reconciliation of approved posts in the service system... ------------------------------------------ Regarding the extension of the deadline till 31.10.2025...\
-  [202510071122059605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071122059605.pdf)
-
-- Regarding commission payable to agents on sale of various draw tickets of Maharashtra State Lottery.\
-  [202510071651445505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071651445505.pdf)
-
-- Distribution of budget funds under the schemes.\
-  [202510081858442305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081858442305.pdf)
-
-## Personnel
-- Budget Estimates 2026-27 and Revised Estimates 2025-26\
-  [202510081642324105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081642324105.pdf)
+- About to establish MAHA ARC LIMITED\
+  [202510131845269905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131845269905.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

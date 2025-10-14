@@ -1,24 +1,24 @@
 # Public Works Department
 
-**Date Range**: 13 October 2025 - 18 October 2025
+**Date Range**: 20 October 2025 - 25 October 2025
 
 
 ## Miscellaneous
-- For implementation of Old Pension Scheme  Shri. Sharad Vasantrao Rane, Executive Engineer, Under Secretory.\
-  [202510091208404718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091208404718.pdf)
+- Regarding promotion of Junior Engineer (Civil Engineering) to Branch Engineer (Civil Engineering).......\
+  [202510131257484518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131257484518.pdf)
 
 ## Personnel
-- Regarding extension of tenure of the supernumerary post created for Shri. Pravin Rukhmaji Nandanwar, Junior Clerk, working under the office of Chief Engineer, Public Works Regional Department, Amravati.\
-  [202510061746043218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061746043218.pdf)
+- Regarding the continuation of temporary posts in the office under the jurisdiction of the Chief Engineer, Public Works Regional Department, Konkan\
+  [202510131838301018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131838301018.pdf)
 
-- Regarding promotion and posting to the post of Sub Divisional Engineer (Civil Engineering) in Maharashtra Engineer Service, Group-A from Assistant Engineer Grade-2 (Civil Engineering) cadre...\
-  [202510071746031418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071746031418.pdf)
+- Regarding continuation of temporary posts in the office under the jurisdiction of the Chief Engineer, Public Works Regional Department, Nagpur.\
+  [202510131836332618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131836332618.pdf)
 
-- Regarding continuation of temporary posts in the offices under the jurisdiction of the Superintending Engineer, Vigilance and Quality Control Boards.\
-  [202510081546036918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081546036918.pdf)
+- Regarding continuation of temporary posts in the office under the jurisdiction of the Chief Engineer, Public Works Regional Department, Pune.\
+  [202510131840195918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131840195918.pdf)
 
-- Regarding continuation of temporary posts in the office under the jurisdiction of Chief Engineer, Public Works Regional Department, Amravati.\
-  [202510081543301418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081543301418.pdf)
+- Continuation of posts.\
+  [202510131842561218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131842561218.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

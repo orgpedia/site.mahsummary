@@ -1,58 +1,11 @@
 # Law and Judiciary Department
 
-**Date Range**: 13 October 2025 - 18 October 2025
+**Date Range**: 20 October 2025 - 25 October 2025
 
-
-## Funds
-- Administrative approval to take the land belonging to Sindhudurg Nagri Navnagar Vikas Pradhikaran on lease for 99 years for building hall for Lawyers.\
-  [202510071130354112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071130354112.pdf)
-
-- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., under sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) for Motor Vehicle Purchase Advance, Advance allocation for repayment of vehicle loan.\
-  [202510091756206012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091756206012.pdf)
-
-- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., Sub-Head (202)(00)(01) Advances for Purchase of Motor Vehicles (7610 0481) Allocation of Advances for Purchase of Motor Vehicles.\
-  [202510091523106212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091523106212.pdf)
 
 ## Miscellaneous
-- Regarding the declaration of District Judge-1 and Additional Sessions Judge Daryapur, Taluka Daryapur, Dist. Amravati as Head of Office and Drawing and Disbursement Officer...\
-  [202510061733565212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061733565212.pdf)
-
-- Plan and Estimate for construction of additional floor (Second Floor) on the existing Court building at Kaij, District Beed.\
-  [202510061222308812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510061222308812.pdf)
-
-- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., (204)(00)(01)- Personal Computer Purchase Advances (7610 1842) Computer Advance Allocation.\
-  [202510071550292612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510071550292612.pdf)
-
-- Approval to open PLA account for District and Additional Sessions Court, Junnar, Pune for Criminal cases.\
-  [202510081826111412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081826111412.pdf)
-
-- Approval to open PLA account for Dist. and Additional Sessions Court, Indapur, Pune   for Criminal cases.\
-  [202510081842096712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081842096712.pdf)
-
-- Approval to open PLA account for District and Additional Sessions Court, Junnar, Pune for Civil cases.\
-  [202510081828191312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081828191312.pdf)
-
-- Approval to open PLA account for Dist. and Additional Sessions Court, Indapur, Pune for Civil cases.\
-  [202510081843360512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081843360512.pdf)
-
-- Approval to open PLA account for Civil Court Senior Division, Junnar, Pune for Civil cases.\
-  [202510081823594412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081823594412.pdf)
-
-- Approval to open PLA account for Civil  Court Senior Division, Indapur, Pune for Civil cases.\
-  [202510081839485812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081839485812.pdf)
-
-- Revised rate of Dearness Allowance to the Judicial Officers/Retired Judicial Officers in the sub ordinate Judiciary of the State of Maharashtra.\
-  [202510101536570512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101536570512.pdf)
-
-## Personnel
-- To accord administrative approval for purchase of 63 cars for the Honble Judges of High Court of Bombay\
-  [202510081320031212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510081320031212.pdf)
-
-- Regarding establishment of 1 special court each in Gondia, Ratnagiri and Washim to dispose of cases of atrocities against women.\
-  [202510091821486812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510091821486812.pdf)
-
-- Regarding the establishment of the Civil Court, Senior Division, Phaltan, District Satara and sanction of posts accordingly.\
-  [202510101534361612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510101534361612.pdf)
+- Year 2025-26 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., under sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) for Motor Vehicle Purchase Advance, Advance allocation for repayment of vehicle loan.\
+  [202510131254102312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131254102312.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
