@@ -10,6 +10,9 @@
 - Regarding formation of a committee to distribute demand side incentives in line with Maharashtra Electric Vehicle Policy-2025\
   [202510131250078129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131250078129.pdf)
 
+- Regarding the assignment of additional charge of the post of Superintendent, Open Jail, Yerawada, Pune.\
+  [202510141234377829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141234377829.pdf)
+
 ## Personnel
 - Regarding the transfer of Mr. Sachin Parashuram Nikam, Motor Vehicle Inspector.\
   [202510131252019329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131252019329.pdf)

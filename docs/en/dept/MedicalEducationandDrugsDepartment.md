@@ -13,5 +13,8 @@
 - Regarding granting administrative approval to the construction budget to be carried out in Government Medical Colleges from the funds received by the Central Government due to EWS quota under the Centrally Sponsored Scheme.\
   [202510131100078313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131100078313.pdf)
 
+- Regarding creation of posts in the cadre of Tutor/Demonstrator and Junior Resident in 36 Government Medical Colleges under the Directorate of Medical Education and Research\
+  [202510141252208213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141252208213.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
