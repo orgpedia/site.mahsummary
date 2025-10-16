@@ -103,9 +103,22 @@
 - Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the account head (2217 1301) for Renapur Nagar Panchayat, Dist. Latur, an amount of Rs. 5.00 crore\
   [202510141218183725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141218183725.pdf)
 
+- Regarding the distribution of funds to the Nashik-Trimbakeshwar Kumbh Mela Authority for the works of the Simhastha Kumbh Mela to be held in Nashik...\
+  [202510151840096425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151840096425.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) Solapur Municipal Corporation for District Solapur Amount Rs.2.4750 crore (Corrigendum)\
   [202510131448199725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131448199725.pdf)
+
+- Regarding the appointment of Chief Officers, Group-A cadre officers to the post of Chief Officers in B and C class municipal councils in the state.\
+  [202510151554033225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151554033225.pdf)
+
+- Regarding approval of the structure of posts in the newly established urban local bodies such as Municipal Councils/Nagar Panchayats in the state.\
+  [202510151830441725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151830441725.pdf)
+
+## Personnel
+- Regarding renting out the auditorium/hall on the first floor of the building developed in Reservation No. 71 (Ashtami CC No. 1201) in the approved development plan of Roha Municipal Council at a nominal rate.\
+  [202510151226580725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151226580725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

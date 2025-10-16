@@ -10,5 +10,8 @@
 - Regarding granting administrative approval for the conservation and repair work of the state protected monument Rohida Fort, Village Bazarwadi, Tal. Bhor, Dist. Pune...\
   [202510131153092223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131153092223.pdf)
 
+- Regarding the distribution of funds for the expenses incurred for the services of 39 vacant posts in Group-D cadre on the establishment of Directorate of Archives, Mumbai.\
+  [202510151520411323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151520411323.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

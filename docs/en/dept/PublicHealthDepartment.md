@@ -41,5 +41,8 @@
 - Regarding disbursement of funds from the sanctioned budgetary provision of the year 2025-26 under Centrally Sponsored National Rural Health Mission for the general component through SNA SPARSH system with central share 60 under account 2210F157, and state share 40 under account 22105246\
   [202510141228433617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141228433617.pdf)
 
+- Regarding opening of a separate drawing account with the Reserve Bank of India for effective implementation of the SNA SPARSH system for the centrally sponsored scheme Tertiary Care Programme (TCP) under the National Non-Communicable Diseases Programme.\
+  [202510151208476117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151208476117.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

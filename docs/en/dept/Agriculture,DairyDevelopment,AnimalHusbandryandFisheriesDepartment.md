@@ -23,5 +23,8 @@
 - Regarding determining the procedure for providing concession in electricity rates to fishermen, fish farmers, fishermen, etc. as fisheries being given equivalent status to agriculture.\
   [202510141759185001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141759185001.pdf)
 
+- Regarding publication of the final seniority list of officers in Maharashtra Agricultural Administrative Service, Group-A, Administrative Officers cadre as on 01.01.2025.\
+  [202510151720465801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151720465801.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

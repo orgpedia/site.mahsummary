@@ -31,6 +31,12 @@
 - Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Arjuni Morgaon, Dist. Gondia...\
   [202510131556054502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131556054502.pdf)
 
+- Budget for construction of new Shetkari Bhavan at Agricultural Produce Market, Gadhinglaj, District Kolhapur Administrative validity binding...\
+  [202510151742156602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151742156602.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Lasur Station, Gangapur Taluka, Chhatrapati Sambhajinagar District...\
+  [202510151306239402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151306239402.pdf)
+
 ## Personnel
 - Continuation of posts.\
   [202510131541514402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131541514402.pdf)

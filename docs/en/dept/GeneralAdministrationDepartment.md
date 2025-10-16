@@ -16,5 +16,12 @@
 - Regarding submission of option for Unified Pension Scheme (UPS) by officers of All India Services of Maharashtra cadre who are covered under New Pension Scheme (NPS).\
   [202510141208077007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141208077007.pdf)
 
+- Filling the post of deputation basis\
+  [202510151557067907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151557067907.pdf)
+
+## Personnel
+- Regarding appointment as District Guardian Secretary...\
+  [202510151851487307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151851487307.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

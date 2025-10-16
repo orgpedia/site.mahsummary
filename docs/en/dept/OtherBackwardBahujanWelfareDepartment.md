@@ -10,6 +10,9 @@
 - Regarding administrative approval and distribution of funds for the works in Ch. Sambhajinagar district for the year 2025-26 under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
   [202510131919187734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131919187734....pdf)
 
+- Regarding the distribution of funds for scholarship and tuition fee schemes being implemented by the department in the financial year 2025-26.\
+  [202510151602243634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151602243634.pdf)
+
 ## Miscellaneous
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Sulochana Belhekar Social and Multipurpose Educational Institution, Dnyaneshwar Public School, Bhansahivere, Tal. Nevasa, Dist. Ahilyanagar\
   [202510131817102234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131817102234.pdf)
@@ -40,6 +43,21 @@
 
 - Regarding the selection of a school for the academic year 2025-26 under the Raje Yashwantrao Holkar English Medium Residential Education Scheme. Kasmade Area Development Board Vithewadi (Low) Tal. Devala, Dist. Nashik Managed by Dr. D. S. Aher English Medium Public School Vithewadi Tal. Devala, Dist. Nashik\
   [202510141657504334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141657504334.pdf)
+
+- Regarding the selection of a school under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme.... Vatsalya Multipurpose Human Development Institution, Hingoni, Sujata International School, Sonai, Tal. Nevasa, Dist. Ahilyanagar\
+  [202510151603000134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151603000134.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Harrison Public School, Chalisgaon, Jalgaon, managed by Mahatma Phule Social and Educational Development Board, Chalisgaon, Dist. Jalgaon.\
+  [202510151555402134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151555402134.pdf)
+
+- Regarding the distribution of funds under the Pre-Matric Scholarship Scheme in the financial year 2025-26.\
+  [202510151631367334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151631367334.pdf)
+
+- Regarding the selection of a school under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme.... Shri. Marutrao Ghule Patil Educational Institution, Dnyaneshwarnagar Po. Bhenda B., Tal. Nevasa, Dist. Ahilyanagar Sanchalit Jijamata Public School, Dnyaneshwarnagar, Po. Bhenda B., Dist. Ahilyanagar\
+  [202510151552096234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151552096234.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Sankalp Pratishthan, Pune Sanchalit Sankalp International School, Narhe, Tal. Haveli, Dist. Pune\
+  [202510151548338634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151548338634.pdf)
 
 ## Personnel
 - Regarding granting administrative and financial approval for purchasing a new vehicle in replacement of an unregistered vehicle in the Other Backward Classes Welfare Department (Own).\
