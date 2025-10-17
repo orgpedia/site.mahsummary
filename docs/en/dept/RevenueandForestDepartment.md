@@ -19,6 +19,9 @@
 - Regarding the distribution of funds under the account head-4406 0492 for the financial year 2025-26 for the Concrete Afforestation Program at the Community Level.\
   [202510151445327419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151445327419.pdf)
 
+- Release of fund under the Scheme Computerization of Forest Department for the year 2024-25 (2406 8669).\
+  [202510161739106519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161739106519.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2025-26.\
   [202510131142138619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131142138619.pdf)
@@ -40,6 +43,15 @@
 
 - Forest Land- Yavatmal Re-Diversion of 0.2082 ha forest land for Laying Underground Optical Fiber Cable of along the existing right of way of Pandharkawda to Saifal, Yavatmal District Border in Existing ROW of SH 314, 315  267 total length 48.470 km (Forest Length 6.940 km) in Yavatmal in the state of Maharashtra.\
   [202510151758135719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151758135719.pdf)
+
+- Current Affairs Proposal under State Plan Year 2025-26 Establishment of Wildlife Rehabilitation Centre (2406 2232).\
+  [202510161741577419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161741577419.pdf)
+
+- Action Plan (Corrigendum) of pending works for providing civic amenities in the resettled villages affected by the pre-1976 irrigation project...\
+  [202510161742178219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161742178219.pdf)
+
+- Regarding the distribution of funds to tribal account holders under the Maharashtra Scheduled Tribes Sale of Trees to Occupiers (Regulation) Act, 1969 (2406 0686).\
+  [202510161659285219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161659285219.pdf)
 
 ## Personnel
 - Continuation of 1075 Temporary Post of Pune Division from 01/09/2025  to 28/02/2026.\
@@ -74,6 +86,27 @@
 
 - Regarding approval to open a separate Drawing Account at the Reserve Bank of India for implementing the alternative mechanism of State Linked Scheme SNA-SPARSH Fund Distribution System for the State Linked Scheme under the Centrally Sponsored Project Tiger  Elephant Scheme.\
   [202510151625508019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151625508019.pdf)
+
+- Continuation of posts.\
+  [202510161309313719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161309313719.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in various districts of the state in Mahe, September 2025...\
+  [202510162018208219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510162018208219.pdf)
+
+- Continuation of posts.\
+  [202510161307031419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161307031419.pdf)
+
+- Regarding the extension of the total 51 temporary posts of Divisional Commissioner and District Level Rehabilitation and Land Acquisition Establishment in Amravati Division from 01.09.2025 to 28.02.2026 (6 months)....\
+  [202510161304469419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161304469419.pdf)
+
+- Continuation of posts.\
+  [202510161304574519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161304574519.pdf)
+
+- Regarding extension of tenure of 13 temporary posts in the office of Land Acquisition, Rehabilitation and Resettlement Authority, Nagpur from 01.09.2025 to 28.02.2026 (6 months)...\
+  [202510161307253219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161307253219....pdf)
+
+- Regarding extension of tenure of 13 temporary posts in the office of Land Acquisition, Rehabilitation and Resettlement Authority, Nashik from 01.09.2025 to 28.02.2026 (6 months)...\
+  [202510161309401419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161309401419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

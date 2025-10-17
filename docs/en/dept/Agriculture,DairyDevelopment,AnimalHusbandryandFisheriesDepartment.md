@@ -26,5 +26,9 @@
 - Regarding publication of the final seniority list of officers in Maharashtra Agricultural Administrative Service, Group-A, Administrative Officers cadre as on 01.01.2025.\
   [202510151720465801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151720465801.pdf)
 
+## Personnel
+- Approval to open a separate drawing account with the Reserve Bank of India for implementing the alternative mechanism of SNA-SPARSH fund distribution system for the State Affiliated Scheme under the Centrally Sponsored National Natural Farming Mission Scheme.\
+  [202510161907045701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161907045701.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

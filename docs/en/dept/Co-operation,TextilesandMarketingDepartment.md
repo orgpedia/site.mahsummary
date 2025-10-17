@@ -37,6 +37,15 @@
 - Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Lasur Station, Gangapur Taluka, Chhatrapati Sambhajinagar District...\
   [202510151306239402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151306239402.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Tasgaon, Taluka Tasgaon, District Sangli...\
+  [202510161718054902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161718054902.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Akot, Taluka Akot, District Akola...\
+  [202510161838147102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161838147102.pdf)
+
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Umarga, Taluka Umarga, District Dharashiv...\
+  [202510161836538602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161836538602.pdf)
+
 ## Personnel
 - Continuation of posts.\
   [202510131541514402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131541514402.pdf)

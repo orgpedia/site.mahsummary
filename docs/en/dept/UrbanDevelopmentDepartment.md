@@ -106,6 +106,42 @@
 - Regarding the distribution of funds to the Nashik-Trimbakeshwar Kumbh Mela Authority for the works of the Simhastha Kumbh Mela to be held in Nashik...\
   [202510151840096425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151840096425.pdf)
 
+- Regarding distribution of funds for technical training of probationary Chief Officers Group A and Group B officers under the Integrated Probationary Training Program-9 under the State Training Policy\
+  [202510161201480425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161201480425.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 5.00 crore\
+  [202510161819493325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161819493325.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Nevasa Nagar Panchayat, Distt. For Ahilyanagar the amount is Rs. 5.00 crores\
+  [202510161312230225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161312230225.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Washim Municipal Council, Distt. Amount for Washim Rs. 2.60 crore Mangrulpir Municipal Council, Distt. Amount for Washim Rs. 2.40 Crores (Total Amount Rs. 5.00 Crores)\
+  [202510161337236325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161337236325.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Nanded Municipal Corporation, Dist. Nanded Amount Rs. 5.00 crore\
+  [202510161559238025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161559238025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Year 2025-26 under head (2217 1301). Bhadgaon Municipal Council, Distt. For Jalgaon Amount Rs. 5.00 crores\
+  [202510161312185025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161312185025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the account head (2217 1301) for Junnar Municipal Council, Dist. Pune, an amount of Rs. 5.00 crore\
+  [202510161748233525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161748233525.pdf)
+
+- Regarding sanction of funds of Special Road Grant to the Municipal Corporation / Municipal Council / Nagar Panchayat in the State. For the year 2025-26 (account head 3054 0022) under Sangamner Municipal Council Distt. For Ahilyanagar the amount is Rs. 5.00 crores\
+  [202510161559228425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161559228425.pdf)
+
+- Regarding the sanction of Special Road Grant fund to the Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) For Arvi Nagar Parishad Dist. Wardha Amount Rs. 4.80 crore\
+  [202510161747018825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161747018825.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2025-26 under the account head (2217 1301) for Parola Municipal Council, Dist. Jalgaon, an amount of Rs. 5.00 crore\
+  [202510161744181425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161744181425.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Under the Head of Account (2217 1301) for the year 2025-26 Arvi Nagar Parishad, Dist. Wardha (Total amount Rs. 0.20 crore)\
+  [202510161750307125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161750307125.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Under the Head of Account (2217 1301) for the year 2025-26 Amount Rs. 2.89 crores for Gadchiroli Municipal Council, Dist. Gadchiroli Amount Rs. 1.12 crores for Charmoshi Municipal Council, Dist. Gadchiroli Amount Rs. 0.99 crores for Dhanora Nagar Panchayat, Dist. Gadchiroli Amount Rs. 5.00 crores\
+  [202510161818132325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161818132325.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (Account Head 4217 0541) Solapur Municipal Corporation for District Solapur Amount Rs.2.4750 crore (Corrigendum)\
   [202510131448199725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131448199725.pdf)

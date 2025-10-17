@@ -17,9 +17,21 @@
 - Approval to join the Central Government Delegation Visit to Taiwan for The Taipei Innovative Textile Application Show.\
   [202510151739353910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151739353910.pdf)
 
+- Regarding publication of provisional seniority list dated 1.01.2025 of the cadre of Superintendent Industrial Officer (Group-A).\
+  [202510161529540110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161529540110.pdf)
+
+- Departmental Inquiry Final Sentence Order - Shri.P.V.Shelar, Clerk Typist, Directorate of Industrial Safety and Health, Mumbai\
+  [202510161524233010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161524233010.pdf)
+
+- Departmental Enquiry Final Sentencing Order - Shri. R. H. Gaikwad, Clerk Typist, Directorate of Industrial Safety and Health, Mumbai\
+  [202510161521592110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161521592110.pdf)
+
 ## Personnel
 - Government of Maharashtra Delegation visit to News9 Global Summit Programme at Stuttgart, Germany.\
   [202510151738326210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151738326210.pdf)
+
+- Regarding the transfer request of Industrial Inspector, Group-C cadre employees at the establishment of Directorate of Industries\
+  [202510161529415310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161529415310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

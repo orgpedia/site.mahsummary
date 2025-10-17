@@ -13,6 +13,9 @@
 - Regarding the distribution of funds for scholarship and tuition fee schemes being implemented by the department in the financial year 2025-26.\
   [202510151602243634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151602243634.pdf)
 
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Gunai Shikshan Prasarak Mandal, Kaulkhed, Tal. Udgir, Dist. Latur, Birla Open Minds International English School, Udgir, Dist. Latur\
+  [202510161829257934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161829257934.pdf)
+
 ## Miscellaneous
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Sulochana Belhekar Social and Multipurpose Educational Institution, Dnyaneshwar Public School, Bhansahivere, Tal. Nevasa, Dist. Ahilyanagar\
   [202510131817102234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131817102234.pdf)
@@ -58,6 +61,9 @@
 
 - Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Sankalp Pratishthan, Pune Sanchalit Sankalp International School, Narhe, Tal. Haveli, Dist. Pune\
   [202510151548338634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151548338634.pdf)
+
+- Regarding approval of increased student admission for the academic year 2025-26 to the school selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme... Shri.Ganesh Shikshan Prasarak Mandal, Mandurki, Tal.Chakur, Dist.Latur Sanchalit Samrat Chandragupta Maurya International School, Ruddha, Tal.Ahmedpur, Dist.Latur\
+  [202510161831148634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161831148634.pdf)
 
 ## Personnel
 - Regarding granting administrative and financial approval for purchasing a new vehicle in replacement of an unregistered vehicle in the Other Backward Classes Welfare Department (Own).\

@@ -35,5 +35,8 @@
 - Regarding prescribing the procedure and criteria for granting approval to new colleges/courses/additional units under the University of Kavi Vakguru Kalidas Sanskrit University, Ramtek from the academic year 2026-27 through the New College Permission System-NCPS.\
   [202510151834390908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151834390908....pdf)
 
+- Dr. J.P. Naik Ideal State Teacher Award Selection Process Schedule\
+  [202510161840506708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161840506708.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

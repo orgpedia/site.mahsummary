@@ -22,6 +22,12 @@
 - Regarding the amendment of the Corporate Social Responsibility (CSR) policy implemented under the Department of Public Health.\
   [202510141715043717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141715043717.pdf)
 
+- 15th Finance Commission-   Regarding the distribution of the grant of Rs. 61488.50 lakhs approved by the Central Government for the financial year 2023-24 to strengthen the health system in the state from the provision of the supplementary demand approved in the Budget and Monsoon Sessions of the year 2025-26.\
+  [202510161223351017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161223351017.pdf)
+
+- Regarding disbursement of funds to pay the difference amount in accordance with the revised limit of retirement gratuity/death gratuity to retired officers/employees of Mahatma Gandhi Memorial Hospital, Parel, Mumbai.\
+  [202510161508039117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161508039117.pdf)
+
 ## Personnel
 - Direct Service Admission Regarding temporary appointment by nomination in the cadre of Anaesthesiologist, Specialist, Group-A in Maharashtra Medical Insurance Service, State Employee Insurance Scheme, Group-A\
   [202510131214341817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131214341817.pdf)
@@ -43,6 +49,9 @@
 
 - Regarding opening of a separate drawing account with the Reserve Bank of India for effective implementation of the SNA SPARSH system for the centrally sponsored scheme Tertiary Care Programme (TCP) under the National Non-Communicable Diseases Programme.\
   [202510151208476117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151208476117.pdf)
+
+- Regarding the disbursement of funds from the budgetary provision of the year 2025-26 for the Scheduled Caste Category (SCSP) for the programs under the Centrally Sponsored National Rural Health Mission through the SNA SPARSH system with Central share 60 Account Head 2210G592 and State share 40 Account Head 2210G609.\
+  [202510161223415217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161223415217.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

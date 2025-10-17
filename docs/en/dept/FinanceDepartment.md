@@ -10,5 +10,8 @@
 - Regarding outsourcing of manpower services of 6 drivers at the establishment of Finance Department (Own)...\
   [202510141214358305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141214358305.pdf)
 
+- Prepare and Print Performance Budget for year 2026-2027.\
+  [202510161508139705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161508139705.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
