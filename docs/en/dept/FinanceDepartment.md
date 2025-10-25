@@ -1,17 +1,11 @@
 # Finance Department
 
-**Date Range**: 20 October 2025 - 25 October 2025
+**Date Range**: 27 October 2025 - 01 November 2025
 
 
-## Miscellaneous
-- About to establish MAHA ARC LIMITED\
-  [202510131845269905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131845269905.pdf)
-
-- Regarding outsourcing of manpower services of 6 drivers at the establishment of Finance Department (Own)...\
-  [202510141214358305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510141214358305.pdf)
-
-- Prepare and Print Performance Budget for year 2026-2027.\
-  [202510161508139705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161508139705.pdf)
+## Personnel
+- Promotion from the post of Deputy Commissioner of State Tax to the post of Joint Commissioner of State Tax\
+  [202510241213244205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241213244205.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,10 @@
 - Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in various districts of the state from June 2025 to September 2025...\
   [202510201737491819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201737491819.pdf)
 
+## Miscellaneous
+- Participation of Maharashtra state Revenue  Forests Department officer for event Study tour on Forest Landscape Restoration under RECAP4NDC project from 25th October to 02nd November 2025 (including travel days) at Nairobi, Kenya.\
+  [202510241620143719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241620143719.pdf)
+
 ## Personnel
 - Regarding the posting of officers in the Naib Tehsildar cadre...\
   [202510201933014319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201933014319.pdf)

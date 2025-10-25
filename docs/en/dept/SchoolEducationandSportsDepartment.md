@@ -11,6 +11,12 @@
 - Maharashtra State Sports Policy, 2012 Regarding amendment in Gymnasium Development Grant Scheme Rules.\
   [202510201635478221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201635478221.pdf)
 
+- Regarding administrative approval of the estimate of Rs. 3,29,70,327/- for electrical work of 10 m. Shooting Range, 15 m. Shooting Range, 50 m. Shooting Range and Final Shooting Range at Shiv Chhatrapati Sports Complex, Pune.\
+  [202510241236058421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241236058421.pdf)
+
+- Regarding granting administrative approval to the budget of Rs. 6,24,50,534/- for various works at Shiv Chhatrapati Keeda Complex Mahalunge-Balewadi, Pune.\
+  [202510241239331121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241239331121.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202510201805559521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201805559521.pdf)

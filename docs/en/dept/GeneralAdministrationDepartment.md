@@ -32,5 +32,8 @@
 - Deputation Order. Smt Sushama Sakpal, Desk officer.\
   [202510201622582007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201622582007.pdf)
 
+- Regarding granting administrative and financial approval for the expenditure of Rs. 7,97,386/- incurred for the purchase of equipment for the Directorate General of Information and Public Relations, Headquarters.\
+  [202510241514061107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241514061107....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

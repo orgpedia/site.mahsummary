@@ -169,5 +169,44 @@
 - Bharat Ratna Dr. Regarding approval of works in Thane district for the year 2025-26 under Babasaheb Ambedkar Social Development Scheme.\
   [202510201845137922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201845137922.pdf)
 
+- Regarding approval of works in Mumbai Suburban District for the year 2025-26 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme\
+  [202510241559196022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559196022.pdf)
+
+- Bharat Ratna Dr. Regarding approval of works in Nanded district for the year 2025-26 under Babasaheb Ambedkar Social Development Scheme.\
+  [202510241558425122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241558425122.pdf)
+
+- Regarding approval of works in Sangli district for the year 2025-26 under the Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559246922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559246922.pdf)
+
+- Bharat Ratna Dr. Regarding approval of works in Ahilyanagar district for the year 2025-26 under Babasaheb Ambedkar Social Development Scheme.\
+  [202510241558577222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241558577222.pdf)
+
+- Regarding approval of works in Ratnagiri district for the year 2025-26 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559146322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559146322.pdf)
+
+- Regarding approval of works in Mumbai Suburban District for the year 2025-26 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559090122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559090122.pdf)
+
+- Bharat Ratna Dr. Regarding approval of works in Jalna district for the year 2025-26 under Babasaheb Ambedkar Social Development Scheme.\
+  [202510241558511722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241558511722.pdf)
+
+- Regarding approval of works in Chhatrapati Sambhajinagar district for the year 2025-26 under the Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme..\
+  [202510241559299222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559299222.pdf)
+
+- Regarding approval of works in Palghar district for the year 2025-26 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559463722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559463722.pdf)
+
+- Regarding approval of works in Thane district for the year 2025-26 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559415922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559415922.pdf)
+
+- Regarding approval of works in Palghar district for the year 2025-26 under Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559354222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559354222.pdf)
+
+- Regarding approval of works in Jalgaon district for the year 2025-26 under Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559026822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559026822.pdf)
+
+- Regarding approval of works in Kolhapur district for the year 2025-26 under the Bharat Ratna Dr.  Babasaheb Ambedkar Social Development Scheme.\
+  [202510241559517722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510241559517722.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
