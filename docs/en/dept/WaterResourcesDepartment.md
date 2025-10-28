@@ -1,22 +1,14 @@
 # Water Resources Department
 
-**Date Range**: 20 October 2025 - 25 October 2025
+**Date Range**: 03 November 2025 - 08 November 2025
 
-
-## Funds
-- Regarding disbursement of central share (Mother Sanction) and corresponding state share of Pradhan Mantri Krishi Sinchai Yojana (Accelerated Irrigation Benefit Programme).\
-  [202510161126324427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510161126324427.pdf)
-
-## Miscellaneous
-- Regarding  attachment of  the Temghar project subdivision no.2 (construction) under Executive Engineer, Bhama Askhed Dam Division, pune to Executive Engineer, irrigation project investigation division  (Bheema Tributaries), Pune.\
-  [202510151247043027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151247043027.pdf)
 
 ## Personnel
-- Continuation of posts.\
-  [202510131537222427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131537222427.pdf)
+- Regarding posting in the Chief Engineer (Civil) cadre.\
+  [202510271550460127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271550460127.pdf)
 
-- Continuation of posts.\
-  [202510131539553927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510131539553927.pdf)
+- Regarding posting in the Chief Engineer (Civil) cadre.\
+  [202510271554287127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271554287127.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

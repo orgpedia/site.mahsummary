@@ -1,17 +1,14 @@
 # Law and Judiciary Department
 
-**Date Range**: 27 October 2025 - 01 November 2025
+**Date Range**: 03 November 2025 - 08 November 2025
 
 
 ## Miscellaneous
-- Regarding opening of a separate personal deposit account for the criminal suit funds for the District and Additional Sessions Court, Nashik Road, Dist. Nashik.\
-  [202510201626091812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201626091812.pdf)
+- Regarding completion of probationary period of officers appointed through direct service in the Junior Draftsman (Group-B) (Gazetted) cadre.\
+  [202510271720336212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271720336212.pdf)
 
-- Regarding opening of a separate personal deposit account for the amounts in civil suits for the District and Additional Sessions Court, Nashik Road, Dist. Nashik.\
-  [202510201629006012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201629006012.pdf)
-
-- Regarding opening of a separate personal deposit account for the civil suit amounts for the Civil Court, Senior Level, Nashik Road, Dist. Nashik.\
-  [202510201627414112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510201627414112.pdf)
+- Administrative Approval Regarding construction of new court building (Basement 1  2  Ground Floor  10 floors, including 11 court halls, 1 Vulnerable Witness Deposition Centre and 1 Lok Adalat Court Hall) at Mulund, Mumbai.\
+  [202510271444500812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271444500812.....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
