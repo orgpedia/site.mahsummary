@@ -16,5 +16,14 @@
 - To accord Revised administrative approval to K.T. Weir Khandala Tal. Balapur Dist. Akola\
   [202510271230537026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271230537026.pdf)
 
+- Regarding the distribution of funds approved by the Central Government under Mother Sanction for implementing the SNA-SPARSH system for the enumeration of small irrigation schemes.\
+  [202510281436235726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281436235726.pdf)
+
+- Regarding distribution of funds for Nallah deepening/widening works under Jalsamruddhi Cement Dam Programme: Dist. Yavatmal (Vidarbha Division)\
+  [202510281815069826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281815069826.pdf)
+
+- 0 to 100 ha. Distribution of funds for new/progressing projects: Dist. Yavatmal (Vidarbha Division)\
+  [202510281814246726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281814246726.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,5 +10,12 @@
 - Regarding the distribution of funds under the centrally sponsored Mission Vatsalya scheme for the year 2025-26.\
   [202510271714243430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271714243430.pdf)
 
+- Release grant for beggers Home in financial year 2025-26 under major head 22352878\
+  [202510281658516530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281658516530.pdf)
+
+## Miscellaneous
+- Regarding purchase of Smart Anganwadi Kit for AWCs under ICDS.\
+  [202510281146503930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281146503930.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

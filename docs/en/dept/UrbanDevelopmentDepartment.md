@@ -49,5 +49,44 @@
 - Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 2.71 crore\
   [202510271700588325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271700588325.pdf)
 
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Under the Head of Account (2217 1301) for the year 2025-26, Lanja Nagar Panchayat, Dist. Ratnagiri, Amount Rs. 0.40 Crores For Rajapur Nagar Parishad, Dist. Ratnagiri, Amount Rs. 0.15 Crores (Total Amount Rs. 0.55 Crores)\
+  [202510281702161425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281702161425.pdf)
+
+- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Vita Municipal Council, Dist. Sangli Amount Rs. 2.50 crore\
+  [202510281106317125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281106317125.pdf)
+
+- Regarding sanction of Special Road Grant fund to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26 (Account Head 3054 0022) for Lanja Nagar Panchayat, Dist. Ratnagiri Amount Rs. 1.40 crores for Rajapur Nagar Panchayat, Dist. Ratnagiri Amount Rs. 2.65 crores (Total Amount Rs. 4.05 crores)\
+  [202510281704061525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281704061525.pdf)
+
+- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) For Pandharpur Municipal Council Dist. Solapur Amount Rs. 2.70 crore\
+  [202510281824043425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281824043425.pdf)
+
+- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) Amount Rs. 1.00 crore for Alandi Municipal Council, Dist. Pune.\
+  [202510281242440125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281242440125.pdf)
+
+- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Rajapur Municipal Council, Dist. Ratnagiri Amount Rs. 0.40 crore\
+  [202510281825369325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281825369325.pdf)
+
+- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2025-26 under the account head (2217 1301) For Vita Municipal Council, Dist. Sangli Amount Rs. 2.50 crore\
+  [202510281103247025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281103247025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) Paithan Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 5.00 crore\
+  [202510281252516725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281252516725.pdf)
+
+- Regarding approval to open a new bank account in the name of Chief Accounts and Finance Officer, Nashik-Trimbakeshwar Kumbh Mela Authority (Drawing and Disbursement Officer), Nashik under Nashik-Trimbakeshwar Kumbh Mela Authority.\
+  [202510281345226025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281345226025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Amount for Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar under Account Head (2217 1301) for the year 2025-26 Rs. 1.55 crore (Corrigendum)\
+  [202510281705473225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281705473225.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) for Pandharpur Municipal Council, Dist. Solapur amount Rs.2.75 crore\
+  [202510281822266725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281822266725.pdf)
+
+- Approval to Memorandum of Understanding (MoU) to be executed for implementation of Vanaj- Chandni Chowk and Ramwadi-Vagholi Metro Rail Corridor Project- Reg.\
+  [202510281536261025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281536261025.....pdf)
+
+- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 2.71 crore (Corrigendum)\
+  [202510281706562725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281706562725.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

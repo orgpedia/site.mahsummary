@@ -7,6 +7,9 @@
 - Regarding granting administrative approval to the plan of 785.17 lakh for the implementation of the Coconut Development Board scheme in the state in the year 2025-26.\
   [202510271621364301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271621364301.pdf)
 
+- Regarding granting enhanced financial approval for payment of the outsourced organization Averta Strategy Private Limited, Pune to implement the computer application ah.mahabms.com of the Animal Husbandry Department (Live  Cloud  SMS).\
+  [202510281507132201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281507132201.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of new members in the Governing Board of Maharashtra State Organic Certification Scheme...\
   [202510271212301301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271212301301.pdf)
