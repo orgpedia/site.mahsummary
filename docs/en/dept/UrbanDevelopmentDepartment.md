@@ -88,5 +88,34 @@
 - Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 2.71 crore (Corrigendum)\
   [202510281706562725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281706562725.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Bhiwandi-Nizampur City Municipal Corporation, Dist. Thane Amount Rs. 5.00 crore\
+  [202510291132199625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291132199625.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Bhiwandi-Nizampur City Municipal Corporation, Dist. Thane Amount Rs. 3.00 crore\
+  [202510291134235025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291134235025.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) Amount Rs. 1.00 crore for Arvi Municipal Council, Dist. Wardha\
+  [202510291502332325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291502332325.pdf)
+
+- Regarding making funds available for the general elections of Municipal Corporations, Municipal Councils and Nagar Panchayats in the state.\
+  [202510291617388725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291617388725.pdf)
+
+- Regarding sanction of funds under the heading Special Road Grant to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26, the amount for Arvi Nagar Parishad, District Wardha under the head of account (3054 0022) has been increased to Rs. 3.80 crore instead of Rs. 4.80 crore (Corrected) (Corrigendum)\
+  [202510291502390525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291502390525.pdf)
+
+- Regarding granting administrative approval in principle to the water supply project of the urban development project Mowad city.\
+  [202510291835558625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291835558625.pdf)
+
+## Miscellaneous
+- Regarding granting administrative approval in principle to the water supply project of the urban development campaign Narkhed city.\
+  [202510291840304725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291840304725.pdf)
+
+- Regarding granting administrative approval in principle to the water supply project of the Katol city under the Urban Upliftment Campaign.\
+  [202510291748497425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291748497425.pdf)
+
+## Personnel
+- Regarding constituting an assurance fulfillment committee under the chairmanship of the secretary to fulfill the pending assurances.\
+  [202510291813441925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291813441925....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

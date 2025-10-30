@@ -7,6 +7,30 @@
 - Regarding making funds available for the expenses of Village Revenue Officer (Talathi) training programs under the State Training Policy...\
   [202510271755394019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271755394019.pdf)
 
+- Regarding appointment of technical advisor for Direct Benefit Transfer (DBT) system.\
+  [202510291604371419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291604371419.pdf)
+
+- Minor Minerals-Thane Regarding the refund of 25 penalty amount deposited by M/s Mahalaxmi Properties to the Government for appeal under the provisions of the Maharashtra Land Revenue Code, 1966. M/s Mahalaxmi Properties\
+  [202510291621197019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291621197019.pdf)
+
+- Regarding the implementation of the order passed by Honble High Court, Bombay, Aurangabad Bench, in Writ Petition No. 495/2013, dated 07/03/2022, in the case of Mr. Balaji Suka Chavan, Daily Labourer.\
+  [202510291658264619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291658264619.pdf)
+
+- Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2025-26.\
+  [202510291440321319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291440321319.pdf)
+
+- Regarding the distribution of funds to tribal account holders under the Maharashtra Scheduled Tribes Sale of Trees to Occupiers (Regulation) Act, 1969 (2406 0686).\
+  [202510291809428219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291809428219.pdf)
+
+- Mauje Rampuri in the year 2013-2014, Gevrai, Dist. Come on Unexcavated out of the sanctioned quantity of sandstones Regarding refund of quantity amount - May Balaji Mining Prof.Pvt. Mr. Indrajit Vrishketu Jadhav\
+  [202510291609590719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291609590719.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in Chhatrapati Sambhajinagar, Jalna and Wardha districts in Mahe, September 2025...\
+  [202510291536497219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291536497219.pdf)
+
+- Regarding granting administrative approval for civic facility works in flood-affected villages in Naigaon taluka of Nanded district.\
+  [202510291716029819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291716029819.pdf)
+
 ## Miscellaneous
 - Regarding extension of 9 posts of IT Assistant (SEOC Operator) in the State Emergency Operation Center for the period from 2nd October 2025 to 30th December 2025.....\
   [202510271807548419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271807548419.pdf)
@@ -28,6 +52,12 @@
 
 - Permission for survey and excavation proposals on forest land as per the provisions of the Handbook issued under the Forest (Conservation and Conservation) Act, 1980 and the Forest (Conservation and Conservation) Rules, 2023 reg.\
   [202510281158308119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281158308119.pdf)
+
+- Regarding the issuance of directions to all Field Officers/Authorities to ensure the execution of orders in suits filed under Section 5 of the Mamlatdars Courts Act, 1906 and Section 143 of the Maharashtra Land Revenue Code, 1966, by conducting a Spot Inspection Panchnama and taking Geo-tagged Photographs.\
+  [202510291229553719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291229553719.pdf)
+
+- In accordance with the policy of sand/sand extraction, storage and sale through online system by the government, the tenderer M.R.R. Enterprises has been directed to pay the amount of unsold sand excavated and stored at all landing points including the depot to Rashad Ahmed Mujawar, as per the sand depot at Mauje Dabhol. (District-Raigad)\
+  [202510291801223219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291801223219.pdf)
 
 ## Personnel
 - Selection List Regarding promotion and posting to the vacant posts in the regular promotion quota in the Additional District Collector (Selected Category) cadre in the year 2025-2026 on a purely temporary basis....... Shri. Jagannath Mahadev Virkar\
@@ -71,6 +101,9 @@
 
 - Reinstatement and posting in Deputy Superintendent of Land Records cadre\
   [202510281327376319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281327376319.pdf)
+
+- Regarding posting from the Board Officer cadre to the Naib Tehsildar cadre on a purely temporary basis by ad hoc promotion (Nagpur Division).\
+  [202510291851230919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291851230919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -14,6 +14,9 @@
 - Regarding spending unspent funds from the grants distributed by the government.\
   [202510281836057905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281836057905.pdf)
 
+- Regarding making available the facility of online Pension Grievance Redressal Module in the Pension Channel system for pensioners or family pensioners receiving pension and family pension through the District Treasury Offices of the State and the Advancement and Accounts Office, Mumbai.\
+  [202510291507496305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291507496305.pdf)
+
 ## Personnel
 - Regarding approval to take up the skilled posts of Data Entry Operator through external mechanism by dedicating 4 posts of Clerk-Typist created for the work of the 6th Maharashtra Finance Commission.\
   [202510271330150205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271330150205.pdf)

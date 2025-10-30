@@ -20,5 +20,8 @@
 - Regarding creation of a separate head of account for budgetary provision in connection with the implementation of Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme for students belonging to Socially and Educationally Backward Classes (SEBC) category.\
   [202510281713464308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281713464308.pdf)
 
+- Regarding inclusion of the expenditure of the newly established faculty/unit/subject in non-government aided colleges on 100 grant under the committed expenditure. Shri. Omkarnath Malpani Law College, Sangamner Dist. Ahmednagar\
+  [202510291833244008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291833244008.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

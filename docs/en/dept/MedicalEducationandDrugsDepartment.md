@@ -13,5 +13,12 @@
 - Regarding the commencement of new Ayurveda Postgraduate Degree courses in a total of 05 subjects at Bhausaheb Mulak Ayurveda College and Research Hospital, Nagpur with admission capacity\
   [202510271501427213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271501427213.pdf)
 
+- Regarding approval of BAMS course college. Shri Shivparvati Public Development Trust, Solapur Greenfingers Ayurvedic Medical College and Research Centre, Solapur\
+  [202510291318551913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291318551913.pdf)
+
+## Personnel
+- Regarding retaining the possession of the premises of Padmabhushan Vasantdada Patil General Hospital, Sangli, under the DMER.\
+  [202510281146103313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281146103313.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

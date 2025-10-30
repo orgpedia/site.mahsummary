@@ -1,11 +1,14 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 20 October 2025 - 25 October 2025
+**Date Range**: 03 November 2025 - 08 November 2025
 
 
 ## Miscellaneous
-- Regarding the declaration of Public Information Officer and First Appellate Officer under the Central Right to Information Act, 2005.\
-  [202510151201392235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510151201392235.pdf)
+- Regarding prescribing standard operating procedures for registration, maintenance and renewal of institutions working in the field of disability.\
+  [202510291444498335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291444498335.pdf)
+
+- Regarding maintaining information of disabled officers/employees in all offices of the State Government in the prescribed format as per Rule No. 14 of the Rules 2017 under the Rights of Persons with Disabilities Act 2016.\
+  [202510291745168335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291745168335.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
