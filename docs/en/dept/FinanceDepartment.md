@@ -21,5 +21,8 @@
 - Regarding approval to take up the skilled posts of Data Entry Operator through external mechanism by dedicating 4 posts of Clerk-Typist created for the work of the 6th Maharashtra Finance Commission.\
   [202510271330150205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271330150205.pdf)
 
+- For the purpose of SNA-SPARSH prescribing Standard Implementation Procedures (SOP) to be followed for integration of relevant systems in State Integrated Financial Management System and authorized external systems used for implementation of specific Centrally Sponsored Schemes...\
+  [202510301316150205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301316150205.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

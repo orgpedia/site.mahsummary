@@ -19,12 +19,21 @@
 - Regarding the distribution of funds approved by the Central Government as Mother Sanction for the implementation of the Anganwadi cum creche scheme under the centrally sponsored Mission Shakti program through the SNA-SPARSH.\
   [202510291106115430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291106115430.pdf)
 
+- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2025-26\
+  [202510301132365230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301132365230.pdf)
+
 ## Miscellaneous
 - Regarding purchase of Smart Anganwadi Kit for AWCs under ICDS.\
   [202510281146503930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281146503930.pdf)
 
 - Regarding distribution of funds received under the account head 2235-3032 to Government Nursing Homes for the year 2025-26.\
   [202510291254157230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291254157230.pdf)
+
+- Regarding the distribution of funds received under the centrally sponsored scheme Mission Vatsalya for the year 2025-26.\
+  [202510311741311430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311741311430.pdf)
+
+- Regarding distribution of funds for the implementation of Child Helpline for the year 2025-26 under the centrally sponsored scheme Mission Vatsalya\
+  [202510311739012030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311739012030.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

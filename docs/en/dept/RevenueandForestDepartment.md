@@ -31,6 +31,18 @@
 - Regarding granting administrative approval for civic facility works in flood-affected villages in Naigaon taluka of Nanded district.\
   [202510291716029819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291716029819.pdf)
 
+- Regarding grant of administrative approval to the estimates of civil facility works to be provided in the resettled village in Rahuri Taluka of Ahilyanagar District under Mula Project.\
+  [202510301327163519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301327163519.pdf)
+
+- Minor Minerals - Ahilyanagar - For the year 2011-12 Mauje Chaumbhut Sand Deposit No.3, Group No. 138 to 142 regarding getting interest on unexcavated amount of sand from Sand Block, Parner District, Ahmednagar District. Mr. Ajay Rajendra Pawar\
+  [202510301320475719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301320475719.pdf)
+
+- Regarding granting administrative approval for civic facility works in villages rehabilitated due to floods in Kandhar taluka of Nanded district.\
+  [202510311720500019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311720500019.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rain, floods and incessant rain in Yavatmal, Washim and Solapur districts in the state in September 2025...\
+  [202510301747016819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301747016819.pdf)
+
 ## Miscellaneous
 - Regarding extension of 9 posts of IT Assistant (SEOC Operator) in the State Emergency Operation Center for the period from 2nd October 2025 to 30th December 2025.....\
   [202510271807548419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271807548419.pdf)
@@ -58,6 +70,18 @@
 
 - In accordance with the policy of sand/sand extraction, storage and sale through online system by the government, the tenderer M.R.R. Enterprises has been directed to pay the amount of unsold sand excavated and stored at all landing points including the depot to Rashad Ahmed Mujawar, as per the sand depot at Mauje Dabhol. (District-Raigad)\
   [202510291801223219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291801223219.pdf)
+
+- Regarding the formation of a committee under the chairmanship of Additional Chief Secretary (Revenue) regarding Vertical Property Rules.\
+  [202510301631347419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301631347419.pdf)
+
+- Current Affairs Proposal under State Plan Year 2025-26 Nature Conservation and Wildlife Management (Programme) (2406 0775).\
+  [202510311503049319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311503049319.pdf)
+
+- State Plan Year 2025-26 Regarding distribution of funds under Dr. Shyama Prasad Mukherjee Jan-Van Vikas Yojana (2406-8711).\
+  [202510311507122819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311507122819.pdf)
+
+- Regarding disbursement of funds under the State Scheme for Development of Nature Tourism Sites (2406-2295) for the year 2025-26.\
+  [202510311707118519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311707118519.pdf)
 
 ## Personnel
 - Selection List Regarding promotion and posting to the vacant posts in the regular promotion quota in the Additional District Collector (Selected Category) cadre in the year 2025-2026 on a purely temporary basis....... Shri. Jagannath Mahadev Virkar\
@@ -104,6 +128,30 @@
 
 - Regarding posting from the Board Officer cadre to the Naib Tehsildar cadre on a purely temporary basis by ad hoc promotion (Nagpur Division).\
   [202510291851230919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291851230919.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by heavy rains and floods in various districts of the state from June 2025 to September 2025...\
+  [202510301744017019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301744017019....pdf)
+
+- Regarding grant of administrative approval to the estimates of civil facility works to be provided in the resettled village in Rahuri Taluka of Ahilyanagar District under Mula Project.\
+  [202510301324091319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301324091319.pdf)
+
+- Regarding grant of administrative approval to the estimates of civil facility works to be provided in the resettled village in Rahuri Taluka of Ahilyanagar District under Mula Project.\
+  [202510301331099319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301331099319.pdf)
+
+- Regarding grant of administrative approval to the estimates of civil facility works to be provided in the resettled village in Rahuri Taluka of Ahilyanagar District under Mula Project.\
+  [202510301329073919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301329073919.pdf)
+
+- Regarding providing special assistance for seeds and other ancillary items for the upcoming Rabi season to farmers affected by heavy rains and floods during Kharif 2025 in various districts of the state\
+  [202510301751036019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301751036019.pdf)
+
+- Regarding giving administrative approval to the schedules of civil facilities works to be provided in the resettled villages of Rahuri Taluka of Ahilyanagar District under Mula Project.\
+  [202510301333589119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301333589119.pdf)
+
+- Regarding giving administrative approval to the schedules of civil facilities works to be provided in the resettled villages of Rahuri Taluka of Ahilyanagar District under Mula Project.\
+  [202510301325355819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301325355819.pdf)
+
+- Regarding providing assistance to those affected by the damage to agricultural crops caused by continuous rains in Amravati district of the state from June 2025 to September 2025...\
+  [202510301755000119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301755000119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

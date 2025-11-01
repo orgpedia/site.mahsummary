@@ -23,5 +23,8 @@
 - Regarding inclusion of the expenditure of the newly established faculty/unit/subject in non-government aided colleges on 100 grant under the committed expenditure. Shri. Omkarnath Malpani Law College, Sangamner Dist. Ahmednagar\
   [202510291833244008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291833244008.pdf)
 
+- Pursuant to the approval of Pharmacy Council of India, New Delhi, Government approval for starting new Post Graduate Courses/increasing the accessibility of Post Graduate/Graduate Courses in the existing Institute of Pharmacy Courses from the academic year 2025-26. Mr. Kishoritai Bhoyer College of Pharmacy, Nagpur\
+  [202510311636038708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311636038708.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

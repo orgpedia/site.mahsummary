@@ -7,6 +7,12 @@
 - Regarding providing grant for construction of workshop and administrative building of new Government Technical Institute for minority community at Muktai Nagar, District-Jalgaon. Fund Distribution for the Year 2025-26\
   [202510281747165914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281747165914.pdf)
 
+- Regarding the distribution of funds for the financial year 2025-26 for students selected under the Departments Foreign Scholarship Scheme.\
+  [202510311748051514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311748051514.pdf)
+
+- Regarding disbursement of funds for expenditure on remuneration of consultants under e-Governance for the year 2025-26.\
+  [202510301151054214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301151054214.pdf)
+
 ## Miscellaneous
 - Regarding the formation of the Governmental and Non-Governmental Committees of the Maharashtra State Urdu Literature Academy.\
   [202510291613199714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291613199714.pdf)

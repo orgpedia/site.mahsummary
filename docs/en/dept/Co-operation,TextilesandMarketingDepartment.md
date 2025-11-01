@@ -29,12 +29,27 @@
 - Regarding approval to make available the services of 71 posts in the Field Assistant cadre and 14 posts in the Experiment Director cadre through external sources under the Directorate of Sericulture.\
   [202510291719519702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291719519702.pdf)
 
+- Visits of the delegation from Government of Maharashtra from 3rd to 10th November, 2025 (including travel time) to France, Belgium and Netherlands.\
+  [202510301810099002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301810099002.pdf)
+
+- Regarding notification and making Maharashtra State Services available online under the Maharashtra Right to Public Services Act, 2015.\
+  [202510301736126202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301736126202.pdf)
+
+- Regarding the formation of a committee to make recommendations to the government on short-term and long-term measures to bring about a radical change in the agricultural sector and the lives of farmers in the state and to relieve farmers from the burden of outstanding loans.\
+  [202510301626222402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301626222402....pdf)
+
 ## Personnel
 - Regarding opening of new account heads and declaring Nodal Officers and Drawing and Disbursing Officers for the implementation of the Central Government sponsored scheme for computerization of Registrars Offices in the states (RCS Office Computerization).\
   [202510281740165002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281740165002.pdf)
 
 - Computerization of the offices of Registrar-Cooperative Societies of Centrally Sponsored States Appointment of Coordination Officer for the purpose of SNA-SPARSH mechanism under this scheme.\
   [202510281741284102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281741284102.pdf)
+
+- Regarding publication of the final seniority list of the cadre of Additional Registrar Cooperative Societies Group-A dated 1/1/2025.\
+  [202510301732459002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301732459002.pdf)
+
+- Visits of the delegation from Government of Maharashtra from 3rd to 10th November, 2025 (including travel time) to France, Belgium and Netherlands.\
+  [202510311620106702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311620106702.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

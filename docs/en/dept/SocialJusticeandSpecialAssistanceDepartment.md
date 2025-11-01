@@ -46,9 +46,25 @@
 - Bharat Ratna Dr. Regarding approval of works in Ratnagiri district for the year 2025-26 under the Babasaheb Ambedkar Social Development Scheme.\
   [202510291155309722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291155309722.pdf)
 
+- Regarding approval for purchase of mattresses, pillows, pillow covers and mosquito nets for students in government hostels and residential schools under the Social Justice Special Assistance Department.\
+  [202510301504403222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301504403222.pdf)
+
+- Regarding approval for the purchase of bed sheets, bed sheets, and blankets for students in government hostels and residential schools under the Social Justice Department.\
+  [202510301510562422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301510562422.pdf)
+
+- Regarding approval to disburse the funds budgeted for the year 2025-26 for the scheme of supplying mini tractors and its accessories to the self-help groups of Scheduled Castes and Neo-Buddhist communities.\
+  [202510301612513622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301612513622.pdf)
+
+## Miscellaneous
+- Regarding the appointment of the Control Officer and Withdrawal and Disbursement Officer of Bharat Ratna Dr. Babasaheb Ambedkar Swadhar Yojana under the Department of Social Justice and Special Assistance.\
+  [202510301507562622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301507562622.pdf)
+
 ## Personnel
 - Regarding permanent adjustment of Deputy Commissioners, Social Welfare and similar Group-A cadre officers on the establishment of the Social Welfare Commissionerate to the Other Backward Bahujan Welfare Department.\
   [202510291758126422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291758126422.pdf)
+
+- Disbursement of Financial Assistance to Beneficiaries of Special Assistance Scheme DBT Regarding doing through the portal.\
+  [202510301029594222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301029594222.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
