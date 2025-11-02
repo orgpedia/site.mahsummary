@@ -38,6 +38,9 @@
 - Regarding the formation of a committee to make recommendations to the government on short-term and long-term measures to bring about a radical change in the agricultural sector and the lives of farmers in the state and to relieve farmers from the burden of outstanding loans.\
   [202510301626222402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510301626222402....pdf)
 
+- Regarding implementing the recruitment process in District Central Cooperative Banks online to make it transparent and undisputed in the public interest.\
+  [202510312348060502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510312348060502.pdf)
+
 ## Personnel
 - Regarding opening of new account heads and declaring Nodal Officers and Drawing and Disbursing Officers for the implementation of the Central Government sponsored scheme for computerization of Registrars Offices in the states (RCS Office Computerization).\
   [202510281740165002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281740165002.pdf)
