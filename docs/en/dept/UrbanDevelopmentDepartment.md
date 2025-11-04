@@ -1,181 +1,58 @@
 # Urban Development Department
 
-**Date Range**: 03 November 2025 - 08 November 2025
+**Date Range**: 10 November 2025 - 15 November 2025
 
 
 ## Funds
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) For Chopda Municipal Council, Dist. Jalgaon Amount Rs. 5.00 crore\
-  [202510271656319725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271656319725.pdf)
+- Regarding the distribution of funds amounting to Rs. 45.00 crore for the work under the Pilgrimage Development Plan of Shri Mahalaxmi Jagadamba Sansthan, Koradi, Tal. Kamthi, Dist. Nagpur.\
+  [202511031834186325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031834186325.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Under the Head of Account (2217 1301) for the year 2025-26 To Pandharkawda Municipal Council, Dist. Yavatmal Amount Rs. 0.10 crore To Arni Municipal Council, Dist. Yavatmal Amount Rs. 0.35 crore To Ghatanji Municipal Council, Dist. Yavatmal Amount Rs. 0.20 crore Total amount Rs. 0.65 crore\
+  [202511031615151325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031615151325.pdf)
+
+- Nagrotthan Mahabhiyan regarding giving in-principle revised administrative approval to Nevasa city water supply project.\
+  [202511031039592325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031039592325.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Year 2025-26 under head (2217 1301). Dahiwadi Municipal Council, Distt. For Satara Amount Rs. 4.80 crores\
+  [202511031240035925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031240035925.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) Amount Rs. 5.00 crore for Palus Municipal Council, Dist. Sangli\
+  [202511031700129325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031700129325.pdf)
 
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 5.00 crore\
-  [202510271742131325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271742131325.pdf)
+  [202511031702104025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031702104025.pdf)
 
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Kolhapur Municipal Corporation, Dist. Kolhapur Amount Rs. 5.00 Crore\
-  [202510271658089125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271658089125.pdf)
+- Regarding sanction of Special Road Grant fund to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26 (Account Head 3054 0022) For Pandharkawda Municipal Council, Dist. Yavatmal Amount Rs. 1.95 crore For Arni Municipal Council, Dist. Yavatmal Amount Rs. 2.40 crore Total amount Rs. 4.35 crore\
+  [202511031613290225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031613290225.pdf)
 
-- Regarding sanction of Special Road Grant fund to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26 (Account Head 3054 0022) For Ardhapur Municipal Council, Dist. Nanded Amount Rs. 1.50 crores For Mudkhed Municipal Council, Dist. Nanded Amount Rs. 1.50 crores For Bhokar Municipal Council, Dist. Nanded Amount Rs. 2.00 crores Total amount Rs. 5.00 crores\
-  [202510271648327225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271648327225.pdf)
+- Regarding sanction of funds of Special Road Grant to the Municipal Corporation / Municipal Council / Nagar Panchayat in the State. For the year 2025-26 under (Head of Account 3054 0022). Dahiwadi Municipal Council, Distt. For Satara Amount Rs. 0.90 crore Vaduj Nagar Panchayat, Distt. For Satara Amount Rs. 0.35 crore A total amount of Rs. 1.25 crores\
+  [202511031243226225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031243226225.pdf)
 
-- Regarding granting administrative approval to the Indrayani Sarovar Revival Project of Pimpri-Chinchwad Municipal Corporation under the Central Government sponsored Amrut 2.0 Mission. (Rs.525.82 crore)\
-  [202510271804038125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271804038125.pdf)
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Mira-Bhayander Municipal Corporation, Dist. Thane Amount Rs. 4.25 crore\
+  [202511031611557525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031611557525.pdf)
 
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) For Phulambri Municipal Council, Dist. Chhatrapati Sambhajinagar, amount Rs. 4.65 crore\
-  [202510271651128325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271651128325.pdf)
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Year 2025-26 under head (2217 1301). Vaduj Nagar Panchayat, Distt. For Satara Amount Rs. 2.75 crores Mhaswad Municipal Council, Distt. For Satara Amount Rs. 1.20 crores Total amount Rs.3.95 crores\
+  [202511031241466625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031241466625.pdf)
 
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Jalna Municipal Corporation, Dist. Jalna Amount Rs. 5.00 crore\
-  [202510271654470625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271654470625.pdf)
+- Regarding granting improved administrative approval to the water supply project of the urban development project Manmad city.\
+  [202511031852444625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031852444625.pdf)
 
-- Regarding granting administrative approval to the Central Government sponsored Amrut 2.0 Mission of Ghuggus Municipal Council water supply project. (Rs. 93.98 crore)\
-  [202510271802322025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271802322025.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) For Fursungi-Uruli Devachi Municipal Council, Dist. Pune Amount Rs. 5.00 crore\
-  [202510271659362125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271659362125.pdf)
-
-- Regarding granting administrative approval to the Green Area Development Project of Hinganghat Municipal Council under the Central Government sponsored Amrut 2.0 Mission. (Rs. 8.70 crore)\
-  [202510271759468125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271759468125.pdf)
-
-- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2025-26 under the account head (2217 1301) For Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 1.55 crore\
-  [202510271702474725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271702474725.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under Account Head (2217 1301) For Phulambri Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 0.35 crore\
-  [202510271652557425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271652557425.pdf)
-
-- Regarding granting administrative approval to the Lake Revitalization Project of Jamner Municipal Council under the Central Government sponsored Amrut 2.0 Mission. (Rs. 9.10 crore)\
-  [202510271801117025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271801117025.pdf)
-
-- Regarding granting administrative approval to the Central Government sponsored Amrut 2.0 Mission of Thane Municipal Corporation for water supply project. (Rs. 54.35 crore)\
-  [202510271757570525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271757570525.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 2.71 crore\
-  [202510271700588325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510271700588325.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. Under the Head of Account (2217 1301) for the year 2025-26, Lanja Nagar Panchayat, Dist. Ratnagiri, Amount Rs. 0.40 Crores For Rajapur Nagar Parishad, Dist. Ratnagiri, Amount Rs. 0.15 Crores (Total Amount Rs. 0.55 Crores)\
-  [202510281702161425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281702161425.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Vita Municipal Council, Dist. Sangli Amount Rs. 2.50 crore\
-  [202510281106317125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281106317125.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26 (Account Head 3054 0022) for Lanja Nagar Panchayat, Dist. Ratnagiri Amount Rs. 1.40 crores for Rajapur Nagar Panchayat, Dist. Ratnagiri Amount Rs. 2.65 crores (Total Amount Rs. 4.05 crores)\
-  [202510281704061525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281704061525.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) For Pandharpur Municipal Council Dist. Solapur Amount Rs. 2.70 crore\
-  [202510281824043425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281824043425.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) Amount Rs. 1.00 crore for Alandi Municipal Council, Dist. Pune.\
-  [202510281242440125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281242440125.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Rajapur Municipal Council, Dist. Ratnagiri Amount Rs. 0.40 crore\
-  [202510281825369325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281825369325.pdf)
-
-- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2025-26 under the account head (2217 1301) For Vita Municipal Council, Dist. Sangli Amount Rs. 2.50 crore\
-  [202510281103247025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281103247025.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) Paithan Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 5.00 crore\
-  [202510281252516725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281252516725.pdf)
-
-- Regarding approval to open a new bank account in the name of Chief Accounts and Finance Officer, Nashik-Trimbakeshwar Kumbh Mela Authority (Drawing and Disbursement Officer), Nashik under Nashik-Trimbakeshwar Kumbh Mela Authority.\
-  [202510281345226025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281345226025.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. Amount for Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar under Account Head (2217 1301) for the year 2025-26 Rs. 1.55 crore (Corrigendum)\
-  [202510281705473225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281705473225.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) for Pandharpur Municipal Council, Dist. Solapur amount Rs.2.75 crore\
-  [202510281822266725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281822266725.pdf)
-
-- Approval to Memorandum of Understanding (MoU) to be executed for implementation of Vanaj- Chandni Chowk and Ramwadi-Vagholi Metro Rail Corridor Project- Reg.\
-  [202510281536261025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281536261025.....pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Kannada Municipal Council, Dist. Chhatrapati Sambhajinagar Amount Rs. 2.71 crore (Corrigendum)\
-  [202510281706562725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510281706562725.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Bhiwandi-Nizampur City Municipal Corporation, Dist. Thane Amount Rs. 5.00 crore\
-  [202510291132199625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291132199625.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Bhiwandi-Nizampur City Municipal Corporation, Dist. Thane Amount Rs. 3.00 crore\
-  [202510291134235025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291134235025.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) Amount Rs. 1.00 crore for Arvi Municipal Council, Dist. Wardha\
-  [202510291502332325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291502332325.pdf)
-
-- Regarding making funds available for the general elections of Municipal Corporations, Municipal Councils and Nagar Panchayats in the state.\
-  [202510291617388725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291617388725.pdf)
-
-- Regarding sanction of funds under the heading Special Road Grant to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26, the amount for Arvi Nagar Parishad, District Wardha under the head of account (3054 0022) has been increased to Rs. 3.80 crore instead of Rs. 4.80 crore (Corrected) (Corrigendum)\
-  [202510291502390525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291502390525.pdf)
-
-- Regarding granting administrative approval in principle to the water supply project of the urban development project Mowad city.\
-  [202510291835558625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291835558625.pdf)
-
-- Regarding the sanction of Special Road Grant funds to the Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) For Loha Municipal Council, Dist. Nanded Amount Rs. 2.50 crore For Kandhar Municipal Council, Dist. Nanded Amount Rs. 1.75 crore Total amount Rs. 4.25 crore\
-  [202510311243014625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311243014625.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under Account Head (2217 1301) For Sonpeth Municipal Council, Dist. Parbhani Amount Rs. 0.40 crore\
-  [202510311239009725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311239009725.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Amravati Municipal Corporation, Dist. Amravati Amount Rs. 5.00 crore\
-  [202510311250071125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311250071125.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporations/ Municipal Councils/ Nagar Panchayats in the State. For the year 2025-26 (Account Head 3054 0022) For Sonpeth Municipal Council, Dist. Parbhani Amount Rs. 2.60 crore For Manawat Municipal Council, Dist. Parbhani Amount Rs. 2.00 crore (Total amount Rs. 4.60 crore)\
-  [202510311237437525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311237437525.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Parner Nagar Panchayat, Dist. Ahilyanagar Amount Rs. 4.08 crore\
-  [202510311231408625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311231408625.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) For Gevrai Municipal Council, Dist. Beed Amount Rs. 5.00 Crore\
-  [202510311235393225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311235393225.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under Account Head (2217 1301) For Road Arjuni Nagar Panchayat, Dist. Gondia Amount Rs. 0.30 Crore\
-  [202510311248225725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311248225725.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under Account Head (2217 1301) For Parner Nagar Panchayat, Dist. Ahilyanagar Amount Rs. 0.92 crore\
-  [202510311234197625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311234197625.pdf)
-
-- Regarding the sanction of Special Road Grant funds to the Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) Roads for Arjuni Nagar Panchayat, Dist. Gondia Amount Rs.1.90 crore For Arjuni Morgaon Nagar Panchayat, Dist. Gondia Amount Rs.2.60 crore Total amount Rs.4.50 crore\
-  [202510311247141225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311247141225.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Pune Municipal Corporation, Dist. Pune Amount Rs. 5.00 crore\
-  [202510311230092025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311230092025.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. Under the Head of Account (2217 1301) for the year 2025-26 For Igatpuri Municipal Council, Dist. Nashik Amount Rs. 3.10 crore For Trimbakeshwar Municipal Council, Dist. Nashik Amount Rs. 1.90 crore Total amount Rs. 5.00 crore\
-  [202510311252421625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311252421625.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 5.00 crore\
-  [202510311240151925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311240151925.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Phaltan Municipal Council, Dist. Satara Amount Rs. 5.00 crore\
-  [202510311733268625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311733268625.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the State. For the year 2025-26 (Account Head 3054 0022) For Road Arjuni Nagar Panchayat, Dist. Gondia Amount Rs.0.20 crore\
-  [202510311731101725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311731101725.pdf)
-
-- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 5.00 crore\
-  [202510311225597425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311225597425.pdf)
-
-- Regarding sanction of funds to Municipal Councils under the Special scheme. For the year 2025-26 under the account head (2217 1301) For Bhor Municipal Council, Dist. Pune Amount Rs. 1.55 crore\
-  [202510311228032625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311228032625.pdf)
-
-- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) For Kandhar Municipal Council, Dist. Nanded Amount Rs. 0.75 crore\
-  [202510311241530425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311241530425.pdf)
-
-- Regarding sanction of Special Road Grant fund to Municipal Corporation/ Municipal Council/ Nagar Panchayat in the state. For the year 2025-26 (Account Head 3054 0022) For Bhor Municipal Council, Dist. Pune Amount Rs. 3.45 crore\
-  [202510311333526225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311333526225.pdf)
-
-- Regarding sanction of funds of Special Road Grant to the Municipal Corporation / Municipal Council / Nagar Panchayat in the State. For the year 2025-26 (account head 3054 0022) under Sindkhedaraja Municipal Council, Distt. Amount for Buldhana Rs. 5.00 crores\
-  [202510311501468925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311501468925.pdf)
+- Regarding sanction of funds to Municipal Councils under Special Scheme. For the year 2025-26 under the Account Head (2217 1301) for Deori Nagar Panchayat, Dist. Gondia amount Rs. 5.00 crore\
+  [202511031608299525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031608299525.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval in principle to the water supply project of the urban development campaign Narkhed city.\
-  [202510291840304725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291840304725.pdf)
+- Regarding determining the criteria for the Namo Udyan competition to be developed in the Municipal Council/Nagar Panchayat area under the Vaishishtyapurna scheme.\
+  [202511031617417125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031617417125.pdf)
 
-- Regarding granting administrative approval in principle to the water supply project of the Katol city under the Urban Upliftment Campaign.\
-  [202510291748497425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291748497425.pdf)
+- Regarding approval for direct free allotment of land to Late Bhanutai Gadkari Rural Development Institute for the purpose of school as a one-time special matter.\
+  [202511031929318725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031929318725.pdf)
 
-- Policy to promote circular economy through treatment and reuse of urban wastewater, 2025.\
-  [202510311714186625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510311714186625.pdf)
+- Regarding the ground rent to be levied while allotting land for redevelopment under Regulation 33(7) of the Development Control Regulations.\
+  [202511031837442925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031837442925.pdf)
 
 ## Personnel
-- Regarding constituting an assurance fulfillment committee under the chairmanship of the secretary to fulfill the pending assurances.\
-  [202510291813441925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291813441925....pdf)
+- Regarding the lease of the land transferred by the Revenue and Forest Department to the Shirdi Municipal Council for the Government Housing Scheme for a period of 30 years under sub-section 1 of section 92 of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965.\
+  [202511031925136125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031925136125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
