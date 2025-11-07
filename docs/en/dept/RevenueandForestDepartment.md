@@ -37,6 +37,9 @@
 - Regarding permission to use the unspent funds from the amount disbursed to the Maha-Campa Authority in the financial year 2025-26...\
   [202511041832274819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041832274819.pdf)
 
+- Regarding permission to use the unspent funds from the amount disbursed to the Maha-Campa Authority in the financial year 2025-26...\
+  [202511061332070519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061332070519.pdf)
+
 ## Miscellaneous
 - To constitute a committee to handle private forest case in hon supreme court  high court more effectively\
   [202511041801131319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041801131319.pdf)
@@ -49,6 +52,12 @@
 
 - To constitute a committee to inquire into the constructions within the mangrove buffer zone area at Village Majivade, District Thane.\
   [202511041803399919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041803399919.pdf)
+
+- Regarding the implementation of the Mangrove Conservation and Livelihood Creation Scheme\
+  [202511061815509319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061815509319.pdf)
+
+- Regarding extension of tenure of Shri.K. Suryakrishnamurthy, Additional District Collector on deputation to the post of Deputy Secretary, State Election Commission.\
+  [202511061234170519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061234170519.pdf)
 
 ## Personnel
 - Regarding providing special assistance for seeds and other ancillary items for the upcoming Rabi season to farmers affected by heavy rains and floods during Kharif 2025 in various districts of the state.\
@@ -65,6 +74,27 @@
 
 - Regarding postings by promotion/transfer of officers in the Indian Forest Service.\
   [202511041710283719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041710283719.pdf)
+
+- Annual Plan 2025-26 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 05 new vehicles in replacement of 05 deregistered vehicles under the Conservator of Forests and Director Sanjay Gandhi National Park Borivali Division under this scheme.\
+  [202511061512234819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061512234819.pdf)
+
+- Annual Plan 2025-26 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Under this scheme, Chief Conservator of Forests and Member Secretary, Zoo Authority, Nagpur Division, regarding purchase of 01 new vehicle in replacement of 01 deregistered vehicle.\
+  [202511061512262319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061512262319.pdf)
+
+- Annual Plan 2025-26 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 01 new vehicle in replacement of 01 deregistered vehicle under Chief Conservator of Forests (Regional) Gadchiroli Division under this scheme.\
+  [202511061515503419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061515503419.pdf)
+
+- Annual Plan 2025-26 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 01 new vehicle in replacement of 01 deregistered vehicle under Chief Conservator of Forests (Regional) Amravati Division under this scheme.\
+  [202511061514512219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061514512219.pdf)
+
+- Annual Plan 2025-26 Empowerment of Mobile Teams under State Level Scheme (2406 2161) Regarding purchase of 06 new vehicles in replacement of 06 deregistered vehicles under the Conservator of Forests and Area Director, Tadoba Andhari Tiger Reserve, Chandrapur Division.\
+  [202511061509322719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061509322719.pdf)
+
+- Annual Plan 2025-26 Under the State Level Scheme Empowerment of Mobile Team (2406 2161) Regarding purchase of 03 new vehicles in replacement of 03 deregistered vehicles under the Conservator of Forests (Evaluation) Maharashtra State, Nagpur Division.\
+  [202511061509391719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061509391719.pdf)
+
+- Regarding the formation of a permanent Promise Fulfillment Committee under the chairmanship of the Secretary to fulfill the promises and other parliamentary mandates pending in the department and to settle the promises from time to time.\
+  [202511061517198219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061517198219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

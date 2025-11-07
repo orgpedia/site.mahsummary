@@ -20,6 +20,9 @@
 - Regarding granting administrative and financial approval to the cost estimate for the construction of a protective wall for the I  C Centre of the Regional Transport Office, Nanded office.\
   [202511041454055229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041454055229.pdf)
 
+- Regarding fixing the rate of waterfront royalty payable to the Maharashtra Maritime Board on cargo handling through existing (existing) port projects which have completed a period of 15 years as per the Maharashtra Maritime Development Policy-2023.\
+  [202511061544117629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061544117629.pdf)
+
 ## Personnel
 - Regarding transfer and posting of SPS Officers.\
   [202511041603461629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041603461629.pdf)

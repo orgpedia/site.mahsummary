@@ -22,12 +22,25 @@
 - Fund Distribution for the Year 2025-2026 Regarding the distribution of funds under the account head 2210 G 251 (General) under 10-Contractual Services for Mahatma Jyotirao Phule Jan Arogya Yojana\
   [202511041650348617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041650348617.pdf)
 
+- 15th Finance Commission- Regarding the disbursement of the grant of Rs. 66938.32 lakhs approved by the Central Government for the financial year 2025-26 from the original budget and the provision approved through supplementary demand in the monsoon session to strengthen the health system in the state.\
+  [202511061125457517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061125457517.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of an Urban Health Commissionerate under the Public Health Department.\
   [202511041347509417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041347509417.pdf)
 
 - National Regular posts of contractual employees working in the State under Arogya Abhiyan Regarding inclusion...\
   [202511041330466517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041330466517.pdf)
+
+## Personnel
+- Regarding extension of temporary posts at A.N.M. and G.N.M. Nursing Training College, General Hospital, Malegaon, Dist. Nashik under the supervision of the Deputy Director, Health Services, Nashik Board, Nashik.\
+  [202511061123414817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061123414817.pdf)
+
+- Regarding extension of the temporary posts of Director, Health Services (Urban)-01 post, Deputy Director, Health Services (Urban)-02 posts, Assistant Director, Health Services (Urban)-04 posts under the Public Health Department.\
+  [202511061123299617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061123299617.pdf)
+
+- Continuation of 31 temporary posts of Laboratory Technician (Water Sampling) under Rural Hospitals in ITDP area.\
+  [202511061123325317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061123325317.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

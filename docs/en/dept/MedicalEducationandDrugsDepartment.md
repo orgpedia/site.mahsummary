@@ -28,5 +28,9 @@
 - Standard Operating Procedures (SOP) for online implementation of services provided by Government Medical Colleges under the Department of Medical Education on the Aaple Sarkar Portal under the Right to Public Services Act, 2015.\
   [202511041115052313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041115052313.pdf)
 
+## Personnel
+- Regarding the  integrating service of Vaidya Manoj Gaikwad, Professor\
+  [202510291202315913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202510291202315913.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

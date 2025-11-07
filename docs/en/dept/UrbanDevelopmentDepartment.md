@@ -193,6 +193,9 @@
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Areas. for the year 2025-26 under (Account Head 2217 0913) Brihanmumbai Municipal Corporation, Distt. For Mumbai suburbs Amount Rs. 2.00 crores\
   [202511041203474025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041203474025.pdf)
 
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in the Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Thane Municipal Corporation, Dist. Thane Amount Rs. 10.00 crore\
+  [202511061820013925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061820013925.pdf)
+
 ## Miscellaneous
 - Regarding determining the criteria for the Namo Udyan competition to be developed in the Municipal Council/Nagar Panchayat area under the Vaishishtyapurna scheme.\
   [202511031617417125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031617417125.pdf)
@@ -236,6 +239,9 @@
 ## Personnel
 - Regarding the lease of the land transferred by the Revenue and Forest Department to the Shirdi Municipal Council for the Government Housing Scheme for a period of 30 years under sub-section 1 of section 92 of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965.\
   [202511031925136125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031925136125.pdf)
+
+- ane Regarding the constitution of committee to make recommendations to the Government regarding the merger of Various Metro Rail Organizations within Mumbai Metropolitan Region.\
+  [202511061752193725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061752193725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,9 @@
 - Regarding approval to implement the scheme through Parashuram Economic Development Corporation.\
   [202511041632236516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041632236516.pdf)
 
+- Regarding approval to open two separate bank accounts for disbursing funds through the computerized system e-Samarth under the MLA Local Development Program and the Mountain Development Program...\
+  [202511061735070416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061735070416.pdf)
+
 ## Miscellaneous
 - Regarding extension of tenure of Dr. Sandhya Jagtap, Deputy Chief Executive Officer on deputation to the post of Senior Project Director (Social Justice) in the office of Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune.\
   [202511031324245916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031324245916.pdf)

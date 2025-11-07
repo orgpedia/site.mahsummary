@@ -29,5 +29,11 @@
 - Regarding the distribution of funds through supplementary for the campus construction of Lakshmi Narayan Innovative Technological University.\
   [202511041822491208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041822491208.pdf)
 
+- National Service Scheme Regarding approval of the number of government-aided NSS students university-wise for the academic year 2025-26...\
+  [202511061145020208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061145020208.pdf)
+
+- National Service Scheme Regarding approval of the Self-Finance National Service Scheme for the year 2025-26, student number university/directorate wise.\
+  [202511061149071608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061149071608.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

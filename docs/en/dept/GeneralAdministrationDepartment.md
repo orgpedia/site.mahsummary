@@ -29,6 +29,9 @@
 - Appointment on Deputation -Shri. Bharat Ramchandra Langhi, Under Secretary.\
   [202511041731153207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041731153207.pdf)
 
+- Regarding the donation of one days salary from the salary of all the officers/employees of the IAS, IAS Post, IAS and Maharashtra State Government in the state to the Chief Ministers Relief Fund for the month of October, 2025 as a relief to the citizens affected by the natural disaster caused by heavy rains in the state...\
+  [202511061432206707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061432206707.pdf)
+
 ## Personnel
 - Transfers of Manatralaya cadre officers and employees.\
   [202511041724522807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041724522807.pdf)

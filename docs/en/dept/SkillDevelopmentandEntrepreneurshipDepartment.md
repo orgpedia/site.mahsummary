@@ -3,6 +3,10 @@
 **Date Range**: 10 November 2025 - 15 November 2025
 
 
+## Funds
+- Regarding distribution of funds under the Maharashtra State Innovation Society (Program) scheme. (Year 2025-26 Demand No. ZA-2, Account Head 2230 A343)\
+  [202511061658203503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061658203503...pdf)
+
 ## Miscellaneous
 - Regarding approval to start new/additional batches of Certificate and Diploma courses in Technical Group of Maharashtra State Board of Skill, Vocational Education and Training on self-financed basis from the academic year 2025-26.\
   [202511042053006903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511042053006903.pdf)
