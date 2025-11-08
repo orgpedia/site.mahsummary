@@ -10,6 +10,9 @@
 - Regarding granting administrative and financial approval to the expenditure budget for the construction of a road to the brake test track and vehicle inspection center on the government premises of the Regional Transport Office, Pimpri Chinchwad office, as well as for internal repairs of the government building, furniture and other ancillary works.\
   [202511041456106629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041456106629.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 471.05 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of September, 2025...\
+  [202511071659579629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071659579629.pdf)
+
 ## Miscellaneous
 - Regarding giving administrative approval to the budget for the construction of main defense wall at Sawantwadi District Jail..\
   [202511041417426429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041417426429.pdf)
@@ -22,6 +25,12 @@
 
 - Regarding fixing the rate of waterfront royalty payable to the Maharashtra Maritime Board on cargo handling through existing (existing) port projects which have completed a period of 15 years as per the Maharashtra Maritime Development Policy-2023.\
   [202511061544117629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061544117629.pdf)
+
+- Regarding declaring the Director as the Controlling Officer and the Assistant Director (A-Class) as the Drawing and Disbursing Officer for financial matters for the office of the Director, State Reserve Police Force, Group Barangaon, Taluka Bhusaval, District Jalgaon.\
+  [202511071621516129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071621516129.pdf)
+
+- Regarding extension of the term of the company PwC as a consultant for the Pune and Pimpri-Chinchwad city CCTV project.\
+  [202511071619365629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071619365629.pdf)
 
 ## Personnel
 - Regarding transfer and posting of SPS Officers.\

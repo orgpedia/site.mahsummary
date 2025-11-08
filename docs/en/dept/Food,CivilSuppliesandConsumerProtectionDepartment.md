@@ -13,6 +13,9 @@
 - Regarding providing funds for creating consumer awareness at the district level on World and National Consumer Rights Day.\
   [202511041815502406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041815502406.pdf)
 
+- Regarding providing subsidy to provide Shiv Bhojan at affordable prices to the poor and needy people...\
+  [202511071224014706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071224014706.pdf)
+
 ## Miscellaneous
 - Regarding provision of services of 3 vehicle drivers through outsourcing by the contractor M/s Krishna Motors Providing Manpower Service, Jogeshwari, Mumbai at the premises of Controller, Valid Metrology, State of Maharashtra, Mumbai.\
   [202511031748111806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031748111806.pdf)
@@ -25,6 +28,9 @@
 
 - Regarding the pending lease of ration distribution offices on lease in the Mumbai-Thane ration distribution area due to lack of a fair rent certificate from the Public Works Department.\
   [202511041648267706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041648267706.pdf)
+
+- Regarding granting administrative approval for the construction of a new ration distribution office at 172-Anushakti Nagar, Mumbai under the control of the Controller Ration Distribution System. (Corrigendum)\
+  [202511071701503406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071701503406.pdf)
 
 ## Personnel
 - Regarding the procurement of paddy/coarse grains under the Minimum Support Price Purchase Scheme in the marketing season 2025-26...\

@@ -7,6 +7,12 @@
 - Regarding payment of arrears of salaries of special teachers under the Disability Inclusive Education Scheme (Secondary Level).\
   [202511061518286821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061518286821....pdf)
 
+- Regarding sanction of insurance cover/compensation assistance to the families of employees who died due to corona virus infection while performing Covid-19 related duties. Late.(Shri.) Ashok Shivram Kale, Co-Lecturer\
+  [202511071745397221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071745397221.pdf)
+
+- Regarding the awarding of cash prizes to the medal-winning players and their mentors from Maharashtra in the victorious Indian team in the ICC Womens One-Day Cricket World Cup-2025.\
+  [202511071214020321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071214020321.pdf)
+
 ## Miscellaneous
 - Regarding granting ex-post facto approval to start a new primary school under Zilla Parishad, Bhandara at Mouje Salebardi (Rehabilitation), Taluka Bhandara.\
   [202511041653201921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041653201921.pdf)
@@ -32,6 +38,12 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202511061839489421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061839489421.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202511071215587421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071215587421.pdf)
+
+- Regarding transfer of management of Dhaniraj English Medium School (new name- Rising Star School), Dattawadi, Tal. Mulsi, Dist. Pune, a self-financed English medium school run by Dhaniraj Charitable Trust, Pune, to A.V.R. Education Foundation, Pune.\
+  [202511071443524721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071443524721.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

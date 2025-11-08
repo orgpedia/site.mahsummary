@@ -29,6 +29,9 @@
 - Regarding the Infrastructure Sub-Committee regarding infrastructure projects in the state, it will no longer be a sub-committee but will function as a Cabinet Committee......Corrigendum\
   [202511041512422916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041512422916.pdf)
 
+- Regarding the assignment of the post of Executive Director of MahaGeoTech Corporation\
+  [202511071539333716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071539333716.pdf)
+
 ## Personnel
 - Deputy Director, Directorate of Finance and Statistics, on the request of Group-A cadre officers / regarding transfers on administrative grounds.....\
   [202511041327526516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041327526516.pdf)

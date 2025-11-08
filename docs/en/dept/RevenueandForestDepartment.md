@@ -59,6 +59,9 @@
 - Regarding extension of tenure of Shri.K. Suryakrishnamurthy, Additional District Collector on deputation to the post of Deputy Secretary, State Election Commission.\
   [202511061234170519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061234170519.pdf)
 
+- Regarding the appointment of an inquiry committee to investigate the irregularities in the land purchase deed in Survey No. 88 at Mouje Mundhwa, Tal. Pune City, District Pune...\
+  [202511071641340619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071641340619.pdf)
+
 ## Personnel
 - Regarding providing special assistance for seeds and other ancillary items for the upcoming Rabi season to farmers affected by heavy rains and floods during Kharif 2025 in various districts of the state.\
   [202511041237141419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041237141419.pdf)
@@ -95,6 +98,72 @@
 
 - Regarding the formation of a permanent Promise Fulfillment Committee under the chairmanship of the Secretary to fulfill the promises and other parliamentary mandates pending in the department and to settle the promises from time to time.\
   [202511061517198219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061517198219.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071916532119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071916532119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071914314719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071914314719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071907211719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071907211719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071906088619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071906088619.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071858567719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071858567719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071908358619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071908358619.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071903118919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071903118919.pdf)
+
+- Regarding allotment and posting of Revenue Department to Probationary Deputy Collectors in Combined Probationary Training Program-9.......\
+  [202511071921124219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071921124219.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071913134319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071913134319.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071919390119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071919390119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071911524519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071911524519.pdf)
+
+- Selection List Regarding promotion and posting to the vacant posts in the regular promotion quota in the Additional District Collector (Selected Category) cadre in the year 2025-2026 on a purely temporary basis....... Shri. Jagannath Mahadev Virkar\
+  [202511071933480019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071933480019.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071900227719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071900227719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071855235119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071855235119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071857278119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071857278119.pdf)
+
+- Posting of officers in the Tehsildar cadre awaiting appointment\
+  [202511071926138019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071926138019.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071915405419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071915405419.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071904486119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071904486119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071909485719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071909485719.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071901506919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071901506919.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202511071928429119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071928429119.pdf)
+
+- Regarding posting of officers in the Deputy Collector cadre.\
+  [202511071918210419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071918210419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

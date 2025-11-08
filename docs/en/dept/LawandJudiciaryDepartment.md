@@ -27,5 +27,8 @@
 - Regarding establishment of District and Additional Sessions Court as well as Civil Court Senior division at Shirpur, District Dhule and sanctioning posts accordingly.\
   [202511061614232012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061614232012.pdf)
 
+- Regarding giving a Deemed date to Shri. Jaipal N. Badre, Clerk-Typist, Government Pleaders Office, High Court, Bench Nagpur.\
+  [202511071533215112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071533215112....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

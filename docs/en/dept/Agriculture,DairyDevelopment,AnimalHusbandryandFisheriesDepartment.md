@@ -22,6 +22,9 @@
 - Regarding the distribution of funds amounting to Rs. 178,98,34,000/- for Nanaji Deshmukh Krishi Sanjeevani Project, Phase-2 for the financial year 2025-26.\
   [202511041511286401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041511286401.pdf)
 
+- Regarding approval to implement components that emphasize capital investment and infrastructure creation in the agricultural sector through the Krishi Samruddhi Yojana.\
+  [202511071342524401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071342524401.pdf)
+
 ## Miscellaneous
 - Regarding approval of foreign tour of selected officers for Digital Agriculture Ecosystem Study Tour to Netherland from 09th to 15th November, 2025.\
   [202511031654442501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031654442501.pdf)
@@ -50,12 +53,21 @@
 - Regarding determination of executive and non-executive posts in Maharashtra Agricultural Service, Group-A, Group-B, Group-B (Junior) and Group-C cadres.\
   [202511041535084601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041535084601.pdf)
 
+- Regarding opening an account in a nationalized bank under the Central Governments WINDS (Weather Information Network Data System) project.\
+  [202511071704229701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071704229701.pdf)
+
+- Regarding determining the emblem and slogan of the Agriculture Department.\
+  [202511071735587401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071735587401.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in the schemes Farmer Monthly Scheme and Agricultural Information Team Scheme in the Agriculture Department from 01.09.2025 to 28.02.2026.\
   [202511031620051401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031620051401.pdf)
 
 - Regarding the transfer of 8 acres of land out of the total area of groups no. 1025 to 1028 and 1030 in the area of Taluka Fruit Orchard Dindori, Taluka Dindori, District Nashik under the jurisdiction of the Agriculture Department for the upgraded Sub-District Hospital.\
   [202511041443194401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041443194401.pdf)
+
+- Regarding the announcement of the appointing authority for the posts in Group C and Group D on the establishment of the Commissioner of Animal Husbandry and Dairying\
+  [202511071508587601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071508587601.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,12 +25,18 @@
 - 15th Finance Commission- Regarding the disbursement of the grant of Rs. 66938.32 lakhs approved by the Central Government for the financial year 2025-26 from the original budget and the provision approved through supplementary demand in the monsoon session to strengthen the health system in the state.\
   [202511061125457517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061125457517.pdf)
 
+- For the financial year 2025-26, regarding granting administrative approval to the proposal of purchasing UPS machines required for the District Tuberculosis Center and City Tuberculosis Center as well as purchasing refrigerators (deep freezers) and air conditioning units required for the preservation of laboratory materials, under Budget Head 2210 0191 (13 - Office Expenses), for an amount of Rs. 3,57,30,000/- (Rupees Three Crores Fifty Seven Lakhs Thirty Thousand Only).\
+  [202511071113364417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071113364417.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of an Urban Health Commissionerate under the Public Health Department.\
   [202511041347509417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041347509417.pdf)
 
 - National Regular posts of contractual employees working in the State under Arogya Abhiyan Regarding inclusion...\
   [202511041330466517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041330466517.pdf)
+
+- Regarding the disbursement of funds approved through supplementary demand Under the objective of Account Heading 4210 1101, 52 Machinery and Equipment  in the second session of the Legislative Assembly 2025 to pay the amount due for the purchase of ambulances for health institutions in the state.\
+  [202511071507569117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071507569117.pdf)
 
 ## Personnel
 - Regarding extension of temporary posts at A.N.M. and G.N.M. Nursing Training College, General Hospital, Malegaon, Dist. Nashik under the supervision of the Deputy Director, Health Services, Nashik Board, Nashik.\

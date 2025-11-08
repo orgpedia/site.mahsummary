@@ -35,5 +35,8 @@
 - National Service Scheme Regarding approval of the Self-Finance National Service Scheme for the year 2025-26, student number university/directorate wise.\
   [202511061149071608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061149071608.pdf)
 
+- Regarding payment of funds to the National Information Centre (NIC) for the maintenance and repair expenses of the e-library system in use in the offices under the Directorate of Libraries.\
+  [202511071653378408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071653378408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

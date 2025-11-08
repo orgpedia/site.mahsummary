@@ -7,6 +7,9 @@
 - Regarding the distribution of funds under the centrally sponsored Beti Bachao Beti Padhao component scheme for the financial year 2025-26\
   [202511041831438730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041831438730.pdf)
 
+- Pradhan Mantri Matru Vandana Yojana (PMMVY) implementation guidelines.\
+  [202511071449265330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071449265330.pdf)
+
 ## Miscellaneous
 - Regarding approval for renewal of registration certificate under Juvenile Justice (Care and Protection of Children) Act, 2015\
   [202511041809241230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041809241230.pdf)

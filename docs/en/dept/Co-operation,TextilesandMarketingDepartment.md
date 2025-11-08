@@ -10,6 +10,9 @@
 - In the year 2025-26 for Captive Market Scheme Regarding giving administrative approval for expenditure of funds.\
   [202511041435319002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041435319002.pdf)
 
+- Regarding granting administrative and financial approval to the proposal for construction of Sahakar Sankul building in Latur district.\
+  [202511071738446402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071738446402.pdf)
+
 ## Miscellaneous
 - Regarding opening a new account head to pay the arrears of the Sixth Pay Commission for the period from 01.04.2006 to 25.11.2014 to 195 employees of Maharashtra State Handloom Corporation Limited, Nagpur as a special matter from a humanitarian point of view.\
   [202511031629375402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031629375402.pdf)
@@ -19,6 +22,13 @@
 
 - Regarding cancellation of the circular dated April 16, 2024 of the Director of Marketing, State of Maharashtra and superseding the Government Order dated March 1, 2024.\
   [202511061140196602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061140196602.pdf)
+
+- Regarding opening of new account heads and declaration of Nodal Officers and Drawing and Disbursing Officers for the implementation of the Central Government sponsored scheme for computerization of Registrars Offices in the states.....(Corrigendum)\
+  [202511071721398102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071721398102.pdf)
+
+## Personnel
+- To approve the opening of separate drawing accounts with the Reserve Bank of India for State Linked Schemes (SLSs) to implement the scheme SNA-SPARSH for computerization of the offices of Registrar-Cooperative Societies of Centrally Sponsored States on an alternative fund flow mechanism.\
+  [202511071724595202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071724595202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
