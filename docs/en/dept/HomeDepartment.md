@@ -1,46 +1,15 @@
 # Home Department
 
-**Date Range**: 10 November 2025 - 15 November 2025
+**Date Range**: 17 November 2025 - 22 November 2025
 
 
 ## Funds
-- Regarding granting administrative approval to pay the renewal expenses of security equipment licenses in the financial year 2025-26...\
-  [202511031931445729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511031931445729.pdf)
-
-- Regarding granting administrative and financial approval to the expenditure budget for the construction of a road to the brake test track and vehicle inspection center on the government premises of the Regional Transport Office, Pimpri Chinchwad office, as well as for internal repairs of the government building, furniture and other ancillary works.\
-  [202511041456106629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041456106629.pdf)
-
-- Regarding the disbursement of funds amounting to Rs. 471.05 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of September, 2025...\
-  [202511071659579629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071659579629.pdf)
+- Maharashtra State, regarding approval to pay a fund of Rs. 2,16,45,168 /- as rent payment for the period April-2025 to October-2025 for a total area of 10469 sq. ft. at World Trade Center, Cuffe Parade, Mumbai for Cyber Office.\
+  [202511111516446029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111516446029.pdf)
 
 ## Miscellaneous
-- Regarding giving administrative approval to the budget for the construction of main defense wall at Sawantwadi District Jail..\
-  [202511041417426429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041417426429.pdf)
-
-- Sanctioning of professional Fees to Senior Adv. Devendra Chauhan as a Special Counsel and Adv.Neeraj Jawde as Assistant to Special Counsel for conducting the case in the Honble District and Sessions Court, Nagpur which is arising out of C.R.No. 194/2025 registered with the Kalmeshwar Police Station, Nagpur Gramin\
-  [202511041917229829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041917229829.pdf)
-
-- Regarding granting administrative and financial approval to the cost estimate for the construction of a protective wall for the I  C Centre of the Regional Transport Office, Nanded office.\
-  [202511041454055229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041454055229.pdf)
-
-- Regarding fixing the rate of waterfront royalty payable to the Maharashtra Maritime Board on cargo handling through existing (existing) port projects which have completed a period of 15 years as per the Maharashtra Maritime Development Policy-2023.\
-  [202511061544117629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511061544117629.pdf)
-
-- Regarding declaring the Director as the Controlling Officer and the Assistant Director (A-Class) as the Drawing and Disbursing Officer for financial matters for the office of the Director, State Reserve Police Force, Group Barangaon, Taluka Bhusaval, District Jalgaon.\
-  [202511071621516129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071621516129.pdf)
-
-- Regarding extension of the term of the company PwC as a consultant for the Pune and Pimpri-Chinchwad city CCTV project.\
-  [202511071619365629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511071619365629.pdf)
-
-## Personnel
-- Regarding transfer and posting of SPS Officers.\
-  [202511041603461629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041603461629.pdf)
-
-- Regarding transfer requests of Group-A and Group-B cadre officers in the establishment of Directorate of Judicial Scientific Laboratory, State of Maharashtra, Mumbai.\
-  [202511041215005429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041215005429.pdf)
-
-- Supplementary Regular Selection List 2024-25: Regarding revised posting by promotion to the post of Additional Superintendent, Central Jail/Superintendent, District Jail (Class 1), Group A in the cadre.\
-  [202511041653506129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511041653506129.pdf)
+- Regarding approval to pay salaries for the period from August 2025 and onwards to the employees appointed on contract (through external mechanisms) working in Ratnagiri and Sindhudurg Civil Defence Offices.\
+  [202511111528066229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111528066229.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
