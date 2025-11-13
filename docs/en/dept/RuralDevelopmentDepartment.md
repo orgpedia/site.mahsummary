@@ -32,5 +32,33 @@
 - Constitution of Gram Panchayat Digital Access Committee (DAC) under samriddh gram panchayat pilot project\
   [202511111522018820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111522018820.pdf)
 
+- Administrative Approval for Construction of 05 Gram Panchayat Buildings in Kolhapur District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511121451496220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121451496220.pdf)
+
+## Personnel
+- Regarding the ad-hoc promotion of officers from the Deputy Chief Executive Officer (S-23), to Additional Chief Executive Officer / Project Director (S-25), the Maharashtra Development Service cadre, Group-A, (Selection List Year 2024-25)\
+  [202511121110354520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110354520.pdf)
+
+- Regarding the reinstatement and posting of Shri. M. G. Potdar, Block Development Officer (S-20), Group-A cadre, Maharashtra Development Service\
+  [202511121110591320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110591320.pdf)
+
+- Regarding the ad-hoc promotion of officers from the Block Development Officer (S-20 cadre) to Deputy Chief Executive Officer, Maharashtra Development Service, Group-A (S-23 cadre). Shri.S.B.Bhoye\
+  [202511121110103020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110103020.pdf)
+
+- Regarding the ad-hoc promotion of officers from the Block Development Officer (S-20 cadre) to Deputy Chief Executive Officer, Maharashtra Development Service, Group-A (S-23 cadre).\
+  [202511121110307720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110307720.pdf)
+
+- Regarding the posting of officers from the Maharashtra Development Service cadre , Block Development Officer (S-20), Group-A  Shri. S. A. Akele.\
+  [202511121110450720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110450720.pdf)
+
+- Regarding the posting of officers from the Maharashtra Development Service cadre , Block Development Officer (S-20), Group-A  Shri.I.D.Shelkande.\
+  [202511121110398520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110398520.pdf)
+
+- Regarding the reinstatement and posting of Shri. S.S. Mundhe, Block Development Officer (S-20), Group-A cadre, Maharashtra Development Service.\
+  [202511121110498520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110498520.pdf)
+
+- Regarding the reinstatement and posting of Shri. K.D. Shinde, Block Development Officer (S-20), Group-A cadre, Maharashtra Development Service.\
+  [202511121110544320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110544320.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

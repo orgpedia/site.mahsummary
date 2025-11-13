@@ -3,6 +3,10 @@
 **Date Range**: 17 November 2025 - 22 November 2025
 
 
+## Funds
+- Regarding permitting cars instead of jeeps as staff cars for the office of the State Chief Service Rights Commission under the jurisdiction of the General Administration Department....\
+  [202511121558598707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121558598707.pdf)
+
 ## Miscellaneous
 - Regarding making regulations for accommodation arrangements for journalists during the winter session in Nagpur.\
   [202511101206325707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511101206325707.pdf)
@@ -18,6 +22,13 @@
 
 - Regarding extension of appointment of supplier for supply of stationery, computer equipment and other materials for Hon. Chief Ministers Secretariat, Hon. Chief Ministers Office at Official Residence, Office of Secretary and V.C.A. (2) as well as Ministerial Establishments (M.A.-1,2 and 3).\
   [202511111513184407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111513184407.pdf)
+
+## Personnel
+- Seniority List Final seniority list of officers in the cadre of Senior Assistant Director (Information)/District Information Officer/Senior Deputy Editor/Public Relations Officer, Group-A (Junior) as on 01.01.2025.\
+  [202511121119294107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121119294107.pdf)
+
+- Regarding the promotion of the post of Deputy Secretary in the office of the State Chief Service Rights Commissioner to the post of Joint Secretary.\
+  [202511121554176707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121554176707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

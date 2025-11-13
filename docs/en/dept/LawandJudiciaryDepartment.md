@@ -11,5 +11,8 @@
 - Regarding revival of 03 posts of Peon, Group-D in Charity Organization for appointment on compassionate ground.\
   [202511111508327712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111508327712.pdf)
 
+- Legislative Internship Programme order for law students\
+  [202511121636567612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121636567612.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
