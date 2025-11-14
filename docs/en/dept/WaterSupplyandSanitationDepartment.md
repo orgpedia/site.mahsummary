@@ -16,9 +16,28 @@
 - Regarding distribution of funds to the concerned Zilla Parishads for the salaries of employees working on Converted Regular Temporary (CRT) establishments on water supply schemes for the financial year 2025-26.  Account Head 22151914(36)\
   [202511121237056328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121237056328.pdf)
 
+- Arrangement for distribution of service report on converted regular (CRT) establishment on water return schemes to Zilla Parishads throughout the year for the financial year 2025-26.  Account Head 22151914 (04)\
+  [202511131302246328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131302246328.pdf)
+
 ## Miscellaneous
 - Financial Year 2025-26  Regarding distribution of Subsidiary Grant towards Salary and Allowances to Maharashtra Life Authority (Mandatory) (2215A041), 36, Subsidiary Grants (Salary).\
   [202511111510087328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111510087328.pdf)
+
+## Personnel
+- To give revised administrative approval for Mauje Sukali, Tq. Vasmat, Dist. Hingoli (20023831) water supply scheme under Jal Jeevan Mission\
+  [202511121205237828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121205237828.pdf)
+
+- To give revised administrative approval for Mauje Jaronda, Ta. Kalamanuri, Dist. Hingoli (20040692)  water supply scheme under Jal Jeevan Mission\
+  [202511121205333428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121205333428.pdf)
+
+- To give revised administrative approval for Mauje Marlapur , Tq. Vasmat, Dist. Hingoli (20020010)  water supply scheme under Jal Jeevan Mission\
+  [202511121205378528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121205378528.pdf)
+
+- To give revised administrative approval for Mauje Dabhadi, Mahalingi and Mahalingi Tanda, Ta. Kalamanuri, Dist. Hingoli (20040517) water supply scheme under Jal Jeevan Mission\
+  [202511121205183028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121205183028.pdf)
+
+- To give revised administrative approval for Mauje Uti Brahmchari, Tq. Sengaon, Dist. Hingoli (7946941) water supply scheme under Jal Jeevan Mission\
+  [202511121205286928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121205286928.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,9 @@
 - Regarding distribution of honorarium to ASHA volunteers and group promoters for the period from November, 2025 to March, 2026 from the provision approved by the budgetary and supplementary demand under Account Head 2210H015, 31- Subsidiary Grants (Non-Salary) in the financial year 2025-26 under the Centrally Sponsored National Health Mission.\
   [202511121526167217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121526167217.pdf)
 
+- Regarding provision of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (30 percent payment amount for May, 2025 to July, 2025)\
+  [202511131601370717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131601370717.pdf)
+
 ## Miscellaneous
 - Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
   [202511121434303617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121434303617.pdf)

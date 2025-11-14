@@ -10,6 +10,9 @@
 - Regarding approval of new account head for Scheduled Caste category under the scheme Agristack (Digital Public Infrastructure for Agriculture).\
   [202511111034128201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111034128201.pdf)
 
+- Regarding the formation of a committee to allocate government residences in Worli and Aarey under the jurisdiction of the Dairy Development Department.\
+  [202511131300470001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131300470001.pdf)
+
 ## Personnel
 - Regarding the transfer of lands under the jurisdiction of the Dairy Development Department to the Revenue and Forest Department for the construction of hostels under the Babu Jagjivan Ram Chhatra Awas Yojana to the Other Backward Classes Welfare Department....\
   [202511111238591701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111238591701.pdf)

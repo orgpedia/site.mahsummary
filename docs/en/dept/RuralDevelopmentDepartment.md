@@ -10,6 +10,9 @@
 - Regarding the distribution of the first installment of the first installment of the Central Government including administrative funds of Rs. 115,47,00,000/- and the state matching share of Rs. 76,98,00,000/- for the Pradhan Mantri Janajati Adivasi Nyay Mahaabhiyan (PM-JANMAN) scheme in the financial year 2025-26.\
   [202511111549137520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111549137520.pdf)
 
+- Regarding Granting Administrative Approval for the construction of a Cultural Hall in the memory of Punyashlok Ahilya Devi Holkar. (Year 2025-26)( Nanded)\
+  [202511131143103320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131143103320.pdf)
+
 ## Miscellaneous
 - Administrative Approval for Construction of 15 Gram Panchayat Buildings in Parbhani District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
   [202511101123340520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511101123340520.pdf)
@@ -35,6 +38,27 @@
 - Administrative Approval for Construction of 05 Gram Panchayat Buildings in Kolhapur District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
   [202511121451496220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121451496220.pdf)
 
+- Administrative Approval for Construction of 17 Gram Panchayat Buildings in Satara District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511131053305020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131053305020.pdf)
+
+- Under the Mukhyamantri Gram Sadak Yojana Phase-2 (Batch-1) granting administrative approval for the Road work in Satara district.\
+  [202511131240162620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131240162620.pdf)
+
+- Administrative Approval for Construction of Gram Panchayat Building in Solapur District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511131053130020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131053130020.pdf)
+
+- Regarding providing concession in recovery of residential property tax and other tax arrears from Gram Panchayats under Mukhyamantri Samrudd Panchayat Raj Abhiyan.\
+  [202511131646499720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131646499720.pdf)
+
+- Administrative Approval for Construction of 05 Gram Panchayat Buildings in Wardha District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511131053282820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131053282820.pdf)
+
+- Regarding granting administrative approval for the construction of a new administrative building of Panchayat Samiti patur Dist.Akola\
+  [202511131110481420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131110481420.pdf)
+
+- Regarding the inclusion of non-plan roads in Mahabaleshwar Taluka (Dist-Satara)  as a Village Road in the Road Development Plan 2001-21.\
+  [202511131240277120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131240277120.pdf)
+
 ## Personnel
 - Regarding the ad-hoc promotion of officers from the Deputy Chief Executive Officer (S-23), to Additional Chief Executive Officer / Project Director (S-25), the Maharashtra Development Service cadre, Group-A, (Selection List Year 2024-25)\
   [202511121110354520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110354520.pdf)
@@ -59,6 +83,15 @@
 
 - Regarding the reinstatement and posting of Shri. K.D. Shinde, Block Development Officer (S-20), Group-A cadre, Maharashtra Development Service.\
   [202511121110544320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121110544320.pdf)
+
+- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra Development Service, Assistant Block Development Officer, Group-B in Nashik Division - (Select List Year 2024-25)\
+  [202511131036352720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131036352720.pdf)
+
+- Regarding approval for the vehicle review and authorization of vehicles for the Additional Commissioner (Establishment) and Additional Commissioner (Development) under the Divisional Commissioners Office subordinate to the Rural Development Department.\
+  [202511131447388720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131447388720.pdf)
+
+- Regarding ad hoc promotion to the posts in Direct service quota of employee in District Service (Group C) and District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-16) Assistant Block Development Officers in Nashik Division- (Select List Year 2024-25)\
+  [202511131036375320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131036375320.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

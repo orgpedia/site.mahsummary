@@ -20,6 +20,9 @@
 - Current Affairs Proposal under State Plan Year 2025-26 Strengthening of State Biodiversity Board (2406 8696).\
   [202511111235242419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111235242419.pdf)
 
+- Regarding cancellation of the government decisions dated 30.07.2013 and 08.04.2015 regarding issuance of transportation licenses for minor forest produce of the Revenue and Forest Department.\
+  [202511131751196119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131751196119.pdf)
+
 ## Personnel
 - Regarding promotion and posting to the Deputy Collector cadre on a purely temporary basis to eligible officers in the Tehsildar cadre in the year 2025-2026....\
   [202511112101484419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511112101484419.pdf)
