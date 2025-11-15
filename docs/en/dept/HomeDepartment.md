@@ -20,6 +20,9 @@
 - The integration of the MedLEaPR portal with the police departments CCTNS system and making its use mandatory.\
   [202511131135004929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131135004929.pdf)
 
+- Regarding implementation of old pension scheme to 28 officers/employees working at the establishment of Directorate of Forensic Science Laboratories, Mumbai.\
+  [202511141530122429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141530122429.pdf)
+
 ## Personnel
 - Regarding opening of separate drawing account in Reserve Bank of India for effective implementation of this scheme MH 439-(ASUMP) (Main Plan) under the centrally sponsored umbrella scheme 3194-Modernisation of Police Force by implementing SNA-SPARSH system.\
   [202511131342538829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131342538829.pdf)

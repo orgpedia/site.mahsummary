@@ -13,6 +13,12 @@
 - Regarding Granting Administrative Approval for the construction of a Cultural Hall in the memory of Punyashlok Ahilya Devi Holkar. (Year 2025-26)( Nanded)\
   [202511131143103320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131143103320.pdf)
 
+- Regarding distribution of funds for development works in the development plan of the pilgrimage site of Shri Sant Sevalal Maharaj, Pohradevi Taluka Manora District Washim.\
+  [202511141024082520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141024082520.pdf)
+
+- Regarding distribution of funds for the development plan works of the pilgrimage site of Umri and Pohradevi, Manora Taluka, Washim District.\
+  [202511141024104720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141024104720.pdf)
+
 ## Miscellaneous
 - Administrative Approval for Construction of 15 Gram Panchayat Buildings in Parbhani District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
   [202511101123340520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511101123340520.pdf)

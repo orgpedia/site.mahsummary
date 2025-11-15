@@ -19,6 +19,12 @@
 - Arrangement for distribution of service report on converted regular (CRT) establishment on water return schemes to Zilla Parishads throughout the year for the financial year 2025-26.  Account Head 22151914 (04)\
   [202511131302246328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131302246328.pdf)
 
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.govare Tal.karad, Dist.satara under the Jal Jeevan Mission program.\
+  [202511141146238528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141146238528.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.warunji, Tal.karad, Dist.satara under the Jal Jeevan Mission program.\
+  [202511141146305928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141146305928.pdf)
+
 ## Miscellaneous
 - Financial Year 2025-26  Regarding distribution of Subsidiary Grant towards Salary and Allowances to Maharashtra Life Authority (Mandatory) (2215A041), 36, Subsidiary Grants (Salary).\
   [202511111510087328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111510087328.pdf)
@@ -38,6 +44,9 @@
 
 - To give revised administrative approval for Mauje Uti Brahmchari, Tq. Sengaon, Dist. Hingoli (7946941) water supply scheme under Jal Jeevan Mission\
   [202511121205286928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121205286928.pdf)
+
+- Regarding granting improved administrative approval to the piped water supply scheme at Mouje.wathar Tal.karad, Dist.satara under the Jal Jeevan Mission program.\
+  [202511141146258928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141146258928.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

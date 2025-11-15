@@ -49,6 +49,21 @@
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs.5.00 crore (Corrigendum)\
   [202511131651021325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131651021325.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs.4.00 crore (Corrigendum)\
+  [202511141606575125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141606575125.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 0.25 crore\
+  [202511141333445025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141333445025.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 2.00 crore\
+  [202511141545222825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141545222825.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 2.00 crore\
+  [202511141543182125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141543182125.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount Rs. 4.00 crore\
+  [202511141336061725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141336061725.pdf)
+
 ## Miscellaneous
 - Regarding Pedestrian Safety, in all the Municipal Corporations regarding action/enforcement...\
   [202511101119477225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511101119477225.pdf)
@@ -61,6 +76,9 @@
 
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 under (Account Head 2217 0913) (State Government Share to be 100) (Corrigendum)\
   [202511131647071025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131647071025.pdf)
+
+- Regarding creation of a large number of posts for the probationary training period of candidates of Maharashtra Urban Administrative Service Chief Officer Group-A and Chief Officer Group-B cadres selected under Combined Probationary Training Program-11.\
+  [202511141547124325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141547124325....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

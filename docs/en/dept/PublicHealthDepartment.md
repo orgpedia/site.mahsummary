@@ -17,5 +17,9 @@
 - Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
   [202511121434303617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121434303617.pdf)
 
+## Personnel
+- Regarding continuation of 53 temporary posts in the establishment of Deputy Director, Health Services, State Public Health Laboratory, Pune.\
+  [202511121729325817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121729325817.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

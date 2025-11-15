@@ -10,5 +10,8 @@
 - Under the Pradhan Mantri Awas Yojana-Gramin Phase-2, the State Government has provided housing to beneficiaries belonging to Scheduled Castes and Scheduled Tribes, Special Backward Classes and Other Backward Classes by the Other Backward Classes Welfare Department regarding opening a new account head for providing additional grant of Rs. 50,000/- in share.\
   [202511121619115734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121619115734.pdf)
 
+- Regarding the establishment of an autonomous institution, Vasantrao Naik Research and Training Institute (VANARTI)...\
+  [202511141253345734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141253345734.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

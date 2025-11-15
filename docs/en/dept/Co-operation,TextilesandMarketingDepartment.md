@@ -11,5 +11,8 @@
 - Regarding opening of separate drawing accounts with Reserve Bank of India for State Linked Schemes (SLSs) to implement the scheme SNA-SPARSH for computerization of the offices of Registrar-Cooperative Societies of Centrally Sponsored States on an alternative fund flow mechanism.\
   [202511131510158202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131510158202.pdf)
 
+- Regarding opening of separate drawing accounts with Reserve Bank of India for State Linked Schemes (SLSs) to onboard the scheme for computerization of Centrally Sponsored Primary Agricultural Credit Cooperative Societies on the alternative fund flow mechanism SNA-SPARSH.....\
+  [202511141526049102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141526049102.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
