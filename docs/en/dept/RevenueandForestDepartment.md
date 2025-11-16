@@ -585,5 +585,101 @@
 - Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
   [202511142024005719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142024005719.pdf)
 
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142131591219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142131591219.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208184519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208184519.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142132305319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142132305319.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142146042319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142146042319.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145560919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145560919.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145486619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145486619.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208411619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208411619.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142132257419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142132257419.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142146181619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142146181619.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145412219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145412219.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208141519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208141519.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208321919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208321919.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145259319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145259319.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145200819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145200819.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145305519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145305519.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208227919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208227919.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142132092319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142132092319.pdf)
+
+- Posting of officers in the Tehsildar cadre\
+  [202511142253576419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142253576419.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208364119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208364119.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142253512419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142253512419.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142253410919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142253410919.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142132188119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142132188119.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142132044319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142132044319.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142131423219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142131423219.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208092519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208092519.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208042519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208042519.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142145359319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142145359319.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142132142219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142132142219.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142146129819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142146129819.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208278919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208278919.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142131475619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142131475619.pdf)
+
+- Selection List Regarding ad hoc promotion and posting to the Tahsildar cadre on a purely temporary basis to eligible officers in the Naib Tehsildar cadre in the year 2025-2026....\
+  [202511142208454219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511142208454219.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
