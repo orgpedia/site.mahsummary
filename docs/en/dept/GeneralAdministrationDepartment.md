@@ -35,6 +35,9 @@
 - Regarding providing residential telephones to the Hon. Chairman and Hon. Members of the Maharashtra Administrative Tribunal Office.\
   [202511131442152507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131442152507.pdf)
 
+- Regarding the appointment of the Chairperson and other positions on the Late Shri Balasaheb Thackeray National Memorial Public Trust\
+  [202511152007241207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511152007241207.pdf)
+
 ## Personnel
 - Seniority List Final seniority list of officers in the cadre of Senior Assistant Director (Information)/District Information Officer/Senior Deputy Editor/Public Relations Officer, Group-A (Junior) as on 01.01.2025.\
   [202511121119294107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121119294107.pdf)
