@@ -1,25 +1,18 @@
 # Public Health Department
 
-**Date Range**: 17 November 2025 - 22 November 2025
+**Date Range**: 24 November 2025 - 29 November 2025
 
 
 ## Funds
-- Regarding administrative approval for the expenditure incurred for the training session in accordance with the Memorandum of Understanding signed with IoFC Panchgani Satara for enhancing the knowledge and skills of officers and employees of various cadres under the Public Health Department of the state...\
-  [202511101749414917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511101749414917.pdf)
+- Fund Distribution Year 2025-2026 Regarding distribution of funds under the account head 2210 G 449 (General) 20-Other Administrative Expenditure for the centrally sponsored scheme Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (40 percent state share).. Corrigendum\
+  [202511171137289617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171137289617.pdf)
 
-- Regarding distribution of honorarium to ASHA volunteers and group promoters for the period from November, 2025 to March, 2026 from the provision approved by the budgetary and supplementary demand under Account Head 2210H015, 31- Subsidiary Grants (Non-Salary) in the financial year 2025-26 under the Centrally Sponsored National Health Mission.\
-  [202511121526167217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121526167217.pdf)
-
-- Regarding provision of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (30 percent payment amount for May, 2025 to July, 2025)\
-  [202511131601370717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131601370717.pdf)
+- Regarding the disbursement of funds approved through supplementary demand in the second session of the Legislative Assembly 2025 under the objective of Account Head 2210 0119, 31 Subsidiary Grants (Non-Salary) to pay the amount of the ambulance purchased by writing off for the health institutions in the state.\
+  [202511171240347917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171240347917.pdf)
 
 ## Miscellaneous
-- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre. . .\
-  [202511121434303617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121434303617.pdf)
-
-## Personnel
-- Regarding continuation of 53 temporary posts in the establishment of Deputy Director, Health Services, State Public Health Laboratory, Pune.\
-  [202511121729325817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121729325817.pdf)
+- Regarding constitution of committee for inclusion of contractual employees working in the state under regular posts under Rashtriya Arogya Abhiyaan\
+  [202511171711089017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171711089017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

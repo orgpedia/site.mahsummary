@@ -1,11 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 17 November 2025 - 22 November 2025
+**Date Range**: 24 November 2025 - 29 November 2025
 
 
 ## Funds
-- Regarding the distribution of Central Share and equivalent State Share funds approved by the Central Government through Mother Sanction for the implementation of the Centrally Sponsored Pradhan Mantri Jan Vikas Kayram scheme through the SNA-SPARSH fund distribution mechanism.\
-  [202511121747258014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121747258014.pdf)
+- Regarding distribution of second phase grant (Central share  State share) through SNA-SPARSH system for construction of Study Centre in Jalna city, Jalna district under the centrally sponsored Pradhan Mantri Jan Vikas Yojana.\
+  [202511171327454114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171327454114.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

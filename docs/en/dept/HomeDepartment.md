@@ -1,34 +1,25 @@
 # Home Department
 
-**Date Range**: 17 November 2025 - 22 November 2025
+**Date Range**: 24 November 2025 - 29 November 2025
 
 
 ## Funds
-- Maharashtra State, regarding approval to pay a fund of Rs. 2,16,45,168 /- as rent payment for the period April-2025 to October-2025 for a total area of 10469 sq. ft. at World Trade Center, Cuffe Parade, Mumbai for Cyber Office.\
-  [202511111516446029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111516446029.pdf)
-
-- Regarding the disbursement of funds from Account Head 20550168- 27 Minor Constructions for the repair work of Railway Police Colony at Ghatkopar East on the premises of the Commissioner of Police, Railways, Mumbai in the current financial year...\
-  [202511131446559129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131446559129.pdf)
+- Regarding granting administrative and financial approval to the cost estimate for various works of building repair and renovation of the office of the Motor Accident Claims Tribunal, Mumbai and the State Appellate Tribunal, Mumbai.\
+  [202511171513332129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171513332129.pdf)
 
 ## Miscellaneous
-- Regarding approval to pay salaries for the period from August 2025 and onwards to the employees appointed on contract (through external mechanisms) working in Ratnagiri and Sindhudurg Civil Defence Offices.\
-  [202511111528066229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111528066229.pdf)
+- Regarding assignment of additional charge of posts in the gazetted cadre of the Prison Department.\
+  [202511171443250129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171443250129.pdf)
 
-- Regarding the declaration of Controlling Officer and Drawing and Disbursing Officer for withdrawing payments from Cyber Treasury under the SNA-SPARSH system for this scheme MH 439- (ASUMP) (Main Plan) under the umbrella scheme of the Centrally Sponsored 3194-Modernisation of Police Force.\
-  [202511131340447329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131340447329.pdf)
+- Regarding creation of thirteen supernumerary posts of Assistant Superintendent of Police-I.P.S 77th RR Batch.\
+  [202511171632090829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171632090829....pdf)
 
-- The integration of the MedLEaPR portal with the police departments CCTNS system and making its use mandatory.\
-  [202511131135004929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131135004929.pdf)
-
-- Regarding implementation of old pension scheme to 28 officers/employees working at the establishment of Directorate of Forensic Science Laboratories, Mumbai.\
-  [202511141530122429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511141530122429.pdf)
+- Regarding amendment in the government decision to withdraw pending cases in political and social movements.\
+  [202511171257060429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171257060429.pdf)
 
 ## Personnel
-- Regarding opening of separate drawing account in Reserve Bank of India for effective implementation of this scheme MH 439-(ASUMP) (Main Plan) under the centrally sponsored umbrella scheme 3194-Modernisation of Police Force by implementing SNA-SPARSH system.\
-  [202511131342538829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131342538829.pdf)
-
-- Regarding the posting of I.P.S. officers.\
-  [202511131824408329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131824408329...pdf)
+- Regarding the transfer of the Nashik Road Central Jail site for the construction of an 18-meter wide road and railway underpass in the development plan of the Nashik Municipal Corporation...\
+  [202511171446287529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171446287529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
