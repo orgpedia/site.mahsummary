@@ -11,5 +11,12 @@
 - Regarding the formation of a Governing Board and Executive Committee in accordance with the Memorandum of Understanding (MoU) signed between the Department of Agriculture and MSSRF.\
   [202511171758505901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171758505901.pdf)
 
+## Personnel
+- Regarding purely temporary promotion from Maharashtra Agricultural Service Group-A, Deputy Director of Agriculture cadre to Maharashtra Agricultural Service Group-A, Superintendent Agriculture Officer cadre.\
+  [202511181629105901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181629105901.pdf)
+
+- Regarding purely temporary promotion from Maharashtra Agricultural Service, Group-A, Superintendent Agricultural Officer cadre to Maharashtra Agricultural Service, Group-A, Joint Director of Agriculture cadre.\
+  [202511181626332001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181626332001.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
