@@ -7,6 +7,9 @@
 - Regarding granting administrative approval to the civic facility works in the flood-rehabilitated villages in Biloli taluka of Nanded district.\
   [202511171738221919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171738221919.pdf)
 
+- Regarding provision of funds for Technical Training Program of Naib Tehsildar Group-B under Combined Probationary Training Program (CPTP-9)...\
+  [202511191206458019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191206458019.pdf)
+
 ## Miscellaneous
 - Regarding establishment of Additional Tehsil Office at Mhaswad in Man taluka of Satara district.\
   [202511171253071719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171253071719.pdf)
@@ -20,6 +23,9 @@
 
 - Regarding granting administrative approval for civic facility works in villages rehabilitated due to floods in Degalur taluka of Nanded district.\
   [202511171815508119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171815508119.pdf)
+
+- Regarding deputation of officers in the Deputy Collector cadre...\
+  [202511191502218419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191502218419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

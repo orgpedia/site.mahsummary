@@ -22,5 +22,12 @@
 - Regarding change in the name and address of the college implementing short-term vocational oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26 and approval to implement new courses in the affiliated educational institution. (Sindhu Educational Social Multipurpose Institute, Nandgaon, Nashik)\
   [202511171830593208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171830593208.pdf)
 
+- Regarding approval to start short-term vocational diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Sahyadri Institute of Fire Engineering and Safety Management of Gautami Gaurav Foundation, Nashik)\
+  [202511181821243008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181821243008....pdf)
+
+## Personnel
+- Transfer- Year 2025  Government Engineering Colleges/ Government Pharmacy Colleges\
+  [202511191744320408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191744320408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

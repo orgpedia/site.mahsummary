@@ -10,6 +10,31 @@
 - Regarding the distribution of funds for the scheme of electricity bill concession to agricultural pump customers in the financial year 2025-26. (Account Head 28015661)\
   [202511181445399022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181445399022.pdf)
 
+- Regarding sanction of Managerial Grant (36-Subsidiary Grants - Salary) for the financial year 2025-26 to the Sahitya Ratna Demokratir Anna Bhau Sathe Development Corporation, Mumbai.\
+  [202511191159082622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191159082622.pdf)
+
+- Regarding sanction of Managerial Grant (36-Subsidiary Grants-Salary) to Mahatma Phule Backward Classes Development Corporation for the financial year 2025-26.\
+  [202511191154570522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191154570522.pdf)
+
+- Sant Rohidas Tannery and Tanner Development Corporation Marya. Regarding sanction of Managerial Grant (36-Subsidiary Grants-Salary) to the Corporation, Mumbai for the financial year 2025-26.\
+  [202511191202009122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191202009122.pdf)
+
+## Miscellaneous
+- Regarding granting administrative approval to the estimate for construction of residences for teachers/non-teaching staff working in government residential schools operating in the state for children of Scheduled Castes and Neo-Buddhists under the Social Justice and Special Assistance Department. (Chhatrapati Sambhajinagar Regional Division)\
+  [202511191716299322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191716299322.pdf)
+
+- Regarding granting administrative approval to the estimate for construction of residences for teachers/non-teaching staff working in government residential schools functioning in the state for children of Scheduled Castes and Neo-Buddhists under the Department of Social Justice and Special Assistance. (Nagpur Regional Division)\
+  [202511191713030822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191713030822.pdf)
+
+- Regarding granting administrative approval to the estimate for construction of residences for teachers/non-teaching staff working in government residential schools functioning in the state for children of Scheduled Castes and Neo-Buddhists under the Social Justice and Special Assistance Department. (Latur Regional Division)\
+  [202511191718441922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191718441922.pdf)
+
+- Regarding granting administrative approval to the estimate for construction of residences for teachers/non-teaching staff working in government residential schools functioning in the state for children of Scheduled Castes and Neo-Buddhists under the Department of Social Justice and Special Assistance. (Nashik Regional Division)\
+  [202511191711011122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191711011122.pdf)
+
+- Regarding granting administrative approval to the estimate for construction of residences for teachers/non-teaching staff working in government residential schools operating in the state for children of Scheduled Castes and Neo-Buddhists under the Social Justice and Special Assistance Department. Amravati Division\
+  [202511191714078522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191714078522.pdf)
+
 ## Personnel
 - On the occasion of completion of 75 years of Constitution of India Constitution Amrit Mahotsav under the program Ghar Ghar Constitution from 26 November 2025 to Regarding organizing various activities during 26th January 2026...\
   [202511181439126022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181439126022.pdf)

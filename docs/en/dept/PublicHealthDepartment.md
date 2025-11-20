@@ -14,5 +14,18 @@
 - Regarding constitution of committee for inclusion of contractual employees working in the state under regular posts under Rashtriya Arogya Abhiyaan\
   [202511171711089017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171711089017.pdf)
 
+- To disburse funds approved by supplemental requisition in the Second Session of the Legislature in 2025 under the purpose of item 2210 0119, 31 Subsidiary Grants (Non-Salary) to pay for the purchase of ambulances prescribed and purchased for health institutions in the State.\
+  [202511190933500617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511190933500617.pdf)
+
+## Personnel
+- Regarding the formation of a permanent Assurance Fulfillment Committee under the chairmanship of the Secretary for the fulfillment of pending assurances.\
+  [202511181158409617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181158409617.pdf)
+
+- Regarding continuation of 42 temporary posts in the establishment of Womens Hospital, Gadchiroli under Deputy Director, Health Services, Nagpur.\
+  [202511181613007317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181613007317.pdf)
+
+- Regarding continuation of 158 temporary posts in the various health institutions under Deputy Director, Health Services, Mumbai Circle, Thane.\
+  [202511181613032317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181613032317.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

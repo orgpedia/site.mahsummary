@@ -1,27 +1,15 @@
 # Tribal Development Department
 
-**Date Range**: 17 November 2025 - 22 November 2025
+**Date Range**: 24 November 2025 - 29 November 2025
 
 
 ## Funds
-- Regarding distribution of funds under the Ashram School Group scheme for the financial year 2025-26 under the Tribal Component Programme. (Account Head 2225 D 734 -19 Food Expenses)\
-  [202511121158348824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121158348824.pdf)
-
-- Regarding the distribution of funds for the year 2025-26 for the scheme to provide training for various competitive examinations/qualifying examinations for admission to foreign universities/training in foreign languages to Scheduled Tribe students.\
-  [202511121431544224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121431544224....pdf)
-
-- Funds distributed under the scheme for maintenance and repair of government ashram schools in the financial year 2025-26 under the Tribal Component Program\
-  [202511131441559324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131441559324.pdf)
+- To release grant for the scheme of committed expenditure schemes under the TSP in financial year 2025-26.\
+  [202511191244479024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191244479024.pdf)
 
 ## Miscellaneous
-- Regarding the declaration of Drawing and Disbursing Officers and Controlling Officers....\
-  [202511111040377724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511111040377724.pdf)
-
-- Procedure for admissibility of family pension and death gratuity to the family of an employee under the Defined Contribution Pension Scheme/National Pension System in case of death during the service period and sickness pension and retirement gratuity to the employees who have retired on sickness and retirement gratuity to the employees who retire from Government service.\
-  [202511121513341024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511121513341024.pdf)
-
-- Regarding the restructure n of the district level committee and sub-committee  under the Landless Below Poverty Line Tribals Sabalikaran and Swabhiman Yojana.\
-  [202511131726462724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131726462724.pdf)
+- Regarding provision of technical manpower for the year 2025-26 from Maharashtra Information Technology Corporation (MahaIT) for the Ashram Shalarth system.\
+  [202511191739401324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191739401324.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

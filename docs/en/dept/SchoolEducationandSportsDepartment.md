@@ -17,5 +17,11 @@
 - Regarding approval of the expenditure incurred by the Maharashtra team for participation in the All India Civil Services Yoga Competition, 2024-25 to be held at Chandigarh from 05th to 08th March, 2025.\
   [202511171552021021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171552021021.pdf)
 
+- Regarding effective implementation of E-office under 150 days action program.\
+  [202511191653005821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191653005821.pdf)
+
+- Regarding opening of new heading Constructions for offices of National Cadet Corps and Sports Directorate\
+  [202511191441254021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191441254021.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
