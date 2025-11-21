@@ -22,6 +22,12 @@
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Bhiwandi Nizampur City Municipal Corporation, Dist. Thane, an amount of Rs. 2.00 crore\
   [202511191558494825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191558494825.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Pune Municipal Corporation, Dist. Pune Amount Rs. 25.00 crore\
+  [202511201249126825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201249126825.pdf)
+
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Pune Municipal Corporation, Dist. Pune Amount Rs. 10.00 crore\
+  [202511201251529225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201251529225.pdf)
+
 ## Miscellaneous
 - Regarding issuing instructions for eviction/regularization of encroachments on government lands in small and medium cities.\
   [202511191341277225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191341277225.pdf)

@@ -44,6 +44,30 @@
 - Corrigendum to the consolidated state-level final seniority list dated 01.01.2025 of Junior Engineers in District Technical Service, Class-3 (Construction) cadre in Zilla Parishad.\
   [202511191500199420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191500199420.pdf)
 
+- Regarding the inclusion of non-plan roads in Mukhed Taluka (Dist-Nanded)  as a Village Road in the Road Development Plan 2001-21.\
+  [202511201102348620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201102348620.pdf)
+
+- Administrative Approval for Construction of 03 Gram Panchayat Buildings in Beed  District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511201102235720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201102235720.pdf)
+
+- Administrative Approval for Construction of 05 Gram Panchayat Buildings in Akola District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511201102176420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201102176420.pdf)
+
+- Administrative Approval for Construction of 15 Gram Panchayat Buildings in Sindhudurg District under Hon.Balasaheb Thakare Smruti Matoshri Yojana.\
+  [202511201102292320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201102292320.pdf)
+
+- Regarding the announcement of the State Level Gram Sevak/Gram Vikas Adhikari Awards for the year 2020-21 and 2021-22.\
+  [202511201752599320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201752599320.pdf)
+
+- Regarding the inclusion of non-plan roads in Kamptee Taluka (Dist-Nagpur)  as a Village Road in the Road Development Plan 2001-21.\
+  [202511201102398120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201102398120.pdf)
+
+- Regarding the inspection of works which is carried out by the State Quality Inspector (SQM) / Senior State Quality Inspector (SSQM) appointed for quality monitoring under the Pradhan Mantri / Mukhyamantri Gram Sadak Yojana.\
+  [202511201427287820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201427287820.pdf)
+
+- Regarding granting administrative approval for the construction of a new administrative building of Panchayat Samiti patur Dist.Akola\
+  [202511191827593620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191827593620.pdf)
+
 ## Personnel
 - Regarding approval to continue the temporary posts created for the work of the program budget of the District Councils from 1 September, 2025 to 28 February, 2026.\
   [202511181218246220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181218246220.pdf)

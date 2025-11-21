@@ -10,6 +10,9 @@
 - On the occasion of Ashadhi Vari, giving administrative approval and financial approval for organizing Chitrarath exhibition and cultural program on both palanquin routes from Dehu to Pandharpur and Alandi to Pandharpur.\
   [202511191311434823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191311434823.pdf)
 
+- Granting financial approval for organizing the 60th and 61st Maharashtra State Marathi Film Awards.\
+  [202511201144199423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201144199423.pdf)
+
 ## Miscellaneous
 - Regarding granting the status of B class tourist site to Shri Bhavani Mata Tourist Site, Pardi, Punapur Road, Taluka, Dist. Nagpur.\
   [202511191616300223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191616300223.pdf)

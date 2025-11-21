@@ -1,11 +1,15 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 17 November 2025 - 22 November 2025
+**Date Range**: 24 November 2025 - 29 November 2025
 
 
 ## Miscellaneous
-- Regarding the formation of a committee to draft rules/guidelines for monitoring/supervision of direct selling companies in the state.\
-  [202511131215224606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511131215224606.pdf)
+- Regarding revival of posts in Peon (Group-D) cadre for compassionate appointment at the establishment of Supply Office in the Regional Supply System.\
+  [202511201621264206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201621264206.pdf)
+
+## Personnel
+- Regarding the Milling and rice fortification of paddy purchased in the marketing season 2025-26.\
+  [202511201815587506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201815587506.........pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

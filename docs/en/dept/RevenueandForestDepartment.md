@@ -27,5 +27,11 @@
 - Regarding deputation of officers in the Deputy Collector cadre...\
   [202511191502218419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191502218419.pdf)
 
+- Regarding the formation of a permanent Promise Fulfillment Committee under the chairmanship of the Secretary to fulfill the promises and other parliamentary mandates pending in the department and to settle the promises from time to time.\
+  [202511201511314019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201511314019.pdf)
+
+- Policy regarding renting out government open spaces/grounds as well as open spaces on government land given to government/semi-government institutions/corporations and private organizations for various temporary purposes, excluding Mumbai city and Mumbai suburban districts\
+  [202511201754394619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201754394619.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

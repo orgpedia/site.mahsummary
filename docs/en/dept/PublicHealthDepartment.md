@@ -27,5 +27,8 @@
 - Regarding continuation of 158 temporary posts in the various health institutions under Deputy Director, Health Services, Mumbai Circle, Thane.\
   [202511181613032317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181613032317.pdf)
 
+- Regarding declaring Administrative Officers at five regional mental hospitals under the Public Health Department as Virtual Personal Deposit Account Administrators (VPDAA).\
+  [202511201243169317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201243169317.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

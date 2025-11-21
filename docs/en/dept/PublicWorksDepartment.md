@@ -13,5 +13,9 @@
 - Interim Application No. 29119/2025 in Public Interest Litigation No. 71/2013 filed in the Honble High Court, Mumbai Regarding the formation of a committee to provide compensation for accidents/deaths caused by potholes on the roads as per the directions given by the Honble High Court in 2018.\
   [202511191511202818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191511202818.pdf)
 
+## Personnel
+- Temporary seniority-wise list of engineers working in the Junior Engineer (Civil) Disabled category as on 01.01.2022 in the Junior Engineer (Civil) cadre of the Public Works Department.\
+  [202511201522054018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201522054018.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -44,6 +44,15 @@
 - Regarding the formation of a committee to examine proposals on technical matters related to information technology.\
   [202511181921239707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181921239707.pdf)
 
+- Honble Supreme Court in Civil Appeal No. 8928/2015 and other petitions dated July 6, 2017 regarding extension of appointment to majority of posts in Directorate General of Information and Public Relations where caste certificate of Scheduled Tribes has been declared invalid- (Corrigendum)\
+  [202511201749271407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201749271407.pdf)
+
+- Regarding regular dates for the post of Joint Secretary on Select List 2022-23\
+  [202511201656251807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201656251807......pdf)
+
+- Regarding regular dates for the post of Joint Secretary on Select List 2024-25\
+  [202511201659371707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201659371707.pdf)
+
 ## Personnel
 - Regarding the revision of the posting after ad hoc promotion to the post of Section Officer Shri.Tejas Baban Jadhav\
   [202511191527036707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191527036707....pdf)
@@ -53,6 +62,9 @@
 
 - Regarding the revision of the posting after ad hoc promotion to the post of Section Officer Shrimat Snehal Vidyasagar Savadati\
   [202511191529497907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191529497907....pdf)
+
+- Consolidation of all circulars issued from July 27, 2015 to August 20, 2021 regarding the treatment of members of the Legislature/Parliament with respect and courtesy - Regarding the issuance of revised, comprehensive guidelines.\
+  [202511201612035707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201612035707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

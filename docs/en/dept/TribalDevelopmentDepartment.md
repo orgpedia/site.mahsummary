@@ -11,5 +11,9 @@
 - Regarding provision of technical manpower for the year 2025-26 from Maharashtra Information Technology Corporation (MahaIT) for the Ashram Shalarth system.\
   [202511191739401324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191739401324.pdf)
 
+## Personnel
+- Regarding revised staffing pattern of Maharashtra State Cooperative Tribal Development Corporation Limited, Nashik\
+  [202511201339345424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201339345424.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
