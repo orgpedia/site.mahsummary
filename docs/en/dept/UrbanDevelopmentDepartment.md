@@ -28,6 +28,12 @@
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Pune Municipal Corporation, Dist. Pune Amount Rs. 10.00 crore\
   [202511201251529225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201251529225.pdf)
 
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Kalyan Dombivli Municipal Corporation, Dist. Thane, an amount of Rs. 20.00 crore\
+  [202511211751155825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211751155825.pdf)
+
+- Regarding sanction of funds for providing notified specific civic services and facilities within the area of Urban Local Self Government Institutions. Under Account Head 3604 1018 For Savali Nagar Panchayat, Dist. Chandrapur Amount Rs. 15.00 Crore\
+  [202511211758277825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211758277825.pdf)
+
 ## Miscellaneous
 - Regarding issuing instructions for eviction/regularization of encroachments on government lands in small and medium cities.\
   [202511191341277225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191341277225.pdf)

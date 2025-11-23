@@ -13,6 +13,9 @@
 - Regarding approval of payment of Milestone 1, 2 and 3 of the work of installing cameras in Ghats, Hills, Mountains and Uninhabited Places of Police Commissionerate, Pune City CCTV Project Phase-2 of System Integrator M/s. Allied Digital Services Ltd. Mumbai for a total amount of Rs. 7,89,15,591/-.\
   [202511201215242529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201215242529.pdf)
 
+- Regarding distribution of funds for the e-challan project.\
+  [202511211836528629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211836528629.pdf)
+
 ## Miscellaneous
 - Regarding assignment of additional charge of posts in the gazetted cadre of the Prison Department.\
   [202511171443250129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171443250129.pdf)

@@ -13,6 +13,9 @@
 - (Regarding the formation of a Project Implementation Committee (PIC) under the General Administration Department for the effective implementation of the e-Governance Policy (IT Policy)-2011.\
   [202511181622389207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181622389207.pdf)
 
+- Regarding distribution of funds to Maharashtra Airport Development Company for the development of airports in the state.\
+  [202511211805088607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211805088607.pdf)
+
 ## Miscellaneous
 - Regarding the expansion of the Protocol Sub-Department under the General Administration Department and its designation as Secretary (Protocol, Foreign Direct Investment, Overseas Citizens Affairs and Liaison) and the approval of new posts by creating three new offices...\
   [202511171318413807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171318413807.pdf)
@@ -53,6 +56,12 @@
 - Regarding regular dates for the post of Joint Secretary on Select List 2024-25\
   [202511201659371707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201659371707.pdf)
 
+- Regarding administrative and financial approval of the expenditure on wreaths and flowers provided for the birth anniversaries and National Days of national heroes/great personalities during the period 05/09/2024 to 23.03.2025.\
+  [202511211719413907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211719413907.pdf)
+
+- Regarding allotment of office space to the Secretary and Protocol Officer, General Administration Department and A.M.S. (S.B.V.).\
+  [202511211801460907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211801460907.pdf)
+
 ## Personnel
 - Regarding the revision of the posting after ad hoc promotion to the post of Section Officer Shri.Tejas Baban Jadhav\
   [202511191527036707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191527036707....pdf)
@@ -65,6 +74,9 @@
 
 - Consolidation of all circulars issued from July 27, 2015 to August 20, 2021 regarding the treatment of members of the Legislature/Parliament with respect and courtesy - Regarding the issuance of revised, comprehensive guidelines.\
   [202511201612035707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201612035707.pdf)
+
+- Filling the post of deputation basis\
+  [202511211611149107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211611149107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

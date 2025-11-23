@@ -22,6 +22,9 @@
 - Regarding distribution of Subsidiary Grants Account Head 31 Subsidiary Grants (2225G279) (Non-Salary) to Sant Rohidas Leather Industries and Leatherworkers Development Corporation Limited, Mumbai.\
   [202511201543356222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201543356222.pdf)
 
+- Regarding the distribution of funds sanctioned by the Central Government as Mother Sanction for the implementation of the Centrally Sponsored Scheme of Pradhan Mantri Scheduled Caste Abhyudaya Yojana (PM-AJAY) through SNA-SPARSH fund flow mechanism...\
+  [202511211214332222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211214332222.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to the estimate for construction of residences for teachers/non-teaching staff working in government residential schools operating in the state for children of Scheduled Castes and Neo-Buddhists under the Social Justice and Special Assistance Department. (Chhatrapati Sambhajinagar Regional Division)\
   [202511191716299322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191716299322.pdf)

@@ -25,6 +25,9 @@
 - Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme B Class Shri Bhaveshwari Temple, Village Linganur Kapshi, Tal. Kagal, Dist. Kolhapur Regarding distribution of remaining funds of completed works at this pilgrimage site.\
   [202511191109573320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191109573320.pdf)
 
+- According Administrative Approval to construction of Residential Quarters Type I to III for Panchayat samiti basmat District:- Hingoli\
+  [202511201526300020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201526300020.pdf)
+
 ## Miscellaneous
 - Regarding the granting of administrative approval for the expenditure incurred for the development and maintenance of a mobile application for Geo-tagging in the Single Unified Portal\
   [202511171108419420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171108419420.pdf)
@@ -67,6 +70,9 @@
 
 - Regarding granting administrative approval for the construction of a new administrative building of Panchayat Samiti patur Dist.Akola\
   [202511191827593620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191827593620.pdf)
+
+- According Administrative Approval to construction of Residential Quarters Type I to IV for Panchayat samiti Ausa District:- Latur\
+  [202511201526228720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201526228720.pdf)
 
 ## Personnel
 - Regarding approval to continue the temporary posts created for the work of the program budget of the District Councils from 1 September, 2025 to 28 February, 2026.\

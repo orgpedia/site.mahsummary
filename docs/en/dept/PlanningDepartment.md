@@ -27,5 +27,8 @@
 - Regarding the formation of a permanent Assurance Fulfillment Committee under the chairmanship of the Secretary for the fulfillment of pending assurances.\
   [202511191723450516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191723450516....pdf)
 
+- Regarding the transfer of Deputy Director, Group-A cadre officers in the Directorate of Finance and Statistics on administrative grounds...\
+  [202511211703353016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211703353016.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

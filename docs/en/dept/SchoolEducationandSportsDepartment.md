@@ -39,5 +39,11 @@
 - Regarding the publication of the final seniority list of the posts of Assistant Educational Officer and similar posts in Maharashtra Education Service, Group-B (Administration Branch) cadre from 01.01.2024 to 31.12.2024 i.e. up to 01.01.2025.\
   [202511201445423021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201445423021.pdf)
 
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202511211919438521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211919438521.pdf)
+
+- Regarding declaration of the implementing agencies in the SNA SPARSH process of the centrally sponsored Ullas Nav Bharat Literacy Program as authorized officers for independent e-signature.\
+  [202511211834212321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211834212321.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
