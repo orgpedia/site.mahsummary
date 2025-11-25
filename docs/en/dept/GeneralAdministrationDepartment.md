@@ -1,82 +1,27 @@
 # General Administration Department
 
-**Date Range**: 24 November 2025 - 29 November 2025
+**Date Range**: 01 December 2025 - 06 December 2025
 
-
-## Funds
-- Regarding granting administrative and financial approval for the development work of Akola Airport.\
-  [202511171332365507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171332365507.pdf)
-
-- Regarding granting second revised administrative and financial approval for the development of Kolhapur Airport.\
-  [202511171335268807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171335268807.pdf)
-
-- (Regarding the formation of a Project Implementation Committee (PIC) under the General Administration Department for the effective implementation of the e-Governance Policy (IT Policy)-2011.\
-  [202511181622389207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181622389207.pdf)
-
-- Regarding distribution of funds to Maharashtra Airport Development Company for the development of airports in the state.\
-  [202511211805088607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211805088607.pdf)
 
 ## Miscellaneous
-- Regarding the expansion of the Protocol Sub-Department under the General Administration Department and its designation as Secretary (Protocol, Foreign Direct Investment, Overseas Citizens Affairs and Liaison) and the approval of new posts by creating three new offices...\
-  [202511171318413807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171318413807.pdf)
+- Regarding filling up the posts on Deputation Basis (Regional Divisional Enquiry Office)\
+  [202511241605316107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241605316107....pdf)
 
-- Regarding reservation of space in Trimurti courtyard at the Ministry main building (ground floor) for various programs.\
-  [202511171625064407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171625064407.pdf)
+- Regarding payment of remuneration/honour, overtime allowance/election allowance etc. to officers/employees appointed in connection with general/by-elections to Lok Sabha/Assembly - Revised rates.\
+  [202511241655340207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241655340207.pdf)
 
-- Regarding inclusion in the seniority list of Higher Grade Stenographer who have been promoted to the post of Higher Grade Stenographer as per reservation for the disabled.\
-  [202511171527191607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511171527191607.pdf)
+- Regarding the increase in the fees charged for food and accommodation arrangements from students admitted to the Pre-Service Military Education Institute, Chhatrapati Sambhajinagar, as well as the food concession provided by the government per student.\
+  [202511241134258407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241134258407.pdf)
 
-- Dismissal of Taluka Takrar Nivaran Samiti\
-  [202511191108169207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191108169207.pdf)
-
-- Reorganisation of Divisional Bhrastachar Nirmulan Samiti\
-  [202511191104174107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191104174107.pdf)
-
-- Regarding promotion to the post of Assistant Section Officer to eligible disabled employees in the Clerk Cum Typist cadre in the Mantralaya administrative department. (Additional Select List Year- Dt. 30.06.2016 to 30.08.2016  and 2016-17)\
-  [202511191434186007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191434186007.pdf)
-
-- Section Officer Departmental Exam - 2024 Recount Result\
-  [202511181155458207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181155458207.pdf)
-
-- About declaring a local holiday on the occasion of Dr. Babasaheb Ambedkar Mahaparinirwan Din\
-  [202511191223002607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191223002607.pdf)
-
-- Appointment Order of Regional Departmental Inquiry Officer, Nagpur division, Nagpur\
-  [202511191455497407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191455497407.pdf)
-
-- Regarding the formation of a committee to examine proposals on technical matters related to information technology.\
-  [202511181921239707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181921239707.pdf)
-
-- Honble Supreme Court in Civil Appeal No. 8928/2015 and other petitions dated July 6, 2017 regarding extension of appointment to majority of posts in Directorate General of Information and Public Relations where caste certificate of Scheduled Tribes has been declared invalid- (Corrigendum)\
-  [202511201749271407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201749271407.pdf)
-
-- Regarding regular dates for the post of Joint Secretary on Select List 2022-23\
-  [202511201656251807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201656251807......pdf)
-
-- Regarding regular dates for the post of Joint Secretary on Select List 2024-25\
-  [202511201659371707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201659371707.pdf)
-
-- Regarding administrative and financial approval of the expenditure on wreaths and flowers provided for the birth anniversaries and National Days of national heroes/great personalities during the period 05/09/2024 to 23.03.2025.\
-  [202511211719413907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211719413907.pdf)
-
-- Regarding allotment of office space to the Secretary and Protocol Officer, General Administration Department and A.M.S. (S.B.V.).\
-  [202511211801460907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211801460907.pdf)
+- Regarding the formation of a new Project Monitoring  Implementation Committee (PMIC) to approve the Request for Proposal (RFP), Concession Document (CD) etc. documents of airports being developed by the state government including Dr. Babasaheb Ambedkar International Airport Nagpur (MIHAN).\
+  [202511241435131807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241435131807....pdf)
 
 ## Personnel
-- Regarding the revision of the posting after ad hoc promotion to the post of Section Officer Shri.Tejas Baban Jadhav\
-  [202511191527036707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191527036707....pdf)
+- Regarding transfer of officers and employees in ministerial departments\
+  [202511241602413807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241602413807.pdf)
 
-- Adhoc promotion to the post of Under Secretary.\
-  [202511191553035607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191553035607.pdf)
-
-- Regarding the revision of the posting after ad hoc promotion to the post of Section Officer Shrimat Snehal Vidyasagar Savadati\
-  [202511191529497907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511191529497907....pdf)
-
-- Consolidation of all circulars issued from July 27, 2015 to August 20, 2021 regarding the treatment of members of the Legislature/Parliament with respect and courtesy - Regarding the issuance of revised, comprehensive guidelines.\
-  [202511201612035707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201612035707.pdf)
-
-- Filling the post of deputation basis\
-  [202511211611149107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211611149107.pdf)
+- Regarding temporary regular promotion to the post of Deputy Director (Information), Group-A (Senior).\
+  [202511241723100607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241723100607.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
