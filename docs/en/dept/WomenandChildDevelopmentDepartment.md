@@ -1,28 +1,25 @@
 # Women and Child Development Department
 
-**Date Range**: 24 November 2025 - 29 November 2025
+**Date Range**: 01 December 2025 - 06 December 2025
 
 
 ## Funds
-- Regarding the distribution of funds on SNA Sparsh for the year 2025-26 under the centrally sponsored Shakti Sadan scheme.\
-  [202511201825263130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201825263130.pdf)
+- Regarding the distribution of funds for payment of salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2025-26.\
+  [202511251441570430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251441570430.pdf)
 
-- Grant Release for Mazi Kanya Bhagyashree (Revised) Scheme for FY 2025-26\
-  [202511211050047330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211050047330.pdf)
+- Regarding the distribution of funds sanctioned by the Central Government for the  implementation of the Pradhan Mantri Matru Vandana Yojana (PMMVY) scheme under the centrally sponsored Mission Shakti program through the SNA-SPARSH fund flow mechanism. (General Category)\
+  [202511251355095830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251355095830.pdf)
 
-- Distribution of funds for Sanugrah Assistance in case of accidental death of Anganwadi workers and helpers working under the Integrated Child Development Service Scheme.\
-  [202511211050188430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211050188430.pdf)
+- Release of funds for Committed Expenses of Women and Child Development   Department for financial year 2025-26\
+  [202511251431340130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251431340130.pdf)
 
 ## Miscellaneous
-- Regarding cancellation of the recognition of Shakti Sadan Unit of Shakti Sadan Sangli, an NGO run by Mother Teresa Backward Classes Women Development Board, Tiruka, Taluka Jalkot, Dist. Latur, working under the centrally sponsored Shakti Sadan Scheme.\
-  [202511201823210930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511201823210930.pdf)
+- Regarding distribution of funds for organizing Chacha Nehru Childrens Festival for children in the financial year 2025-26.\
+  [202511251719431430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251719431430.pdf)
 
 ## Personnel
-- Regarding extension of time for Aadhaar Authentication through e-KYC for verification and authentication of eligible beneficiary women under the Chief Minister-My Dear Sister scheme...\
-  [202511181649338030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511181649338030.pdf)
-
-- Regarding the formation of a permanent Promise Fulfillment Committee for the fulfillment of promises in the Women and Child Development Department.\
-  [202511211534229230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511211534229230.pdf)
+- Regarding publication of the final seniority list of District Women and Child Development Officers and similar posts in Group-A cadre under the jurisdiction of Women and Child Development Commissionerate, Maharashtra State, Pune and Integrated Child Development Service Scheme, Navi Mumbai as on 01.01.2025.\
+  [202511241754066730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241754066730.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
