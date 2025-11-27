@@ -16,5 +16,8 @@
 - To release grant for the schemes of committed exoenditure schemes under the TSP in financial year 2025-26.\
   [202511241530372624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241530372624.pdf)
 
+- To release grant for the schemes of scheme expenditure schemes under the TSP in financial year 2025-26.\
+  [202511251751111724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251751111724.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,12 @@
 - Regarding certification of payments for newspapers and periodicals supplied to the office and residence of Hon. Chief Minister, Hon. Deputy Chief Minister, Hon. Minister/ Hon. Minister of State.\
   [202511251628062907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251628062907.pdf)
 
+- Procedure to be followed for submitting Cabinet Proposals.\
+  [202511261713437607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261713437607.pdf)
+
+- Regarding allotment of Government Bunglow to the Honble Minister.\
+  [202511261537026307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261537026307.pdf)
+
 ## Personnel
 - Regarding transfer of officers and employees in ministerial departments\
   [202511241602413807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241602413807.pdf)

@@ -3,12 +3,19 @@
 **Date Range**: 01 December 2025 - 06 December 2025
 
 
+## Funds
+- Regarding the disbursement of funds under the account head (4415 0192) for the year 2025-26 for the establishment of Bamboo Research and Training Center at Chichpalli in Chandrapur district.\
+  [202511261753552619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261753552619.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for additional works for the rehabilitation of villages affected by landslides due to heavy rains on July 1, 2021 in Taliye, Taluka Mahad, Dist. Raigad.\
   [202511251534000519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251534000519.pdf)
 
 - Regarding the forest area under the control of the Deputy Conservator of Forests (Regional), Pune.\
   [202511251511412319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251511412319....pdf)
+
+- Regarding the direction issued by the State Transport Authority in the matter of unauthorized mining, use and transportation of sand and other minor minerals\
+  [202511261810453219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261810453219.pdf)
 
 ## Personnel
 - Annual Plan 2025-26 Under the State Level Scheme Empowerment of Mobile Team (2406 2161), Chief Conservator of Forests (Regional), Amravati Forest Department, regarding the purchase of 02 new vehicles of the same type in place of 02 deregistered vehicles.\

@@ -10,6 +10,9 @@
 - On the occasion of the completion of 75 years of the Indian Constitution, under the program Ghar Ghar Samvidhan Samvidhan, the Samvidhan Amrit Mahotsav, is being organized from 26th November, 2025 to 26th January, 2026. Regarding providing funds for organizing various activities....\
   [202511251336159522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251336159522.pdf)
 
+- Regarding granting administrative approval to the construction budget of Sant Bhagwan Baba Girls Government Hostel, Shirur (K.) Taluka Shirur (K.), District Beed under the Sant Bhagwan Baba Government Hostel Scheme for the sons and daughters of migrant sugarcane workers.\
+  [202511261642410722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261642410722.pdf)
+
 ## Miscellaneous
 - Regarding appointment of Coordination Officers and Single Coordination Mechanism for all missions under Centrally Sponsored Schemes for the purpose of SNA-SPARSH mechanism.\
   [202511251256578122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251256578122.pdf)
