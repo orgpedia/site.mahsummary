@@ -10,5 +10,8 @@
 - Regarding the effective date (30.05.2008) of promotion of Shri. Kiran Yashwant Gangurde, Ration Distribution Inspector to the post of Ration Distribution Inspector.\
   [202511261203073706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261203073706.pdf)
 
+- Regarding the formation of a committee to draft rules/guidelines for monitoring/supervision of direct selling companies in the state.\
+  [202511281728145606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281728145606.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

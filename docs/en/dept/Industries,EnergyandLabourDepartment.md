@@ -22,9 +22,37 @@
 - Regarding the distribution of Rs. 3002.70 crore in cash to Maharashtra State Electricity Distribution Company Limited for providing free electricity to agricultural pump customers in the state under the Chief Minister Baliraja Free Electricity Scheme/Electricity Rate Concession, 2025-26 (Account Head -28015572)\
   [202511261611528410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261611528410.pdf)
 
+- Regarding the implementation of the initiative MATRIX (Maharashtra Technology, Research Incubator and Xcelerator) to promote startups, innovation and technology in the emerging technology sector under the Information Technology and Information Technology Supported Services Policy-2023.\
+  [202511271041427410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271041427410.pdf)
+
+- Regarding the distribution of Rs. 304.35 crore grant in the year 2025-26 for concession in electricity tariff to Scheduled Caste agricultural pump consumer beneficiaries under the Special Component Programme of the Social Justice Department (Main Account Head No. N-3).\
+  [202511271801307810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271801307810...pdf)
+
 ## Miscellaneous
 - Corrigendum Mukhyamantri Saur Krushi Vahini Yojana - 2.0: Regarding the formation of a Special Task Force for implementing the Governments ambitious initiative to provide uninterrupted and sustainable daytime electricity supply to farmers agricultural pumps.\
   [202511261311377210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261311377210.pdf)
+
+- Regarding change in the scope of one of the 5 projects approved in the 7th meeting of the Empowered Committee constituted to implement the Competitive Bidding Process based on Electricity Tariff (TBCB).\
+  [202511281317374910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281317374910.pdf)
+
+- Regarding declaring Judge, Labour Court, Alibaug as Head of Office as well as Drawing and Disbursing Officer.\
+  [202511271549168610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271549168610.pdf)
+
+- Regarding issuing a revised government decision to supersede the government decision approving the establishment of separate hostels for girls at N.M. Lokhande Maharashtra Institute of Labour Sciences, Mumbai and for boys and girls at N.M. Lokhande Maharashtra Institute of Labour Sciences, Nagpur.\
+  [202511271600120910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271600120910.pdf)
+
+- Regarding appointment on deputation to the vacant post of Assistant Director (Group-B) in the subordinate office of the Directorate of Government Printing, Stationery and Publication, Mumbai.\
+  [202511281046217010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281046217010.pdf)
+
+- Regarding granting holiday to voters in the constituency to vote on the polling day for the Municipal Council/Nagar Panchayat General Election-2025 to be held on December 02, 2025.\
+  [202511281508095610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281508095610.pdf)
+
+## Personnel
+- Regarding renting of premises for the offices of the Cotton and Silk Textile Manufacturing and Sugar and Cooperative Banking Industries, Pay Boards, Maharashtra, Mumbai.\
+  [202511271602078010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271602078010.pdf)
+
+- Regarding the distribution of Rs. 3002.70 crore in cash to Maharashtra State Electricity Distribution Company Limited for providing free electricity to agricultural pump customers in the state under the Chief Minister Baliraja Free Electricity Scheme/Electricity Rate Concession, 2025-26 (Account Head -28015572)\
+  [202511281305363210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281305363210.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

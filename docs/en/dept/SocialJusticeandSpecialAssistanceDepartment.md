@@ -13,6 +13,12 @@
 - Regarding granting administrative approval to the construction budget of Sant Bhagwan Baba Girls Government Hostel, Shirur (K.) Taluka Shirur (K.), District Beed under the Sant Bhagwan Baba Government Hostel Scheme for the sons and daughters of migrant sugarcane workers.\
   [202511261642410722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261642410722.pdf)
 
+- Regarding sanctioning of managerial grant (36-Subsidiary Grants-Salary) to Sant Rohidas Leather Industries and Leatherworkers Development Corporation Limited, Mumbai for the financial year 2025-26.\
+  [202511271118482522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271118482522.pdf)
+
+- Regarding the distribution of funds for the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) (Recurring) (Additional State Share 100 Percent) Scheme in the financial year 2025-26. State Share (Account Head 2202L057)\
+  [202511281301342022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281301342022.pdf)
+
 ## Miscellaneous
 - Regarding appointment of Coordination Officers and Single Coordination Mechanism for all missions under Centrally Sponsored Schemes for the purpose of SNA-SPARSH mechanism.\
   [202511251256578122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251256578122.pdf)
@@ -23,6 +29,9 @@
 ## Personnel
 - Regarding cancellation of allotment of candidates recommended by the Maharashtra Public Service Commission in the cadre of Social Welfare Officer and similar Group-B (Gazetted) who did not join within the prescribed period.Regarding cancellation of allotment of candidates recommended by the Maharashtra Public Service Commission in the cadre of Social Welfare Officer and similar Group-B (Gazetted) who did not join within the prescribed period.\
   [202511241721038422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241721038422.pdf)
+
+- Regarding the formation of the Assembly/Council Assurance Fulfillment Committee.\
+  [202511281310447222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281310447222.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

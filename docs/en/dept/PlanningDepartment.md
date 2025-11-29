@@ -29,5 +29,11 @@
 - Approval of expenditure incurred for the implementation of Viksit Maharashtra-2047- Vision Document.\
   [202511261606529416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261606529416.pdf)
 
+- Regarding the restructuring of the committee established for the implementation of computerization projects under the Planning Department.\
+  [202511281638191416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281638191416.pdf)
+
+- REGARDING RECONSTITUTION OF THE DISTRICT LEVEL COMMITTEE FOR IMPLEMENTATION OF THE STATE CONVERGENCE PLAN UNDER THE MAHATMA GANDHI NATIONAL RURAL EMPLOYMENT GUARANTEE SCHEME.\
+  [202511271742265816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271742265816.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

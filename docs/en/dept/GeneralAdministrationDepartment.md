@@ -25,6 +25,45 @@
 - Regarding allotment of Government Bunglow to the Honble Minister.\
   [202511261537026307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261537026307.pdf)
 
+- Regarding filling up the vacant post of Assistant Section Officer cadre in the office of State Rights to Service Commission, Nashik on deputation.\
+  [202511271519202507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271519202507.pdf)
+
+- Regarding filling up the vacant post of Cell Officer cadre in the office of State Rights to service Commission, Konkan by deputation.\
+  [202511271511180907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271511180907.pdf)
+
+- Regarding filling up the vacant post of Assistant Section Officer cadre in the office of State Rights to Service Commission, Amravati on deputation.\
+  [202511271514181007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271514181007.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Shri. Somnath V. Potare, Deputy Secretary\
+  [202511271723318307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271723318307.pdf)
+
+- Regarding exemption from post-promotion training to officers in the ministerial Desk officer cadre to the post of Desk officer\
+  [202511271725304607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271725304607.pdf)
+
+- Regarding the implementation of Smart and Intelligent Village Project in the state of Maharashtra...\
+  [202511271239437307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271239437307.pdf)
+
+- Regarding filling up of vacant posts in the training institute, Divisional Administrative Training Institute, Nashik, on deputation basis.\
+  [202511281225038707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281225038707.pdf)
+
+- Regarding exemption from post-promotion training to officers in the ministerial Desk officer cadre to the post of Desk officer\
+  [202511271729101407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271729101407.pdf)
+
+- Regarding filling up the vacant post of Assistant Cell Officer cadre in the office of State Right to Service Commission, Konkan on deputation.\
+  [202511271508105007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271508105007.pdf)
+
+- Regarding exemption from training after promotion to the post of Under Secretary.\
+  [202511271720361407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271720361407.pdf)
+
+- Regarding filling up the vacant post of Assistant Section Officer cadre in the office of State Rights to Service Commission, Nashik on deputation.\
+  [202511271517051307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271517051307....pdf)
+
+- Regarding filling up the vacant posts of Deputy Secretary/Cell Officer/Assistant Cell Officer in the State Chief Information Commission and its 7 benches on deputation from officers/employees holding equivalent posts from the ministerial cadre and the cadre of the regional offices....\
+  [202511281646525707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281646525707.pdf)
+
+- Regarding cancellation of the order of deputation of Shri. Vilas Gyanoba Lad, Desk Officer Planning Department, in the office of State Right to Service Commission, Konkan.\
+  [202511281714311607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511281714311607....pdf)
+
 ## Personnel
 - Regarding transfer of officers and employees in ministerial departments\
   [202511241602413807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241602413807.pdf)
@@ -34,6 +73,18 @@
 
 - Regarding the formation of a permanent committee for the fulfillment of promises in the General Administration Department.\
   [202511251818504707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251818504707.pdf)
+
+- Regarding exemption from post-promotion training to officers in the ministerial Desk officer cadre to the post of Desk officer Shri.Dasarath B.Padave, Desk Officer\
+  [202511271731185907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271731185907.pdf)
+
+- Appointment on deputation by downgrading the pay scale of the post of Administrative Officer in the Yashwantrao Chavan Institute of Development Administration, Pune.\
+  [202511271619052507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271619052507.pdf)
+
+- Regarding transfer of officers/employees in ministerial departments.\
+  [202511271226470007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271226470007.pdf)
+
+- Regarding filling up the posts of Deputy Director (Information) in the pay scale (S-23) and District Information Officer/Public Relations Officer/Senior Deputy Editor/Senior Assistant Director (Information) (S-20) in the Directorate General of Information and Public Relations on deputation...\
+  [202511271557513507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271557513507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

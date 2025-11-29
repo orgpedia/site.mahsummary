@@ -49,12 +49,18 @@
 - Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-7 (Andheri (East) to Dahisar (East)) Project (FY 2025-26)\
   [202511261257262825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511261257262825.pdf)
 
+- Regarding the application of the provisions of the Government Resolution of Finance Department No.: Sankirna 2022/Pra.Kra.123/22/Kosha Prasha-5, Dated 04.08.2025, to all Municipal Corporations / Municipal Councils / Nagar Panchayats in the State.\
+  [202511271201478925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271201478925.pdf)
+
 ## Miscellaneous
 - Regarding taking action in accordance with the directions given from time to time by the Honble Supreme Court regarding Stray Dogs.\
   [202511241325526125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511241325526125.pdf)
 
 - Regarding approval of the effective date of promotion to Shri. Nilesh Deshmukh, Chief Officer, Group-A (Selective Category) cadre, Maharashtra Urban Administrative Service.\
   [202511251748205325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511251748205325.pdf)
+
+- Regarding the formation of a committee regarding the ownership rights and forest interests of about 60-95-2 Hectares of land in Mauje-Dapoli, Kopar, Targhar, Sonkhar and Ulwe of Raigad district of Mr. Yashwant Biwalkar and others.\
+  [202511271820550625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202511271820550625.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
