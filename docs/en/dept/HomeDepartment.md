@@ -10,5 +10,9 @@
 - Regarding declaration of Single Nodal Agency (SNA) as Controlling Officer under SNA-SPARSH system for Special Central Assistance scheme.\
   [202512011727158329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011727158329.pdf)
 
+## Personnel
+- Regarding creation of a supernumerary post in the Police Constable cadre on the establishment of the Commissioner of Police, Solapur City... Shri. Chanabasayya Sangayya Sangamath, Police Constable/1683\
+  [202512021528124629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021528124629.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

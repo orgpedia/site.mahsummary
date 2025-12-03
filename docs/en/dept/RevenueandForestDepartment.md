@@ -13,6 +13,12 @@
 - Centrally Sponsored Scheme for the year 2025-26 Regarding the distribution of funds for measures to be taken in response to the damage caused by wild elephants in Kolhapur Forest Zone under the Centrally Sponsored Scheme Tiger and Elephant Project.\
   [202512011720462019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011720462019.pdf)
 
+- Regarding approval of the first installment for the year 2025-26 for the scheme (Tribal Component) under the Central Government sponsored Forest Deforestation Prevention and Management Scheme.\
+  [202512021223322519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021223322519.pdf)
+
+- Regarding increase in the limit of consultancy fee for works to be given to architectural consultancy firms for tourism development works to be carried out under Maharashtra Nature Tourism Development Board, Nagpur.\
+  [202512021816339019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021816339019.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds under the Tribal Area Sub-Plan component under the Centrally Sponsored Scheme Tiger Project for the year 2025-26.\
   [202512011718367619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011718367619.pdf)

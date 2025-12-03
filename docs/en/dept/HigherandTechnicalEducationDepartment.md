@@ -37,5 +37,11 @@
 - Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Sisodia Pathology Lab and Paramedical Institute of Sudharma Charitable Trust, Parbhani)\
   [202512011838334608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011838334608.pdf)
 
+- Regarding granting revised administrative approval for the purchase of necessary furniture for the new administrative and examination building of Punyashloka Ahilyadevi Holkar University...\
+  [202512021226494208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021226494208.pdf)
+
+- Guidelines for sending teachers on deputation under the Quality Improvement Scheme...\
+  [202512021618241908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021618241908.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
