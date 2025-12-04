@@ -19,6 +19,12 @@
 - Regarding increase in the limit of consultancy fee for works to be given to architectural consultancy firms for tourism development works to be carried out under Maharashtra Nature Tourism Development Board, Nagpur.\
   [202512021816339019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021816339019.pdf)
 
+- Regarding administrative approval of the budget for renovation and beautification of the office, meeting room, assembly room and work station of the Honble Additional Chief Secretary (Revenue) on the 1st floor of the Revenue and Forest Department.\
+  [202512031217253219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031217253219.pdf)
+
+- Regarding granting administrative approval for the cost of wiring required for installing the updated EPABX system in the Revenue and Forest Department.\
+  [202512031220045019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031220045019.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds under the Tribal Area Sub-Plan component under the Centrally Sponsored Scheme Tiger Project for the year 2025-26.\
   [202512011718367619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011718367619.pdf)
@@ -31,6 +37,10 @@
 
 - Procedure and time-bound program for cancelling and recovering certificates of invalid delayed birth and death records\
   [202512011242161419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011242161419.pdf)
+
+## Personnel
+- Regarding extension of 38 temporary posts in 14 teams of valuation experts created to assist government prosecutors in land acquisition matters under Section 18 of the Land Acquisition Act, 1894 from 01.09.2025 to 28.02.2026.\
+  [202512031727102119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031727102119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,5 +10,12 @@
 - Regarding the disbursal of the second installment of Tied Grant for Drinking Water (including Rainwater Harvesting and Recycling) and (b) Solid Waste Management for the year 2023-2024 under Non-Million Plus Cities as per the recommendations of the 15th Central Finance Commission.\
   [202512021747567125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021747567125.pdf)
 
+- Regarding the disbursement of funds under the Special Provision for Development of Basic Amenities in Municipal Areas Scheme. For the year 2023-24 (Account Head 2217 0913) For Thane Municipal Corporation, Dist. Thane Without amount Rs. 2.50 crores. For Mira-Bhayander Municipal Corporation, Dist. Thane Without amount Rs. 2.50 crores. (Total amount Rs. 5.00 crores) (Corrigendum)\
+  [202512031708216425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031708216425.pdf)
+
+## Miscellaneous
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Thane Municipal Corporation Dist. Thane Amount Rs.10.00 crore (Corrigendum)\
+  [202512031709501025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031709501025.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

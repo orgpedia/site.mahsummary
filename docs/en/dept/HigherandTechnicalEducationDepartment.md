@@ -43,5 +43,8 @@
 - Guidelines for sending teachers on deputation under the Quality Improvement Scheme...\
   [202512021618241908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021618241908.pdf)
 
+- Regarding approval to start short-term vocational-oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Nagpur Institute of Fire and Safety Engineering of Ujwal Multipurpose Institution, Nagpur) (Institute Code -1042)\
+  [202512031300551008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031300551008.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

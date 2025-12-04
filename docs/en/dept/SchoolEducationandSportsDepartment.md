@@ -7,6 +7,10 @@
 - Regarding the distribution of additional funds by the State Government to cooks and helpers under the Scheduled Caste category under the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
   [202512021827364721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021827364721.pdf)
 
+## Miscellaneous
+- Regarding the cancellation of Government Decision No. Prashastha-3224/Pr.No.428/24/SM-1, dated 28.06.2024.\
+  [202512031759464421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031759464421.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202512011801433621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011801433621.pdf)
