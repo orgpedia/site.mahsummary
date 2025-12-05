@@ -19,6 +19,9 @@
 - Regarding granting administrative approval for the work of making a documentary on places of architectural and historical importance in Maharashtra under the Amrit Mahotsav of Independence...\
   [202512031201464123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031201464123.pdf)
 
+- Regarding granting administrative approval for incentive financial support for production of 42 quality Marathi films of A, B and C grades.\
+  [202512041439188623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041439188623.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds for the second running installment of the work of photogrammetric and Lidar survey of controlled areas of protected monuments in Chhatrapati Sambhajinagar division...\
   [202512021509003123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021509003123.pdf)
@@ -31,6 +34,18 @@
 
 - Regarding the appointment of Mrs. Minal Shashikant Joglekar, Deputy Director (Information), Group-A (Senior) to the post of Director at P.L. Deshpande Maharashtra Kala Academy, Mumbai on deputation.\
   [202512031501214123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031501214123.pdf)
+
+- Regarding organization of cultural program and grant of administrative approval and financial approval for expenditure on the 8th Northeast Indian Student Mela-2025 held at Delhi.\
+  [202512041144230223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041144230223.pdf)
+
+- Regarding the establishment of a committee to erect a memorial of Chhatrapati Shivaji Maharaj at Agra Fort.\
+  [202512041805243223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041805243223.pdf)
+
+- Regarding the establishment of a committee to erect a Maratha Bravery Memorial at Kala Amb in Panipat.\
+  [202512041806574823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041806574823.pdf)
+
+- Regarding granting administrative approval for the conservation and repair work of the monument near Gokuleshwar Temple, Barav, Taluka Charthana, District Parbhani...\
+  [202512041501105523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041501105523.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

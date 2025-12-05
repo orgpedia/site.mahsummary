@@ -10,6 +10,9 @@
 - Regarding granting administrative approval for the purchase of Snake Venom Rapid Test Kit for health institutions in the state through single source method in the financial year 2025-26.\
   [202512031053452317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031053452317.pdf)
 
+- Regarding sanction of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (70 percent payment for the month of September, 2025)\
+  [202512041419483217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041419483217.pdf)
+
 ## Miscellaneous
 - Repayment of loan received from HUDCO, a financial institution, for the construction of public health institutions.\
   [202512011211467217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011211467217.pdf)
@@ -29,6 +32,12 @@
 ## Personnel
 - Regarding the formation of monitoring and advisory committees with guidelines at district hospitals, general hospitals, womens hospitals, sub-district hospitals and rural hospitals\
   [202512031326445317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031326445317.pdf)
+
+- Provisionel commen seniority List of Maharashtra Medical and Health Services, Group-A cadre of District civil Surgeon Cadre, District Health Officer Cadre and Specialist Cadre officers as on 01.01.2024.\
+  [202512041518438017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041518438017.pdf)
+
+- Provisional seniority list of officers in the Maharashtra Medical and Health Services, Group-A, District Health Officer, cadre as on January 1, 2025...\
+  [202512041736370017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041736370017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

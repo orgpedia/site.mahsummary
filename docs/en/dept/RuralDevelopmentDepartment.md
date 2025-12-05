@@ -11,5 +11,8 @@
 - Final seniority list of Maharashtra Development Service, Group-B cadre Assistant Block Development Officers as on 1.1.2025\
   [202512011302186520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011302186520.pdf)
 
+- Regarding the inclusion of non-plan roads in Nagpur Gramin Taluka (Dist-Nagpur)  as a Village Road in the Road Development Plan 2001-21.\
+  [202512041100163620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041100163620.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

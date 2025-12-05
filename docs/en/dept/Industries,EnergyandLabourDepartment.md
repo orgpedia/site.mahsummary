@@ -20,6 +20,9 @@
 - Regarding providing grant to Maharashtra Industrial Development Corporation for upgrading sewage treatment projects in industrial estates under Panchganga River Pollution Remedies, regarding declaring Controlling Officer and Drawing and Disbursing Officer for this new account head.\
   [202512031452317910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031452317910.pdf)
 
+- Government of Maharashtra Delegation visit to ArcelorMittal Singapore Pvt. Ltd., Singapore.\
+  [202512041547122710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041547122710.pdf)
+
 ## Personnel
 - Regarding the formation of a permanent Assurance and Parliamentary Instruments Fulfillment Committee under the chairmanship of the Secretary in each department for the fulfillment of pending assurances and pending parliamentary instruments and the timely settlement of assurances and parliamentary instruments.\
   [202512031650231410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031650231410.pdf)

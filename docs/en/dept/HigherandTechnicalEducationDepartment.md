@@ -46,5 +46,9 @@
 - Regarding approval to start short-term vocational-oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Nagpur Institute of Fire and Safety Engineering of Ujwal Multipurpose Institution, Nagpur) (Institute Code -1042)\
   [202512031300551008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031300551008.pdf)
 
+## Personnel
+- Regarding appointment by nomination to the post of Head of Department, Maharashtra Art Education Service, Group-A...\
+  [202512041314581208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041314581208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

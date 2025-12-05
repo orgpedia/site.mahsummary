@@ -16,5 +16,11 @@
 - Regarding granting administrative approval to the project worth Rs. 768.80 lakhs to provide cashew cuttings as per the demand of farmers in Konkan under the National Agriculture Development Scheme - Detailed Project Report.\
   [202512031747231801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031747231801.pdf)
 
+- Regarding grant of revised administrative approval to the project Strengthening of State Pesticide Testing Laboratories in the State of Maharashtra and maintaining accreditation of National Accreditation Board for Testing and Calibration Laboratories (NABL) under the National Agricultural Development Scheme.\
+  [202512041131080801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041131080801.pdf)
+
+- Regarding grant of  revised administrative approval to the project Strengthening of Seed Testing Laboratories in the State of Maharashtra and maintaining accreditation of National Accreditation Board for Testing and Calibration Laboratories (NABL) under the National Agricultural Development Scheme.\
+  [202512041128282701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041128282701.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

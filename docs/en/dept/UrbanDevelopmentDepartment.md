@@ -13,9 +13,21 @@
 - Regarding the disbursement of funds under the Special Provision for Development of Basic Amenities in Municipal Areas Scheme. For the year 2023-24 (Account Head 2217 0913) For Thane Municipal Corporation, Dist. Thane Without amount Rs. 2.50 crores. For Mira-Bhayander Municipal Corporation, Dist. Thane Without amount Rs. 2.50 crores. (Total amount Rs. 5.00 crores) (Corrigendum)\
   [202512031708216425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031708216425.pdf)
 
+- Regarding disbursement of budgetary provisions for the financial year 2025-2026... Subsidiary Grant\
+  [202512041241303825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041241303825.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Thane Municipal Corporation Dist. Thane Amount Rs.10.00 crore (Corrigendum)\
   [202512031709501025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031709501025.pdf)
+
+- F/Northern Division Land Tax No. 12 (Part) Sion Division, vacant land measuring 7658.33 sq.m. in area, regarding the approval of the State Government under Section 92 (D) of the Mumbai Municipal Corporation Act, 1888 to convert the land on lease basis into freehold land and give it to the Vishwa Hindu Parishad on freehold for a period of 30 years.\
+  [202512041914100825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041914100825.pdf)
+
+- Regarding relaxation in educational qualification as a special matter for promotion to the senior post of Additional City Engineer (Civil Engineering) of Shri. Arvind Shinde, Executive Engineer (Civil Engineering), working on the establishment of Navi Mumbai Municipal Corporation.\
+  [202512041843212125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041843212125.pdf)
+
+- Integrated Probationary Training Programme-9 Regarding the extension of the majority of the posts of candidates in the Probationary Chief Group-A and Probationary Chief Group-B cadre in the Maharashtra Urban Administrative Service...\
+  [202512041238587125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041238587125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 08 December 2025 - 13 December 2025
 
 
+## Funds
+- Regarding the construction of 4-lane at-grade and 6-lane elevated highway corridor (length 53.40 km) between Pune and Shirur (National Highway No. 753F) through the Maharashtra State Infrastructure Development Corporation on DBFOT (Design-Build-Finance-Operate-Transfer (DBFOT) method) between km. 10/600 and km. 64/000.\
+  [202512041713443918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041713443918.pdf)
+
 ## Miscellaneous
 - Regarding extension of tenure of the supernumerary post created for Shri. Vandana Sharad Rupavate, Senior Clerk, working under the office of Chief Engineer, Public Works Regional Department, Mumbai.\
   [202512011551335318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011551335318.pdf)

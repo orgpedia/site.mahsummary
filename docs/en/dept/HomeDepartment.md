@@ -3,6 +3,10 @@
 **Date Range**: 08 December 2025 - 13 December 2025
 
 
+## Funds
+- Regarding the disbursement of funds amounting to Rs. 471.00 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional value for the month of October, 2025...\
+  [202512041810518129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041810518129.pdf)
+
 ## Miscellaneous
 - Regarding the reconstitution of the High Level and Review Committee to provide classified protection to protected persons.\
   [202512011754168229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011754168229.pdf)

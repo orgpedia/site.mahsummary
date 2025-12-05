@@ -19,6 +19,16 @@
 - Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Matoshree Ramabai Ambedkar Backward Classes Cooperative Spinning Mill Ltd., Kasarwadi, Tal. Hatkanangle, Dist. Kolhapur\
   [202512031455175702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031455175702.pdf)
 
+- Regarding the provision of 12 percent interest on loans received from financial institutions to cooperative cotton mills- Parvati Cooperative Cotton Mills Ltd., Kurandwad Terwad, Tt. Shirol, District Kolhapur.\
+  [202512041231078202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041231078202.pdf)
+
+- Regarding provision of 12 percent interest on loans received from financial institutions to cooperative yarn mills- Kolhapur District Farmers Weavers Cooperative Yarn Ltd., Ichalkaranji, District Shirol, District Kolhapur.\
+  [202512041227312602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041227312602.pdf)
+
+## Miscellaneous
+- Creation of a new account head for possible savings in the scheme of Computerization of office of Registrar, Co-operative Societies of States under the centrally sponsored project Strengthening of Co-operatives through IT Intervention.\
+  [202512041616351002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041616351002.pdf)
+
 ## Personnel
 - Regarding declaring the appointing authority for officers/employees on the establishment of Textiles Commissionerate, Nagpur.\
   [202512031257271402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031257271402.pdf)
