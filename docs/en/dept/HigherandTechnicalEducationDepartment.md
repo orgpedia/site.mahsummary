@@ -46,6 +46,75 @@
 - Regarding approval to start short-term vocational-oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Nagpur Institute of Fire and Safety Engineering of Ujwal Multipurpose Institution, Nagpur) (Institute Code -1042)\
   [202512031300551008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031300551008.pdf)
 
+- Regarding approval to increase the accessibility of short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Mrs. Geeta D. Tatkare Polytechnic, Raigad, of Tatkare Charitable Trust)\
+  [202512051811587008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051811587008.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (National Fire and Safety College of Jan Vikas Shikshan Multi-Purpose Institute, Nagpur)\
+  [202512051759446808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051759446808.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Malegaon Paramedical Institute of Nalanda Multipurpose Charitable Institution, Nashik)\
+  [202512051805355008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051805355008.pdf)
+
+- Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Scholars College of Fire and Safety Engineering, Nagpur, Mahatma Phule Sports and Multipurpose Educational Society)\
+  [202512051812190808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051812190808.pdf)
+
+- Regarding approval to increase the accessibility of short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (R. G. Technical Institute of Yashoda Mata Multipurpose Charitable Organization, Balepir, Taluka, District Beed)\
+  [202512051827541508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051827541508.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (S.V. College of Fire and Safety of Mahariya Charitable Trust, Junnar, District Pune)\
+  [202512051814391508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051814391508.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Sai Care Institute of Technical Education of Indrayani Pratishthan, Nashik)\
+  [202512051750311908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051750311908.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Kai. Raghunathrao Jagtap Foundations Akshay Patil Paramedical and Technical Education College, Jalgaon)\
+  [202512051724031408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051724031408....pdf)
+
+- Regarding approval to increase the accessibility of short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Shivanjali Educational and Social Institutions Sai Care College of Fire and Industrial Safety Nashik.)\
+  [202512051830331008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051830331008.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Sai Care College of Fire and Industrial Safety, Shahapur.)\
+  [202512051800500208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051800500208.pdf)
+
+- Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (BSR Institute of Fire and Safety Engineering, Nagpur)\
+  [202512051809126108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051809126108.pdf)
+
+- Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Smt. Geeta D. Tatkare Polytechnic, Raigad, of Tatkare Charitable Trust)\
+  [202512051738478308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051738478308.pdf)
+
+- Regarding approval to increase the accessibility of short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Chandralop Educational and Research Center, Chandralop College of Fire Engineering and Safety Management, Pune.)\
+  [202512051816097308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051816097308.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Swami Vivekananda Technical Institute of Indrayani Pratishthan, Chhatrapati Sambhajinagar)\
+  [202512051756170308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051756170308.pdf)
+
+- Regarding approval to increase the accessibility of short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Indian Education Society, Indian Education Society Institute of Technical Education Raigad)\
+  [202512051819525408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051819525408.pdf)
+
+- Regarding approval to increase the accessibility of short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Scholars College of Fire and Safety Engineering, Nagpur, of Mahatma Phule Sport and Multipurpose Educational Society)\
+  [202512051825329108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051825329108.pdf)
+
+- Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Shivam Institute of Technology of Shivam Educational Social Institution, Nagpur)\
+  [202512051818544808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051818544808.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Dhanwantari Paramedical College of Dhumane Patil Foundation, Nashik)\
+  [202512051726490508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051726490508....pdf)
+
+- Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Shri Saibaba Paramedical Institute, Ahilyanagar)\
+  [202512051744575308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051744575308.pdf)
+
+- Regarding approval to implement new short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Desire School of Science of Desire Foundation, Nashik)\
+  [202512051729370908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051729370908.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Shriram Shikshan Sanstha College of Pharmacy, Solapur)\
+  [202512051747469008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051747469008.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Dr. Panjabrao Kathe Foundations Dr. Kathe Paramedical College and Research Center, Ambegaon, District Pune)\
+  [202512051802515608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051802515608.pdf)
+
+- Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Vivekanand College, Kolhapur)\
+  [202512051742033308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051742033308.pdf)
+
 ## Personnel
 - Regarding appointment by nomination to the post of Head of Department, Maharashtra Art Education Service, Group-A...\
   [202512041314581208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041314581208.pdf)

@@ -22,6 +22,9 @@
 - Regarding granting administrative approval for incentive financial support for production of 42 quality Marathi films of A, B and C grades.\
   [202512041439188623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041439188623.pdf)
 
+- Regarding granting administrative approval for incentive financial assistance for the production of 06 quality Marathi films with A and B ratings.\
+  [202512051125476523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051125476523.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds for the second running installment of the work of photogrammetric and Lidar survey of controlled areas of protected monuments in Chhatrapati Sambhajinagar division...\
   [202512021509003123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021509003123.pdf)
@@ -46,6 +49,12 @@
 
 - Regarding granting administrative approval for the conservation and repair work of the monument near Gokuleshwar Temple, Barav, Taluka Charthana, District Parbhani...\
   [202512041501105523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041501105523.pdf)
+
+- Regarding the formation of a Barav Conservation Committee comprising experts for the revival, preservation and conservation of Barav...\
+  [202512051755150423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051755150423.pdf)
+
+- Regarding granting administrative approval for scientific clearance and excavation at Nandos Shivakalin Garhi, Tal. Malvan, Dist. Sindhudurg.\
+  [202512051640158423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051640158423.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

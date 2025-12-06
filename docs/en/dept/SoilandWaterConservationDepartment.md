@@ -16,5 +16,8 @@
 - Distribution of funds for maintenance and repair works of projects of 0 to 100 ha under Mukhyamantri Jal Samvardhan Yojana: Dist. Solapur (Rest of Maharashtra Division)\
   [202512031556504726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031556504726.pdf)
 
+- Distribution of share capital contribution for Maharashtra Water Conservation Corporation (Year 2025-26)\
+  [202512051702069126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051702069126.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -14,5 +14,11 @@
 - Regarding the inclusion of non-plan roads in Nagpur Gramin Taluka (Dist-Nagpur)  as a Village Road in the Road Development Plan 2001-21.\
   [202512041100163620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041100163620.pdf)
 
+- Under the Mukhya Mantri Gram Sadak Yojna, Asian Development Bank (ADB) Loan No. 4097 (Batch-2) savings the government has approved the restructuring of works package-wise and granted administrative approval for the same.\
+  [202512041457181620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041457181620.pdf)
+
+- Regarding distribution of grant for the year 2025-26 for paying salaries and allowances of officers and employees of the District Rural Development System.\
+  [202512051601019820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051601019820.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

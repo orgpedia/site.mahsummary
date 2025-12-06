@@ -26,9 +26,27 @@
 - Regarding point list verification and reservation confirmation.\
   [202512041629496507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041629496507.pdf)
 
+- Regarding reinstatement of service due to expiry of deputation period Shri. Chandrakant Su. Katkade, desk Officer\
+  [202512051720589207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051720589207.pdf)
+
+- Regarding appointment on deputation to the post of Assistant Professor, Group-A in Regional Agricultural Extension Management Training Institute (Rameti), Pune Shrimat Priyanka Duryodhan Sable, Desk Officer\
+  [202512051724593607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051724593607.pdf)
+
+- Regarding appointment on deputation to the post of Room Officer in the office of State Information Commission, Nashik Bench Smt. Nivedita Lokesh Warule, Desk Officer\
+  [202512051723036107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051723036107.pdf)
+
+- Regarding granting administrative approval for scanning and digitization of about 500 physical service books of officers/employees of the General Administration Department.\
+  [202512051842132507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051842132507.pdf)
+
 ## Personnel
 - Regarding granting administrative and financial approval to purchase 1 new vehicle in replacement of 1 deregistered vehicle for the office use of the Secretary to the Hon. Governor.\
   [202512041815198807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041815198807.pdf)
+
+- Regarding extension of the period of promotion (deputation) for the post of Administrative Officer in the office of Divisional Police Complaints Authority, Nashik Smt. Rupali Bh.Late, Desk Officer\
+  [202512051718549407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051718549407.pdf)
+
+- Regarding transfer of officers in the ministerial Desk officer cadre\
+  [202512051715542507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051715542507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

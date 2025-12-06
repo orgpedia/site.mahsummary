@@ -7,6 +7,12 @@
 - Maharashtra Bamboo Industry Policy 2025\
   [202512021501436210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021501436210.pdf)
 
+- Regarding the distribution of subsidy amounting to Rs.28.7167 crores in cash to the Mahaurja Office as State Government share for general beneficiaries under Pradhan Mantri Kusum Component B. (Demand No.K-6, Account Head No.28100902)\
+  [202512051654598110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051654598110.pdf)
+
+- Regarding the distribution of Rs.85.2833 crore in cash to Mahavitaran Company as State Government share for general beneficiaries under Pradhan Mantri Kusum Component B. (Demand No.K-6, Account Head No.28100902)\
+  [202512051657273510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051657273510.pdf)
+
 ## Miscellaneous
 - Regarding publication of the final seniority list dated 1.01.2025 of the cadre of Superintendent Industrial Officer (Technical) (Group-B).\
   [202512021218300510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021218300510.pdf)
@@ -22,6 +28,9 @@
 
 - Government of Maharashtra Delegation visit to ArcelorMittal Singapore Pvt. Ltd., Singapore.\
   [202512041547122710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041547122710.pdf)
+
+- Regarding inclusion of Assistant Commissioner, Skill Department as a member in the District Level Task Force Committee (DLTFC) under the Chief Ministers Employment Generation Program.\
+  [202512051329098710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051329098710.pdf)
 
 ## Personnel
 - Regarding the formation of a permanent Assurance and Parliamentary Instruments Fulfillment Committee under the chairmanship of the Secretary in each department for the fulfillment of pending assurances and pending parliamentary instruments and the timely settlement of assurances and parliamentary instruments.\

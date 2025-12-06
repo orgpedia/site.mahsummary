@@ -16,6 +16,12 @@
 - Regarding disbursement of budgetary provisions for the financial year 2025-2026... Subsidiary Grant\
   [202512041241303825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041241303825.pdf)
 
+- Regarding the approval of the State Government for the detailed project report of the spur lines Hadapsar to Loni Kalbhor and Hadapsar Bus Depot to Saswad Road of the Pune Metropolitan Metro Rail Project Phase-2 Khadakwasla - Swargate - Hadapsar - Kharadi Metro Line and implementation of the project through Mahametro.\
+  [202512051119382025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051119382025.pdf)
+
+- Regarding the distribution of funds to the Nashik-Trimbakeshwar Kumbh Mela Authority for the works of the Simhastha Kumbh Mela to be held at Nashik-Trimbakeshwar...\
+  [202512051604378725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051604378725.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) under Thane Municipal Corporation Dist. Thane Amount Rs.10.00 crore (Corrigendum)\
   [202512031709501025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031709501025.pdf)
@@ -28,6 +34,9 @@
 
 - Integrated Probationary Training Programme-9 Regarding the extension of the majority of the posts of candidates in the Probationary Chief Group-A and Probationary Chief Group-B cadre in the Maharashtra Urban Administrative Service...\
   [202512041238587125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041238587125.pdf)
+
+- Regarding determining the educational qualification for the post of Fireman in the Fire Department of Nashik Municipal Corporation.\
+  [202512051343021925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051343021925.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

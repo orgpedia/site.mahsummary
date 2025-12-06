@@ -3,6 +3,13 @@
 **Date Range**: 08 December 2025 - 13 December 2025
 
 
+## Funds
+- Regarding granting administrative approval to drought relief projects under the National Disaster Management Fund (NDMF).\
+  [202512051307323601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051307323601.pdf)
+
+- Regarding administrative and financial approval for the revised annual action plan of the seed component (earlier SMSP) under the National Food Security and Nutrition Mission, Krishi Unnati Yojana.\
+  [202512051731356901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051731356901.pdf)
+
 ## Miscellaneous
 - Regarding nomination of Chief Technology Officer (CTO), Artificial Intelligence and Agritech Innovation Centre, Mumbai, as the Technical Head of all IT and digital initiatives in the Agriculture Department.\
   [202512011914379201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011914379201.pdf)

@@ -28,6 +28,9 @@
 - Delegation of powers to the Divisional Commissioners, Revenue Department, and the Settlement Commissioner  Director of Land Records, Maharashtra State, Pune, for sanctioning reimbursement of medical expenses exceeding 5,00,000/-\
   [202512041249317819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041249317819.pdf)
 
+- Regarding provision of grant under detailed head 27-Small Constructions under the State Level Mandatory Scheme Requisition No. C-7, 2406-Afforestation and Wildlife, Building Repair (2406 0087) in the financial year 2025-26...\
+  [202512051215061819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051215061819.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds under the Tribal Area Sub-Plan component under the Centrally Sponsored Scheme Tiger Project for the year 2025-26.\
   [202512011718367619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011718367619.pdf)
@@ -56,9 +59,18 @@
 - Regarding the distribution of funds for the salaries and allowances of the officers/employees of the Special Tiger Protection Force for the year 2025-26.\
   [202512041527427119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041527427119.pdf)
 
+- Regarding the cancellation of the district-level committee appointed to check the eligibility of encroachers on forest land....\
+  [202512051315497919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051315497919.pdf)
+
+- Regarding extension of tenure of 34 Office Assistant (IT Assistant) posts working in all districts except Mumbai City and Mumbai Suburbs from 03 October 2025 to 30 December 2025.....\
+  [202512051613285519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051613285519.pdf)
+
 ## Personnel
 - Regarding extension of 38 temporary posts in 14 teams of valuation experts created to assist government prosecutors in land acquisition matters under Section 18 of the Land Acquisition Act, 1894 from 01.09.2025 to 28.02.2026.\
   [202512031727102119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031727102119.pdf)
+
+- Regarding extension of tenure till April 2026 for Senior Software Developer, Junior Software Developer and Tester from MahaIT for DBT system for Relief and Rehabilitation Division under Revenue and Forest Department.\
+  [202512051338399819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051338399819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
