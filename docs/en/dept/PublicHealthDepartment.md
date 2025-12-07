@@ -29,6 +29,9 @@
 - Regarding the inclusion of former Chief Secretary Smt. Sujata Saunik as a member in the Task Force established to review and suggest measures to eradicate the problem of malnutrition in the tribal areas of the state, reduce infant mortality rate and maternal mortality rate, and control infectious diseases.\
   [202512031149597717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031149597717.pdf)
 
+- Regarding determination of procedure for entering into two-year rate agreement for medicines purchased through Maharashtra Medical Supplies Procurement Authority.\
+  [202512052027137117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512052027137117.pdf)
+
 ## Personnel
 - Regarding the formation of monitoring and advisory committees with guidelines at district hospitals, general hospitals, womens hospitals, sub-district hospitals and rural hospitals\
   [202512031326445317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031326445317.pdf)
