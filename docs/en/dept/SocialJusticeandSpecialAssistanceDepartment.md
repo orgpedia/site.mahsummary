@@ -1,28 +1,33 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 08 December 2025 - 13 December 2025
+**Date Range**: 15 December 2025 - 20 December 2025
 
 
 ## Funds
-- Regarding distribution of centrally sponsored National Family Benefit Scheme grants for the financial year 2025-26 on the PFMS system.\
-  [202512011224048622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011224048622.pdf)
+- Regarding granting administrative approval to the budget for the construction of Government Hostel for Backward Class Girls, Sadak Arjuni, Dist. Gondia.\
+  [202512081121087622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081121087622.pdf)
 
-- Regarding disbursement of funds in the financial year 2025-26 for the scheme of allocation of 101 goat group (programme) to the beneficiaries on a partially Thanabandh basis. (Account Head 2403D 749)\
-  [202512011700209822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011700209822.pdf)
+- Regarding administrative approval of the budget for the construction of Government Hostel for Backward Class Girls, Tiroda Taluka, Gondia District.\
+  [202512081119162822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081119162822.pdf)
 
-- Regarding making available funds through re-appropriation from the National Bamboo Mission Scheme for disbursing funds from the budgetary provision for the year 2025-26 for the Scheduled Caste category for the Agro-Forestry Scheme under the National Agriculture Development Scheme\
-  [202512051746097922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051746097922.pdf)
-
-- Late. Regarding the distribution of funds for the Bhausaheb Fundkar Fruit Garden Plantation Scheme in the financial year 2025-26. (Account Head 2401B321)\
-  [202512051743437822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051743437822.pdf)
+- Regarding the distribution of funds for the Chief Ministers My Dear Sister Scheme in the financial year 2025-26. (Account Head 2235D767)\
+  [202512081500525522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081500525522.pdf)
 
 ## Miscellaneous
-- Regarding the disposal of pending applications of students belonging to the Scheduled Caste category under the scholarship/freeship scheme for the period 2018-19 to 2023-24.\
-  [202512011519073022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011519073022.pdf)
+- Government Hostel for Backward Class Girls, Parbhani, Dist. Regarding granting administrative approval to the budget for the construction of the hostel, Parbhani.\
+  [202512081125000922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081125000922.pdf)
 
-## Personnel
-- Regarding the transfer of 27 posts to the newly constituted Maharashtra State Scheduled Castes Commission establishment as the Maharashtra State Scheduled Castes Commission Act, 2025 (Maharashtra Act No. 37 of 2025) came into force from 12th September, 2025.\
-  [202512051526030822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051526030822.pdf)
+- Regarding granting administrative approval to the budget for the construction of the Government Hostel for Backward Class Children, Lakhni, District Bhandara.\
+  [202512081128385422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081128385422.pdf)
+
+- Regarding administrative approval of the budget for the construction of the Government Hostel for Backward Classes and Economically Backward Girls, Alibaug, District Raigad.\
+  [202512081116259422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081116259422.pdf)
+
+- Regarding administrative approval of the budget for the construction of Dr. Babasaheb Ambedkar Government Hostel for Backward Class Children, Devrukh, Tal. Sangameshwar, Dist. Ratnagiri.\
+  [202512081123018322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081123018322.pdf)
+
+- Dr. Babasaheb Ambedkar Government Hostel for Backward Class Children, Parbhani, Dist. Regarding granting administrative approval to the budget for the construction of this hostel.\
+  [202512081126423522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081126423522.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,52 +1,31 @@
 # General Administration Department
 
-**Date Range**: 08 December 2025 - 13 December 2025
+**Date Range**: 15 December 2025 - 20 December 2025
 
 
 ## Funds
-- Regarding granting administrative and financial approval for the expenditure of Rs. 23,92,155/- incurred on the organization/performance of the program Jai Maharashtra in the year 2025-26.\
-  [202512031451236107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031451236107.pdf)
+- Flag Day 7th December, 2025\
+  [202512081556498207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081556498207.pdf)
 
-- Regarding granting administrative and financial approval to the budget for the renovation of the entire 19th floor (east and west sides) office of the General Administration Department at the New Administration Building (excluding the e-HRMS hall).\
-  [202512041449475107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041449475107.pdf)
+- Regarding distribution of grant for 31, Subsidiary Grants (Non-Salary) to Yashda, Pune for the financial year 2025-26 for the Integrated Probationary Training Program.\
+  [202512081247588907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081247588907.pdf)
 
 ## Miscellaneous
-- Organizing Desk officer Departmental Exam 2025.\
-  [202512011651138307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512011651138307.pdf)
-
-- Regarding amendment in the consolidated guidelines for filling up the posts under nomination quota in Group-B (Non-Gazetted), Group-C and Group-D cadres under the purview of erstwhile Secondary Services Selection Boards (outside the purview of Maharashtra Public Service Commission) through direct service...\
-  [202512021638587207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512021638587207.pdf)
-
-- Regarding correction in the final seniority list of officers in the cadre of Senior Assistant Director (Information)/District Information Officer/Senior Deputy Editor/Public Relations Officer, Group-A (Junior) up to 01.01.2025. (Corrigendum)\
-  [202512031235591107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031235591107.pdf)
-
-- Regarding granting administrative approval to provide professional fees to the Quality Council of India for evaluating the performance of administrative departments on e-Governance Reforms and Sevakarmi, Sevakarmi, Sevakarmi Tech reforms under the 150-day program.\
-  [202512031459420607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031459420607.pdf)
-
-- Regarding point list verification and reservation confirmation.\
-  [202512041629496507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041629496507.pdf)
-
-- Regarding reinstatement of service due to expiry of deputation period Shri. Chandrakant Su. Katkade, desk Officer\
-  [202512051720589207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051720589207.pdf)
-
-- Regarding appointment on deputation to the post of Assistant Professor, Group-A in Regional Agricultural Extension Management Training Institute (Rameti), Pune Shrimat Priyanka Duryodhan Sable, Desk Officer\
-  [202512051724593607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051724593607.pdf)
-
-- Regarding appointment on deputation to the post of Room Officer in the office of State Information Commission, Nashik Bench Smt. Nivedita Lokesh Warule, Desk Officer\
-  [202512051723036107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051723036107.pdf)
-
-- Regarding granting administrative approval for scanning and digitization of about 500 physical service books of officers/employees of the General Administration Department.\
-  [202512051842132507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051842132507.pdf)
+- Regarding determination of the approved number of posts of the Desk Officer cadre in the ministerial department\
+  [202512081526032607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081526032607.pdf)
 
 ## Personnel
-- Regarding granting administrative and financial approval to purchase 1 new vehicle in replacement of 1 deregistered vehicle for the office use of the Secretary to the Hon. Governor.\
-  [202512041815198807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041815198807.pdf)
+- Adhoc promotion to the post of Deputy Secretary.\
+  [202512081943170207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081943170207.pdf)
 
-- Regarding extension of the period of promotion (deputation) for the post of Administrative Officer in the office of Divisional Police Complaints Authority, Nashik Smt. Rupali Bh.Late, Desk Officer\
-  [202512051718549407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051718549407.pdf)
+- Transfer of Joint Secretary /Deputy Secretary\
+  [202512081941139607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081941139607.pdf)
 
-- Regarding transfer of officers in the ministerial Desk officer cadre\
-  [202512051715542507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051715542507.pdf)
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Smt. S.A. Javale, Deputy Secretary\
+  [202512081938214407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081938214407.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Joint Secretary  Shri. R. V. Gurav, Joint Secretary\
+  [202512081935452207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081935452207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
