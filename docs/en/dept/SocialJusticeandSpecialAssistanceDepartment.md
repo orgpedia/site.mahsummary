@@ -13,6 +13,9 @@
 - Regarding the distribution of funds for the Chief Ministers My Dear Sister Scheme in the financial year 2025-26. (Account Head 2235D767)\
   [202512081500525522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081500525522.pdf)
 
+- Regarding the reorganisation of the committee by including Group Development Officer as a member in the sub-committee formed at the taluka level under the Karmaveer Dadasaheb Gaikwad Empowerment and Self-Respect Scheme....\
+  [202512091726545222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091726545222.pdf)
+
 ## Miscellaneous
 - Government Hostel for Backward Class Girls, Parbhani, Dist. Regarding granting administrative approval to the budget for the construction of the hostel, Parbhani.\
   [202512081125000922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081125000922.pdf)
@@ -28,6 +31,12 @@
 
 - Dr. Babasaheb Ambedkar Government Hostel for Backward Class Children, Parbhani, Dist. Regarding granting administrative approval to the budget for the construction of this hostel.\
   [202512081126423522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081126423522.pdf)
+
+- Regarding granting administrative approval to the budget for the construction of the Government Hostel for Backward Class Girls, Jail Road, District Ratnagiri.\
+  [202512091159317622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091159317622.pdf)
+
+- Dr. Babasaheb Ambedkar Government Hostel for Backward Class Children, Jail Road, Dist. Ratnagiri Regarding granting administrative approval to the budget for the construction of the hostel.\
+  [202512091156512722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091156512722.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

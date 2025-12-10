@@ -1,11 +1,11 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 08 December 2025 - 13 December 2025
+**Date Range**: 15 December 2025 - 20 December 2025
 
 
 ## Miscellaneous
-- Regarding reconstitution of the Expert Committee and prescribing procedures for ensuring posts for the disabled as per Section 33(2) of the Rights of Persons with Disabilities Act, 2016.\
-  [202512031600440435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512031600440435.pdf)
+- Regarding the cancellation of the state-level committee formed to send proposals for providing grants to NGOs under centrally sponsored schemes online to the Central Government.\
+  [202512091543335835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091543335835.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

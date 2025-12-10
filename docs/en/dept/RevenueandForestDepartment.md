@@ -7,6 +7,12 @@
 - Regarding grant of administrative approval for civic amenities works in flood-rehabilitated villages in Kandahar Taluka of Nanded District.\
   [202512081650500119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081650500119.pdf)
 
+- Regarding the revised administrative approval of the World Bank-funded National Cyclone Risk Mitigation (NCRMP-II) Project expenditure....\
+  [202512091316121319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091316121319.pdf)
+
+- Current Affairs Proposal under State Plan Year 2025-26 Establishment of Wildlife Rehabilitation Centre (2406 2232).\
+  [202512091615465719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091615465719.pdf)
+
 ## Miscellaneous
 - Regarding approving the disbursement of funds to provide assistance for the loss of agricultural land due to heavy rains and floods in various districts of the state from June 2025 to October 2025.\
   [202512081528293519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081528293519....pdf)
