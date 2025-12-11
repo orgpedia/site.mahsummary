@@ -7,6 +7,12 @@
 - Regarding distribution of grant for Subsidiary Grants (Non-Salary) under the account head 31- (State share 25 percent) to Mahatma Phule Agricultural University, Rahuri in the financial year 2025-26 (2415 1086).. (Programme)\
   [202512081803401001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081803401001.pdf)
 
+- To approve the amount to be paid to Jio World Convention Center for organizing and managing the AI4AGRI- 2026: Global Agriculture Artificial Intelligence Conference and Investor Summit to be held on February 22 and 23, 2026.\
+  [202512101800056601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101800056601.pdf)
+
+- Regarding approval to spend the funds distributed to Vasantrao Naik Marathwada Agricultural University, Parbhani in the financial year 2024-25...(Program)\
+  [202512101459091601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101459091601.pdf)
+
 ## Miscellaneous
 - Regarding approving the new heading for the scheme Kadhanya Atmanirbarta Abhiyan\
   [202512081736123401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081736123401.pdf)

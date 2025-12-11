@@ -19,6 +19,9 @@
 - Regarding the distribution of funds for the memorial to be built at the residence of Natsamrat Balgandharva, Nagthane, Tal. Palus, Dist. Sangli...\
   [202512091723550407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091723550407.pdf)
 
+- Regarding granting administrative approval for the construction of the complex of the Divisional Administrative Training Institute at Nashik Road, Taluka and District Nashik.\
+  [202512101137586607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101137586607.pdf)
+
 ## Miscellaneous
 - Regarding determination of the approved number of posts of the Desk Officer cadre in the ministerial department\
   [202512081526032607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081526032607.pdf)
@@ -28,6 +31,12 @@
 
 - About declaring a local holiday on the occasion of Gapalkala (Dahihandi) and Anant Chaturdashi.\
   [202512091731428607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091731428607.pdf)
+
+- Regarding authorizing Maharashtra Airport Development Company as the land acquisition agency and District Collector, Akola as the land acquisition officer for the development of Akola Airport.\
+  [202512101215565807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101215565807.pdf)
+
+- Regarding instructions regarding video conferences (V.C.) and in-person meetings to be organized with the Divisional Commissioner, District Collector and Chief Executive Officer, Zilla Parishad in the state...\
+  [202512101636148307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101636148307.pdf)
 
 ## Personnel
 - Adhoc promotion to the post of Deputy Secretary.\

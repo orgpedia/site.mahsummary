@@ -1,14 +1,21 @@
 # Women and Child Development Department
 
-**Date Range**: 08 December 2025 - 13 December 2025
+**Date Range**: 15 December 2025 - 20 December 2025
 
 
-## Miscellaneous
-- Regarding distribution of funds to Maharashtra State Probation and Correctional Home After Care Hostel, Chembur, Mumbai.\
-  [202512041442192430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041442192430.pdf)
+## Funds
+- Grant Release for ICDS General in FY 2025-26\
+  [202512101218274030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101218274030.pdf)
 
-- Foreign visit to Rome, Italy from 07.12.2025 to 13.12.2025 (including travel days) of Shri. Rajalakshmi Shah (IBRS), Managing Director, Women Economic Development Corporation (WEC), Bandra, Mumbai and Shri. Mahendra Gamre, General Manager (Projects), Women Economic Development Corporation (WEC), Bandra, Mumbai.\
-  [202512051709111830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512051709111830.pdf)
+- Grant Release for Lek Ladki Scheme\
+  [202512101218337430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101218337430.pdf)
+
+## Personnel
+- Regarding the assignment of additional charge of the vacant posts of Child Development Project Officer (Gra), Group-B (Gazetted) in the Women and Child Development Department.\
+  [202512101532573630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101532573630.pdf)
+
+- Shri. Kurhel Development Officer, Nagal City - Southern Ad-hoc Promotion to be made temporary regular promotion.\
+  [202512101510431230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101510431230.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

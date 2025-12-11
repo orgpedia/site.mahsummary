@@ -10,5 +10,9 @@
 - Regarding the release of funds to the State Water and Sanitation Mission under the Tribal Component Programme (State Share) of the Jal Jeevan Mission.\
   [202512081238144328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081238144328.pdf)
 
+## Miscellaneous
+- Budgetary Grant Year 2025-2026 Demand No.Y-4, 2702 Small Irrigation Groundwater Resources Exploration and Development Establishment (Non-Plan) (2702 3918)\
+  [202512101303096828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101303096828.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
