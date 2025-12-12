@@ -3,12 +3,19 @@
 **Date Range**: 15 December 2025 - 20 December 2025
 
 
+## Funds
+- Project for installing CCTV cameras in police stations across the state: Phase-3. Regarding granting revised administrative approval for the estimated project cost of Rs. 174 crore.\
+  [202512111111181729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111111181729.pdf)
+
 ## Miscellaneous
 - Regarding implementation of old pension scheme to 74 employees working at the establishment of Directorate of Judicial Assistant Scientific Laboratories, Mumbai.\
   [202512101730153129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101730153129.pdf)
 
 - Regarding payment of project suppliers payment for CCTV project of Thane City Police Commissionerate\
   [202512101927139029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101927139029.pdf)
+
+- Regarding the improvement of the carpet area of official residences for police personnel.\
+  [202512111435403329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111435403329.pdf)
 
 ## Personnel
 - Regarding promotion from Deputy Superintendent (Group-B) cadre to Superintendent (Group-A) cadre in the State Excise Department.\

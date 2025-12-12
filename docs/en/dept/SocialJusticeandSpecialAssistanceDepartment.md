@@ -16,6 +16,12 @@
 - Regarding the reorganisation of the committee by including Group Development Officer as a member in the sub-committee formed at the taluka level under the Karmaveer Dadasaheb Gaikwad Empowerment and Self-Respect Scheme....\
   [202512091726545222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091726545222.pdf)
 
+- Regarding the issuance of revised administrative approval for the purchase of mattresses, pillows, pillow covers, and mosquito nets for students in government hostels and residential schools under the Social Justice Department...\
+  [202512111642108122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111642108122.pdf)
+
+- Regarding the issuance of revised administrative approval for the purchase of sheets, bedsheets, and blankets for students in government hostels and residential schools under the Social Justice Department...\
+  [202512111638561322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111638561322.pdf)
+
 ## Miscellaneous
 - Government Hostel for Backward Class Girls, Parbhani, Dist. Regarding granting administrative approval to the budget for the construction of the hostel, Parbhani.\
   [202512081125000922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081125000922.pdf)

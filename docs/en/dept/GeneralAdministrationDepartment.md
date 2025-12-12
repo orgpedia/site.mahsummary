@@ -38,6 +38,18 @@
 - Regarding instructions regarding video conferences (V.C.) and in-person meetings to be organized with the Divisional Commissioner, District Collector and Chief Executive Officer, Zilla Parishad in the state...\
   [202512101636148307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101636148307.pdf)
 
+- The final seniority list of District Soldiers Welfare Officers as of 01.01.2024....\
+  [202512111236305707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111236305707.pdf)
+
+- Statue Policy Regarding prescribing guidelines for granting permission to erect statues of national heroes and eminent personalities...\
+  [202512111449231607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111449231607.pdf)
+
+- Regarding the formation of a committee to celebrate the Bhadrapada Shudddha Dwitiya, the day of the incarnation of Lord Sarvajna Sri Chakradhar Swami, as Avatar Din in government/semi-government offices....\
+  [202512111452411607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111452411607.pdf)
+
+- The final seniority list of District Soldiers Welfare Officers as of 01.01.2025....\
+  [202512111242263407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111242263407.pdf)
+
 ## Personnel
 - Adhoc promotion to the post of Deputy Secretary.\
   [202512081943170207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081943170207.pdf)

@@ -10,6 +10,10 @@
 - Grant Release for Lek Ladki Scheme\
   [202512101218337430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101218337430.pdf)
 
+## Miscellaneous
+- Regarding Aadhaar Authentication through e-KYC to verify and authenticate eligible beneficiary women under the Chief Minister-My Dear Sister scheme...\
+  [202512111106182330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111106182330.pdf)
+
 ## Personnel
 - Regarding the assignment of additional charge of the vacant posts of Child Development Project Officer (Gra), Group-B (Gazetted) in the Women and Child Development Department.\
   [202512101532573630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101532573630.pdf)

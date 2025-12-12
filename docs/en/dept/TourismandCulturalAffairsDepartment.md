@@ -46,6 +46,9 @@
 - Regarding financial approval for the expenses of organizing a cultural program based on the poems of poet V. R. Kant on the occasion of his birth centenary year.\
   [202512101820024823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101820024823.pdf)
 
+- Regarding the issuance of a corrigendum for the Kirtan Festival 2025-26...\
+  [202512111121406823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111121406823.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for the preservation and repair work of the state protected monument Bharatgad Fort, Masure, Sindhudurg District...\
   [202512091713519723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091713519723.pdf)

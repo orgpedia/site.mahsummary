@@ -10,6 +10,9 @@
 - Regarding the expansion of the Happy Saturday initiative implemented in all the schools of the state board.\
   [202512091823176121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091823176121.pdf)
 
+- Regarding the relocation of Progressive English Medium School (Std. 1st to 8th), operated by Shramik Sarvangin Bahuuddeshiya Vikas Sanstha, Kapadne, Tal.  Dist. Dhule, to Survey No. 123/1, Erandol, Tal. Erandol, Dist. Jalgaon.\
+  [202512111644301621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111644301621.pdf)
+
 ## Personnel
 - Maharashtra Education Service (Administrative Branch) Request for Transfer of Officers in Group-A- Education Officers and the like\
   [202512081645054821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081645054821.pdf)
@@ -22,6 +25,9 @@
 
 - Request of Officers in Group-A Cadre of Officers in Maharashtra Education Service (Education Empowerment Branch) Transfer-Senior Lecturer\
   [202512081643180421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081643180421....pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202512111544185221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111544185221.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

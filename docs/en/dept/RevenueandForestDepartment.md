@@ -17,6 +17,9 @@
 - Regarding approving the disbursement of funds to provide assistance for the loss of agricultural land due to heavy rains and floods in various districts of the state from June 2025 to October 2025.\
   [202512081528293519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081528293519....pdf)
 
+- Regarding granting ownership rights to the lands given on lease to the Panshet flood-affected cooperative societies.\
+  [202512111538468919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111538468919.pdf)
+
 ## Personnel
 - Regarding providing assistance to the affected people due to unseasonal rains in Gadchiroli and Chandrapur districts of Mahe October 2025 in the state...\
   [202512081620326319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081620326319.pdf)
