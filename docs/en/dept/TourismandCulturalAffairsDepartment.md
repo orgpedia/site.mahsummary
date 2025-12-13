@@ -49,6 +49,9 @@
 - Regarding the issuance of a corrigendum for the Kirtan Festival 2025-26...\
   [202512111121406823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111121406823.pdf)
 
+- Regarding giving administrative approval for the conservation and repair work of Ukandeshwar Temple, Charthana, District Jintur, District Parbhani...\
+  [202512121437077123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121437077123.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for the preservation and repair work of the state protected monument Bharatgad Fort, Masure, Sindhudurg District...\
   [202512091713519723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091713519723.pdf)

@@ -24,5 +24,8 @@
 - Regarding promotion from Maharashtra Agricultural Service Group-B (Junior) cadre to Maharashtra Agricultural Service, Group-B cadre..... Select List Year 2024-25\
   [202512091207502001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091207502001.pdf)
 
+- Regarding promotion of posts from the cadre of Superintendent and similar Group-C (Administrative) to the post of Administrative Officer and similar Group-B.\
+  [202512121524370701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121524370701.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

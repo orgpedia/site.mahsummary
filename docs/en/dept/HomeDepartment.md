@@ -7,6 +7,9 @@
 - Project for installing CCTV cameras in police stations across the state: Phase-3. Regarding granting revised administrative approval for the estimated project cost of Rs. 174 crore.\
   [202512111111181729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111111181729.pdf)
 
+- Regarding the establishment of 04 new Police stations, 02 new Circles and 03 S.P.O. Divisions on the establishment of the Commissioner of Police, Brihanmumbai, and approval of the creation of posts for the same and the recurring and non-recurring expenses incurred accordingly.\
+  [202512121240002629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121240002629.pdf)
+
 ## Miscellaneous
 - Regarding implementation of old pension scheme to 74 employees working at the establishment of Directorate of Judicial Assistant Scientific Laboratories, Mumbai.\
   [202512101730153129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101730153129.pdf)

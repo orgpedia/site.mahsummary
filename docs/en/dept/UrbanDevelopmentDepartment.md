@@ -25,6 +25,9 @@
 - Regarding the sanctioning of funds under the Special Road Grant to Municipal Corporations/Municipal Councils/Nagar Panchayats in the state. For the year 2025-26 (under Account Head 3054 0022) For Parner Nagar Panchayat, District Ahilyanagar Amount: Rs. 1.50 crore\
   [202512111557328125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111557328125.pdf)
 
+- Regarding sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (Account Head 2217 0913) For Chhatrapati Sambhajinagar Municipal Corporation, Dist. Chhatrapati Sambhajinagar Amount Rs. 4.60 Crore\
+  [202512121605501225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121605501225.pdf)
+
 ## Miscellaneous
 - In pursuance of the directions given by Honble High Court, Bombay in Public Interest Litigation No. 63/2019, regarding the constitution of a High Level Committee under the Chairmanship of Honble Chief Secretary\
   [202512081830264025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081830264025.pdf)
@@ -34,6 +37,13 @@
 
 - Regarding extension of time for construction on plot no. 4LA measuring 62,888 sq. ft. at M. Lendra, Khasra No. 142/2 by Nagpur Improvement Trust.\
   [202512111705104925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111705104925.pdf)
+
+- Africa India Economic Foundation (AIEF) to set up Africa-India Business Centre (AIBC)...\
+  [202512121703372725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121703372725.pdf)
+
+## Personnel
+- The model policy for concept based/Iconic City Development.\
+  [202512121826552425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121826552425.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

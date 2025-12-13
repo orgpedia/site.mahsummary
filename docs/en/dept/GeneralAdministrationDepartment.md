@@ -22,6 +22,9 @@
 - Regarding granting administrative approval for the construction of the complex of the Divisional Administrative Training Institute at Nashik Road, Taluka and District Nashik.\
   [202512101137586607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101137586607.pdf)
 
+- Regarding the appointment of an organization on the CBC (DAVP) list following the prescribed procedure to conduct a survey to obtain factual information (data) regarding the results of people-oriented schemes, development projects, various schemes, goals, ambitious projects, development works and public welfare schemes implemented by the State Government and approval of the estimated cost of Rs. 94.70 crore for the survey.\
+  [202512121727222507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121727222507.pdf)
+
 ## Miscellaneous
 - Regarding determination of the approved number of posts of the Desk Officer cadre in the ministerial department\
   [202512081526032607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081526032607.pdf)
@@ -49,6 +52,9 @@
 
 - The final seniority list of District Soldiers Welfare Officers as of 01.01.2025....\
   [202512111242263407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111242263407.pdf)
+
+- Regarding extension of the list of advertising agencies to carry out publicity and advertising related activities of schemes, initiatives, programs and campaigns of various departments of the State Government.\
+  [202512121558203307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121558203307.pdf)
 
 ## Personnel
 - Adhoc promotion to the post of Deputy Secretary.\
