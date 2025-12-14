@@ -33,5 +33,8 @@
 - Regarding the posting of an officer in the Inspector (Group-B) cadre in the State Excise Department.\
   [202512101439015129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512101439015129.pdf)
 
+- Transfer/posting of an IPS officer\
+  [202512131759271429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512131759271429.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

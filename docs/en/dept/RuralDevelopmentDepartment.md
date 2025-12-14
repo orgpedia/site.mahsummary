@@ -17,6 +17,9 @@
 - Regarding the formation of a committee to provide compensation for accidents/deaths caused by potholes on rural roads and other district roads, in accordance with the directions issued by the Honble Bombay High Court in Interim Application No. 29119/2025 in Public Interest Litigation No. 71/2013.\
   [202512111834511020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111834511020.pdf)
 
+- Regarding addressing community resource persons working under Maharashtra State Rural Livelihood Improvement Mission as Gramsakhi.\
+  [202512131633495020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512131633495020.pdf)
+
 ## Personnel
 - Regarding partial change in posting Block Development Officer (S-20), of Maharashtra Development Service, Group-A Cadre- Shri. M. D. Andelwad\
   [202512111124594920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111124594920.pdf)
