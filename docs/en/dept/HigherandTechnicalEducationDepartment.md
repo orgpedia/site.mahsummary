@@ -37,6 +37,9 @@
 - Regarding approval to implement short-term vocationally oriented new diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (G.K. Parasram Educational Institutions G.K. Paramedical College, Kawarbandh, Dist. Gondia)\
   [202512121821059208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121821059208.pdf)
 
+- Regarding the assignment of the additional charge of the post of Joint Director, Technical Education Divisional Office, Amravati to Dr. Vijay Rangrao Mankar, Principal, Government Polytechnic, Arvi.\
+  [202512141722309108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512141722309108.pdf)
+
 ## Personnel
 - Regarding promotion to the post of Joint Director, Technical Education/Director, Maharashtra State Board of Technical Education in the Maharashtra Engineering Administrative Service, Group-A cadre.\
   [202512111814472508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111814472508.pdf)
@@ -46,6 +49,9 @@
 
 - Regarding the reinstatement of officers working on an ad hoc basis in offices under the Directorate of Technical Education to their original posts and their revised postings.\
   [202512111808317108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111808317108.pdf)
+
+- Regarding the promotion and appointment of officers from the posts of Manager/Assistant Director (Non-Technical)/Assistant Secretary (Non-Technical)/Organization and Methods Officer/Planning Officer in the Maharashtra Engineering Administrative Service Group B cadre to the posts of Administrative Officer/Deputy Secretary (Non-Technical), Maharashtra State Board of Technical Education, Mumbai.\
+  [202512141719461008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512141719461008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

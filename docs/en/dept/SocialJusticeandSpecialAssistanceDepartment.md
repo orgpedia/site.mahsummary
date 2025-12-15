@@ -22,6 +22,9 @@
 - Regarding the issuance of revised administrative approval for the purchase of sheets, bedsheets, and blankets for students in government hostels and residential schools under the Social Justice Department...\
   [202512111638561322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111638561322.pdf)
 
+- Regarding granting administrative approval for the interior and ancillary construction of the museum building at the Dr. Babasaheb Ambedkar Memorial and Cultural Training Center in Shantiwan Chincholi, under the scheme for constructing memorials of eminent personalities from Scheduled Castes and Neo-Buddhist communities, and for the development of historically and culturally important sites...\
+  [202512141418248922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512141418248922.pdf)
+
 ## Miscellaneous
 - Government Hostel for Backward Class Girls, Parbhani, Dist. Regarding granting administrative approval to the budget for the construction of the hostel, Parbhani.\
   [202512081125000922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081125000922.pdf)

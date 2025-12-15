@@ -29,12 +29,21 @@
 - State Plan Year 2025-26 Regarding disbursement of funds under Dr. Shyamaprasad Mukherjee Jan-Van Vikas Yojana (2406-8711).\
   [202512121507058419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512121507058419.pdf)
 
+- Regarding launching the Chief Minister Baliraja Farm/Panand Road Scheme and determining a simple and easy procedure for its implementation.\
+  [202512141324287219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512141324287219.pdf)
+
+- Regarding recording the crops of farmers who were deprived of registration under e-Crop Inspection (e-Peek Pahani).\
+  [202512141324342919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512141324342919.pdf)
+
 ## Personnel
 - Regarding providing assistance to the affected people due to unseasonal rains in Gadchiroli and Chandrapur districts of Mahe October 2025 in the state...\
   [202512081620326319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081620326319.pdf)
 
 - Regarding providing assistance to the affected people due to heavy rains, floods, incessant rains and unseasonal rains in various districts of the state from June 2025 to October 2025...\
   [202512081524287519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512081524287519....pdf)
+
+- Regarding the revision of lease rates after the prescribed period for long-term leases of government land in Mumbai City and Mumbai Suburban districts, where the lease period has not yet expired, and regarding the issuance of revised instructions for lease renewal in Government Resolution dated 12/12/2012...\
+  [202512141605121919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512141605121919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
