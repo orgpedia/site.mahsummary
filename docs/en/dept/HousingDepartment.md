@@ -1,11 +1,15 @@
 # Housing Department
 
-**Date Range**: 08 December 2025 - 13 December 2025
+**Date Range**: 22 December 2025 - 27 December 2025
 
 
 ## Miscellaneous
-- Regarding the land acquisition of the property known as K. K. Modi Vani Chawl, situated at T. J. Road, Building No. 62/63, Bhukar Pahani Nos. 181 and 186, ParelSewri Division, Mumbai\
-  [202512041508200609.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512041508200609.pdf)
+- Regarding the implementation of the states comprehensive senior citizen policy-2013.\
+  [202512151606023209.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151606023209.pdf)
+
+## Personnel
+- Regarding the formulation of a policy for the joint redevelopment of MHADA layouts measuring 20 acres or more in Greater Mumbai and its suburbs.\
+  [202512151100059809.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151100059809.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
