@@ -40,6 +40,18 @@
 - Regarding the sanctioning of funds under the scheme Special provision for the development of basic amenities in municipal corporation areas. For the year 2025-26 (Account Head 2217 0913) For Nashik Municipal Corporation, District Nashik Amount: Rs. 5.00 crore\
   [202512151213500525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151213500525.pdf)
 
+- Regarding the disbursement of funds for the Solid Waste Management (SWM) project under the Swachh Maharashtra Abhiyan (Urban) 2.0, for the financial year 2025-26, through the SNA SPARSH system.\
+  [202512161308452025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161308452025.pdf)
+
+- Regarding the release of funds for the financial year 2025-26 under the SNA SPARSH system for expenditure on Capacity Building, Skill Development  Knowledge Management (CB, SD  KM) under the Swachh Maharashtra Abhiyan (Urban) 2.0.\
+  [202512161311191825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161311191825.pdf)
+
+- Regarding the disbursement of funds for the management of used water (UWM) under the Swachh Maharashtra Abhiyan (Urban) 2.0, for the financial year 2025-26, through the SNA SPARSH system.\
+  [202512161306043225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161306043225.pdf)
+
+- Regarding the disbursement of funds for Information, Education, Communication and Behavioural Change (IEC  BC) activities under the Swachh Maharashtra Abhiyan (Urban) 2.0, for the financial year 2025-26, through the SNA SPARSH system.\
+  [202512161313237025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161313237025.pdf)
+
 ## Miscellaneous
 - Regarding the sanctioning of funds under the scheme Special provision for the development of basic amenities in municipal corporation areas. For the year 2025-26 (under Account Head 2217 0913) Brihanmumbai and Nashik Municipal Corporations (State Government share to be made 100)\
   [202512151325313925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151325313925.pdf)

@@ -10,5 +10,8 @@
 - Regarding the reconstitution of the taluka-level committee to resolve the issues of serving and retired soldiers in the state...\
   [202512151729089007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151729089007.pdf)
 
+- Indian Administrative Service  Promotion in various grades Selection Grade/Super Time Scale (Secretary)/Principal Secretary - Constitution of Screening Committee regarding\
+  [202512161208519507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161208519507.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
