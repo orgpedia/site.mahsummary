@@ -13,5 +13,8 @@
 - The final seniority list for the Associate Professor, Forensic Medicine Group A category as of 01.01.2025.\
   [202512161330332813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161330332813.pdf)
 
+- The final seniority list for the Assistant Professor, Radiotherapy Group-A category, as of January 1, 2023, January 1, 2024, and January 1, 2025.\
+  [202512161330546313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161330546313.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

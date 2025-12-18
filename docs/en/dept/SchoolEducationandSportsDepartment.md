@@ -7,6 +7,9 @@
 - Regarding the approval of expenses for the participation of the Maharashtra team in the All India Civil Services Football Tournament, 2025-26, to be held in Goa from December 8th to 15th, 2025.\
   [202512161819356621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161819356621.pdf)
 
+- Regarding the approval of expenses for the participation of the Maharashtra team in the All India Civil Services Lawn Tennis Tournament, 2025-26, to be held in Gandhinagar, Gujarat, from December 16 to 22, 2025.\
+  [202512171641392421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512171641392421.pdf)
+
 ## Miscellaneous
 - Regarding granting one month extension to the committee formed to formulate a trilingual policy in schools in the state in line with the National Education Policy 2020\
   [202512151613105521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151613105521.pdf)

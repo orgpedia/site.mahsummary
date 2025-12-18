@@ -13,5 +13,9 @@
 - Indian Administrative Service  Promotion in various grades Selection Grade/Super Time Scale (Secretary)/Principal Secretary - Constitution of Screening Committee regarding\
   [202512161208519507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161208519507.pdf)
 
+## Personnel
+- Combined Probationary Training Program-11, District Attachment Training Pragram...\
+  [202512171443591807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512171443591807.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

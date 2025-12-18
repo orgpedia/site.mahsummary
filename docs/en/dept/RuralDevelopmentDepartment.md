@@ -14,5 +14,8 @@
 - Regarding the extension of the arrangement to procure 1600 rural housing engineers from an external agency for the effective implementation of the Pradhan Mantri Awas Yojana - Gramin and other rural housing schemes in the state.\
   [202512151228491320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151228491320.pdf)
 
+- Regarding publishing short-term tender notices under the e-tendering system.\
+  [202512171812043420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512171812043420.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
