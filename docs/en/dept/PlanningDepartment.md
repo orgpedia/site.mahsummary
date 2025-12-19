@@ -13,5 +13,9 @@
 - Regarding the provision of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government institutions. (Nagpur Municipal Corporation)\
   [202512151247364616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151247364616.pdf)
 
+## Miscellaneous
+- Regarding the cancellation of the promotion order due to the refusal of promotion from the post of Deputy Director, Group-A to Joint Director, Group-A in the Directorate of Economics and Statistics...\
+  [202512181252345916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181252345916.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

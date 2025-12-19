@@ -1,15 +1,11 @@
 # Finance Department
 
-**Date Range**: 15 December 2025 - 20 December 2025
+**Date Range**: 22 December 2025 - 27 December 2025
 
 
 ## Miscellaneous
-- Regarding amendment in the guidelines for setting up projects or secondary companies/projects in the joint venture sector by State Public Enterprises....\
-  [202512091441312005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512091441312005.pdf)
-
-## Personnel
-- Regarding the appointment of non-judicial (technical) members to the Maharashtra Sales Tax Tribunal....\
-  [202512111829375805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512111829375805.pdf)
+- Regarding No-Dues Certificate and No-Departmental Inquiry certificate.\
+  [202512181422205605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181422205605.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 22 December 2025 - 27 December 2025
 
 
+## Funds
+- Distribution of funds for new/ongoing projects in the 0 to 100 hectares irrigation capacity range: Pune District (Rest of Maharashtra region)\
+  [202512181537129726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181537129726.pdf)
+
 ## Personnel
 - Regarding the promotion and appointment to the post of Managing Director, Maharashtra Water Conservation Corporation, Chhatrapati Sambhaji Nagar.\
   [202512151123385926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151123385926.pdf)

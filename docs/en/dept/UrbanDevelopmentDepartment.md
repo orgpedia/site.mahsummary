@@ -52,6 +52,12 @@
 - Regarding the disbursement of funds for Information, Education, Communication and Behavioural Change (IEC  BC) activities under the Swachh Maharashtra Abhiyan (Urban) 2.0, for the financial year 2025-26, through the SNA SPARSH system.\
   [202512161313237025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161313237025.pdf)
 
+- Release of Sub-Ordinate Debt amount of the State Governments share to Maharashtra Metro Rail Corporation Ltd. in the Thane Internal Ring Metro Rail Project. (Year 2025-26)\
+  [202512181301214525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181301214525.pdf)
+
+- Disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 2A, 2B and 7 projects (FY 2025-26)\
+  [202512181257316325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181257316325.pdf)
+
 ## Miscellaneous
 - Regarding the sanctioning of funds under the scheme Special provision for the development of basic amenities in municipal corporation areas. For the year 2025-26 (under Account Head 2217 0913) Brihanmumbai and Nashik Municipal Corporations (State Government share to be made 100)\
   [202512151325313925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151325313925.pdf)
