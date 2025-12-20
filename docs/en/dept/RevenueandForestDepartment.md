@@ -72,5 +72,8 @@
 - Transfer and posting of officers in the Tahsildar cadre.\
   [202512172209147519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512172209147519.pdf)
 
+- Regarding the transfer and posting of officers in the Deputy Collector cadre.\
+  [202512191457513419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191457513419.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

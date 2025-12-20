@@ -19,5 +19,9 @@
 - Corrigendum to approve the disbursement and expenditure of funds amounting to Rs. 100.00 crore under the objective of 52-Machinery and Equipment under Account Head 4210 1101 for capital expenditure for implementation of Emergency Medical Service-EMS...\
   [202512181254454217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181254454217.pdf)
 
+## Miscellaneous
+- Regarding the address of Director (Mumbai) as Director (Hospital) Health Services and Director (Pune) as Director (Primary), Health Services\
+  [202512191812061417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191812061417.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

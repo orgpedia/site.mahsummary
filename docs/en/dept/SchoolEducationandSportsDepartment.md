@@ -23,5 +23,14 @@
 - State Youth Policy 2012 District Youth Award Selection and Youth Festival Committee.\
   [202512161507260121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161507260121.pdf)
 
+- Regarding the granting of administrative approval for the payment of fees to consultants working on various projects under e-governance.\
+  [202512191302122221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191302122221.pdf)
+
+- Regarding granting administrative approval for the payment of Rs. 1,10,87,844/- to M/s ESDS Software Solutions Ltd. in connection with cloud services.\
+  [202512191300442921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191300442921.pdf)
+
+- Regarding the grant of administrative approval for the expenditure on purchasing 6 iPads for the officers in the offices of the Honble Minister (School Education) and the Honble Minister of State (School Education).\
+  [202512191622509421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191622509421.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

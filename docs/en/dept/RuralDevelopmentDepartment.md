@@ -13,6 +13,12 @@
 - Regarding granting administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Category B). Shri Kshetra Sangameshwar Temple, Kudalsangam, South Solapur Taluka, Solapur District.\
   [202512181049096920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181049096920.pdf)
 
+- Regarding administrative approval for the land acquisition required for the Dnyanjyoti Savitribai Phule Memorial and Womens Training Center at Mauje Naigaon, Taluka Khandala, District Satara.\
+  [202512181049169220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181049169220.pdf)
+
+- Regarding distribution of funds for awards and programs under Yashwantrao Chavan Panchayat Raj Mission 2024-25 (evaluation year 2023-24).\
+  [202512191516352420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191516352420.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the arrangement to procure 1600 rural housing engineers from an external agency for the effective implementation of the Pradhan Mantri Awas Yojana - Gramin and other rural housing schemes in the state.\
   [202512151228491320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151228491320.pdf)

@@ -7,6 +7,21 @@
 - Distribution of funds for new/ongoing projects in the 0 to 100 hectares irrigation capacity range: Pune District (Rest of Maharashtra region)\
   [202512181537129726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181537129726.pdf)
 
+- Funding allocation for new/ongoing projects of 101 to 250 hectares of irrigated area: Solapur District (Rest of Maharashtra Region)\
+  [202512191210167426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191210167426.pdf)
+
+- Funding allocation for new/ongoing projects of 101 to 250 hectares of irrigated area: Sangli District (Rest of Maharashtra region)\
+  [202512191208483526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191208483526.pdf)
+
+- Funding allocation for new/ongoing projects in the 0 to 100 hectares category: Washim (Vidarbha Division)\
+  [202512191205300526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191205300526.pdf)
+
+- Funding allocation for new/ongoing projects in the 0 to 100 hectares irrigation capacity range: Beed District (Marathwada Division)\
+  [202512191203274826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191203274826.pdf)
+
+- Distribution of funds for new/ongoing projects in the 0 to 100 hectares irrigation capacity range: Nashik District (Rest of Maharashtra region)\
+  [202512191206513326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191206513326.pdf)
+
 ## Personnel
 - Regarding the promotion and appointment to the post of Managing Director, Maharashtra Water Conservation Corporation, Chhatrapati Sambhaji Nagar.\
   [202512151123385926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151123385926.pdf)
