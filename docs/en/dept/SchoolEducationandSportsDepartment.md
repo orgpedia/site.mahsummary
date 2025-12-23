@@ -1,36 +1,14 @@
 # School Education and Sports Department
 
-**Date Range**: 22 December 2025 - 27 December 2025
+**Date Range**: 29 December 2025 - 03 January 2026
 
 
-## Funds
-- Regarding the approval of expenses for the participation of the Maharashtra team in the All India Civil Services Football Tournament, 2025-26, to be held in Goa from December 8th to 15th, 2025.\
-  [202512161819356621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161819356621.pdf)
+## Personnel
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202512221846512921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221846512921.pdf)
 
-- Regarding the approval of expenses for the participation of the Maharashtra team in the All India Civil Services Lawn Tennis Tournament, 2025-26, to be held in Gandhinagar, Gujarat, from December 16 to 22, 2025.\
-  [202512171641392421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512171641392421.pdf)
-
-- Regarding the approval of expenses for the participation of the Maharashtra team in the All India Civil Services Athletics Competition, 2025-26, to be held in Patna, Bihar from December 13 to 15, 2025.\
-  [202512181733044421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181733044421.pdf)
-
-## Miscellaneous
-- Regarding granting one month extension to the committee formed to formulate a trilingual policy in schools in the state in line with the National Education Policy 2020\
-  [202512151613105521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151613105521.pdf)
-
-- Regarding the grading system for the Chief Ministers My School, Beautiful School Phase-3 campaign.\
-  [202512151611003021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151611003021.pdf)
-
-- State Youth Policy 2012 District Youth Award Selection and Youth Festival Committee.\
-  [202512161507260121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512161507260121.pdf)
-
-- Regarding the granting of administrative approval for the payment of fees to consultants working on various projects under e-governance.\
-  [202512191302122221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191302122221.pdf)
-
-- Regarding granting administrative approval for the payment of Rs. 1,10,87,844/- to M/s ESDS Software Solutions Ltd. in connection with cloud services.\
-  [202512191300442921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191300442921.pdf)
-
-- Regarding the grant of administrative approval for the expenditure on purchasing 6 iPads for the officers in the offices of the Honble Minister (School Education) and the Honble Minister of State (School Education).\
-  [202512191622509421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191622509421.pdf)
+- Regarding recruitment rules to be applied to the post of Assistant Teacher Group-C Government Vidyaniketan.\
+  [202512221553566721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221553566721.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

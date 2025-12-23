@@ -1,24 +1,15 @@
 # Planning Department
 
-**Date Range**: 22 December 2025 - 27 December 2025
+**Date Range**: 29 December 2025 - 03 January 2026
 
-
-## Funds
-- Regarding the provision of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government institutions. (Nagpur Municipal Corporation)\
-  [202512151244053416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151244053416.pdf)
-
-- Regarding the provision of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government institutions. (Nagpur Municipal Corporation)\
-  [202512151245455816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151245455816.pdf)
-
-- Regarding the provision of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government institutions. (Nagpur Municipal Corporation)\
-  [202512151247364616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512151247364616.pdf)
 
 ## Miscellaneous
-- Regarding the cancellation of the promotion order due to the refusal of promotion from the post of Deputy Director, Group-A to Joint Director, Group-A in the Directorate of Economics and Statistics...\
-  [202512181252345916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512181252345916.pdf)
+- Regarding the formation of a selection committee for the appointment to the post of Director, Maharashtra Remote Sensing Applications Centre (MRSAC), Nagpur.\
+  [202512221458120916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221458120916.pdf)
 
-- Regarding the formation of a committee to determine criteria and select projects for innovative schemes.\
-  [202512191636460516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512191636460516.pdf)
+## Personnel
+- Regarding the publication of the final seniority list for the post of Additional Director, Group A in the Directorate of Economics and Statistics, as of 01/01/2025 (for the period from 01/01/2024 to 31/12/2024).\
+  [202512221123151816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221123151816.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
