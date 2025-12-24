@@ -16,6 +16,12 @@
 - Regarding the sanctioning of management grants (36-Subsidiary Grants-Salaries) to the Mahatma Phule Backward Classes Development Corporation for the financial year 2025-26.\
   [202512221826036422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221826036422.pdf)
 
+- Regarding the approval for the disbursement of funds allocated in the budget for the year 2025-26 for the Karmaveer Dadasaheb Gaikwad Empowerment and Self-Respect Scheme...\
+  [202512231522392822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231522392822.pdf)
+
+- Regarding the approval for the disbursement of funds allocated in the budget for the year 2025-26 for the scheme of supplying mini tractors and their accessories to self-help savings groups of Scheduled Castes and Neo-Buddhists...\
+  [202512231524518322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231524518322.pdf)
+
 ## Miscellaneous
 - Regarding the granting of administrative approval to the budget for the construction of Dr. Babasaheb Ambedkar Government Hostel for Backward Class Students, Karanja Lad, District Washim.\
   [202512221721500522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221721500522.pdf)

@@ -3,6 +3,10 @@
 **Date Range**: 29 December 2025 - 03 January 2026
 
 
+## Funds
+- Regarding approval to distribute and spend funds for the Village Child Development Center (VCDC)/Urban Child Development Center (UCDC) schemes for severely malnourished children for the financial year 2025-26.\
+  [202512231659232730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231659232730.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds to pay the expenses incurred for conducting departmental examinations through Mahatma Gandhi Institute of Administration Training, Pune.\
   [202512221812200130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221812200130.pdf)

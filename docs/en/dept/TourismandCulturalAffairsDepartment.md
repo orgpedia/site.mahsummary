@@ -7,6 +7,9 @@
 - Regarding the granting of administrative and financial approval for the funding of the 8th Annabhau Sathe International Film Festival.\
   [202512221529357923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221529357923.pdf)
 
+- Regarding the financial approval for the final installment of funds for the construction of a theatre in Alibaug, Raigad district.\
+  [202512231540215223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231540215223.pdf)
+
 ## Miscellaneous
 - State Government Grant Package for Folk Artists - Regarding approval of the capital grant scheme for Bhajan groups. (Corrigendum)\
   [202512221531570723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221531570723.pdf)

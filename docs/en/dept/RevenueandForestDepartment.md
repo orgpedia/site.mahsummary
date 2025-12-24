@@ -20,6 +20,15 @@
 - Forest Land- Palghar Re-diversion of 0.8295 ha. Forest land for laying Optical Fiber Cable of M/s Vodafone Idea Telecom Infrastructure Ltd. Pune along existing Right of Way of Charoti-Saiwan-Jawhar Road in Palghar District under Dahanu Forest Division  in the State of Maharashtra.\
   [202512221710091119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221710091119.pdf)
 
+- Regarding granting permission to erect advertising hoardings on government land.\
+  [202512231758596319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231758596319.pdf)
+
+- Forest Land- Nashik Re-diversion of 0.8635 ha. forest land for laying of Optical fiber cable of Vodafone Idea Telecom Infrastructure Ltd Project along the RoW of Dahivel to Wani (L.H.S Side) Road in Nashik District under East Nashik Forest Division in the state of Maharashtra.\
+  [202512231752537719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231752537719.pdf)
+
+- Forest Land- Thane Re-diversion of 0.3194 ha of forest land. for laying of Gas Pipeline from Vadape Naka Ch.539.750 Km. to Mankoli Naka Ch.554.500 Km along RHS in the Section NH-3 (New NH-848), Tal. Bhiwandi, Dist. Thane in the State of Maharashtra.\
+  [202512231754555919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231754555919.pdf)
+
 ## Personnel
 - Transfer and posting of officers in the Tahsildar cadre.\
   [202512222158383219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512222158383219.pdf)

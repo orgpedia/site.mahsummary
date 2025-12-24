@@ -23,5 +23,15 @@
 - Regarding the sanctioning of the first benefit under the revised assured career progression scheme with three benefits in the Seventh Pay Commission.\
   [202512221304243807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221304243807.pdf)
 
+- Regarding exemption from training after promotion to the post of Joint Secretary and Deputy Secretary.\
+  [202512231459206607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231459206607....pdf)
+
+- Training under the state training policy for the year 2025-2026 - Post- promotion of Joint secretary and Deputy secretary\
+  [202512231456112907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231456112907.pdf)
+
+## Personnel
+- Making amendments to the room allocation and reservation/charges of the rooms and halls at the New Maharashtra Sadan, New Delhi.....\
+  [202512231639505907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231639505907.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

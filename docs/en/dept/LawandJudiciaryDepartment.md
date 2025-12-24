@@ -13,12 +13,27 @@
 - Regarding granting administrative approval for the purchase of 22 computers and 22 printers for the office of the Chief Presenting Officer, Maharashtra Administrative Tribunal, Mumbai, Aurangabad Bench.\
   [202512221845060412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221845060412.pdf)
 
+- Regarding granting administrative approval for the expenditure on purchasing 186 laptops for the personal assistants of the Honourable Judges of the Bombay High Court and its Nagpur and Aurangabad benches.\
+  [202512231840232712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231840232712.pdf)
+
+- Regarding granting administrative approval for the purchase of a total of 20 Apple iPads, MacBooks, and multifunction printers, etc., IT equipment for the newly appointed judges at the Honble High Court, Mumbai.\
+  [202512231832517512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231832517512.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the purchase of 02 barcode printers for the judges library at the Honble High Court, Mumbai.\
   [202512221307503012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221307503012.pdf)
 
 - Regarding updating the Head of Account to make provision for construction of new complexes, new court buildings and new residencial Quarters Also, repairs, renovations and ancillary works of existing buildings for the Honble High Court, Bombay and its Benches.\
   [202512221106025412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221106025412.pdf)
+
+- Regarding granting exemption, as a special case and with retrospective effect, from passing the Departmental Post-Entry Examination to all employees appointed before 14.11.2025 to the posts of Superintendent (Group-B), Head Clerk, and Senior Clerk (Group-C) in the Registrar of Partnership Firms office.\
+  [202512231712551212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231712551212.pdf)
+
+- Regarding the administrative approval for the GST amount on the expenditure for providing free Wi-Fi connectivity for the use of lawyers and petitioners in the premises and benches of the Honble High Court, Mumbai.\
+  [202512231720484612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231720484612.pdf)
+
+- Regarding granting administrative approval for the purchase of new computer equipment, including 30 computers, 10 printers, and 4 laptops, for the office of the Registrar of Partnership Firms, Maharashtra State, Mumbai.\
+  [202512231836408212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231836408212.pdf)
 
 ## Personnel
 - Regarding consideration of uninterrupted service for sanction of non-functional pay scale to be granted after four years of regular service to Section Officer cadre.\
