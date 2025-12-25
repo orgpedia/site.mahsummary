@@ -23,9 +23,15 @@
 - To establish a committee for creating a new Standard Operating Procedure by making changes to the accountability procedures regarding seed testing.\
   [202512231844304801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231844304801.pdf)
 
+- Reconstitution of the committee for selecting beneficiaries under the state-level scheme for providing grants for land purchase to landless shepherd families from the Dhangar and similar communities belonging to the Nomadic Tribes (NT-C) backward class category, for semi-intensive and intensive sheep farming.\
+  [202512241157350501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241157350501.pdf)
+
 ## Personnel
 - Request-based transfers of officers in the Maharashtra Agricultural Service, Group-A (Superintendent Agricultural Officer) cadre...\
   [202512231849558901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231849558901.pdf)
+
+- Regarding the matter of granting Mr. Satish Arunrao Jadhav, Agricultural Officer, Taluka Agricultural Officers Office, Panhala, District Kolhapur, the benefit of his previous government service...\
+  [202512241253044701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241253044701.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

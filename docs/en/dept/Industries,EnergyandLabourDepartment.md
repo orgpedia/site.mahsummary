@@ -7,6 +7,15 @@
 - Regarding the granting of administrative and financial approval to the budget for the renovation of the District Industries Center, Yavatmal office...\
   [202512231634523310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231634523310.pdf)
 
+- Regarding the approval of the final installment of grant funding for the construction of the common facility center of the Lab Grown Diamond Cluster, Nawapur, District Nandurbar, under the scheme for providing grants to industrial cluster projects for creating common facilities in the state.\
+  [202512241758323110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241758323110.pdf)
+
+- Regarding the approval of the final installment of grant funding for the construction of the common facility center of the Coating Cluster industrial group project, located at Wing village, Khandala taluka, Satara district, under the scheme for providing grants to industrial group projects for creating common facilities in the state.\
+  [202512241756100310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241756100310.pdf)
+
+- Regarding the exemption of stamp duty and registration fees for land development and sub-development agreements/lease and sub-lease agreements of solar power projects to be installed under the scheme for solarization of extra-high voltage and high voltage lift irrigation schemes, and regarding the provision of government land for these projects on lease and sub-lease at a nominal annual rate of Rs. 1/-.\
+  [202512241347175110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241347175110.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to provide capital subsidies for projects related to coal gasification and downstream derivatives and green steel production...\
   [202512231749528710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231749528710.pdf)

@@ -25,6 +25,27 @@
 - Regarding the sanctioning of funds to Municipal Corporations/Municipal Councils/Nagar Panchayats in the state under the Special Road Grant scheme. For the year 2023-24 (Account Head 3054 0022) For Hingoli Municipal Council, Dist. Hingoli Amount instead of Rs. 1.00 crore: (Rs. 0.00) For Hadgaon Municipal Council, Dist. Nanded Amount Rs. 1.00 (Revised - Corrigendum)\
   [202512231742142725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231742142725.pdf)
 
+- Release of Equity share amount of the State Governments share to Maharashtra Metro Rail Corporation Ltd. in the Swargate-Katraj Metro Rail Corridor Project of the Pune Metro Rail Project (FY 2025-26)\
+  [202512241220092525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241220092525.pdf)
+
+- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3A (MUTP-3A) (FY 2025-26)\
+  [202512241224319325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241224319325.pdf)
+
+- Release of State Government Equity for Nagpur Metro Railway Project (Phase-2) to Maharashtra Rail Corporation Ltd. (FY 2025-26)\
+  [202512241218421925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241218421925.pdf)
+
+- Regarding the provision of state government financial assistance to the Mumbai Rail Vikas Corporation for the Mumbai Urban Transport Project Phase-3A (MUTP-3A) project (for the year 2025-26).\
+  [202512241216367525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241216367525.pdf)
+
+- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3 (MUTP-3) (FY 2025-26)\
+  [202512241226241925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241226241925.pdf)
+
+- Release of surcharge on stamp duty to Metro Rail Project to MMRDA, MMRCL and MahaMetro from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949. (FY 2025-26)\
+  [202512241222341925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241222341925.pdf)
+
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the financial year 2025-26, under account head (2217 1301) For Chiplun Municipal Council, Dist. Ratnagiri Amount: Rs. 11.00 crore\
+  [202512241254523325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241254523325.pdf)
+
 ## Personnel
 - Regarding leasing out the land in Survey No. 13 owned by Wardha Municipal Council for implementing the solid waste project\
   [202512231244357325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231244357325.pdf)

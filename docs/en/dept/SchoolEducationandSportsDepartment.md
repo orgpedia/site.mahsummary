@@ -3,6 +3,13 @@
 **Date Range**: 29 December 2025 - 03 January 2026
 
 
+## Miscellaneous
+- Regarding the creation of new posts and a new cadre for the direct appointment of exceptionally high-quality athletes into government service...\
+  [202512241846027421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241846027421.pdf)
+
+- Regarding taking measures to prevent stray dogs from roaming in the sports complex premises.\
+  [202512241849577921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241849577921.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202512221846512921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221846512921.pdf)
@@ -30,6 +37,15 @@
 
 - Regarding the relocation of R.M. Desale English Medium School, Bijote, Taluka Baglan, District Nashik, operated by Shri Motiram Shankar Desale Multipurpose Institution, Gorane, Taluka Satana, District Nashik, to Nitane Gat No. 606, Taluka Baglan, District Nashik.\
   [202512231201326121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231201326121.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202512241625012521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241625012521.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202512241854170821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241854170821.pdf)
+
+- Regarding the transfer of the management of Savitribai Phule Primary School, Ujani, operated by Savitribai Phule Educational Institution, Ujani, Ausa Taluka, Latur District, to Bharatiya Gyanvardhini Lokvikas Sanstha, Helamb, Devani Taluka, Latur District.\
+  [202512241529187221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241529187221.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

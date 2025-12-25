@@ -29,9 +29,24 @@
 - Training under the state training policy for the year 2025-2026 - Post- promotion of Joint secretary and Deputy secretary\
   [202512231456112907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231456112907.pdf)
 
+- Regarding the upgrading of the pay scale for the Assistant Professor position at the Yashwantrao Chavan Development Administration Academy, Pune, and appointment on deputation basis.\
+  [202512241245034407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241245034407.pdf)
+
+- Regarding the remuneration to be paid to interviewers/presenters/commentary speakers/voice-over artists (for Marathi and other Indian languages) for the Dilkhulas and Jai Maharashtra programs.\
+  [202512241554522807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241554522807.pdf)
+
+- About orgnisation of section officer promotional exam\
+  [202512241521283907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241521283907.pdf)
+
+- Regarding amendments to the rules governing the administration of the Chief Ministers Charitable Donation Fund.............\
+  [202512241818126807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241818126807.pdf)
+
 ## Personnel
 - Making amendments to the room allocation and reservation/charges of the rooms and halls at the New Maharashtra Sadan, New Delhi.....\
   [202512231639505907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231639505907.pdf)
+
+- Revised policy for the allocation of government residences in Greater Mumbai under the purview of the General Administration Department.\
+  [202512241632035207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241632035207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,5 +13,12 @@
 - Regarding the appointment of a contractor for the removal of Class D waste from the ministerial departments located in the Mantralaya, New Administrative Building, and G.T. Hospital buildings.\
   [202512231710393218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231710393218.pdf)
 
+- Regarding the merging of previous service in the Water Resources Department with the service in the Public Works Department... Mrs. Sonali Ramesh Chavan, Superintending Engineer.\
+  [202512241208107518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241208107518.pdf)
+
+## Personnel
+- Regarding the merging of previous service in the Water Resources Department with the service in the Public Works Department... Mr. Dhananjay Chandrakant Jadhav, Executive Engineer.\
+  [202512241205583718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241205583718.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

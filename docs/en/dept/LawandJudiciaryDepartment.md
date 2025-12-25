@@ -19,6 +19,9 @@
 - Regarding granting administrative approval for the purchase of a total of 20 Apple iPads, MacBooks, and multifunction printers, etc., IT equipment for the newly appointed judges at the Honble High Court, Mumbai.\
   [202512231832517512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231832517512.pdf)
 
+- Regarding granting the status of Minister of State to Dr. Milind Sathe, the Honble Advocate General, Government of Maharashtra, and the services and facilities to be provided to the Honble Advocate General, Government of Maharashtra, who holds the status of Minister of State\
+  [202512241452435512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241452435512.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the purchase of 02 barcode printers for the judges library at the Honble High Court, Mumbai.\
   [202512221307503012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221307503012.pdf)
@@ -35,9 +38,18 @@
 - Regarding granting administrative approval for the purchase of new computer equipment, including 30 computers, 10 printers, and 4 laptops, for the office of the Registrar of Partnership Firms, Maharashtra State, Mumbai.\
   [202512231836408212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231836408212.pdf)
 
+- Corrigendum-Creation of 2228 post on the establishment of High Court, Mumbai for Original side, Appellate side, as well its Nagpur and Aurangabad Bench.\
+  [202512241438392612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241438392612.pdf)
+
+- Addendum - Creation of 2228 post on the establishment of High Court, Mumbai for Original side, Appellate side, as well its Nagpur and Aurangabad Bench.\
+  [202512241441162012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241441162012.pdf)
+
 ## Personnel
 - Regarding consideration of uninterrupted service for sanction of non-functional pay scale to be granted after four years of regular service to Section Officer cadre.\
   [202512221524064412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221524064412.pdf)
+
+- Budgetary Grant Demand No. J-5 for the year 2025-26, Major Head 7610, Loans to Government Employees, etc., under Sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Disbursement of advances for the purchase of new motorcycles/scooters.\
+  [202512241546287012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241546287012.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

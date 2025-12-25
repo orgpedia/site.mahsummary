@@ -22,6 +22,15 @@
 - Regarding the approval for the disbursement of funds allocated in the budget for the year 2025-26 for the scheme of supplying mini tractors and their accessories to self-help savings groups of Scheduled Castes and Neo-Buddhists...\
   [202512231524518322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231524518322.pdf)
 
+- Regarding the sanctioning of equity capital grant (4225 0031 Equity Capital Contribution 54, Investments) to Mahatma Phule Backward Classes Development Corporation.\
+  [202512241513097022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241513097022.pdf)
+
+- Regarding the disbursement of grant-in-aid under account head 31, Grant-in-aid (2225G252) (Non-salary), to Mahatma Phule Backward Classes Development Corporation Ltd., Mumbai.\
+  [202512241515319722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241515319722.pdf)
+
+- Regarding the disbursement of sanctioned funds to Sant Rohidas Leather Industry and Leather Workers Development Corporation, Mumbai, under the share capital account head 42250042, program 54 - Investments.\
+  [202512241517525922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241517525922.pdf)
+
 ## Miscellaneous
 - Regarding the granting of administrative approval to the budget for the construction of Dr. Babasaheb Ambedkar Government Hostel for Backward Class Students, Karanja Lad, District Washim.\
   [202512221721500522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221721500522.pdf)
