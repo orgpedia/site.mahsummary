@@ -10,6 +10,9 @@
 - Regarding taking measures to prevent stray dogs from roaming in the sports complex premises.\
   [202512241849577921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241849577921.pdf)
 
+- Regarding the payment of salaries to special education teachers under the Inclusive Education Scheme for Disabled Children (Secondary Level).\
+  [202512261251437121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261251437121.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202512221846512921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221846512921.pdf)

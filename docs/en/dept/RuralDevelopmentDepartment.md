@@ -20,5 +20,8 @@
 - Regarding approval for purchase of new vehicles in exchange for deregistered vehicles by Additional Commissioner (Establishment) and Additional Commissioner (Development) of the Divisional Commissioners Office under the Rural Development Department.\
   [202512241634582020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241634582020.pdf)
 
+- Guidelines regarding the dilapidated / hazardous school buildings under Zilla Parishad.\
+  [202512261525419220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261525419220.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -46,6 +46,39 @@
 - Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the financial year 2025-26, under account head (2217 1301) For Chiplun Municipal Council, Dist. Ratnagiri Amount: Rs. 11.00 crore\
   [202512241254523325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241254523325.pdf)
 
+- Regarding the disbursement of sanctioned funds to the Mumbai Metropolitan Region Development Authority for the Orange Gate to Marine Drive underground tunnel project, under Part-1 of the Central Governments Special Assistance to States for Capital Expenditure Scheme 2025-26...\
+  [202512261445287025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261445287025.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-5 (Thane-Bhivandi-Kalyan) Project (FY 2025-26)\
+  [202512261448079925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261448079925.pdf)
+
+- Regarding the disbursement of subordinate loan from the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Line-2B (DN Nagar-Mandale) project. (2025-26)\
+  [202512261455303425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261455303425.pdf)
+
+- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-6 (Swami Samarth Nagar-Jogeshwari-Vikhroli) Project (FY 2025-26)\
+  [202512261451060725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261451060725.pdf)
+
+- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-9 Dahisar to Mira-Bhayandar and Line-7A- Andheri-CSMIA Project (FY 2025-26)\
+  [202512261501411725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261501411725.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-4 (Vadala-Ghatkopar-Thane-Kasarvadavali)  4A (Kasarvadavali to Gaimukh) Project (FY 2025-26)\
+  [202512261457340025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261457340025.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-10 Gaimukh  Shivaji Chowk(Mira road) Project (FY 2025-26)\
+  [202512261503482025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261503482025.pdf)
+
+- Regarding the disbursement of a subordinate loan from the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Line-12 (Kalyan-Taloja) project. (Year 2025-26)\
+  [202512261506028325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261506028325.pdf)
+
+- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-2A (Dahisar (E) to D.N. Nagar) Project (FY 2025-26)\
+  [202512261453025625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261453025625.pdf)
+
+- Regarding the disbursement of funds under Part-1 of the Central Governments Special Assistance to States for Capital Investment 2025-26 scheme.\
+  [202512261819405325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261819405325.pdf)
+
+- Regarding the disbursement of subordinate loan from the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro-7 Andheri (East) - Dahisar (East) project. (Year 2025-26)\
+  [202512261459454225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261459454225.pdf)
+
 ## Personnel
 - Regarding leasing out the land in Survey No. 13 owned by Wardha Municipal Council for implementing the solid waste project\
   [202512231244357325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231244357325.pdf)

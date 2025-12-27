@@ -44,6 +44,36 @@
 - Regarding the approval to increase the intake capacity for short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26.\
   [202512241822444808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241822444808.pdf)
 
+- Regarding the approval for increasing the intake capacity of short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Mauli Institute of Technical Education, Washim, run by Mauli Multipurpose Education Society)\
+  [202512261810331508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261810331508.pdf)
+
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Shri Nandishwar Education  Social Foundation, IFSC, Satara)\
+  [202512261703109308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261703109308.pdf)
+
+- Regarding the approval for increasing the intake capacity of short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Sant Gajanan Maharaj Technical and Paramedical College, Chandrapur, run by Sant Gajanan Maharaj Shikshan Prasarak Mandal)\
+  [202512261656360708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261656360708...pdf)
+
+- Regarding granting approval to increase the intake capacity for short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Help Medical Foundation and Research Center Shri Ganesh Paramedical Science College, Latur)\
+  [202512261641150208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261641150208....pdf)
+
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Navalbhai Pratishthans ADMLT College, Nashik)\
+  [202512261653116508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261653116508.pdf)
+
+- Regarding the approval to increase the intake capacity for short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Sanjay Education Societys DMLT and Fire Safety College, Dhule)\
+  [202512261800349408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261800349408.pdf)
+
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Shrihari Multipurpose Educational Institute, Tumsar, Anuradha Paramedical College, Tumsar, Bhandara)\
+  [202512261813315308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261813315308.pdf)
+
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Vainganga Multipurpose Development Institute, Nagpur, Vainganga Technical Institute, Sakoli, Bhandara)\
+  [202512261706444408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261706444408.pdf)
+
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Dr. Babasaheb Ambedkar Institute of Smt. Gulabi Multipurpose Social Education and Health Institute, Chandrapur)\
+  [202512261659284408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261659284408.pdf)
+
+- Regarding the approval to increase the accessibility of short term vocational oriented diploma courses under the jurisdiction of the Maharashtra State Board of Technical Education from the academic year 2025-26.  (Dattajirao Kadam Technical Education Societys DKT E Society Yashwantraochavan Polytechnic Ichalkaranji, Kolhapur)\
+  [202512261634311808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261634311808....pdf)
+
 ## Personnel
 - Regarding the placement of Assistant Professors in government colleges/institutions into the Senior Scale and Selection Grade under the Career Advancement Scheme...\
   [202512221734363708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221734363708.pdf)

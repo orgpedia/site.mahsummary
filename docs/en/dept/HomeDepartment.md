@@ -10,6 +10,9 @@
 - Regarding obtaining administrative approval for the construction of an electric charging station for electric buses in the premises of the Malkapur depot of the Buldhana division of the State Transport Corporation....\
   [202512241541043029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241541043029.pdf)
 
+- Regarding obtaining revised administrative approval for the construction of a jetty at Arnala Fort, Vasai Taluka, Palghar District, at a cost of Rs. 14.86 crore.\
+  [202512261232093029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261232093029.pdf)
+
 ## Miscellaneous
 - Regarding the creation of a new Kudus Police Station by bifurcating the Wada Police Station, under the establishment of the Superintendent of Police, Palghar, using the available manpower.\
   [202512221731514729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221731514729.pdf)

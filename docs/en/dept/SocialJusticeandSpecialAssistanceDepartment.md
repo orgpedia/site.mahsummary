@@ -31,6 +31,9 @@
 - Regarding the disbursement of sanctioned funds to Sant Rohidas Leather Industry and Leather Workers Development Corporation, Mumbai, under the share capital account head 42250042, program 54 - Investments.\
   [202512241517525922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241517525922.pdf)
 
+- Regarding the granting of administrative approval for the purchase of necessary equipment/items for the Government Girls Hostel, Amba, Taluka Partur, District Jalna, under the Social Justice Department, on the occasion of the 125th birth anniversary of Dr. Babasaheb Ambedkar.\
+  [202512261511490922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261511490922.pdf)
+
 ## Miscellaneous
 - Regarding the granting of administrative approval to the budget for the construction of Dr. Babasaheb Ambedkar Government Hostel for Backward Class Students, Karanja Lad, District Washim.\
   [202512221721500522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221721500522.pdf)

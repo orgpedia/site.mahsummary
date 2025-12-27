@@ -69,5 +69,8 @@
 - Regarding the posting of officers in the Deputy Tahsildar cadre...\
   [202512241852194719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241852194719.pdf)
 
+- Annual Plan 2025-26 Regarding the purchase of 1 new vehicle to replace 1 condemned vehicle from the office under the Conservator of Forests (Territorial), Chhatrapati Sambhaji Nagar, under the scheme for strengthening of mobile squads (2406 2161) under the state-level plan.\
+  [202512261145297319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261145297319.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

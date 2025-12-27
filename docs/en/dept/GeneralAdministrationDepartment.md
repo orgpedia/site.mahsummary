@@ -41,6 +41,18 @@
 - Regarding amendments to the rules governing the administration of the Chief Ministers Charitable Donation Fund.............\
   [202512241818126807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241818126807.pdf)
 
+- Regarding the sanction of financial assistance from the Chief Ministers Charitable Donation Fund. Maharashtra Samaj, Dr. Harshe Rangmanch, Golwalkar Auditorium, Maharashtra Vidyalaya, Golbazar, Jabalpur\
+  [202512261644315307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261644315307.pdf)
+
+- Ad-hoc Promotion to the post of Section Officer.\
+  [202512261725520007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261725520007.pdf)
+
+- Regarding the establishment of a Tender Evaluation Committee for Non-IT services by the Directorate of Information Technology.\
+  [202512261734595407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261734595407.pdf)
+
+- Regarding amendments to the rules governing the administration of the Chief Ministers Charitable Donation Fund.\
+  [202512261138596507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261138596507.pdf)
+
 ## Personnel
 - Making amendments to the room allocation and reservation/charges of the rooms and halls at the New Maharashtra Sadan, New Delhi.....\
   [202512231639505907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231639505907.pdf)
