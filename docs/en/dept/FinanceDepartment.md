@@ -1,11 +1,11 @@
 # Finance Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
-## Funds
-- Regarding the approval for withdrawing funds from the treasury, which are available on the budget allocation system, for the construction of the training center and auditorium at the Goods and Services Tax building, Wadala, Mumbai.\
-  [202512231527569705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231527569705.pdf)
+## Miscellaneous
+- Supplementary Statement of Expenditure for the year 2024-2025 presented in the December, 2024 session of the Extraordinary Legislative Assembly.\
+  [202501011619426905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501011619426905.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

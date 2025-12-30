@@ -1,18 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
 ## Funds
-- Regarding disbursement of grants to training institutes conducting training programs for the financial year 2025-26 under the Resident Police Pre-Recruitment Training Scheme.\
-  [202512231443114414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231443114414.pdf)
-
-- Regarding the financial approval of the advertising and publicity media plan for giving wide publicity to the Hind-ki-Chadar program on the occasion of the 350th martyrdom anniversary of Shri Guru Tegh Bahadur.\
-  [202512261710529714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261710529714.pdf)
-
-## Miscellaneous
-- Regarding improvements in the arrangements in the districts for the program organized on the occasion of the 350th martyrdom anniversary of Hind-ki-Chadar Shri Guru Tegh Bahadur Sahib Ji.\
-  [202512221842029914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221842029914.pdf)
+- Regarding the distribution of funds to the Maharashtra State Hajj Committee for the financial year 2024-25...\
+  [202501021749011114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021749011114.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

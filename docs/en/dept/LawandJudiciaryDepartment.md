@@ -1,55 +1,34 @@
 # Law and Judiciary Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
 ## Funds
-- Hon. Administrative approval for purchase of UPS for High Court, Mumbai and their Benches as well as District and Taluka Courts.\
-  [202512221847172412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221847172412.pdf)
+- Regarding establishment of 1 additional family court at Nashik and sanctioning necessary posts for it.\
+  [202501021819477212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021819477212.pdf)
 
-- Budgetary Grant Demand No. J-5 for the year 2025-26, Major Head 7610, Loans to Government Employees etc., under Sub-head (202)(00)(01) Advances for purchase of Motor Vehicles (7610 0481) Disbursement of advances for motor vehicle purchase.\
-  [202512221800488612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221800488612.pdf)
-
-- Regarding granting administrative approval for the purchase of 22 computers and 22 printers for the office of the Chief Presenting Officer, Maharashtra Administrative Tribunal, Mumbai, Aurangabad Bench.\
-  [202512221845060412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221845060412.pdf)
-
-- Regarding granting administrative approval for the expenditure on purchasing 186 laptops for the personal assistants of the Honourable Judges of the Bombay High Court and its Nagpur and Aurangabad benches.\
-  [202512231840232712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231840232712.pdf)
-
-- Regarding granting administrative approval for the purchase of a total of 20 Apple iPads, MacBooks, and multifunction printers, etc., IT equipment for the newly appointed judges at the Honble High Court, Mumbai.\
-  [202512231832517512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231832517512.pdf)
-
-- Regarding granting the status of Minister of State to Dr. Milind Sathe, the Honble Advocate General, Government of Maharashtra, and the services and facilities to be provided to the Honble Advocate General, Government of Maharashtra, who holds the status of Minister of State\
-  [202512241452435512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241452435512.pdf)
+- Year 2024-25 Budgetary Grant Demand No. J-5, Main Account Head 7610, Loans to Government Employees etc., under Sub-Head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Allocation of Motor Vehicle Purchase Advances.\
+  [202501021706518912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021706518912....pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval for the purchase of 02 barcode printers for the judges library at the Honble High Court, Mumbai.\
-  [202512221307503012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221307503012.pdf)
+- With regard to approving the operation of New Head for Training Expense relating to Maharashtra Judicial Academy and Indian Mediation Centre and Training Institute Uttan, Dist. Thane and Judicial Officers Training Institute, Nagpur\
+  [202501021822364112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021822364112.pdf)
 
-- Regarding updating the Head of Account to make provision for construction of new complexes, new court buildings and new residencial Quarters Also, repairs, renovations and ancillary works of existing buildings for the Honble High Court, Bombay and its Benches.\
-  [202512221106025412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221106025412.pdf)
+- Regarding giving administrative approval to the proposal amounting to Rs.97,35,800/- for purchase of computer equipment for the office of Government Advocate, High Court, Bombay, Bench Aurangabad.\
+  [202501021207414412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021207414412.pdf)
 
-- Regarding granting exemption, as a special case and with retrospective effect, from passing the Departmental Post-Entry Examination to all employees appointed before 14.11.2025 to the posts of Superintendent (Group-B), Head Clerk, and Senior Clerk (Group-C) in the Registrar of Partnership Firms office.\
-  [202512231712551212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231712551212.pdf)
+- To establish Tapasani pathak to monitor and control the implementation of the scheme for reservation of beds in charitable hospitals for indigent patients and weaker section patient.\
+  [202512291724454012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291724454012.pdf)
 
-- Regarding the administrative approval for the GST amount on the expenditure for providing free Wi-Fi connectivity for the use of lawyers and petitioners in the premises and benches of the Honble High Court, Mumbai.\
-  [202512231720484612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231720484612.pdf)
+- Budgetary Grant Demand No. J-5 for the year 2025-26, Major Head 7610, Loans to Government Employees, etc., (204)(00)(01) - Advances for purchase of personal computers (7610 1842) Computer advance disbursement.\
+  [202512291732020612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291732020612.pdf)
 
-- Regarding granting administrative approval for the purchase of new computer equipment, including 30 computers, 10 printers, and 4 laptops, for the office of the Registrar of Partnership Firms, Maharashtra State, Mumbai.\
-  [202512231836408212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231836408212.pdf)
-
-- Corrigendum-Creation of 2228 post on the establishment of High Court, Mumbai for Original side, Appellate side, as well its Nagpur and Aurangabad Bench.\
-  [202512241438392612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241438392612.pdf)
-
-- Addendum - Creation of 2228 post on the establishment of High Court, Mumbai for Original side, Appellate side, as well its Nagpur and Aurangabad Bench.\
-  [202512241441162012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241441162012.pdf)
+- Budgetary Grant Demand No. J-5 for the year 2025-26, under 7610 - Loans to Government Employees, etc., sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Disbursement of Motor Vehicle Purchase Advances\
+  [202512291740532212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291740532212.pdf)
 
 ## Personnel
-- Regarding consideration of uninterrupted service for sanction of non-functional pay scale to be granted after four years of regular service to Section Officer cadre.\
-  [202512221524064412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221524064412.pdf)
-
-- Budgetary Grant Demand No. J-5 for the year 2025-26, Major Head 7610, Loans to Government Employees, etc., under Sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Disbursement of advances for the purchase of new motorcycles/scooters.\
-  [202512241546287012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241546287012.pdf)
+- Regarding the establishment of a Civil Service Board (1) to make recommendations to the competent authority regarding the posting and transfer of officers in Group-A and Group-B (Gazetted) in the Legal Cadre under the administrative control of the Law and Judiciary Department....\
+  [202501011452402812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501011452402812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

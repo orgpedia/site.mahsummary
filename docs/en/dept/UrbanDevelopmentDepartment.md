@@ -1,93 +1,78 @@
 # Urban Development Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
 ## Funds
-- Release of funds to Mumbai Railway Vikas Corporation for Mumbai Urban Transport Project Phase-3 received under Part-3 (States share for completion of major urban and rural infrastructure projects under various schemes/programmes of the Central Government) under Special Assistance Scheme for Capital Investment to States 2025-26.\
-  [202512221437002025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221437002025.pdf)
+- AMRUT Mission - Administrative approval to Kalyan Dombivali Water Supply Project.\
+  [202501021340076825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021340076825.pdf)
 
-- Regarding the sanctioning of funds under the Special scheme. For the year 2023-24 (Account Head 2217 1301) For Hingoli Municipal Council, District Hingoli Amount: Rs. 1.50 crore (Corrigendum)\
-  [202512231744099625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231744099625.pdf)
+- Regarding the disbursement of Rs. 4.9125 crore in the first phase, out of the Rs. 19.65 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (Account Head 3054 0022), to the respective District Collector. (Pune Division)\
+  [202512291530319725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291530319725.pdf)
 
-- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2023-24 under Account Head (4217 0603) For Hingoli Municipal Council, Dist. Hingoli Amount instead of Rs. 2.40 crore (Amount Rs. 0.00) For Hadgaon Municipal Council, Dist. Nanded Amount Rs. 2.40 crore revised (Corrigendum)\
-  [202512231739146525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231739146525.pdf)
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2024-25 under Account Head (4217 0603) For Dapoli Municipal Council, Dist. Ratnagiri Amount: Rs. 5.00 Crore For Khed Municipal Council, Dist. Ratnagiri Amount: Rs. 4.00 Crore For Mandangad Nagar Panchayat, Dist. Ratnagiri Amount: Rs. 4.35 Crore Total Amount: Rs. 13.35 Crore (Corrigendum)\
+  [202512291547250625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291547250625.pdf)
 
-- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2023-24 under account head (4217 0603) For Hingoli Municipal Council, Dist. Hingoli Amount Rs. 1.50 crore instead of (Amount Rs. 0.00) For Hadgaon Municipal Council, Dist. Nanded Amount Rs. 1.50 crore (Revised - Corrigendum)\
-  [202512231740431125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231740431125.pdf)
+- Regarding granting administrative approval to the solid waste management project of Kannad Municipal Council, Chhatrapati Sambhaji Nagar district, under the Swachh Maharashtra Abhiyan (Urban) 2.0.\
+  [202512291619530925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291619530925.pdf)
 
-- Regarding the granting of administrative approval for the lake rejuvenation project of Ghugus Municipal Council under the Central Government-sponsored Amrit 2.0 scheme. (Rs. 7.09 crore)\
-  [202512231746081725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231746081725.pdf)
+- Regarding the release of Rs. 10.1375 crore in the first phase, out of the Rs. 40.55 crore sanctioned under the Special scheme (Ref. No. 2217 1301), to the concerned District Collectors. (Konkan Division)\
+  [202512291527533425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291527533425.pdf)
 
-- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2023-24 under Account Head (4217 0603) For Hingoli Municipal Council, Dist. Hingoli Amount Rs. 6.10 crore instead of (Amount Rs. 0.00) For Hadgaon Municipal Council, Dist. Nanded Amount Rs. 6.10 crore (Revised) (Corrigendum)\
-  [202512231733426725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231733426725.pdf)
+- Regarding the release of Rs. 8.6625 crore in the first phase, out of the Rs. 34.65 crore sanctioned under the Special scheme (L.Sh. 2217 1301), to the concerned District Collectors. (Amravati Division)\
+  [202512291534515725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291534515725.pdf)
 
-- Regarding the sanctioning of funds to Municipal Corporations/Municipal Councils/Nagar Panchayats in the state under the Special Road Grant scheme. For the year 2023-24 (Account Head 3054 0022) For Hingoli Municipal Council, Dist. Hingoli Amount instead of Rs. 1.00 crore: (Rs. 0.00) For Hadgaon Municipal Council, Dist. Nanded Amount Rs. 1.00 (Revised - Corrigendum)\
-  [202512231742142725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231742142725.pdf)
+- Regarding the disbursement of Rs. 78.68 crore out of the Rs. 374.68 crore sanctioned under the Special scheme (L.S. 4217 0603) to the concerned District Collectors from the provisions of the financial year 2025-26. (Corrigendum)\
+  [202512291538117225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291538117225.pdf)
 
-- Release of Equity share amount of the State Governments share to Maharashtra Metro Rail Corporation Ltd. in the Swargate-Katraj Metro Rail Corridor Project of the Pune Metro Rail Project (FY 2025-26)\
-  [202512241220092525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241220092525.pdf)
+- Regarding the release of Rs. 10.3550 crore in the first phase, out of the Rs. 41.42 crore sanctioned under the Special scheme (Ref. No. 2217 1301), to the concerned District Collector. (Nashik Division)\
+  [202512291529332625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291529332625.pdf)
 
-- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3A (MUTP-3A) (FY 2025-26)\
-  [202512241224319325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241224319325.pdf)
+- Regarding the sanctioning of funds under the Special scheme. For the year 2025-26 (Account Head 2217 1301) For Jawhar Municipal Council, Dist. Palghar Amount: Rs. 2.25 crore For Mokhada Nagar Panchayat, Dist. Palghar Amount: Rs. 2.75 crore Total amount: Rs. 5.00 crore\
+  [202512291549288125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291549288125.pdf)
 
-- Release of State Government Equity for Nagpur Metro Railway Project (Phase-2) to Maharashtra Rail Corporation Ltd. (FY 2025-26)\
-  [202512241218421925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241218421925.pdf)
+- Regarding the sanctioning of funds under the Special scheme. For the year 2025-26 (Account Head 2217 1301) For Rajura Municipal Council, Dist. Chandrapur Amount: Rs. 3.00 Crore For Gadchandur Nagar Panchayat, Dist. Chandrapur Amount: Rs. 2.00 Crore Total Amount: Rs. 5.00 Crore (Corrigendum)\
+  [202512291544103725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291544103725.pdf)
 
-- Regarding the provision of state government financial assistance to the Mumbai Rail Vikas Corporation for the Mumbai Urban Transport Project Phase-3A (MUTP-3A) project (for the year 2025-26).\
-  [202512241216367525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241216367525.pdf)
+- Regarding the release of 9.64 crore in the first phase, out of the 38.56 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (Account Head 3054 0022), to the concerned District Collector. (Chhatrapati Sambhajinagar Division)\
+  [202512291532036825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291532036825.pdf)
 
-- Release of funds received from AIIB Bank to Mumbai Railway Vikas Corporation Ltd for Mumbai Urban Transport Project-3 (MUTP-3) (FY 2025-26)\
-  [202512241226241925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241226241925.pdf)
+- Regarding the release of Rs. 6.7950 crore in the first phase, out of the Rs. 27.18 crore sanctioned under the Special scheme (Ref. No. 2217 1301), to the concerned District Collector. (Chhatrapati Sambhaji Nagar Division)\
+  [202512291532419025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291532419025.pdf)
 
-- Release of surcharge on stamp duty to Metro Rail Project to MMRDA, MMRCL and MahaMetro from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949. (FY 2025-26)\
-  [202512241222341925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241222341925.pdf)
+- Regarding the release of 2.6450 crore in the first phase, out of the 10.58 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (L.S. 3054 0022), to the concerned District Collector. (Nashik Division)\
+  [202512291528435925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291528435925.pdf)
 
-- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the financial year 2025-26, under account head (2217 1301) For Chiplun Municipal Council, Dist. Ratnagiri Amount: Rs. 11.00 crore\
-  [202512241254523325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241254523325.pdf)
+- Regarding the sanctioning of funds under the Special scheme. For the year 2025-26 (Account Head 2217 1301) For Gadchiroli Municipal Council, Dist. Gadchiroli Amount: Rs. 2.89 Crore For Charmoshi Nagar Panchayat, Dist. Gadchiroli Amount: Rs. 1.12 Crore For Dhanora Nagar Panchayat, Dist. Gadchiroli Amount: Rs. 0.99 Crore Total Amount: Rs. 5.00 Crore\
+  [202512291545440225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291545440225.pdf)
 
-- Regarding the disbursement of sanctioned funds to the Mumbai Metropolitan Region Development Authority for the Orange Gate to Marine Drive underground tunnel project, under Part-1 of the Central Governments Special Assistance to States for Capital Expenditure Scheme 2025-26...\
-  [202512261445287025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261445287025.pdf)
+- Regarding the disbursement of Rs. 15.45 crore in the first phase, out of the Rs. 61.80 crore sanctioned under the Special scheme (Ref. No. 2217 1301), to the concerned District Collectors. (Pune Division)\
+  [202512291531071425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291531071425.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-5 (Thane-Bhivandi-Kalyan) Project (FY 2025-26)\
-  [202512261448079925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261448079925.pdf)
+- Regarding the release of 2.3750 crore in the first phase, out of the 9.50 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (Account Head 3054 0022), to the concerned District Collector. (Nagpur Division)\
+  [202512291535197425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291535197425.pdf)
 
-- Regarding the disbursement of subordinate loan from the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Line-2B (DN Nagar-Mandale) project. (2025-26)\
-  [202512261455303425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261455303425.pdf)
+- Regarding the release of 2.1125 crore in the first phase, out of the 8.45 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (Account Head 3054 0022), to the concerned District Collector. (Konkan Division)\
+  [202512291527063925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291527063925.pdf)
 
-- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-6 (Swami Samarth Nagar-Jogeshwari-Vikhroli) Project (FY 2025-26)\
-  [202512261451060725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261451060725.pdf)
+- Regarding the release of Rs. 10.7250 crore in the first phase, out of the Rs. 42.90 crore sanctioned under the Special scheme (Ref. No. 2217 1301), to the concerned District Collectors. (Nagpur Division)\
+  [202512291536234725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291536234725.pdf)
 
-- Release of State Government Sub-Ordinate Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line-9 Dahisar to Mira-Bhayandar and Line-7A- Andheri-CSMIA Project (FY 2025-26)\
-  [202512261501411725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261501411725.pdf)
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2024-25 under account head (4217 0603) For Buldhana Municipal Council, Dist. Buldhana Amount: Rs. 19.50 crore instead of Rs. 20.00 crore. For Motala Nagar Panchayat, Dist. Buldhana Amount: Rs. 0.50 crore. Total amount: Rs. 20.00 crore (Corrigendum)\
+  [202512291540263825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291540263825.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-4 (Vadala-Ghatkopar-Thane-Kasarvadavali)  4A (Kasarvadavali to Gaimukh) Project (FY 2025-26)\
-  [202512261457340025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261457340025.pdf)
+- Regarding the disbursement of Rs. 2.3375 crore in the first phase, out of the Rs. 9.35 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (Account Head 3054 0022), to the concerned District Collector. (Amravati Division)\
+  [202512291533427725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291533427725.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-10 Gaimukh  Shivaji Chowk(Mira road) Project (FY 2025-26)\
-  [202512261503482025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261503482025.pdf)
+## Miscellaneous
+- Under the Swachh Maharashtra Abhiyan (Urban) 2.0, administrative approval has been granted to the biomining (Legacy Waste Remediation) proposals of urban local self-government bodies in the state.\
+  [202512291624262325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291624262325.pdf)
 
-- Regarding the disbursement of a subordinate loan from the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro Line-12 (Kalyan-Taloja) project. (Year 2025-26)\
-  [202512261506028325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261506028325.pdf)
+- Regarding granting administrative approval to the biomining (Legacy Waste Remediation) proposals of urban local self-government bodies in the state under the Swachh Maharashtra Abhiyan (Urban) 2.0.\
+  [202512291622151925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291622151925.pdf)
 
-- Release of State Government Sub-ordinate Loan to Mumbai Metropolitan region Development Authority for Mumbai Metro Line-2A (Dahisar (E) to D.N. Nagar) Project (FY 2025-26)\
-  [202512261453025625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261453025625.pdf)
-
-- Regarding the disbursement of funds under Part-1 of the Central Governments Special Assistance to States for Capital Investment 2025-26 scheme.\
-  [202512261819405325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261819405325.pdf)
-
-- Regarding the disbursement of subordinate loan from the State Government to the Mumbai Metropolitan Region Development Authority for the Mumbai Metro-7 Andheri (East) - Dahisar (East) project. (Year 2025-26)\
-  [202512261459454225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261459454225.pdf)
-
-## Personnel
-- Regarding leasing out the land in Survey No. 13 owned by Wardha Municipal Council for implementing the solid waste project\
-  [202512231244357325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231244357325.pdf)
-
-- Regarding the permanent ownership (freehold) of residential plots in Survey No. 104, 110 and 114 owned by Wardha Municipal Council.\
-  [202512231509581925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231509581925.pdf)
-
-- Regarding transfer of land owned by Wardha Municipal Council in Sheet No. 64, Land Register No. 1991 for construction of Police Station building.\
-  [202512231241500725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231241500725.pdf)
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2024-25 under account head (4217 0603) For Buldhana Municipal Council, District Buldhana Amount: Rs. 30.00 Crore (Corrigendum)\
+  [202512291542293025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291542293025.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

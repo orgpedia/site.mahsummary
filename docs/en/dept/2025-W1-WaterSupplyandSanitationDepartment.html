@@ -1,0 +1,2685 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>Weekly Summary: Water Supply and Sanitation Department </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-en.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                Weekly Summary: Maharastra GRs</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">Search</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="keywords" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en"selected>English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr">मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="Search...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          Latest Summary
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              Department-wise
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              District-wise
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">Archives</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    Disclaimer
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">Home</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2025-W1-summary.html">
+    <span class="cursor-pointer">Weekly Summary: Department-wise</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week 1</span>
+
+
+
+  </div>
+    <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('Water Supply and Sanitation Department', 36)">Subscribe</button>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">Weekly Summary: Water Supply and Sanitation Department</h2>
+			<span class="text-blue-500">
+			  Week 1: (06 January 2025 - 11 January 2025)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Funds </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje-Jiri, (Taloda Taloda, Nandurbar District) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031627198228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031627198228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031627198228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031627198228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Dadpur, Taluka Mohol, Dist. Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031249389428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031249389428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031249389428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031249389428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Kosabi Part-3, Tal. Chiplun, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031518177028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031518177028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031518177028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031518177028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Borawadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021157389128.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021157389128.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021157389128.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021157389128.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Gavthanwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021203484428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021203484428.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021203484428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021203484428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Bhoyre under Jal Jeevan Mission programme, Regarding granting revised administrative approval to tap water supply scheme at Barshi, District Solapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031313499128.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031313499128.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031313499128.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031313499128.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Dhanagarwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021201436828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021201436828.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021201436828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021201436828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Ghawalwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021205070528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021205070528.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021205070528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021205070528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Tiwaradwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021203211828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021203211828.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021203211828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021203211828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Nanhegaon, Taluka Akkalkot, Dist. Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031304460328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031304460328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031304460328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031304460328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Nive Budruk, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031522158228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031522158228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031522158228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031522158228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting revised administrative approval to tap water supply scheme at Akkalkot, District Solapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031311150228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031311150228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031311150228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031311150228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Kosabi Part-2, Tal. Chiplun, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031517011228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031517011228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031517011228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031517011228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under the Jal Jeevan Mission programme, Gulamb of Mauje Kodali, p. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031225497028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031225497028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031225497028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031225497028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Kalambwadi, Taluka Barshi, District Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031312000628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031312000628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031312000628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031312000628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Nimaj, Taluka Kavathemahankal, Dist. Sangli under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 50.04 lakh
+
+			    
+			    <span class="font-semibold">Districts:</span> Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031229116828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031229116828.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031229116828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031229116828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Yegaon katalwadi, Tal. Chiplun, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031525513528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031525513528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031525513528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031525513528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje-Kathargaon (Tel. Niphad, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 125.70 lakh
+
+			    
+			    <span class="font-semibold">Districts:</span> Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031621118328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031621118328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031621118328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031621118328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mauje- Satona, (Taloda, Nandurbar District) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031631559928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031631559928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031631559928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031631559928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Khanawali Part-1, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031510318028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031510318028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031510318028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031510318028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Aundhi, Taluka Mohol, District Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031234296728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031234296728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031234296728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031234296728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Mabhale, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031519357728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031519357728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031519357728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031519357728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Yegaon Pakhadiwadi, Tal. Chiplun, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031528285328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031528285328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031528285328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031528285328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Golakhal, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031641400228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031641400228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031641400228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031641400228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Hambire under Jal Jeevan Mission programme, Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031244091928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031244091928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031244091928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031244091928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Kothale, Taluka Mohol, Dist. Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031245468128.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031245468128.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031245468128.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031245468128.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Khanawali Part-4, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031514170728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031514170728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031514170728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031514170728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Denwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021159316328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021159316328.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021159316328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021159316328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Biyamal, (Taloda, Nandurbar District) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031628543828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031628543828.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031628543828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031628543828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Shepupada, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031655018428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031655018428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031655018428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031655018428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Daulatwadi under Jal Jeevan Mission programme, Regarding granting revised administrative approval to tap water supply scheme at Kagal, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 81.13 lakh
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031259073528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031259073528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031259073528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031259073528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Manur, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031652340428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031652340428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031652340428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031652340428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Muradpur, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031520572828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031520572828.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031520572828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031520572828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Bhekrolwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021156054528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021156054528.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021156054528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021156054528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Bhatnawadi under Jal Jeevan Mission Programme, Tt. Regarding giving revised administrative approval to tap water supply scheme at Karveer, Dist.Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs. 64.13 lakh
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031302476828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031302476828.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031302476828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031302476828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Aambiwadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021152273028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021152273028.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021152273028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021152273028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Budhaval Plot, (Taloda, Nandurbar District) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031630224528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031630224528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031630224528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031630224528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under Jal Jeevan Mission programme, Mauje Vasanoli, Tt. Regarding granting revised administrative approval to tap water supply scheme at Bhudargarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031255419428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031255419428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031255419428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031255419428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Kheddigar, (Tel. Shahada, Dist. Nandurbar) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031624049528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031624049528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031624049528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031624049528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Kosabi Part-1, Tal. Chiplun, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031515425628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031515425628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031515425628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031515425628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje-Umrapani, (Tel. Shahada, Dist. Nandurbar) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031622306728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031622306728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031622306728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031622306728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Khanawali Part-3, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031512267228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031512267228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031512267228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031512267228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under Jal Jeevan Mission programme, Mauje Shingoli, Tt. Regarding granting revised administrative approval to tap water supply scheme at Mohol, District Solapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031308044928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031308044928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031308044928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031308044928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Personnel </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Arali, Taluka Akkalkot, District Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031231547928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031231547928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031231547928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031231547928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Patvihir, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031650035728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031650035728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031650035728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031650035728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Kothali under Jal Jeevan Mission programme, Regarding giving revised administrative approval to tap water supply scheme at Karveer, Dist.Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031257156328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031257156328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031257156328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031257156328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Yegaon Kurapanwadi  Guravwadi, Tal. Chiplun, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031527060528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031527060528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031527060528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031527060528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Mokhabhangi, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031653453428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031653453428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031653453428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031653453428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje-Pohali, (Tel. Surgana, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031651162428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031651162428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031651162428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031651162428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Benicre under Jal Jeevan Mission Programme, Regarding granting revised administrative approval to tap water supply scheme at Kagal, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031300584628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031300584628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031300584628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031300584628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Karkal, Taluka Dakshin Solapur, Dist. Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031236351428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031236351428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031236351428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031236351428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Activities under the Jal Jeevan Mission Program Yashwantnagar-Vaitakwadi, Tt. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031237278628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031237278628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031237278628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031237278628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Kharad, (Tal. Baglan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031640053128.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031640053128.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031640053128.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031640053128.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Dukkarwadi under Jal Jeevan Mission programme, Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031233045928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031233045928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031233045928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031233045928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mauje- Gondegaon (Tel. Niphad, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031617116428....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031617116428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031617116428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031617116428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Shinoli Khurd under Jal Jeevan Mission Program, Tt. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031242345328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031242345328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031242345328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031242345328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under Jal Jeevan Mission programme, Mauje Rajgoli Khurd Channehatti, Tt. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031240223028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031240223028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031240223028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031240223028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under Jal Jeevan Mission programme, Mauje Kondoshi of Sutarwadi, Tt. Regarding granting revised administrative approval to tap water supply scheme at Bhudargarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031245583728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031245583728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031245583728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031245583728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Baudhawadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021154303828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021154303828.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021154303828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021154303828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mauje- Jaipur, (Tal. Baglan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031646060928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031646060928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031646060928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031646060928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Garjan Sawantwadi under Jal Jeevan Mission Program, Tt. Regarding giving revised administrative approval to tap water supply scheme at Karveer, Dist.Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031248063628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031248063628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031248063628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031248063628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje-Chacher, (Tal.Kalvan, Dist.Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031644480928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031644480928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031644480928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031644480928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje-Sakore, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031656126228.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031656126228.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031656126228.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031656126228.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Haralwadi, Taluka Mohol, District Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031309118028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031309118028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031309118028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031309118028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Prabhanwalli, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031523320928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031523320928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031523320928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031523320928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Shirapur (Mo), Taluka Mohol, Dist. Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031307077728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031307077728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031307077728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031307077728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mauje- Kapaleshwar, (Tal. Baglan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031633437928.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031633437928.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031633437928.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031633437928.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Dodayal, Taluka Akkalkot, Dist. Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031302459128.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031302459128.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031302459128.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031302459128.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Dewale under Jal Jeevan Mission programme, Regarding giving revised administrative approval to tap water supply scheme at Karveer, Dist.Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031253421628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031253421628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031253421628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031253421628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Vashi tarfe Devrukh, Tal. Sangameshwar, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031524409528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031524409528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031524409528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031524409528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting revised administrative approval to the revised budget of the piped water supply scheme at Mouje-Rasalpur (Tel. Niphad, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031619094328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031619094328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031619094328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031619094328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Chankapur, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031643250128.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031643250128.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031643250128.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031643250128.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mauje- Umarkuwa, (Taloda Taloda, Nandurbar District) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031625316028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031625316028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031625316028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031625316028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under the Jal Jeevan Mission programme, Gulamb of Mauje Kodali, p. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031228001028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031228001028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031228001028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031228001028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Limbichincholi under Jal Jeevan Mission Programme, Tt. Regarding granting revised administrative approval to tap water supply scheme in Dakshin Solapur, District Solapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031305440628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031305440628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031305440628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031305440628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Revised Administrative approval to Mau. Ori Togadewadi, Tal. Ratnagiri, Dist. Ratnagiri water supply scheme Under JJM.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021200353428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501021200353428.pdf">202501021....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021200353428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501021200353428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 02 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Gadegondwadi under Jal Jeevan Mission programme, Regarding giving revised administrative approval to tap water supply scheme at Karveer, Dist.Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031250362528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031250362528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031250362528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031250362528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Kosavan, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031635237028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031635237028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031635237028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031635237028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mauje-Tatani, (Tal. Baglan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031647197028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031647197028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031647197028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031647197028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje-Sule, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031657382628.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031657382628.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031657382628.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031657382628.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Kanur Khurd under Jal Jeevan Mission Program, Tt. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031222191828.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031222191828.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031222191828.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031222191828.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting administrative approval to the revised budget of the piped water supply scheme at Mouje- Padgan, (Tal. Kalvan, Dist. Nashik) under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031648449728.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031648449728.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031648449728.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031648449728.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Mauje Dewarwadi under Jal Jeevan Mission programme, Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031235380028.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031235380028.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031235380028.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031235380028.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Narsinghgaon, Tal. Kavathemahankal, Dist. Sangli under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031226087528.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031226087528.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031226087528.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031226087528.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Under Jal Jeevan Mission programme, Mauje Churanichawada (of Asgaon), T. Regarding granting revised administrative approval to tap water supply scheme at Chandgarh, District Kolhapur.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031231224328.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031231224328.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031231224328.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031231224328.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding granting improved administrative approval to the piped water supply scheme at Mouje Tadvale, Taluka Barshi, District Solapur under the Jal Jeevan Mission program.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031247380428.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202501031247380428.pdf">202501031....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031247380428.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Water_Supply_and_Sanitation_Department/202501031247380428.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 03 Jan 2025</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-en.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">Disclaimer</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=Weekly Summary: Water Supply and Sanitation Department">Report an Error</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">View on GitHub</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>

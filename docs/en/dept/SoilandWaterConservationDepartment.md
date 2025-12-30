@@ -1,26 +1,18 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
 ## Funds
-- Distribution of funds for maintenance and repair works of projects with a capacity of 0 to 100 hectare-centimeters under the Chief Ministers Water Conservation Scheme: Dhule District (Rest of Maharashtra Division)\
-  [202512241342551026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241342551026.pdf)
+- Regarding organization of Watershed Yatra under Pradhanmantri Krishi Sinchai Yojna- Watershed Development Component 2.0\
+  [202501011815100126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501011815100126.pdf)
 
-- Distribution of funds for maintenance and repair works of projects with a storage capacity of 0 to 100 hectare-centimeters under the Chief Ministers Water Conservation Scheme: Solapur District (Rest of Maharashtra Division)\
-  [202512241337176826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241337176826.pdf)
+- Requisition No. ZH-5, Account Head 4702 A 019. Village Talegaon Pazar Talao No. 3, Taluka Phulambri Dist. Chhatrapati Sambhajinagar. (Land Acquisition Fund)\
+  [202501021745058826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021745058826.pdf)
 
-- Distribution of funds for maintenance and repair works of 0 to 100 H.P. irrigation projects: Washim District (Vidarbha Division)\
-  [202512241344225526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241344225526.pdf)
-
-- Distribution of funds for maintenance and repair works of 0 to 100 H.P. irrigation projects: Washim District (Vidarbha Division)\
-  [202512241340094926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241340094926.pdf)
-
-- Distribution of funds for maintenance and repair works of projects with a capacity of 0 to 100 hectare-centimeters under the Chief Ministers Water Conservation Scheme: Gondia District (Vidarbha Division)\
-  [202512241338479126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241338479126.pdf)
-
-- Distribution of funds for maintenance and repair works of projects with a storage capacity of 0 to 100 hectare-centimeters under the Chief Ministers Water Conservation Scheme: Solapur District (Rest of Maharashtra Division)\
-  [202512241341299226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241341299226.pdf)
+## Personnel
+- Guidelines regarding the action to be taken at the department level and vigilance team in accordance with the inquiry cases assigned by the government.\
+  [202501031142519126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031142519126.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

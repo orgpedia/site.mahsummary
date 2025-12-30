@@ -1,24 +1,18 @@
 # Public Works Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
-## Miscellaneous
-- Amendments to the final seniority list of Assistant Engineer Grade-1 (Civil) as of 01.01.2025.\
-  [202512231628404918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231628404918.pdf)
+## Funds
+- Upgradation of Padoli Datala Devada Shivani Hadasti Rajura State Highway 372 (length 35.50 km) and Pavani Vansadi Road Prajima-15 (length 30.00 km) under Hybrid Annuity Package No. Nag-143, District Chandrapur. Granting revised administrative approval for this work.....\
+  [202501021544231018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021544231018.pdf)
 
-- Regarding the appointment of a contractor for the sale of A and B grade scrap from the ministerial departments located in the Mantralaya, New Administrative Building, and G.T. Hospital buildings.\
-  [202512231708373818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231708373818.pdf)
-
-- Regarding the appointment of a contractor for the removal of Class D waste from the ministerial departments located in the Mantralaya, New Administrative Building, and G.T. Hospital buildings.\
-  [202512231710393218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231710393218.pdf)
-
-- Regarding the merging of previous service in the Water Resources Department with the service in the Public Works Department... Mrs. Sonali Ramesh Chavan, Superintending Engineer.\
-  [202512241208107518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241208107518.pdf)
+- Regarding reimbursement of medical expenses. Shri. Dattatray Parvati Kunjir, Wife of Sepoy Smt. Shobha D. Kunjir\
+  [202501011727578518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501011727578518.pdf)
 
 ## Personnel
-- Regarding the merging of previous service in the Water Resources Department with the service in the Public Works Department... Mr. Dhananjay Chandrakant Jadhav, Executive Engineer.\
-  [202512241205583718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241205583718.pdf)
+- Thane-Ghodbunder State Highway No.84., length of 4.400 km   (From Fountain Hotel to Gaymukh) regarding transfer of this road in Mira-Bhayander Municipal Corporation area to Mira-Bhayander Municipal Corporation.\
+  [202501031613453718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031613453718.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

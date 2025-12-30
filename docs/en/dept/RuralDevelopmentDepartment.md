@@ -1,27 +1,24 @@
 # Rural Development Department
 
-**Date Range**: 29 December 2025 - 03 January 2026
+**Date Range**: 06 January 2025 - 11 January 2025
 
 
 ## Funds
-- Regarding the allocation of funds for the memorial and womens training center of Gyanjyoti Savitribai Phule in Mauje Naigaon, Taluka Khandala, District Satara.\
-  [202512231559382120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512231559382120....pdf)
+- Regarding granting administrative approval for the development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Category B).  Shri Siddhivinayak Ganpati Sansthan, Shri Kshetra Waigaon, Bhatkuli Taluka, Amravati District.\
+  [202512291139395520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291139395520.pdf)
 
-- Regarding granting administrative approval for the expenditure to provide SMS and e-mail facilities for the online Teacher transfer Portal of Zilla Parishad primary teachers in the state.\
-  [202512241336352820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241336352820.pdf)
+- Regarding granting administrative approval for the development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Category B).  Shri Maharudra Maruti Temple, Shri Kshetra Jahangirpur, Taluka Tivsa, District Amravati.\
+  [202512291139372020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291139372020.pdf)
 
 ## Miscellaneous
-- Regarding the inclusion of an unclassified/unplanned road in Ausa taluka of Latur district as a rural road in the Road Development Plan 2001-21.\
-  [202512221023091820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221023091820.pdf)
+- Regarding the implementation of Maha Awas Abhiyan 2024-25 in the state to accelerate all rural housing schemes in the state and improve quality.\
+  [202501011645451420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501011645451420.pdf)
 
-- Regarding the inclusion of an unclassified/unplanned road in Murtizapur taluka of Akola district as a rural road in the Road Development Plan 2001-21.\
-  [202512221022464120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512221022464120.pdf)
+- Distribution of funds for organizing state-level Mahalaxmi Saras Exhibition as well as division-level and district-level sales exhibitions for the year 2024-25\
+  [202501021327523520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021327523520.pdf)
 
-- Regarding approval for purchase of new vehicles in exchange for deregistered vehicles by Additional Commissioner (Establishment) and Additional Commissioner (Development) of the Divisional Commissioners Office under the Rural Development Department.\
-  [202512241634582020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512241634582020.pdf)
-
-- Guidelines regarding the dilapidated / hazardous school buildings under Zilla Parishad.\
-  [202512261525419220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512261525419220.pdf)
+- Fund distribution of the financial year 2025-2026 for YASHADA, Pune.  Main Heading-24150517.  (2nd installment non salary)\
+  [202512291614177620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291614177620.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
