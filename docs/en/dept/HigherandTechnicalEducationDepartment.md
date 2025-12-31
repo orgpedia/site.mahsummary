@@ -16,5 +16,11 @@
 - Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. S.V.S.S. Institute of Pharmacy, Jalna, of Vindhyalaya Educational Institute.\
   [202512291826400108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291826400108.pdf)
 
+- Regarding the approval for making changes to the short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Siddhant Paramedical Institute of Dnyandeep Multipurpose Charitable Society, Beed)\
+  [202512301304589508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301304589508.pdf)
+
+- Regarding the appointment of members to the Maharashtra State Academic and Research Council (MahaSARC).\
+  [202512301123576808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301123576808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

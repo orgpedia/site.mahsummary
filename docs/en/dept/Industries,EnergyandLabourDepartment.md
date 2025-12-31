@@ -29,6 +29,27 @@
 - Regarding the release of Ms. Amrita Charandas Fulzhele, Assistant Engineer Grade-2 (Electrical) Group-B (Gazetted) to join the post of Deputy Engineer (Electrical and Mechanical) Group-A (Gazetted) in the Water Resources Department...\
   [202501021541522410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021541522410.pdf)
 
+- Visit of Delegation, Government of Maharashtra to participate in Maharashtra Investment Roadshow at Dubai, U.A.E\
+  [202512301252562710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301252562710.pdf)
+
+- Regarding the publication of the final seniority list as of 01.01.2025 for officers in the category of Additional Director, Group-A, Directorate of Industrial Safety and Health.\
+  [202512301441583010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301441583010.pdf)
+
+- Regarding granting a holiday to voters in the constituency for voting on the day of the Municipal Corporation General Election 2025-26, to be held on January 15, 2026.\
+  [202512301540009910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301540009910.pdf)
+
+- Final seniority list of officers in the Deputy Director, Group-A, Directorate of Industrial Safety and Health cadre as of 01.01.2025.\
+  [202512301447161510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301447161510.pdf)
+
+- Final seniority list of officers in the cadre of Assistant Director, Group-B, Directorate of Industrial Safety and Health, as of 01.01.2025.\
+  [202512301452353510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301452353510.pdf)
+
+- Regarding the publication of the final seniority list as of 01.01.2025 for officers in the category of Joint Director, Group-A, Directorate of Industrial Safety and Health.\
+  [202512301450239010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301450239010.pdf)
+
+- Regarding the approval of the remaining grant amount for the second phase of the state governments share of the expenditure for the construction of the Common Facility Center for the Poultry Feed Cluster, Kada, District Beed, under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
+  [202512301846361110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301846361110.pdf)
+
 ## Personnel
 - Regarding declaring the Chief Finance Officer of Maharashtra Small Scale Industries Development Corporation as Virtual Personal Deposit Account Administrator for speedy disbursement and monitoring of subsidy.\
   [202501031608428710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031608428710.pdf)

@@ -64,6 +64,15 @@
 - Regarding the disbursement of Rs. 2.3375 crore in the first phase, out of the Rs. 9.35 crore sanctioned for the financial year 2025-26 under the Special Road Grant scheme (Account Head 3054 0022), to the concerned District Collector. (Amravati Division)\
   [202512291533427725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291533427725.pdf)
 
+- Regarding the disbursement of the second installment of funds under Part-1 of the Central Governments Special Assistance Scheme for Capital Investment to States 2025-26...\
+  [202512301449135625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301449135625.pdf)
+
+- Regarding the sanctioning of funds under the Special Road Grant to Municipal Corporations/Municipal Councils/Nagar Panchayats in the state. For the year 2025-26 (under Account Head 3054 0022) For Purna Municipal Council, Dist. Parbhani Total amount: Rs. 5.00 Crore (Corrigendum)\
+  [202512301529258125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301529258125.pdf)
+
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the financial year 2025-26, under account head (2217 1301) For Umarkhed Municipal Council, Dist. Yavatmal Total amount: Rs. 5.00 Crore (Corrigendum)\
+  [202512301531074825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301531074825.pdf)
+
 ## Miscellaneous
 - Under the Swachh Maharashtra Abhiyan (Urban) 2.0, administrative approval has been granted to the biomining (Legacy Waste Remediation) proposals of urban local self-government bodies in the state.\
   [202512291624262325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291624262325.pdf)

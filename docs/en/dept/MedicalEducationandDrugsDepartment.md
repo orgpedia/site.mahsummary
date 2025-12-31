@@ -29,6 +29,9 @@
 - Regarding increasing the admission capacity for the Postgraduate Medical Degree course at Government Medical College, Jalgaon.\
   [202501031549599613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031549599613.pdf)
 
+- Regarding granting approval to open a Personal Ledger Account (P.L.A.) for the Government Medical College, Buldhana\
+  [202512301149068513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301149068513.pdf)
+
 ## Personnel
 - Regarding the creation of necessary posts to start a government medical college with an admission capacity of 100 students in Nashik.\
   [202501031744032613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031744032613.pdf)

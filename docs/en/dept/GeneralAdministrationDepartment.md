@@ -10,6 +10,9 @@
 - Regarding the grant of administrative and financial approval to the estimated budget for the renovation of Room No. 205 in the Ministrys main building, which houses the office of the Secretary (Protocol, Foreign Direct Investment, Overseas Citizens Affairs and Liaison) under the General Administration Department.\
   [202512291618064907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291618064907.pdf)
 
+- Regarding the provision of 10 reservation in government services and educational institutions for economically weaker sections of the open category.\
+  [202512301920233207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301920233207.pdf)
+
 ## Miscellaneous
 - Final Seniority List of Lower Grade Stenographer in Mantralaya Department dated 01.01.2024\
   [202501031545241207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031545241207.pdf)
@@ -38,6 +41,12 @@
 - Regarding the establishment of a revised procedure for informing the applicant about the information fee under the Right to Information Act, 2005.\
   [202512291634307907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291634307907.pdf)
 
+- Regarding  Selection Grade Pay Scale of S-25 to officers in the cadre of S-23.\
+  [202512301748486607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301748486607.pdf)
+
+- Regarding   Selection Grade Pay Scale of S-27 to officers in the cadre of S-25\
+  [202512301757163807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301757163807.pdf)
+
 ## Personnel
 - Transfer of Under Secretary- Smt. Latika V. Patil, Under Secretary\
   [202501011328389307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501011328389307.pdf)
@@ -56,6 +65,9 @@
 
 - Regarding approval of mandatory waiting period as duty period... Mrs. Vaishali Raj Chavan (Nirdhar), Deputy Secretary.\
   [202501021247215407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021247215407.pdf)
+
+- Regarding the transfer of Baramati Airport, Latur Airport, Osmanabad (Dharashiv) Airport, and Yavatmal Airport from the Maharashtra Industrial Development Corporation to the Maharashtra Airport Development Company.\
+  [202512301640226107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301640226107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

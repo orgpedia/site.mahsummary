@@ -51,5 +51,11 @@
 - Grant of central share and matching state share for the general plan for the year 2024-25 to Rashtrasant Tukdoji Regional Cancer and Research Centre, Nagpur, Tertiary Care Cancer Center under the Centrally Sponsored Scheme National Cancer, Diabetes, Heart Disease and Stroke Prevention and Control Program under the National Non-Communicable Control Programme. About doing...\
   [202501021442110417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021442110417.pdf)
 
+- Regarding the disbursement of funds for programs under the centrally sponsored National Rural Health Mission for Tribal Sub-Plan (TSP) through the SNA SPARSH system, with the central share being 60 under account head 2210F738 and the state share being 40 under account head 2210E455, from the budgetary provisions of the year 2025-26.\
+  [202512301524164617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301524164617.pdf)
+
+- Regarding the disbursement of funds for programs under the centrally sponsored National Rural Health Mission, for the General category, through the SNA SPARSH system, with 60 central share under account head 2210F157 and 40 state share under account head 22105246, from the budgetary allocation for the year 2025-26.\
+  [202512301524022517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301524022517.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

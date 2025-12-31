@@ -39,5 +39,8 @@
 - Regarding the allocation of funds for civic amenities works in villages affected and subsequently rehabilitated due to excessive rainfall/flooding in Loha taluka of Nanded district.\
   [202512291541156819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291541156819.pdf)
 
+- Regarding the creation of supernumerary posts for employees appointed from the Scheduled Tribes category under the establishment of the Settlement Commissioner of Land Records and Director of Land Records (Maharashtra State), Pune, who have failed to submit their caste validity certificates...\
+  [202512301553336519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301553336519.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

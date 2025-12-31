@@ -20,5 +20,8 @@
 - Regarding the appointment of National Digital Livestock Mission Officers at the Gram Panchayat, Block, Taluka, District and State levels in rural areas under the National Digital Livestock Mission.\
   [202512291136299601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291136299601.pdf)
 
+- Regarding the return of land under the jurisdiction of the Dairy Development Department to the Revenue and Forest Department for transfer to the Other Backward Classes Welfare Department for the construction of a hostel under the Babu Jagjivan Ram Student Housing Scheme....\
+  [202512301156468601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301156468601.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
