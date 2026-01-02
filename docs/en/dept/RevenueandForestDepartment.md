@@ -1,46 +1,43 @@
 # Revenue and Forest Department
 
-**Date Range**: 06 January 2025 - 11 January 2025
+**Date Range**: 05 January 2026 - 10 January 2026
 
 
 ## Funds
-- Regarding disbursement of funds for pre-monsoon and first year works to be carried out under the scheme Massive Afforestation Program at Community Level (4406 0492) for the financial year 2024-25.\
-  [202501031259251719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031259251719.pdf)
-
-- Regarding the allocation of funds for civic amenities projects in villages affected by heavy rainfall/floods and subsequently resettled.\
-  [202512291539377619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291539377619.pdf)
-
-- Regarding the allocation of funds for civic amenities works in villages of Jintur taluka in Parbhani district that have been affected by heavy rainfall/floods and subsequently rehabilitated.\
-  [202512291538048719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291538048719.pdf)
+- Year 2025-26 regarding disbursement of funds under the Scheme (2406 0481) for Community Scheme (Firewood and Coal) by the Government Agency.\
+  [202601011709524919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011709524919.pdf)
 
 ## Miscellaneous
-- Regarding the formation of a Research Advisory Committee for the successful implementation of the Maharashtra Forest Research Program under the World Bank funded Maharashtra Forestry Project...\
-  [202501031603516219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031603516219.pdf)
+- Regarding the in-situ promotion to officers of the Indian Forest Service in the selection grade.\
+  [202601011232409719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011232409719.pdf)
 
-- Regarding disbursement of funds under the current item proposal under the head Vanmahotsav (2406 8551) for the financial year 2024-25.\
-  [202501021552408719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021552408719.pdf)
+- Forest Land-Raigad. Diversion of revised area 0.0304 ha. (0.0608 ha.) Protected forest land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of approach road for private land in Survey No.50/2, Village Vindhane Tal. Uran Dist. Raigad, in the State of Maharashtra.\
+  [202601011700588019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011700588019.pdf)
 
-- Regarding approval of the purchase price of Tendupa from government/private land for the 2025 Tendupa season.\
-  [202501021259269419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021259269419.pdf)
+- Forest Land- Gadchiroli  Diversion of 0.343 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam 1980 in favour of M/s Lloyds Metals and Energy Limited for Intake well  Pump house on Pamulgautami River (Indravati River) and underground water pipeline from Pump house to zero point of Right of Way (RoW) of existing road (116.44 m.) to connect proposed underground water pipeline in village Bhamragarh under Bhamragarh Tahasil of Gadchiroli District in the State of Maharashtra.\
+  [202601011659075419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011659075419.pdf)
+
+- Forest Land- Kolhapur Re-diversion of 0.1599 ha. forest land in favour of M/s Vodafone Idea Telecom Infrastructure Ltd., Pune for Laying Optical Fiber Cable along the ROW of Kuthalwadi to Bidri (RHS Side) in Kolhapur District in the state Maharashtra.\
+  [202601011703003619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011703003619.pdf)
+
+- Forest Land- Kolhapur  Re-diversion of 0.2561 ha. forest land for laying of Optical fiber cable of Vodafone Idea Telecom Infrastructure Ltd Project along with the RoW of Gadhinglaj-Ajra-Halkarni (RHS Side) in Kolhapur District under Kolhapur Forest Division in the state of Maharashtra.\
+  [202601011701359919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011701359919.pdf)
+
+- Forest Land-Solapur Diversion of 0.1755 ha. (Originally proposed 0.273 ha.) Unclass land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of an approach road to upcoming charitable polyclinic and educational facilities at Kasegaon, Tal. Pandharpur, Dist. Solapur in the State Maharashtra.\
+  [202601011658544519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011658544519.pdf)
 
 ## Personnel
-- Consolidated final seniority list of officers in the Deputy Collector, Group-A cadre for the period from 01.01.2007 to 31.12.2012 as on 01.01.2013.\
-  [202501031811022719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031811022719.....pdf)
+- Provisional seniority list showing the status of Additional Collector cadre officers for the period from 01.01.2025 to 31.12.2025 and as on 01.01.2026...\
+  [202601011558404519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011558404519....pdf)
 
-- Grant to creation of surplus post for conducting On the Job Training (OJT) for the of the 2023 batch of Indian Forest Services.\
-  [202501021802491819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021802491819...pdf)
+- Annual Plan Year 2025-26 Empowerment of Mobile Squad under State Level Scheme (2406 2161) Regarding purchase of new 08 vehicles in replacement of 08 vehicles recorded in various forest records under this scheme.\
+  [202601011705052819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011705052819.pdf)
 
-- Regarding taking measures for orderly execution of the work done by the Joint Forest Committee as well as for proper control over the funds distributed to the Committee.\
-  [202501031600283119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031600283119.pdf)
+- Provisional seniority list showing the status of Additional Collector (Selection Grade) cadre officers for the period from 01.01.2025 to 31.12.2025 and as on 01.01.2026...\
+  [202601011601335719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011601335719....pdf)
 
-- Consolidated provisional seniority list of officers in the Additional District Collector cadre for the period from 01.01.2017 to 31.12.2024 showing the status as on 01.01.2025.\
-  [202501031912407519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501031912407519.pdf)
-
-- Regarding the allocation of funds for civic amenities works in villages affected and subsequently rehabilitated due to excessive rainfall/flooding in Loha taluka of Nanded district.\
-  [202512291541156819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291541156819.pdf)
-
-- Regarding the creation of supernumerary posts for employees appointed from the Scheduled Tribes category under the establishment of the Settlement Commissioner of Land Records and Director of Land Records (Maharashtra State), Pune, who have failed to submit their caste validity certificates...\
-  [202512301553336519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301553336519.pdf)
+- Regarding the in-situ promotion to officers of the Indian Forest Service.\
+  [202601011238153519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011238153519....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

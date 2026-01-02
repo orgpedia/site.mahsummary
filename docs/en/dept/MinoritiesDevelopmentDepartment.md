@@ -1,11 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 06 January 2025 - 11 January 2025
+**Date Range**: 05 January 2026 - 10 January 2026
 
 
 ## Funds
-- Regarding the distribution of funds to the Maharashtra State Hajj Committee for the financial year 2024-25...\
-  [202501021749011114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202501021749011114.pdf)
+- Hind-Ki-Chadar regarding the payment of the program organized at Nagpur on the occasion of 350th Shaheedee Shatabdi Samagam Year of Shri Guru Teg Bahadur Sahib Ji.\
+  [202601011833076814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011833076814.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

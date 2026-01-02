@@ -1,18 +1,15 @@
 # School Education and Sports Department
 
-**Date Range**: 06 January 2025 - 11 January 2025
+**Date Range**: 05 January 2026 - 10 January 2026
 
 
 ## Funds
-- Regarding the disbursement of funds under the Rajiv Gandhi Student Accident Ex-gratia Grant Scheme.\
-  [202512291241195621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512291241195621.pdf)
-
-- Regarding the allocation of funds amounting to Rs. 8,44,944/- for 6 iPads for the officers in the offices of the Honble Minister (School Education) and the Honble Minister of State (School Education).\
-  [202512301139176521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301139176521....pdf)
+- Regarding the payment of salary arrears to Gyanaganga Vidyaniketan Secondary Section, Mahadevmala, Manchi Hill, Ashwi (Bk.), Taluka Sangamner, District Ahilyanagar, a school operated by Eklavya Adivasi Nomadic, De-notified Tribes and Backward Classes Charitable Organization, Ashwi (Bk.), Taluka Sangamner, District Ahilyanagar, as per the order of the Honble High Court.\
+  [202601011526129221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011526129221.pdf)
 
 ## Miscellaneous
-- Regarding entrusting the work related to teacher recruitment to the Maharashtra State Examination Council...\
-  [202512301131162221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202512301131162221.pdf)
+- Regarding the consideration of potential vacancies that will arise at the end of the academic year in the teacher recruitment process for local self-governing bodies, which is being conducted through the Pavitra portal...\
+  [202601011212450021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011212450021.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
