@@ -20,5 +20,8 @@
 - Regarding re-allocation of Gharkul targets given under Chandrapur district for the financial year 2024-25 under Shabari Adivasi Gharkul (Urban) Scheme.\
   [202601011543212324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011543212324.pdf)
 
+- Regarding the guidelines for undertaking new road/bridge works in tribal areas under the Tribal Sub-Plan (Account Head 5054 5117)...\
+  [202601021719390024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021719390024.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

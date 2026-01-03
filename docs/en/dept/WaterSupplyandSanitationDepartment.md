@@ -16,5 +16,8 @@
 - Regarding the distribution of grants for measures to alleviate the scarcity of drinking water in rural areas during the scarcity period. (Account Head 2215 A195)\
   [202601011202369828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011202369828.pdf)
 
+- Requisition No. Y-06, Reallocation of grant in 4402 Capital Expenditure on Soil and Water Conservation (Non-Plan) (4402 1148)\
+  [202601011527473928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011527473928.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

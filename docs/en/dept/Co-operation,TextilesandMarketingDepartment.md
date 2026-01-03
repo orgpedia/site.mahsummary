@@ -7,6 +7,12 @@
 - Regarding approval to change the designation of Statistical Officer to Software Support Engineer in the establishment of the State Cooperative Election Authority and to fill the post of Software Support Engineer through external sources on a contractual basis or through MahaIT.\
   [202601011549582502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011549582502.pdf)
 
+- Incentive schemes for cooperative and private sugar factories in the state of Maharashtra.\
+  [202601021702349202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021702349202.pdf)
+
+- Regarding the formation of a high-level committee to Propose changes in the Maharashtra Cooperative Societies Act,1960.\
+  [202601021510063002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021510063002.pdf)
+
 ## Personnel
 - Regarding the approval to fill 6 clerk positions on the establishment of the State Cooperative Election Authority on a temporary, contractual basis through outsourcing.\
   [202601011549109602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011549109602.pdf)

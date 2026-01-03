@@ -19,5 +19,8 @@
 - Regarding the governments approval for merging the existing Diploma in Pharmacy program with the Bachelor of Pharmacy program, in accordance with the approval of the Pharmacy Council of India, New Delhi, from the academic year 2025-26...\
   [202601011450080408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011450080408.pdf)
 
+- Regarding granting final approval to a new college for the academic year 2026-27. (Court case)\
+  [202601021638274508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021638274508.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

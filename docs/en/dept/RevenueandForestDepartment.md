@@ -7,6 +7,9 @@
 - Year 2025-26 regarding disbursement of funds under the Scheme (2406 0481) for Community Scheme (Firewood and Coal) by the Government Agency.\
   [202601011709524919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011709524919.pdf)
 
+- Minor Minerals - Solapur Regarding the refund for sand that could not be excavated from the sand block of Mouje. Dharmagaon-Mudhavi, Tal. Mangalwedha, for the year 2015-16. Mr. Raghunath Ananda Nagane\
+  [202601021657395519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021657395519.pdf)
+
 ## Miscellaneous
 - Regarding the in-situ promotion to officers of the Indian Forest Service in the selection grade.\
   [202601011232409719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011232409719.pdf)
@@ -25,6 +28,12 @@
 
 - Forest Land-Solapur Diversion of 0.1755 ha. (Originally proposed 0.273 ha.) Unclass land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for construction of an approach road to upcoming charitable polyclinic and educational facilities at Kasegaon, Tal. Pandharpur, Dist. Solapur in the State Maharashtra.\
   [202601011658544519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011658544519.pdf)
+
+- Government Supplementary Letter - Revised procedures and guidelines regarding the direct recruitment process for Group-B (non-gazetted), Group-C and Group-D cadres in the Forest Department.\
+  [202601021540049619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021540049619.pdf)
+
+- Regarding the restructuring of the district-level committee for the direct purchase of private land through private negotiations for irrigation and other projects in the private sector.\
+  [202601021450481219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021450481219.pdf)
 
 ## Personnel
 - Provisional seniority list showing the status of Additional Collector cadre officers for the period from 01.01.2025 to 31.12.2025 and as on 01.01.2026...\

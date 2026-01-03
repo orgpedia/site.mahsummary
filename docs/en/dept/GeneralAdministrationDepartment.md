@@ -17,6 +17,9 @@
 - Regarding the extension of the term for the technical manpower provided by the Maharashtra Information Technology Corporation.\
   [202601011320213707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011320213707.pdf)
 
+- Filling the post of deputation basis\
+  [202601021542257307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021542257307....pdf)
+
 ## Personnel
 - Procedure regarding monthly contribution of officers All India Service officers who have migrated from National Pension Scheme (NPS) to Unified Pension Scheme (UPS).\
   [202601011558123707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011558123707.pdf)
