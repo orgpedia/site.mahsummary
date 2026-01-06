@@ -1,11 +1,11 @@
 # Planning Department
 
-**Date Range**: 05 January 2026 - 10 January 2026
+**Date Range**: 12 January 2026 - 17 January 2026
 
 
-## Funds
-- Regarding the provision of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government bodies. (Beed Municipal Council, Beed District)\
-  [202601011245227016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011245227016....pdf)
+## Miscellaneous
+- Regarding the creation of services to be provided through outsourcing for the Maharashtra Institution for Transformation - MITRA.\
+  [202601051213248916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051213248916.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

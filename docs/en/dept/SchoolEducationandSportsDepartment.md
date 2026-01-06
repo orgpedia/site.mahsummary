@@ -1,28 +1,24 @@
 # School Education and Sports Department
 
-**Date Range**: 05 January 2026 - 10 January 2026
+**Date Range**: 12 January 2026 - 17 January 2026
 
-
-## Funds
-- Regarding the payment of salary arrears to Gyanaganga Vidyaniketan Secondary Section, Mahadevmala, Manchi Hill, Ashwi (Bk.), Taluka Sangamner, District Ahilyanagar, a school operated by Eklavya Adivasi Nomadic, De-notified Tribes and Backward Classes Charitable Organization, Ashwi (Bk.), Taluka Sangamner, District Ahilyanagar, as per the order of the Honble High Court.\
-  [202601011526129221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011526129221.pdf)
-
-- Regarding the disbursement of grant-in-aid funds to Satara Military School.\
-  [202601021505322721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021505322721....pdf)
 
 ## Miscellaneous
-- Regarding the consideration of potential vacancies that will arise at the end of the academic year in the teacher recruitment process for local self-governing bodies, which is being conducted through the Pavitra portal...\
-  [202601011212450021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011212450021.pdf)
+- Regarding the declaration of appointing authorities for various Group-B (Non-Gazetted), Group-C and Group-D posts in the establishment of the Directorate of Sports and Youth Services, Maharashtra State, Pune...\
+  [202601051829244121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051829244121.pdf)
 
-- Regarding the appointment of a supplier for providing office stationery and supplies from a local supplier for the School Education and Sports Department (itself).\
-  [202601021455420621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021455420621.pdf)
-
-- Regarding the appointment of a supplier for providing a duplex digital copier machine on lease for one year to the School Education and Sports Department (itself), including maintenance, supply of spare parts, papers, toner ink, and the services of a machine operator.\
-  [202601021451532321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021451532321.pdf)
+- Regarding the disbursement of grant funds amounting to Rs. 102.02 lakhs to the states government non-residential sports academies/sports institutions for the financial year 2025-26 - Account Head (2204-5395)\
+  [202601051516260421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051516260421.pdf)
 
 ## Personnel
-- Regarding the determination of the number of basic (primary) posts on the establishment of the Zilla Parishads....\
-  [202601021152524521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021152524521.pdf)
+- Regarding the implementation in the state of the decision given by the Honourable Supreme Court on July 06, 2017, in Civil Appeal No. 8928/2015 and other petitions.\
+  [202601051542386521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051542386521.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grants for the year 2025-2026\
+  [202601051526443221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051526443221....pdf)
+
+- Regarding the implementation in the state of the decision given by the Honourable Supreme Court on July 06, 2017, in Civil Appeal No. 8928/2015 and other petitions.\
+  [202601051545281021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051545281021.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,23 +1,11 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 05 January 2026 - 10 January 2026
+**Date Range**: 12 January 2026 - 17 January 2026
 
 
 ## Funds
-- Regarding the distribution of grants for measures to alleviate the scarcity of drinking water in rural areas during the scarcity period. (Account Head 2215 A195)\
-  [202601011202441028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011202441028.pdf)
-
-- Regarding the distribution of funds to Zilla Parishads under the objective of Establishment Grants, (01)(05) Regular Establishment (Compulsory) (2215 1881) 10-Contractual Services under the account head.\
-  [202601011545097528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011545097528.pdf)
-
-- Regarding the distribution of grants for measures to alleviate the scarcity of drinking water in rural areas during the scarcity period. (Account Head 2215 A195)\
-  [202601011202346628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011202346628.pdf)
-
-- Regarding the distribution of grants for measures to alleviate the scarcity of drinking water in rural areas during the scarcity period. (Account Head 2215 A195)\
-  [202601011202369828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011202369828.pdf)
-
-- Requisition No. Y-06, Reallocation of grant in 4402 Capital Expenditure on Soil and Water Conservation (Non-Plan) (4402 1148)\
-  [202601011527473928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011527473928.pdf)
+- Budgetary Grants for the Year 2025-26 Establishment Grants to Zilla Parishads, (01)(05) Regular Establishment (Compulsory) (2215 1881)(36)  Request No. Y-2\
+  [202601051547117928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051547117928.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
