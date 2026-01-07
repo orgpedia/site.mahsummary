@@ -3,6 +3,10 @@
 **Date Range**: 12 January 2026 - 17 January 2026
 
 
+## Funds
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2024-25, under account head (2217 1301): For Karjat Nagar Panchayat, Ahilyanagar District: Amount instead of Rs. 1.00 crore (Rs. 0.00 crore) For Shrigonda Municipal Council, Ahilyanagar District: Amount Rs. 1.00 crore (Corrigendum)\
+  [202601061323192825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061323192825....pdf)
+
 ## Miscellaneous
 - Regarding the publication of the provisional seniority list of officers in the Legal Officer (Group-A) cadre on the establishment of the Directorate of Town Planning and Valuation, as of 01.01.2026.\
   [202601051250330525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051250330525.pdf)

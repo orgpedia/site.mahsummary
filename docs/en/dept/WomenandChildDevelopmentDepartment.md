@@ -1,11 +1,11 @@
 # Women and Child Development Department
 
-**Date Range**: 05 January 2026 - 10 January 2026
+**Date Range**: 12 January 2026 - 17 January 2026
 
 
 ## Funds
-- Grant release for PMMVY Scheme for Administrative Expenditure in FY 2025-26\
-  [202601021111107930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021111107930.pdf)
+- Regarding the distribution of funds sanctioned by the Central Government for the general category for implementation of the SNA-SPARSH fund flow system for the Supplementary Nutrition Diet program under the Integrated Child Development Services Scheme (ICDS).\
+  [202601061429565930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061429565930.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

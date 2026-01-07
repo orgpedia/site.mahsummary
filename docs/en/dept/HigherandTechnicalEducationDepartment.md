@@ -1,26 +1,29 @@
 # Higher and Technical Education Department
 
-**Date Range**: 05 January 2026 - 10 January 2026
+**Date Range**: 12 January 2026 - 17 January 2026
 
 
 ## Miscellaneous
-- Regarding the granting of government approval for increasing the intake capacity of the postgraduate degree program in the existing pharmacy course at the institution, in accordance with the approval of the Pharmacy Council of India, New Delhi, from the academic year 2025-26. Anurag College of Pharmacy, Bhandara Road Railway Station, Warthi, Taluka Mohadi, District Bhandara\
-  [202601011444160908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011444160908.pdf)
+- Regarding granting approval for the implementation of new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Chhatrapati Shivaji Maharaj Institute, Rayat Multipurpose Education Society, Chandrapur)\
+  [202601061846520108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061846520108.pdf)
 
-- Regarding granting government approval for starting a new postgraduate degree course/increasing the intake capacity of postgraduate/undergraduate degree courses in the existing pharmacy institution from the academic year 2025-26, in accordance with the approval of the Pharmacy Council of India, New Delhi. K.B.H.S.S. Trusts Institute of Pharmacy, Malegaon Camp, Malegaon, District Nashik\
-  [202601011447051308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011447051308.pdf)
+- Regarding granting approval for the implementation of new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Shivparvati Multipurpose Rural Development Institute, National Fire and Safety Service College, Nagpur)\
+  [202601061842358708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061842358708.pdf)
 
-- Pursuant to the approval of Pharmacy Council of India, New Delhi, Government approval for starting new Post Graduate Courses/increasing the accessibility of Post Graduate/Graduate Courses in the existing Institute of Pharmacy Courses from the academic year 2025-26. Sumantai Institute of Pharmacy, Bambarud\
-  [202601011448211808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011448211808.pdf)
+- Regarding granting approval for the implementation of new short-term vocational diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Shri Vitthal Gyanpeeth Health Education and Dissemination Institute, V.R. Paramedical College, Degaon, Solapur.)\
+  [202601061856592108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061856592108.pdf)
 
-- Regarding approval of the Government to change the name of the course in the existing Institute of Architecture from the academic year 2025-26 as per the approval of the Council of Architecture, New Delhi... (Mahatma Education Societys Pillai College of Architecture, New Panvel)\
-  [202601011444267808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011444267808.pdf)
+- Regarding granting approval for increasing the intake capacity of short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Sanjay Ghodawat Institute, Kolhapur, of Sou. Sushila Danchand Ghodawat Charitable Trust.)\
+  [202601061900193108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061900193108.pdf)
 
-- Regarding the governments approval for merging the existing Diploma in Pharmacy program with the Bachelor of Pharmacy program, in accordance with the approval of the Pharmacy Council of India, New Delhi, from the academic year 2025-26...\
-  [202601011450080408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011450080408.pdf)
+- Regarding granting approval for the implementation of new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Laxminarayan College of Pharmacy, Laxminarayan Educational Multipurpose Rural Development Institute, Buldhana)\
+  [202601061852058608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061852058608.pdf)
 
-- Regarding granting final approval to a new college for the academic year 2026-27. (Court case)\
-  [202601021638274508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021638274508.pdf)
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Shivseva Pratishthans Shiv Paramedical College, Akola)\
+  [202601061849342608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061849342608.pdf)
+
+- Regarding granting approval for the implementation of new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Nirmala Technical Institute of Nirmala Memorial Foundation, Mumbai)\
+  [202601061838454508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061838454508.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

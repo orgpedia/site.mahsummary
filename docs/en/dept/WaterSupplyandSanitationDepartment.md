@@ -7,5 +7,9 @@
 - Budgetary Grants for the Year 2025-26 Establishment Grants to Zilla Parishads, (01)(05) Regular Establishment (Compulsory) (2215 1881)(36)  Request No. Y-2\
   [202601051547117928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051547117928.pdf)
 
+## Miscellaneous
+- Budget 2025-26 Power No. Y-03 2235, Social Security and Welfare (Non-Project) (2235 2421)\
+  [202601061722492228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061722492228.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
