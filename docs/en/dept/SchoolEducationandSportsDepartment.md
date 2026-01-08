@@ -10,6 +10,9 @@
 - Regarding the disbursement of grant funds amounting to Rs. 102.02 lakhs to the states government non-residential sports academies/sports institutions for the financial year 2025-26 - Account Head (2204-5395)\
   [202601051516260421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051516260421.pdf)
 
+- Regarding the issuance of guidelines as per the order given by the Honble Supreme Court in Special Leave Petition No. 6378/2024.\
+  [202601071902172221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071902172221.pdf)
+
 ## Personnel
 - Regarding the implementation in the state of the decision given by the Honourable Supreme Court on July 06, 2017, in Civil Appeal No. 8928/2015 and other petitions.\
   [202601051542386521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051542386521.pdf)

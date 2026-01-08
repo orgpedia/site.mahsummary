@@ -11,6 +11,9 @@
 - Regarding the publication of the provisional seniority list of officers in the Legal Officer (Group-A) cadre on the establishment of the Directorate of Town Planning and Valuation, as of 01.01.2026.\
   [202601051250330525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051250330525.pdf)
 
+- Regarding the sanctioning of funds to Municipal Councils under the Special scheme. For the year 2024-25 under Account Head (4217 0603) For Shrigonda Municipal Council, Dist. Ahilyanagar Amount Rs. 10.00 crore (Corrigendum)\
+  [202601071646521725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071646521725.pdf)
+
 ## Personnel
 - Regarding the publication of the provisional seniority list of Assistant Directors, Town Planning (Group-A) officers on the establishment of the Directorate of Town Planning and Valuation, as of January 01, 2026.\
   [202601051240097525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051240097525.pdf)

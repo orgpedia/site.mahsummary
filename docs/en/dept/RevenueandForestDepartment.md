@@ -19,6 +19,15 @@
 - Regarding the allocation of funds for civic amenity works in the rehabilitated village settlements of Tondal, Loni, and Bholi in Khandala taluka of Satara district, under the Veer project...\
   [202601061443237919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061443237919.pdf)
 
+- Regarding the cancellation of the district-level planning committee for achieving the target of planting 100 crore trees.\
+  [202601071618460819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071618460819.pdf)
+
+- Regarding the return of unexcavated quantity from 11 sand blocks i.e. Bramhapuri, Takli, Eklara, Rohana, Kapileshwar, Dahihanda, Bhod, Khirkunda, Kelivere, Tulanga Khurd and Lakhpuri-1 in Akola district.- Mr. Amit Sakharam Kalkar\
+  [202601071153129919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071153129919.pdf)
+
+- Regarding the disbursement of funds under the Kundal Development, Administration and Management Academy (Forests) Kundal (Program) (2415-1068) scheme for the year 2025-26.\
+  [202601071437390019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071437390019.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee for the modernization and updating of the land records department...\
   [202601051807484519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051807484519.pdf)
@@ -32,9 +41,18 @@
 - Regarding the formation of a committee to approve the management plan for national parks and wildlife sanctuaries.\
   [202601061548195719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061548195719.pdf)
 
+- Regarding the issuance of instructions for the implementation of the Chief Minister Baliraja Farm / Panand Roads Scheme.\
+  [202601071846049619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071846049619.pdf)
+
 ## Personnel
 - Regarding granting administrative approval to the estimated budgets for the civic amenities to be provided in the rehabilitated village settlements in Shevgaon taluka of Ahilyanagar district, under the Jayakwadi project...\
   [202601061449537219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061449537219.pdf)
+
+- Regarding publishing the provisional seniority list of Deputy Director Land Records (Group-A) cadre dated 01.01.2026\
+  [202601071503194119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071503194119.pdf)
+
+- Regarding publishing the provisional seniority list of District Superintendent Land Records (Group-A) cadre dated 01.01.2026.\
+  [202601071507091619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071507091619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

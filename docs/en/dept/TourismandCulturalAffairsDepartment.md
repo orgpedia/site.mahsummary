@@ -13,6 +13,9 @@
 - Granting financial approval for the organization of the 60th and 61st Maharashtra State Marathi Film Awards ceremony.\
   [202601061511582323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061511582323.pdf)
 
+- Granting administrative approval for the organization of the 24th Pune International Film Festival - 2026 organized by the Pune Film Foundation.\
+  [202601071511046123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071511046123.pdf)
+
 ## Miscellaneous
 - Regarding the granting of administrative and financial approval for organizing a cultural program to commemorate the 150th anniversary of Vande Mataram, the national song that inspired and motivated the freedom struggle.\
   [202601051747485623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051747485623.pdf)
