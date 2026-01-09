@@ -33,5 +33,8 @@
 - Regarding the publication of the provisional seniority list of officers in the Deputy Director, Town Planning (Group-A) cadre on the establishment of the Directorate of Town Planning and Valuation, as of 01.01.2026.\
   [202601051243418825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051243418825.pdf)
 
+- Regarding the publication of the provisional seniority list of officers in the Personal Assistant (Group-B / Gazetted) cadre on the establishment of the Directorate of Town Planning and Valuation, as of 01.01.2026.\
+  [202601081620458525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081620458525.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

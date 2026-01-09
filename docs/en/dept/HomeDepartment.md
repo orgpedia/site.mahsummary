@@ -16,6 +16,9 @@
 - Regarding the approval for releasing funds to pay the project suppliers invoices for the NIC e-Challan Pilot Project in Nashik city.\
   [202601071714311029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071714311029.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 399,11,59,292/- to the Maharashtra State Road Transport Corporation as reimbursement for concessional fares for the month of November, 2025...\
+  [202601081858555029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081858555029.pdf)
+
 ## Miscellaneous
 - Regarding the approval for renting premises for the Divisional Police Complaints Authority office, Chhatrapati Sambhaji Nagar.\
   [202601051539028329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051539028329.pdf)
@@ -25,6 +28,12 @@
 
 - Regarding the service review of transport department officials after they reach the age of 50/55 years.\
   [202601071449553029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071449553029.pdf)
+
+- Final seniority list of the Superintendent (Group-A) cadre in the State Excise Department as of 01.01.2025.\
+  [202601081750143029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081750143029.pdf)
+
+- Regarding the formation of a committee under the chairmanship of the Honourable Chief Secretary to formulate a comprehensive policy regarding CCTV.\
+  [202601081701360829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081701360829.pdf)
 
 ## Personnel
 - Regarding the restructuring of the high-level review committee for providing classified security to protected persons.\

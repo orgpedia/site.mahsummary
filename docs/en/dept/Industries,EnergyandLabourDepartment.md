@@ -14,5 +14,8 @@
 - Regarding the approval of the voluntary retirement of Mr. Dilip Ganpat Algude, Branch Engineer, Group-B (Gazetted), Electrical Inspector, Inspection Department, Miraj (Sangli)...\
   [202601051607063810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051607063810.pdf)
 
+- Regarding the declaration of the Drawing and Disbursing Officer at the N.M. Lokhande Maharashtra Institute of Labour Studies as a Virtual Personal Deposit Account Administrator (VPDA) for the speedy disbursement and monitoring of grant-in-aid.\
+  [202601081441030410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081441030410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
