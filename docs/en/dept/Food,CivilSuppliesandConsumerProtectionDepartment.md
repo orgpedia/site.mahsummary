@@ -14,5 +14,8 @@
 - Regarding granting revised administrative approval to the estimate for the remaining construction work of the Executive Standards Laboratory building of the Inspector, Legal Metrology, Udgir Divisional Office.\
   [202601081538099806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081538099806.pdf)
 
+- Provisional seniority list of Inspectors in the Legal Metrology system, as of January 01, 2026.\
+  [202601091218191606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091218191606....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

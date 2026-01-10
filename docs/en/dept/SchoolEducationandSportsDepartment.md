@@ -16,6 +16,12 @@
 - Regarding the approval for developing the Sports E-Certificate system by incorporating Blockchain technology for the implementation of the 5 percent reservation under the sports policy.\
   [202601081602256021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081602256021.pdf)
 
+- Regarding the formation of a State-Level Vigilance Committee for the effective implementation of the Maharashtra State Secondary School Certificate and Higher Secondary Certificate examinations.\
+  [202601091838180521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091838180521.pdf)
+
+- Regarding the disbursement of funds for paying the quarterly service charges to the Central Recordkeeping Agency under the National Pension System for all District Treasury Offices (DTOs) for the financial year 2025-26.\
+  [202601091201534721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091201534721.pdf)
+
 ## Personnel
 - Regarding the implementation in the state of the decision given by the Honourable Supreme Court on July 06, 2017, in Civil Appeal No. 8928/2015 and other petitions.\
   [202601051542386521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051542386521.pdf)

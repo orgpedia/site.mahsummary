@@ -10,6 +10,12 @@
 - Regarding the approval for implementing the District Karmayogi 2.0 and Sarpanch Samvad programs to strengthen village, taluka, and district administration.\
   [202601071526289607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071526289607.pdf)
 
+- Regarding granting administrative and financial approval for the expenditure incurred in renovating the studio at the Directorate General of Information and Public Relations headquarters (Mumbai).\
+  [202601091821444507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091821444507.pdf)
+
+- Regarding the granting of administrative approval for the purchase of 5 new vehicles for the transportation of Honble State Guests, VVIPs, and other dignitaries visiting Kolhapur district...\
+  [202601091601547207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091601547207.pdf)
+
 ## Miscellaneous
 - Regarding medical examinations of Indian Administrative Service officers, as per the All India Services (Performance Appraisal Report) Rules, 2007.\
   [202601051728036107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601051728036107.pdf)
@@ -37,6 +43,19 @@
 
 - Regarding the prescription of a revised organizational structure for the posts in the Soldiers Welfare Department, Maharashtra State, Pune and its subordinate offices (Corrigendum)\
   [202601081143064407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081143064407.pdf)
+
+- Regarding Sevakarmi programme of 150 Days in respect of service related matters: general instructions about evaluation.\
+  [202601091952068407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091952068407.pdf)
+
+- Regarding the allocation of budgetary grants for the year 2025-26 under the major head 2059 Preservation and Maintenance of Martyr Memorials, (20590015)...\
+  [202601091204185707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091204185707.pdf)
+
+- Regarding the declaration of the Deputy Secretary in the State Chief Service Rights Commission office as the ex-officio Secretary of the State Service Rights Commission...\
+  [202601091614475307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091614475307.pdf)
+
+## Personnel
+- Regarding the publication of the Citizens Charter by the State Public Service Rights Commission...\
+  [202601091615436907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091615436907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

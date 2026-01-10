@@ -10,5 +10,9 @@
 - Regarding the disbursement of funds to Dr. Panjabrao Deshmukh Agricultural University, Akola, for 31 assistant grants (non-salary) during the financial year 2025-26. (Mandatory)\
   [202601081240591001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081240591001.pdf)
 
+## Personnel
+- To declare the Maharashtra State Cyber Treasury as the Drawing and Disbursing Officer for the timely disbursement of funds under the centrally sponsored Integrated Survey Scheme through the SNA-SPARSH system.\
+  [202601091620072501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091620072501....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

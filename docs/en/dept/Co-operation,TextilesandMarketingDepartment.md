@@ -13,5 +13,8 @@
 - Regarding declaring the government vehicle bearing registration number MH 01 AN 3999 (Toyota Innova), used by the Cooperation, Marketing and Textiles Department (itself), as unserviceable...\
   [202601071442144002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071442144002.pdf)
 
+- Regarding the sanctioning of financial assistance in the form of a grant to the Maharashtra State Cooperative Textile Federation Ltd., Mumbai, for the financial year 2025-26.\
+  [202601091722082902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091722082902.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

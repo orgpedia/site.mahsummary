@@ -32,5 +32,27 @@
 - Regarding the disbursement of a lump sum amount to Maharashtra National Law University, Mumbai, Chhatrapati Sambhajinagar and Nagpur for the year 2025-26...\
   [202601081821153508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081821153508.pdf)
 
+- Regarding the completion of the probationary period and continuation of employment for the heads of departments in government polytechnics.\
+  [202601091527481708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091527481708.pdf)
+
+- Regarding making amendments to the government order for the final approval of the new college.\
+  [202601091828470808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091828470808.pdf)
+
+- Regarding the completion of the probationary period and continuation of employment for the heads of departments in government polytechnics.\
+  [202601091530400208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091530400208.pdf)
+
+- Regarding granting approval for the implementation of new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (Sahara DMLT Institute of Savitribai Phule Education and Welfare Society, Parbhani)\
+  [202601091759124308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091759124308.pdf)
+
+- Regarding the approval for implementing new short-term, job-oriented diploma courses under the purview of the Maharashtra State Board of Technical Education, starting from the academic year 2025-26. (B.S. Patel Sir Technical Institution of Satpuda Education and Rural Development Institute, Buldhana)\
+  [202601091758553308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091758553308.pdf)
+
+- Mumbai University Government Resolution: Regarding the formation of a task force to conduct case-by-case scrutiny for the regularization of services of employees appointed at Mumbai University during the period from 1985 to 1995.\
+  [202601091812363608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091812363608.pdf)
+
+## Personnel
+- The final seniority list as of 01.01.2025 for Junior Administrative Officer/Manager/Superintendent, Group B cadre, in the establishments under the Directorate of Higher Education.\
+  [202601091621214208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091621214208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

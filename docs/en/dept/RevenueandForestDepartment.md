@@ -44,6 +44,15 @@
 - Regarding the issuance of instructions for the implementation of the Chief Minister Baliraja Farm / Panand Roads Scheme.\
   [202601071846049619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071846049619.pdf)
 
+- Regarding the extension of the term for a total of 42 contractual posts, comprising 36 posts of District Disaster Management Officers and 06 posts of Divisional Disaster Management Coordinators...\
+  [202601091608521219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091608521219.pdf)
+
+- Regarding the disbursement of funds to Chandrapur Forest Administration, Development and Management Academy, Chandrapur for 36-Grant-in-aid (Salaries) under scheme (2415-1077) for the year 2025-26.\
+  [202601091211130519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091211130519.pdf)
+
+- Regarding the disbursement of funds under the scheme for the establishment of the Maharashtra Ecotourism Development Board for the year 2025-26 (2406-A096).\
+  [202601091213178119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601091213178119.pdf)
+
 ## Personnel
 - Regarding granting administrative approval to the estimated budgets for the civic amenities to be provided in the rehabilitated village settlements in Shevgaon taluka of Ahilyanagar district, under the Jayakwadi project...\
   [202601061449537219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601061449537219.pdf)
