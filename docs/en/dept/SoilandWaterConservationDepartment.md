@@ -1,18 +1,15 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 12 January 2026 - 17 January 2026
+**Date Range**: 19 January 2026 - 24 January 2026
 
 
 ## Funds
-- Distribution of funds for maintenance and repair works of projects with a capacity of 0 to 100 hectare-centimeters under the Chief Ministers Water Conservation Scheme: Gadchiroli District (Vidarbha Division)\
-  [202601071842415826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601071842415826.pdf)
+- To accord Second Revised Administrative Approval to Minor irrigation Tank, Aappachiwadi, Tal- Bhudargad, Dist. Kolhapur.\
+  [202601121557024926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121557024926.pdf)
 
-## Miscellaneous
-- Director General/Managing Director (Construction) in Soil and Water Conservation Department. Final Seniority List as on 01.01.2025.\
-  [202601081555011526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081555011526.pdf)
-
-- Seniority list of Sub-Divisional Water Conservation Officers (Civil) Group A in the Soil and Water Conservation Department, from 01.01.2018 to 01.01.2025 (Government Supplementary Letter)\
-  [202601081546338726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601081546338726....pdf)
+## Personnel
+- Regarding the provisional ad-hoc promotion and posting of officers in the Sub-Divisional Water Conservation Officer (Civil) and other equivalent posts cadre for the selection list year 2024-25.\
+  [202601121444113126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121444113126.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

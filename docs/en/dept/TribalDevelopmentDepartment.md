@@ -1,27 +1,14 @@
 # Tribal Development Department
 
-**Date Range**: 05 January 2026 - 10 January 2026
+**Date Range**: 19 January 2026 - 24 January 2026
 
 
 ## Funds
-- Corrigendum for Regarding the distribution of funds for the year 2025-26 for the scheme to provide training for various competitive examinations/qualifying examinations for admission to foreign universities/training in foreign languages to Scheduled Tribe students.\
-  [202601011304008324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011304008324.pdf)
+- Disbursement of funds for the scheme of Subsidiary Grant to Agricultural Universities in the financial year 2025-26 under the Tribal Component Programme. (Account Head 2401 8291) Item No. 35-Grant for the creation of capital goods.\
+  [202601121224200124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121224200124.pdf)
 
-## Miscellaneous
-- Regarding making educational and professional qualifications and the Teacher Eligibility Test (TET) mandatory for primary school teachers.\
-  [202601011553477724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011553477724.pdf)
-
-- TO release grant for the schemes of committed expenditure schemes under the TSP in financial year 2025-26.\
-  [202601011057297024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011057297024.pdf)
-
-- To release grant for the schemes of Scheme expenditure schemes under the TSP in financial year 2025-26.\
-  [202601011057212924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011057212924.pdf)
-
-- Regarding re-allocation of Gharkul targets given under Chandrapur district for the financial year 2024-25 under Shabari Adivasi Gharkul (Urban) Scheme.\
-  [202601011543212324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601011543212324.pdf)
-
-- Regarding the guidelines for undertaking new road/bridge works in tribal areas under the Tribal Sub-Plan (Account Head 5054 5117)...\
-  [202601021719390024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601021719390024.pdf)
+- The financial year 2025-26  under the Central Budget Scheme (Nucleus Budget) Regarding disbursement of funds during the year.\
+  [202601121222063024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121222063024.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
