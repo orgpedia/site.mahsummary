@@ -16,6 +16,15 @@
 - Regarding obtaining financial approval for the expenses of the Service Fortnight program organized by the Maharashtra Hindi Sahitya Akademi.\
   [202601121548359323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121548359323.pdf)
 
+- Regarding granting post-facto approval for the expenses incurred for the programs organized on the occasion of World Heritage Week, 2025...\
+  [202601131643231823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131643231823.pdf)
+
+- Regarding the allocation of funds for the preservation and repair work of the Gateway of India, Mumbai, a state-protected monument...\
+  [202601131641377823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131641377823.pdf)
+
+- Regarding the allocation of funds for the conservation and repair work of Udgir Fort, Udgir Taluka, Latur District (Part-4), a state-protected monument...\
+  [202601131638548223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131638548223.pdf)
+
 ## Miscellaneous
 - the granting of financial approval for the organization of the 24th Pune International Film Festival - 2026 organized by the Pune Film Foundation.\
   [202601121618397523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121618397523.pdf)
