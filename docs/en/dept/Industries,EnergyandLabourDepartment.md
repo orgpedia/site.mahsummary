@@ -23,5 +23,8 @@
 - Regarding the approval of the expenditure for the final installment of the state governments share of the grant for the establishment of a common facility center for the Packaging Cluster industrial group project in Satara, Satara District, under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
   [202601131246305810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131246305810.pdf)
 
+- Government of Maharashtra    Delegation visit to Davos, Switzerland  to attend World Economic Forum-2026\
+  [202601141114555310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141114555310.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Regarding the distribution of funds for paying increased compensation under Section 18 of the Land Acquisition Act, 1894, for the acquired land in Gorewadi village, Dharashiv taluka and district.\
   [202601131518032019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131518032019.pdf)
 
+- Regarding the disbursement of funds for the agroforestry sub-scheme under the centrally sponsored National Agriculture Development Scheme (RKVY).\
+  [202601141806153919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141806153919.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of the Managing Director (additional charge) to the Board of Directors of F.D.C.M. Ltd.\
   [202601121537067319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121537067319.pdf)
@@ -16,6 +19,9 @@
 
 - Regarding the provision of funds for civic amenity works in rehabilitated village settlements affected by irrigation projects prior to 1976...\
   [202601131518158219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131518158219.pdf)
+
+- Regarding the land survey process to be followed when acquiring land for various projects of the Central or State Government...\
+  [202601141857190519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141857190519.pdf)
 
 ## Personnel
 - Regarding the transfer and posting of officers in the Deputy Collector cadre.\

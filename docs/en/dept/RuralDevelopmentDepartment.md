@@ -22,6 +22,9 @@
 - Mukhyamantri Gram Sadak Yojana Revised Administrative Approval for the work of Kanakwadi Satara to Wahegaon to SH-61 (VR 09 92 MRL 04) Tal. Partur Package No ADB-JLN-17 in Jalana district,...\
   [202601121144080420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121144080420.pdf)
 
+- Regarding granting administrative approval for the construction of self-cleaning eco-toilets and changing rooms on the beaches in Palghar district under the Konkan Rural Tourism Development Program.\
+  [202601131634425020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131634425020.pdf)
+
 ## Miscellaneous
 - Regarding the amendment of the policy for regularizing encroachments on government land in rural areas for residential purposes, in order to effectively implement the Housing for All - 2022 policy.\
   [202601121305499720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121305499720.pdf)

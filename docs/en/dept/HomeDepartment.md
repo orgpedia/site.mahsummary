@@ -20,5 +20,15 @@
 - Regarding the suspension order to exclude M/s. Vertel Infotal Pvt., Ltd., New Delhi, (CIN No. U32201DL2008PTC178267) and M/s. Vertel Digital Pvt., Ltd., Noida, (UP), (CIN No. U64204DL2007PTC165775) from participating in the tender process for purchases made by the Police Department.\
   [202601131205007129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131205007129.pdf)
 
+- Regarding the acceptance of the resignation of Mr. Santosh Chandrakant Mastud, Police Inspector, Group-A.\
+  [202601141221126829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141221126829.pdf)
+
+- Regarding the creation of one supernumerary post in the Police Constable cadre on the establishment of the Superintendent of Police, Solapur Rural... Mr. Nagnath Dadarao Gaikwad, Police Constable/74\
+  [202601141217237629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141217237629.pdf)
+
+## Personnel
+- Regarding the appointment of a Single Nodal Agency (SNA) for opening a disbursement account at the Reserve Bank of India for the state-affiliated scheme MH684-ASUMP (HM contingency) under centrally sponsored schemes, in order to implement the alternative fund flow mechanism SNA-SPARSH for the disbursement of funds for centrally sponsored schemes.\
+  [202601141442031429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141442031429.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

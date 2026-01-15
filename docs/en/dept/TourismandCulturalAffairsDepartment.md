@@ -25,12 +25,18 @@
 - Regarding the allocation of funds for the conservation and repair work of Udgir Fort, Udgir Taluka, Latur District (Part-4), a state-protected monument...\
   [202601131638548223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131638548223.pdf)
 
+- Regarding the approval of funds for the implementation of the MICE Bureau in the state.\
+  [202601141524239323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141524239323.pdf)
+
 ## Miscellaneous
 - the granting of financial approval for the organization of the 24th Pune International Film Festival - 2026 organized by the Pune Film Foundation.\
   [202601121618397523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121618397523.pdf)
 
 - Granting administrative approval for the organization of the 24th Pune International Film Festival - 2026 organized by the Pune Film Foundation.\
   [202601121156554323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121156554323.pdf)
+
+- Regarding granting financial approval for the expenses incurred in organizing the Lata Mangeshkar Award 2025 distribution ceremony.\
+  [202601141635388923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141635388923.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
