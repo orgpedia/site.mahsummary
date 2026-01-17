@@ -14,5 +14,8 @@
 - Regarding the implementation of the National Pension System (NPS) for teachers and non-teaching staff in 100 grant-in-aid positions in grant-aided ashram schools run by voluntary organizations under the Tribal Development Department in the state, where the Defined Contribution Pension Scheme (DCPS) is applicable.\
   [202601131303368624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131303368624.pdf)
 
+- Regarding the disbursement of funds for centrally sponsored schemes under the Annual Tribal Sub-Plan 2025-26..... (Supplementary Demand, December 2025)\
+  [202601161509513424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601161509513424.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
