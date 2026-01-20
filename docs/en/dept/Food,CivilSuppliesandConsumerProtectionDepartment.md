@@ -1,11 +1,15 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 19 January 2026 - 24 January 2026
+**Date Range**: 26 January 2026 - 31 January 2026
 
+
+## Miscellaneous
+- Regarding the acceptance of the voluntary retirement request of Mr. Namdev Umaji Pawar, Inspector, Legal Metrology, Borivali.\
+  [202601191732459606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191732459606.pdf)
 
 ## Personnel
-- Regarding the granting of revised administrative and financial approval for the construction of a 6-meter by 4.57-meter cement concrete room, attached toilet and bathroom, and a tanker calibration tower within the premises of the building at Mauje Phulchur, Gondia taluka, in the Legal Metrology Department, Nagpur division.\
-  [202601121259274406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121259274406.pdf)
+- Provisional seniority list of the Deputy Controller, Legal Metrology (Gazetted, Group-B) cadre in the Legal Metrology department, as of January 1, 2026.\
+  [202601191737573206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191737573206.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

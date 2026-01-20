@@ -1,18 +1,15 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 19 January 2026 - 24 January 2026
+**Date Range**: 26 January 2026 - 31 January 2026
 
 
 ## Funds
-- Regarding the payment of 12 percent interest on loans received from financial institutions by cooperative spinning mills - Parvati Cooperative Spinning Mill Ltd., Kurundwad Terwad, Taluka Shirol, District Kolhapur.\
-  [202601121232456902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121232456902.pdf)
-
-- Regarding the payment of 12 interest on loans received from financial institutions by cooperative spinning mills... Datta Shetkari Weavers Cooperative Spinning Mill Ltd., Ichalkaranji, Hatkanangale Taluka, Kolhapur District.\
-  [202601131649229702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131649229702.pdf)
+- Regarding providing Government share capital to Maharashtra State Power Loom Corporation Limited, Navi Mumbai.\
+  [202601191800209802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191800209802.pdf)
 
 ## Miscellaneous
-- Regarding the issuance of guidelines for the appointment of secretaries in Primary Agricultural Credit Cooperative Societies and Multi-purpose Cooperative Societies through nomination or direct recruitment.\
-  [202601121203128502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121203128502.pdf)
+- Regarding the repayment of interest on the loan received by the State Government from the National Cooperative Development Corporation (NCDC) under the Margin Money Loan Scheme during the years 2023-24 and 2024-25.\
+  [202601191649431902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191649431902.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

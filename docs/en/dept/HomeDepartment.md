@@ -1,34 +1,34 @@
 # Home Department
 
-**Date Range**: 19 January 2026 - 24 January 2026
+**Date Range**: 26 January 2026 - 31 January 2026
 
 
 ## Funds
-- Regarding granting administrative approval for the construction of a new administrative building for the Washind Police Station under the Superintendent of Police, Thane (Rural), using CSR funds from JSW Steel Coated Company.\
-  [202601131451085029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131451085029.pdf)
+- Regarding grant administrative and financial approval for the Nationality Identification system obtained from TCA21, IIT Bombay for AI based Nationality Verification.\
+  [202601191719058629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191719058629.pdf)
+
+- Regarding granting administrative approval for the revised expenditure for the Command and Control Center of the Maharashtra Cyber Security Project.\
+  [202601191556393629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191556393629.pdf)
 
 ## Miscellaneous
-- Corrigendum regarding Standard Operating Procedures for the safety of couples getting married inter-caste or inter-religiously.\
-  [202601121140112129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121140112129.pdf)
+- Final seniority list of Assistant Commissioner (Group-B) cadre in the State Excise Department as of 01.01.2025.\
+  [202601191632200629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191632200629.pdf)
 
-- Regarding the approval of payment to M/s. Rosmerta Technologies Limited for the services rendered at the Vehicle Inspection and Certification Centre (IC Centre) in Nashik.\
-  [202601121312238829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121312238829.pdf)
-
-- Regarding the granting of administrative and financial approval to the estimated budget for the construction of the office building of the Sub-Regional Transport Office, Beed, District Beed.\
-  [202601131157566329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131157566329.pdf)
-
-- Regarding the suspension order to exclude M/s. Vertel Infotal Pvt., Ltd., New Delhi, (CIN No. U32201DL2008PTC178267) and M/s. Vertel Digital Pvt., Ltd., Noida, (UP), (CIN No. U64204DL2007PTC165775) from participating in the tender process for purchases made by the Police Department.\
-  [202601131205007129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131205007129.pdf)
-
-- Regarding the acceptance of the resignation of Mr. Santosh Chandrakant Mastud, Police Inspector, Group-A.\
-  [202601141221126829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141221126829.pdf)
-
-- Regarding the creation of one supernumerary post in the Police Constable cadre on the establishment of the Superintendent of Police, Solapur Rural... Mr. Nagnath Dadarao Gaikwad, Police Constable/74\
-  [202601141217237629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141217237629.pdf)
+- Final seniority list of the Joint Commissioner (Group-A) cadre in the State Excise Department as of January 1, 2023, January 1, 2024, and January 1, 2025.\
+  [202601191627498129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191627498129.pdf)
 
 ## Personnel
-- Regarding the appointment of a Single Nodal Agency (SNA) for opening a disbursement account at the Reserve Bank of India for the state-affiliated scheme MH684-ASUMP (HM contingency) under centrally sponsored schemes, in order to implement the alternative fund flow mechanism SNA-SPARSH for the disbursement of funds for centrally sponsored schemes.\
-  [202601141442031429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601141442031429.pdf)
+- Regarding transfers/ postings of State Police Service officers.\
+  [202601191559373629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191559373629.pdf)
+
+- The final seniority list for the Deputy Commissioner (Junior Grade) (Group-A) cadre of the State Excise Department as of January 1st, 2017, January 1st, 2018, January 1st, 2019, January 1st, 2020, January 1st, 2021, January 1st, 2022, January 1st, 2023, January 1st, 2024, and January 1st, 2025.\
+  [202601191615573029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191615573029.pdf)
+
+- Regarding the publication of the provisional seniority list for the post of Deputy Inspector General of Prisons as of 01/01/2026.\
+  [202601191515037029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191515037029.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202601191602169329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191602169329.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,24 +1,21 @@
 # Higher and Technical Education Department
 
-**Date Range**: 19 January 2026 - 24 January 2026
+**Date Range**: 26 January 2026 - 31 January 2026
 
+
+## Funds
+- Regarding the granting of ex-post-facto administrative approval for the building construction proposal of Adarsh College, Talere, District Sindhudurg, as a constituent college of the University of Mumbai, Mumbai....\
+  [202601191723296508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191723296508.pdf)
 
 ## Miscellaneous
-- Regarding the publication of the final seniority list of officers holding the post of Professor in the Maharashtra Engineering College Teachers Service Group-A, under the Directorate of Technical Education, for the period from January 01, 2013 to January 01, 2025.\
-  [202601131801171808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131801171808.pdf)
+- Regarding granting administrative approval for the expenses required to create the Maharashtra Food Culture Encyclopedia through Tilak Maharashtra University, Pune...\
+  [202601191726186508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191726186508.pdf)
 
-## Personnel
-- Regarding the publication of the final seniority list of officers holding the post of Professor in the Maharashtra Engineering College Teachers Service Group-A, under the Directorate of Technical Education, for the period from January 01, 2013 to January 01, 2025.\
-  [202601131813265708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131813265708.pdf)
+- Regarding the completion of the probationary period and continuation of employment for lecturers in government polytechnics.\
+  [202601191749534908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191749534908.pdf)
 
-- Regarding the publication of the final seniority list of officers holding the post of Principal, Government College of Pharmacy, in the Maharashtra Engineering College Teachers Service Group-A, under the Directorate of Technical Education, for the period from January 01, 2012 to January 01, 2025.\
-  [202601131755489708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131755489708.pdf)
-
-- Regarding the publication of the final seniority list of officers holding the post of Principal, Government Polytechnic, in the Maharashtra Polytechnic Teachers Service Group-A, under the Directorate of Technical Education, for the period from January 01, 2011 to January 01, 2025.\
-  [202601131225010308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131225010308.....pdf)
-
-- Regarding the publication of the final seniority list of officers holding the post of Principal, Government Engineering College, in the Maharashtra Engineering College Teachers Service Group-A, under the Directorate of Technical Education, for the period from January 01, 2012 to January 01, 2025.\
-  [202601131758539708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131758539708.pdf)
+- Regarding the completion of the probationary period and continuation of employment for the heads of departments in government polytechnics.\
+  [202601191752531908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191752531908.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

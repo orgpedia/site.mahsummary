@@ -1,11 +1,11 @@
 # Housing Department
 
-**Date Range**: 19 January 2026 - 24 January 2026
+**Date Range**: 26 January 2026 - 31 January 2026
 
 
 ## Funds
-- Regarding the disbursement of Central and matching State share funds for the Individual House Construction (BLC) (SLS Code-MH 688) component for general categories (Other than SC/ST Component) under the Pradhan Mantri Awas Yojana (Urban) 2.0.\
-  [202601131827022309.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601131827022309.pdf)
+- Regarding the distribution of the central governments share and the matching state governments share of funds to Municipal Corporations for individual house construction (BLC) (SLS Code-MH 688) under the Pradhan Mantri Awas Yojana (Urban) 2.0 for the general category (Other than SC/ST Component).\
+  [202601191507491209.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191507491209.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
