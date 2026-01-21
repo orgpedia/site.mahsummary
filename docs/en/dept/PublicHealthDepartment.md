@@ -10,5 +10,15 @@
 - Funds Disbursement- Year 2025-26. Regarding disbursement of funds amounting to Rs.35,54,48,803/- for payment of claims of hospitals adopted under Mahatma Jyotirao Phule Jan Arogya Yojana Account Head 2210 G 289 (TSP) 31-Subsidiary Grants (Non-Salary) Scheme.\
   [202601191540232017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191540232017.pdf)
 
+- Regarding the release of funds for programs under the centrally sponsored National AYUSH Mission, for the Tribal Sub-Plan (TSP), through the SNA SPARSH system, with 60 central share under account head 2210F981 and 40 state share under account head 2210F999, from the budgetary allocation for the year 2025-26.\
+  [202601191655267417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191655267417.pdf)
+
+## Personnel
+- Regarding the disbursement of funds for programs under the centrally sponsored National AYUSH Mission, for the General category, through the SNA SPARSH system, with 60 central share under account head 2210G135 and 40 state share under account head 2210G144, from the budgetary provisions of the year 2025-26.\
+  [202601191655191617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191655191617.pdf)
+
+- Regarding the disbursement of funds for programs under the centrally sponsored National AYUSH Mission, through the Social Justice and Special Component (SCSP) SNA SPARSH system, with 60 central share under account head 2210G574 and 40 state share under account head 2210G583, from the budgetary allocation for the year 2025-26.\
+  [202601191655213717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191655213717.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

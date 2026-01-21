@@ -17,6 +17,9 @@
 - Final seniority list of the Joint Commissioner (Group-A) cadre in the State Excise Department as of January 1, 2023, January 1, 2024, and January 1, 2025.\
   [202601191627498129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191627498129.pdf)
 
+- Regarding the service entry rules for the posts of Senior Administrative Officer (Group-A) and Superintendent (Stores) Group-B in the Directorate of Forensic Science Laboratories.\
+  [202601201253540229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201253540229.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of State Police Service officers.\
   [202601191559373629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191559373629.pdf)
@@ -29,6 +32,9 @@
 
 - Regarding transfers/ postings of State Police Service officers.\
   [202601191602169329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191602169329.pdf)
+
+- Regarding the publication of provisional seniority lists for Gazetted Group A and B officers on the establishment of the Directorate of Civil Defence as of January 1, 2024, January 1, 2025, and January 1, 2026.\
+  [202601201621110429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201621110429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

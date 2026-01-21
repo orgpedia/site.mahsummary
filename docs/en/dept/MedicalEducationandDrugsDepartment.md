@@ -1,11 +1,18 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 19 January 2026 - 24 January 2026
+**Date Range**: 26 January 2026 - 31 January 2026
 
 
 ## Funds
-- Regarding approval for the payment of pending dues of ongoing e-Governance projects in institutions under the authority of the Directorate of Medical Education and AYUSH.\
-  [202601121105255113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601121105255113.pdf)
+- Regarding granting administrative approval to procure medicines, surgical materials, and related items required for Government Medical/Dental Colleges for the financial year 202526, amounting to 9.81 crore, through the Maharashtra Medical Goods Procurement Authority.\
+  [202601191517282213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191517282213.pdf)
+
+- Regarding the organization of a Medical Conclave on Excellence in Medical Sciences and Reforms in Medical Education under the Department of Medical Education.\
+  [202601201233046313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201233046313.pdf)
+
+## Miscellaneous
+- Administrative  Approval for Estimate of Effluent Treatment Plant (ETP)  Sewage Treatment Plant (STP) at Government Medical College  Hospital Chhatrapati Sambhajinagar Campus\
+  [202601201710394913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201710394913.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
