@@ -16,6 +16,12 @@
 - Regarding the provision of funds for the management and construction of hostels for girls pursuing higher education from minority communities..... Fund allocation for the year 2025-26\
   [202601201523445314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201523445314.pdf)
 
+- Starting a second shift for minority students in existing government polytechnics. Fund allocation for the year 2025-26.\
+  [202601211610528414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211610528414.pdf)
+
+- Regarding the distribution of grants for the financial year 2025-26 under the Marathi Language Foundation class scheme.\
+  [202601211524020914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211524020914.pdf)
+
 ## Miscellaneous
 - Regarding the restructuring of the district-level committee for the effective implementation of the Honble Prime Ministers new 15-point program for the welfare of minorities.\
   [202601191652400414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191652400414.pdf)
@@ -25,6 +31,9 @@
 
 - Regarding the approval to avail the services of 2 consultants from the two firms, M/s Ernst  Young LLP and M/s KPMG Advisory Services Pvt. Ltd., for the Minority Development Department.\
   [202601201649348314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201649348314.pdf)
+
+- Regarding appointment on deputation of Shri Faiyaz Ahmed Abdul Hamid Khan, General Manager (Housing), CIDCO, to the post of Chief Executive Officer, Maharashtra State Waqf Board, Chhatrapati Sambhajinagar.\
+  [202601211327190114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211327190114.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

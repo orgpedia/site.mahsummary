@@ -10,6 +10,12 @@
 - Regarding granting administrative approval for the revised expenditure for the Command and Control Center of the Maharashtra Cyber Security Project.\
   [202601191556393629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191556393629.pdf)
 
+- Regarding the disbursement of funds under the Maharashtra Electric Vehicle Policy-2025.\
+  [202601211313250129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211313250129.pdf)
+
+- Regarding the allocation of funds amounting to Rs. 164.28 crore to the Maharashtra State Road Transport Corporation under Account Head 3055 0052-35 Under the Bus Station Modernization and Other Facilities Program....\
+  [202601211555259929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211555259929.pdf)
+
 ## Miscellaneous
 - Final seniority list of Assistant Commissioner (Group-B) cadre in the State Excise Department as of 01.01.2025.\
   [202601191632200629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191632200629.pdf)

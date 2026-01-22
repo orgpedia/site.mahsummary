@@ -25,6 +25,9 @@
 - Regarding the appointment of McKinsey  Company as consultants for preparing an action plan until 2029 and other related matters, in connection with the implementation of the Developed Maharashtra-2047 Vision Document.\
   [202601201412016416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201412016416.pdf)
 
+- Regarding the provision of funds for providing specific urban services and facilities notified within the jurisdiction of urban local self-government institutions. (Corrigendum - Malkapur Municipal Council, Satara District)\
+  [202601211608008516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211608008516.pdf)
+
 ## Miscellaneous
 - Regarding the assignment of additional charge of the post of Executive Director of the Maharashtra Geotechnology Application Centre...\
   [202601191744357116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191744357116.pdf)

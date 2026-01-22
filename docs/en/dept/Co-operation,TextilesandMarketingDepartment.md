@@ -26,5 +26,8 @@
 - Regarding the amendment of the budget heads for the schemes Promotion and Publicity of the Silk Industry and Creation of Infrastructure and Strengthening of Existing Facilities under the Silk Development Program, as per the Integrated and Sustainable Textile Policy 2023-28.\
   [202601201646162402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201646162402.pdf)
 
+- Regarding the approval of accounting heads (expenditure and revenue) for the scheme of providing government equity capital to increase the crushing capacity of cooperative sugar factories in the state from 1250 metric tons per day to 2500 metric tons per day.\
+  [202601211633560702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211633560702.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

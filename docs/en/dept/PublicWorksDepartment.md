@@ -17,5 +17,8 @@
 - The provisional seniority list of the Senior Architect cadre in the Public Works Department as of 01.01.2026.\
   [202601201759303618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201759303618.pdf)
 
+- Posting - Sub-Divisional Engineer (Civil)\
+  [202601211730542118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211730542118.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

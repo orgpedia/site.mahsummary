@@ -11,5 +11,8 @@
 - Regarding the transfer and posting of Mr. Vilas Bhanudas Matre, Principal, Government Industrial Training Institute, Group B (Technical), Maharashtra Education Service, upon his request.\
   [202601191202596803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191202596803.pdf)
 
+- Regarding the declaration of the Drawing and Disbursing Officer for the Daksh project at the Commissionerate of Skill Development, Employment and Entrepreneurship as a Virtual Personal Deposit Account Administrator (VPDAA) for the rapid disbursement and monitoring of grant-in-aid.\
+  [202601211715314603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211715314603.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
