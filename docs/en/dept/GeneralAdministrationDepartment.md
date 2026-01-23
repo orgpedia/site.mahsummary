@@ -26,5 +26,8 @@
 - Regarding granting administrative approval for printing the guide as per Sections 26 (2) and (3) of the Right to Information Act, 2005...\
   [202601211559513807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211559513807.pdf)
 
+- The final seniority list of District Soldiers Welfare Officers as of 01.01.2026....\
+  [202601221427440607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221427440607.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -23,6 +23,12 @@
 - Regarding the restructuring of sports complex committees.\
   [202601211605517221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211605517221.pdf)
 
+- Regarding the granting of administrative approval for the disbursement of funds to the Youth Brotherhood (India) organization under the Youth Policy Scheme (Program) for organizing various programs aimed at intellectual development related to leadership, personality development, and other welfare programs.\
+  [202601221108370621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221108370621.pdf)
+
+- Regarding granting a one-month extension to the committee constituted for determining the trilingual policy in the states schools in accordance with the National Education Policy 2020.\
+  [202601221807596321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221807596321.pdf)
+
 ## Personnel
 - Regarding the transfer of management of Lilas International School, Survey No. 56, Kandri Kanhan, Parashivni Taluka, Nagpur, run by Sharda Multipurpose Womens Development Society, Nagpur, to Sandesh Shikshan Prasarak Mandal, Nagpur.\
   [202601191803278821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191803278821.pdf)

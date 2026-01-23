@@ -22,6 +22,9 @@
 - Regarding the distribution of grants for the financial year 2025-26 under the Marathi Language Foundation class scheme.\
   [202601211524020914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211524020914.pdf)
 
+- Regarding the disbursement of funds for paying honorariums to contractual employees in the District Minority Cell.\
+  [202601221626324614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221626324614.pdf)
+
 ## Miscellaneous
 - Regarding the restructuring of the district-level committee for the effective implementation of the Honble Prime Ministers new 15-point program for the welfare of minorities.\
   [202601191652400414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191652400414.pdf)

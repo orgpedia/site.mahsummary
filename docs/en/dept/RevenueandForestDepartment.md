@@ -13,6 +13,18 @@
 - Regarding granting administrative approval for the construction of a new building for the Sub-Registrar Grade-1 office, Morshi, Morshi Taluka, Amravati District.\
   [202601211141378419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211141378419.pdf)
 
+- Regarding the allocation of funds for civic amenities works in villages affected and rehabilitated due to heavy rainfall/floods in Dharmabad taluka of Nanded district.\
+  [202601221719002519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221719002519.pdf)
+
+- Regarding the provision of funds for civic amenities works in the rehabilitated village sites of Mauje Sukli Walan, Kalmanuri taluka, Hingoli district, under the Upper Painganga Project.\
+  [202601221736528219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221736528219.pdf)
+
+- Regarding the allocation of funds for civic amenities works in villages affected and rehabilitated due to excessive rainfall/floods in Biloli taluka of Nanded district.\
+  [202601221722076419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221722076419.pdf)
+
+- Regarding the allocation of funds for civic amenities works in villages affected and rehabilitated due to heavy rainfall/floods in Dharmabad taluka of Nanded district.\
+  [202601221723377519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221723377519.pdf)
+
 ## Miscellaneous
 - Regarding the medical examinations of Indian Forest Service officers, as per the All India Services (Performance Appraisal Report) Rules, 2007.....\
   [202601191831352819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191831352819.pdf)
@@ -47,6 +59,12 @@
 - Regarding granting administrative approval for the construction of a new building for the Sub-Registrar Grade-1 office, Morshi, Taluka Morshi, District Amravati (Supplementary Letter).\
   [202601211825380819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211825380819.pdf)
 
+- Regarding granting administrative and financial approval to the Forest Departments media plan for the promotion and publicity of various schemes of the Forest Department under the publicity, promotion, and training scheme for the financial year 2025-26.\
+  [202601221850422419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221850422419.pdf)
+
+- Regarding the constitution of a separate divisional project implementation committee for approving divisional e-governance projects for the Disaster Management Division of the Revenue and Forest Department.....\
+  [202601221513510219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221513510219.pdf)
+
 ## Personnel
 - Regarding the allocation of revenue divisions and postings to probationary Deputy Collectors in the Combined Probationary Training Program-8A\
   [202601201728028119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201728028119.pdf)
@@ -59,6 +77,9 @@
 
 - Forest Land-Satara Transfer of lease in respect of diversion of 11.24 ha. of forest land out of 30.115 ha, of Survey.No.2 Comp. No.858 of Village Agaswadi and Survey No.2564, Compt.No.857 of Village Kukudwad, Tal. Man, Dist. Satara in the State of Maharashtra from investor/ power producer, M/s Tata Power Company Ltd. to M/s Tata Power Renewable Energy Ltd., Mumbai.\
   [202601211625226719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211625226719.pdf)
+
+- Regarding the allocation of funds for civic amenities works in villages in Bhokar taluka of Nanded district that have been affected and relocated due to excessive rainfall/flooding.\
+  [202601221720355719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221720355719.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Regarding the granting of ex-post-facto administrative approval for the building construction proposal of Adarsh College, Talere, District Sindhudurg, as a constituent college of the University of Mumbai, Mumbai....\
   [202601191723296508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191723296508.pdf)
 
+- Regarding the provision of the central and state shares of the approved funds for the Scheduled Tribes component under the centrally sponsored PM-USHA scheme to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan.\
+  [202601221801384108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221801384108.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the expenses required to create the Maharashtra Food Culture Encyclopedia through Tilak Maharashtra University, Pune...\
   [202601191726186508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191726186508.pdf)

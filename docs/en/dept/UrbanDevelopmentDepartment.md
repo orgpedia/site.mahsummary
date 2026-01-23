@@ -3,9 +3,16 @@
 **Date Range**: 26 January 2026 - 31 January 2026
 
 
+## Funds
+- Regarding granting administrative approval to the Ralegaon Nagar Panchayat water supply project under the Central Government-sponsored Amrit 2.0 scheme. (Rs. 47.67 crore)\
+  [202601221151510025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221151510025.pdf)
+
 ## Miscellaneous
 - Regarding the determination of the educational qualifications for the post of Fireman in the Nashik Municipal Corporations Fire Department.\
   [202601191341248125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191341248125.pdf)
+
+- Regarding the approval to revive 38 Group D posts on the establishment of the Akola Municipal Corporation for the purpose of granting appointments on compassionate grounds.\
+  [202601221328322025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221328322025.pdf)
 
 ## Personnel
 - Regarding the temporary promotion and posting of officers from the Chief Officer Group-A (Selection Grade)/Deputy Commissioner, Group-A cadre of the Maharashtra Urban Administrative Service to the Joint Commissioner, Group-A cadre.\

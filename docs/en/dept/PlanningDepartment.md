@@ -28,6 +28,9 @@
 - Regarding the provision of funds for providing specific urban services and facilities notified within the jurisdiction of urban local self-government institutions. (Corrigendum - Malkapur Municipal Council, Satara District)\
   [202601211608008516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211608008516.pdf)
 
+- Regarding the disbursement of funds to the Parshuram Economic Development Corporation for the financial year 2025-26.\
+  [202601221742291016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221742291016.pdf)
+
 ## Miscellaneous
 - Regarding the assignment of additional charge of the post of Executive Director of the Maharashtra Geotechnology Application Centre...\
   [202601191744357116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191744357116.pdf)
