@@ -29,12 +29,24 @@
 - Regarding granting a one-month extension to the committee constituted for determining the trilingual policy in the states schools in accordance with the National Education Policy 2020.\
   [202601221807596321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221807596321.pdf)
 
+- Regarding granting administrative approval for the funding and disbursement of funds for the 1st Khelo India Beach Games 2025 state-level selection trials, pre-national competition training camp, and participation in the national competition. (Account Head 2204-5635)\
+  [202601231830374421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231830374421.pdf)
+
 ## Personnel
 - Regarding the transfer of management of Lilas International School, Survey No. 56, Kandri Kanhan, Parashivni Taluka, Nagpur, run by Sharda Multipurpose Womens Development Society, Nagpur, to Sandesh Shikshan Prasarak Mandal, Nagpur.\
   [202601191803278821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191803278821.pdf)
 
 - Regarding the implementation in the state of the judgment delivered by the Honourable Supreme Court on July 06, 2017, in Civil Appeal No. 8928/2015 and other petitions.\
   [202601191742162021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191742162021.pdf)
+
+- Regarding the regular posting of officers appointed through direct recruitment to the posts of Deputy Education Officer and equivalent positions in the Maharashtra Education Service, Group-B (Administration Branch) cadre (Combined Probationary Training Program - 7 and 9).\
+  [202601231650418921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231650418921.pdf)
+
+- Regarding the regular posting of officers appointed through direct recruitment (Combined Probationary Training Program - 8A) to the posts of Deputy Education Officer and equivalent posts in the Maharashtra Education Service, Group-B (Administration Branch) cadre. Mr. Sagar Diliprao Pawar, Probationary Deputy Education Officer.\
+  [202601231648457621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231648457621.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202601231922176921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231922176921.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

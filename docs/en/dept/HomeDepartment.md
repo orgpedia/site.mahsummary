@@ -22,6 +22,9 @@
 - Regarding granting administrative and financial approval to the estimated budget for the reconstruction of the Igatpuri depot and concreting of the vehicle parking area of the Nashik division of the State Transport Corporation.\
   [202601221605340629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221605340629.pdf)
 
+- Regarding the granting of administrative and financial approval to the estimated budget for the construction cost of the new building of the Regional Transport Office, Thane.\
+  [202601231629401529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231629401529.pdf)
+
 ## Miscellaneous
 - Final seniority list of Assistant Commissioner (Group-B) cadre in the State Excise Department as of 01.01.2025.\
   [202601191632200629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191632200629.pdf)
@@ -40,6 +43,12 @@
 
 - Regarding the approval of expenses for the tableau parade at the Republic Day celebrations - 26 January, 2026.\
   [202601221201448529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221201448529.pdf)
+
+- Regarding promotion /postings in Selection Grade of Indian Police Service..\
+  [202601231739279629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231739279629.pdf)
+
+- Regarding the granting of administrative and financial approval to the estimated budget for the construction of an office building and residential building for the Sub-Regional Transport Office, Mira Bhayandar, District Thane, at Mauje Uttan, District Thane.\
+  [202601231634494229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231634494229.pdf)
 
 ## Personnel
 - Regarding transfers/ postings of State Police Service officers.\

@@ -22,5 +22,11 @@
 - Regarding approval for purchase of Baby Care Kit under Integrated Child Development Services Scheme.\
   [202601211513494030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211513494030.pdf)
 
+- Grand release for supplementary nutrition program under sc component\
+  [202601231720038630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231720038630.pdf)
+
+- Regarding disbursement of funds to pay the bills of service provider organizations/agencies supplying manpower through oursource.\
+  [202601231326525330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231326525330.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

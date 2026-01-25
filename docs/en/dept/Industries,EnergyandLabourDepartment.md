@@ -13,5 +13,9 @@
 - Regarding granting prior permission from the government under Section 68 of the Indian Electricity Act, 2003, for the construction of new transmission lines.\
   [202601221733214610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221733214610.pdf)
 
+## Miscellaneous
+- Regarding the determination of the scope of work for Group A and Group B officers on the establishment of the Labour Commissioners office.\
+  [202601231418495310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231418495310....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

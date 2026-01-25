@@ -25,6 +25,9 @@
 - Regarding the disbursement of funds for paying honorariums to contractual employees in the District Minority Cell.\
   [202601221626324614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221626324614.pdf)
 
+- Regarding the disbursement of funds to training institutions under the scheme for providing skill development training to women and youth from minority communities in the state, to create employment and self-employment opportunities. Year 2025-26.\
+  [202601231637167814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231637167814.pdf)
+
 ## Miscellaneous
 - Regarding the restructuring of the district-level committee for the effective implementation of the Honble Prime Ministers new 15-point program for the welfare of minorities.\
   [202601191652400414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191652400414.pdf)
@@ -37,6 +40,9 @@
 
 - Regarding appointment on deputation of Shri Faiyaz Ahmed Abdul Hamid Khan, General Manager (Housing), CIDCO, to the post of Chief Executive Officer, Maharashtra State Waqf Board, Chhatrapati Sambhajinagar.\
   [202601211327190114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211327190114.pdf)
+
+- Regarding the payment of training fees to the Lal Bahadur Shastri National Academy of Administration (Government of India), Mussoorie, for the Induction Training Programme for IAS Officers.\
+  [202601231452554614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231452554614.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

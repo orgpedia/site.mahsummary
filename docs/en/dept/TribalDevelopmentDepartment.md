@@ -14,5 +14,8 @@
 - Regarding the disbursement of funds under the Ashram School Cluster scheme for the financial year 2025-26, under the Tribal Sub-Plan. (Account Head 2225 D 734) (Item No. 21 Equipment)\
   [202601211219422224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211219422224.pdf)
 
+- To release grant for the scheme of district annual sub plan under the TSP in financial year 2025-26. demamd No T-09,T-10  T-11\
+  [202601231710420224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231710420224.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

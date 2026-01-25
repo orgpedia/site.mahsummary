@@ -10,6 +10,9 @@
 - Amendments to the final seniority list of the Sub-Divisional Engineer (Civil) cadre, showing the status as of 01.01.2019.\
   [202601201219231718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201219231718.pdf)
 
+- Regarding the Training Program for Officers  Employees appointed through Direct Service and Promotion under the Director, Parks and Gardens, Public Works Department, Maharashtra, Mumbai.\
+  [202601231711554118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231711554118.pdf)
+
 ## Personnel
 - Provisional seniority list of the Assistant Director (Gardens and Parks) (Group-B) cadre in the Public Works Department as of January 1, 2026.\
   [202601201801024818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201801024818.pdf)

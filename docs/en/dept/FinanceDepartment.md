@@ -22,5 +22,8 @@
 - Regarding the submission of explanatory memoranda to the Public Accounts Committee on the performance audit report of the Comptroller and Auditor General of India on the implementation of the Pradhan Mantri Khanij Kshetra Kalyan Yojana, including the District Mineral Foundation Trusts in Maharashtra.\
   [202601201506061405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201506061405....pdf)
 
+- Regarding administrative approval for Purchase of leather bags for the Honble Deputy Chief Minister (Finance) and the Honble Minister of State (Finance).\
+  [202601231754053205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231754053205.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

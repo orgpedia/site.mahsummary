@@ -25,9 +25,15 @@
 - Regarding the sanctioning of financial assistance under the scheme for providing financial assistance to Scheduled Caste cooperative societies. Renuka Backward Class Industrial Producers Cooperative Society Ltd., Bajajnagar, Taluka  District Chhatrapati Sambhaji Nagar\
   [202601221804230122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221804230122.pdf)
 
+- Regarding the approval of works in Mumbai Suburban district for the year 2025-26 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202601231405139922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231405139922.pdf)
+
 ## Miscellaneous
 - Regarding the approval of separate new capital and revenue account heads for the Holar Community Economic Development Corporation\
   [202601221519381222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221519381222.pdf)
+
+- Regarding the inclusion of additional guidelines in the provisions under the Karmaveer Dadasaheb Gaikwad Empowerment and Self-Respect Scheme...\
+  [202601231409238622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231409238622.pdf)
 
 ## Personnel
 - Regarding the transfer of officers in the Head of Home, Group-B cadre, on the establishment of the Social Welfare Commissionerate...\

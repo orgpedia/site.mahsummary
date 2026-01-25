@@ -19,6 +19,9 @@
 - Regarding the disbursement of the first installment of funds for the Scheduled Tribes category in the financial year 2025-26 for the AgriStack - Digital Crop Survey component under the Krishi Unnati Yojana - Digital Agriculture Mission.\
   [202601211514494701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211514494701.pdf)
 
+- Fund release of Rs.50.00 Cr. For the financial year 2025-26 for implementation of  State Sponsored Mechanization Scheme\
+  [202601231211575701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231211575701....pdf)
+
 ## Miscellaneous
 - Maharashtra Appropriation Act, 2025. Distribution of grants for the year 2025-2026\
   [202601191528192201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191528192201.pdf)

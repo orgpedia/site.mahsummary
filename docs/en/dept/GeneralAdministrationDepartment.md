@@ -7,6 +7,12 @@
 - Regarding the granting of administrative and financial approval for obtaining the technical manpower, namely System Engineer and Software Developer, required by the Directorate General of Information and Public Relations, from the General Administration (Information Technology) Department for a period of one year...\
   [202601211319198307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211319198307.pdf)
 
+- Regarding the disbursement of funds to the Yashada institution for providing regular training to designated officers/first appellate authorities and second appellate authorities...\
+  [202601231646369807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231646369807.pdf)
+
+- Regarding increasing the deposit amount of the Shankarrao Chavan Golden Jubilee Journalists Welfare Fund (Trust) by 20.00 crore, from 100.00 crore to a total of 120.00 crore.\
+  [202601231458536107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231458536107.pdf)
+
 ## Miscellaneous
 - Demand No. A-4 (Mandatory/Voted) Reappropriation of the provision under the Major Head 2052 - Secretariat General Services for the year 2025-26.\
   [202601201754567007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201754567007.pdf)

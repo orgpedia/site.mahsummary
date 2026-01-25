@@ -11,5 +11,8 @@
 - Regarding the approval of the revised budget and provision of funds for the housing scheme for 20 beneficiaries in Kharda village, Jamkhed taluka, Ahilyanagar district, under the Yashwantrao Chavan Open Settlement Scheme.\
   [202601211552307234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211552307234.pdf)
 
+- Regarding the assignment of additional charge of the vacant post of Research Officer (Group-A), Maharashtra State Backward Classes Commission, Pune.\
+  [202601231811130134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231811130134.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

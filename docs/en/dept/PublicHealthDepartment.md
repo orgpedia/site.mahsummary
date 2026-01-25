@@ -19,6 +19,9 @@
 - Authorized organization to provide approval to purchase computer sets, laptops, printers, scanners, PSPS for Deputy Director, Health (Transport), Pune Headquarters and his subordinate offices.\
   [202601211559355917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211559355917.pdf)
 
+- Regarding granting administrative approval for Ambulances operating in various health institutions of the Public Health Department for purchasing and supplying tire tubes and batteries required for maintenance and repair of a total of 4203 vehicles through tenders as per the requirement\
+  [202601231627519617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231627519617.pdf)
+
 ## Personnel
 - Regarding the disbursement of funds for programs under the centrally sponsored National AYUSH Mission, for the General category, through the SNA SPARSH system, with 60 central share under account head 2210G135 and 40 state share under account head 2210G144, from the budgetary provisions of the year 2025-26.\
   [202601191655191617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191655191617.pdf)

@@ -81,5 +81,8 @@
 - Regarding the allocation of funds for civic amenities works in villages in Bhokar taluka of Nanded district that have been affected and relocated due to excessive rainfall/flooding.\
   [202601221720355719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221720355719.pdf)
 
+- Regarding the formation of a cabinet sub-committee to take a decision on transferring 4000 acres of land at Haregaon farm in Shrirampur, belonging to the Maharashtra State Agricultural Corporation, to the Maharashtra Industrial Development Corporation.\
+  [202601231852318619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231852318619.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
