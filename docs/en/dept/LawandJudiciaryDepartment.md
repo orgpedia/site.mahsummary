@@ -1,25 +1,18 @@
 # Law and Judiciary Department
 
-**Date Range**: 26 January 2026 - 31 January 2026
+**Date Range**: 02 February 2026 - 07 February 2026
 
 
 ## Funds
-- Budgetary Grant Demand No. J-5, 7610 - Loans to Government Employees, etc. - (201)(00)(01) Disbursement of House Building Advance, for the year 2025-26.\
-  [202601211304006112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211304006112.pdf)
+- Regarding granting administrative approval for the purchase of computers, printers, scanners, and multifunction printers for the officers/employees of the Law and Judiciary Department (itself), and for the expenditure incurred thereon.\
+  [202601271218359412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271218359412.pdf)
 
-- Regarding granting administrative approval for the purchase of 09 computers, 06 UPS units, and 03 printers, etc., for the District Government Prosecutors office, Parbhani.\
-  [202601211324121712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211324121712.pdf)
-
-- Regarding granting approval for the purchase of a new government vehicle for the Honble Executive Chairman, Maharashtra State Legal Services Authority...\
-  [202601221452507712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221452507712.pdf)
+- Regarding granting administrative approval for the purchase of 07 all-in-one computers and 07 printers for the office of the Government Prosecutor, Greater Mumbai.\
+  [202601271223190712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271223190712.pdf)
 
 ## Miscellaneous
-- Regarding granting administrative approval for the expenditure incurred in purchasing hardware equipment for the proposed 11 new courtrooms at the Honble High Court, Mumbai, and its circuit benches at Nagpur, Aurangabad, and Kolhapur.\
-  [202601191524340712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191524340712.pdf)
-
-## Personnel
-- Regarding the establishment of Permanent Lok Adalats in 29 districts of Maharashtra, in addition to Mumbai, Pune, Nagpur and Aurangabad (Chhatrapati Sambhajinagar), under Section 22(B) of the Legal Services Authorities Act, 1987, for the Maharashtra State Legal Services Authority....\
-  [202601191748047812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191748047812.pdf)
+- Regarding granting administrative approval for the purchase of 26 all-in-one computers (with UPS and printers) for the District Government Prosecutors Office, Ahmednagar and its 06 subordinate Taluka Government Prosecutors Offices.\
+  [202601271220540812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271220540812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

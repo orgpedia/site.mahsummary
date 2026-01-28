@@ -1,52 +1,30 @@
 # School Education and Sports Department
 
-**Date Range**: 26 January 2026 - 31 January 2026
+**Date Range**: 02 February 2026 - 07 February 2026
 
-
-## Funds
-- Regarding the approval and disbursement of grants for the allowable expenses of local self-government schools and for other purposes for the financial year 2025-26.\
-  [202601211530415421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211530415421.pdf)
 
 ## Miscellaneous
-- Regarding the decommissioning of a vehicle under the purview of the School Education and Sports Department (itself), as it is no longer usable.\
-  [202601191730157221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191730157221.pdf)
-
-- Regarding making necessary improvements to the teacher recruitment process through the Pavitra portal.\
-  [202601201241408721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201241408721.pdf)
-
-- Regarding the completion of the probationary period of the officer holding the post of Lecturer in the Maharashtra Education Service, Group-B (Education Empowerment Branch) cadre. Mrs. Vaishali Yegolpawar, Lecturer.\
-  [202601201133472021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201133472021.pdf)
-
-- Regarding necessary improvements to the teacher recruitment process through the Pavitra portal.\
-  [202601201239029521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201239029521.pdf)
-
-- Regarding the restructuring of sports complex committees.\
-  [202601211605517221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601211605517221.pdf)
-
-- Regarding the granting of administrative approval for the disbursement of funds to the Youth Brotherhood (India) organization under the Youth Policy Scheme (Program) for organizing various programs aimed at intellectual development related to leadership, personality development, and other welfare programs.\
-  [202601221108370621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221108370621.pdf)
-
-- Regarding granting a one-month extension to the committee constituted for determining the trilingual policy in the states schools in accordance with the National Education Policy 2020.\
-  [202601221807596321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221807596321.pdf)
-
-- Regarding granting administrative approval for the funding and disbursement of funds for the 1st Khelo India Beach Games 2025 state-level selection trials, pre-national competition training camp, and participation in the national competition. (Account Head 2204-5635)\
-  [202601231830374421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231830374421.pdf)
+- Regarding the implementation of a revised scheme for compassionate appointments in private aided and partially aided schools in the state.\
+  [202601271834038421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271834038421.pdf)
 
 ## Personnel
-- Regarding the transfer of management of Lilas International School, Survey No. 56, Kandri Kanhan, Parashivni Taluka, Nagpur, run by Sharda Multipurpose Womens Development Society, Nagpur, to Sandesh Shikshan Prasarak Mandal, Nagpur.\
-  [202601191803278821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191803278821.pdf)
+- Regarding the transfer of management of Swatantra Savarkar Primary School, Sai Road, Latur, run by Kalpataru Shikshan Prasarak Mandal, Sai Road, Latur, to the late Nivrutthinath Educational and Social Development Institute, Latur.\
+  [202601271749278421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271749278421.pdf)
 
-- Regarding the implementation in the state of the judgment delivered by the Honourable Supreme Court on July 06, 2017, in Civil Appeal No. 8928/2015 and other petitions.\
-  [202601191742162021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191742162021.pdf)
+- Regarding the relocation of Laxmibai Secondary School, operated by Late Bhaskarrao Shingne Sports, Youth and Education Society, Bibi, Taluka Lonar, District Buldhana, to survey number 61, Bhilpuri (Khurd), Taluka and District Jalna.\
+  [202601271754448221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271754448221....pdf)
 
-- Regarding the regular posting of officers appointed through direct recruitment to the posts of Deputy Education Officer and equivalent positions in the Maharashtra Education Service, Group-B (Administration Branch) cadre (Combined Probationary Training Program - 7 and 9).\
-  [202601231650418921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231650418921.pdf)
+- Regarding the relocation of the Ghulam Mohammed Azam Urdu Primary School (Std. 1st to 4th), operated by M.E.S. Society, Azam Campus Pune, located at 2390 B, K.B. Hidayatullah Road, New Modikhana, Azam Campus Pune, to Harkarnagar, Bhavani Peth, Pune.\
+  [202601271752446821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271752446821....pdf)
 
-- Regarding the regular posting of officers appointed through direct recruitment (Combined Probationary Training Program - 8A) to the posts of Deputy Education Officer and equivalent posts in the Maharashtra Education Service, Group-B (Administration Branch) cadre. Mr. Sagar Diliprao Pawar, Probationary Deputy Education Officer.\
-  [202601231648457621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231648457621.pdf)
+- Regarding the relocation of Shri Shri Ravi Shankar Vidya Mandir school, operated by Shri Gurudev Pratishthan, Chhatrapati Sambhaji Nagar, from Krishnapurwadi, Taluka and District Chhatrapati Sambhaji Nagar, to Pisadevi, Taluka and District Chhatrapati Sambhaji Nagar.\
+  [202601271759120221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271759120221....pdf)
+
+- Regarding the relocation of Sky International Public School, operated by Vaishnavi Womens Rural Development and Education Multipurpose Broadcasting Society, Yavatmal, from Moha, district Yavatmal, to Kinhi, district Yavatmal.\
+  [202601271757206021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271757206021.pdf)
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
-  [202601231922176921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601231922176921.pdf)
+  [202601271259401321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271259401321.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
