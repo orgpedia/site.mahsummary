@@ -7,5 +7,9 @@
 - Regarding the disbursement of financial assistance to Sai Backward Classes Industrial Cooperative Society Ltd., Kusali, Badnapur Taluka, Jalna District, under the scheme for providing financial assistance to Scheduled Caste cooperative societies...\
   [202601271840004622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271840004622.pdf)
 
+## Miscellaneous
+- Regarding the scheme to provide sheet metal stalls to cobblers, and the expansion of this scheme and improvement of its criteria.\
+  [202601281305254822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281305254822.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

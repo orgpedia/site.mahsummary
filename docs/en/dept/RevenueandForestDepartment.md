@@ -21,5 +21,8 @@
 - Regarding the measurement of subdivided agricultural land parcels in rural areas and updating the maps and 7/12 land records...\
   [202601271823583119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271823583119.pdf)
 
+- Regarding the issuance of guidelines for landholders to distribute among their own family members the land allotted to landless persons, ex-servicemen, weaker sections, etc., under the Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 1961...\
+  [202601281254180919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281254180919.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
