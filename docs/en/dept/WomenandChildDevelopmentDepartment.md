@@ -10,6 +10,9 @@
 - Grant release for Scheme for Adolescent Girls (SAG) under SC component.\
   [202601271509395130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271509395130.pdf)
 
+- Regarding the distribution of  funds for honorarium to Anganwadi workers and Anganwadi helpers.\
+  [202601291506121130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291506121130.pdf)
+
 ## Miscellaneous
 - Grant release for PMMVY under SC component\
   [202601271509264730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271509264730.pdf)

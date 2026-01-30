@@ -14,5 +14,8 @@
 - Regarding the prevention and removal of encroachments on forts, castles, and state-protected monuments.\
   [202601271722181023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271722181023.pdf)
 
+- Regarding the establishment of a monitoring and implementation committee for the Maharashtra Archives Building and State Museum project....\
+  [202601291444305923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291444305923.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

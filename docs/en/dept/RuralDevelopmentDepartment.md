@@ -1,25 +1,24 @@
 # Rural Development Department
 
-**Date Range**: 26 January 2026 - 31 January 2026
+**Date Range**: 02 February 2026 - 07 February 2026
 
 
 ## Funds
-- Regarding the release of funds for the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN) scheme, amounting to a central share of Rs. 1,00,000/- and a matching state share of Rs. 66,666/- for the financial year 2025-26.\
-  [202601201746369620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201746369620.pdf)
+- Ashadhiwari-2025  Regarding the distribution of the remaining funds for the works of providing mobile toilets, bathrooms, waterproof pavilions and other necessary facilities at the places of stay for the Warkars accompanying the palanquins marching through Ahilyanagar district.\
+  [202601291028110120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291028110120.pdf)
 
-- For the year 2025-26 Mahila Kisan Sashaktikaran Pariyojana Funding for Scheduled Tribe (TSP) Category.\
-  [202601201151478620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601201151478620.pdf)
+- Disbursement of the second installment of Untied Grants for the financial year 2025-26 to the rural local bodies of the state under the 15th Central Finance Commission.\
+  [202601291458076020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291458076020%E2%80%A6.pdf)
 
-- Grant Allocation  Grant allocation to meet election expenses for the General Elections of Zilla Parishads and Panchayat Samiti-2026\
-  [202601221336314420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221336314420.pdf)
+- Fund distribution of the financial year 2025-2026 for Composit Training Center, Gargoti, Dist. Kolhapur.   Major Account Head - 25150026 7th installment (Salary)\
+  [202601291538295020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291538295020.pdf)
 
 ## Miscellaneous
-- Regarding opening a new account head for the scheme to establish Umed Mall (District Sales Center) in 13 districts in the first phase to provide a proper market for the sale of goods and products of women self-help groups established under the Maharashtra State Rural Livelihoods Mission.\
-  [202601221457569720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601221457569720.pdf)
+- Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill Gargoti  Amravati. Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  7th installment (Salary)\
+  [202601291538273120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291538273120.pdf)
 
-## Personnel
-- Regarding the transfer of Maharashtra Development Service, Block Development Officer (S-20), Group-A Cadre Smt. S.P. Maraskolhe.\
-  [202601191716370220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601191716370220.pdf)
+- Regarding regularization of appointments of bonded health workers working and retired in health department under Zilla Parishad in the state.\
+  [202601291109337920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291109337920.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

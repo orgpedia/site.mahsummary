@@ -11,5 +11,8 @@
 - Regarding the scheme to provide sheet metal stalls to cobblers, and the expansion of this scheme and improvement of its criteria.\
   [202601281305254822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281305254822.pdf)
 
+- Regarding the granting of administrative approval to the estimated budget for the construction of a new building for the Government Hostel for Backward Class Students, Bhilewada, Bhandara Taluka and District.\
+  [202601291256175822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291256175822.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
