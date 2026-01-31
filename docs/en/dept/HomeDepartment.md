@@ -16,6 +16,15 @@
 - Regarding the administrative and financial approval of the estimated costs for the renovation of the internal and external electrical works of the Motor Accident Claims Tribunal, Mumbai and the State Appellate Tribunal, Mumbai offices, including the installation of various electrical systems and related works.\
   [202601291201430629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291201430629.pdf)
 
+- Regarding the implementation of the Mumbai Police Housing Township project.\
+  [202601301710509529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301710509529.pdf)
+
+- Regarding the payment for the salaries and management expenses of 15 contractual employees of M/s. Sumit Facilities Ltd., the company implementing the VPMS system for issuing entry passes to visitors at the Ministry, for the period from April 1, 2025 to August 31, 2025.\
+  [202601301716323329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301716323329.pdf)
+
+- Regarding the payment of the project suppliers invoice for the work completed under Milestone-10 of the Thane City Police Commissionerates CCTV project.\
+  [202601301815390829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301815390829.pdf)
+
 ## Miscellaneous
 - Regarding the granting of administrative and financial approval to the estimated cost for the construction of a boundary wall for the Vehicle Inspection and Certification Centre (I  C Centre) of the Sub-Regional Transport Office, Washim.\
   [202601271514096229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271514096229.pdf)

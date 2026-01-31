@@ -25,6 +25,9 @@
 - Regarding the distribution of funds for the year 2025-2026: Sanctioning the release of funds amounting to Rs. 45,36,41,715/- under the head of account 2210 G 888 (SCP) 31 - Grants-in-aid, for the States share (40) of the Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana, a centrally sponsored scheme.\
   [202601291537553917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291537553917.pdf)
 
+- Fund Allocation for the year 2025-2026 Regarding the allocation of funds amounting to Rs. 3.00 crore for administrative expenses under the Mahatma Jyotirao Phule Jan Arogya Yojana, under the account head 2210 G 251 (General) 20 - Other Administrative Expenses.\
+  [202601291659536417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291659536417.pdf)
+
 ## Miscellaneous
 - Regarding granting approval to make payment of the pending dues for the purchase of hospital cloth and bedding (linen) from Shri Jagdamba Mahila Readymade Dresses Multi-Product Cooperative Industrial Society Ltd., Solapur, for the financial year 202526.\
   [202601291636552817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291636552817.pdf)

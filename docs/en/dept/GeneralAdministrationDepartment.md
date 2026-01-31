@@ -20,5 +20,8 @@
 - Regarding observing January 30, 2026, as Martyrs Day by observing two minutes of silence at 11:00 AM.\
   [202601291259053007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291259053007.pdf)
 
+- To form a committee for the purchase of necessary items (office and computer equipment) for the General Administration Department (Own).\
+  [202601301312130607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301312130607.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

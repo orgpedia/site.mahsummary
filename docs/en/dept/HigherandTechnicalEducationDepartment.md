@@ -14,5 +14,14 @@
 - Regarding the approval of study leave. Dr. Pandurang Shahaji Londhe, Assistant Professor, Instrumentation Engineering, Government College of Engineering, Chandrapur.\
   [202601281256198908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281256198908.pdf)
 
+- Regarding the issuance of a government corrigendum.... (Maharashtra Institute of Technology, Mira Bhayandar, Thane)\
+  [202601301529019008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301529019008.pdf)
+
+- Regarding the declaration of the Registrar, Sir J.J. School of Art, Architecture and Design (Deemed University under the De-novo category), Mumbai, as the Virtual Personal Deposit Account Administrator (VPDAA).\
+  [202601301616243608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301616243608.pdf)
+
+- Regarding approval to open a new Personal Ledger Account (PLA) for the Government Engineering College, Kolhapur.\
+  [202601301204384808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301204384808....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

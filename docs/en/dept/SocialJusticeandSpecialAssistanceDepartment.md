@@ -14,5 +14,8 @@
 - Regarding the granting of administrative approval to the estimated budget for the construction of a new building for the Government Hostel for Backward Class Students, Bhilewada, Bhandara Taluka and District.\
   [202601291256175822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291256175822.pdf)
 
+- Regarding the processing of pending applications of Scheduled Caste students under the scholarship/freeship scheme for the period from 2018-19 to 2023-24.\
+  [202601301238476622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301238476622.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

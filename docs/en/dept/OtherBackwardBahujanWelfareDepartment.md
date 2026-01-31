@@ -14,9 +14,15 @@
 - Under the State Training Policy, a 30-day residential foundational training program will be conducted for 29 newly appointed officers of the Other Backward Classes Welfare Officer, Group-B (Gazetted) cadre, from February 2nd, 2026 to March 3rd, 2026.\
   [202601271527381734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271527381734.pdf)
 
+- Regarding the assignment of additional charge of the vacant post of Assistant Director, Other Backward Classes Welfare, Akola.\
+  [202601301309095434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301309095434.pdf)
+
 ## Personnel
 - Regarding the assignment of additional charge of the vacant post of Joint Director, Other Backward Classes and Bahujan Welfare Directorate, Pune.\
   [202601271528502534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271528502534....pdf)
+
+- Regarding the publication of the Citizens Charter of the Other Backward Classes and Bahujan Welfare Department (itself)...\
+  [202601301257569034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301257569034.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
