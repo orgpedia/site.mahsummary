@@ -45,5 +45,8 @@
 - Regarding the publication of the provisional seniority list for the Superintendent, Central Prison cadre as of 01.01.2026.\
   [202601291638535929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291638535929.pdf)
 
+- Regular Select List, 2025-26; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202601311648251129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601311648251129.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
