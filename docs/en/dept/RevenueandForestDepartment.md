@@ -1,58 +1,37 @@
 # Revenue and Forest Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
 
 ## Funds
-- Regarding the disbursement of the central share and corresponding state share (second installment) of funds on the BEAMS system, for the general, Scheduled Caste and Scheduled Tribe components, as per the State Annual Action Plan approved by the Central Government for the year 2025-26 under the centrally sponsored National Bamboo Mission scheme.\
-  [202601271132052419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271132052419.pdf)
+- Regarding the allocation of funds for civic amenities in villages in Deglur taluka of Nanded district that have been affected and rehabilitated due to excessive rainfall/flooding.\
+  [202602021602550419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021602550419.pdf)
 
-- Regarding granting administrative and financial approval for purchasing new vehicles in place of decommissioned vehicles...\
-  [202601271600430419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271600430419.....pdf)
+- Demand No. C-6, Major Head 2711 Flood Control and Drainage, 01 Flood Control 103 Construction (01) (02), Re-allocation of grant under 27110994 for implementing the Maharashtra Resilient Development Program for flood control in the Krishna and Bhima river basins of Kolhapur and Sangli districts (70 externally aided project - World Bank project loan) (Program)\
+  [202602031607373219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031607373219.pdf)
 
-- Regarding the allocation of funds under the new item proposal under account head 24068551 for the Van Mahotsav scheme under convergence for the financial year 2025-26.\
-  [202601291232311619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291232311619.pdf)
+- Regarding the allocation of funds for civic amenities works in villages of Hadgaon taluka in Nanded district that have been affected and rehabilitated due to excessive rainfall/floods.\
+  [202602021605373919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021605373919......pdf)
 
-- Regarding the disbursement of funds under the scheme (4406 0171) for schemes financed from the revenue generated from the forest development tax under the State Plan for the year 2025-26.\
-  [202601291714106219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291714106219.pdf)
-
-- In pursuance of implementing the decisions given by the Honble Maharashtra Administrative Tribunal, Mumbai, in Original Application No. 842/2017 on 25/08/2023 and in Contempt Application No. 18/2024 on 13/01/2026, regarding the case of Shri Bhaskar Ashraba Dane and others, a supernumerary post of Forest Labourer is to be created for them with effect from 01/06/2012.\
-  [202601301224362119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301224362119.pdf)
-
-- Regarding the formation of a high-level committee to grant prior approval to the land acquisition draft award...\
-  [202601301632183519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301632183519.pdf)
+- Regarding the allocation of funds for civic amenities in villages in Naigaon taluka of Nanded district that have been affected by heavy rainfall/floods and subsequently rehabilitated.\
+  [202602021608115419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021608115419.pdf)
 
 ## Miscellaneous
-- Regarding revisions to the purpose of utilizing the convenience fees deposited into the personal accounts of Land Acquisition Officers/Sub-Divisional Officers.\
-  [202601271456396519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271456396519.pdf)
+- Regarding the provision of funds for the remuneration of contract employees engaged in water transport services at Mauje Tapola, Taluka Mahabaleshwar, District Satara, as well as for the fuel and maintenance costs of barges and launches. (Corrigendum)\
+  [202602021154542619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021154542619.pdf)
 
-- Regarding distribution of grants under the Rural and Tribal Development Programme (2406 1521) scheme under the State Plan 2025-26.\
-  [202601271211560119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271211560119.pdf)
+- Regarding the provision of funds for the remuneration of contract employees engaged in water transport services at Mauje Tapola, Taluka Mahabaleshwar, District Satara, as well as for the fuel and maintenance costs of barges and launches. (Corrigendum)\
+  [202602021152042019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021152042019.pdf)
 
-- Regarding the formation of a committee to determine the procedure for surveying and demarcating the fishing villages in the Thane, Palghar, Raigad, Ratnagiri, and Sindhudurg districts of the Konkan region.\
-  [202601291342581519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291342581519.pdf)
+- Regarding refund of the amount of unexcavated quantity out of the permission given for excavation of fish pond on 02.98 Hectare area out of 02.98 Hectare area in G.No. 12 of Mouja Devhala Rithi, Tal. Ramtek, Dist. Nagpur. - Mr. Chandrasekhar Dharmik, Res. Nagardhan, Ramtek, Dist. Nagpur\
+  [202602031443248519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031443248519.pdf)
 
-- Regarding the allocation of funds under the budget head (4415 0192) for the establishment of a Bamboo Research and Training Center at Chichpalli in Chandrapur district for the year 2025-26.\
-  [202601291716478919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291716478919.pdf)
-
-- Regarding the display of the final award to the public on the website, as per Section 37 (3) of the Land Acquisition Act, 2013.\
-  [202601301629196519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301629196519.pdf)
-
-- Regarding the opening of a personal account in the name of the Registrar, Land Acquisition, Rehabilitation and Resettlement Authority, Amravati.....\
-  [202601301512148019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301512148019.pdf)
+- Post Disaster Need Assessment (PDNA) for long term effective for post disaster recovery and reconstruction due to Floods in Maharashtra during 2025-26\
+  [202602021822113319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021822113319.pdf)
 
 ## Personnel
-- Regarding the measurement of subdivided agricultural land parcels in rural areas and updating the maps and 7/12 land records...\
-  [202601271823583119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271823583119.pdf)
-
-- Regarding the issuance of guidelines for landholders to distribute among their own family members the land allotted to landless persons, ex-servicemen, weaker sections, etc., under the Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 1961...\
-  [202601281254180919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281254180919.pdf)
-
-- Regarding the purely temporary promotion and posting of officers from the Assistant Revenue Officer cadre to the Deputy Tahsildar cadre (Chhatrapati Sambhaji Nagar Division).\
-  [202601291245229119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291245229119.pdf)
-
-- Regarding the purely temporary promotion and posting from the Assistant Revenue Officer cadre to the Deputy Tahsildar cadre (Persons with Disabilities category) (Nagpur Division).\
-  [202601291248396719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291248396719.pdf)
+- Regarding the posting of officers in the Deputy Tahsildar cadre...Regarding the posting of officers in the Deputy Tahsildar cadre...\
+  [202602031640120819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031640120819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

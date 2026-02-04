@@ -1,27 +1,49 @@
 # General Administration Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
 
 ## Funds
-- Regarding the sanctioning and disbursement of funds approved through the supplementary demands of the Winter Session, under the objective 50 Other Expenses within account head 2070 0156, for the air travel and other incidental expenses of VVIPs in the state during the financial year 2025-26.\
-  [202601271107401207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271107401207....pdf)
+- Regarding the grant of administrative and financial approval for the estimated additional expenditure required to create state-of-the-art networking facilities as per NIC specifications in the workstations to be set up under the General Administration Department (itself)...\
+  [202602031326573707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031326573707.pdf)
 
-- Regarding the payment of increased compensation to the landowners of the land acquired for Shirdi Airport, as per the order of the Honble High Court Bench, Aurangabad.\
-  [202601291522025507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291522025507.pdf)
-
-- Regarding the approval for the release and expenditure of funds sanctioned through supplementary demands during the winter session, under the head of account 2070 0156, for the purposes of 27-Minor Works and 52-Machinery and Equipment, to meet the potential expenditure for urgent and essential works related to government-owned aircraft during the financial year 2025-26.\
-  [202601291753135707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291753135707.pdf)
+- Regarding participation in the IndiaAI Impact Summit and Expo-2026.\
+  [202602021303321407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021303321407.pdf)
 
 ## Miscellaneous
-- Regarding the determination of rates for vehicles to be procured from private vehicle suppliers for the District Collectors office, Chhatrapati Sambhaji Nagar.\
-  [202601281046068807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281046068807.pdf)
+- Appointment on Deputation :- Shri. Prafull J. Thakur, Deputy Secretary\
+  [202602021832311107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021832311107.pdf)
 
-- Regarding observing January 30, 2026, as Martyrs Day by observing two minutes of silence at 11:00 AM.\
-  [202601291259053007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291259053007.pdf)
+- Regarding the preparation of an action plan by the State of Maharashtra to promote and develop the live entertainment economy in the country.\
+  [202602030937578007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602030937578007.pdf)
 
-- To form a committee for the purchase of necessary items (office and computer equipment) for the General Administration Department (Own).\
-  [202601301312130607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301312130607.pdf)
+- Regarding amendments to the consolidated guidelines for filling posts in Group-B (non-gazetted), Group-C and Group-D categories under the nomination quota, through direct recruitment, within the purview of the erstwhile Subordinate Services Selection Boards (outside the purview of the Maharashtra Public Service Commission)...\
+  [202602021830016807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021830016807.pdf)
+
+- Regarding the proper and accurate spelling of the names of streets named after freedom fighters in the addresses on the letterheads of various departments...\
+  [202602031323381407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031323381407.pdf)
+
+- Regarding the allocation of an office chamber to the Honourable Deputy Chief Minister.\
+  [202602021825081307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021825081307.pdf)
+
+- Regarding the disbursement of funds sanctioned through supplementary demands for the State Election Commission during the financial year 2025-26.\
+  [202602021559149707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021559149707.pdf)
+
+- Regarding appointment of Guardian Minister: pune and Beed  District.\
+  [202602031425391207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031425391207.pdf)
+
+## Personnel
+- Transfers of Assistant Section Officers and Clerk-Typist\
+  [202602031615001507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031615001507.pdf)
+
+- Lower Grade Stenographer (Marathi/English) Examination - 2022 Allotment of candidates recommended from Waitlist No. 2 by the Maharashtra Public Service Commission to the posts of Lower Grade Stenographer (Marathi/English) in the Mantralaya Administrative Departments and various State Government offices in Greater Mumbai.\
+  [202602021744599807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021744599807.....pdf)
+
+- Shorthand Typist (Marathi/English) Examination - 2022 Allotment of candidates recommended by the Maharashtra Public Service Commission from Waiting List No. 2 to the posts of Shorthand Typist (Marathi/English) in the Mantralaya (Secretariat) administrative departments and various State Government offices in Greater Mumbai.\
+  [202602021751282007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021751282007.....pdf)
+
+- Allotment of Recommended Candidate From Assistant Section officer (Main) Exam 2023 in Mantralaya and MPSC\
+  [202602021739378507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021739378507.....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

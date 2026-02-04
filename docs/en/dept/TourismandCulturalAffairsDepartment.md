@@ -1,21 +1,21 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
 
 ## Funds
-- Regarding granting administrative approval for the expenditure amount for the purchase of furniture and other equipment for the new seating arrangement at the office of the Theatre Performance Scrutiny Board, Mumbai.\
-  [202601271453344223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271453344223....pdf)
+- Regarding granting administrative and financial approval for various programs in observance of Chhatrapati Shivaji Maharaj Jayanti.\
+  [202602021547542923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021547542923.pdf)
 
-- Regarding the approval for the disbursement of funds for the first running payment of the Shivshastra Shauryagatha exhibition work at the Central Museum, Nagpur, under the Azadi Ka Amrit Mahotsav initiative...\
-  [202601271117480723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271117480723.pdf)
+- Regarding granting administrative and financial approval for organizing cultural programs on the occasion of the birth centenary year of Padmashri Jayamala Shiledar.\
+  [202602031452534723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031452534723.pdf)
 
 ## Miscellaneous
-- Regarding the prevention and removal of encroachments on forts, castles, and state-protected monuments.\
-  [202601271722181023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271722181023.pdf)
+- Regarding granting administrative and financial approval for extending the duration of the Veermata Jijau Gatha program and for the additional expenses incurred for the same.\
+  [202602021827391723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021827391723.pdf)
 
-- Regarding the establishment of a monitoring and implementation committee for the Maharashtra Archives Building and State Museum project....\
-  [202601291444305923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291444305923.pdf)
+- Regarding the granting of financial approval for various programs in connection with celebrating Ganesh Chaturthi as a State Festival.\
+  [202602021550055023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021550055023.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

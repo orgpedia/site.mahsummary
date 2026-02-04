@@ -1,18 +1,11 @@
 # Water Resources Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
-
-## Miscellaneous
-- Regarding the declaration of Executive Engineers under the Maharashtra Krishna Valley Development Corporation as disbursing officers for operating virtual personal ledger accounts linked to the BEAMS system.\
-  [202601281228241727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601281228241727.pdf)
-
-- Revised water management plan for the Gosikhurd National Project, Pavani taluka, Bhandara district.\
-  [202601301324221927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301324221927.pdf)
 
 ## Personnel
-- Regarding partial modifications to the post-promotion postings of 04 officers in the Sub-Divisional Officer (Civil) cadre.\
-  [202601291239060727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291239060727.pdf)
+- Regarding the appointment to the post of Chief Engineer (Civil).\
+  [202602021818238227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021818238227.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

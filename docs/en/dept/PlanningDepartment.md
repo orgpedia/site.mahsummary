@@ -1,17 +1,18 @@
 # Planning Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
 
 ## Funds
-- Fund allocation for the financial year 2025-26 under the Hilly Area Development Programme.\
-  [202601291549506816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291549506816.pdf)
+- Regarding the distribution of funds for the year 2025-26 under the Shri Kshetra Dehu, Alandi, Pandharpur, Bhandara Dongar, Nevasa Palkhi Route/Pilgrimage Site Development Plan.\
+  [202602031647293416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031647293416.pdf)
 
-- Regarding the provision of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government institutions. (Corrigendum - Dhanora Nagar Panchayat and Charmoshi Nagar Panchayat, Gadchiroli District)\
-  [202601301127343216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301127343216.pdf)
+## Miscellaneous
+- Regarding the presentation of mementos to officers/employees retiring or taking voluntary retirement from the Planning Department (itself)...\
+  [202602031123549816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031123549816.pdf)
 
-- Member of the Legislative Assembly Local Area Development Programme Distribution of sanctioned budgetary allocation under account head 4515 0012 for the financial year 2025-26, categorized by Member of the Legislative Assembly.\
-  [202601301151315116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301151315116.......pdf)
+- Regarding granting administrative approval to develop District Data Portal (DDP) under the Maharashtra District Level Development to Promote Institutional Capacity Building (MahaSTRIDE) program\
+  [202602021434036816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021434036816.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
