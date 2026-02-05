@@ -32,6 +32,18 @@
 - Regarding appointment of Guardian Minister: pune and Beed  District.\
   [202602031425391207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031425391207.pdf)
 
+- Regarding the inclusion of officers promoted to the post of Section Officer under the disability reservation quota in the seniority list, in accordance with the implementation of the Rights of Persons with Disabilities Act, 2016.\
+  [202602041832371307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041832371307.pdf)
+
+- Regarding the utilization of funds deposited with the State Election Commission in accordance with the provisions of the Act for the elections of urban local self-governing bodies.\
+  [202602041209132407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041209132407.pdf)
+
+- Regarding the grant of regular promotion to the post of Section Officer for eligible PwD (Persons with Disabilities) Assistant Section Officers in Administrative Departments, in accordance with the implementation of the Rights of Persons with Disabilities Act, 2016, and the creation of supernumerary posts for them.\
+  [202602041830409007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041830409007.pdf)
+
+- Regarding the placement of suggestion boxes for citizens, employees, and officers in government and semi-government offices, in line with the concepts of administrative innovation, excellence, and good governance....\
+  [202602041615110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041615110207.pdf)
+
 ## Personnel
 - Transfers of Assistant Section Officers and Clerk-Typist\
   [202602031615001507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031615001507.pdf)

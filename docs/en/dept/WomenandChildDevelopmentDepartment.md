@@ -1,21 +1,15 @@
 # Women and Child Development Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
-
-## Funds
-- Regarding the distribution of funds for paying salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2025-26.\
-  [202601271730131430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271730131430.pdf)
-
-- Grant release for Scheme for Adolescent Girls (SAG) under SC component.\
-  [202601271509395130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271509395130.pdf)
-
-- Regarding the distribution of  funds for honorarium to Anganwadi workers and Anganwadi helpers.\
-  [202601291506121130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601291506121130.pdf)
 
 ## Miscellaneous
-- Grant release for PMMVY under SC component\
-  [202601271509264730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271509264730.pdf)
+- Regarding grant release  for the financial year 2025-26 under the mejor head 2235A 311 - establishment of Maharashtra State Commission for Protection of Child Rights.\
+  [202602041313348230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041313348230.pdf)
+
+## Personnel
+- Regarding the approval to open a separate budget head for the daily management of the One Stop Center under the centrally sponsored One Stop Center component scheme.\
+  [202602041122536530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041122536530.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

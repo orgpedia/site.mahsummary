@@ -20,5 +20,12 @@
 - Regarding granting administrative approval for the expenditure incurred in digitizing the records of the Registrar of Partnership Firms, Mumbai department.\
   [202602031546389012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031546389012.pdf)
 
+- Regarding the approval of the annual recurring expenditure of 53,096/- (including GST) for converting and operationalizing the 2 Mbps NIC Leased Line to a 10 Mbps Leased Line for the Nagpur Bench of the Honble High Court, Mumbai.\
+  [202602041623170212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041623170212.pdf)
+
+## Personnel
+- Budgetary Grant Demand No. J-5 for the year 2025-26, Major Head 7610, Loans to Government Employees, etc., under Sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Disbursement of advances for the purchase of new motorcycles/scooters.\
+  [202602041715472112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041715472112.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

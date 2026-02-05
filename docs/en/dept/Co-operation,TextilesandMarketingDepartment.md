@@ -71,6 +71,12 @@
 - Regarding the granting of administrative and financial approval for the expenditure involved in the renovation and electrification of the office of the Divisional Joint Registrar of Cooperative Societies (Audit), Mumbai Division, Mumbai.\
   [202602021306549902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021306549902.pdf)
 
+- Regarding the formation of a committee to review outdated laws related to the cooperation department and to make favorable changes with a view to repealing or reenacting these laws.\
+  [202602041636060002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041636060002.pdf)
+
+- Maha-Reshim Campaign - 2026 Regarding the implementation of the Mulberry/Tussar area registration program...\
+  [202602041159012202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041159012202.pdf)
+
 ## Personnel
 - Regarding the publication of the final seniority list as of 1/1/2024 for the Deputy Registrar of Cooperative Societies, Group-A category...............\
   [202602021640553302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021640553302.pdf)

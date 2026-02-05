@@ -1,15 +1,15 @@
 # Marathi Language Department
 
-**Date Range**: 02 February 2026 - 07 February 2026
+**Date Range**: 09 February 2026 - 14 February 2026
 
 
 ## Funds
-- General instructions regarding the implementation of the plan to establish a village of books/poetry in the state.\
-  [202601301730002533.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601301730002533.pdf)
+- Regarding the allocation of funds for computer and printer maintenance, repair costs, and related matters for the Mumbai and Wai offices of the Maharashtra State Marathi Encyclopedia Production Board.\
+  [202602041539221433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041539221433.pdf)
 
-## Personnel
-- Regarding the temporary promotion to the vacant post of Deputy Director of Languages (Translation and Terminology), Group-A, in the isolated cadre of the Directorate of Languages.\
-  [202601271451162333.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202601271451162333.pdf)
+## Miscellaneous
+- Regarding the reconstitution of the committee to resolve the claim filed by M/s. Kalpana Struct Con Pvt. Ltd. in connection with the construction of the Marathi Bhasha Bhavan, Main Centre, Mumbai building.\
+  [202602041543356133.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041543356133.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

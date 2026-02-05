@@ -29,9 +29,18 @@
 - Post Disaster Need Assessment (PDNA) for long term effective for post disaster recovery and reconstruction due to Floods in Maharashtra during 2025-26\
   [202602021822113319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021822113319.pdf)
 
+- Instructions regarding medical expense reimbursement proposals submitted by regional offices.\
+  [202602041244064919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041244064919.pdf)
+
+- Forest Land-Ahilyanagar Diversion of 4.00 ha. of Forest Land in favour of Shri Kshetra Bhagwangad Trust for Social Developement Work  Vehicle Parking, Hospital, Social Training Center And Yatri Niwas in Village-Kharwandi, Taluka-Pathardi, District-Ahilyanagar the State of Maharashtra.\
+  [202602041805461919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041805461919.pdf)
+
 ## Personnel
 - Regarding the posting of officers in the Deputy Tahsildar cadre...Regarding the posting of officers in the Deputy Tahsildar cadre...\
   [202602031640120819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031640120819.pdf)
+
+- Annual Plan 2025-26 Regarding the purchase of 10 new vehicles to replace 10 vehicles that have been written off in various forest circles, under the state-level scheme for strengthening of mobile squads (2406 2161).\
+  [202602041238575119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041238575119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
