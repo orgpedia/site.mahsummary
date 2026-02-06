@@ -43,5 +43,9 @@
 - Distribution of funds for the maintenance and repair works of projects with an irrigation capacity of 251 to 600 hectares under the Chief Ministers Water Conservation Scheme: Chhatrapati Sambhaji Nagar District (Marathwada Division).\
   [202602041905357126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041905357126.pdf)
 
+## Personnel
+- Regarding the provisional appointment of probationary candidates to the post of Water Conservation Officer (Civil) Group-B (Gazetted) cadre, recommended by the Maharashtra Public Service Commission in the Maharashtra Engineering (Civil) Services Examination 2023.\
+  [202602051719191626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051719191626.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

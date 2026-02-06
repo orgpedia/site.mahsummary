@@ -10,6 +10,12 @@
 - Regarding participation in the IndiaAI Impact Summit and Expo-2026.\
   [202602021303321407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021303321407.pdf)
 
+- Regarding the disbursement of funds (second installment) under the State Training Policy for administrative training during the financial year 2025-26, under account head (2070 0853), 31 Subsidiary Grants (Non-Salary).\
+  [202602051134393607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051134393607.pdf)
+
+- Regarding granting administrative approval for the purchase of stainless steel utensils and electrical appliances for the Mantralay Canteen\
+  [202602051252227207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051252227207.pdf)
+
 ## Miscellaneous
 - Appointment on Deputation :- Shri. Prafull J. Thakur, Deputy Secretary\
   [202602021832311107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021832311107.pdf)
@@ -43,6 +49,15 @@
 
 - Regarding the placement of suggestion boxes for citizens, employees, and officers in government and semi-government offices, in line with the concepts of administrative innovation, excellence, and good governance....\
   [202602041615110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041615110207.pdf)
+
+- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of JAN to MAR, 2026\
+  [202602051613398107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051613398107.pdf)
+
+- Regarding the allocation of a government bungalow to the Honourable Deputy Chief Minister.\
+  [202602051840554807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051840554807.pdf)
+
+- Regarding the assignment of additional charge of the post of State Service Rights Commissioner, Nagpur and Amravati Revenue Divisions.....\
+  [202602051124326007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051124326007.pdf)
 
 ## Personnel
 - Transfers of Assistant Section Officers and Clerk-Typist\

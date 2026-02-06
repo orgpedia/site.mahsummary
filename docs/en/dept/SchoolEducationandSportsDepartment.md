@@ -13,6 +13,9 @@
 - Regarding the distribution of funds under the Scheduled Tribes component of the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) scheme... (Year 2025-26)\
   [202602031321007221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031321007221.pdf)
 
+- 2025-26 Fund Allocation 31 - Grants-in-aid / Non-salary 50 - Other expenses\
+  [202602051304203921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051304203921.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the renovation of the gallery roof of the main athletics stadium at Shiv Chhatrapati Sports Complex, Mahalunge-Balewadi, Pune.\
   [202602031226289021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031226289021.pdf)
@@ -22,6 +25,9 @@
 
 - Regarding approval of Memorandum of Association and Articles of Association of Maharashtra State International Employment and Skill Advancement Forum for registration under Section 8 of the Companies Act, 2013.\
   [202602031750434721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031750434721.pdf)
+
+- Regarding granting administrative approval for the renovation work of internal roads, footpaths, and drainage systems for rainwater at the Shiv Chhatrapati Sports Complex, Mahalunge-Balewadi, Pune.\
+  [202602051329366021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051329366021.pdf)
 
 ## Personnel
 - Regarding the transfer of management of Savitribai Phule Vidyalaya, Rasulabad, Arvi taluka, operated by Ravindranath Tagore Shikshan Prasarak Mandal, Gitai Nagar, Gopuri, Wardha district, to Navjeevan Seva Sanstha, Tivsa, Amravati district.\

@@ -29,5 +29,8 @@
 - Regarding granting prior permission from the government to NES Pune East New Transmission Ltd. company for the construction of new transmission lines under Section 68 of the Electricity Act, 2003.\
   [202602041311233710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041311233710.pdf)
 
+- Regarding granting prior permission from the government to Vaghdaari Transmission Limited under Section 68 of the Electricity Act, 2003, for the construction of new transmission lines.\
+  [202602051320395410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051320395410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,5 +16,11 @@
 - Expanding and strengthening the state-level palliative care program.\
   [202602021156178317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021156178317.pdf)
 
+- Regarding the delegation of powers under the Financial Powers Rules, 1978 to the Joint/Deputy Secretary (Establishment).\
+  [202602051624178717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051624178717.pdf)
+
+- Administrative approval is being given to purchase new computers, printers, and scanners for Public Health Department (self) through GeM portal following prescribed tender process.\
+  [202602051357268217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051357268217.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

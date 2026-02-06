@@ -7,6 +7,9 @@
 - Approval to hire 20 security guards from Maharashtra Ex-Servicemen Corporation (MESCO) for the Government Dental College and Hospital, Jalgaon, under the auspices of the Department.\
   [202602021634488113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021634488113.pdf)
 
+- Regarding granting administrative approval for the purchase of Mobile Laboratory (FSW) for Food and Drug Administration from the approved action plan for the year 2024-25 under the scheme for strengthening the food safety system\
+  [202602051203304413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051203304413.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the purchase of Atomic Absorption Spectrophotometer for Food and Drug Administration Laboratory, Chhatrapati Sambhajinagar and an expenditure of Rs. 59,00,000/-.\
   [202602041531540013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041531540013.pdf)

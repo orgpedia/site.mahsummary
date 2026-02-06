@@ -61,6 +61,45 @@
 - Regarding granting revised administrative approval to the revised estimate for the piped water supply scheme under the Jal Jeevan Mission program at villages Kokewada, Pendhari, Murpar, and Gujar, Taluka Sindewahi, District Chandrapur (Scheme Code-20087865).\
   [202602031107421128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031107421128.pdf)
 
+- Regarding giving Revised administrative approval to the regional water supply scheme   Ekdara  ta. Warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445265028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445265028....pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   Deutwada   ta. Warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445451728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445451728.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   mamdapur  ta. warud  dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445544328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445544328.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   Vedhapur  ta. Warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445587828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445587828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   Ekalvihir  ta. Warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445288128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445288128.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   Nandgaon ta. warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445495928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445495928.pdf)
+
+- Regarding the release of budgetary grants for 2025-26 under the Scheduled Castes component (second installment) of the Swachh Bharat Abhiyan (Gramin) Phase-II (Account Heads 2215 A132 and 2215 A141).\
+  [202602051245217528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051245217528.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   Karali  ta. Warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445365628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445365628.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   Satnoor ta. Warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051446032228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051446032228.pdf)
+
+- Subsidiary Grant to the Authority for sanctioning pension benefits to retired employees of Maharashtra Jeevan Authority (2215 A052)  31, Subsidiary Grants (Non-Salary)\
+  [202602051537590528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051537590528.pdf)
+
+- Regarding the release of funds (second installment) under the General Component of the Budgetary Grant 2025-26 for the Swachh Bharat Abhiyan (Rural) Phase-II (Account Head 2215 9835 and 2215 2189).\
+  [202602051245156828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051245156828.pdf)
+
+- Regarding giving Revised administrative approval to the regional water supply scheme   jamthal   ta. warud dist- amravati for tap water supply scheme to under the Jal Jeevan Mission Program\
+  [202602051445407828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051445407828.pdf)
+
+- Regarding the release of funds (second installment) under the Scheduled Tribes component of the budgetary allocation for 2025-26 for the Swachh Bharat Abhiyan (Rural) Phase-II (Account Heads 2215 9862 and 2215 A168).\
+  [202602051245236228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051245236228.pdf)
+
 ## Personnel
 - Regarding granting revised administrative approval to the revised estimate for the piped water supply scheme at village Lakhamapur, Hingna taluka, Nagpur district (Scheme Code-20083238) under the Jal Jeevan Mission program.\
   [202602021127309728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021127309728.pdf)

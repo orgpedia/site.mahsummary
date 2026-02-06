@@ -19,6 +19,9 @@
 - To release grant for the scheme of Regional Offices of Tribal Commissioners (Committed) under the TSP in financial year 2025-26. (CRC 2225 1034)\
   [202602041057194424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041057194424.pdf)
 
+- Disbursement of funds under the Secretariat Social Services Scheme under the Tribal Component Programme in the financial year 2025-26 (Account Head 2251 0211)\
+  [202602051126503124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051126503124.pdf)
+
 ## Miscellaneous
 - Regarding the implementation of the Central Governments Pre-Matric Scholarship Scheme for Scheduled Tribe students studying in classes 9 and 10 in the state, in place of the Golden Jubilee Tribal Pre-Matric Scholarship Scheme, and the opening of a new account head for this scheme...\
   [202602041503189824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041503189824.pdf)

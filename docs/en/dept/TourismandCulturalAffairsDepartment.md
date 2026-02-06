@@ -22,6 +22,15 @@
 - Regarding granting financial approval for the organizational expenses of the preliminary round of the 64th Maharashtra State Amateur Marathi Drama Competition.\
   [202602041823501423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041823501423.pdf)
 
+- Regarding the financial approval for the expenses of the cultural program to be organized by the Maharashtra State Telugu Sahitya Akademi. (Rs. 11.00 Lakhs)\
+  [202602051736209723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051736209723.pdf)
+
+- Regarding obtaining financial approval for the expenditure on organizing various programs of the Maharashtra State Hindi Sahitya Akademi. (Rs. 12.25 Lakhs)\
+  [202602051737553723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051737553723.pdf)
+
+- Regarding granting ex-post facto administrative approval for Part-2 of the work for organizing the 60th and 61st Maharashtra State Marathi Film Awards ceremony.\
+  [202602051546200623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051546200623.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative and financial approval for extending the duration of the Veermata Jijau Gatha program and for the additional expenses incurred for the same.\
   [202602021827391723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021827391723.pdf)

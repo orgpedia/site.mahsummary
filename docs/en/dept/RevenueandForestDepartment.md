@@ -16,6 +16,15 @@
 - Regarding the allocation of funds for civic amenities in villages in Naigaon taluka of Nanded district that have been affected by heavy rainfall/floods and subsequently rehabilitated.\
   [202602021608115419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021608115419.pdf)
 
+- Regarding the allocation of funds for the year 2025-26 under the Reserved Forest Survey, Settlement and Demarcation Scheme... (4406-0053).\
+  [202602051834082119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051834082119.pdf)
+
+- Regarding the disbursement of funds to Chandrapur Forest Administration, Development and Management Academy, Chandrapur for 36-Grant-in-aid (Salaries) under scheme (2415-1077) for the year 2025-26.\
+  [202602051201221619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051201221619.pdf)
+
+- Regarding the allocation of funds for civic amenities works in villages in Naigaon taluka of Nanded district that have been affected and resettled due to excessive rainfall/floods.\
+  [202602051431175619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051431175619.pdf)
+
 ## Miscellaneous
 - Regarding the provision of funds for the remuneration of contract employees engaged in water transport services at Mauje Tapola, Taluka Mahabaleshwar, District Satara, as well as for the fuel and maintenance costs of barges and launches. (Corrigendum)\
   [202602021154542619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021154542619.pdf)
@@ -34,6 +43,9 @@
 
 - Forest Land-Ahilyanagar Diversion of 4.00 ha. of Forest Land in favour of Shri Kshetra Bhagwangad Trust for Social Developement Work  Vehicle Parking, Hospital, Social Training Center And Yatri Niwas in Village-Kharwandi, Taluka-Pathardi, District-Ahilyanagar the State of Maharashtra.\
   [202602041805461919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041805461919.pdf)
+
+- State Plan 2025-26 Ongoing item proposal under Nature Conservation and Wildlife Management (Program) (2406 0775).\
+  [202602051805335119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051805335119.pdf)
 
 ## Personnel
 - Regarding the posting of officers in the Deputy Tahsildar cadre...Regarding the posting of officers in the Deputy Tahsildar cadre...\
