@@ -13,6 +13,9 @@
 - Regarding the determination of interest rates for the purpose of carrying out interest adjustment procedures for the financial year 2025-26 in connection with the capital expenditure on irrigation projects....\
   [202602051526043405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051526043405.pdf)
 
+- Regarding the submission of a certificate along with the invoice when processing payments for contracted vehicle services from the treasury.\
+  [202602061731290805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061731290805.pdf)
+
 ## Personnel
 - Mr. Pradip Baburao Jambhale Patil, Deputy Commissioner of State Tax, has been posted to a new position after his repatriation from deputation.\
   [202602021816267905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021816267905.pdf)

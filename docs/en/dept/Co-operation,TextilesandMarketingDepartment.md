@@ -55,6 +55,12 @@
 - Regarding the disbursement of funds to the Maharashtra State Cooperative Council, Pune office for the year 2025-26.\
   [202602021806182602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021806182602.pdf)
 
+- Regarding the effective implementation of the e-NAM scheme in the agricultural produce market committees of the state.\
+  [202602061501568102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061501568102.pdf)
+
+- Regarding the sanctioning of government share capital to cooperative spinning mills. Ajinkyatara Cooperative Spinning Mill Ltd., Shahunagar-Walse, Taluka  District Satara.\
+  [202602061337392502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061337392502.pdf)
+
 ## Miscellaneous
 - Regarding the publication of the final seniority list for the Assistant Registrar of Cooperative Societies, Group-A category, as of 1/1/2011 to 1/1/2023...............\
   [202602021643582602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021643582602.....pdf)
@@ -76,6 +82,12 @@
 
 - Maha-Reshim Campaign - 2026 Regarding the implementation of the Mulberry/Tussar area registration program...\
   [202602041159012202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041159012202.pdf)
+
+- Regarding the inclusion of cashew fruit crop cultivation-related activities in the functions of the Maharashtra State Cashew Board.\
+  [202602061503561802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061503561802.pdf)
+
+- Regarding the inclusion of new members in the committee constituted to recommend short-term and long-term measures to the government for bringing about radical changes in the states agricultural sector and in the lives of farmers, and for freeing farmers from the clutches of outstanding debts.\
+  [202602061437378102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061437378102.pdf)
 
 ## Personnel
 - Regarding the publication of the final seniority list as of 1/1/2024 for the Deputy Registrar of Cooperative Societies, Group-A category...............\

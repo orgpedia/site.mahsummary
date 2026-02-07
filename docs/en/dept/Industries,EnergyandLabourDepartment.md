@@ -32,5 +32,8 @@
 - Regarding granting prior permission from the government to Vaghdaari Transmission Limited under Section 68 of the Electricity Act, 2003, for the construction of new transmission lines.\
   [202602051320395410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051320395410.pdf)
 
+- Regarding the approval of expenditure for the first installment of the state governments share of the grant for the construction of the Common Facility Centre for the Onion Processing Cluster, Shrigonda, District-Ahilyanagar, under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
+  [202602061057297410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061057297410.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

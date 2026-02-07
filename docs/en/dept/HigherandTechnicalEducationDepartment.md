@@ -17,5 +17,11 @@
 - Regarding the allocation of funds for purchasing necessary furniture for the new administrative and examination building at Punyashlok Ahilyadevi Holkar University.....\
   [202602051533477708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051533477708.pdf)
 
+- Regarding the formation of a committee to study the feasibility of starting courses accredited by apex bodies such as AICTE, UGC, BCI, NCTE, and NMC by other departments...\
+  [202602061804064608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061804064608.pdf)
+
+- Regarding granting administrative approval to Tilak Maharashtra University, Pune, for the procurement of necessary equipment....\
+  [202602061616080508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061616080508.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

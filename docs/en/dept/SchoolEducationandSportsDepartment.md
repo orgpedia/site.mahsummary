@@ -29,6 +29,24 @@
 - Regarding granting administrative approval for the renovation work of internal roads, footpaths, and drainage systems for rainwater at the Shiv Chhatrapati Sports Complex, Mahalunge-Balewadi, Pune.\
   [202602051329366021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051329366021.pdf)
 
+- Regarding the disbursement of the second installment of non-recurring funds for the General and DIET (District Institute of Education and Training) components of the centrally sponsored Samagra Shiksha (Elementary Education, Secondary Education and Teacher Education) scheme. (Central share and State share).\
+  [202602061739332421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061739332421.pdf)
+
+- Regarding the disbursement of the remaining non-recurring funds for the second installment of the Centrally Sponsored Samagra Shiksha Schemes Scheduled Tribes Sub-Plan (TSP) for the primary education, secondary education, and teacher education programs for the financial year 2025-26. (Central share and State share).\
+  [202602061747518621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061747518621.pdf)
+
+- Regarding the disbursement of the third installment of funds for the General component of the centrally sponsored Samagra Shiksha (Primary Education, Secondary Education and Teacher Education) scheme. (Central share and State share).\
+  [202602061737456021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061737456021....pdf)
+
+- Regarding the release of the third installment of funds for the Scheduled Castes Sub-Plan (SCP) under the centrally sponsored Samagra Shiksha (Elementary Education, Secondary Education and Teacher Education) program. (Central share and State share).\
+  [202602061746097821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061746097821.pdf)
+
+- Regarding the release of the remaining non-recurring funds for the second installment of the Scheduled Castes Sub-Plan (SCP) under the centrally sponsored Samagra Shiksha (Elementary Education, Secondary Education and Teacher Education) program. (Central share and State share).\
+  [202602061743553121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061743553121.pdf)
+
+- Regarding the release of the third installment of funds for the primary education, secondary education, and teacher education programs under the Scheduled Tribes Sub-Plan (TSP) of the centrally sponsored Samagra Shiksha Scheme for the financial year 2025-26. (Central share and State share).\
+  [202602061749343821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061749343821.pdf)
+
 ## Personnel
 - Regarding the transfer of management of Savitribai Phule Vidyalaya, Rasulabad, Arvi taluka, operated by Ravindranath Tagore Shikshan Prasarak Mandal, Gitai Nagar, Gopuri, Wardha district, to Navjeevan Seva Sanstha, Tivsa, Amravati district.\
   [202602021633031021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021633031021.pdf)
@@ -47,6 +65,12 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202602041742482121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041742482121.pdf)
+
+- Regarding promotions to the posts of Joint Director of Education and equivalent positions in the Maharashtra Education Service Group-A (Administration Branch)...\
+  [202602061153266021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061153266021.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202602061929522521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061929522521.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

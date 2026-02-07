@@ -16,6 +16,12 @@
 - Regarding granting administrative approval for the purchase of stainless steel utensils and electrical appliances for the Mantralay Canteen\
   [202602051252227207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051252227207.pdf)
 
+- Regarding granting administrative approval for the purchase of a new vehicle for the State Service Rights Commissioner, Konkan Revenue Division.\
+  [202602061821255607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061821255607.pdf)
+
+- Regarding the approval of the rental charges for the offices located in Hangar No. 6 and Hangar No. 11 at Juhu Airport, belonging to the Directorate of Flight Operations...\
+  [202602061658345307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061658345307.pdf)
+
 ## Miscellaneous
 - Appointment on Deputation :- Shri. Prafull J. Thakur, Deputy Secretary\
   [202602021832311107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021832311107.pdf)
@@ -59,6 +65,9 @@
 - Regarding the assignment of additional charge of the post of State Service Rights Commissioner, Nagpur and Amravati Revenue Divisions.....\
   [202602051124326007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051124326007.pdf)
 
+- Regarding the deputation of Mr. Satish H. Pawar, Deputy Superintendent of Land Records, Sakoli Taluka, Bhandara District, to the post of Assistant Section Officer in the State Information Commission, Nagpur Bench office.\
+  [202602061602472707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061602472707.pdf)
+
 ## Personnel
 - Transfers of Assistant Section Officers and Clerk-Typist\
   [202602031615001507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031615001507.pdf)
@@ -71,6 +80,9 @@
 
 - Allotment of Recommended Candidate From Assistant Section officer (Main) Exam 2023 in Mantralaya and MPSC\
   [202602021739378507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021739378507.....pdf)
+
+- Regarding the deputation of Mrs. Swapna Sharad Patil, Deputy Superintendent of Land Records, to the post of Assistant Section Officer in the office of the State Information Commission, Pune Bench.\
+  [202602061558322007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061558322007....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

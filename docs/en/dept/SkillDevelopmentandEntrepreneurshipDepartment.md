@@ -3,6 +3,13 @@
 **Date Range**: 09 February 2026 - 14 February 2026
 
 
+## Funds
+- Regarding establishment and operationalization of the Maharashtra Agency for Holistic International Mobility  Advancements - MAHIMA under Section 8 of the Companies Act, 2013 under the SEEID..\
+  [202602061442190903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061442190903.pdf)
+
+- Regarding the granting of administrative and financial approval for the expenses incurred in the training of employees of the Directorate of Skill Development, Employment and Entrepreneurship and its subordinate offices.\
+  [202602061059361803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061059361803.pdf)
+
 ## Miscellaneous
 - Regarding issuance of Government Letter of Intent (LOI) for starting new private industrial training institutions on permanent grant-in-aid basis for the year 2026-27 and for introducing new profession/additional unit/change of profession in existing institutions\
   [202602051455427103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051455427103....pdf)

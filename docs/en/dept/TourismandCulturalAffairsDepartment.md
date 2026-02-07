@@ -31,6 +31,9 @@
 - Regarding granting ex-post facto administrative approval for Part-2 of the work for organizing the 60th and 61st Maharashtra State Marathi Film Awards ceremony.\
   [202602051546200623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051546200623.pdf)
 
+- Regarding granting administrative and financial approval for the expenditure incurred in obtaining services through outsourcing at the Directorate of Cultural Affairs, Mumbai and its regional offices.\
+  [202602061626392223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061626392223.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative and financial approval for extending the duration of the Veermata Jijau Gatha program and for the additional expenses incurred for the same.\
   [202602021827391723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021827391723.pdf)
@@ -43,6 +46,10 @@
 
 - Regarding the financial approval for the expenses of organizing the preliminary round of the 22nd Maharashtra State Amateur Childrens Theatre Competition.\
   [202602041825080923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041825080923.pdf)
+
+## Personnel
+- Regarding granting ex-post facto approval for the architects fees for the electrical system installation work in the new building of the Shri Chhatrapati Shivaji Maharaj Museum, Satara...\
+  [202602061554557123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061554557123.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -28,6 +28,9 @@
 - Regarding the sanctioning of funds to Municipal Councils under the Special scheme. Under the accounting head (2217 1301) for the year 2025-26 For Vairag Nagar Panchayat, Solapur District Amount: Rs. 2.50 crore\
   [202602041618019325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041618019325....pdf)
 
+- Regarding the disbursement of the budgetary allocation for the financial year 2025-2026... Grant-in-aid\
+  [202602061612042425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061612042425.pdf)
+
 ## Miscellaneous
 - Regarding the sanctioning of funds for providing specific civic services and facilities notified within the jurisdiction of urban local self-government institutions. For the year 2022-23 (under Account Head 3604 1009) For Nagpur Municipal Corporation, District Nagpur Amount: Rs. 46.13 crore (Corrigendum)\
   [202602041842516325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041842516325.pdf)

@@ -10,6 +10,12 @@
 - Regarding the revival of peon cadre posts for compassionate appointment in the office under the control of the Chief Engineer (National Highways), Navi Mumbai.\
   [202602051720191518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051720191518.pdf)
 
+- Upgradation  of other district roads and village roads  to major district road in Javali Taluka , District Satara.\
+  [202602061318519518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061318519518.pdf)
+
+- Upgradation  of other district roads and village roads  to major district road in Javali Taluka , District Satara.\
+  [202602061623364018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061623364018.pdf)
+
 ## Personnel
 - Regarding the joint development of buildings at Survey No. 141 (A) at Andheri (West) Ambivali and Plot No. 627 at Chunabhatti at Mudran Kamgar Nagar through privatization...  (Third and Final Extension)\
   [202602031824181018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031824181018.pdf)

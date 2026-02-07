@@ -25,6 +25,12 @@
 - Regarding the allocation of funds for civic amenities works in villages in Naigaon taluka of Nanded district that have been affected and resettled due to excessive rainfall/floods.\
   [202602051431175619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051431175619.pdf)
 
+- Regarding the allocation of funds under account head 2406 8551 for the Van Mahotsav scheme for the financial year 2025-26.\
+  [202602061620046619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061620046619.pdf)
+
+- Regarding granting administrative approval for the purchase of disaster response equipment for the fire department: Trolley Mounted High Pressure Water Mist  Compressed Air Foam (CAF) equipment...\
+  [202602061447401619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061447401619.pdf)
+
 ## Miscellaneous
 - Regarding the provision of funds for the remuneration of contract employees engaged in water transport services at Mauje Tapola, Taluka Mahabaleshwar, District Satara, as well as for the fuel and maintenance costs of barges and launches. (Corrigendum)\
   [202602021154542619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021154542619.pdf)
@@ -46,6 +52,12 @@
 
 - State Plan 2025-26 Ongoing item proposal under Nature Conservation and Wildlife Management (Program) (2406 0775).\
   [202602051805335119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051805335119.pdf)
+
+- Regarding the establishment of a task force for the development and implementation of the departments e-services.\
+  [202602061759299319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061759299319.pdf)
+
+- Regarding the approval of the purchase price for tendu leaves from government/private land for the 2026 tendu leaf season.\
+  [202602061654433119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061654433119.pdf)
 
 ## Personnel
 - Regarding the posting of officers in the Deputy Tahsildar cadre...Regarding the posting of officers in the Deputy Tahsildar cadre...\
