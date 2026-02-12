@@ -1,88 +1,34 @@
 # General Administration Department
 
-**Date Range**: 09 February 2026 - 14 February 2026
+**Date Range**: 16 February 2026 - 21 February 2026
 
 
 ## Funds
-- Regarding the grant of administrative and financial approval for the estimated additional expenditure required to create state-of-the-art networking facilities as per NIC specifications in the workstations to be set up under the General Administration Department (itself)...\
-  [202602031326573707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031326573707.pdf)
-
-- Regarding participation in the IndiaAI Impact Summit and Expo-2026.\
-  [202602021303321407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021303321407.pdf)
-
-- Regarding the disbursement of funds (second installment) under the State Training Policy for administrative training during the financial year 2025-26, under account head (2070 0853), 31 Subsidiary Grants (Non-Salary).\
-  [202602051134393607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051134393607.pdf)
-
-- Regarding granting administrative approval for the purchase of stainless steel utensils and electrical appliances for the Mantralay Canteen\
-  [202602051252227207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051252227207.pdf)
-
-- Regarding granting administrative approval for the purchase of a new vehicle for the State Service Rights Commissioner, Konkan Revenue Division.\
-  [202602061821255607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061821255607.pdf)
-
-- Regarding the approval of the rental charges for the offices located in Hangar No. 6 and Hangar No. 11 at Juhu Airport, belonging to the Directorate of Flight Operations...\
-  [202602061658345307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061658345307.pdf)
+- Regarding granting administrative approval for the purchase of chairs for the officers room in the Mantralaya Canteen.\
+  [202602111804023607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111804023607.pdf)
 
 ## Miscellaneous
-- Appointment on Deputation :- Shri. Prafull J. Thakur, Deputy Secretary\
-  [202602021832311107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021832311107.pdf)
+- Honble Supreme Court has issued guidelines regarding recruitment in 17 cadres of PESA sector in accordance with its decisions dated 06.10.2025 and 17.11.2025 on petitions regarding recruitment in PESA sector...\
+  [202602111553266107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111553266107.pdf)
 
-- Regarding the preparation of an action plan by the State of Maharashtra to promote and develop the live entertainment economy in the country.\
-  [202602030937578007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602030937578007.pdf)
+- Regarding the formation of a review committee for the Excellence in Journalism Award, 2024.\
+  [202602111302240707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111302240707.pdf)
 
-- Regarding amendments to the consolidated guidelines for filling posts in Group-B (non-gazetted), Group-C and Group-D categories under the nomination quota, through direct recruitment, within the purview of the erstwhile Subordinate Services Selection Boards (outside the purview of the Maharashtra Public Service Commission)...\
-  [202602021830016807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021830016807.pdf)
+- Regarding extension of deputation of Smt S.D.Dadmal, Assistant Section Officer.\
+  [202602101715135407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101715135407.pdf)
 
-- Regarding the proper and accurate spelling of the names of streets named after freedom fighters in the addresses on the letterheads of various departments...\
-  [202602031323381407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031323381407.pdf)
+- Regarding the extension of the appointment of a supplier for providing stationery, computer equipment, and other materials to the Honble Chief Ministers Secretariat, the Honble Chief Ministers official residence office, the offices of the Secretary and Special Officer (2), and the Ministerial Establishment offices (ME-1, 2  3).\
+  [202602091451207707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091451207707.pdf)
 
-- Regarding the allocation of an office chamber to the Honourable Deputy Chief Minister.\
-  [202602021825081307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021825081307.pdf)
-
-- Regarding the disbursement of funds sanctioned through supplementary demands for the State Election Commission during the financial year 2025-26.\
-  [202602021559149707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021559149707.pdf)
-
-- Regarding appointment of Guardian Minister: pune and Beed  District.\
-  [202602031425391207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031425391207.pdf)
-
-- Regarding the inclusion of officers promoted to the post of Section Officer under the disability reservation quota in the seniority list, in accordance with the implementation of the Rights of Persons with Disabilities Act, 2016.\
-  [202602041832371307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041832371307.pdf)
-
-- Regarding the utilization of funds deposited with the State Election Commission in accordance with the provisions of the Act for the elections of urban local self-governing bodies.\
-  [202602041209132407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041209132407.pdf)
-
-- Regarding the grant of regular promotion to the post of Section Officer for eligible PwD (Persons with Disabilities) Assistant Section Officers in Administrative Departments, in accordance with the implementation of the Rights of Persons with Disabilities Act, 2016, and the creation of supernumerary posts for them.\
-  [202602041830409007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041830409007.pdf)
-
-- Regarding the placement of suggestion boxes for citizens, employees, and officers in government and semi-government offices, in line with the concepts of administrative innovation, excellence, and good governance....\
-  [202602041615110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041615110207.pdf)
-
-- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of JAN to MAR, 2026\
-  [202602051613398107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051613398107.pdf)
-
-- Regarding the allocation of a government bungalow to the Honourable Deputy Chief Minister.\
-  [202602051840554807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051840554807.pdf)
-
-- Regarding the assignment of additional charge of the post of State Service Rights Commissioner, Nagpur and Amravati Revenue Divisions.....\
-  [202602051124326007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051124326007.pdf)
-
-- Regarding the deputation of Mr. Satish H. Pawar, Deputy Superintendent of Land Records, Sakoli Taluka, Bhandara District, to the post of Assistant Section Officer in the State Information Commission, Nagpur Bench office.\
-  [202602061602472707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061602472707.pdf)
+- Regarding revision in the terms and conditions for sanctioning Selection Grade Pay Level to Group A cadres in State Government Service, as per the recommendations in the report of Pay Anomaly Redressal Committee 2024, accepted by the Government.\
+  [202602101737011007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101737011007.pdf)
 
 ## Personnel
-- Transfers of Assistant Section Officers and Clerk-Typist\
-  [202602031615001507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031615001507.pdf)
+- Regarding granting administrative approval for purchasing new iron cupboards for the Mantralaya Canteen office.\
+  [202602111805592607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111805592607.pdf)
 
-- Lower Grade Stenographer (Marathi/English) Examination - 2022 Allotment of candidates recommended from Waitlist No. 2 by the Maharashtra Public Service Commission to the posts of Lower Grade Stenographer (Marathi/English) in the Mantralaya Administrative Departments and various State Government offices in Greater Mumbai.\
-  [202602021744599807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021744599807.....pdf)
-
-- Shorthand Typist (Marathi/English) Examination - 2022 Allotment of candidates recommended by the Maharashtra Public Service Commission from Waiting List No. 2 to the posts of Shorthand Typist (Marathi/English) in the Mantralaya (Secretariat) administrative departments and various State Government offices in Greater Mumbai.\
-  [202602021751282007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021751282007.....pdf)
-
-- Allotment of Recommended Candidate From Assistant Section officer (Main) Exam 2023 in Mantralaya and MPSC\
-  [202602021739378507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021739378507.....pdf)
-
-- Regarding the deputation of Mrs. Swapna Sharad Patil, Deputy Superintendent of Land Records, to the post of Assistant Section Officer in the office of the State Information Commission, Pune Bench.\
-  [202602061558322007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061558322007....pdf)
+- Regarding constitution of a study group for studying the proposals regarding regularization of services of employees appointed on temporary (contract) basis and submitting a factual report to the Government\
+  [202602101733344107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101733344107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

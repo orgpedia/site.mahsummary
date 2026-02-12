@@ -1,24 +1,19 @@
 # Planning Department
 
-**Date Range**: 09 February 2026 - 14 February 2026
+**Date Range**: 16 February 2026 - 21 February 2026
 
 
 ## Funds
-- Regarding the distribution of funds for the year 2025-26 under the Shri Kshetra Dehu, Alandi, Pandharpur, Bhandara Dongar, Nevasa Palkhi Route/Pilgrimage Site Development Plan.\
-  [202602031647293416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031647293416.pdf)
+- Regarding the distribution of funds for the financial year 2025-26 to Annasaheb Patil Economically Backward Development Corporation\
+  [202602111223173716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111223173716....pdf)
 
 ## Miscellaneous
-- Regarding the presentation of mementos to officers/employees retiring or taking voluntary retirement from the Planning Department (itself)...\
-  [202602031123549816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031123549816.pdf)
+- Regarding approval for purchase of new vehicle for office use of Secretary (Planning)\
+  [202602101913132216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101913132216.pdf)
 
-- Regarding granting administrative approval to develop District Data Portal (DDP) under the Maharashtra District Level Development to Promote Institutional Capacity Building (MahaSTRIDE) program\
-  [202602021434036816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021434036816.pdf)
-
-- Regarding the application of the selection grade pay scale S-27 (Rs. 123100-215900) to officers in the Joint Director cadre.\
-  [202602051216549516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051216549516.pdf)
-
-- Regarding granting administrative approval to the workshop for officers and the project inauguration ceremony program under the project Maharashtra District Level Development to Strengthen Institutional Capacity (MahaSTRIDE).\
-  [202602051517105516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051517105516.pdf)
+## Personnel
+- Regarding publication of revised provisional seniority list dated 01/01/2023 (from 01/01/2022 to 31/12/2022) of Research Officers/Statistical Officers, Group-B (Gazetted) cadre in the Directorate of Finance and Statistics.\
+  [202602111750075116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111750075116.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

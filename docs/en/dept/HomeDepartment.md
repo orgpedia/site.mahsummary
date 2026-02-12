@@ -1,33 +1,34 @@
 # Home Department
 
-**Date Range**: 09 February 2026 - 14 February 2026
+**Date Range**: 16 February 2026 - 21 February 2026
 
 
 ## Funds
-- Regarding granting approval for the disbursement of budgeted funds for the construction of prisons under account head 4059 0912 during the June 2025 monsoon session of the legislature...\
-  [202602031527337129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031527337129.pdf)
+- Regarding granting administrative and financial approval to the cost estimate for new electrical connection work for the Vehicle Inspection and Testing Center (I  C Center) of the Regional Transport Office, Solapur.\
+  [202602101437530529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101437530529.pdf)
 
-- The disbursement of the remaining funds for the 32nd quarterly installment for the maintenance and repair of the Mumbai city CCTV project.\
-  [202602061550352929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061550352929.pdf)
+- Regarding granting administrative and financial approval to the cost estimate for the construction of a protective wall for the Vehicle Inspection and Testing Center (I  C Center) of the Sub-Regional Transport Office, Sangli.\
+  [202602101440353229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101440353229.pdf)
 
-- Regarding the release of Rs. 150.00 crore from the state governments share for the new Solapur-Tuljapur-Osmanabad railway line project.\
-  [202602061606473729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061606473729.pdf)
+- Regarding the approval of the payment of Rs. 28,77,87,350/- for the work of Milestone 4 of the Pune City CCTV Project Phase-2, carried out by the System Integrator M/s. Allied Digital Services Ltd., Mumbai.\
+  [202602091605371329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091605371329.pdf)
 
-- Regarding the approval for the purchase of generator sets for the Sub-Regional Transport Office, Sindhudurg and the Sub-Regional Transport Office, Ichalkaranji.\
-  [202602061541209629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061541209629.pdf)
+- Regarding granting administrative approval for the expenses incurred for the cleaning, sanitation, and gardening of the State Excise Department Building by M/s. Lokbharati Unemployed Service Institute Ltd., Sewri, Mumbai, for the period from November 1, 2025, to September 30, 2026.\
+  [202602091456174229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091456174229.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of nodal officers for coordination and action in respect of various recommendations received by the State Government from the State Human Rights Commission....\
-  [202602041802483529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041802483529.pdf)
+- Regarding the revival of Group-D posts on the establishment of police unit offices within the Maharashtra Police Department for compassionate appointment purposes.\
+  [202602091730088829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091730088829.....pdf)
 
-- Regarding the disbursement of funds amounting to Rs. 400,00,00,000/- to the Maharashtra State Road Transport Corporation towards reimbursement of concession fares for the month of December, 2025...\
-  [202602041819216929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041819216929.pdf)
+- Regarding granting administrative approval to provide paid training to the security personnel of Western Coalfields Limited, Nagpur at the training center of Maharashtra Home Guard.\
+  [202602101150430829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101150430829.pdf)
 
-- The state government has approved the direct purchase of yarn from the National Handloom Development Corporation for the textile industry in the states prisons.\
-  [202602061832281429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061832281429.pdf)
+- Regarding the inclusion of candidates declared non- recommended in the revised results of Maharashtra Public Service Commission in the cadre of Police Sub-Inspector for the Police Sub-Inspector (direct recruitment) exam-2016\
+  [202602101710026429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101710026429.pdf)
 
-- Regarding the creation of a total of 05 new police stations under the establishment of the Commissioner of Police, Pune City, namely 1) Narhe Police Station, 2) Laxminagar Police Station, 3) Manjari Police Station, 4) Lohagaon Police Station and 5) Yewalewadi Police Station, and granting approval for the creation of posts and the recurring and non-recurring expenditure associated with them.\
-  [202602061242211329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061242211329.pdf)
+## Personnel
+- Regarding the revision of the seniority of Mr. Vijay Piraji Chinchalkar, Deputy Commissioner (Senior Grade).\
+  [202602091457221429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091457221429.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

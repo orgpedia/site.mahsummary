@@ -1,39 +1,30 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 09 February 2026 - 14 February 2026
+**Date Range**: 16 February 2026 - 21 February 2026
 
 
 ## Funds
-- Regarding the approval of fund allocation for the year 2025-26 under the scheme to promote the wine industry.\
-  [202602031802060010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031802060010.pdf)
+- Regarding the approval of expenditure for grants under objective 31  Assistance Grants (Non-Salary) under the Chief Ministers Employment Generation Programme (General Category) scheme for the financial year 2025-26.\
+  [202602091253472510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091253472510.pdf)
 
-- Regarding the granting of administrative and financial approval for the construction of the building for the Joint Director of Boilers, Nagpur office and training center.\
-  [202602041809235910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041809235910.pdf)
+- Regarding the disbursement of Rs. 21.875 lakhs in cash to the Mahaurja Office under the Green Energy Fund Program for the year 2025-26. (Account Head No. 28100123)\
+  [202602111844205410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111844205410.pdf)
 
-- Regarding the approval of financial assistance for the Anime Festival/Aniverse and Visual Arts Festival-2026 event for the financial year 2025-26.\
-  [202602041647232210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041647232210.pdf)
+- Regarding granting administrative approval to the budget submitted for the construction of a sheet shed on the roof of the Kamgar Bhavan, Bandra building...\
+  [202602091604057310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091604057310.pdf)
+
+- Regarding opening of new account under Swayampurna Maharashtra Residential Roof Top Solar (SMART) Scheme for Below Poverty Line and economically weaker household electricity consumers with consumption less than 100 units.\
+  [202602101643488510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101643488510.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of state sub-nodal agencies, the role of distribution licensees, and policy measures for strengthening electric vehicle (EV) charging infrastructure in Maharashtra.\
-  [202602031300261710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031300261710.pdf)
+- Regarding the appointment of nominated/ex-officio members on the Governing Council under District Mineral Foundation, Satara...\
+  [202602111248555910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111248555910.pdf)
 
-- Regarding the criteria and procedure for the Narayan Meghaji Lokhande Occupational Safety and Health award, which is given to registered factories that perform exceptionally well in the field of occupational safety, health, and worker welfare.\
-  [202602021809160310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602021809160310.pdf)
+- Regarding the appointment of nominated/ex-officio members on the Governing Council under the District Mineral Foundation, Sindhudurg...\
+  [202602111251032010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111251032010.pdf)
 
-- Regarding the inclusion of a new member in the State Mining Program and Monitoring Committee, established under the chairmanship of the Honble Chief Secretary, Government of Maharashtra, to review progress and address difficulties encountered in the process, from the declaration of the highest bidder after the e-auction of major mining leases until the actual commencement of excavation and transportation from the mining area...\
-  [202602031313514010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602031313514010.pdf)
-
-- Regarding granting prior permission from the government to Jalna Power Transmission Limited under Section 68 of the Electricity Act, 2003, for the construction of new transmission lines.\
-  [202602041828136410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041828136410.pdf)
-
-- Regarding granting prior permission from the government to NES Pune East New Transmission Ltd. company for the construction of new transmission lines under Section 68 of the Electricity Act, 2003.\
-  [202602041311233710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041311233710.pdf)
-
-- Regarding granting prior permission from the government to Vaghdaari Transmission Limited under Section 68 of the Electricity Act, 2003, for the construction of new transmission lines.\
-  [202602051320395410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051320395410.pdf)
-
-- Regarding the approval of expenditure for the first installment of the state governments share of the grant for the construction of the Common Facility Centre for the Onion Processing Cluster, Shrigonda, District-Ahilyanagar, under the Maharashtra State Industrial Cluster Development Program (MSICDP).\
-  [202602061057297410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602061057297410.pdf)
+- Regarding declaring the Drawing and Disbursement Officers of the Directorate of Industries and subordinate offices as Virtual Personal Deposit Account Administrators (VPDA) for the speedy disbursement and monitoring of Subsidiary Grants.\
+  [202602111815480010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111815480010.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

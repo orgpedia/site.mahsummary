@@ -1,21 +1,27 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 09 February 2026 - 14 February 2026
+**Date Range**: 16 February 2026 - 21 February 2026
 
 
 ## Funds
 - Regarding the distribution of funds under the Pre-Matric Scholarship Scheme in the financial year 2025-26.\
-  [202602051504017334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051504017334....pdf)
+  [202602101612411434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101612411434.pdf)
 
-- Regarding the disbursement of funds for scholarship and tuition fee schemes being implemented by the department during the financial year 2025-26.\
-  [202602051503450034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051503450034.pdf)
+- Regarding making funds available for houses approved post-operatively in the years 2023-24 and 2024-25 under the Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202602111502007334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111502007334.pdf)
+
+- Regarding the distribution of funds for scholarship and tuition fee schemes being implemented by the department in the financial year 2025-26.\
+  [202602101227158534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101227158534.pdf)
+
+- Regarding the distribution of funds for scholarship and tuition fee schemes being implemented by the department in the financial year 2025-26.\
+  [202602101550226334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101550226334.pdf)
 
 ## Miscellaneous
-- Regarding the assignment of additional charge of the posts of Director, Other Backward Classes and Bahujan Welfare Directorate, Pune and Joint Director, Other Backward Classes and Bahujan Welfare Directorate, Pune.\
-  [202602041659220234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602041659220234.pdf)
+- Regarding cancellation of school selection under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme.... Sudha-Ratna Charitable Trust, Parli (V.) Tal. Parli, Dist. Beed Hon. Ratnakar Gutte International School, Vadgaon St., Tal. Sonpeth, Dist. Parbhani\
+  [202602111126173634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111126173634.pdf)
 
-- Regarding the provision of scholarships to students from Denotified Tribes, Nomadic Tribes, Other Backward Classes, and Special Backward Classes under the Post-Matric Scholarship Scheme for the professional course of Bachelor of Naturopathy  Yogic Science, and also regarding the mapping of this course on the MahaDBT system.\
-  [202602051506307134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602051506307134.pdf)
+- Regarding adjustment of students who have been approved to the school Hon. Ratnakar Gutte International School, Vadgaon Station, Sonpeth, Parbhani under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme under the scheme Sudha-Ratna Charitable Trust, Parli (V.) Tal. Parli, Dist. Beed, to the school Ramrao Naik Multipurpose Charitable Institution, Munsiram Tanda, Tal. Sonpeth, Dist. Parbhani, to the school Shri. Ramrao Naik English School, Munsiram Tanda, Tal. Sonpeth, Dist. Parbhani.\
+  [202602111129314334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111129314334.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
