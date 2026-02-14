@@ -26,5 +26,9 @@
 - Regarding declaring the Drawing and Disbursement Officers of the Directorate of Industries and subordinate offices as Virtual Personal Deposit Account Administrators (VPDA) for the speedy disbursement and monitoring of Subsidiary Grants.\
   [202602111815480010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111815480010.pdf)
 
+## Personnel
+- Regarding granting prior permission of the Government to construct new transmission lines to Sakoli Power Transmission Limited under Section 68 of the Electricity Act, 2003.\
+  [202602121112552510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121112552510.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

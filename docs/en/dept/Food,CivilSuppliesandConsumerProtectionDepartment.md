@@ -23,6 +23,9 @@
 - Regarding the formation of a selection committee to recommend to the Government for the appointment of members of the State Consumer Grievance Redressal Commission and the Chairman and members of the District Consumer Grievance Redressal Commission under the Consumer Protection Act, 2019.\
   [202602101241141706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101241141706.pdf)
 
+- Regarding granting administrative approval for the expenditure incurred for providing computers and other equipment to the State Consumer Grievance Redressal Commission and its subordinate District Consumer Grievance Redressal Commission.\
+  [202602121630281406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121630281406.pdf)
+
 ## Personnel
 - Provisional seniority list showing the status of District Supply Officers / Food Distribution Officers, Group-A cadre in the Food, Civil Supplies and Consumer Protection Department as on 01.01.2026.\
   [202602101459573006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101459573006.pdf)

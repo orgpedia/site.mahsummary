@@ -23,5 +23,15 @@
 - Regarding adjustment of students who have been approved to the school Hon. Ratnakar Gutte International School, Vadgaon Station, Sonpeth, Parbhani under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme under the scheme Sudha-Ratna Charitable Trust, Parli (V.) Tal. Parli, Dist. Beed, to the school Ramrao Naik Multipurpose Charitable Institution, Munsiram Tanda, Tal. Sonpeth, Dist. Parbhani, to the school Shri. Ramrao Naik English School, Munsiram Tanda, Tal. Sonpeth, Dist. Parbhani.\
   [202602111129314334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111129314334.pdf)
 
+- Regarding the announcement of Controlling Officer and Drawing and Disbursing Officer to provide additional grant of Rs. 50,000/- of State share to the beneficiaries of Gharkul under Pradhan Mantri Awas Yojana-Gramin Tappa-2 Scheme from the Other Backward Classes Welfare Department.\
+  [202602121750164934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121750164934.pdf)
+
+- Regarding the distribution of funds for providing additional state share of Rs. 50,000/- to the beneficiaries of Gharkul under the Pradhan Mantri Awas Yojana-Gramin Tappa-2 scheme from the Other Backward Classes Welfare Department.\
+  [202602121744426634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121744426634.pdf)
+
+## Personnel
+- Regarding the publication of the updated Citizen Charter of the Other Backward Bahujan Welfare Department (KHUDD)...\
+  [202602121845260634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121845260634.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

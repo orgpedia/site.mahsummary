@@ -16,6 +16,15 @@
 - Regarding distribution of funds for payment of increased compensation for acquired land for rehabilitation of flood victims.\
   [202602101641111519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101641111519.pdf)
 
+- Regarding granting administrative approval to the DEOC works of the District Emergency Operations Center under the Maharashtra Responsive Development Program.\
+  [202602121557104019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121557104019.pdf)
+
+- Regarding the disbursement of funds under the account head (4415 0192) for establishing a Bamboo Research and Training Centre at Chichapally.\
+  [202602121230283019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121230283019.pdf)
+
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2025-26 (2406 8669).\
+  [202602121254240719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121254240719.pdf)
+
 ## Miscellaneous
 - Regarding the free provision of land to the soldiers serving in the Indian Army or Armed Forces or to the ex-servicemen, to the soldiers residing in the State or to the widows and wives of such soldiers or officers or their legal heirs in case of death in any war or warlike situation or in any military operation...\
   [202602101622006819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101622006819.pdf)
@@ -28,6 +37,9 @@
 
 - Disbursement of funds under UNDP- GCF Project Enhancing Climate Resilience of Indias Coastal Communities (2406 B272).\
   [202602101452109819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101452109819.pdf)
+
+- Regarding the distribution of funds under the scheme for the establishment of Maharashtra Nature Tourism Development Board for the year 2025-26 (2406-A096).\
+  [202602121228054219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121228054219.pdf)
 
 ## Personnel
 - Regarding issuing directions in accordance with the Maharashtra Land Revenue Code, (Amendment) 2025 regarding cancellation of non-agricultural permits, charters and non-agricultural levies.\

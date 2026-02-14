@@ -10,5 +10,11 @@
 - Regarding approval for advertising various schemes and initiatives of the Women and Child Development Department in the financial year 2025-26.\
   [202602111600298130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111600298130.pdf)
 
+- Grant Release for ICDS General in FY 2025-26\
+  [202602121418443530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121418443530.pdf)
+
+- Distribution of funds for the financial year 2025-26 through re-appropriation for ICDS General.\
+  [202602121418529730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121418529730.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

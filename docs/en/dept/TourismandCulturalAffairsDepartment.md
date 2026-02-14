@@ -17,5 +17,17 @@
 - Regarding granting administrative and financial approval for the program planning and expenditure of Maharashtra State Hindi Sahitya Academy.\
   [202602111213302323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111213302323....pdf)
 
+- Regarding administrative approval and distribution of funds for the works of the Directorate of Tourism under the Regional Tourism Development Plan for the year 2025-26.\
+  [202602121830573523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121830573523.pdf)
+
+- Regarding granting administrative approval to establish a World Heritage Desk for research on pottery.\
+  [202602121608446823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121608446823.pdf)
+
+- Regarding implementation of employment-oriented short-term courses in the field of arts by P.L. Deshpade Maharashtra Kala Academy.\
+  [202602121206417623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121206417623.pdf)
+
+- Regarding approval for the purchase of computers, printers, color printers, scanners, laptops, tabs, Ms office (perpetual), Antivirus for the Department of Tourism and Cultural Affairs and the regional offices under the department.\
+  [202602121520281123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121520281123.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

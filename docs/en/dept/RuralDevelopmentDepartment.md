@@ -13,6 +13,9 @@
 - Mukhyamantri Gram Sadak Yojana Revised Administrative Approval for the work of ODR-25 to Naikota Bondargaon Road, Tal.Sonpeth Package No ADB-PAR-08 in Parbhani district...\
   [202602111130556820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111130556820.pdf)
 
+- Regarding fund distribution for organizing District-level sales exhibition in year 2025-26.\
+  [202602121156398420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121156398420.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of a state-level committee for the rationalization, streamlining, and decriminalization of the provisions in the Maharashtra Gram Panchayat Act, 1959 and the Maharashtra Zilla Parishads and Panchayat Samitis Act, 1961, under the Maharashtra Public Trust (Amendment of Provisions) Bill 2026....\
   [202602091101415620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091101415620.pdf)

@@ -26,6 +26,12 @@
 - Regarding the inclusion of candidates declared non- recommended in the revised results of Maharashtra Public Service Commission in the cadre of Police Sub-Inspector for the Police Sub-Inspector (direct recruitment) exam-2016\
   [202602101710026429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101710026429.pdf)
 
+- Regarding the constitution of a Scrutiny Committee to examine the findings and the short-term and long-term measures recommended in the report submitted by the Inquiry Committee formed to investigate the murder case of the late Shri Santosh Panditrao Deshmukh, Sarpanch of Massajog, Taluka Kej, District Beed.\
+  [202602121216150029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121216150029.pdf)
+
+- Honble Supreme Court- SLP (Cr.) 1554/2025, Constitution of the Committee for the Revision of Guidelines for Early Release.\
+  [202602121445440029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121445440029.pdf)
+
 ## Personnel
 - Regarding the revision of the seniority of Mr. Vijay Piraji Chinchalkar, Deputy Commissioner (Senior Grade).\
   [202602091457221429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091457221429.pdf)

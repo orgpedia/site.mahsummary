@@ -19,6 +19,12 @@
 - To constitute a study committee for setting up a Venture Capital Fund to provide financial assistance to new entrepreneurs in the states textile sector, as well as to entrepreneurs developing innovative technologies.\
   [202602091636333002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091636333002.pdf)
 
+- Regarding the distribution of funds for providing additional subsidy to eligible handloom weavers on yarn under the Centrally Sponsored Raw Material Supply Scheme (RMSS) under the States Integrated and Sustainable Textile Policy, 2023-28.\
+  [202602121635268702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121635268702.pdf)
+
+- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Mandeshi Prabodhankar Backward Classes Cooperative Spinning Mills Limited, Vaduz, Tal. Khatav, Dist. Satara.\
+  [202602121234136602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121234136602.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to take decisions in the cases raised by the banks concerned regarding the default of loans given by banks/financial institutions on government guarantee to cooperative sugar factories in the state.\
   [202602111801046902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111801046902.pdf)

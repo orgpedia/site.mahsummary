@@ -13,6 +13,9 @@
 - Budgetary Grant Demand No. J-5 for the year 2025-26, Major Head 7610, Loans to Government Employees, etc., under Sub-head (202)(00)(01) Motor Vehicle Purchase Advances (7610 0481) Disbursement of Motor Vehicle Purchase Advances.\
   [202602091805409912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091805409912.pdf)
 
+- Regarding granting administrative approval for scanning and digitization of 216 physical service books of officers/employees of the Law and Justice Department (individuals).\
+  [202602121742384512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121742384512.pdf)
+
 ## Miscellaneous
 - Declaring of Drawing  Disbursing Officer to District Judge-1 and Additional Sessions Judge, Pimpri-Chinchwad, Dist-Pune.\
   [202602091558115912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091558115912.pdf)
