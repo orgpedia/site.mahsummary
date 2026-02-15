@@ -29,5 +29,8 @@
 - Declaring Drawing  Disbursing Officer to Civil Judge (Senior Division), Ghodnadi (Shirur), Dist-Pune.\
   [202602091553046212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091553046212.pdf)
 
+- Regarding administrative approval of the proposal of the Manager, Honble High Court, Main Branch for providing Threat management software (Firewall) (with 5 years license) and onsite support for LAN WAN and Switches of various departments from ground floor to 6th floor at G. T. Hospital, Mumbai for an amount of Rs. 5,82,87,208/-.\
+  [202602131526542412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131526542412.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -53,5 +53,8 @@
 - Regarding distribution of funds to Municipal Councils under the Special scheme. For the year 2023-24, under the account head (4217 0603), an amount of Rs. 10.00 crore for Kopargaon Municipal Council, Dist. Ahmednagar (Corrigendum)\
   [202602121633487625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121633487625.pdf)
 
+- Regarding determining the procedure for writing performance appraisal reports of Group-A and Group-B (Gazetted) officers in the Maharashtra Urban Administrative Service.\
+  [202602131511115425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131511115425.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

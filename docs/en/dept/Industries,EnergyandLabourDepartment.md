@@ -16,6 +16,9 @@
 - Regarding opening of new account under Swayampurna Maharashtra Residential Roof Top Solar (SMART) Scheme for Below Poverty Line and economically weaker household electricity consumers with consumption less than 100 units.\
   [202602101643488510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101643488510.pdf)
 
+- Regarding granting administrative and financial approval to the proposal for renovation and upgrading of the auditorium in the Nagpur office building of N.M. Lokhande Maharashtra Labor Science Institute\
+  [202602131505071210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131505071210.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of nominated/ex-officio members on the Governing Council under District Mineral Foundation, Satara...\
   [202602111248555910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111248555910.pdf)
@@ -25,6 +28,12 @@
 
 - Regarding declaring the Drawing and Disbursement Officers of the Directorate of Industries and subordinate offices as Virtual Personal Deposit Account Administrators (VPDA) for the speedy disbursement and monitoring of Subsidiary Grants.\
   [202602111815480010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111815480010.pdf)
+
+- Government of Maharashtra Delegation visit to Tokyo, Japan to attend SEMICON JAPAN-2025\
+  [202602131708027010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131708027010.pdf)
+
+- Visit of Maharashtra Industrial Development Corporation (MIDC) Representative to Switzerland and Germany between 17th Januarty to 24th January, 2026 (Including travel time)\
+  [202602131704533210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131704533210.pdf)
 
 ## Personnel
 - Regarding granting prior permission of the Government to construct new transmission lines to Sakoli Power Transmission Limited under Section 68 of the Electricity Act, 2003.\

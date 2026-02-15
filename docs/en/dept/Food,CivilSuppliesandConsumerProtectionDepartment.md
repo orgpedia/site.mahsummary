@@ -30,5 +30,14 @@
 - Provisional seniority list showing the status of District Supply Officers / Food Distribution Officers, Group-A cadre in the Food, Civil Supplies and Consumer Protection Department as on 01.01.2026.\
   [202602101459573006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101459573006.pdf)
 
+- Latest service status of Inspection Officer (Circular)/Circular Officer, Group - B (B (B) cadre in Food, Civil Candidates and Consumer Protection Department as on 01.01.2026\
+  [202602131719078006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131719078006.pdf)
+
+- Final seniority list of Supply Inspector, Group-C cadre in Food, Civil Supplies and Consumer Protection Department showing the status as on 01.01.2025.\
+  [202602131722441006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131722441006.pdf)
+
+- Direct Service Inspector, Legal Metrology (Main) Examination-2023 (Waiting List No. 1) Regarding appointment of two candidates to the post of Inspector, Legal Metrology, Group-B (Gazetted) from the candidates recommended by the Maharashtra Public Service Commission from the waiting list.\
+  [202602131158016306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131158016306........pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -38,6 +38,9 @@
 - Regarding revision in the terms and conditions for sanctioning Selection Grade Pay Level to Group A cadres in State Government Service, as per the recommendations in the report of Pay Anomaly Redressal Committee 2024, accepted by the Government. 2024\
   [202602121616060307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121616060307.pdf)
 
+- Regarding approval of financial assistance from the Chief Ministers Charitable Donation Fund. Maharashtra Samaj, Dr. Harshe Rangmanch, Golwalkar Auditorium, Maharashtra Vidyalaya, Golbazar, Jabalpur\
+  [202602131433332407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131433332407.pdf)
+
 ## Personnel
 - Regarding granting administrative approval for purchasing new iron cupboards for the Mantralaya Canteen office.\
   [202602111805592607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111805592607.pdf)
@@ -47,6 +50,12 @@
 
 - Regarding publication of the provisional revised seniority list of Group-D cadre employees of the Mantralaya Canteen dated 01 January for the period 2016 to 2025 for inviting objections/suggestions...\
   [202602121541023607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121541023607....pdf)
+
+- Ad-hoc promotion to the post of Assistant Section officer-Ad-hoc Select List 2025-26\
+  [202602131639325007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131639325007.pdf)
+
+- Regarding the promotion and conversion of 1 post in the Under Secretary (Law) cadre in the establishment of the General Administration Department (Own) to the cadre of Joint Secretary (Law)...\
+  [202602131621421007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131621421007.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

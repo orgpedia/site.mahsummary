@@ -25,6 +25,12 @@
 - Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Mandeshi Prabodhankar Backward Classes Cooperative Spinning Mills Limited, Vaduz, Tal. Khatav, Dist. Satara.\
   [202602121234136602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121234136602.pdf)
 
+- Regarding post-hoc approval of the expenditure incurred on publicity in newspapers for the publicity of International Year of Cooperation -2025 and Cooperation Awards 2023-24.\
+  [202602131244322502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131244322502.pdf)
+
+- Regarding the action to be taken in case of arrears of FRP of sugarcane suppliers from the agency/company engaged to operate the financially sick/insolvent cooperative sugar factories in the state or the sugar factory engaged to operate it.\
+  [202602131530330002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131530330002.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a committee to take decisions in the cases raised by the banks concerned regarding the default of loans given by banks/financial institutions on government guarantee to cooperative sugar factories in the state.\
   [202602111801046902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111801046902.pdf)

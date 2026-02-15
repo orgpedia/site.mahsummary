@@ -37,6 +37,22 @@
 - Regarding granting administrative approval for the purchase of computers and printers for the Commissioner, Social Welfare, Pune and his subordinate field offices...\
   [202602121901209322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121901209322.pdf)
 
+- Regarding granting administrative approval for the renovation of the school at Milind Multipurpose High School, Nagsenvan, Aurangabad (Chhatrapati Sambhajinagar) under the scheme to preserve and enhance schools/colleges/hostels established under The Peoples Education Society, Mumbai.\
+  [202602131524468622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131524468622.pdf)
+
+- Regarding granting administrative approval to implement the procurement process of computers, printers and UPS equipment for students admitted in government hostels and government residential schools under the Department of Social Justice and Special Assistance....\
+  [202602131449415122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131449415122.pdf)
+
+- Regarding granting administrative approval to purchase necessary materials/items for the students admitted to the hostel and office of Government Hostel for 1000 Backward Class Children, Unit No. 2 Vishrantwadi, Pune.\
+  [202602131456291322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131456291322.pdf)
+
+## Miscellaneous
+- Regarding the distribution of funds for this scheme under the Scheduled Caste Sub-scheme for the financial year 2025-26 for the National AYUSH Mission Scheme. (Account Head 2210G574 (Central Share) (Account Head 2210G583 (State Share)\
+  [202602131211240522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131211240522....pdf)
+
+- Regarding the distribution of funds for the scheme to develop PM Shri Schools in centrally sponsored states under the Scheduled Caste Sub-scheme in the financial year 2025-26. (Account Head 2202K865 (Central Share) (Account Head 2202K874 (State Share)\
+  [202602131212540522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131212540522.pdf)
+
 ## Personnel
 - Preparation of District Annual Scheduled Caste Component Programme (Scheduled Caste Sub-Plan) for the year 2026-27. Guidelines ........\
   [202602121730572922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121730572922.pdf)

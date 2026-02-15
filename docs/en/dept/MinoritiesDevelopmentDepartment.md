@@ -10,5 +10,12 @@
 - Regarding the disbursement of equity contributions to the Maulana Azad Minority Financial Development Corporation for the financial year 2025-26.\
   [202602091416244914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091416244914.pdf)
 
+- Regarding distribution of grant to Maharashtra State Minorities Commission for salaries and wages in the financial year 2025-26.\
+  [202602131445084514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131445084514.pdf)
+
+## Miscellaneous
+- Regarding the distribution of funds for the distribution of scholarships under the scholarship scheme to minority students in the state studying in higher vocational and all courses after class XII.\
+  [202602131650325314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131650325314.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

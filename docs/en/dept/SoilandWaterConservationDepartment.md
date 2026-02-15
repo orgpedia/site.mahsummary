@@ -16,6 +16,10 @@
 - Distribution of funds for works of new/progressing projects from 0 to 100 ha: Dist. Akola (Vidarbha Division)\
   [202602121758113126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121758113126.pdf)
 
+## Miscellaneous
+- Regarding formation of Soil and Water Conservation District level and Taluka Level Committee\
+  [202602131301152026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131301152026.pdf)
+
 ## Personnel
 - Regarding partial changes in the order of posting by promotion in the cadre of Sub-Divisional Water Conservation Officer (Civil Engineering) and other equivalent posts.\
   [202602101859166026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101859166026.pdf)

@@ -3,6 +3,10 @@
 **Date Range**: 16 February 2026 - 21 February 2026
 
 
+## Funds
+- Regarding granting administrative and financial approval for the expenditure incurred for the renovation of the office of Skill Development, Employment and Entrepreneurship Commissionerate, Maharashtra State, Navi Mumbai.\
+  [202602131629553003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131629553003.pdf)
+
 ## Miscellaneous
 - Regarding approval to start business courses on a permanent non-subsidized basis for new institutions and more batches of 2 level dual business courses from the year 2025-26.\
   [202602101338474003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101338474003.pdf)

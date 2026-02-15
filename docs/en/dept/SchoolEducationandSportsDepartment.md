@@ -28,6 +28,27 @@
 - Regarding the implementation of the admission process for children in schools for the reserved 25 percent seats as per the Right of Children to Free and Compulsory Education Act, 2009.\
   [202602121552481821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121552481821.pdf)
 
+- All India Civil Services Cricket Tournament, 2025-26\
+  [202602131831517621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131831517621.pdf)
+
+- All India Civil Services Table Tennis Competition, 2025-26\
+  [202602131847047921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131847047921.pdf)
+
+- All India Civil Services Chess Competition, 2025-26\
+  [202602131834323521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131834323521.pdf)
+
+- Regarding approval of the expenditure incurred by the Maharashtra team for participation in the All India Civil Services Carrom Competition, 2025-26, to be held at New Delhi from 17th to 24th February, 2026.\
+  [202602131828589921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131828589921.pdf)
+
+- Regarding approval of the expenditure incurred for the participation of the Maharashtra team in the All India Civil Services Kabaddi (Men and Women) Competition, 2025-26 to be held at Chandigarh from 09th to 14th February, 2026.\
+  [202602131825431521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131825431521.pdf)
+
+- All India Civil Services Vocabulary (Men and Women) Competition, 2025-26\
+  [202602131844389021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131844389021.pdf)
+
+- Administrative approval to provide free school bags to students of classes 1 to 8 in local government schools in the state under this initiative to provide educational materials to students.\
+  [202602131839417321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131839417321.pdf)
+
 ## Miscellaneous
 - 2025-26 Fund Distribution 34 -Scholarships/Stipends.\
   [202602101447217521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101447217521.pdf)
@@ -41,6 +62,9 @@
 - Final service seniority list of officers in the cadre of Taluka Sports Officer, Group-B (Gazetted) in the Directorate of Sports and Youth Affairs as on 1/1/2025...\
   [202602121908533421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121908533421.pdf)
 
+- Regarding the distribution of additional funds by the State Government to cooks and helpers under the Scheduled Tribe category under the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
+  [202602131644125921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131644125921.pdf)
+
 ## Personnel
 - Request for transfer of Group-A officers in Maharashtra Education Service (Education Empowerment Branch) - Senior Lecturer (Group-A)\
   [202602111305422721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111305422721.....pdf)
@@ -53,6 +77,15 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202602101746183721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101746183721.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202602131544343821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131544343821.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202602131547194621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131547194621.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202602131549576321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131549576321.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

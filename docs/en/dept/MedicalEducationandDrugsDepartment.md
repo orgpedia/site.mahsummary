@@ -31,6 +31,9 @@
 - Administrative Approval for Purchase of Machinery  Equipment From State Plan Grant at Sasoon General Hospital, Pune\
   [202602111447417813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111447417813.pdf)
 
+- Administrative Approval for Purchase of  Machinery  Equipment  at Government Medical  College  Superspeciality Hospital, Nagpur\
+  [202602131100527613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131100527613.pdf)
+
 ## Miscellaneous
 - Regarding approval to start the Food and Drugs Administration Outreach and Communication Scheme (FOCUS) scheme in line with the Food and Drug Administrations efforts to prevent adulteration of food and drugs and improve their quality....\
   [202602111449290913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111449290913.pdf)
@@ -49,6 +52,28 @@
 
 - Regarding granting approval for the purchase of powerloom-produced hospital linen, ready-made garments, pillows, mattresses, etc., for Government Medical Colleges and affiliated hospitals under the Directorate.\
   [202602121101087513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121101087513.pdf)
+
+- Administrative Approval for Purchase of  Machinery  Equipment  at Government Medical  College  Hospital, Nagpur\
+  [202602121237065513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121237065513.pdf)
+
+- Revise Administrative Approval for Purchase of Machinery  Equipment From State Plan Grant for Year 2025-26  at  Government Medical College, Nashik\
+  [202602121237016413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121237016413.pdf)
+
+- Administrative Approval for Purchase of Various Machinery  Equipment  at Government Dental  College  Hospital, Nagpur\
+  [202602121236399613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121236399613.pdf)
+
+- Regarding granting approval to hire a four-wheeled vehicle on a rental basis for official government work for the Dean of the Government Medical College, Gondia.\
+  [202602131100190813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131100190813.pdf)
+
+- Administrative Approval for Purchase of Machinery  Equipment From State Plan Grant for Year 2025-26  at Shri  Bhausaheb Hire Government Medical College, Dhule\
+  [202602121236512213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121236512213.pdf)
+
+- Administrative Approval for Purchase of Machinery  Equipment From State Plan Grant for Year 2025-26  at Government Medical College  Hospital, Nagpur\
+  [202602121236457913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121236457913.pdf)
+
+## Personnel
+- Regarding the grant of revised administrative approval for the purchase of machinery and equipment for institutions under the DMER.\
+  [202602121101135413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121101135413.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

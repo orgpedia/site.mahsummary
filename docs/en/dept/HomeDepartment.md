@@ -16,6 +16,21 @@
 - Regarding granting administrative approval for the expenses incurred for the cleaning, sanitation, and gardening of the State Excise Department Building by M/s. Lokbharati Unemployed Service Institute Ltd., Sewri, Mumbai, for the period from November 1, 2025, to September 30, 2026.\
   [202602091456174229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091456174229.pdf)
 
+- Regarding granting administrative and financial approval to the cost estimate for the reconstruction of Ambad Bus Stand in the R.P. Jalna Division of the M.S.R.T. Corporation\
+  [202602131234386029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131234386029.pdf)
+
+- Regarding administrative and financial approval of the cost estimate for the reconstruction of Akola-02 depot in R.P. Akola division of M.S.R.T. Corporation\
+  [202602131230299329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131230299329.pdf)
+
+- Regarding administrative and financial approval of the budget for renovation of Tumsar depot and concreting of parking lot in R.P. Bhandara division of M.S.R.T. Corporation\
+  [202602131232226729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131232226729.pdf)
+
+- Regarding payment of the rent of the helicopter taken on hire basis from M/s Pawan Hans Ltd., Mumbai.\
+  [202602131559093329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131559093329.pdf)
+
+- Regarding administrative and financial approval of the cost estimate for the reconstruction of Washim depot in R.P. Akola division of M.S.R.T. Corporation\
+  [202602131236554429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131236554429.pdf)
+
 ## Miscellaneous
 - Regarding the revival of Group-D posts on the establishment of police unit offices within the Maharashtra Police Department for compassionate appointment purposes.\
   [202602091730088829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091730088829.....pdf)
@@ -31,6 +46,15 @@
 
 - Honble Supreme Court- SLP (Cr.) 1554/2025, Constitution of the Committee for the Revision of Guidelines for Early Release.\
   [202602121445440029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121445440029.pdf)
+
+- Regarding granting administrative and financial approval for purchasing computer sets and printers from GeM portal for computerization in the Motor Vehicles Department.\
+  [202602131850539329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131850539329.pdf)
+
+- Regarding extension of the lease period of the helicopter taken from Pawan Hans Helicopters Limited, Mumbai and increase in the lease rate by 10.\
+  [202602131557067629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131557067629.pdf)
+
+- Regarding approval of the distribution of objective-wise funds under the account head (2055A0319) to the Anti-Narcotics Task Force, Maharashtra State, Pune Office.\
+  [202602131309357029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131309357029.pdf)
 
 ## Personnel
 - Regarding the revision of the seniority of Mr. Vijay Piraji Chinchalkar, Deputy Commissioner (Senior Grade).\

@@ -29,5 +29,11 @@
 - Regarding approval for the purchase of computers, printers, color printers, scanners, laptops, tabs, Ms office (perpetual), Antivirus for the Department of Tourism and Cultural Affairs and the regional offices under the department.\
   [202602121520281123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121520281123.pdf)
 
+- Regarding the formation of a committee to recommend legal officers/professional lawyers to advise the department on legal matters in connection with various subjects under the purview of the Department of Cultural Affairs...\
+  [202602131634432923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131634432923.pdf)
+
+- Regarding administrative approval and distribution of funds for the works of the Directorate of Tourism under the Regional Tourism Development Plan for the year 2025-26.\
+  [202602131743417223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131743417223.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

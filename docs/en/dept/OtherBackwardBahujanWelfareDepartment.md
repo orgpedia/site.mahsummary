@@ -16,6 +16,9 @@
 - Regarding the distribution of funds for scholarship and tuition fee schemes being implemented by the department in the financial year 2025-26.\
   [202602101550226334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101550226334.pdf)
 
+- Regarding administrative approval and distribution of funds for the works for the year 2025-26 under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
+  [202602131516309734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131516309734.pdf)
+
 ## Miscellaneous
 - Regarding cancellation of school selection under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme.... Sudha-Ratna Charitable Trust, Parli (V.) Tal. Parli, Dist. Beed Hon. Ratnakar Gutte International School, Vadgaon St., Tal. Sonpeth, Dist. Parbhani\
   [202602111126173634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111126173634.pdf)
@@ -32,6 +35,9 @@
 ## Personnel
 - Regarding the publication of the updated Citizen Charter of the Other Backward Bahujan Welfare Department (KHUDD)...\
   [202602121845260634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121845260634.pdf)
+
+- Regarding granting administrative approval for the purchase of computers, printers and scanners required for the Other Backward Classes Welfare Department.\
+  [202602131837170734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131837170734.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

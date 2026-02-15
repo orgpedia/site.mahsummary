@@ -64,6 +64,9 @@
 - Regarding granting administrative approval for the upgradation and renovation of Shankarrao Chavan Auditorium building in Vidyanagari area of Mumbai University....\
   [202602121850579908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121850579908...pdf)
 
+- To grant Administrative Approval for acquiring Artificial Intelligence Infrastructure\
+  [202602131239370008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131239370008.pdf)
+
 ## Miscellaneous
 - Regarding filling up of vacant posts in recognized non-government aided colleges under the auspices of the Directorate of Higher Education.\
   [202602111926429308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111926429308.pdf)
@@ -91,6 +94,12 @@
 
 - Regarding granting administrative approval for structural repairs and renovation of Tilak Bhavan building in Vidyanagari area of Mumbai University....\
   [202602121834505108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121834505108.pdf)
+
+- Regarding approval to increase the accessibility of short-term vocational-oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2025-26. (Shiva Trusts Rajesh Bhaiya Tope Institute of Paramedical Science and Fire Safety Management Ch. Sambhajinagar)\
+  [202602131750433608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131750433608.pdf)
+
+- To grant Administrative Approval for acquiring Cloud Infrastructure and Services\
+  [202602131241438908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131241438908.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
