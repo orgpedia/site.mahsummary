@@ -1,43 +1,28 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 16 February 2026 - 21 February 2026
+**Date Range**: 23 February 2026 - 28 February 2026
 
 
 ## Funds
-- Regarding the approval of expenditure for grants under objective 31  Assistance Grants (Non-Salary) under the Chief Ministers Employment Generation Programme (General Category) scheme for the financial year 2025-26.\
-  [202602091253472510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091253472510.pdf)
-
-- Regarding the disbursement of Rs. 21.875 lakhs in cash to the Mahaurja Office under the Green Energy Fund Program for the year 2025-26. (Account Head No. 28100123)\
-  [202602111844205410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111844205410.pdf)
-
-- Regarding granting administrative approval to the budget submitted for the construction of a sheet shed on the roof of the Kamgar Bhavan, Bandra building...\
-  [202602091604057310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091604057310.pdf)
-
-- Regarding opening of new account under Swayampurna Maharashtra Residential Roof Top Solar (SMART) Scheme for Below Poverty Line and economically weaker household electricity consumers with consumption less than 100 units.\
-  [202602101643488510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101643488510.pdf)
-
-- Regarding granting administrative and financial approval to the proposal for renovation and upgrading of the auditorium in the Nagpur office building of N.M. Lokhande Maharashtra Labor Science Institute\
-  [202602131505071210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131505071210.pdf)
+- Under the Export Oriented Infrastructure Development Program (Program) scheme, M/s. MKC Agro Fresh Limited, District Bargaon, Post Warud, District Amravati, regarding approval of the second phase of the grant from the State Governments approved participation grant for the project To Set up Export Oriented  Citrus Juice Manufacturing Unit.\
+  [202602161833085510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161833085510.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of nominated/ex-officio members on the Governing Council under District Mineral Foundation, Satara...\
-  [202602111248555910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111248555910.pdf)
+- Regarding payment of interest for the period of delay in receiving post-retirement benefits of Vinay Vasant Nagdev, Superintendent Engineer (Retd)...\
+  [202602161527194910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161527194910.pdf)
 
-- Regarding the appointment of nominated/ex-officio members on the Governing Council under the District Mineral Foundation, Sindhudurg...\
-  [202602111251032010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111251032010.pdf)
+- Regarding the addition of services of Smt. Poonam Darade, Deputy Director of Industries (Technical), Group-A to her previous posts (Corrigendum)\
+  [202602161712416410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161712416410.pdf)
 
-- Regarding declaring the Drawing and Disbursement Officers of the Directorate of Industries and subordinate offices as Virtual Personal Deposit Account Administrators (VPDA) for the speedy disbursement and monitoring of Subsidiary Grants.\
-  [202602111815480010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602111815480010.pdf)
-
-- Government of Maharashtra Delegation visit to Tokyo, Japan to attend SEMICON JAPAN-2025\
-  [202602131708027010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131708027010.pdf)
-
-- Visit of Maharashtra Industrial Development Corporation (MIDC) Representative to Switzerland and Germany between 17th Januarty to 24th January, 2026 (Including travel time)\
-  [202602131704533210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131704533210.pdf)
+- Regarding the formation of a committee to study the GST assessment, levy and collection process on minerals and resolve the errors.\
+  [202602161328381410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161328381410.pdf)
 
 ## Personnel
-- Regarding granting prior permission of the Government to construct new transmission lines to Sakoli Power Transmission Limited under Section 68 of the Electricity Act, 2003.\
-  [202602121112552510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121112552510.pdf)
+- Regarding request/mid-term transfer of Industries Officer (Technical), Group-B cadre officers on the establishment of Directorate of Industries.\
+  [202602161712310610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161712310610.pdf)
+
+- Regarding mid-term transfer of Group-A cadre officers on the establishment of Directorate of Industries on request/special reasons.\
+  [202602161715020710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161715020710.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

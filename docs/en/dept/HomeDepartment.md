@@ -1,64 +1,27 @@
 # Home Department
 
-**Date Range**: 16 February 2026 - 21 February 2026
+**Date Range**: 23 February 2026 - 28 February 2026
 
 
 ## Funds
-- Regarding granting administrative and financial approval to the cost estimate for new electrical connection work for the Vehicle Inspection and Testing Center (I  C Center) of the Regional Transport Office, Solapur.\
-  [202602101437530529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101437530529.pdf)
+- Regarding granting administrative approval to the procurement proposal for the implementation of ICJS 2.0 for the prison...\
+  [202602161842591329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161842591329.pdf)
 
-- Regarding granting administrative and financial approval to the cost estimate for the construction of a protective wall for the Vehicle Inspection and Testing Center (I  C Center) of the Sub-Regional Transport Office, Sangli.\
-  [202602101440353229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101440353229.pdf)
+- Regarding granting administrative approval to the budget for construction of government residences for officers/employees in the prison areas of Amravati, Dhule and Parbhani...\
+  [202602161606325529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161606325529.pdf)
 
-- Regarding the approval of the payment of Rs. 28,77,87,350/- for the work of Milestone 4 of the Pune City CCTV Project Phase-2, carried out by the System Integrator M/s. Allied Digital Services Ltd., Mumbai.\
-  [202602091605371329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091605371329.pdf)
-
-- Regarding granting administrative approval for the expenses incurred for the cleaning, sanitation, and gardening of the State Excise Department Building by M/s. Lokbharati Unemployed Service Institute Ltd., Sewri, Mumbai, for the period from November 1, 2025, to September 30, 2026.\
-  [202602091456174229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091456174229.pdf)
-
-- Regarding granting administrative and financial approval to the cost estimate for the reconstruction of Ambad Bus Stand in the R.P. Jalna Division of the M.S.R.T. Corporation\
-  [202602131234386029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131234386029.pdf)
-
-- Regarding administrative and financial approval of the cost estimate for the reconstruction of Akola-02 depot in R.P. Akola division of M.S.R.T. Corporation\
-  [202602131230299329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131230299329.pdf)
-
-- Regarding administrative and financial approval of the budget for renovation of Tumsar depot and concreting of parking lot in R.P. Bhandara division of M.S.R.T. Corporation\
-  [202602131232226729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131232226729.pdf)
-
-- Regarding payment of the rent of the helicopter taken on hire basis from M/s Pawan Hans Ltd., Mumbai.\
-  [202602131559093329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131559093329.pdf)
-
-- Regarding administrative and financial approval of the cost estimate for the reconstruction of Washim depot in R.P. Akola division of M.S.R.T. Corporation\
-  [202602131236554429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131236554429.pdf)
+- Regarding granting administrative approval to the budget for the construction of sixteen (16) circles with a capacity of 480 prisoners at Latur District Jail...\
+  [202602161605488129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161605488129.pdf)
 
 ## Miscellaneous
-- Regarding the revival of Group-D posts on the establishment of police unit offices within the Maharashtra Police Department for compassionate appointment purposes.\
-  [202602091730088829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091730088829.....pdf)
+- Regarding compensation to the officers/employees of the State Excise Department who died, were injured or were permanently disabled while taking action against illegal liquor sale and transportation, as well as their families.....\
+  [202602161721483529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161721483529.pdf)
 
-- Regarding granting administrative approval to provide paid training to the security personnel of Western Coalfields Limited, Nagpur at the training center of Maharashtra Home Guard.\
-  [202602101150430829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101150430829.pdf)
+- Regarding approval of disbursement of budgetary funds for construction of prisons under the account head 4059 0912 in the monsoon session of the Legislative Assembly for June-2025...\
+  [202602161558431029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161558431029.pdf)
 
-- Regarding the inclusion of candidates declared non- recommended in the revised results of Maharashtra Public Service Commission in the cadre of Police Sub-Inspector for the Police Sub-Inspector (direct recruitment) exam-2016\
-  [202602101710026429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101710026429.pdf)
-
-- Regarding the constitution of a Scrutiny Committee to examine the findings and the short-term and long-term measures recommended in the report submitted by the Inquiry Committee formed to investigate the murder case of the late Shri Santosh Panditrao Deshmukh, Sarpanch of Massajog, Taluka Kej, District Beed.\
-  [202602121216150029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121216150029.pdf)
-
-- Honble Supreme Court- SLP (Cr.) 1554/2025, Constitution of the Committee for the Revision of Guidelines for Early Release.\
-  [202602121445440029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121445440029.pdf)
-
-- Regarding granting administrative and financial approval for purchasing computer sets and printers from GeM portal for computerization in the Motor Vehicles Department.\
-  [202602131850539329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131850539329.pdf)
-
-- Regarding extension of the lease period of the helicopter taken from Pawan Hans Helicopters Limited, Mumbai and increase in the lease rate by 10.\
-  [202602131557067629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131557067629.pdf)
-
-- Regarding approval of the distribution of objective-wise funds under the account head (2055A0319) to the Anti-Narcotics Task Force, Maharashtra State, Pune Office.\
-  [202602131309357029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131309357029.pdf)
-
-## Personnel
-- Regarding the revision of the seniority of Mr. Vijay Piraji Chinchalkar, Deputy Commissioner (Senior Grade).\
-  [202602091457221429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602091457221429.pdf)
+- Regarding approval of the distribution of objective-wise funds under the account head (2055A023) to the Additional Director General of Police, M.R. Cyber, Mumbai Office.\
+  [202602161731129829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161731129829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
