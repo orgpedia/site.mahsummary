@@ -19,5 +19,8 @@
 - Hon. Balasaheb Thackeray regarding the distribution of Rs. 103.40 crores of funds in the year 2025-26 for Agribusiness and Rural Transformation Project....\
   [202602161655376201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161655376201....pdf)
 
+- Regarding the distribution of funds under the scheme Providing training to government employees for technical training under the State Training Policy in the year 2025-26.\
+  [202602171300322701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171300322701.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

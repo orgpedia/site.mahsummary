@@ -7,6 +7,12 @@
 - Under the Export Oriented Infrastructure Development Program (Program) scheme, M/s. MKC Agro Fresh Limited, District Bargaon, Post Warud, District Amravati, regarding approval of the second phase of the grant from the State Governments approved participation grant for the project To Set up Export Oriented  Citrus Juice Manufacturing Unit.\
   [202602161833085510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161833085510.pdf)
 
+- Regarding the distribution of subsidy of Rs.25.00 crore in cash to Mahaurja as State Government share for Scheduled Caste beneficiaries under Pradhan Mantri Kusum Ghatak B Yojana. (Demand No.N-3, Account Head No.28100992)\
+  [202602171443238010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171443238010.pdf)
+
+- Regarding the distribution of Rs.15.00 crore in cash to Mahavitaran Company as State Government share for Scheduled Caste beneficiaries under Pradhan Mantri Kusum Ghatak B Yojana. (Demand No.N-3, Account Head No.28100992)\
+  [202602171445143310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171445143310.pdf)
+
 ## Miscellaneous
 - Regarding payment of interest for the period of delay in receiving post-retirement benefits of Vinay Vasant Nagdev, Superintendent Engineer (Retd)...\
   [202602161527194910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161527194910.pdf)

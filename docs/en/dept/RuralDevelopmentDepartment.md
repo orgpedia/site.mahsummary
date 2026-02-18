@@ -3,6 +3,10 @@
 **Date Range**: 23 February 2026 - 28 February 2026
 
 
+## Funds
+- Regarding distribution of funds for the memorial and womens training center of Gyanjyoti Savitribai Phule in Mauje Naigaon, Taluka Khandala, Dist. Satara.\
+  [202602171205106020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171205106020.pdf)
+
 ## Miscellaneous
 - Regarding change in posting of independent charge of the post of Block Development Officer, Group-A in Combined Probationary Training Programme (CPTP-10)  Shri.Sawant, Probationary Block Development Officer\
   [202602161435582520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161435582520.pdf)

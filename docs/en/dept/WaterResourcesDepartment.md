@@ -19,6 +19,10 @@
 - Administrative Approval Under Special Repairs to Repair work of Essential Mechanical and Electrical Component for dam safety and Easy Gate movement of Gunjarga   Latur Type  Barrage\
   [202602161501474127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161501474127.pdf)
 
+## Miscellaneous
+- Regarding the transfer of the services of Mrs. Sujata Kamlakar Hande, Executive Engineer (Civil Engineering) to the Water Resources Department.\
+  [202602171109039027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171109039027.pdf)
+
 ## Personnel
 - Regarding the posting of an officer in the Executive Engineer (Civil) cadre.\
   [202602161837205727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161837205727.pdf)

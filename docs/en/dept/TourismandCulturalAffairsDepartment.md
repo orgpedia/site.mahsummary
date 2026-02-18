@@ -13,6 +13,9 @@
 - Regarding distribution of remaining funds (Spillover) to the works of the Directorate of Tourism, which have been given administrative approval under the Regional Tourism Development Plan.\
   [202602161609564323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161609564323.pdf)
 
+- Approval to distribute the first installment of funds for the production of documentaries on 50 places of architectural and historical importance in Maharashtra under the Amrit Mahotsav of Independence...\
+  [202602171716314323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171716314323.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the expenses incurred for maintenance and repair of filming locations under Kolhapur Chitranagari Corporation.\
   [202602161541034423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161541034423.....pdf)

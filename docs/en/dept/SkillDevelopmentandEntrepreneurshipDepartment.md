@@ -1,25 +1,18 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 16 February 2026 - 21 February 2026
+**Date Range**: 23 February 2026 - 28 February 2026
 
 
 ## Funds
-- Regarding granting administrative and financial approval for the expenditure incurred for the renovation of the office of Skill Development, Employment and Entrepreneurship Commissionerate, Maharashtra State, Navi Mumbai.\
-  [202602131629553003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602131629553003.pdf)
+- Regarding administrative approval of the budget for the construction and renovation of the building and hostel of Sarsenapati Hambirrao Baji Mohite Government Industrial Training Institute, Karad District, Satara...\
+  [202602161346591003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161346591003.....pdf)
 
-## Miscellaneous
-- Regarding approval to start business courses on a permanent non-subsidized basis for new institutions and more batches of 2 level dual business courses from the year 2025-26.\
-  [202602101338474003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602101338474003.pdf)
-
-- Regarding school/institution-wise approval of new vocational courses converted to the National Skill Qualification Framework instead of the old dual vocational courses in government, non-government aided and non-government permanent unaided institutions implementing dual vocational courses at 2 level in the state.\
-  [202602121812467403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121812467403.pdf)
-
-- Regarding school/institution-wise approval of new vocational courses converted to the National Skill Qualification Framework instead of the old dual vocational courses in government, non-government aided and non-government permanent unaided institutions implementing dual vocational courses at 2 level in the state.\
-  [202602121803412403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121803412403.pdf)
+- Regarding granting administrative approval for the training program of officers and employees in industrial training institutions under the Directorate of Vocational Education and Training.\
+  [202602161653338003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161653338003.pdf)
 
 ## Personnel
-- Provisional seniority list of officers in the cadre of Assistant Director (Senior) or Deputy Secretary, Maharashtra State Board of Skill, Vocational Education and Training, Mumbai, Group-A (Technical) (Gazetted), Maharashtra Education Service (Pay Scale S-18: 49100-155800/-) up to 01/01/2026.\
-  [202602121126157403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602121126157403.pdf)
+- Regarding the transfer of Mrs. P.P. Chavan, District Vocational Education and Training Officer, Pune on administrative grounds.\
+  [202602171514098703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171514098703.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

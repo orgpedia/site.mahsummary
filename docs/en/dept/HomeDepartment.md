@@ -13,6 +13,9 @@
 - Regarding granting administrative approval to the budget for the construction of sixteen (16) circles with a capacity of 480 prisoners at Latur District Jail...\
   [202602161605488129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161605488129.pdf)
 
+- Regarding payment of the difference in interest on loans taken through banks under the Housing Advance Scheme to the police.\
+  [202602171708399029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171708399029.pdf)
+
 ## Miscellaneous
 - Regarding compensation to the officers/employees of the State Excise Department who died, were injured or were permanently disabled while taking action against illegal liquor sale and transportation, as well as their families.....\
   [202602161721483529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161721483529.pdf)
@@ -22,6 +25,10 @@
 
 - Regarding approval of the distribution of objective-wise funds under the account head (2055A023) to the Additional Director General of Police, M.R. Cyber, Mumbai Office.\
   [202602161731129829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161731129829.pdf)
+
+## Personnel
+- Regarding transfers/ postings of State Police Service officers.\
+  [202602171758160029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171758160029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
