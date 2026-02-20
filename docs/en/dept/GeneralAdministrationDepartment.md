@@ -13,6 +13,9 @@
 - Scheme for honouring/deserving honour to persons who were imprisoned during the Emergency... Regarding payment of arrears of honorarium as per the decision of Writ Petition No. 12566/2025 filed in the Honble High Court, Bombay Bench, Aurangabad......\
   [202602171537263007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171537263007.pdf)
 
+- Demand No. A-6 (Mandatory/Voted) Main Head of Account 2220- Information and Publicity Redistribution/Reappropriation of Provisions in the Year 2025-26.\
+  [202602181213536107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181213536107.pdf)
+
 ## Miscellaneous
 - Regarding distribution of grant to Yashda, Pune for the financial year 2025-26 for the Integrated Probationary Training Program. (Salary 3rd installment)\
   [202602161720382407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161720382407.pdf)
@@ -37,6 +40,15 @@
 
 - Demand No. A-4 (Mandatory) Redistribution of provision under the main account head 2070- Other Administrative Services for the year 2025-26.\
   [202602171557594007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171557594007.pdf)
+
+- Regarding the formation of a review committee for the Excellence in Journalism Award, 2024.\
+  [202602181455338107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181455338107.pdf)
+
+- Regarding the monthly telephone system maintenance work report.\
+  [202602181534195107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181534195107.pdf)
+
+- Regarding the service of Shri. Ravindra Pandurang Raut, Senior Assistant Director (Information) in the Directorate General of Information and Public Relations as Assistant Director (Information) (Group-B) to be added to his service as District Information Officer/ Senior Assistant Director/ Senior Deputy Editor/ Public Relations Officer-(Group-A) for the purpose of retirement gratuity only....\
+  [202602181733046907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181733046907.pdf)
 
 ## Personnel
 - Indian Administrative Service - Constitution of Civil Services Board for recommending posting/transfer regarding...\

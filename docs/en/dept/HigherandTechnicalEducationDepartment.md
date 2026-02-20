@@ -20,5 +20,18 @@
 - Regarding continuation of appointment of Head of Department in Government Technical College after completion of probationary period.\
   [202602171502231808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171502231808.pdf)
 
+- Regarding the formation of a Project Implementation Unit for the Prime Ministers Higher Education Mission (PM-USHA) under the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA).\
+  [202602181617232008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181617232008.pdf)
+
+- Corrigendum to G.R. dated 03.06.2022 for implementation of the Career Advancement Scheme (CAS).\
+  [202602181227177508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181227177508.pdf)
+
+## Personnel
+- Regarding granting benefits under Career Advancement Scheme (CAS) to teachers who joined government service after 01.01.1996 and before 27.02.2003 in government and non-government aided institutions under the Directorate of Technical Education.\
+  [202602181223300808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181223300808.pdf)
+
+- Regarding granting benefits under Career Advancement Scheme-CAS to teachers regularized from contractual/seasonal/temporary service in government/non-government aided institutions under the Directorate of Technical Education.\
+  [202602181221120808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181221120808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

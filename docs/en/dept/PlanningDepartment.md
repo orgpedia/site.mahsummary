@@ -7,6 +7,9 @@
 - Regarding the distribution of funds for the financial year 2025-2026 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune. (Step-9)\
   [202602161827243816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161827243816.pdf)
 
+- Regarding the establishment of a State Level Coordination Committee (SLCC) for coordination of statistical work and monitoring of centrally sponsored infrastructure projects.\
+  [202602181210573316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181210573316.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of Shri. Vikas V. Kulkarni in the final seniority list dated 01/01/2022 and dated 01/01/2023 of the Joint Director, Group-A cadre in the Directorate of Finance and Statistics.......\
   [202602171048510816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171048510816.pdf)

@@ -31,6 +31,9 @@
 - Regarding distribution of funds to Municipal Councils under the Special scheme. For the year 2023-24, under the account head (4217 0603) for Hadgaon Municipal Council, Dist. Nanded, an amount of Rs. 2.40 crore (Corrigendum)\
   [202602171744578425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171744578425.pdf)
 
+- Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Head of Account (4217 0603) For Buldhana Municipal Council, Dist. Buldhana Amount Rs.18.750 crores For Motala Nagar Panchayat, Dist. Buldhana Amount Rs. 1.8250 crores Total amount Rs.20.00 crores (Corrigendum)\
+  [202602181234353725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181234353725.pdf)
+
 ## Miscellaneous
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2025-26 (under Account Head (2217 0913) Chhatrapati Sambhajinagar Municipal Corporation, Dist. Chhatrapati Sambhajinagar Amount Rs. 4.60 crore (Corrigendum)\
   [202602161653171225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161653171225.pdf)

@@ -26,6 +26,9 @@
 - Regarding approval of the distribution of objective-wise funds under the account head (2055A023) to the Additional Director General of Police, M.R. Cyber, Mumbai Office.\
   [202602161731129829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161731129829.pdf)
 
+- Regarding extension of time to Mr. KPMG Company appointed as consultant for implementing e-challan project in the state.....\
+  [202602181741524029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181741524029.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of State Police Service officers.\
   [202602171758160029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171758160029.pdf)

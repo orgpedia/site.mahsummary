@@ -14,5 +14,8 @@
 - Regarding the transfer of Mrs. P.P. Chavan, District Vocational Education and Training Officer, Pune on administrative grounds.\
   [202602171514098703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171514098703.pdf)
 
+- Regarding amendments in the structure of the Governing Council of the Maharashtra State Innovation Society.\
+  [202602181715529903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181715529903.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

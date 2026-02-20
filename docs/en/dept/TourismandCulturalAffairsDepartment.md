@@ -16,6 +16,12 @@
 - Approval to distribute the first installment of funds for the production of documentaries on 50 places of architectural and historical importance in Maharashtra under the Amrit Mahotsav of Independence...\
   [202602171716314323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171716314323.pdf)
 
+- Regarding the inauguration program of Rajarshi Chhatrapati Shahu Maharaj Birthplace Museum, Lakshmi Vilas Palace, Kolhapur and approval of the expenditure on it...\
+  [202602181812309323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181812309323.pdf)
+
+- Regarding giving awards to deserving individuals/organizations promoting Modi script and Persian script in the state....\
+  [202602181832116323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181832116323.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for the expenses incurred for maintenance and repair of filming locations under Kolhapur Chitranagari Corporation.\
   [202602161541034423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161541034423.....pdf)

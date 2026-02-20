@@ -22,5 +22,8 @@
 - Regarding the distribution of funds under the scheme Providing training to government employees for technical training under the State Training Policy in the year 2025-26.\
   [202602171300322701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171300322701.pdf)
 
+- Regarding the disbursement of funds to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli for the financial year 2025-26 under the heading of Account (2415 1012), 04 Pension related expenses...\
+  [202602181540447301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181540447301.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

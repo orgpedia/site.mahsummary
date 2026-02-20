@@ -13,6 +13,9 @@
 - Regarding the distribution of Rs.15.00 crore in cash to Mahavitaran Company as State Government share for Scheduled Caste beneficiaries under Pradhan Mantri Kusum Ghatak B Yojana. (Demand No.N-3, Account Head No.28100992)\
   [202602171445143310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171445143310.pdf)
 
+- Regarding the creation of the website and dashboard of the Mining Division, completion of the targets given under e-governance and appointment of consultants to carry out the works mentioned in the Scope of Work of the Mining Division.\
+  [202602181502443610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181502443610.pdf)
+
 ## Miscellaneous
 - Regarding payment of interest for the period of delay in receiving post-retirement benefits of Vinay Vasant Nagdev, Superintendent Engineer (Retd)...\
   [202602161527194910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161527194910.pdf)
@@ -22,6 +25,9 @@
 
 - Regarding the formation of a committee to study the GST assessment, levy and collection process on minerals and resolve the errors.\
   [202602161328381410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161328381410.pdf)
+
+- Regarding opening of expenditure account for spending the incentive amount received from the Central Government under the Special Assistance Scheme for Capital Investment to States 2025-26.\
+  [202602181505033910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181505033910.pdf)
 
 ## Personnel
 - Regarding request/mid-term transfer of Industries Officer (Technical), Group-B cadre officers on the establishment of Directorate of Industries.\

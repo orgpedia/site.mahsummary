@@ -23,5 +23,9 @@
 - To supervise the Regional Office, Commission and Corporation and Childrens Aid Society etc. Office under the jurisdiction of the Women and Child Development Department.\
   [202602171200288630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171200288630.pdf)
 
+## Personnel
+- Regarding partial changes in the transfer order of Group-B (Gazetted) cadre officers in regional establishments under the Women and Child Development Department.\
+  [202602181754162830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181754162830.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

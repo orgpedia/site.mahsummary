@@ -10,6 +10,18 @@
 - Regarding sanction of financial assistance to Scheduled Caste Cooperative Societies under this scheme... Bharat Ratna Dr. Babasaheb Ambedkar Backward Classes Industrial Producers Cooperative Society Limited, Harsul, Taluka Chhatrapati Sambhajinagar\
   [202602171825515622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171825515622.pdf)
 
+- Regarding sanction of long term loan to Priyadarshini Scheduled Caste Cooperative Spinning Mills Limited, Latur under the scheme of Financial Assistance to Scheduled Caste Cooperative Spinning Mills.\
+  [202602181823181222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181823181222.pdf)
+
+- Bharat Ratna Dr. Regarding granting administrative approval for the expenditure incurred for developing Chavdar Lake and its surrounding area at Mahad under the development of cultural and historical sites on the occasion of the 125th birth anniversary of Babasaheb Ambedkar.\
+  [202602181712498422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181712498422.pdf)
+
+- Regarding granting administrative approval to the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Samudrapur, Taluka Samudrapur, District Wardha.Regarding granting administrative approval to the budget for the construction of Dr. Babasaheb Ambedkar Government Hostel for Backward Class Children, Pathardi, Dist. Ahilyanagar.\
+  [202602181714557822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181714557822.pdf)
+
+- Regarding the distribution of funds for the Chief Ministers My Dear Sister Scheme in the financial year 2025-26. (Account Head 2235D767)\
+  [202602181708586822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181708586822.pdf)
+
 ## Miscellaneous
 - Regarding the scheme of providing paper stalls to Group E workers and amending the norms by expanding the scope of this scheme. (Corrigendum)\
   [202602161151465622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161151465622.pdf)
@@ -22,6 +34,10 @@
 
 - Regarding the cancellation of the government decision and government circular regarding the issuance of caste certificate and validity certificate to the Muslim community belonging to the Special Backward Category (A) in the state....\
   [202602171636127222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171636127222.pdf)
+
+## Personnel
+- Maharashtra State Scheduled Castes Commission Act, 2025 (Maharashtra Act No. 37 of 2025) came into force from 12th September, 2025, thereby abolishing the Maharashtra State Scheduled Castes and Tribes Commission and taking action accordingly.\
+  [202602181712328422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181712328422.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

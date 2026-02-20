@@ -36,5 +36,14 @@
 - Regarding the posting of an officer in the Executive Engineer (Civil) cadre.\
   [202602161835026527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161835026527.pdf)
 
+- Regarding temporary promotion to the post of Sub-Divisional Engineer (Civil Engineering) from the lower cadre of Assistant Engineer Grade-2 (Civil Engineering). (Selection list for the year 2024-25)\
+  [202602181840331927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181840331927.pdf)
+
+- Regarding temporary promotion to the post of Sub-Divisional Officer (Civil Engineering) from the lower cadre of Junior Engineer (Branch Engineer) (Civil Engineering).. (Selection list for the year 2024-25)\
+  [202602181845447927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181845447927.pdf)
+
+- Transfer in the cadre of Deputy Engineer (Civil/Mechanical/Electrical).\
+  [202602182032599727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602182032599727.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
