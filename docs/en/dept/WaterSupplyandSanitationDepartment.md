@@ -19,6 +19,10 @@
 - Revised Administrative approval to Mau. Bankhor, Tal. Lanja, Dist. Ratnagiri water supply scheme Under JJM.\
   [202602171050524328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171050524328.pdf)
 
+## Miscellaneous
+- Regarding the delegation of powers to the Divisional Commissioner level for granting Revised Administrative Approval (RAA) to schemes under the Jal Jeevan Mission program.\
+  [202602201749378928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201749378928.pdf)
+
 ## Personnel
 - Revised Administrative approval to Mau. Vilye Shengalewadi, Tal. Rajapur, Dist. Ratnagiri water supply scheme Under JJM.\
   [202602171051068228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171051068228.pdf)

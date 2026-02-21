@@ -16,6 +16,12 @@
 - Regarding payment of the difference in interest on loans taken through banks under the Housing Advance Scheme to the police.\
   [202602171708399029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171708399029.pdf)
 
+- Regarding the distribution of a fund of Rs. 100 crore to Maharashtra State Road Transport Corporation for reimbursement of concessional fare\
+  [202602201921441929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201921441929.pdf)
+
+- Regarding granting administrative approval for the construction of the administrative building of the office of Inspector, State Excise, Khed Division, District Pune.\
+  [202602201446516629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201446516629.pdf)
+
 ## Miscellaneous
 - Regarding compensation to the officers/employees of the State Excise Department who died, were injured or were permanently disabled while taking action against illegal liquor sale and transportation, as well as their families.....\
   [202602161721483529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161721483529.pdf)
@@ -29,9 +35,18 @@
 - Regarding extension of time to Mr. KPMG Company appointed as consultant for implementing e-challan project in the state.....\
   [202602181741524029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181741524029.pdf)
 
+- Regarding granting administrative approval for the internal repair expenses of the administrative building of the office of Superintendent, State Excise, District Beed....\
+  [202602201446303829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201446303829.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of State Police Service officers.\
   [202602171758160029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171758160029.pdf)
+
+- Request for transfer in the cadre of Motor Vehicle Inspector.\
+  [202602201803589929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201803589929.pdf)
+
+- Honble Maharashtra Administrative Tribunal, Mumbai regarding transfer as per the judgment in original application No. 876/2024 and contempt petition No. 35/2025.\
+  [202602201751251329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201751251329.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Regarding approval to undertake the Bhandara Gadchiroli Access Controlled Expressway Project through the Corporation, approval for the design and administrative approval for land acquisition.\
   [202602181829505718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181829505718.pdf)
 
+- Approval to undertake Nagpur-Chandrapur Access Controlled Expressway Project through Maharashtra State Road Development Corporation, approval for revised design and administrative approval for land acquisition.\
+  [202602201151284618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201151284618.pdf)
+
 ## Miscellaneous
 - Regarding merging the previous service of Water Resources Department with the service of Public Works Department... Shri. Amol Annasaheb Pawar, Executive Engineer.\
   [202602161528149518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161528149518.pdf)

@@ -50,6 +50,9 @@
 - Regarding the service of Shri. Ravindra Pandurang Raut, Senior Assistant Director (Information) in the Directorate General of Information and Public Relations as Assistant Director (Information) (Group-B) to be added to his service as District Information Officer/ Senior Assistant Director/ Senior Deputy Editor/ Public Relations Officer-(Group-A) for the purpose of retirement gratuity only....\
   [202602181733046907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181733046907.pdf)
 
+- Appointment on Deputation :- Shri. Devappa A. Gavade, Joint Secretary\
+  [202602201816314707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201816314707.pdf)
+
 ## Personnel
 - Indian Administrative Service - Constitution of Civil Services Board for recommending posting/transfer regarding...\
   [202602161517176807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161517176807.pdf)

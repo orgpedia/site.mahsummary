@@ -25,5 +25,11 @@
 - To release grant for the scheme of Implementation of Shabari Adivasi Gharkul Yojana in Urban Areas (State Scheme)(Scheme). (CRC 2225 G036)\
   [202602171050027524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171050027524.pdf)
 
+- Regarding the distribution of funds for the scheme of guidance for engineering and medical entrance examinations to Scheduled Tribe students after 10th standard for a period of two years with the help of a renowned private training institute. (Head of Account 2225 D 387) (Chapter No. 31, Subsidiary Grants)\
+  [202602201542555724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201542555724.pdf)
+
+- Regarding distribution of funds under the Government Hostel Scheme for the financial year 2025-26 under the Tribal Component Programme. Account Head 2225 D 725 Item No. 21- Supplies and Materials.\
+  [202602201539544724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201539544724.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

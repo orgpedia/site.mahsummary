@@ -88,5 +88,11 @@
 - Regarding the transfer of Mr. Manisha Vasantrao Vanmore, Member, District Consumer Grievance Redressal Commission, Sangli.\
   [202602181742055506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181742055506.pdf)
 
+- Regarding the transfer of Shri. Rupali Dhairyashil Ghatge, Member, District Consumer Grievance Redressal Commission, Kolhapur.\
+  [202602201746118906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201746118906.pdf)
+
+- Regarding the additional work assigned to Mr. Sanjay Masand, Member, District Consumer Grievance Redressal Commission, Wardha.\
+  [202602201747415206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201747415206.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
