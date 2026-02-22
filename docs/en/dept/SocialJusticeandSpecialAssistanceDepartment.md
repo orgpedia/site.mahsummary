@@ -22,6 +22,21 @@
 - Regarding the distribution of funds for the Chief Ministers My Dear Sister Scheme in the financial year 2025-26. (Account Head 2235D767)\
   [202602181708586822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181708586822.pdf)
 
+- Bharat Ratna Dr. Regarding approval of works in Jalna district for the year 2025-26 under Babasaheb Ambedkar Social Development Scheme.\
+  [202602201817433522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201817433522.pdf)
+
+- Bharat Ratna Dr. Regarding approval of works in Solapur district for the year 2025-26 under Babasaheb Ambedkar Social Development Scheme.\
+  [202602201849042322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201849042322.pdf)
+
+- Regarding granting administrative approval to the budget for the construction of the hostel building of Government Hostel for Backward Class Children, Chimur, District Chandrapur.\
+  [202602201905158022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201905158022.pdf)
+
+- Regarding granting administrative approval to the budget for the construction of Government Hostel Building No. 2 and 3, Government Hostel Unit No. 2 and 3 for Backward Class Children at the Divisional Level in Nagpur.\
+  [202602201855252822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201855252822.pdf)
+
+- Regarding administrative approval of the budget for the construction of Government Hostel for Backward Class Children, Bhivkund, Tal. Ballarpur, Dist. Chandrapur.\
+  [202602201908136422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201908136422.pdf)
+
 ## Miscellaneous
 - Regarding the scheme of providing paper stalls to Group E workers and amending the norms by expanding the scope of this scheme. (Corrigendum)\
   [202602161151465622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161151465622.pdf)
@@ -38,6 +53,9 @@
 ## Personnel
 - Maharashtra State Scheduled Castes Commission Act, 2025 (Maharashtra Act No. 37 of 2025) came into force from 12th September, 2025, thereby abolishing the Maharashtra State Scheduled Castes and Tribes Commission and taking action accordingly.\
   [202602181712328422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181712328422.pdf)
+
+- Approval to open a separate drawing account with the Reserve Bank of India under the Atal Vayo Abhyudaya Yojana.\
+  [202602201441398022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602201441398022.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
