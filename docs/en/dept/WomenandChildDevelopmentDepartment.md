@@ -10,6 +10,9 @@
 - Regarding the distribution of funds for paying salaries of officers/employees working under the Integrated Child Development Service Scheme for the financial year 2025-26.\
   [202602231636240930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231636240930.pdf)
 
+- Regarding the disbursement of funds received under the account head 2235-3032 for the year 2025-26.\
+  [202602241614557630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241614557630.pdf)
+
 ## Miscellaneous
 - Regarding approval to include district level offices in the District Level Women and Child Development Building and Divisional level offices in the Divisional Level Women and Child Development Building.\
   [202602231649086430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231649086430.pdf)

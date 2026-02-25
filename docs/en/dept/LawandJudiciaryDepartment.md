@@ -14,5 +14,8 @@
 - Instructions for dealing with notices under Section 80 of the Code of Civil Procedure, 1908.\
   [202602231200569212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231200569212.pdf)
 
+- Reg. Delegation of powers to distribute grants to regional offices in the Charity Organization, to the Charity Commissioner, Maharashtra State, Mumbai\
+  [202602241602184512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241602184512.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

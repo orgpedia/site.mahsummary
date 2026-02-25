@@ -16,5 +16,8 @@
 - Temporary Appointment by nomination On the Post of Junior Geologist (Gr. B) of Ground Water Survey and Development Agency\
   [202602231144492728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231144492728.pdf)
 
+- Temporary Appointment by nomination On the Post of Senior Geologist (Gr. A) of Ground Water Survey and Development Agency\
+  [202602231144547128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231144547128.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

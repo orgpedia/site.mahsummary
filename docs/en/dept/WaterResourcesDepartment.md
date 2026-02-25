@@ -1,49 +1,11 @@
 # Water Resources Department
 
-**Date Range**: 23 February 2026 - 28 February 2026
+**Date Range**: 02 March 2026 - 07 March 2026
 
-
-## Funds
-- Administrative approval for special repair work of mechanical and electrical components required for safety and smooth operation of Madansuri Latur system barrage dam\
-  [202602161457234727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161457234727.pdf)
-
-- Administrative approval for special repair work of mechanical and electrical components required for safety and smooth operation of Wanjarkheda High Level Dam\
-  [202602161453267827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161453267827.pdf)
-
-- Administrative Approval Under Special Repairs to Repair work of Essential Mechanical and Electrical Component for dam safety and Easy Gate movement of Ghansargaon K.T. Weir\
-  [202602161453461327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161453461327.pdf)
-
-- Regarding granting administrative approval to the proposal for the budget for the work of flood protection wall along the Warna river at Bhedasgaon, Taluka Shirala, Dist. Sangli.\
-  [202602161432117827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161432117827.pdf)
-
-- Administrative Approval Under Special Repairs to Repair work of Essential Mechanical and Electrical Component for dam safety and Easy Gate movement of Gunjarga   Latur Type  Barrage\
-  [202602161501474127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161501474127.pdf)
 
 ## Miscellaneous
-- Regarding the transfer of the services of Mrs. Sujata Kamlakar Hande, Executive Engineer (Civil Engineering) to the Water Resources Department.\
-  [202602171109039027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602171109039027.pdf)
-
-## Personnel
-- Regarding the posting of an officer in the Executive Engineer (Civil) cadre.\
-  [202602161837205727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161837205727.pdf)
-
-- Administrative approval for special repair work of mechanical and electrical components required for dam safety and smooth gate operation of Karsa Pohregaon High Level Dam\
-  [202602161459002127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161459002127.pdf)
-
-- Regarding the posting of an officer in the Executive Engineer (Mechanical) cadre.\
-  [202602161838516627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161838516627.pdf)
-
-- Regarding the posting of an officer in the Executive Engineer (Civil) cadre.\
-  [202602161835026527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602161835026527.pdf)
-
-- Regarding temporary promotion to the post of Sub-Divisional Engineer (Civil Engineering) from the lower cadre of Assistant Engineer Grade-2 (Civil Engineering). (Selection list for the year 2024-25)\
-  [202602181840331927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181840331927.pdf)
-
-- Regarding temporary promotion to the post of Sub-Divisional Officer (Civil Engineering) from the lower cadre of Junior Engineer (Branch Engineer) (Civil Engineering).. (Selection list for the year 2024-25)\
-  [202602181845447927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602181845447927.pdf)
-
-- Transfer in the cadre of Deputy Engineer (Civil/Mechanical/Electrical).\
-  [202602182032599727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602182032599727.pdf)
+- To prepare guidelines and plan designs regarding the concept of lift irrigation scheme.\
+  [202602241504091827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241504091827.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
