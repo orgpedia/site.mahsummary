@@ -24,5 +24,8 @@
 - Provisional seniority list showing the status of Special Superintendent, Class-2 cadre in Public Works Department as on 01.01.2023, 01.01.2024, 01.01.2025 and 01.01.2026.\
   [202602241215531618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241215531618.pdf)
 
+- Regarding extension of tenure of the majority of posts created for employees working under the office of Chief Engineer, Public Works Regional Department, Chhatrapati Sambhaji Nagar.\
+  [202602271733420118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271733420118.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

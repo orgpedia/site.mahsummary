@@ -10,5 +10,12 @@
 - Regarding granting administrative approval to establish a study center to collect information and conduct research on four forts in Sindhudurg district...\
   [202602241701390123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241701390123.pdf)
 
+- Granting administrative and financial approval for the organization of 5th Devagiri National Short Film Festival-2026 through the organization M.Ajantha Film Society, Jalgaon.\
+  [202602261528320623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261528320623.pdf)
+
+## Miscellaneous
+- Regarding granting post-action administrative approval for the expenditure of Rs. 29,80,875/- incurred for the programs Painting Competition and Chitramay Darshan organized on the occasion of Service Fortnight.\
+  [202602271740553623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271740553623.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

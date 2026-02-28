@@ -31,9 +31,61 @@
 - Regarding the distribution of funds of Rs. 60,00,00,000/- for the additional state share (100) for the Scheduled Tribe category under the Tribal Department for the financial year 2025-26 under the Pradhan Mantri Awas Yojana-Gramin.\
   [202602241459383820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241459383820.pdf)
 
+- Regarding the distribution of grants for the year 2023-2024 under  New National Biogas and Organic Manure Management Programme\
+  [202602271209128620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271209128620.pdf)
+
+- Granting administrative approval to the development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Category) at Shri Kshetra Shukleshwar Devasthan, Mouje Shuklatirth Limgaon, Taluka Majalgaon, District Beed.\
+  [202602251437043220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251437043220.pdf)
+
+- Regarding granting administrative approval for the construction of a new administrative building at Panchayat Samiti, Mandangad (Ratnagiri District)....\
+  [202602251526300920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251526300920.pdf)
+
+- Regarding disbursement of funds for capacity building, training, IEC and publicity under the Mukhyamantri Samriddhi Panchayat Raj Abhiyan from the Budget Grant 2025-26\
+  [202602271424408420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271424408420.pdf)
+
+- Granting administrative approval to the development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Category) at Shri Sant Narayan Baba Devasthan, Wangi, Tal. Majalgaon, Dist. Beed.\
+  [202602251437062920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251437062920.pdf)
+
+- Regarding the distribution of funds of Rs. 15,00,00,000/- for the additional state share (100) for the Scheduled Caste category under the Social Justice and Special Assistance Department for the financial year 2025-26 under the Pradhan Mantri Awas Yojana-Gramin.\
+  [202602271816376520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271816376520.pdf)
+
 ## Miscellaneous
 - Regarding the nomination of a member in the District Development Coordination and Monitoring Committee (DISHA).\
   [202602241647176120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241647176120.pdf)
+
+- Under the Mukhyamantri Gram Sadak Yojana Phase-2 (Batch-1) Research and Development restructuring of administratively approved packages in Chhatrapati Sambhajinagar district.\
+  [202602231207019320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231207019320.pdf)
+
+- Regarding inclusion of non-planned/unclassified roads in Jamkhed taluka of Ahilyanagar district as rural roads in Road Development Plan 2001-21.\
+  [202602261247169420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261247169420.pdf)
+
+- Regarding the distribution of government subsidy share for the salaries of Gram Panchayat employees, honorarium of Sarpanch, Upasarpanch and member meeting allowance as well as Gram Panchayat Employees Provident Fund for the financial year 2025-26.\
+  [202602241714028420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241714028420.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Asian Development Bank (ADB) from savings Loan No. 4097 (Batch-2) Regarding granting administrative approval for the work of Bridge cum Bandhara in Hingoli district of Chhatrapati Sambhajinagar division......\
+  [202602251526117420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251526117420.pdf)
+
+- Administrative Approval for the Construction work of new administrative building at Panchayat Samiti, Khed (Ratnagiri District.\
+  [202602231131459520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231131459520.pdf)
+
+- Regarding inclusion of non-planned/unclassified roads in Dharashiv taluka of Dharashiv district as rural roads in Road Development Plan 2001-21.\
+  [202602271452427420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271452427420.pdf)
+
+- Actuarial tables for the payment of savings fund benefits under the Group Insurance Scheme implemented for Zilla Parishad employees - Year 2026.\
+  [202602241630164920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241630164920.pdf)
+
+- State-level consolidated revised final seniority list dated 01.01.2023 and final seniority list dated 01.01.2024 as well as corrigendum to the final seniority list dated 01.01.2025 for Assistant Accounts Officers in District Technical Service, Class-3 (Accounts) cadre in Zilla Parishad.\
+  [202602261553111720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261553111720.pdf)
+
+- Regarding inclusion of non-planned/unclassified roads in Karad taluka of Satara district as rural roads in Road Development Plan 2001-21.\
+  [202602271452448120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271452448120.pdf)
+
+- Administrative Approval for the Construction work of new administrative building at Panchayat Samiti, Dapoli (Ratnagiri District.\
+  [202602231131522420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231131522420.pdf)
+
+## Personnel
+- Regarding the formation of a committee to update the policy on commercial development of land owned/occupied by local self-government bodies such as Zilla Parishad, Panchayat Samiti and Gram Panchayat through privatization (BOT).\
+  [202602241244123820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241244123820.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

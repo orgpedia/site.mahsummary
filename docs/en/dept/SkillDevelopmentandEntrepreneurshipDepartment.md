@@ -3,6 +3,10 @@
 **Date Range**: 02 March 2026 - 07 March 2026
 
 
+## Funds
+- Regarding granting administrative approval to the budget for the construction of a boys hostel building with a capacity of 300 trainees in the premises of the Government Industrial Training Institute, Nanded...\
+  [202602261442270003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261442270003....pdf)
+
 ## Miscellaneous
 - Regarding administrative approval of the budget for the construction of the main building of Elphinstone Technical School under the heritage building (Phase-2).....\
   [202602241758340703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241758340703.pdf)
