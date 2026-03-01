@@ -19,6 +19,9 @@
 - Regarding the distribution of grants to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli for the financial year 2025-26, 31, Auxiliary Grants (Non-Salary)... (Program)...\
   [202602251729269201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251729269201.pdf)
 
+- Administrative Approval- Regarding granting new administrative approval by superseding the original administrative approval given to the strengthening of the Pulses Research Quality Center at Vasantrao Naik Marathwada Agricultural University, Parbhani, Badnapur, Taluka Badnapur, District Jalna...\
+  [202602281524373201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281524373201.pdf)
+
 ## Miscellaneous
 - Regarding approval of fund change for Citrus Estate Umarkhed, Tal. Morshi, Dist. Amravati.\
   [202602241718447001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241718447001.pdf)
@@ -34,6 +37,9 @@
 
 - Regarding granting administrative approval to the budget of Rs. 1,94,97,000/- for the construction of a protective wall on the area of Taluka Seed Multiplication Center, Mahud, Taluka Sangola, District Solapur. (Government Corrigendum)\
   [202602251221491201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251221491201.pdf)
+
+- Regarding the working hours of all Veterinary clinics, Taluka veterinary clinics, District veterinary clinics and Mobile clinics.\
+  [202602281754285501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281754285501.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

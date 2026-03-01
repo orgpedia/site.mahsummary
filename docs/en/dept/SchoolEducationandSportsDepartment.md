@@ -28,6 +28,12 @@
 - Regarding making available the amount of Google API service taken for the RTE 25 percent admission process for the academic year 2025-26.\
   [202602271612334321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271612334321.pdf)
 
+- Regarding approval of the budget of Rs. 7513.00 lakh for additional sports facilities (Phase-3) on 80,000 sq.m. land at Mouje Katfal under District Sports Complex, Baramati.\
+  [202602281632379421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281632379421.pdf)
+
+- Regarding honoring medal-winning athletes and their mentors from Maharashtra state in international and national competitions with cash prizes.\
+  [202602281711172821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281711172821.pdf)
+
 ## Miscellaneous
 - Empowerment and upgradation of primary schools of local bodies as per National Education Policy, 2020\
   [202602261630012721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261630012721.pdf)
@@ -37,6 +43,9 @@
 
 - Regarding granting administrative approval for the work of furnishing the sports academy, boys and girls hostels and the cafeteria of the sports academy and the hostel cafeteria of the sports academy at Shiv Chhatrapati Sports Complex Mahalunge-Balewadi, Pune.\
   [202602261541296821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261541296821.pdf)
+
+- Final service seniority list showing the status of District Sports Officer, Group-A cadre officers in the Directorate of Sports and Youth Affairs for the period from 1/1/2019 to 1/1/2025...\
+  [202602281714024321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281714024321.pdf)
 
 ## Personnel
 - Late Yashwantdada Kangane Educational Institution Khorwad Tal. Mantha Dist. Jalna operated Sahyadri International School (Marathi-medium) Group No. 140 Sirswadi Tal. Dist. Jalna regarding the relocation of the school to Survey No. 482 Jangade petrol pump, Ambad Chauphuli, Jalna Dist. Jalna.\

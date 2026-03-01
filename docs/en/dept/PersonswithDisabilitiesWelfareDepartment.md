@@ -28,5 +28,9 @@
 - Regarding distribution of non-salary funds as subsidiary grants to non-governmental organizations working in the mentally retarded category. Shankar Maharaj Sevabhav Sanstha Tembhurni Sanchalit Residential Mentally Retarded School, Chandgaon Road, Pathardi, Ahilyanagar\
   [202602241444025435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241444025435.pdf)
 
+## Personnel
+- Financial assistance to persons with disabilities to acquire toolkits for self-employment\
+  [202602281328039535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281328039535....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

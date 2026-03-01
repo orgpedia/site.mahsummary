@@ -10,6 +10,9 @@
 - Regarding fixing criteria for setting up by-product processing projects on BOT (Built Operate Transfer) / BOOT (Built Own Operate Transfer) basis to bring about efficiency in the financial condition of cooperative sugar factories in the state.\
   [202602261135503602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261135503602.pdf)
 
+- Regarding administrative approval of the budget for construction of a new Shetkari Bhavan at Agricultural Produce Market Committee, Islapur, Taluka Kinwat, District Nanded.\
+  [202602281541343402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281541343402.pdf)
+
 ## Miscellaneous
 - Regarding prescribing criteria for notification of Cooperative Housing Societies under Section 154B 28 of the Maharashtra Cooperative Societies Act, 1960.\
   [202602271535271102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271535271102.pdf)

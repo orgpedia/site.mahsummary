@@ -49,6 +49,9 @@
 - Regarding the distribution of funds of Rs. 15,00,00,000/- for the additional state share (100) for the Scheduled Caste category under the Social Justice and Special Assistance Department for the financial year 2025-26 under the Pradhan Mantri Awas Yojana-Gramin.\
   [202602271816376520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271816376520.pdf)
 
+- Regarding the distribution of funds amounting to Rs. 696,71,80,000/- and State equivalent share amounting to Rs. 464,47,86,668/- in the financial year 2025-26 under the Pradhan Mantri Awas Yojana (Rural) (General) component, including the administrative fund of the Central Government.\
+  [202602281635594320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281635594320.pdf)
+
 ## Miscellaneous
 - Regarding the nomination of a member in the District Development Coordination and Monitoring Committee (DISHA).\
   [202602241647176120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241647176120.pdf)
@@ -82,6 +85,9 @@
 
 - Administrative Approval for the Construction work of new administrative building at Panchayat Samiti, Dapoli (Ratnagiri District.\
   [202602231131522420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231131522420.pdf)
+
+- Regarding inclusion of non-planned/unclassified road in Daryapur taluka of Amravati district as rural road in Road Development Plan 2001-21.\
+  [202602271738107620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271738107620.pdf)
 
 ## Personnel
 - Regarding the formation of a committee to update the policy on commercial development of land owned/occupied by local self-government bodies such as Zilla Parishad, Panchayat Samiti and Gram Panchayat through privatization (BOT).\

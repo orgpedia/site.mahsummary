@@ -38,6 +38,9 @@
 - Regarding granting administrative approval for the establishment of Global Ranking Data Analytics Unit under the State Infrastructure Authority under the Mahastride Project.\
   [202602251441340016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602251441340016.pdf)
 
+- Regarding granting approval for opening a new budget head to meet the expenditure arising from the implementation of the roadmap under the Viksit Maharashtra  2047 Vision Document.\
+  [202602281315195516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281315195516.pdf)
+
 ## Personnel
 - Regarding the transfer of Deputy Director, Group-A cadre officers in the Directorate of Finance and Statistics, as per the request.....\
   [202602261137435316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261137435316.pdf)

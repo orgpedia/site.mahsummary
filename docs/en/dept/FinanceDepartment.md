@@ -26,5 +26,9 @@
 - Dearness Relief Increase to 58 on Pension/Family Pension w.e.f. 1st July, 2025.\
   [202602261534230405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602261534230405.pdf)
 
+## Personnel
+- Regarding granting authority to administrative departments to extend the tenure of temporary posts.\
+  [202602281226032505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281226032505.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

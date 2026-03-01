@@ -10,6 +10,9 @@
 - Regarding granting administrative approval for the analysis of formal and survey food samples by all private laboratories in the state as per the approved action plan for the year 2025-26 under the scheme for strengthening food safety systems....\
   [202602271635053113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271635053113.pdf)
 
+- Regarding the implementation of the order passed by the Honble High Court in Writ Petition No. 10793/2022 dated 28.02.2025.\
+  [202602281207586713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281207586713.pdf)
+
 ## Miscellaneous
 - Administrative Approval for Estimate of  Museum  at First Floor of  Grant Medical College,  Mumbai\
   [202602241706156313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241706156313.pdf)

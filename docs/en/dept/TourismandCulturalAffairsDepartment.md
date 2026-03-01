@@ -17,5 +17,9 @@
 - Regarding granting post-action administrative approval for the expenditure of Rs. 29,80,875/- incurred for the programs Painting Competition and Chitramay Darshan organized on the occasion of Service Fortnight.\
   [202602271740553623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602271740553623.pdf)
 
+## Personnel
+- Regarding publication of the Citizens Charter of the Tourism Sub-Division.\
+  [202602281605236523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602281605236523...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
