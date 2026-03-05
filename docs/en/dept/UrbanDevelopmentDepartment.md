@@ -31,12 +31,18 @@
 - Regarding disbursement of funds under Part-XB Scheme of the Central Governments Special Assistance to States for Capital Investment 2025-26.\
   [202603021701532825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021701532825.pdf)
 
+- Regarding the disbursement of funds for the financial year 2025-26 under the SNA SPARSH system for the expenditure on Capacity Building, Skill Development and Knowledge Management (CB, SD  KM) under Swachh Maharashtra Mission (Civil) 2.0.\
+  [202603041753402725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041753402725.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds to Municipal Councils under the Specific Scheme. For the year 2024-25, an amount of Rs. 10.00 crores has been sanctioned for Hadgaon Municipal Council, Dist. Nanded under the Account Head (4217 0603) (Corrigendum)\
   [202603021540210225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021540210225.pdf)
 
 - Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Area. For the year 2024-25 (under Account Head (4217 0541) For Bhiwandi Nizampur City Municipal Corporation, Dist. Thane Amount Rs. 25.00 crore (Corrigendum)\
   [202603021539391025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021539391025.pdf)
+
+- Regarding appointment as Drawing and Disbursement Officer for timely disbursement of funds of centrally sponsored schemes through SNA-SPARSH mechanism and declaration as Drawing and Disbursement Officer for Maharashtra State Cyber Treasury.\
+  [202603041129125825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041129125825.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

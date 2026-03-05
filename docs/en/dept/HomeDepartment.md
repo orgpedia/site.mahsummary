@@ -11,5 +11,9 @@
 - Regarding granting administrative approval for the construction of an administrative building for the office of Divisional Deputy Commissioner, State Excise, Amravati Division, Amravati.\
   [202603021635418429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021635418429.pdf)
 
+## Personnel
+- Regarding establishment of a well-equipped residential Judicial Assistant Scientific Training Center along with a new small Judicial Assistant Scientific Laboratory in Wardha district under the Directorate of Judicial Assistant Scientific Laboratory.\
+  [202603041713498329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041713498329.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,12 +16,24 @@
 - Regarding conducting social audit and evaluation of Pradhan Mantri Poshan Shakti Nirman Yojana through Maharashtra State, Social Audit and Transparency Society, Mantralaya, Mumbai.\
   [202603021442207921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021442207921.pdf)
 
+- Regarding distribution of funds under the objective of 10-contractual services for the services of manpower in the food department of Government Vidyaniketan, Pusegaon\
+  [202603041452350121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041452350121.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds under Scheduled Caste (SCSP) component for kitchen equipment to eligible schools under Pradhan Mantri Poshan Shakti Nirman Yojana. (Year 2025-26)\
   [202603021748203621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021748203621.pdf)
 
 - Regarding distribution of funds under General (Gen) component for kitchen equipment to eligible schools under Pradhan Mantri Poshan Shakti Nirman Yojana. (Year 2025-26)\
   [202603021746036121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021746036121.pdf)
+
+- Regarding granting administrative and financial approval for expenditure from the approved provision for the year 2025-26 for Navbharat Saksharta Yojana. (Scheduled Tribe component) (Central and State share)\
+  [202603041814310721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041814310721.pdf)
+
+- Regarding granting administrative and financial approval for expenditure from the approved provision for the year 2025-26 for Navbharat Saksharta Yojana. (Scheduled Caste component) (Central and State share)\
+  [202603041812473521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041812473521.pdf)
+
+- Regarding granting administrative and financial approval for expenditure from the approved provision for the year 2025-26 for Navbharat Saksharta Yojana. (General component) (Central and State share)\
+  [202603041809598421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041809598421.pdf)
 
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
