@@ -34,6 +34,15 @@
 - Regarding the disbursement of funds for the financial year 2025-26 under the SNA SPARSH system for the expenditure on Capacity Building, Skill Development and Knowledge Management (CB, SD  KM) under Swachh Maharashtra Mission (Civil) 2.0.\
   [202603041753402725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041753402725.pdf)
 
+- Regarding disbursement of funds under Part-XA of the Central Governments Special Assistance to States for Capital Investment 2025-26 scheme. (Corrigendum)\
+  [202603051755009525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051755009525.pdf)
+
+- Regarding the disbursement of Rs. 39.94 crore for the year 2025-26 for Phase 1 and 2 of the Pilgrimage Development Plan Shri Mahalaxmi Jagdamba Sansthan, Koradi, Tal. Kamathi, Dist. Nagpur under the scheme Assistive Grant for Development Programme of Pilgrimage Sites in Municipal Council Areas (Account Head 2217 0951).\
+  [202603051748032925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051748032925.pdf)
+
+- Regarding the distribution of budgetary provisions for the financial year 2025-2026... Grant in Aid\
+  [202603051709105425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051709105425.pdf)
+
 ## Miscellaneous
 - Regarding sanction of funds to Municipal Councils under the Specific Scheme. For the year 2024-25, an amount of Rs. 10.00 crores has been sanctioned for Hadgaon Municipal Council, Dist. Nanded under the Account Head (4217 0603) (Corrigendum)\
   [202603021540210225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021540210225.pdf)
@@ -43,6 +52,12 @@
 
 - Regarding appointment as Drawing and Disbursement Officer for timely disbursement of funds of centrally sponsored schemes through SNA-SPARSH mechanism and declaration as Drawing and Disbursement Officer for Maharashtra State Cyber Treasury.\
   [202603041129125825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041129125825.pdf)
+
+- Regarding the establishment of a Divisional Promotion Committee in Maharashtra Urban Administrative Service to promote Chief Officer, Group-A/Assistant Commissioner, Group-A cadre to Chief Officer, Group-A (Selective Category)/Deputy Commissioner, Group-A cadre and Chief Officer, Group-B/Assistant Commissioner, Group-B cadre to Chief Officer, Group-A/Assistant Commissioner, Group-A cadre.\
+  [202603051710405925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051710405925.pdf)
+
+- Scheme of financial assistance for expansion and modernization of fire services under the 15th Central Finance Commission.\
+  [202603061603517425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061603517425.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

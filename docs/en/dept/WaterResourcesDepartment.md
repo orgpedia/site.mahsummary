@@ -18,5 +18,8 @@
 - Administrative Approval Under Special Repairs to Repair work of Essential Mechanical and Electrical Component for dam safety and Easy Gate movement of   Khulgapur  High Level   Barrage.\
   [202603041428037727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041428037727.pdf)
 
+- Regarding approval of the proposal for bulk water entitlement for Shahapur Nagar Panchayat Augmented Water Supply Scheme, Tal. Shahapur, Dist. Thane, under Maharashtra Suvarna Jayanti Urban Upliftment Mahabhiyaan Yojana for increased water reservation from Bhatsa River.\
+  [202603051726353227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051726353227.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

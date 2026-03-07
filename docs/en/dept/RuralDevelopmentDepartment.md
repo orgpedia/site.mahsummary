@@ -16,9 +16,15 @@
 - Regarding the distribution of funds for the development plans of the pilgrimage site of Shri Sant Gadge Baba, Karmabhoomi, Taluka-Bhatukali, Dist-Amravati.\
   [202603021311471520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021311471520.pdf)
 
+- Regarding distribution of funds to Akola Zilla Parishad under Sant Sevalal Maharaj Banjara/Labhana Tanda Samruddhi Yojana Account Head (2515 2753).\
+  [202603061541176220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061541176220.pdf)
+
 ## Miscellaneous
 - Regarding the adoption of CTB/CTSB technology instead of Full Depth Reclamation (FDR) technology, as well as the revised cost approval, for the road works under Package Nos. MH-0842 and MH-0843 in Chandrapur district under Pradhan Mantri Gram Sadak Yojana (PMGSY)  Phase III.\
   [202603021608269520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021608269520....pdf)
+
+- Administrative Approval for Construction of 15 Gram Panchayat Buildings in District under Hon.Balasaheb Thakare Smruti Matoshri Gram Panchayat bandhani Yojana.\
+  [202603041638541020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041638541020.pdf)
 
 ## Personnel
 - Regarding the Regular Posting of Assistant Block Development Officers, Group-B cadre officers in Combined Probationary Training Program (CPTP)-9, who have been recommended on the basis of  State Services Examination-2021...\
@@ -32,6 +38,12 @@
 
 - Regarding the Regular Posting of Block Development Officers, Group-A cadre officers in Combined Probationary Training Program (CPTP)-9, who have been recommended on the basis of  State Services Examination-2021...\
   [202603041120331120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041120331120.pdf)
+
+- Regarding the extension of the posts of officers and employees in the District Rural Development System from 01.03.2026 to 31.08.2026.\
+  [202603051111394420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051111394420.pdf)
+
+- Regarding extension a total of 1384 temporary posts created at the state level/division level/district level for the implementation of the centrally sponsored Pradhan Mantri Gram Sadak Yojana.\
+  [202603061805457420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061805457420.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

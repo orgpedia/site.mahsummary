@@ -31,6 +31,42 @@
 - Regarding financial approval for the organization expenses of the three-day Music and Drama Festival cultural program.\
   [202603041715019023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041715019023.pdf)
 
+- Regarding financial approval for the organization expenses of the cultural program Shri Ambabai Navratri Music Festival.\
+  [202603061501404423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061501404423.pdf)
+
+- Regarding financial approval for the organizing expenses of the program Experimental Magic Art through scientific experiments.\
+  [202603061507220723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061507220723.pdf)
+
+- Regarding financial approval for the organization expenses of the cultural program Drone Show based on cultural heritage.\
+  [202603061459226423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061459226423.pdf)
+
+- Regarding financial approval for the expenses of organizing cultural programs based on literature in collaboration with the Department of Cultural Affairs and NCPA, Mumbai.\
+  [202603061456489023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061456489023.pdf)
+
+- Regarding financial approval for the organization of a cultural program based on the work of veteran costume designer Bhanu Athaiya for her contribution to the film industry for over 60 years.\
+  [202603061458071223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061458071223.pdf)
+
+- Regarding financial approval for the cost of organizing the play Shyamchi Aai based on the life story of Sane Guruji on his birth anniversary.\
+  [202603061504294123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061504294123.pdf)
+
+- AI4AGRI-2026: Regarding financial approval for organizing expenses on cultural programs at the Global Agricultural Artificial Intelligence Conference and Investors Summit.\
+  [202603061510142323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061510142323.pdf)
+
+- Regarding financial approval for the organization expenses of cultural programs on the occasion of the birth centenary of Bharat Ratna Atal Bihari Vajpayee.\
+  [202603061500341923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061500341923.pdf)
+
+- Regarding granting financial approval to organize Ramtek Cultural Festival at Ramtek in Nagpur district.\
+  [202603061451558423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061451558423.pdf)
+
+- Regarding financial approval for the organizing expenses of the cultural program Bhajan Mahotsav.\
+  [202603061508465123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061508465123.pdf)
+
+- Administrative approval for renovation of the cabin of the Principal Secretary (Tourism).\
+  [202603061838487423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061838487423.pdf)
+
+- Regarding financial approval for the organization of a special cultural program on the occasion of the 150th anniversary of the national song Vande Mataram, which created enthusiasm and inspiration in the freedom struggle.\
+  [202603061505580423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061505580423.pdf)
+
 ## Miscellaneous
 - Regarding financial approval for the organization expenses of the cultural program Swarbhaskar Bharat Ratna Pt. Bhimsen Music Festival.\
   [202603041652056223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041652056223.pdf)
@@ -67,6 +103,12 @@
 
 - Regarding financial approval for the expenses incurred for organizing a cultural program in Lucknow, Uttar Pradesh on the occasion of 77th Republic Day under Ek Bharat Shreshtha Bharat.\
   [202603041704372123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041704372123.pdf)
+
+- Regarding financial approval for expenditure on organizing workshops/seminars/exhibitions/training on various cultural elements in the field of experimental arts.\
+  [202603061503044423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061503044423.pdf)
+
+- Regarding granting financial approval to organize Ramtek Mahotsav at Ramtek in Nagpur district. (Corrigendum)\
+  [202603061454107023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061454107023.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,18 @@
 - Regarding distribution of funds under the objective of 10-contractual services for the services of manpower in the food department of Government Vidyaniketan, Pusegaon\
   [202603041452350121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041452350121.pdf)
 
+- Regarding approval of expenditure for organizing school and other sports competitions in the year 2025-26.\
+  [202603051839270721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051839270721.pdf)
+
+- Regarding disbursal of Rs. 20.00 crore for reimbursement of educational fees of students admitted to 25 percent reserved seats under RTE.\
+  [202603051812552121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051812552121.pdf)
+
+- Regarding the distribution of funds under the objective of 4-Pension Expenditure under Account Head No. 22020173.\
+  [202603051817254021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051817254021.pdf)
+
+- Regarding the distribution of additional funds of the State Government for the honorarium of cooks and helpers under the Scheduled Caste category under the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
+  [202603051738429921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051738429921.pdf)
+
 ## Miscellaneous
 - Regarding distribution of funds under Scheduled Caste (SCSP) component for kitchen equipment to eligible schools under Pradhan Mantri Poshan Shakti Nirman Yojana. (Year 2025-26)\
   [202603021748203621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021748203621.pdf)
@@ -47,6 +59,18 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603021804254521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021804254521.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603051909313221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051909313221.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603051913481121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051913481121.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603061323288221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061323288221.pdf)
+
+- Shri.Gajanan Maharaj Shikshan Prasarak Mandal, Babhulgaon operated Shri. Gajanan Maharaj Vidyalaya, Babhulgaon T.D. Washim regarding the migration of this school to Vinayak Nagar Civil Line, Washim T.D. Washim.\
+  [202603061638202921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061638202921.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
