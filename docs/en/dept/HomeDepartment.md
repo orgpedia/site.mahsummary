@@ -23,6 +23,9 @@
 - Regarding providing funds to Additional Director General of Police, M.R. Cyber, Mumbai to pay for domestic travel expenses, small constructions, other expenses, prizes and foreign travel expenses.\
   [202603061317517129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061317517129.pdf)
 
+- Appointment of retired government officers as contractual Inquiry Officer.\
+  [202603062215489829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603062215489829.pdf)
+
 ## Personnel
 - Regarding establishment of a well-equipped residential Judicial Assistant Scientific Training Center along with a new small Judicial Assistant Scientific Laboratory in Wardha district under the Directorate of Judicial Assistant Scientific Laboratory.\
   [202603041713498329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041713498329.pdf)
