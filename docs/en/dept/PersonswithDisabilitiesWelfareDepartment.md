@@ -1,15 +1,11 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 09 March 2026 - 14 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
 
 ## Funds
-- Regarding obtaining administrative approval for taking premises on lease for office use of the Department of Welfare of the Disabled, Ministry\
-  [202603041841195835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041841195835.pdf)
-
-## Miscellaneous
-- Regarding sanction of pension to the family of a government employee who suddenly disappeared and whose whereabouts are unknown.. Shri. Madhukar Sitaram Mane, Special Teacher, Government Multipurpose Complex Center for the Disabled, Wardha\
-  [202603061812320835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061812320835.pdf)
+- Regarding distribution of arrears and permissible per capita subsidy for the year 2024-25 to mentally ill persons from Regional Psychiatric Hospitals who have been shifted to rehabilitation homes/halfway homes run by NGOs.\
+  [202603091254311035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091254311035.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

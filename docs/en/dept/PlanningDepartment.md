@@ -1,11 +1,11 @@
 # Planning Department
 
-**Date Range**: 09 March 2026 - 14 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
 
-## Funds
-- Maharashtra Public-Private Partnership Policy, 2026\
-  [202603051851076416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051851076416.pdf)
+## Personnel
+- Continuation of Posts.\
+  [202603091138495816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091138495816.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

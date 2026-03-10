@@ -1,40 +1,37 @@
 # General Administration Department
 
-**Date Range**: 09 March 2026 - 14 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
 
 ## Funds
-- Demand No. A-4 General Administration Department 2070 - Other Public Administrative Services -104-Vigilance (00) (00) (01) Regarding making funds available by redistribution from the objective 13-Office Expenses in the account head 17-Computer Expenses to the         objective 17-Computer Expenses.\
-  [202603041522067407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041522067407.pdf)
-
-- Regarding seeking approval of the Technical Committee of the Directorate of Information Technology for the proposal related to technical matters before organizing the Project Implementation Committee (PIC) meeting.\
-  [202603051630103007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051630103007.pdf)
+- Petitioner Shri. Ganpatrao Chhotuji Gabhne and 13 others vs. Government of Maharashtra (Writ Petition No. 1868/2005) Regarding the action taken as per the judgment dated 14.06.2017 of Honble High Court, Bombay, Nagpur Bench...... District Collectors Office Dharashiv, Kolhapur, Jalna, Chhatrapati Sambhajinagar, Dhule, and Sangli.\
+  [202603091431193307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091431193307.pdf)
 
 ## Miscellaneous
 - Filling the post of deputation basis.\
-  [202603021313054507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021313054507.pdf)
-
-- Regarding appointment of an Inquiry Officer to conduct an inquiry against M.R.K. Enterprises, Mumbai.\
-  [202603021513051107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021513051107.pdf)
-
-- Regarding permission to attend a gathering of women employees of Brihanmumbai government offices on the occasion of International Womens Day.\
-  [202603041702079407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041702079407.pdf)
-
-- Reorganisation of Taluka Bhrastachar Nirmulan Samiti\
-  [202603051244238707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051244238707.pdf)
-
-- Dismissal of District/regional Takrar Nivaran Samiti\
-  [202603051246579107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051246579107.pdf)
+  [202603091827435607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091827435607.pdf)
 
 ## Personnel
-- Regarding approval to continue the temporary posts at the establishment of the Directorate of Civil Aviation from 01/03/2026 to 28/02/2027.\
-  [202603021216299807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021216299807.pdf)
+- Seniority List Provisional seniority list of officers in the cadre of Assistant Director (Information) / Information Officer / Superintendent, Books and Publications-Group-B as on 01.01.2026.\
+  [202603091507419507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091507419507.pdf)
 
-- Transfers of Assistant Section Officers and Clerk-Typist\
-  [202603061524485507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061524485507.pdf)
+- Regarding extension of temporary posts in the office of Assistant Commissioner (Backward Classes Section) under the jurisdiction of Divisional Commissioners.\
+  [202603091323241707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091323241707.pdf)
 
-- Combined Probationary Training Program-11 - Regarding training program for Section Officer, Group-B cadre.\
-  [202603061520598907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061520598907.pdf)
+- Seniority List Provisional seniority list of officers in the cadre of Senior Assistant Director (Information)/District Information Officer/Senior Deputy Editor/Public Relations Officer, Group-A (Junior) as on 01.01.2026.\
+  [202603091500570907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091500570907.pdf)
+
+- Seniority List Provisional seniority list of officers in the cadre of Director (Information), Group-A (Senior) as on 01.01.2026.\
+  [202603091455588607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091455588607.pdf)
+
+- Continuation of Posts.\
+  [202603091128256507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091128256507.pdf)
+
+- Seniority List Provisional seniority list of officers in the cadre of Senior Assistant Director (Administration), Group-A as on 01.01.2026.\
+  [202603091504304307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091504304307.pdf)
+
+- Seniority List Provisional seniority list of Assistant Director (Administration), Group-B cadre officers as on 01.01.2026.\
+  [202603091510348007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091510348007.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
