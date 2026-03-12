@@ -1,49 +1,34 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 09 March 2026 - 14 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
 
 ## Funds
-- Regarding the distribution of Rs.33.2942 crore in cash to Mahavitaran Company as State Government share for general beneficiaries under Pradhan Mantri Kusum Component B. (Demand No.K-6, Account Head No.28100902)\
-  [202603061646454410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061646454410.pdf)
+- Regarding making available to the Mahaurja Office a fund of Rs. 35.34875 crores for various schemes and projects under Green Energy Fund Programme (GCF), Account Head No. 28100123. (Demand No. K-6, Account Head No. 28100123)\
+  [202603111155382610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111155382610.pdf)
 
-- Regarding the distribution of Rs. 30.00 crore in cash to the Mahaurja Office as State Government share for Scheduled Tribe beneficiaries under Pradhan Mantri Kusum Component B. (Demand No. T-5, Account Head No. 28100974)\
-  [202603061535354110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061535354110.pdf)
+- Regarding declaring the Drawing and Disbursing Officer as Virtual Personal Deposit Account Administrator for speedy disbursement and monitoring of Subsidiary Grant.\
+  [202603111305036210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111305036210.pdf)
 
-- Regarding the distribution of a grant of Rs. 20.00 crore in cash to the Mahavitaran Company as State Government share for Scheduled Tribe beneficiaries under Pradhan Mantri Kusum Ghatak B Yojana. (Demand No. T-5, Account Head No. 28100974)\
-  [202603061539220810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061539220810.pdf)
+- Regarding disbursement of Rs.47.6899 crore in cash as loan to Maharashtra State Electricity Distribution Company in the year 2025-26 under the scheme Loan to Maharashtra State Electricity Distribution Company under SIDBI Infrastructure Development Fund. (K-6, Main Account Head -68010727) ....Corrigendum.\
+  [202603101639261710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101639261710.pdf)
 
-- Regarding the disbursement of a grant of Rs. 20.2552 crore in cash to the Mahaurja Office under the Non-Conventional Energy Sources Programme (N.R.S.E.) for the year 2025-26. (Account Head No. 28100034)\
-  [202603061814249310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061814249310.pdf)
-
-- Regarding the distribution of the State Government share of Rs. 66.7058 crores in cash to the Mahaurja Office for the general beneficiaries under Pradhan Mantri Kusum Component B. (Demand No. K-6, Account Head No. 28100902)\
-  [202603061643213010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061643213010.pdf)
+- Regarding approval of expenditure of State Governments participation grant (margin money) under the Chief Ministers Employment Generation Programme for the financial year 2025-26. (Scheduled Caste Component Programme)\
+  [202603101112569210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101112569210.pdf)
 
 ## Miscellaneous
-- Regarding declaration of the Director, Directorate of Boilers, Mumbai, as the competent authority for disciplinary action against officers/employees of the establishment.\
-  [202603041200552110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041200552110.pdf)
+- Approval of expenditure for payment of pending service charges of Demat Account to Stock Holding Corporation of India Ltd.\
+  [202603101151595410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101151595410.pdf)
 
 ## Personnel
-- Regarding reinstatement and posting of Shri. Vinayak V. Londhe, Additional Director, (Suspended) Directorate of Industrial Safety and Health, Nagpur in Government Service.\
-  [202603041157404810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041157404810.pdf)
+- Regarding granting prior permission of the Government to Raigad Power Transmission Limited to construct new transmission lines at Kandalgaon, District Raigad under Section 68 of the Electricity Act, 2003.\
+  [202603111144347610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111144347610.pdf)
 
-- Regarding cancellation of the promotion given to Shri. Sameer Kaware, Assistant Electrical Inspector, Group-A (Gazetted) in the Electricity Inspectorate, to the cadre of Electrical Inspector, Group-A (Gazetted).\
-  [202603061703296510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061703296510.pdf)
+- Regarding granting prior permission of the Government to Latur REZ Transmission Limited to construct new transmission lines in Latur under Section 68 of the Electricity Act, 2003.\
+  [202603111148192110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111148192110.pdf)
 
-- Regarding extension of tenure of temporary posts in Directorate of Government Printing, Stationery and Publication, Mumbai and various offices under the Directorate from 01.03.2026 to 31.08.2026.\
-  [202603051235196610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051235196610.pdf)
-
-- Regarding temporary promotion to the post of Industrial Officer (Technical), Group-B (Pay Scale S-15, Rs.41800-132300).\
-  [202603061528201010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061528201010.pdf)
-
-- Regarding publication of the provisional seniority list of the Directorate of Government Printing, Stationery and Publication and Group-A and Group-B officers under its jurisdiction as on 01.01.2026.\
-  [202603051239231810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051239231810.pdf)
-
-- Regarding publication of the provisional seniority list of the Directorate of Government Printing, Stationery and Publication and Group-A and Group-B officers under its jurisdiction as on 01.01.2026.\
-  [202603061156366510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061156366510.pdf)
-
-- Regarding the promotion of the post of Senior Geologist to the post of Deputy Director from the cadre of the Directorate of Geology and Mines, Nagpur...\
-  [202603051250577410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051250577410.pdf)
+- Regarding approval to open a Personal Ledger Account (PLA) account for the office of Assistant Labour Commissioner, Sangli.\
+  [202603101734096310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101734096310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,49 +1,25 @@
 # Rural Development Department
 
-**Date Range**: 09 March 2026 - 14 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
 
 ## Funds
-- Regarding the distribution of grants for the year 2022-2023 under New National Biogas and Organic Manure Management Programme\
-  [202603021045277620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021045277620.pdf)
-
-- Regarding distribution of funds for the development plans of the pilgrimage site of Shri Kondeshwar, Tal and Dist Amravati.\
-  [202603041459320920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041459320920.pdf)
-
-- Ashadhiwari- 2025 Regarding the distribution of the remaining funds in the approved provision for passing the payments for the work provided necessary facilities in the villages of Khandala and Phaltan talukas of Satara district on the way of Shri Sant Dnyaneshwar Maharajs palanquin.\
-  [202603021311492720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021311492720.pdf)
-
-- Regarding the distribution of funds for the development plans of the pilgrimage site of Shri Sant Gadge Baba, Karmabhoomi, Taluka-Bhatukali, Dist-Amravati.\
-  [202603021311471520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021311471520.pdf)
-
-- Regarding distribution of funds to Akola Zilla Parishad under Sant Sevalal Maharaj Banjara/Labhana Tanda Samruddhi Yojana Account Head (2515 2753).\
-  [202603061541176220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061541176220.pdf)
+- Corrigendum - Fund distribution of the financial year 2025-2026 for Composit Training Center, Gargoti, Dist. Kolhapur.    Major Account Head - 25150026 7th installment (Salary)\
+  [202603111743092820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111743092820.pdf)
 
 ## Miscellaneous
-- Regarding the adoption of CTB/CTSB technology instead of Full Depth Reclamation (FDR) technology, as well as the revised cost approval, for the road works under Package Nos. MH-0842 and MH-0843 in Chandrapur district under Pradhan Mantri Gram Sadak Yojana (PMGSY)  Phase III.\
-  [202603021608269520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021608269520....pdf)
+- Regarding inclusion of non-planned/classified roads in Parshivni taluka of Nagpur district as rural roads in Road Development Plan 2001-21.\
+  [202603091522082120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091522082120.pdf)
 
-- Administrative Approval for Construction of 15 Gram Panchayat Buildings in District under Hon.Balasaheb Thakare Smruti Matoshri Gram Panchayat bandhani Yojana.\
-  [202603041638541020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041638541020.pdf)
+- Regarding granting approval for construction of Gram Panchayat buildings in Nagpur district under the Honble Balasaheb Thackeray Smriti Matoshree Gram Panchayat Construction Scheme\
+  [202603091522149320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091522149320.pdf)
 
 ## Personnel
-- Regarding the Regular Posting of Assistant Block Development Officers, Group-B cadre officers in Combined Probationary Training Program (CPTP)-9, who have been recommended on the basis of  State Services Examination-2021...\
-  [202603041120414920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041120414920.pdf)
+- Regarding extension of temporary posts in the cadre of Additional Chief Executive Officers, Additional Commissioners and Assistant Commissioners created to strengthen the development cell in the office of the Divisional Commissioner.\
+  [202603101322347020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101322347020.pdf)
 
-- Regarding the Regular Posting of Block Development Officers, Group-A cadre officers in Combined Probationary Training Program (CPTP)-8 A Supernumary, who have been recommended on the basis of  State Services Examination-2019...\
-  [202603041120219620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041120219620.pdf)
-
-- Regarding continuing temporary post for the Divisional Commissioners office\
-  [202603041524037120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041524037120.pdf)
-
-- Regarding the Regular Posting of Block Development Officers, Group-A cadre officers in Combined Probationary Training Program (CPTP)-9, who have been recommended on the basis of  State Services Examination-2021...\
-  [202603041120331120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603041120331120.pdf)
-
-- Regarding the extension of the posts of officers and employees in the District Rural Development System from 01.03.2026 to 31.08.2026.\
-  [202603051111394420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051111394420.pdf)
-
-- Regarding extension a total of 1384 temporary posts created at the state level/division level/district level for the implementation of the centrally sponsored Pradhan Mantri Gram Sadak Yojana.\
-  [202603061805457420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603061805457420.pdf)
+- Regarding continuation of temporary posts on the establishment of Rural Development Department (Own) in the year 2026-27\
+  [202603111233349420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111233349420.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

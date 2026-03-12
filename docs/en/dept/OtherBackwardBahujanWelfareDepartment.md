@@ -7,5 +7,12 @@
 - Regarding making funds available for the houses approved post-operatively in the years 2023-24 and 2024-25 under the Punyashloka Ahilyadevi Holkar Gharkul Yojana.\
   [202603091307468634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091307468634.pdf)
 
+- Regarding the distribution of funds for scholarship and tuition fee schemes being implemented by the department in the financial year 2025-26.\
+  [202603101650347834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101650347834.pdf)
+
+## Personnel
+- Regarding the fee determination and fee distribution procedure for the schools selected under the scheme Raje Yashwantrao Holkar English Medium Residential Education Scheme....\
+  [202603111532598334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111532598334.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

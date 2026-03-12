@@ -1,18 +1,17 @@
 # Marathi Language Department
 
-**Date Range**: 02 March 2026 - 07 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
 
-## Funds
-- Regarding the grant of administrative approval for the annual organization of the World Marathi Conference (Vishwa Marathi Sammelan).\
-  [202602231809159733.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602231809159733.pdf)
+## Personnel
+- Regarding extension of temporary posts in the Directorate of Languages from 01.03.2026 to 31.08.2026.\
+  [202603101527589633.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101527589633.pdf)
 
-## Miscellaneous
-- Regarding the organization of World Marathi Conference-2026\
-  [202602241757074433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241757074433.pdf)
+- Regarding extension of temporary posts in Maharashtra State Marathi Encyclopedia Production Board for the period from 01.3.2026 to 31.08.2026.\
+  [202603101534112533.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101534112533.pdf)
 
-- Regarding distribution of funds for computer, printer maintenance and repair expenses and related matters for Mumbai and Wai offices of Maharashtra State Marathi Encyclopedia Production Board\
-  [202602241235047233.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202602241235047233.pdf)
+- Regarding extension of temporary posts in the office of Maharashtra State Literature and Culture Board from 01.03.2026 to 31.08.2026.\
+  [202603101531355333.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101531355333.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,15 +1,11 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 09 March 2026 - 14 March 2026
+**Date Range**: 16 March 2026 - 21 March 2026
 
-
-## Funds
-- Administrative Approval for Estimate of  Construction of  Medical College  Hospital  Residences Building  at Government Medical College  Hospital, Ratnagiri\
-  [202603051111519713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603051111519713....pdf)
 
 ## Miscellaneous
-- Regarding the renaming of Government Medical Hospital, Baramati and Government Ayurved College and Hospital, Baramati.\
-  [202603021104445513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603021104445513.pdf)
+- Regarding granting administrative approval for the purchase of 02 FITR BASED Milk Product Analyzer and 50 Electric Milk Analyser with Adulteration Testing equipment for the Food and Drug Administration to prevent milk adulteration. (Corrigendum)\
+  [202603101733358613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101733358613.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

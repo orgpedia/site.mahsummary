@@ -10,6 +10,15 @@
 - Government Corrigendum-Regarding distribution of grants to Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli for the financial year 2025-26, 31, Subsidiary Grants (Non-Salary) (Programme).\
   [202603091550506501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091550506501.pdf)
 
+- Regarding the disbursement of the second installment of funds for the centrally sponsored scheme National Natural Farming Mission.\
+  [202603111528016701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111528016701.pdf)
+
+- Administration approval for Buffer Stock for the kharip season 2026.\
+  [202603101801078001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101801078001.pdf)
+
+- Regarding distribution of grants under Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme and Dr. Punjabrao Deshmukh Hostel Subsistence Allowance Scheme in the financial year 2025-26. (Under the program)\
+  [202603111726503401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111726503401.pdf)
+
 ## Miscellaneous
 - Regarding approval of new account head for Scheduled Caste category under Namo Shetkari Mahasamman Nidhi Yojana.\
   [202603091728204001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091728204001.pdf)
