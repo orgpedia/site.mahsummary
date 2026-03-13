@@ -21,5 +21,8 @@
 - Regarding the continuation of temporary posts at the establishment of the Tribal Development Department (itself).\
   [202603111225074824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111225074824...pdf)
 
+- Regarding extension of tenure of a total of 342 temporary posts in the office of Commissioner, Tribal Research and Training Institute, Pune and all Scheduled Tribe Certificate Examination Committee offices under him from 01.03.2026 to 31.08.2026.\
+  [202603121132253724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121132253724.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -13,6 +13,9 @@
 - Regarding distribution of grant for payment of honorarium arrears to freedom fighters ..... District-Gondiya.\
   [202603101331516207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101331516207.pdf)
 
+- Administrative approval for the renovation work of EVM Godown in Nanded district.\
+  [202603121751270207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121751270207.pdf)
+
 ## Miscellaneous
 - Filling the post of deputation basis.\
   [202603091827435607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091827435607.pdf)
@@ -34,6 +37,9 @@
 
 - Regarding filling up of vacant posts in Marathwada Administrative and Development Training Institute, Nathnagar (U) Paithan, Dist. Chhatrapati Sambhajinagar by deputation\
   [202603111202539307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111202539307.pdf)
+
+- Regarding sanction of professional fees to Senior Lawyer Shri. Ashutosh Kumbakoni as Special Counsel for Maharashtra-Karnataka Border Dispute Original Suit No. 4/2004 filed in the Honble Supreme Court\
+  [202603121505091007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121505091007.pdf)
 
 ## Personnel
 - Seniority List Provisional seniority list of officers in the cadre of Assistant Director (Information) / Information Officer / Superintendent, Books and Publications-Group-B as on 01.01.2026.\
@@ -59,6 +65,9 @@
 
 - Continuation of Posts.\
   [202603101717272607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101717272607.pdf)
+
+- Allotment of Recommended Candidate From Assistant Section officer (Main) Exam 2024 in Mantralaya and MPSC\
+  [202603121838040407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121838040407......pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

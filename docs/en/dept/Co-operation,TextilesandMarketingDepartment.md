@@ -27,5 +27,11 @@
 - Mahatma Jyotiba Phule Regarding continuation of temporary posts created for implementing continuous and concurrent audit scheme in various Executive Service Cooperative Societies and 7 other institutions from 01/03/2026 to 31/08/2026.\
   [202603111241459802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111241459802....pdf)
 
+- Regarding the request for transfer of Mr. Nilesh N. Nikhade, Assistant Commissioner (Technical) Group B (Gazetted).\
+  [202603121145184702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121145184702.pdf)
+
+- Regarding extension of tenure of 39 temporary posts under the Commissioner (Textiles), Nagpur and 13 temporary posts under the Commissioner of Cooperatives and Registrar, Cooperative Societies, Pune, totaling 52 temporary posts.\
+  [202603121142032802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121142032802.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

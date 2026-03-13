@@ -30,5 +30,8 @@
 - Regarding approval to open a Personal Ledger Account (PLA) account for the office of Assistant Labour Commissioner, Sangli.\
   [202603101734096310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101734096310.pdf)
 
+- Regarding promotion to the post of Government Labour Officer, Group-B (Pay Scale S-15, Rs.41800-132300) on a purely temporary basis in the establishment of the Labour Commissioner, Mumbai. (Select List Year 2025-26)\
+  [202603121520012610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121520012610.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

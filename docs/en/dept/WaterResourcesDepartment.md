@@ -21,5 +21,11 @@
 - Regarding extension of 157 temporary posts in the establishment of Water Resources Department till 31.08.2026.\
   [202603101318053727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101318053727.pdf)
 
+- Continuation of Posts.\
+  [202603121523574827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121523574827.pdf)
+
+- Transfer of an officer in the Executive Engineer (Civil) cadre\
+  [202603121345321427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121345321427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

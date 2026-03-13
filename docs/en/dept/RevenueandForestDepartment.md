@@ -35,6 +35,9 @@
 - Forest Land- Jalgaon Re-diversion of 0.2416 ha. forest land for laying Underground Optical Fiber Cable along the road in RoW of NH-753L from Muktainagar to Nandgaon village in Muktainagar and Bodvad Tehsil of District Jalgaon in state of Maharashtra.\
   [202603111514258319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111514258319.pdf)
 
+- Regarding declaring Manager, Maharashtra Bamboo Development Board, Nagpur as the Drawing and Disbursing Officer instead of Managing Director, Maharashtra Bamboo Development Board, Nagpur.\
+  [202603121500044819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121500044819.pdf)
+
 ## Personnel
 - Forest Land- Amravati Diversion of 0.1281 ha. Reserved Forest land for laying underground 12 dia Steel Natural Gas Pipeline to set up a Gas Distribution Network in Amravati City and surrounding area of Amravati, District in the State of Maharashtra. (Amravati Connectivity (SV-20 Bori Village to Amravati Bus Depot).\
   [202603091507532819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091507532819.pdf)
@@ -86,6 +89,48 @@
 
 - Notice No. 618 regarding land acquisition case in Nandurbar district (Mouj Gangapur, Taluka Navapur).\
   [202603101813051119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101813051119.pdf)
+
+- Regarding the continuation of temporary posts in the  Human Resource Development committed scheme for the year 2026-27, restructuring of the Forest Department.\
+  [202603121450265219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121450265219.pdf)
+
+- Regarding continuation of temporary posts under the Production Forestry Program under Maharashtra Forestry Projects in the year 2026-27.\
+  [202603121453592519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121453592519.pdf)
+
+- Reorganization of the Forest Department - Creation of new posts for the Office of the Principal Chief Conservator of Forests. Extension of the posts in this committed scheme for the year 2026-27.\
+  [202603121443595519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121443595519.pdf)
+
+- Regarding the posting of officers in the Naib Tehsildar cadre...\
+  [202603121704526919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121704526919.pdf)
+
+- Continuation of 1075 Temporary Post of Pune Division from 01/03/2026  to 31/08/2026.\
+  [202603121531191619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121531191619.pdf)
+
+- Regarding the extension of 450 posts in the non-plan scheme for the restructuring of the Forest Department, creation of new areas, rounds and bits, to continue in the year 2026-27\
+  [202603121543502919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121543502919.pdf)
+
+- Continuation of 1534 160 Temporary Post of Nagpur  Division from 01/03/2026  to 31/08/2026.\
+  [202603121533088319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121533088319.pdf)
+
+- Establishment: Extension of 71 temporary posts in the offices of the Principal Bench of Maharashtra Revenue Tribunal, Mumbai and Benches at Pune, Chhatrapati Sambhaji Nagar and Nagpur from 01/09/2025 to 28/02/2026 ..\
+  [202603121803185419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121803185419.pdf)
+
+- Regarding extension of 3 temporary posts to the year 2026-27 under the scheme Expansion of Forest Training Schools and Colleges and Establishment of New Forest Education Cells.\
+  [202603121457230219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121457230219.pdf)
+
+- Reorganization of the Forest Department - Extension of the temporary posts created in the field of statistics under the Management Information System to the year 2026-27.\
+  [202603121452044119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121452044119.pdf)
+
+- Regarding continuation of 2 temporary posts under the committed scheme of Resource Determination and Basic Material Development Component in the year 2026-27\
+  [202603121455549719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121455549719.pdf)
+
+- Continuation of Posts.\
+  [202603121529344619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121529344619.pdf)
+
+- Regarding extension of 140 temporary posts under the jurisdiction of the Forest Department under the Western Ghats Development Program to the year 2026-27.\
+  [202603121447095719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121447095719.pdf)
+
+- Extension of the Supernumerary posts created for Revenue Assistant on Revenue Zonal Establishments.\
+  [202603121535016119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121535016119.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

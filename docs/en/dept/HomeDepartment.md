@@ -20,5 +20,23 @@
 - Regarding extension of temporary posts in various establishments of the Police Department...\
   [202603111141103429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111141103429.pdf)
 
+- Continuation of Posts.\
+  [202603121619107029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121619107029.pdf)
+
+- Continuation of Posts.\
+  [202603121609249029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121609249029.pdf)
+
+- Continuation of Posts.\
+  [202603121616599829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121616599829.pdf)
+
+- Continuation of Posts.\
+  [202603121622302429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121622302429.pdf)
+
+- Continuation of Posts.\
+  [202603121613339229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121613339229.pdf)
+
+- Continuation of Posts.\
+  [202603121624390129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121624390129.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

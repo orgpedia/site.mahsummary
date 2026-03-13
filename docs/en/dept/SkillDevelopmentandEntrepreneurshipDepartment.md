@@ -7,6 +7,9 @@
 - Regarding administrative approval of the budget for electrification works of Sarsenapati Hambirrao Baji Mohite Government Industrial Training Institute, Karad Dist. Satara and Shri. Gopalrao Maharaj Government Industrial Training Institute, Koregaon Dist. Satara and hostels...\
   [202603101308070103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101308070103.....pdf)
 
+- Regarding the disbursement of 10 percent of the funds budgeted under the objective 31-Grants in Aid (Non-Salary) for Ratan Tata Maharashtra State Skill University in the financial year 2025-26.\
+  [202603121525560803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121525560803.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval to implement the scheme of providing free weapons to trainees in Industrial Training Institutes under the Scheduled Component Programme under the Directorate of Vocational Education and Training...\
   [202603091638595903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091638595903.pdf)

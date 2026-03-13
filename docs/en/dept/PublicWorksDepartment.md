@@ -10,5 +10,11 @@
 - Regarding termination of the form promotion given in the Chief Engineer (Civil) cadre and granting regular posting.\
   [202603091644389318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091644389318.pdf)
 
+- Regarding extension of tenure of posts in the establishment of Office Administration-4, Public Works Department, Ministry for the period from 01.03.2026 to 31.08.2026.\
+  [202603121713430918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121713430918.pdf)
+
+- Provisional seniority list of Assistant Engineer (Civil) Grade-1 in the Public Works Department as on 01.01.2026.\
+  [202603121816421818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121816421818.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

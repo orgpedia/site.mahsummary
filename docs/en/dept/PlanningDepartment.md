@@ -7,6 +7,9 @@
 - Regarding the World Bank-assisted Maharashtra Strengthening Institutional Capabilities in Districts for Enabling Growth Project (MahaSTRIDE)\
   [202603101731082716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101731082716.pdf)
 
+- Provision of Funds for Notified Specific Urban Services and Amenities within the Jurisdiction of Urban Local Bodies (Ramtek Municipal Council, Dist. Nagpur)\
+  [202603121927527016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121927527016.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202603091138495816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091138495816.pdf)

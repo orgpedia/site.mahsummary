@@ -16,6 +16,9 @@
 - Regarding distribution of funds received through redistribution for the general category in the year 2025-26 for the centrally sponsored PM Shree (PM Schools for rising India) scheme.\
   [202603101818548221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101818548221.pdf)
 
+- Regarding approval of distribution of funds for the construction of N. C. C. Academy at Mauje Padegaon, Tal. Dist. Chhatrapati Sambhajinagar. (Account Head 4202 6602)\
+  [202603121546322821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121546322821.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for construction and furniture works of B  C hostel at Shiv Chhatrapati Sports Complex, Mahalunge-Balewadi, Pune.\
   [202603091514168221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091514168221.pdf)
@@ -31,6 +34,9 @@
 
 - Regarding approval of funds and distribution for the training camp organized in conjunction with RDC-Republic Day Parade and Prime Ministers Rally Ceremony-2026....\
   [202603101515351521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101515351521.pdf)
+
+- Regarding approval to provide transport facilities to a total of 15,822 students under PM Shri School Scheme.\
+  [202603121300447321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121300447321......pdf)
 
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
@@ -53,6 +59,9 @@
 
 - Regarding partial change in the posting of Deputy Educational Officer and similar cadre officers in Maharashtra Education Service Group-B (Administration Branch). Shri. Harshvardhan Jaywant More.\
   [202603111543114521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111543114521.pdf)
+
+- Regarding promotion from Assistant Superintendent/Chief Clerk/Junior Auditor/Accountant (Group C) cadre to Superintendent and similar posts in General State Service Group-B (Administration Branch).\
+  [202603121755096121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121755096121.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
