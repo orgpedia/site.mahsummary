@@ -30,5 +30,8 @@
 - Fund Distribution in the Year 2025-26\
   [202603121255131505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121255131505.pdf)
 
+- Instructions regarding the actions to be undertaken by all Administrative Departments, as well as Pay and Accounts Offices / District Treasuries / Sub-Treasuries, during the month of March at the close of the Financial Year 2025-26.\
+  [202603131549547105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131549547105.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

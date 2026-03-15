@@ -41,6 +41,36 @@
 - Regarding sanction of professional fees to Senior Lawyer Shri. Ashutosh Kumbakoni as Special Counsel for Maharashtra-Karnataka Border Dispute Original Suit No. 4/2004 filed in the Honble Supreme Court\
   [202603121505091007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121505091007.pdf)
 
+- Appointment on Deputation :- Shri. Umesh N. Chandiwade, Joint Secretary\
+  [202603132150215207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132150215207.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Smt. Rohini P. Jadhav, Deputy Secretary\
+  [202603132156084007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132156084007.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Shri. Rajaram C. Sarawade, Deputy Secretary\
+  [202603132153561107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132153561107.pdf)
+
+- Final Revised Seniority List (as of January 1st) of Group-D Category Employees on the Establishment of the Mantralaya Canteen/Cafeteria, for the Period 2016 to 2025.\
+  [202603131731275707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131731275707.pdf)
+
+- Empanelment of Non-IT Research and Management Consulting Firms for the Government of Maharashtra.\
+  [202603131557397807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131557397807.pdf)
+
+- Joint Secretary Deputation:- Mr Raviraj Vishnu Phalle, Joint Secretary on deputation to the post of Secretary, State Information Commission, Head-quarter , Mumbai..\
+  [202603132145565707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132145565707.pdf)
+
+- Posting of Deputy Secretary after Repatriation.\
+  [202603132159359907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132159359907.pdf)
+
+- Deputy Secretary Deputation :- Mrs. Shital Sachin Nikam, Deputy Secretary\
+  [202603132151294307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132151294307.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Shri. Navnaath R. Vath, Deputy Secretary\
+  [202603132152272307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132152272307.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Smt. Rina V. Phanasekar, Deputy Secretary\
+  [202603132154587107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132154587107.pdf)
+
 ## Personnel
 - Seniority List Provisional seniority list of officers in the cadre of Assistant Director (Information) / Information Officer / Superintendent, Books and Publications-Group-B as on 01.01.2026.\
   [202603091507419507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091507419507.pdf)
@@ -68,6 +98,33 @@
 
 - Allotment of Recommended Candidate From Assistant Section officer (Main) Exam 2024 in Mantralaya and MPSC\
   [202603121838040407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121838040407......pdf)
+
+- Ad-hoc Promotion on the Post of Deputy Secretary\
+  [202603132201363907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132201363907.pdf)
+
+- Transfer of  Deputy Secretary Cadre\
+  [202603132159592307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132159592307.pdf)
+
+- Repatriation from Deputation :- Smt Savita A. Jawale, Deputy Secretary\
+  [202603132157269507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132157269507.pdf)
+
+- Repatriation from Deputation :- Shri Ravindra V. Gurav, Joint Secretary\
+  [202603132147210407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132147210407.pdf)
+
+- Transfer of Shri Suryakant K. Nikam, Joint Secretary\
+  [202603132148299007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132148299007.pdf)
+
+- Transfer of  Joint Secretary Cadre\
+  [202603132149307407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132149307407.pdf)
+
+- Repatriation from Deputation :- Shri. Samadhan V. Khatakale, Deputy Secretary\
+  [202603132157459807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132157459807.pdf)
+
+- Ad-hoc Promotion on the Post of Joint Secretary\
+  [202603132201307107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132201307107.pdf)
+
+- Appointment on Deputation :- Shri. Shrinivas J. Shastri, Joint Secretary\
+  [202603132144400407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603132144400407.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

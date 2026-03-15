@@ -38,6 +38,12 @@
 - Regarding approval to provide transport facilities to a total of 15,822 students under PM Shri School Scheme.\
   [202603121300447321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121300447321......pdf)
 
+- Regarding the provision of funds for the honorarium of personnel recruited through outsourcing agencies at the National Cadet Corps (NCC) Office. 2204-0016 (10  Contractual Services)\
+  [202603131250354021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131250354021.pdf)
+
+- Regarding the disbursement of funds under the scheme for providing assistance to batches of tribal students in Sainik Schools, within the framework of the Tribal Sub-Plan. (Head of Account 2202 H 973), 36Grants-in-Aid (Salaries).\
+  [202603131653005721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131653005721.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603101204592821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101204592821.pdf)

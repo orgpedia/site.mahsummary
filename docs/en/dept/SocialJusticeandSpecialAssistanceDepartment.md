@@ -17,6 +17,15 @@
 - Regarding distribution of funds from the budgetary provision for the year 2025-26 for the beneficiaries of the Scheduled Category for the Mahatma Jyotirao Phule Jan Arogya Yojana. (Account Head 2210G861)\
   [202603101257125222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101257125222.pdf)
 
+- Regarding the Designation of Drawing and Disbursing Officer and Controlling Officer for the Anna Bhau Sathe Research and Training Institute (ARTI), Mumbai.\
+  [202603131727202022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131727202022.pdf)
+
+- Regarding the approval for implementing a Seed Capital Scheme for the self-employment and business ventures of transgender persons...\
+  [202603131533198322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131533198322.pdf)
+
+- Regarding the approval for the procurement of water purifiers for students admitted to Government Hostels and Government Residential Schools under the Department of Social Justice and Special Assistance.\
+  [202603131835209322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131835209322.pdf)
+
 ## Personnel
 - Regarding extension of temporary posts in Maharashtra State Scheduled Castes Commission.\
   [202603091741236422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091741236422.pdf)

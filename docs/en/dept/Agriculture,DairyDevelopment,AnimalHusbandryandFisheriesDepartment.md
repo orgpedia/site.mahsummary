@@ -29,12 +29,21 @@
 - Regarding approval of new account head for Scheduled Tribes category under Namo Shetkari Mahasamman Nidhi Yojana.\
   [202603091731488401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091731488401.pdf)
 
+- Regarding the designation of Drawing and Disbursing Officers and Controlling Officers for the utilization of the unspent balance of the first installment of funds under the National Horticulture Mission Scheme, within the framework of the Krishi Unnati Yojana  Mission for Integrated Development of Horticulture (MIDH)...\
+  [202603131613090201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131613090201.pdf)
+
 ## Personnel
 - Regarding continuation of temporary posts in the scheme of Seed, Chemical Fertilizer, Pesticide Testing, Pesticide Residue Testing and Biological Pest Control Laboratory from 01/03/2026 to 31/08/2026.\
   [202603091510430801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091510430801.pdf)
 
 - Regarding the continuation of temporary posts in the scheme Soil Survey and Investigation and Soil Analysis Chemical Laboratory from 01.03.2026 to 31.08.2026\
   [202603091513346401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091513346401.pdf)
+
+- Regarding the continuation of temporary posts under the Directorate of Agriculturespecifically within the schemes for Vegetables, Nurseries, Fruit Nurseries, and Local Gardensfrom March 1, 2026, to August 31, 2026... (Total: 926 posts)\
+  [202603131833472401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131833472401....pdf)
+
+- Regarding the continuation of temporary posts at Taluka Seed Multiplication Centers under the Commissionerate of Agriculture, from March 1, 2026, to August 31, 2026... (Total: 248 posts)\
+  [202603131851566701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131851566701.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

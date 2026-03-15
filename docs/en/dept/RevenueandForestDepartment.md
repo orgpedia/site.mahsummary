@@ -10,6 +10,21 @@
 - Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme (2406-A185) for the year 2025-26.\
   [202603111637346319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111637346319.pdf)
 
+- Regarding the distribution of funds for civic amenity works in villages within the Naigaon and Ardhapur talukas of Nanded District that were affected by heavy rainfall/floods and subsequently rehabilitated.\
+  [202603131633061819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131633061819.....pdf)
+
+- Regarding the release of funds for the Agro-forestry sub-scheme under the Centrally Sponsored Rashtriya Krishi Vikas Yojana (RKVY).\
+  [202603131656547319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131656547319.....pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages within the Naigaon Taluka of Nanded District that were rehabilitated following heavy rainfall and floods.\
+  [202603131630354519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131630354519.pdf)
+
+- Regarding the distribution of funds under Head of Account 4406 0492 for the Concrete Afforestation Programme at the Community Level for the financial year 2025-26.\
+  [202603131653286719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131653286719.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages within Nanded District that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603131650168719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131650168719.pdf)
+
 ## Miscellaneous
 - Regarding the formation of a Special Investigation Team (SIT) to conduct a through investigation into various types of land complaints of citizens of Chatrapati Sambhajinagar District.\
   [202603091911553319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091911553319.pdf)
@@ -37,6 +52,24 @@
 
 - Regarding declaring Manager, Maharashtra Bamboo Development Board, Nagpur as the Drawing and Disbursing Officer instead of Managing Director, Maharashtra Bamboo Development Board, Nagpur.\
   [202603121500044819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121500044819.pdf)
+
+- Regarding the review of cases pending at various levels within the land acquisition process in the State.\
+  [202603131610025919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131610025919.pdf)
+
+- Forest Land- Sindhudurg Re-Diversion of 0.0148 ha. forest land for laying of Optical fiber cable of Vodafone Idea Telecom Infrastructure Ltd Project along the ROW of Padel to Nandgaon Road in Sindhudurg District under Sawantwadi Forest Division In the state of Maharashtra.\
+  [202603131823280419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131823280419.pdf)
+
+- Forest Land- Yavatmal Re-diversion of 0.0963 ha forest land for Laying Underground Optical Fiber Cable of Vodafone Idea Telecom infrastructure ltd project along the existing RoW of Pahur to Sakhra Road in Yavatmal District.\
+  [202603131821316719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131821316719.pdf)
+
+- Forest Land-Palghar Re-diversion of 4.1278 ha. Forest land under section-2 of the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for shifting of existing 220 KV Transmission Line from Dahanu to Versova in the Village Penand and Sonave, Taluka Palghar, District Palghar in the State of Maharashtra.\
+  [202603131816437819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131816437819.pdf)
+
+- Forest Land- Sindhudurg  Re-diversion of 0.4690 ha. forest land in favour of M/s Vodafone Idea Telecom Infrastructure Ltd., Pune for laying of Optical Fiber Cable along the RoW of Gadhinglaj-Ajra-Halkarni (RHS Side) in Sindhudurg District in the state of Maharashtra.\
+  [202603131825393219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131825393219.pdf)
+
+- Forest Land-Satara Re-Diversion of 0.40 Ha. Forest Land for Laying Underground Optical Fiber Cable along the Road in RoW of MDR-64 and NH-266 from Shere to Shenoli (village-Shenoli) in Karad Tehsil of Dist. Satara in the State of Maharashtra.\
+  [202603131818387419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131818387419.pdf)
 
 ## Personnel
 - Forest Land- Amravati Diversion of 0.1281 ha. Reserved Forest land for laying underground 12 dia Steel Natural Gas Pipeline to set up a Gas Distribution Network in Amravati City and surrounding area of Amravati, District in the State of Maharashtra. (Amravati Connectivity (SV-20 Bori Village to Amravati Bus Depot).\
@@ -131,6 +164,51 @@
 
 - Extension of the Supernumerary posts created for Revenue Assistant on Revenue Zonal Establishments.\
   [202603121535016119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121535016119.pdf)
+
+- Regarding the continuation of 149 temporary posts created under the Biodiversity Conservation Program during the year 2026-27.\
+  [202603131743310119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131743310119.pdf)
+
+- Continuation of Posts.\
+  [202603131749275019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131749275019.pdf)
+
+- Regarding the continuation of one temporary post in the cadre of Assistant Conservator of Forests at the Nagzira Sanctuaryunder the scheme titled Establishment of the Great Indian Bustard Sanctuary, Nagzira Sanctuary, and Tadoba National Parkduring the year 20262027.\
+  [202603131748355419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131748355419.pdf)
+
+- Continuation of Posts.\
+  [202603131754154519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131754154519.pdf)
+
+- Continuation of Posts.\
+  [202603131740387419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131740387419.pdf)
+
+- Continuation of Posts.\
+  [202603131747377319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131747377319.pdf)
+
+- Continuation of Posts.\
+  [202603131751235819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131751235819.pdf)
+
+- Continuation of Posts.\
+  [202603131736271019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131736271019.pdf)
+
+- Regarding the extension of temporary posts in various offices under the jurisdiction of the Forest Department for the period from March 1, 2026, to August 31, 2026.\
+  [202603131439350819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131439350819.pdf)
+
+- Regarding the continuation of 104 temporary postscreated under the Non-Plan Scheme for Nature Conservation and Wildlife Preservation (Melghat Tiger Project)during the year 2026-27.\
+  [202603131750582519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131750582519.pdf)
+
+- Regarding the continuation of 42 temporary posts created under the Non-Plan Scheme of the Pench Tiger Reserve during the year 20262027.\
+  [202603131745456819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131745456819.pdf)
+
+- Continuation of Posts.\
+  [202603131745542719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131745542719.pdf)
+
+- Continuation of Posts.\
+  [202603131742458119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131742458119.pdf)
+
+- Regarding extension of temporary posts from 01.03.2026 to 31.08.2026\
+  [202603131757018819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131757018819.pdf)
+
+- Continuation of Posts.\
+  [202603131738466619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131738466619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

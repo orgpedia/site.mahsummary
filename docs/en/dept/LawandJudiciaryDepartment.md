@@ -7,6 +7,9 @@
 - Regarding administrative approval to the proposal for reimbursement of the payments of 2 Resource Persons appointed for the toll-free number provided for the Charity Hospital Help Desk established under the Law and Judiciary Department to make reserved beds in the Charity Hospital\
   [202603101232403312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101232403312.pdf)
 
+- Administrative Approval Construction of a new office building, Charity Commissioner Bhavan, at Worli, Mumbai.\
+  [202603131226451112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131226451112.pdf)
+
 ## Personnel
 - Final Seniority List as on 01.01.2026  Joint Charity Commissioner, Group-A\
   [202603091151458512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091151458512.pdf)
@@ -79,6 +82,9 @@
 
 - Regarding the Continuation  of 397 temporary posts in the Family Courts in the State.\
   [202603111608066412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111608066412.pdf)
+
+- Regarding Continuation of tenure for 500 temporary posts in 100 Fast Track Courts in the State.\
+  [202603131157563412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131157563412.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

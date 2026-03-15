@@ -27,5 +27,8 @@
 - Transfer of an officer in the Executive Engineer (Civil) cadre\
   [202603121345321427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121345321427.pdf)
 
+- Regarding the extension of the tenure of temporary posts in the office of the Superintending Engineer, State-Level Technical Advisory Committee, Nashik, from March 1, 2026, to August 31, 2026.\
+  [202603131205252827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131205252827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

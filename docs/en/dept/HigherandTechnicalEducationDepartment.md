@@ -23,9 +23,15 @@
 - Regarding the appointment of a government representative on the Governing Board of Visvesvaraya National Institute of Technology (VNIT), Nagpur....\
   [202603111745571908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111745571908.pdf)
 
+- Regarding the approval for conferring the Dnyanjyoti Savitribai Phule Awards for the years 2023-24 and 2024-25.\
+  [202603131815248408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131815248408.pdf)
+
 ## Personnel
 - Regarding waiver of technical clause in temporary appointment to the post of Deputy Director, Technical Education... (Dr. Vinod Mahadevrao Mohitkar)\
   [202603121537316508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121537316508.pdf)
+
+- Regarding the Continuation of Temporary Posts within the Ministerial (Headquarters) Establishment of the Higher and Technical Education Department.\
+  [202603131121204408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131121204408.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

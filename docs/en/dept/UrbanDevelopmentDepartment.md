@@ -28,6 +28,12 @@
 - Regarding sanction of funds to Municipal Councils under the Special Scheme. For the year 2024-25 under the Account Head (4217 0603) To Babhulgaon Municipal Council, Dist. Yavatmal Amount Rs. 5.50 crore To Kalamb Municipal Council, Dist. Yavatmal Amount Rs. 3.00 crore To Ralegaon Municipal Council, Dist. Yavatmal Amount Rs. 1.50 crore Total amount Rs. 10.00 crore (Corrigendum)\
   [202603121632274325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121632274325.pdf)
 
+- Regarding the Sanction of Funds under the Scheme: Special Provision for the Development of Basic Amenities within Municipal Corporation Areas For the Financial Year 2024-25 (Under Head of Account 4217 0541) For Dhule Municipal Corporation, Dist. Dhule Amount: Rs. 5.00 Crores (Corrigendum)\
+  [202603131242501425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131242501425.pdf)
+
+- Regarding the Sanction of Funds under the Scheme: Special Provision for the Development of Basic Amenities within Municipal Corporation Areas For the Financial Year 2024-25 (Under Head of Account 4217 0541) For Sangli-Miraj-Kupwad City Municipal Corporation, Dist. Sangli Amount: Rs. 5.00 Crores (Corrigendum)\
+  [202603131214536025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131214536025.pdf)
+
 ## Miscellaneous
 - Regarding partial amendment in the service entry rules for the post of Sanitation Inspector in the Parbhani City Municipal Corporation Service Entry Rules, 2021.\
   [202603091437079125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091437079125.pdf)

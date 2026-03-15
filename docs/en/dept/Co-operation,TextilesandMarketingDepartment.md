@@ -20,6 +20,12 @@
 - Regarding declaration of Virtual Personal Deposit Account Administrators to the officers of the Cooperative, Marketing and Textiles Department for speedy disbursement and monitoring of Subsidiary Grants...\
   [202603111549539002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111549539002.pdf)
 
+- Visit of the Delegation to the Asia and the Pacific Food Systems (AFS) Forum 2026 Manila, Philippines under the leadership of the Honble Minister (Marketing  Protocol), Government of Maharashtra.\
+  [202603131136080502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131136080502.pdf)
+
+- The Supplementary Statement of Expenditure for the year 2025-26, presented during the FebruaryMarch 2026 session, as well as the allocation of funds for the year 2025-26.\
+  [202603131250043602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131250043602.pdf)
+
 ## Personnel
 - Regarding continuation of temporary posts created for continuous and concurrent audit in Maharashtra State Tribal Development Corporation and Tribal Cooperative Societies from 01/03/2026 to 31/08/2026.\
   [202603111243422202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111243422202.pdf)
@@ -32,6 +38,9 @@
 
 - Regarding extension of tenure of 39 temporary posts under the Commissioner (Textiles), Nagpur and 13 temporary posts under the Commissioner of Cooperatives and Registrar, Cooperative Societies, Pune, totaling 52 temporary posts.\
   [202603121142032802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121142032802.pdf)
+
+- Regarding the extension of temporary posts on the establishment of the State Cooperative Election Authority.\
+  [202603131610441502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131610441502.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
