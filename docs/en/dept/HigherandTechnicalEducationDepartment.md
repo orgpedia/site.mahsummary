@@ -26,6 +26,9 @@
 - Regarding the approval for conferring the Dnyanjyoti Savitribai Phule Awards for the years 2023-24 and 2024-25.\
   [202603131815248408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131815248408.pdf)
 
+- Regarding the issuance of a Letter of Intent for establishing a new college for the Academic Year 2026-27.\
+  [202603151500045808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603151500045808.pdf)
+
 ## Personnel
 - Regarding waiver of technical clause in temporary appointment to the post of Deputy Director, Technical Education... (Dr. Vinod Mahadevrao Mohitkar)\
   [202603121537316508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121537316508.pdf)
