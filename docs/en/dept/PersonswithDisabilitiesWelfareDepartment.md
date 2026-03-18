@@ -1,15 +1,15 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 16 March 2026 - 21 March 2026
+**Date Range**: 23 March 2026 - 28 March 2026
 
-
-## Funds
-- Regarding distribution of arrears and permissible per capita subsidy for the year 2024-25 to mentally ill persons from Regional Psychiatric Hospitals who have been shifted to rehabilitation homes/halfway homes run by NGOs.\
-  [202603091254311035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091254311035.pdf)
 
 ## Miscellaneous
-- Regarding the approval for the restructuring of the Department of Disability Welfare.\
-  [202603131830481635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131830481635.....pdf)
+- Regarding the declaration of a Divyang Rehabilitation Centre under the Namo Divyang Shakti Abhiyan.\
+  [202603171530154535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171530154535.pdf)
+
+## Personnel
+- Regarding the extension of the tenure of 350 temporary posts on the establishment of the Commissioner, Directorate of Empowerment of Persons with Disabilities, State of Maharashtra, Pune.\
+  [202603171803263335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171803263335.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,46 +1,33 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 16 March 2026 - 21 March 2026
+**Date Range**: 23 March 2026 - 28 March 2026
 
 
 ## Funds
-- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Deshbhakta Ratnapanna Kumbhar Shirol Backward Classes Cooperative Spinning Mill Ltd., Jaysingpur, Tal. Shirol, Dist. Kolhapur.\
-  [202603111646565502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111646565502.pdf)
+- Regarding the recovery of a Margin Money Loan for Working Capitalsanctioned by the National Cooperative Development Corporation (NCDC) and routed through the Government of Maharashtragranted to the Loknete Sundarrao Solanke Cooperative Sugar Factory Ltd., Sundarnagar, Taluka Dharur, District Beed.\
+  [202603161909136302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161909136302.pdf)
 
-- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills - Shri Venkatesh Shetkari Vinkari Cooperative Spinning Mill Ltd., Ichalkaranji, Tal. Hatkanangle, Dist. Kolhapur.\
-  [202603111649152102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111649152102.pdf)
+- Regarding the sanction of a Margin Money Loan for Working Capital to Shri Bhogavati Cooperative Sugar Factory Ltd., Shahunagar Parite, Taluka Karvir, District Kolhapura cooperative sugar factoryby the National Cooperative Development Corporation (NCDC), routed through the Government of Maharashtra.\
+  [202603161910472502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161910472502.pdf)
 
-- Regarding provision of 12 interest on loans received from financial institutions to cooperative spinning mills... Datta Shetkari Vinkari Cooperative Spinning Mill Ltd., Ichalkaranji, Tal. Hatkanangle, Dist. Kolhapur.\
-  [202603111643468502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111643468502.pdf)
+- Regarding the sanction of a Margin Money Loan for Working Capital to Shri Dudhganga Vedganga Cooperative Sugar Factory Ltd., Bidri (Mauninagar), Taluka Kagal, District Kolhapur, by the National Cooperative Development Corporation (NCDC), routed through the Government of Maharashtra.\
+  [202603161904566802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161904566802.pdf)
+
+- Regarding the sanction of a Margin Money Loan amounting to Rs. 180.20 Crores for working capital purposes to Mula Cooperative Sugar Factory Ltd., Sonai, Taluka Newasa, District Ahilyanagara cooperative sugar factoryby the National Cooperative Development Corporation (NCDC), routed through the Government of Maharashtra.\
+  [202603161902469102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161902469102.pdf)
+
+- Regarding the distribution of funds for celebrating National Handloom Day on August 7, 2025, and for implementing planned programs aimed at the promotion and publicity of the Integrated and Sustainable Textile Policy, 202328.\
+  [202603161134033202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161134033202.pdf)
+
+- Regarding the sanction of a Margin Money Loan for Working Capital to Kranti Agrani Dr. G.D. Lad Cooperative Sugar Factory Ltd., Kindal, Taluka Palus, District Sanglisanctioned by the National Cooperative Development Corporation (NCDC) and routed through the Government of Maharashtra.\
+  [202603161900149402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161900149402.pdf)
+
+- Regarding the sanction of a Margin Money Loan for working capital to the Tatyasaheb Kore Warna Cooperative Sugar Factory Ltd., Warnanagar, Taluka Panhala, District Kolhapursanctioned by the National Cooperative Development Corporation (NCDC) and routed through the Government of Maharashtra.\
+  [202603161907195702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161907195702.pdf)
 
 ## Miscellaneous
-- Visit of the Delegation to the Asia and the Pacific Food Systems (AFS) Forum 2026 Manila, Philippines under the leadership of the Honble Minister (Marketing  Protocol), Government of Maharashtra.\
-  [202603101458162702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603101458162702.pdf)
-
-- Regarding declaration of Virtual Personal Deposit Account Administrators to the officers of the Cooperative, Marketing and Textiles Department for speedy disbursement and monitoring of Subsidiary Grants...\
-  [202603111549539002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111549539002.pdf)
-
-- Visit of the Delegation to the Asia and the Pacific Food Systems (AFS) Forum 2026 Manila, Philippines under the leadership of the Honble Minister (Marketing  Protocol), Government of Maharashtra.\
-  [202603131136080502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131136080502.pdf)
-
-- The Supplementary Statement of Expenditure for the year 2025-26, presented during the FebruaryMarch 2026 session, as well as the allocation of funds for the year 2025-26.\
-  [202603131250043602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131250043602.pdf)
-
-## Personnel
-- Regarding continuation of temporary posts created for continuous and concurrent audit in Maharashtra State Tribal Development Corporation and Tribal Cooperative Societies from 01/03/2026 to 31/08/2026.\
-  [202603111243422202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111243422202.pdf)
-
-- Mahatma Jyotiba Phule Regarding continuation of temporary posts created for implementing continuous and concurrent audit scheme in various Executive Service Cooperative Societies and 7 other institutions from 01/03/2026 to 31/08/2026.\
-  [202603111241459802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111241459802....pdf)
-
-- Regarding the request for transfer of Mr. Nilesh N. Nikhade, Assistant Commissioner (Technical) Group B (Gazetted).\
-  [202603121145184702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121145184702.pdf)
-
-- Regarding extension of tenure of 39 temporary posts under the Commissioner (Textiles), Nagpur and 13 temporary posts under the Commissioner of Cooperatives and Registrar, Cooperative Societies, Pune, totaling 52 temporary posts.\
-  [202603121142032802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121142032802.pdf)
-
-- Regarding the extension of temporary posts on the establishment of the State Cooperative Election Authority.\
-  [202603131610441502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131610441502.pdf)
+- Regarding the constitution of a committee to formulate criteria for bringing new cooperative spinning mills under the ambit of financial assistance, with a view to achieving consensus.\
+  [202603161214370402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161214370402.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

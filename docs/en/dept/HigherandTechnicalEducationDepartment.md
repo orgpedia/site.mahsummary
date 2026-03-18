@@ -1,40 +1,43 @@
 # Higher and Technical Education Department
 
-**Date Range**: 16 March 2026 - 21 March 2026
+**Date Range**: 23 March 2026 - 28 March 2026
 
 
 ## Funds
-- Demand No. W-4-2205-Arts and Culture, 800-Other Expenditure, (01) Committees and Events, (01)(01) Committees and Events (Compulsory) (22050458) Regarding approval of the disbursement of funds in the year 2025-26.\
-  [202603091812479108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091812479108.pdf)
+- Regarding the disbursement of the third and fourth installments of the non-salary assistance grant to aided arts institutions.\
+  [202603161623174008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161623174008.pdf)
 
-- Demand No. W-4-2205-Arts and Culture, 800-Other Expenditure, (01) Committees and Events, (01)(01) Committees and Events (Compulsory) (22050458) Regarding approval of the disbursement of funds in the year 2025-26.\
-  [202603091815376308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603091815376308....pdf)
+- Regarding the disbursement of funds for the construction of the second phase of the Maharshi Karve Womens Empowerment Knowledge Complex at Visapur, Ballarpur (District Chandrapur), under the S.N.D.T. Womens University...\
+  [202603171500079908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171500079908.pdf)
+
+- Regarding the approval for the disbursement of funds to the Maharashtra State Teacher Development Institute from the sanctioned budgetary allocation for the financial year 2025-26.\
+  [202603161758578108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161758578108.pdf)
+
+- Regarding the disbursement of funds amounting to 50 Lakhs for operationalizing the office of the Maharashtra State Council of Educational Research and Training (MSCERT)...\
+  [202603171503476708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171503476708.pdf)
 
 ## Miscellaneous
-- Regarding continuation of appointment of lecturers in Government Technical Colleges after completing their probationary period.\
-  [202603111504402408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111504402408.pdf)
+- Regarding the approval for the disbursement of funds for the remaining construction work of the State Central Library, Kalina University Campus, Santacruz (East), Plot (C.T.S. No. 4094/1).\
+  [202603171903496708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171903496708.pdf)
 
-- Regarding continuation of appointment of Head of Department in Government Technical College after completion of probationary period.\
-  [202603111508020608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111508020608.pdf)
+- Regarding the Granting of Approval for the Implementation of New Short-Term, Vocation-Oriented Diploma Courses under the Ambit of the Maharashtra State Board of Technical Education, Commencing from the Academic Year 2025-26.\
+  [202603161823349708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161823349708.pdf)
 
-- Regarding holding an Idea Design Competition for the construction of an art gallery and museum in the premises of the Sir J.J. School of Art.\
-  [202603111100329308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111100329308.pdf)
+- Regarding the disbursement of funds to the Sir J.J. School of Art, Architecture and Design, Mumbai (Deemed-to-be University under the De Novo category).\
+  [202603161621467008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161621467008.pdf)
 
-- Regarding the appointment of a government representative on the Governing Board of Visvesvaraya National Institute of Technology (VNIT), Nagpur....\
-  [202603111745571908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111745571908.pdf)
+- Regarding the authorization of the Joint Director, Directorate of Technical Education (Regional Office), to grant technical approval for innovative schemes to be implemented in institutions under the Directorate of Technical Education, within the framework of the District Annual Plan...\
+  [202603161657183208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161657183208.pdf)
 
-- Regarding the approval for conferring the Dnyanjyoti Savitribai Phule Awards for the years 2023-24 and 2024-25.\
-  [202603131815248408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131815248408.pdf)
+- For the Financial Year 2025-26: Reappropriation Demand No. W-2, Major Head 2202, Higher Education...\
+  [202603171507293208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171507293208.pdf)
 
-- Regarding the issuance of a Letter of Intent for establishing a new college for the Academic Year 2026-27.\
-  [202603151500045808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603151500045808.pdf)
+- Regarding the Reconstitution of the Mahatma Jyotirao Phule Biography and Source Material Publication Committee.\
+  [202603171819226008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171819226008.pdf)
 
 ## Personnel
-- Regarding waiver of technical clause in temporary appointment to the post of Deputy Director, Technical Education... (Dr. Vinod Mahadevrao Mohitkar)\
-  [202603121537316508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603121537316508.pdf)
-
-- Regarding the Continuation of Temporary Posts within the Ministerial (Headquarters) Establishment of the Higher and Technical Education Department.\
-  [202603131121204408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603131121204408.pdf)
+- Regarding the continuation of temporary posts under the Directorate of Technical Education, Government of Maharashtra, Mumbai, for the period from 01.03.2026 to 31.08.2026.\
+  [202603161831066908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161831066908.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
