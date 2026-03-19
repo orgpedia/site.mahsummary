@@ -35,6 +35,15 @@
 - Regarding the Reconstitution of the Mahatma Jyotirao Phule Biography and Source Material Publication Committee.\
   [202603171819226008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171819226008.pdf)
 
+- Regarding the constitution of a sub-committee of the State Library Council to make recommendations regarding the amendment of the State Library Council and District Library Committees Procedure Rules, 1973  and the establishment of a study centre through the Directorate of Libraries.\
+  [202603181252426108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181252426108.pdf)
+
+- Regarding the deputation of faculty members from Government Polytechnics for higher studies, under the Quality Improvement Scheme.\
+  [202603181644116508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181644116508.pdf)
+
+- Regarding the deputation of faculty members from Government Engineering Colleges for higher studies, under the Quality Improvement Scheme.\
+  [202603181858313808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181858313808.pdf)
+
 ## Personnel
 - Regarding the continuation of temporary posts under the Directorate of Technical Education, Government of Maharashtra, Mumbai, for the period from 01.03.2026 to 31.08.2026.\
   [202603161831066908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161831066908.pdf)

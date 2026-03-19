@@ -11,5 +11,9 @@
 - Final Seniority List as of 01/01/2026 for the post of Junior Engineer (Electrical) in the Public Works Department.\
   [202603171311137418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171311137418.pdf)
 
+## Personnel
+- Final Seniority List as of 01/01/2026 for the Cadre of Deputy Engineer (Electrical)  Graduate, in the Public Works Department.\
+  [202603181518224618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181518224618.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

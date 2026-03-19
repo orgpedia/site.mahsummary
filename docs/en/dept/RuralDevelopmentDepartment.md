@@ -25,6 +25,10 @@
 - Regarding granting administrative approval to the development works to be carried out under Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class).  Shiveshwar Sansthan, Waki, Tal. Kannada, Dist. Chhatrapati Sambhajinagar\
   [202603161222344320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161222344320.pdf)
 
+## Miscellaneous
+- Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill Gargoti  Amravati. Major Account Head - 24150624, 24150312, 24150321, 24150339.  8th installment (Salary)\
+  [202603171534579520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171534579520.pdf)
+
 ## Personnel
 - Regarding extension of tenure of 43 temporary posts approved for maintaining the provident fund accounts of Zilla Parishad employees\
   [202603161331112120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161331112120.pdf)

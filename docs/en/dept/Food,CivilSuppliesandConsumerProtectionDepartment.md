@@ -17,5 +17,8 @@
 - Regarding the extension of tenure of 11 temporary post at the State Food Commission, Mumbai, for the period from 01.03.2026 to 31.08.2026\
   [202603161814459406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161814459406.pdf)
 
+- Regarding the transfer of Mr. Satish Keshavrao Agade, Grain Procurement Officer (Group-B)...\
+  [202603171338516406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171338516406.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

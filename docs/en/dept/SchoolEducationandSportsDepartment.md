@@ -42,5 +42,20 @@
 - Regarding the temporary appointment by promotion to the post of District Sports Officer / Assistant Director, Group-A (Gazetted).\
   [202603161515537621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161515537621.pdf)
 
+- Regarding the extension of temporary posts in the offices of the Latur Educational Division, under the jurisdiction of the School Education Department, for the period from March 1, 2026, to August 31, 2026.\
+  [202603171105119421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171105119421.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603171937208721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171937208721.pdf)
+
+- Regarding the extension of temporary posts within the Amravati Educational Division, under the jurisdiction of the School Education Department, for the period from March 1, 2026, to August 31, 2026.\
+  [202603171109180821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171109180821.pdf)
+
+- Regarding the extension of temporary posts in the offices of the Pune Educational Division, under the jurisdiction of the School Education Department, for the period from March 1, 2026, to August 31, 2026.\
+  [202603171112369721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171112369721.pdf)
+
+- Regarding the extension of temporary posts in the offices of the Nashik Educational Division, under the jurisdiction of the School Education Department, for the period from March 1, 2026, to August 31, 2026.\
+  [202603171100203621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171100203621.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

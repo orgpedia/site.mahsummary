@@ -37,6 +37,21 @@
 - Regarding the grant of financial approval for the organizational expenses of the Translation Workshop program.\
   [202603171712039723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171712039723....pdf)
 
+- Regarding the grant of administrative approval to the works of the Directorate of Tourism and the disbursement of funds under the Regional Tourism Development Scheme for the year 2025-26.\
+  [202603181259418723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181259418723.pdf)
+
+- Regarding the grant of ex post facto administrative approval to the bills submitted by Sulabha Travelsan agency providing vehicles on a rental basis (excluding drivers) to the office of the P.L. Deshpande Maharashtra Kala Academyand the authorization for the disbursement of funds.\
+  [202603181507325123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181507325123.pdf)
+
+- Regarding the approval for the release of funds for the bus construction workPhase I of the Museum on Wheels initiativeunder the Azadi Ka Amrit Mahotsav celebration...\
+  [202603181748007923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181748007923.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Malojiraje Bhosale Gadhi (Fortress) at Verul, Taluka Khultabad, District Chhatrapati Sambhajinagara State-Protected Monument.\
+  [202603181751322323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181751322323.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Raghobadadawada, Kopargaon, Taluka Kopargaon, District Ahmednagar...\
+  [202603181754128723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181754128723.pdf)
+
 ## Miscellaneous
 - Regarding the grant of financial approval for the expenditure on organizing the Gujarati  Geet Gurjari program by the Maharashtra State Gujarati Sahitya Akademi.\
   [202603171725029923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171725029923.pdf)
@@ -77,9 +92,21 @@
 - Regarding the grant of financial approval for the expenditure on the program organized on the occasion of Indian Languages Day.\
   [202603171722178423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171722178423.pdf)
 
+- Regarding the allocation of funds for the conservation and repair works of Mulher Fort (Mulher, Taluka Baglan, District Nashik)a State-Protected Monument.\
+  [202603181753005023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181753005023.pdf)
+
+- Regarding the grant of administrative and financial approval for the performance of a cultural program and the associated expenditure during the reception ceremony for the Honorable President of Finland.\
+  [202603181803176623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181803176623.pdf)
+
+- Regarding the Granting of Administrative and Financial Approval for the Expenditure on Organizing the Womens Folk Art Festival.\
+  [202603181805030323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181805030323.pdf)
+
 ## Personnel
 - Regarding the designation of the Financial Advisor and Chief Accounts Officer of the Maharashtra Film, Stage and Cultural Development Corporation as the Virtual Personal Deposit Account Administrator (VPDAA) for the utilization of funds from the Assistance Grant.\
   [202603171122501123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171122501123.pdf)
+
+- Regarding the Extension of Temporary Posts in the Directorate of Archaeology and Museums...\
+  [202603181749524423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181749524423.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,9 +25,22 @@
 - Regarding the sanction of a Margin Money Loan for working capital to the Tatyasaheb Kore Warna Cooperative Sugar Factory Ltd., Warnanagar, Taluka Panhala, District Kolhapursanctioned by the National Cooperative Development Corporation (NCDC) and routed through the Government of Maharashtra.\
   [202603161907195702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161907195702.pdf)
 
+- Regarding the grant of administrative approval to the estimated budget for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Achalpur, Dist. Amravati.\
+  [202603181153120602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181153120602.pdf)
+
+- Regarding the implementation of the recruitment process in Urban Cooperative Banks within the State through an online mode.\
+  [202603171451084202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171451084202.pdf)
+
 ## Miscellaneous
 - Regarding the constitution of a committee to formulate criteria for bringing new cooperative spinning mills under the ambit of financial assistance, with a view to achieving consensus.\
   [202603161214370402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161214370402.pdf)
+
+- Vehicle Review of the Office of the Maharashtra State Cooperative Appellate Court, Mumbai, and its subordinate offices, in accordance with the approval of the State-Level Vehicle Review Committee.\
+  [202603171607312402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171607312402.pdf)
+
+## Personnel
+- Regarding the approval for the continued retention of temporary posts on the establishment of the Directorate of Sericulture for the period from March 1, 2026, to August 31, 2026.\
+  [202603171552324802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171552324802.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

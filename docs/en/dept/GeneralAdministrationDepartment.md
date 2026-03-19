@@ -14,5 +14,9 @@
 - Training under the State Training Policy for the year 2026-27.  Post-promotion training of Under Secretary (Group-A).\
   [202603161750481907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161750481907.pdf)
 
+## Personnel
+- Regarding the Transfer of Officers belonging to the Mantralaya Section Officer Cadre\
+  [202603171716344407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171716344407....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

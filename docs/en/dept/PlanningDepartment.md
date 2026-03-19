@@ -25,6 +25,33 @@
 - Regarding the Distribution of Funds for the District Innovation Scheme under the 13th Finance Commission\
   [202603171557487716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171557487716....pdf)
 
+- Regarding the allocation of funds for the year 2025-26 under the Shri Kshetra Tuljabhavani Devi Temple Development Plan.\
+  [202603181207077116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181207077116.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Integrated Tourism Development Plan for Water Tourism, Religious Tourism, Nature Tourism, Agri-Tourism, and Vineyard Tourism Development at the Ujani Reservoir in Solapur District.\
+  [202603181639588216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181639588216.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Development Plan for the Shri Karvir Nivasini Mahalaxmi Ambabai Temple in Kolhapur City.\
+  [202603181202552216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181202552216.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the development plan for the Renovation of Ashtavinayak Ganpati Temples.\
+  [202603181635088316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181635088316.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Pilgrimage Site Development Plan for Shri Kshetra Aundha (Nagnath), Taluka Aundha, District Hingoli.\
+  [202603181636540816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181636540816.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Shri Kshetra Jotiba Temple and Precinct Development Plan.\
+  [202603181205092216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181205092216.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Shri Kshetra Saptashrungi Devi, Saptashrungi Gad, Taluka Kalwan, District Nashik Development Plan.\
+  [202603181641377816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181641377816.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Shri Kshetra Bhimashankar Development Plan (Kumbh Mela 2027  Crowd Management and Other Amenities).\
+  [202603181200263316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181200263316.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Tiger and Lions Point Development Plan at Kurvande, Taluka Maval, District Pune.\
+  [202603181638431816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181638431816.pdf)
+
 ## Miscellaneous
 - Regarding the conduct of correspondence with the Planning Department by District Planning Committee offices through the e-Office system.\
   [202603171731009416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171731009416.pdf)
@@ -35,6 +62,9 @@
 ## Personnel
 - Regarding extension of tenure of 94 posts created under Human Development Program of Planning Department from 1st March, 2026 to 31 March  2026.\
   [202603161237166516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161237166516.pdf)
+
+- Regarding the publication of the Final Seniority List as of 01/01/2023 (covering the period from 01/01/2022 to 31/12/2022) for the Research Officer/Statistical Officer, Group-B cadre within the Directorate of Economics and Statistics.\
+  [202603181451384616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181451384616..............pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

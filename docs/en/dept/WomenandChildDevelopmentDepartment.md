@@ -7,9 +7,18 @@
 - Grant Release for Adarsh Anganwadi Scheme\
   [202603161453015530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161453015530.pdf)
 
+- Demand No. X-1, 2235, under the Women and Child Development Department, regarding the distribution of provisions on mandatory matters under the main head of Social Security and Welfare.\
+  [202603171618227930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171618227930.pdf)
+
+- Grant Release for ICDS General in FY 2025-26\
+  [202603171435158930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171435158930.pdf)
+
 ## Miscellaneous
 - Regarding offline verification of service books of retired and working officers/employees of Maharashtra State Commission for Women.\
   [202603161804450330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161804450330.pdf)
+
+- Regarding the distribution of funds under Account Head 2235 2949 for the schemes of Subsidiary Grant to Women Multipurpose Centers for the financial year 2025-26\
+  [202603171512183730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171512183730.pdf)
 
 ## Personnel
 - Regarding the extension of the tenure of 52 temporary posts in the Beggars Homes under the establishment of the Commissioner, Women and Child Development, State of Maharashtra, Pune, for the period from March 1, 2026, to August 31, 2026.\
