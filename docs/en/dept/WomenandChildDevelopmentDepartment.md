@@ -13,6 +13,9 @@
 - Grant Release for ICDS General in FY 2025-26\
   [202603171435158930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171435158930.pdf)
 
+- Grant Release for the Scheme Probation of Offenders in the Financial Year 2025-26 under the major head 2235 0113.\
+  [202603181500585330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181500585330.pdf)
+
 ## Miscellaneous
 - Regarding offline verification of service books of retired and working officers/employees of Maharashtra State Commission for Women.\
   [202603161804450330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161804450330.pdf)

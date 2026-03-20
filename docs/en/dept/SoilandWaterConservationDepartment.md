@@ -1,11 +1,15 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 16 March 2026 - 21 March 2026
+**Date Range**: 23 March 2026 - 28 March 2026
 
 
 ## Funds
-- Regarding the distribution of Central share and equivalent State share funds in accordance with the Mother Sanction approved by the Central Government under the Centrally Sponsored Pradhan Mantri Krishi Sinchhan Yojana- Watershed Development Component 2.0 scheme.\
-  [202603111236287226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603111236287226.pdf)
+- Regarding the distribution of funds under the Jalyukt Shivar Abhiyan 2.0 (Account Head 4402 2781) for the Financial Year 2025-26. Fund Distribution Order No. 2.\
+  [202603181930037226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181930037226.pdf)
+
+## Personnel
+- Regarding the repatriation of the services of Mr. Sanjay Baldev Kumbhare, Water Conservation Officer, Group-B (Non-Gazetted), to the Water Resources Department.\
+  [202603181521119726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181521119726.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

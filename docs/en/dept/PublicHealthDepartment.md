@@ -13,6 +13,9 @@
 - Regarding the disbursement of funds approved through supplementary demand in June 2025 for the purchase of new equipment, chemicals, glassware and furniture required for the upgradation of the laboratory under the Public Health Department....Supplemental letter\
   [202603161528310317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161528310317.pdf)
 
+- Regarding the disbursement of funds approved through supplementary demand in the Winter Session of the Legislative Assembly 2025 under the objective of Account Head 2210 1053, 51 Motor Vehicles to pay the amount of the fee for hearses purchased for health institutions in the state and Regarding approval to provide funeral expenses that have been overdue for more than one year.\
+  [202603181417097117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181417097117.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for expenditure on medicines, medical supplies, machinery and medical equipment in the financial year 2025-26. (Corrigendum)\
   [202603171816032417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171816032417.pdf)
@@ -22,6 +25,9 @@
 
 - Regarding redistribution of state share grants from head 22105246 to newly received head 2210K622 for general category under National Rural Health Mission, NHM, under centrally sponsored National Health Mission, and distribution to State Health Society.\
   [202603171145599517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171145599517.pdf)
+
+- Regarding upgrading of sub-district and rural hospitals to eliminate health problems in the tribal area of Melghat in Amravati district.\
+  [202603181437430817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181437430817.pdf)
 
 ## Personnel
 - Continuation of 174 temporary posts of Medical Officers (Group A and B) in Primary Health Centers of Zilla Parishad under the authority of Deputy Director, Health Services, Nagpur Circle, Nagpur.\
