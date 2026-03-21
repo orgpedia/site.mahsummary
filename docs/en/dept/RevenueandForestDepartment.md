@@ -28,6 +28,21 @@
 - Regarding the grant of Revised Administrative Approval for the implementation of the Advertising Media Plan for the Financial Year 2025-26, through the Revenue Department...\
   [202603181917420319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181917420319.......pdf)
 
+- Regarding the distribution of funds for civic amenity works in villages within the Naigaon Taluka of Nanded District that were rehabilitated following heavy rainfall and floods.\
+  [202603201448003819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201448003819.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages within the Naigaon Taluka of Nanded District that were rehabilitated following heavy rainfall and floods.\
+  [202603201446296019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201446296019.pdf)
+
+- Regarding the extension of the scheme titled Establishment of Nurseries at Circle/Revenue Division and Taluka Levels for Sapling Production using High Technology, under the broader initiative Modernization and Strengthening of Dr. Babasaheb Ambedkar Government Central Nurseries, up to the year 2028-29.\
+  [202603201458264219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201458264219.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages within the Mudkhed Taluka of Nanded District that were rehabilitated following disruption caused by heavy rainfall and floods.\
+  [202603201450242419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201450242419.pdf)
+
+- Regarding the disbursement of pending funds for works undertaken during the year 2023-24 under the Head of Account 24068551, pertaining to the Van Mahotsav scheme.\
+  [202603201853091419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201853091419.pdf)
+
 ## Miscellaneous
 - Forest Land- Yavatmal Re-Diversion of 0.3139 Ha of forest land for Laying Underground Optical Fiber Cable duct  cable within RoW of existing Washim to Pusad Road in Yavatmal District in the state of Maharashtra.\
   [202603171700367119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171700367119.pdf)
@@ -43,6 +58,12 @@
 
 - Regarding Calling Attention Notice No. 618 concerning the land acquisition case in Nandurbar District (Village Gangapur, Taluka Nawapur).\
   [202603181209364619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181209364619.pdf)
+
+- Regarding the disbursement of funds under the scheme Construction of Administrative Buildings (4406-0026) for the year 2025-26.\
+  [202603201716542619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201716542619.pdf)
+
+- Regarding the Finalization of the Zonal Master Plan for the Eco-Sensitive Zone of Sanjay Gandhi National Park.\
+  [202603201912592219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201912592219.pdf)
 
 ## Personnel
 - Continuation of Posts.\
@@ -65,6 +86,18 @@
 
 - Regarding the continuation of temporary posts under the Non-Plan Scheme Forest Conservation  General Protection during the year 2026-27.\
   [202603181719343419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181719343419.pdf)
+
+- Regarding the Extension of Temporary Posts for Staff/Officers for Afforestation under the Employment Guarantee Scheme for the Year 2026-27.\
+  [202603201450572319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201450572319.pdf)
+
+- Regarding extension of 46 temporary posts in the Circle of Chief Conservator of Forests, Education and Training, Pune in the year 2026-27 (Dt.01.03.2026 to Dt.31.08.2026)...\
+  [202603201317099119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201317099119.pdf)
+
+- Regarding Partial Modification in the Postings of Probationary Deputy Superintendents of Land Records (Group-B) under the Combined Probationary Training Program-9.\
+  [202603201726022519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201726022519.pdf)
+
+- Regarding extension of 2307 temporary posts in the Registration and Stamps Department.  Dated 01.03.2026 to Dated 31.08.2026\
+  [202603201347178919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201347178919.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

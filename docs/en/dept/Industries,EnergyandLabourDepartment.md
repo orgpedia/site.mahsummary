@@ -19,6 +19,15 @@
 - Regarding the distribution of Rs. 217.93 crore grant in the year 2025-26 for concession in electricity tariff to Scheduled Caste agricultural pump consumer beneficiaries under the Special Component Programme of the Social Justice Department\
   [202603171529401310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171529401310.pdf)
 
+- Regarding the distribution of Rs. 30.00 crore in cash to the Mahaurja Office as State Government share for Scheduled Tribe beneficiaries under Pradhan Mantri Kusum Component B. (Demand No. T-5, Account Head No. 28100974)\
+  [202603201541260910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201541260910.pdf)
+
+- Regarding the distribution of a grant of Rs. 20.00 crore in cash to the Mahavitaran Company as State Government share for Scheduled Tribe beneficiaries under Pradhan Mantri Kusum Ghatak B Yojana. (Demand No. T-5, Account Head No. 28100974)\
+  [202603201539323110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201539323110.pdf)
+
+- Koradi, Tal. Kamti, Dist. Nagpur can provide all the stakeholders for the construction of 2x660 MW. Supertical technology based on legal coal power generation.\
+  [202603201757016710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201757016710.pdf)
+
 ## Miscellaneous
 - Regarding the approval of expenditure for the first-phase subsidy from the State Government towards the establishment of a Common Facility Centre for the Sweet and Spongy Bakers Cluster industrial cluster project (Taluka: Malegaon, District: Nashik), under the Maharashtra State Industrial Cluster Development Programme (MSICDP).\
   [202603181054231510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181054231510.pdf)
@@ -38,9 +47,15 @@
 - Regarding the approval of expenditure for the first installment of the State Governments share of the subsidy towards the establishment of the Common Facility Centre for the Aluminum Cluster industrial project at Sangamner, District Ahilyanagar, under the Maharashtra State Industrial Cluster Development Programme (MSICDP).\
   [202603181819079410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181819079410.pdf)
 
+- Regarding the establishment of a Task Force for the development and implementation of the Departments e-services...\
+  [202603201617186710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201617186710.pdf)
+
 ## Personnel
 - Regarding appointment by promotion to the post of Electrical Duty Inspector, Group-B (Gazetted), from the cadres of Superintendent / Chief Clerk / Assistant Electrical Duty Inspector (Group-C) within the Electrical Inspectorate.\
   [202603161626276010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161626276010.pdf)
+
+- Regarding partial modification and mid-term transfer in the post-promotion postings of Joint Directors of Industries (Group-A Cadre) on the establishment of the Directorate of Industries.\
+  [202603201234023110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201234023110.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

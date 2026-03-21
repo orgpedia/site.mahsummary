@@ -102,5 +102,11 @@
 - Regarding the extension of temporary posts within the Kolhapur Educational Division, under the jurisdiction of the School Education Department, for the period from March 1, 2026, to August 31, 2026.\
   [202603181812325721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181812325721.pdf)
 
+- Re-appropriation for the Year 2025-26. Regarding the Distribution of Funds for the Purchase of Vehicles for the Director and Joint Director, State Council of Educational Research and Training (SCERT), Pune, and the Director (Planning), Directorate of Planning, Pune.\
+  [202603201525301121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201525301121.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603201733457221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201733457221.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

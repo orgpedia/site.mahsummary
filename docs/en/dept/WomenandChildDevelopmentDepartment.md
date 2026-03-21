@@ -16,12 +16,21 @@
 - Grant Release for the Scheme Probation of Offenders in the Financial Year 2025-26 under the major head 2235 0113.\
   [202603181500585330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181500585330.pdf)
 
+- Regarding distribution of funds for supplementary feeding under the Integrated Child Development Services Scheme.\
+  [202603201044009030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201044009030.pdf)
+
+- Fund distribution for general matters under the Integrated Child Development Services Scheme for the financial year 2025-26\
+  [202603201043425430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201043425430.pdf)
+
 ## Miscellaneous
 - Regarding offline verification of service books of retired and working officers/employees of Maharashtra State Commission for Women.\
   [202603161804450330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161804450330.pdf)
 
 - Regarding the distribution of funds under Account Head 2235 2949 for the schemes of Subsidiary Grant to Women Multipurpose Centers for the financial year 2025-26\
   [202603171512183730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171512183730.pdf)
+
+- Regarding the disbursement of funds under  budget head 2235 A857 for the financial year 2025-26.\
+  [202603201324084630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201324084630.pdf)
 
 ## Personnel
 - Regarding the extension of the tenure of 52 temporary posts in the Beggars Homes under the establishment of the Commissioner, Women and Child Development, State of Maharashtra, Pune, for the period from March 1, 2026, to August 31, 2026.\

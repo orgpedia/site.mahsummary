@@ -52,6 +52,15 @@
 - Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Raghobadadawada, Kopargaon, Taluka Kopargaon, District Ahmednagar...\
   [202603181754128723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181754128723.pdf)
 
+- Regarding the disbursement of funds for the Womens Arts Festival 2026, scheduled to be held at the P.L. Deshpande Maharashtra Kala Academy, Mumbai, from March 5 to March 8, 2026.\
+  [202603201543492223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201543492223.pdf)
+
+- Regarding the grant of administrative and financial approval for organizing a cultural program and incurring the associated expenditure on the occasion of the reception ceremony for the Honble Prime Minister of India and the Honble President of France.\
+  [202603201503454123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201503454123.pdf)
+
+- Regarding the approval of expenditure for the services pertaining to a total of 52 (unskilled) vacant posts in the Group-D cadrecomprising 11 Multi-purpose Employees and 41 Record Bearerson the establishment of the Directorate of Archives, Mumbai.\
+  [202603201547596923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201547596923.pdf)
+
 ## Miscellaneous
 - Regarding the grant of financial approval for the expenditure on organizing the Gujarati  Geet Gurjari program by the Maharashtra State Gujarati Sahitya Akademi.\
   [202603171725029923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171725029923.pdf)
@@ -100,6 +109,21 @@
 
 - Regarding the Granting of Administrative and Financial Approval for the Expenditure on Organizing the Womens Folk Art Festival.\
   [202603181805030323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181805030323.pdf)
+
+- Regarding the grant of administrative and financial approval for the performance of a cultural program and the associated expenditure during the reception ceremony for the Honorable President of Canada.\
+  [202603201505342523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201505342523.pdf)
+
+- Regarding the grant of administrative and financial approval for organizing Mogra Phulalaa music-centric cultural program based on the life and universal philosophy of Saint Dnyaneshwar Maharajon the occasion of his 750th birth anniversary year, and for the expenditure incurred thereon.\
+  [202603201501158423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201501158423.pdf)
+
+- Regarding the grant of financial approval for the expenditure on organizing the tableau parade at Shivaji Park, Mumbai, on the occasion of Republic Day.\
+  [202603201736355623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201736355623.pdf)
+
+- Regarding the organization of the cultural program Sarva Kahi Samashti and the grant of administrative and financial approval for the associated expenditure.\
+  [202603201738164823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201738164823.pdf)
+
+- Regarding the disbursement of funds to cover the expenditure incurred on the wooden floating partitions procured for the Exhibition Hall located on the first floor of the Administrative Building within the complex of the P.L. Deshpande Maharashtra Kala Academy, Mumbai.\
+  [202603201545572523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201545572523.pdf)
 
 ## Personnel
 - Regarding the designation of the Financial Advisor and Chief Accounts Officer of the Maharashtra Film, Stage and Cultural Development Corporation as the Virtual Personal Deposit Account Administrator (VPDAA) for the utilization of funds from the Assistance Grant.\

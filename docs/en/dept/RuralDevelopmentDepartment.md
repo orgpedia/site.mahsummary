@@ -46,6 +46,12 @@
 - Regarding granting administrative approval to the development works to be carried out under Punyashloka Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class). Shri. Sola Shivling, Shaineshwar Devasthan, Solashi, Tal. Koregaon, Dist. Satara.\
   [202603181231468120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181231468120.pdf)
 
+- Regarding the distribution of central share of Rs. 600,00,00,000/- and State share of Rs. 400,00,00,000/- under the Pradhan Mantri Awas Yojana (Rural) (General) Component in the financial year 2025-26, including the administrative fund of the Central Government.\
+  [202603201813204720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201813204720.pdf)
+
+- Regarding the disbursement of the Turnkey Fee (Plant Maintenance) for the year 2022-2023, under the New National Biogas and Organic Manure Management Programme.\
+  [202603201140288420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201140288420.pdf)
+
 ## Miscellaneous
 - Fund distribution of the financial year 2025-2026 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill Gargoti  Amravati. Major Account Head - 24150624, 24150312, 24150321, 24150339.  8th installment (Salary)\
   [202603171534579520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171534579520.pdf)

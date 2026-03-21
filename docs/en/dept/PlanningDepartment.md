@@ -66,5 +66,8 @@
 - Regarding the publication of the Final Seniority List as of 01/01/2023 (covering the period from 01/01/2022 to 31/12/2022) for the Research Officer/Statistical Officer, Group-B cadre within the Directorate of Economics and Statistics.\
   [202603181451384616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181451384616..............pdf)
 
+- Regarding extension of 36 ttemporary posts on establishment of Planning Department (Including Employment Guarantee Scheme Division itself)..\
+  [202603201215476016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201215476016.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,6 +16,12 @@
 - Regarding the disbursement of funds amounting to 50 Lakhs for operationalizing the office of the Maharashtra State Council of Educational Research and Training (MSCERT)...\
   [202603171503476708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171503476708.pdf)
 
+- Regarding the provision of funds to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Tribes Component) under the Centrally Sponsored Scheme PM-USHA.\
+  [202603201124303608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201124303608.pdf)
+
+- Regarding the provision of funds to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), for the Erstwhile Model Degree College component (Central Share: 1/3; State Share: 2/3  Scheduled Castes Sub-Plan) under the Centrally Sponsored Scheme, PM-USHA.\
+  [202603201122098808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201122098808.pdf)
+
 ## Miscellaneous
 - Regarding the approval for the disbursement of funds for the remaining construction work of the State Central Library, Kalina University Campus, Santacruz (East), Plot (C.T.S. No. 4094/1).\
   [202603171903496708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171903496708.pdf)
@@ -43,6 +49,21 @@
 
 - Regarding the deputation of faculty members from Government Engineering Colleges for higher studies, under the Quality Improvement Scheme.\
   [202603181858313808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181858313808.pdf)
+
+- Regarding the Constitution of a Purchase Committee for the Procurement of Mementos, as well as for the Printing of Certificates and Information Booklets, for the State-Level Awards of the National Service Scheme for the Academic Years 2021-22 and 2022-23.\
+  [202603201715004208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201715004208.pdf)
+
+- Regarding the release of the Central and State shares of the funds sanctioned for the Scheduled Castes component under the Centrally Sponsored Scheme PM-USHA to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan.\
+  [202603201740472308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201740472308.pdf)
+
+- Regarding the release of the Central and State shares of the funds sanctioned under the Centrally Sponsored Scheme PM-USHA to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan.\
+  [202603201742587008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201742587008.pdf)
+
+- Demand No. W-4-2205  Art and Culture, 800  Other Expenditure, (01) Committees and Ceremonies, (01)(01) Committees and Ceremonies (Mandatory) (22050458)  Regarding the approval of fund allocation under this Head of Account for the year 2025-26.\
+  [202603201207067108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201207067108.pdf)
+
+- Regarding the release of the Central and State shares of the funds sanctioned for the Scheduled Tribes category under the Centrally Sponsored Scheme PM-USHA to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan.\
+  [202603201746362108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201746362108.pdf)
 
 ## Personnel
 - Regarding the continuation of temporary posts under the Directorate of Technical Education, Government of Maharashtra, Mumbai, for the period from 01.03.2026 to 31.08.2026.\

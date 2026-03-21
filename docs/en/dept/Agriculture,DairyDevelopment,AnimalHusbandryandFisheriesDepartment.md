@@ -16,6 +16,24 @@
 - Regarding the distribution of funds amounting to 1,774.00 Crores for the disbursement of the eighth installment to eligible beneficiaries under the Namo Shetkari Mahasanman Nidhi Scheme.\
   [202603161849332101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161849332101.pdf)
 
+- Regarding the distribution of funds amounting to 20.00 crore under the Gopinath Munde Farmers Accident Safety Ex-gratia Scheme for the financial year 2025-26.\
+  [202603201817366801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201817366801.pdf)
+
+- Regarding the provision of funds in the form of Deposit Contribution for the construction of the Krishi Bhavan building and the residence of the Commissioner of Agriculture in Pune.\
+  [202603201305265701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201305265701....pdf)
+
+- Regarding the disbursement of a total fund of Rs. 148.36 crore to Agricultural Universities under the Central Governments Scheme for Special Financial Assistance to States for Capital Investment (in the form of interest-free loans)...\
+  [202603201317208901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201317208901.pdf)
+
+- Regarding the Grant of Administrative Approval for Works Pertaining to the Provision of Basic Amenities to Fisherfolk at Fish Landing Centers, under the NABARD-assisted Rural Infrastructure Development Fund (RIDF-XXXI).\
+  [202603201339138701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201339138701.pdf)
+
+- Regarding allocating Rs. 5.00 crore to the Micro Irrigation component out of the Rs. 15.00 crore fund distributed for the Individual Farm Ponds component under the Chief Ministers Sustainable Agriculture Irrigation Scheme.\
+  [202603201307066901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201307066901.pdf)
+
+- Regarding the provision of the Central Share and matching State Sharesanctioned by the Central Government through a Mother Sanction for the General Categoryvia re-appropriation, under the Pulses Self-Sufficiency Mission (including TRFA Pulses).\
+  [202603201519223801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201519223801....pdf)
+
 ## Miscellaneous
 - Constitution of an Committee for Drafting a Bill on the Empowerment of Women Farmers\
   [202603171901114901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171901114901....pdf)

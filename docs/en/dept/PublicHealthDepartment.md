@@ -16,6 +16,9 @@
 - Regarding the disbursement of funds approved through supplementary demand in the Winter Session of the Legislative Assembly 2025 under the objective of Account Head 2210 1053, 51 Motor Vehicles to pay the amount of the fee for hearses purchased for health institutions in the state and Regarding approval to provide funeral expenses that have been overdue for more than one year.\
   [202603181417097117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181417097117.pdf)
 
+- Regarding the payment of compensation to the legal heirs of the late Monica Lalsing Valvi, in accordance with the orders of the Honble State Human Rights Commission, Mumbai.\
+  [202603171155323817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171155323817.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds for expenditure on medicines, medical supplies, machinery and medical equipment in the financial year 2025-26. (Corrigendum)\
   [202603171816032417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171816032417.pdf)
@@ -28,6 +31,15 @@
 
 - Regarding upgrading of sub-district and rural hospitals to eliminate health problems in the tribal area of Melghat in Amravati district.\
   [202603181437430817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181437430817.pdf)
+
+- Regarding the distribution of State Governments share of Subsidiary Grant to Nowrosji Wadia Maternity Hospital, Parel, Mumbai to meet the expenses on salaries and allowances and medicines.\
+  [202603181151082017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181151082017.pdf)
+
+- Establishing a public health institution for Hindu Hruday Samrat Balasaheb Thackerays Hospital.\
+  [202603201441491217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201441491217.pdf)
+
+- Regarding providing government grant to the Indian Red Cross Society, Maharashtra State Branch, Mumbai for the year 2025-26.\
+  [202603181151447317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181151447317.pdf)
 
 ## Personnel
 - Continuation of 174 temporary posts of Medical Officers (Group A and B) in Primary Health Centers of Zilla Parishad under the authority of Deputy Director, Health Services, Nagpur Circle, Nagpur.\

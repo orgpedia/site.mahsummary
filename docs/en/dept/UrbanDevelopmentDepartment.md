@@ -46,6 +46,9 @@
 - Grant-in-aid for the distribution of amounts accruing from the 1 Stamp Duty levy to the respective Municipal Councils / Nagar Panchayats. Financial Year 2025-26  Head of Account (3604 0165): Rs. 200.61 Crore.\
   [202603181513202625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181513202625.pdf)
 
+- Release of Sub-Ordinate Debt amount of the State Governments share to Maharashtra Metro Rail Corporation Ltd. in the Thane Internal Ring Metro Rail Project. (Year 2025-26)\
+  [202603201310557225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201310557225.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of the second installment of Untied Grants for the year 2024-2025 under the Non-Million Plus Cities category, in accordance with the recommendations of the 15th Central Finance Commission.\
   [202603161746598225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161746598225.pdf)
@@ -59,6 +62,15 @@
 - Regarding approval to implement the Abhay Yojana for effective collection of outstanding property tax in the Shrigonda Municipal Council, District Ahilyanagar.\
   [202603181942424925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181942424925.pdf)
 
+- Scheme for Financial Assistance for the Expansion and Modernization of Fire Services under the 15th Central Finance Commission  Corrigendum.\
+  [202603201640585425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201640585425.pdf)
+
+- Regarding the redistribution of unutilized funds out of the amounts disbursed as the first and second installments under Part-I of the Central Governments scheme, Special Assistance to States for Capital Investment 2025-26.\
+  [202603201728262725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201728262725.pdf)
+
+- Regarding the release of funds on the SNA SPARSH system for Information, Education, and Communication (IEC) and Behavior Change (BC) activities under the Swachh Maharashtra Abhiyan (Urban) 2.0, for the Financial Year 2025-26.\
+  [202603201350059525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201350059525.pdf)
+
 ## Personnel
 - Interim Seniority List as of January 1, 2026 (covering the period from January 1, 2025, to December 31, 2025) for the cadres of Joint Commissioner (Group-A), Chief Officer (Group-A) Selection Grade / Deputy Commissioner (Group-A), Chief Officer (Group-A) / Assistant Commissioner (Group-A), and Chief Officer (Group-B) / Assistant Commissioner (Group-B) under the Maharashtra Urban Administrative Service.\
   [202603161524186325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161524186325.pdf)
@@ -68,6 +80,12 @@
 
 - Regarding the extension of temporary posts on the establishment of the Directorate of Town Planning and Valuation.\
   [202603181656315325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181656315325.pdf)
+
+- Regarding the transfer of a total area of 1 Hectare 30 Arescomprising portions of properties bearing Survey Nos. 690 and 444belonging to the Ichalkaranji Municipal Corporation, to the Principal District and Sessions Court, Kolhapur.\
+  [202603201343590225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201343590225.pdf)
+
+- Regarding the transfer of the Katol Municipal Council site and the Civil Court site through mutual exchange.\
+  [202603201644456425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201644456425.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
