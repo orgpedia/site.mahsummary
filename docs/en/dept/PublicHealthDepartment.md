@@ -41,6 +41,9 @@
 - Regarding providing government grant to the Indian Red Cross Society, Maharashtra State Branch, Mumbai for the year 2025-26.\
   [202603181151447317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181151447317.pdf)
 
+- Regarding approval for redistribution of funds from state share head 2210G609 to newly received head 2210K642 for the socially special component under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26.\
+  [202603211549521517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603211549521517.pdf)
+
 ## Personnel
 - Continuation of 174 temporary posts of Medical Officers (Group A and B) in Primary Health Centers of Zilla Parishad under the authority of Deputy Director, Health Services, Nagpur Circle, Nagpur.\
   [202603171745501817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171745501817.pdf)
