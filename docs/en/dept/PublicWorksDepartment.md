@@ -1,22 +1,14 @@
 # Public Works Department
 
-**Date Range**: 23 March 2026 - 28 March 2026
+**Date Range**: 30 March 2026 - 04 April 2026
 
-
-## Funds
-- Regarding approval for undertaking the road work by msrdc from navegaon-more-konsari mulchera-Hedari to surajagad mines in district gadchiroli, approval to revised alignment and administrative approval to land acquisition.\
-  [202603171649377018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171649377018.pdf)
-
-## Miscellaneous
-- Final Seniority List as of 01/01/2026 for the post of Junior Engineer (Electrical) in the Public Works Department.\
-  [202603171311137418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171311137418.pdf)
-
-- Regarding giving the deemed date of promotion to Shri.S.D. Pawar to the post of First Clerk.\
-  [202603201501142618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201501142618.pdf)
 
 ## Personnel
-- Final Seniority List as of 01/01/2026 for the Cadre of Deputy Engineer (Electrical)  Graduate, in the Public Works Department.\
-  [202603181518224618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181518224618.pdf)
+- Regarding the Continuation of Temporary Posts in the Office Under the Control of the Superintending Engineer, Design Circle (Bridges and Buildings), Navi Mumbai.\
+  [202603231208280518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231208280518.pdf)
+
+- Promotion and Posting from the post of Sub-Divisional Engineer (Civil) to the post of Executive Engineer (Civil).\
+  [202603231727128418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231727128418.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
