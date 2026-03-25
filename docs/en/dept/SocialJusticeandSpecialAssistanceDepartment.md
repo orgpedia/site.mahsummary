@@ -1,46 +1,11 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 23 March 2026 - 28 March 2026
+**Date Range**: 30 March 2026 - 04 April 2026
 
 
 ## Funds
-- Regarding the sanctioning of a long-term loan to Gautam Backward Class Cotton Producers Cooperative Spinning Mill Ltd., Nimba, Taluka Parshivni, District Nagpur, under the scheme for providing financial assistance to cooperative spinning mills belonging to Scheduled Castes...\
-  [202603171604435722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171604435722.pdf)
-
-- Regarding the allocation of funds for the Financial Year 2025-26 for the scheme: Distribution of 101 Goat Units to Beneficiaries under the Semi-Stall-fed System. (Budget Head: 2403D 749)\
-  [202603171753097722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171753097722.pdf)
-
-- Allocation of grants for District Establishment salary and non-salary expenditure for the months of January and February 2026, under the Sanjay Gandhi Niradhar Anudan Yojna and the Financial Assistance Scheme for Elderly Landless Agricultural Laborers.\
-  [202603181157069722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181157069722.pdf)
-
-- Regarding the disbursement of funds for the financial year 2025-26 under the Bharat Ratna Dr. Babasaheb Ambedkar Incentive Scheme for Scheduled Caste Entrepreneurs. (Head of Account: 2852A031)\
-  [202603171750231222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171750231222.pdf)
-
-- Regarding the disbursement of funds for the Financial Year 2025-26 under the scheme for electricity bill concessions to agricultural pump consumers. (Head of Account: 28015661)\
-  [202603171507142222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171507142222.pdf)
-
-- Regarding the sanctioning of enhanced financial assistance under the scheme for providing financial aid to Scheduled Caste cooperative societies. Alok Backward Class Industrial Cooperative Society Ltd., Krantinagar, Adalat Road, Taluka  District: Chhatrapati Sambhajinagar.\
-  [202603201511392022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201511392022.pdf)
-
-- Regarding the Granting of Administrative Approval to the Construction Estimate for Government Hostels for Boys and Girls in Beed District, under the Sant Bhagwanbaba Government Hostel Scheme for the Children of Migrant Sugarcane Cutters.\
-  [202603201616491422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201616491422.pdf)
-
-## Miscellaneous
-- Rajarshi Shahu Maharaj Merit Scholarship Scheme: For 100 students belonging to Scheduled Castes in the state to pursue higher education at renowned educational institutions across the country. Selection of students for the year 2025-26.\
-  [202603181350553822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181350553822.pdf)
-
-- Regarding the conferment of the Father of the Nation Mahatma Gandhi State-Level Addiction De-addiction Service Awards for the years 2020-21, 2021-22, 2022-23, 2023-24, and 2024-25, to honor individuals and organizations performing exemplary work in the field of addiction de-addiction...\
-  [202603181910399622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603181910399622.pdf)
-
-## Personnel
-- Regarding the extension of temporary posts on the establishment of the Sanjay Gandhi Niradhar Grant Scheme and other Special Assistance Schemes.\
-  [202603161600018722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161600018722.pdf)
-
-- Regarding the extension of temporary posts created for the implementation of the Centrally Sponsored Indira Gandhi National Old Age Pension Scheme.\
-  [202603161603325422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603161603325422.pdf)
-
-- Regarding the Extension of Temporary Posts on the Establishment of the Commissioner, Social Welfare, State of Maharashtra, Pune.\
-  [202603201503308122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201503308122........pdf)
+- Regarding the distribution of funds for the Centrally Sponsored Kadhanya Atmanirbharta Abhiyan scheme under the Scheduled Caste Sub-scheme in the financial year 2025-26. (Account Head 2401B787 (Central Share) (Account Head 2401B796 (State Share)\
+  [202603231631124522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231631124522.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
