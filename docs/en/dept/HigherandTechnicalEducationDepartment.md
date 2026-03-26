@@ -26,5 +26,27 @@
 - Regarding the completion of the probationary period and continuation of appointment for Lecturers at Government Polytechnics.\
   [202603231745325208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231745325208.pdf)
 
+- Regarding the completion of the probation period and continuation of appointment for Heads of Departments at Government Polytechnics.\
+  [202603241755166108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241755166108.pdf)
+
+- Regarding the completion of the probation period and continuation of appointment for Assistant Professors at the Government College of Engineering.\
+  [202603241517446508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241517446508.pdf)
+
+- Regarding the regularization of broken periods of service.\
+  [202603241514134708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241514134708.pdf)
+
+- Demand No. W-4-2205  Art and Culture, 800  Other Expenditure, (01) Committees and Ceremonies, (01)(01) Committees and Ceremonies (Mandatory) (22050458)  Regarding the approval of fund allocation under this Head of Account for the year 2025-26.\
+  [202603241305240108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241305240108.pdf)
+
+- Regarding the Termination of the Probationary Period\
+  [202603241516052708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241516052708.pdf)
+
+- Regarding the completion of the probationary period and continuation of appointment for Lecturers at Government Polytechnics.\
+  [202603241753302208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241753302208.pdf)
+
+## Personnel
+- Regarding the Constitution of a State-Level Committee on Innovation and Intellectual Property Rights (IPR)\
+  [202603241657524408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241657524408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -25,6 +25,9 @@
 - Distribution of Funds for Maintenance and Repair Works of Irrigation Projects with a Command Area of 101 to 250 Hectares: District Washim (Vidarbha Division)\
   [202603231345315726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231345315726.pdf)
 
+- Demand No. ZH-5, Head of Account 4702 A028: Khandali Storage Tank, Mouje Khandali, Taluka Ahmadpur, District Latur (Land Acquisition Funds).\
+  [202603241304270926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241304270926.pdf)
+
 ## Miscellaneous
 - Fund distribution under GDGS scheme- District Solapur  Jalna\
   [202603231622040426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231622040426.pdf)

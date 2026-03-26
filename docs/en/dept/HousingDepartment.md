@@ -1,11 +1,11 @@
 # Housing Department
 
-**Date Range**: 23 March 2026 - 28 March 2026
+**Date Range**: 30 March 2026 - 04 April 2026
 
 
 ## Funds
-- Regarding the implementation of a development scheme on a joint partnership basis with the MahaTennis Foundation for the development of tennis infrastructure facilities on land plots bearing Survey Nos. 7272, 7287, 7283, 7291, 7284, 7295, 7299, 7270(A), 7286, 6912, 7267, and 7286owned by the Mumbai Housing and Area Development Boardsituated at Mauje Kolekalyan, Taluka Andheri.\
-  [202603171628570209.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603171628570209.....pdf)
+- Regarding the release of Central Share and matching State Share funds for the Scheduled Castes (SC) Component under the Affordable Housing in Partnership (AHP) vertical (SLS Code-MH 676) of the Pradhan Mantri Awas Yojana (Urban).\
+  [202603241616052809.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241616052809.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

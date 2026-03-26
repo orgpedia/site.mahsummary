@@ -25,6 +25,15 @@
 - Regarding the provision of funds for depositing enhanced compensation under Section 18 of the Land Acquisition Act, 1984, into the Honble Court.\
   [202603231822428429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231822428429.pdf)
 
+- Regarding the payment of bills for work performed during the period from June 2025 to August 2025 to M/s PwC, appointed as the Consultant for the Mumbai City CCTV Project.\
+  [202603241827259629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241827259629.pdf)
+
+- Regarding the grant of administrative approval for outstanding payments related to internal training bills of the Anti-Terrorism Squad (ATS) office.\
+  [202603241516295529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241516295529.pdf)
+
+- Regarding the payment for work performed during the period from November 2024 to May 2025 to M/s PwC, appointed as the Project Consultant for the CCTNS project.\
+  [202603241823478829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241823478829.pdf)
+
 ## Miscellaneous
 - Regarding the revision of the pay scale for the post of Law Officer (Group-A) on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
   [202603231750270229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231750270229.pdf)
@@ -37,6 +46,12 @@
 
 - Regarding the payment of a total remuneration of Rs. 7,40,132/- (inclusive of taxes) to M/s Primus Partners Pvt. Ltd., for two Project Management Consultantsspecifically, one Senior Consultant and one Consultantappointed for the Maharashtra Cyber Security Project, covering the periods from 16.11.2025 to 31.12.2025 and 16.12.2025 to 31.12.2025, respectively.\
   [202603231655346729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231655346729.pdf)
+
+- Regarding the payment of dues to the Project Consultant for the CCTV Project of the Thane Police Commissionerate, for the work performed during the period from June 1, 2025, to August 31, 2025.\
+  [202603241829403229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241829403229.pdf)
+
+- Regarding the approval for the release of budgeted funds for prison construction works under Demand No. H-8, 4059 0912...\
+  [202603241204209029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241204209029.pdf)
 
 ## Personnel
 - Regarding the extension of 1,126 temporary posts across various cadres on the establishment of the Commissioner of Police, Greater Mumbai.\

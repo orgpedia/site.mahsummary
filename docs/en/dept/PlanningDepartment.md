@@ -7,6 +7,12 @@
 - Distribution of funds for the financial year 2025-26 under the Hilly Area Development Programme.\
   [202603231521232216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231521232216.pdf)
 
+- Distribution of fundsallocated on a Member-of-Legislature basisfrom the budgetary provision sanctioned under Head of Account 4515 0012 for the MLA Local Area Development Programme for the financial year 2025-26.\
+  [202603241547554116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241547554116.pdf)
+
+- Regarding the distribution of funds for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune.  (Step-11)\
+  [202603241940412716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241940412716.pdf)
+
 ## Personnel
 - Regarding the extension of the tenure of a total of 266 temporary postsincluding that of the Commissioner (IAS)across the Headquarters, all Regional Offices, and all District Statistical Offices of the Directorate of Economics and Statistics, for the period from March 1, 2026, to August 31, 2026.\
   [202603231255526016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231255526016.pdf)
