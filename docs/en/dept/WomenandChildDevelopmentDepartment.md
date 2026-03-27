@@ -13,5 +13,9 @@
 - Regarding the distribution of funds sanctioned by the Central Government for implementation of the Supplemental Nutrition program under the ICDS, through the SNA-SPARSH fund flow mechanism.\
   [202603241436054530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241436054530.pdf)
 
+## Miscellaneous
+- Regarding the distribution of funds for the component scheme One Stop Center under the Sambal scheme of the centrally sponsored Mission Shakti umbrella scheme for the financial year 2025-26.\
+  [202603251632053730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251632053730.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

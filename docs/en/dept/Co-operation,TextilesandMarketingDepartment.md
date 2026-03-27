@@ -28,9 +28,24 @@
 - Regarding the Distribution of Budgetary Provisions for the Year 2025-26. Dr. Panjabrao Deshmukh Interest Concession Scheme (2425 1009)-33 Financial Assistance\
   [202603241614008802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241614008802.pdf)
 
+- Regarding the provision of Government Share Capital to the Maharashtra State Handloom Cooperative Federation Ltd. (Mahatex), Mumbai.\
+  [202603251839522602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251839522602.pdf)
+
+- Regarding the disbursement of funds on SNA-SPARSH for the year 2025-26, under the Centrally Sponsored Scheme for the Computerization of the Office of the State Registrar of Cooperative Societies.\
+  [202603251332522602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251332522602.pdf)
+
+- Regarding the sanctioning of government share capital to cooperative sugar factories for the implementation of co-generation projects.\
+  [202603251320556102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251320556102.pdf)
+
 ## Miscellaneous
 - Regarding the payment of 12 interest on loans obtained by Cooperative Spinning Mills from financial institutions... Shri Mahesh Cooperative Spinning Mill Ltd., Ichalkaranji, Taluka Hatkanangale, District Kolhapur.\
   [202603241612037902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241612037902.pdf)
+
+- Regarding the prescription of terms and conditions for the repayment of the loan made available to the Maharashtra State Handloom Corporation Ltd., Nagpur, for judicial proceedings.\
+  [202603251600229602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251600229602.pdf)
+
+- Regarding the opening of a new Head of Account for the credit of interest on the loan granted to the Maharashtra State Handloom Corporation Limited, Nagpur.\
+  [202603251714166502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251714166502.pdf)
 
 ## Personnel
 - Continuation of Posts.\
@@ -59,6 +74,15 @@
 
 - Regarding the grant of promotion and posting, on a purely temporary basis, from the cadre of Technical Assistant (Group-C) to the cadre of Assistant Commissioner (Technical) (Group-B  Gazetted).\
   [202603241130192502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241130192502.pdf)
+
+- Continuation of Posts.\
+  [202603251610434002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251610434002.pdf)
+
+- Continuation of Posts.\
+  [202603251614021402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251614021402.pdf)
+
+- Continuation of Posts.\
+  [202603251612268202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251612268202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

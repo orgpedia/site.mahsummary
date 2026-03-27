@@ -10,6 +10,9 @@
 - Regarding the Direct Deposit of Food Allowances for Minority Students in Hostels into Aadhaar-Linked Accounts Disbursement of Funds for the Year 2024-25\
   [202603241701038114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241701038114.pdf)
 
+- Regarding grant realse in the year 2025-26 for the development plan of Shri Kshetra Namoakara Tirth Malasane, Chandwad Taluka, Nashik\
+  [202603251651412714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251651412714.pdf)
+
 ## Miscellaneous
 - Regarding the appointment to the post of Secretary at the office of the Maharashtra State Minorities Commission, Mumbai, on deputation for a period of three years.\
   [202603231809062214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231809062214.pdf)

@@ -16,6 +16,36 @@
 - Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2025-26.\
   [202603241610328020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241610328020.pdf)
 
+- Regarding the distribution of funds of Rs. 10,00,00,000/- for the additional state share (100) for the Scheduled Caste category under the Social Justice and Special Assistance Department for the financial year 2025-26 under the Pradhan Mantri Awas Yojana-Gramin.\
+  [202603251637548220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251637548220.pdf)
+
+- Regarding the allocation of funds for organizing the State-level Mahalaxmi Saras Exhibition, as well as Divisional and District-level Sales Exhibitions, during the year 2025-26.\
+  [202603251020325320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251020325320.pdf)
+
+- Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) 2025-26 - Central Share and its equivalent State Share funds sanctioned as Mother Sanction on the budgetary distribution system for implementing the SNA-SPARSH.\
+  [202603251014413220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251014413220.pdf)
+
+- Regarding the disbursement of funds for the financial year 2025-26 for the Rural Entrepreneurship Development Program (SVEP -Start-up Village Entrepreneurship Programme).\
+  [202603251448230820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251448230820.pdf)
+
+- As per the recommendations of the 15th Central Finance Commission, the Ministry of Panchayati Raj, Government of India had withheld funds of certain Rural Local Self-Government Institutions where administrators were in place. Among these, for those Rural Local Self-Government Institutions where elections have been conducted and elected representatives have been appointed, it has been decided to release the tied funds of 278.0036 crore for the first and second instalments for the year 202324.\
+  [202603251436013620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251436013620.pdf)
+
+- Regarding the distribution of funds of Rs. 30,00,00,000/- for the scheme under the Rural Development Department for the financial year 2025-26 under the Pradhan Mantri Awas Yojana-Gramin as additional state share (100) for the general category.\
+  [202603251616530620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251616530620.pdf)
+
+- Regarding the Distribution of Remaining Funds for the Yashwantrao Chavan Panchayat Raj Campaign Awards and Programs for the Year 2024-25 (Assessment Year 2023-24)  (Financial Year 2025-26).\
+  [202603251723425520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251723425520.pdf)
+
+- 15th Central Finance Commission, the Ministry of Panchayati Raj, Government of India, had withheld funds of certain rural local self-government institutions due to the appointment of administrators. Out of these, for those rural local self-government institutions where elections have been conducted and popularly elected representatives have been appointed, it has been decided to distribute the untied funds amounting to 301.6474 crore for the first and second installments for the financial year 202425.\
+  [202603251435563920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251435563920.pdf)
+
+- Regarding the distribution of funds amounting to Rs. 79,84,62,000/- as Central Government share and Rs. 53,23,07,332/- as State Government share under Pradhan Mantri Awas Yojana (Rural) General Category in the financial year 2025-26.\
+  [202603251215127820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251215127820.pdf)
+
+- Regarding granting administrative approval to works in Ratnagiri district under the Konkan Rural Tourism Development Program.\
+  [202603251501114620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251501114620.pdf)
+
 ## Miscellaneous
 - Release of grant-in-aid to Mahatma Gandhi Pratishthan, sewagram Vardha as compensation caused by exemption in tax for year 2025-26\
   [202603241141252220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241141252220.pdf)
@@ -23,9 +53,21 @@
 - Regarding the disbursement of grants for the year 2025-26 to meet the salaries and allowances of officers and employees of the District Rural Development Agency.\
   [202603241203380620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241203380620.pdf)
 
+- Mukhyamantri Gram Sadak Yojana Revised Administrative Approval for the work of MDR-58 to Harapwade road, (VR-92 LR-62), Tal. Aajra Package No ADB-KOL-08 in Kolhapur district,...  ..\
+  [202603251248263820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251248263820.pdf)
+
+- Regarding granting approval for the construction of Gram Panchayat buildings in Pune district under the Honble Balasaheb Thackeray Smriti Matoshree Gram Panchayat Construction Scheme.\
+  [202603251435401720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251435401720.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Revised Administrative Approval for the work of MDR-61 to Jakhanhatti road, (VR-21, LR-06), Tal. Chandgad Package No ADB-KOL-09 in Kolhapur district,...  ..\
+  [202603241307161620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241307161620.pdf)
+
 ## Personnel
 - Regarding the applicability of the procedure to be adopted while applying the Maharashtra Civil Services (Pension) Rules, 1982to Government Officers/Employees who joined Government service on or after January 1, 2005, in cases where the recruitment advertisement was issued prior to November 1, 2005to the employees of the Zilla Parishad.\
   [202603241510152620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241510152620.pdf)
+
+- Regarding Ad Hoc promotion Additional Chief Executive Officer / Project Director (S-25) to Additional Chief Executive Officer (Selection Grade) (S-27) in the cadre of Maharashtra Development Service, Group-A.  (Selection list Year 2025-26)\
+  [202603251216432120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251216432120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

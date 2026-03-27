@@ -22,9 +22,15 @@
 - Regarding the distribution of Rs.174.10 crore grant in the year 2025-26 for concession in electricity tariff to Scheduled Caste agricultural pump consumer beneficiaries under the Special Component Programme of the Social Justice Department\
   [202603241251351510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241251351510.pdf)
 
+- Regarding the Grant of Administrative Approval to Proposals Received under the Scheme for the Creation and Development of Industrial Infrastructure in the State (2025-26).\
+  [202603251057104410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251057104410.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Nominated/Ex-officio Members to the Governing Council under the District Mineral Foundation, Chhatrapati Sambhajinagar...\
   [202603241635379010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241635379010.pdf)
+
+- Regarding the Constitution of a Steering Committee for Organizing the Maharashtra Mining Investment Conference.\
+  [202603251811327810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251811327810....pdf)
 
 ## Personnel
 - Regarding the Granting of a Notional Date to Ms. H.K. Vidhate, Geologist, on the Establishment of the Directorate of Geology and Mining, Nagpur...\

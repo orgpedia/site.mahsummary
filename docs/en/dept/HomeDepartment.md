@@ -34,6 +34,30 @@
 - Regarding the payment for work performed during the period from November 2024 to May 2025 to M/s PwC, appointed as the Project Consultant for the CCTNS project.\
   [202603241823478829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241823478829.pdf)
 
+- Regarding ex-post facto approval for the rental expenditure of 1,38,19,729/- towards 302 private vehicles hired by the Commissioner of Police, Pune City for bandobast duties during the 2024 Legislative Assembly Elections.\
+  [202603251609444929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251609444929.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimate for the construction of a new bus stand at Gadchandur, under the Chandrapur Division of the State Transport Corporation\
+  [202603251455214929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251455214929.pdf)
+
+- Fund Allocation 2025-26. Demand No. B-6  Major Head of Account: 22351684, Social Security and Welfare, 104  Deposit Linked Insurance Scheme.\
+  [202603251830237929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251830237929.pdf)
+
+- Regarding the crediting of funds sanctioned under Part VI AScrapping of Old Vehiclesof the Central Governments Scheme for Special Assistance to States for Capital Investment (2025-26) into the SNA account.\
+  [202603251258475929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251258475929.pdf)
+
+- Regarding the allocation of funds amounting to Rs. 95.85 Crores to the Maharashtra State Road Transport Corporation under the Head of Account 3055 0052-35, specifically for the Bus Stand Modernization and Other Amenities Program....\
+  [202603251458298229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251458298229.pdf)
+
+- Regarding the distribution of funds amounting to Rs. 58.20 Crores to the Maharashtra State Road Transport Corporation under the Head of Account 3055 0052-35  Modernization of Bus Stands and Other Amenities Program.\
+  [202603251457026829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251457026829.pdf)
+
+- Regarding the Granting of Administrative and Financial Approval to the Cost Estimate for the Reconstruction and Concretization of the Ghoti Bus Stand, Nashik Division, within the State Transport Corporation\
+  [202603251453055929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251453055929.pdf)
+
+- Regarding the payment of professional fees to Adv. Girish Godbole, Senior Advocate, and Adv. Prasad Dhakephalkar, Senior Advocate.\
+  [202603251102434629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251102434629.pdf)
+
 ## Miscellaneous
 - Regarding the revision of the pay scale for the post of Law Officer (Group-A) on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
   [202603231750270229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231750270229.pdf)
@@ -52,6 +76,15 @@
 
 - Regarding the approval for the release of budgeted funds for prison construction works under Demand No. H-8, 4059 0912...\
   [202603241204209029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241204209029.pdf)
+
+- Financial Year 2025-26  Reappropriation Demand No. B-5  Major Head: 2056, Prisons\
+  [202603251602234629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251602234629.pdf)
+
+- Regarding the grant of administrative approval for the payment of rent dues for the premises leased for the office of the State Police Complaints Authority, covering the period from 01.07.2023 to 27.10.2024...\
+  [202603251235558529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251235558529....pdf)
+
+- Regarding the establishment of District-level and State-level Verification Committees, in accordance with the Standard Operating Procedure (SOP) laid down by the Ministry of Home Affairs, Government of India, for the repatriation of foreign nationals.\
+  [202603251708529929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251708529929.pdf)
 
 ## Personnel
 - Regarding the extension of 1,126 temporary posts across various cadres on the establishment of the Commissioner of Police, Greater Mumbai.\

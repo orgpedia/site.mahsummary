@@ -22,9 +22,24 @@
 - To release grant for the scheme of Pandit Deendayal Upadhyay Swayam Yojana (Scheme) under the TSP in financial year 2025-26.  CRC 2225 E024\
   [202603241712549924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241712549924.pdf)
 
+- To release grant for the scheme of Kind Grants under National Health Mission (Ratio of payment 0:100) (State Share 40)(Scheme) under the TSP in financial year 2025-26. CRC 2210 K562\
+  [202603251538480824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251538480824.pdf)
+
+- To release grant for the scheme of Pradhan Mantri Awas Yojana (Rural) (Additional State Share) under the TSP in financial year 2024-25 CRC 2505A236\
+  [202603251121286224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251121286224.pdf)
+
+- Regarding the approval for the release of funds for the program titled Setting up of Data Analytics and Project Management Centre for TSP planning and budgeting, sanctioned under Article 275(1) of the Constitution of India for the year 2017-18.\
+  [202603251315294424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251315294424.pdf)
+
+- To release grant for the scheme of Implementation of E Governance Project (Scheme) under the TSP in financial year 2025-26\
+  [202603251121305824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251121305824.pdf)
+
 ## Miscellaneous
 - Distribution of Funds under the Scheme for Program Expenditure for the Tribal Sub-Plan Component for the Financial Year 2025-26\
   [202603231804540324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231804540324.pdf)
+
+- To release grant for the scheme of committed expenditure scheme Financial Assistance to Shabri Tribal Development Corporation (Committed) under the TSP in financial year 2025-26. CRC 2225G081 01-salary\
+  [202603251121351524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251121351524.pdf)
 
 ## Personnel
 - Regarding the extension of the tenure of a total of 342 temporary postscomprising those within the office of the Commissioner, Tribal Research and Training Institute, Pune, and those within the offices of all Scheduled Tribe Certificate Scrutiny Committees subordinate to itfor the period from March 1, 2026, to August 31, 2026.\
