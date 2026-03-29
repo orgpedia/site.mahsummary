@@ -3,6 +3,10 @@
 **Date Range**: 30 March 2026 - 04 April 2026
 
 
+## Funds
+- Administrative approval granted under Special Repairs for the renovation of the canal distribution system of the Kukadi Left Bank Canal, spanning from Km 165 to Km 249.\
+  [202603271242133427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271242133427.pdf)
+
 ## Personnel
 - Regarding the extension of the tenure of posts under the Fixed Temporary Establishment and Converted Temporary Establishment of the office comprising 4 Divisions and 19 Sub-divisions, under the jurisdiction of the Superintending Engineer, Gosikhurd Lift Irrigation Board, Ambadi (Bhandara), for the period from 01.03.2026 to 31.08.2026.\
   [202603251658298027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251658298027.pdf)

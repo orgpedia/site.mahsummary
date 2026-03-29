@@ -43,6 +43,45 @@
 - Regarding the grant of administrative approval for the expenditure incurred towards the maintenance of the portalmanaged by NICSIused for obtaining recognition and upgradation approvals for self-financed schools, as well as for the inclusion of additional new services.\
   [202603251049562721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251049562721.pdf)
 
+- Regarding approving disbursement of grant for payment of emoluments to employees without Shalarth number and working on emolument basis (Financial Year 2025-26)\
+  [202603271726280921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271726280921.pdf)
+
+- Regarding the approval for the disbursement of funds for District-level Youth Awards.\
+  [202603271933480121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271933480121.pdf)
+
+- Regarding the grant of Revised Administrative Approval to the estimated budget and planvalued at 4,640.00 Lakhsfor the Taluka Sports Complex, Indapur, District Pune.\
+  [202603271930333821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271930333821.pdf)
+
+- Reimbursement of tuition fees for students admitted to 25 percent reserved seats under RTE Rs. 60.00 crore regarding disbursement.\
+  [202603271659367121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271659367121.pdf)
+
+- Regarding the disbursement of funds for organizing the Chhatrapati Shivaji Maharaj Cup State-Level Kabaddi Tournament, 2025-26.\
+  [202603271950072721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271950072721.pdf)
+
+- Regarding the Distribution of Funds under the Scheduled Tribes Component of the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
+  [202603271236579121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271236579121....pdf)
+
+- Regarding the distribution of funds under the General Component of the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
+  [202603271231000421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271231000421.pdf)
+
+- Regarding the distribution of funds for the maintenance and repair of Taluka Sports Complexes during the financial year 2025-26.\
+  [202603271744130321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271744130321.pdf)
+
+- Regarding the approval and disbursement of incidental grants for the Financial Year 2025-26, intended to cover the admissible expenditure of Local Self-Government schools, settle outstanding electricity bills, and serve other purposes.\
+  [202603271141536421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271141536421.pdf)
+
+- Regarding the provision of funds amounting to Rs. 9,51,080/- for the development of a WhatsApp Chatbot.\
+  [202603271640094721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271640094721.pdf)
+
+- Regarding the disbursement of funds for the Divisional Sports Complex, Nagpur, Dist. Nagpur (2204-1827).\
+  [202603271926406221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271926406221.pdf)
+
+- Regarding the grant of administrative approval for the distribution of non-salary grants to recognized, aided primary, secondary, and higher secondary schools in the State.\
+  [202603271924098221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271924098221.pdf)
+
+- Regarding the distribution of funds under the Scheduled Castes component of the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
+  [202603271234202321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271234202321.pdf)
+
 ## Miscellaneous
 - 01 Regarding the approval for the disbursement of funds for office repairs, fire alarm systems, and electrical installations at the office of the Maharashtra Girls National Cadet Corps Unit, Mumbai. (4202 6228)\
   [202603231335327621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231335327621....pdf)
@@ -70,6 +109,33 @@
 
 - Regarding the payment of interest on the amount of overpayment recovered from Mr. Sharadchandra Thengre, Retired Senior Lecturer.\
   [202603251822142521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251822142521.pdf)
+
+- Regarding the disbursement of funds for organizing the Late Khashaba Jadhav Cup State-Level Wrestling Competition, 2025-26.\
+  [202603271946479521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271946479521.pdf)
+
+- Regarding the allocation of funds for organizing the Late Bhai Nerurkar Trophy State-Level Kho-Kho Tournament, 2025-26.\
+  [202603271943343921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271943343921.pdf)
+
+- 2025-2026 Fund Allocation 34  Scholarships/Stipends\
+  [202603272033562921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272033562921.pdf)
+
+- Regarding the disbursement of funds for organizing the Chhatrapati Shivaji Maharaj Cup State-Level Volleyball Tournament, 2025-26.\
+  [202603271946200621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271946200621.pdf)
+
+- Regarding the distribution of funds to the Office of the Commissioner of Education, Pune, for various e-governance projects of the Department.\
+  [202603271637105221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271637105221.pdf)
+
+- Regarding the development of schools under local self-government bodies in the State as Bharat Ratna Dr. Babasaheb Ambedkar Model Schools.\
+  [202603271459027721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271459027721.pdf)
+
+- Regarding the disbursement of funds for the purpose of scholarships for students of Chandrapur Sainiki School during the financial year 2025-26.\
+  [202603271354439121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271354439121.pdf)
+
+- Regarding the payment of total salary arrears amounting to Rs. 9,61,01,573/- (Rupees Nine Crore Sixty-One Lakh One Thousand Five Hundred Seventy-Three Only) to a total of 19 teaching and non-teaching staff members currently employed at Jijamata Primary School, Sarati (Taluka Indapur, District Pune)managed by the Jijamata Shikshan Prasarak Mandal, Saratiin compliance with the orders of the Honble High Court.\
+  [202603271558573821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271558573821.pdf)
+
+- Regarding the disbursement of funds to M/s Grant Thornton, India, for the development of an integrated computer system.\
+  [202603271637175921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271637175921.pdf)
 
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
@@ -101,6 +167,21 @@
 
 - Regarding the continuation of temporary posts on the establishment of the newly created NCC Units for the Sindhudurg and Washim districts, effective from March 1, 2026, onwards.\
   [202603251039132521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251039132521.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603272206242121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272206242121.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603271409187621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271409187621.pdf)
+
+- Regarding the transfer of the management of Nehru Junior College (Taluka Ner, District Yavatmal)operated by the Nehru Education Society (Ner, Taluka Ner, District Yavatmal)to the Dr. Zakir Hussain Education Society, Hanuman Nagar, Wardha.\
+  [202603271432212021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271432212021.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603272042553821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272042553821.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603271804385421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271804385421.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

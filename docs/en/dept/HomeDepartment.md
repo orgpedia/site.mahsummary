@@ -58,6 +58,18 @@
 - Regarding the payment of professional fees to Adv. Girish Godbole, Senior Advocate, and Adv. Prasad Dhakephalkar, Senior Advocate.\
   [202603251102434629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251102434629.pdf)
 
+- Regarding the disbursement of funds for the maintenance, repair, and other essential requirements of the CCTNS project in the State.\
+  [202603271938314029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271938314029.pdf)
+
+- Regarding the payment of the Project Suppliers invoice and the disbursement of the Mobilization Advance for the CCTV Project of the Thane City Police Commissionerate.\
+  [202603271940432729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271940432729.pdf)
+
+- Regarding approving the disbursement of funds for prison industry in state prisons in the year 2025-26...\
+  [202603271836438729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271836438729.pdf)
+
+- Regarding the release of funds amounting to 62 Lakhs to the Maharashtra Maritime Board for the financial year 2025-26, under the scheme titled Purchase of Fleet (State) (Programme) 31  Grants-in-Aid (Non-Salary), under Head of Account B-7 (3051 0741).\
+  [202603271153323829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271153323829....pdf)
+
 ## Miscellaneous
 - Regarding the revision of the pay scale for the post of Law Officer (Group-A) on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
   [202603231750270229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231750270229.pdf)
@@ -86,6 +98,18 @@
 - Regarding the establishment of District-level and State-level Verification Committees, in accordance with the Standard Operating Procedure (SOP) laid down by the Ministry of Home Affairs, Government of India, for the repatriation of foreign nationals.\
   [202603251708529929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251708529929.pdf)
 
+- FY 2025-26 - Reallocation Demand No.B-5- Main Heading- 2056, Jails\
+  [202603271833118129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271833118129.pdf)
+
+- Regarding improvements to the character and background verification process.\
+  [202603271707174029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271707174029.pdf)
+
+- Regarding the appointment of additional members from backward classes in Police Establishment Board No. 1.\
+  [202603271839282729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271839282729.pdf)
+
+- Regarding revival of posts in Gad-D cadre on establishment of Police Constituent Office in Maharashtra Police Force for compassionate appointment.\
+  [202603271850317429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271850317429.pdf)
+
 ## Personnel
 - Regarding the extension of 1,126 temporary posts across various cadres on the establishment of the Commissioner of Police, Greater Mumbai.\
   [202603231531177129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231531177129.pdf)
@@ -101,6 +125,27 @@
 
 - Request Transfer for the Cadre of Motor Vehicle Inspector\
   [202603231744272529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231744272529....pdf)
+
+- Regarding extension of newly created temporary 100 posts for 02 Armed Police Support Centers 1) Nender and 2) Yelchil at Surjagad in Naxal infested Gadchiroli district.\
+  [202603271855384229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271855384229.pdf)
+
+- Regarding the extension of the tenure of a total of 1,244 temporary posts on the establishment of the Director, Directorate of Forensic Science Laboratories, State of Maharashtra, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
+  [202603271622295129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271622295129.pdf)
+
+- Created under Restructuring of Police Force Regarding the extension of tenure of a total of 115 temporary posts of various Superintendent of Police/Deputy Commissioner of Police and Deputy Superintendent of Police/Assistant Commissioner of Police.\
+  [202603271854209029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271854209029.pdf)
+
+- Regarding extension of 633 temporary posts on the establishment of Superintendent of Police, Pune (Rural).\
+  [202603271843005129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271843005129.pdf)
+
+- Regarding the extension of the temporary post of Superintendent of Police on the establishment of the Director General of Police, State of Maharashtra, Mumbai.\
+  [202603271851399429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271851399429.pdf)
+
+- Regarding the extension of the post of Additional Director General of Police, Protection of Civil Rights on the establishment of the Director General of Police, State of Maharashtra, Mumbai.\
+  [202603271849056729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271849056729.pdf)
+
+- Regarding the extension of the total 2633 temporary posts created in the first, second and third phase of the establishment of Commissioner of Police, Pimpri Chinchwad.\
+  [202603271844367529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271844367529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

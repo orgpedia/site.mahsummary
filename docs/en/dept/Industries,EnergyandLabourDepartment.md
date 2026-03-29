@@ -25,6 +25,18 @@
 - Regarding the Grant of Administrative Approval to Proposals Received under the Scheme for the Creation and Development of Industrial Infrastructure in the State (2025-26).\
   [202603251057104410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251057104410.pdf)
 
+- Regarding the approval of investment under the Maharashtra Emerging Technologies Fund.\
+  [202603272028592710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272028592710.pdf)
+
+- Released subsidy for electricity tariff  Year 2025-26. M.Lotus Industries, Santacruz, Mumbai.\
+  [202603271723154610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271723154610.pdf)
+
+- Regarding the Cash Disbursement of Funds amounting to Rs. 260.00 Crores as Grant-in-Aid to Mahavitaran Company during the year 2025-26, under the Continuous Electricity Scheme, for the replacement of faulty power transformers. (K-6, Major Head of Account: 28012624)\
+  [202603271448077510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271448077510.pdf)
+
+- Regarding the approval for the utilization of funds under the scheme for Promotion of the Cashew Processing Industry for the year 2025-26...\
+  [202603272025314410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272025314410.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Nominated/Ex-officio Members to the Governing Council under the District Mineral Foundation, Chhatrapati Sambhajinagar...\
   [202603241635379010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241635379010.pdf)
@@ -38,6 +50,9 @@
 
 - Regarding the continuation of temporary posts within the Electrical Inspectorate Branch, under the aegis of the Energy Department, for the period from March 1, 2026, to August 31, 2026.\
   [202603241704580310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241704580310.pdf)
+
+- Regarding the continuation of temporary posts in the office of the District Collector, Mumbai City.\
+  [202603271454433710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271454433710.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

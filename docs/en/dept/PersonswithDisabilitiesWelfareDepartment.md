@@ -3,6 +3,10 @@
 **Date Range**: 30 March 2026 - 04 April 2026
 
 
+## Funds
+- Regarding the creation of the Maharashtra State Disability Fund as per Section - 88 of the Rights of Persons with Disabilities Act, 2016.\
+  [202603271111596535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271111596535.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the sector of the deaf and mute. Madhukarrao Naik Residential School for the Deaf and Mute  Managed by the Late Chandibai Educational Institution, Wadad  Dhanki, Taluka Umred, District Yavatmal. 2025-26 (60 Funding)\
   [202603261559561035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261559561035.pdf)
@@ -82,6 +86,12 @@
 ## Personnel
 - Regarding the designation of Drawing and Disbursing Officers and Controlling Officers for the Special Assistance Schemes implemented by the Department of Empowerment of Persons with Disabilities: 1) Sanjay Gandhi Disabled Destitute Grant Scheme, 2) Shravanbal Seva Disabled State Pension Scheme, and 3) Indira Gandhi National Disabled Pension Scheme.\
   [202603231431297935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231431297935.pdf)
+
+- Regarding the appointment of a Single Nodal Agency (SNA) and a State Scheme Manager (SSM) for the Centrally Sponsored Indira Gandhi National Disability Pension Scheme, for the purpose of the SNA-SPARSH operational mechanism.\
+  [202603271124214835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271124214835.pdf)
+
+- Regarding the determination of eligibility for beneficiaries with disabilitiesencompassing a total of 21 categories of disability as defined under the Rights of Persons with Disabilities Act, 2016to avail themselves of schemes, concessions, benefits, subsidies, or other similar advantages provided by the State and allied agencies.\
+  [202603271315553935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271315553935.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

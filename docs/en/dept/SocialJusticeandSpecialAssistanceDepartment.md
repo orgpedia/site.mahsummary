@@ -43,5 +43,30 @@
 - Regarding the provision of funds for the Scheduled Castes category under the National Rural Health Mission through redistribution from the budgetary allocation for the year 2025-26.\
   [202603261700311622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261700311622.pdf)
 
+- Regarding the disbursement of an Assistant Grant to Sahityaratna Lokshahir Annabhau Sathe Development Corporation Ltd., Mumbai, under Head of Account 31  Assistant Grants (2225G261) (Non-Salary).\
+  [202603271555570222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271555570222.pdf)
+
+- Regarding the disbursement of sanctioned funds to the Sant Rohidas Leather Industries and Leather Workers Development Corporation, Mumbai, under the Capital Head of Account 42250042, Programme 54Investments.\
+  [202603271552526722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271552526722.pdf)
+
+- Regarding the disbursement of funds for the financial year 2025-26 under the State-Level Innovative Scheme for the distribution of units comprising two milch animals (under the Mu.Le.Shi. scheme). (Head of Account: 2403 D 722)\
+  [202603271559542122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271559542122.pdf)
+
+- Regarding the Sanction of Share Capital Grant under Head of Account 54  Investments (42250022) to the Sahityaratna Lokshahir Anna Bhau Sathe Development Corporation, Mumbai.\
+  [202603271802544822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271802544822.pdf)
+
+- Regarding the Grant of Administrative Approval for the Payment of Private Vehicle Rental Charges for the District Caste Certificate Verification Committees for the period from October 2025 up to the end of February 2026.\
+  [202603271218032822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271218032822.pdf)
+
+- Regarding the expansion of the scope and revision of the criteria for the provision of Margin Money to members of Scheduled Castes and the Neo-Buddhist community under the Central Governments Stand-Up India scheme.\
+  [202603271912298022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271912298022.pdf)
+
+- Regarding the distribution of funds to the Gopinath Munde Sugarcane Cutters Welfare Corporation under the Head of Account 2235C519.\
+  [202603271801054722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271801054722.pdf)
+
+## Personnel
+- Regarding Amendments to the Criteria for the Special Assistance Scheme\
+  [202603272055487622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272055487622.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

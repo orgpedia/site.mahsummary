@@ -79,6 +79,36 @@
 - Regarding the grant of administrative and financial approval for organizing the theatrical performance Sangeet Anandamath.\
   [202603261336362223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261336362223.pdf)
 
+- Regarding the grant of Revised Administrative Approval for the expenditure to be incurred for procuring a total of 50 unskilled personnel servicescomprising 46 Cleaners and 04 Sanitation Supervisorsthrough outsourcing for a period of 11 months, for sanitation work at the P.L. Deshpande Maharashtra Kala Academy, Mumbai.\
+  [202603271851123123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271851123123.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument: Jogai Assembly Hall and Caves (Chhota Hathikhana), Taluka Ambajogai, District Beed.\
+  [202603271847121523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271847121523.pdf)
+
+- Regarding the Granting of Administrative and Financial Approval for Expenditure Incurred on the Publicity and Promotion of the Tableau Titled Maharashtras Ganeshotsav: A Symbol of Self-Reliance.\
+  [202603271628041923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271628041923.pdf)
+
+- Regarding the grant of financial approval to the Tourism Departments Annual Marketing and Branding Action Plan for the financial year 2025-26amounting to 76,94,58,000to be implemented through the Directorate General of Information and Public Relations.\
+  [202603271434472623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271434472623.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the AAI (Azadi ka Amrit Mahotsav Initiative)  a Women-Centric / Gender-Inclusive Policy.\
+  [202603271746269323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271746269323.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Malojiraje Bhosale Gadhi (Fortress) at Verul, Taluka Khultabad, District Chhatrapati Sambhajinagara State-Protected Monument.\
+  [202603271848317323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271848317323.pdf)
+
+- Regarding the Granting of Financial Approval for Development Worksspecifically Part 2 of the Construction Worksunder Phase 3 of the Kolhapur Chitranagari Corporation, as well as under the Azadi Ka Amrit Mahotsav initiative.\
+  [202603271238241423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271238241423.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Amaleshwar Temple  a State-protected monument located in Ambajogai, Taluka Ambajogai, District Beed.\
+  [202603271849514223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271849514223.pdf)
+
+- Regarding the disbursement of funds for works of the Directorate of Tourism accorded administrative approval under the Regional Tourism Development Scheme.\
+  [202603271834530323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271834530323.pdf)
+
+- Regarding the grant of financial approval for the expenditure on electrical renovation works at the office of the Maharashtra State Literature Academy, Mumbai. (Rs. 12,57,968/-)\
+  [202603271625301023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271625301023.pdf)
+
 ## Miscellaneous
 - Regarding the allocation of funds for the conservation and repair works of the Lala Hardaul Samadhia State-protected monument located in Chhatrapati Sambhajinagar, Taluka and District Chhatrapati Sambhajinagar.\
   [202603231758320223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231758320223.pdf)
@@ -121,6 +151,21 @@
 
 - Regarding the grant of financial approval for expenditure on the organization of cultural programs within the Chhatrapati Sambhajinagar Revenue Division, on the occasion of the Sardhasaptashatabdi (750th Birth Anniversary) of the renowned 13th-century Marathi Saint and Poet, Dnyaneshwar Mauli.\
   [202603251734085623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251734085623.pdf)
+
+- Regarding the grant of financial approval for the expenditure on organizing literary and cultural programs by the Maharashtra State Gor Banjara Sahitya Akademi.\
+  [202603271444598223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271444598223.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of Koyrigad Fort (Koraigad)a State-protected monument located at Mauje Ambavane, Taluka Mulshi, District Pune.\
+  [202603271845355523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271845355523.pdf)
+
+- Regarding the Granting of Administrative Approval to Works of the Directorate of Tourism and the Disbursement of Funds under the Regional Tourism Development Scheme (Year 2025-26).\
+  [202603271838461523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271838461523.pdf)
+
+- Regarding the disbursement of a refundequivalent to the States share of the Goods and Services Tax (GST) paidduring the financial year 2025-26, as a concession towards the permissible financial incentives for eligible tourism projects under the Tourism Policies of 2006 and 2016.\
+  [202603271242196223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271242196223.pdf)
+
+- Regarding the disbursement of funds for works of the Directorate of Tourism accorded administrative approval under the Regional Tourism Development Scheme.\
+  [202603271836299523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271836299523.pdf)
 
 ## Personnel
 - Regarding the extension of temporary posts on the establishment of the Directorate of Archives, Mumbai, for the period from March 1, 2026, to August 31, 2026.\

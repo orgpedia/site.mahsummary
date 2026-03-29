@@ -37,6 +37,42 @@
 - Regarding the sanctioning of government share capital to cooperative sugar factories for the implementation of co-generation projects.\
   [202603251320556102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251320556102.pdf)
 
+- Regarding the approval for the distribution and expenditure of funds for 78 beneficiaries belonging to the Scheduled Castes category, under the Centrally Sponsored Scheme (Central Sector Scheme) Silk Samagra-2 (ISDSI).\
+  [202603272017220902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272017220902.pdf)
+
+- Regarding the disbursement of funds for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Armori, Dist. Gadchiroli, under the scheme titled Construction of Rashtrasant Tukadoji Maharaj Farmers Bhavan....\
+  [202603272023099102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272023099102....pdf)
+
+- Regarding the disbursement of funds for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Gadhinglaj (Dist. Kolhapur), under the scheme titled Construction of Rashtrasant Tukadoji Maharaj Farmers Bhavan....\
+  [202603272032286502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272032286502....pdf)
+
+- Regarding the disbursement of funds for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Nandgaon Khandeshwar (Dist. Amravati), under the scheme titled Construction of Rashtrasant Tukadoji Maharaj Farmers Bhavan....\
+  [202603272056076102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272056076102.pdf)
+
+- Regarding the approval for the distribution and utilization of funds for 62 beneficiaries belonging to the Scheduled Tribes category, under the Centrally Sponsored Scheme (Central Sector Scheme) Silk Samagra-2 (ISDSI).\
+  [202603272014377302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272014377302.pdf)
+
+- Regarding the disbursement of capital subsidies to textile units under the Integrated and Sustainable Textile Policy, 2023-28.\
+  [202603271317397302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271317397302.pdf)
+
+- Regarding the disbursement of funds for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Mangrulpir, Dist. Washim, under the scheme titled Construction of Rashtrasant Tukadoji Maharaj Farmers Bhavan....\
+  [202603272011241402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272011241402....pdf)
+
+- Regarding the Study Tour of the Boards of Directors of Agricultural Produce Market Committees in the State...\
+  [202603271648275702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271648275702.pdf)
+
+- Regarding the disbursement of funds for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Sindhudurg (District Sindhudurg), under the scheme titled Construction of Rashtrasant Tukadoji Maharaj Farmers Bhavan....\
+  [202603272013202002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272013202002....pdf)
+
+- Regarding the approval for the distribution and utilization of funds for 1,202 beneficiaries belonging to the General Category, under the Centrally Sponsored Scheme (Central Sector Scheme) Silk Samagra-2 (ISDSI).\
+  [202603271416275802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271416275802.pdf)
+
+- Regarding the allocation of funds towards the share capital of the Maharashtra State Cashew Board for the financial year 2025-26.\
+  [202603271630104002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271630104002.pdf)
+
+- Regarding the provision of funds for the establishment of a Tussar Silk Cocoon Market at Armori, District Gadchiroli, under the Integrated and Sustainable Textile Policy 2023-28.\
+  [202603271418127102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271418127102.pdf)
+
 ## Miscellaneous
 - Regarding the payment of 12 interest on loans obtained by Cooperative Spinning Mills from financial institutions... Shri Mahesh Cooperative Spinning Mill Ltd., Ichalkaranji, Taluka Hatkanangale, District Kolhapur.\
   [202603241612037902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241612037902.pdf)
@@ -46,6 +82,18 @@
 
 - Regarding the opening of a new Head of Account for the credit of interest on the loan granted to the Maharashtra State Handloom Corporation Limited, Nagpur.\
   [202603251714166502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251714166502.pdf)
+
+- Regarding the constitution of a Sub-Committee, under the chairmanship of the Honble Minister (Cooperation), to bring the distribution of advance payments (uplifts) and financial transactions involving sugar factory management, transporters, mukadams (supervisors), and sugarcane harvesting laborers within the legal framework by enacting a separate law.\
+  [202603271332066002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271332066002.pdf)
+
+- Regarding the disbursement of funds for the construction of a new Farmers Bhavan at the Agricultural Produce Market Committee, Jamkhed, Dist. Ahilyanagar, under the scheme Construction of Rashtrasant Tukadoji Maharaj Farmers Bhavan....\
+  [202603272053592102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272053592102.pdf)
+
+- Demand No. V-5 (Programme) Major Head 6851  Loans for Village and Small Industries. Reappropriation of Provisions for the Year 2025-26.\
+  [202603271318015702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271318015702.pdf)
+
+- Demand No. V-3 (Programme): Major Head 4851  Capital Outlay on Village and Small Industries  Reappropriation of Provisions for the Year 2025-26\
+  [202603271314259002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271314259002.pdf)
 
 ## Personnel
 - Continuation of Posts.\
@@ -83,6 +131,24 @@
 
 - Continuation of Posts.\
   [202603251612268202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251612268202.pdf)
+
+- Continuation of temporary posts for year 2026-27 Shetakari Sahakari sangh M. Kolhapur\
+  [202603271621485802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271621485802.pdf)
+
+- Regarding the extension of the tenure of 67 temporary posts sanctioned for Continuous and Concurrent Audit for the financial year 2026-27..... (Consumer Cooperative Societies)\
+  [202603271625492302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271625492302.pdf)
+
+- Regarding the extension of temporary posts sanctioned for Continuous and Concurrent Audit for the Financial Year 2026-27... Maharashtra State Co-operative Marketing Federation Ltd., Mumbai (26 Posts)\
+  [202603271623373702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271623373702.pdf)
+
+- Regarding the Extension of the Tenure of 7 Temporary Posts for Continuous and Concurrent Audit for the Financial Year 2026-27 (Directorate of Marketing, Pune)\
+  [202603271616591002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271616591002.pdf)
+
+- Continuation of Posts.\
+  [202603271329294502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271329294502.pdf)
+
+- Regarding the Extension of the Tenure of 86 Temporary Posts for Continuous and Concurrent Audit for the Financial Year 2026-2027 (Marketing Cooperative Societies)\
+  [202603271619023202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271619023202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

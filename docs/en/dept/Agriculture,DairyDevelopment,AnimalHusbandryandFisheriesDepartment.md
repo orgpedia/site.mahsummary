@@ -52,12 +52,39 @@
 - Regarding the distribution of funds amounting to 235.00 Crores for the supplementary subsidy to be provided under the Micro-irrigation component of the Chief Ministers Sustainable Agriculture Irrigation Scheme during the year 2025-26... (Corrigendum)\
   [202603261555042001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261555042001.pdf)
 
+- Regarding the distribution of funds to Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli, for the financial year 2025-26, under Head 35: Grant for the Creation of Capital Assets... (Program Expenditure)\
+  [202603271232531601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271232531601.pdf)
+
+- Regarding the provision of necessary fundsin the form of deposit contributionsfor the construction works of the Sub-Divisional Agriculture Officer, Pachora and subordinate offices; the Taluka Agriculture Officer, Jamner and subordinate offices; as well as the Taluka Agriculture Officer, Chalisgaon, the 4 Circle Agriculture Officers, and the Taluka Seed Multiplication Center, Chalisgaon, Dist. Jalgaon.\
+  [202603271933488401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271933488401.pdf)
+
+- Regarding the allocation of funds amounting to Rs. 23.52 Lakhs for various construction works at Taluka Seed Multiplication Farms under the jurisdiction of the Divisional Joint Directors of Agriculture, Pune and Chhatrapati Sambhajinagar.\
+  [202603271809538801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271809538801.pdf)
+
+- Regarding the provision of funds for carrying out works at the RAMETI institutions in Khopoli, Pune, and Kolhapur.\
+  [202603271907469601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271907469601.pdf)
+
+- Regarding the distribution of funds amounting to 30 Crores for the General Category for the implementation of the Bhausaheb Fundkar Orchard Plantation Scheme during the year 2025-26... (2401 A889)\
+  [202603271221146801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271221146801.pdf)
+
+- Regarding the distribution of funds to Mahatma Phule Krishi Vidyapeeth, Rahuri, for the financial year 2025-26, under Head 35: Grant for the Creation of Capital Assets... (Program Expenditure)\
+  [202603271951566501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271951566501.pdf)
+
+- Regarding the provision of necessary funds for the construction of the Divisional Joint Director of Agriculture, Nashik, and its subordinate offices, in the form of deposit contributions.\
+  [202603271935489901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271935489901.pdf)
+
 ## Miscellaneous
 - Regarding the grant of approval to open a Personal Deposit Account in the name of the District Superintendent of Agriculture Officer, Osmanabad (Dharashiv), for the disbursement of compensation to eligible farmers in Dharashiv district for the Kharif season 2020, under the Pradhan Mantri Fasal Bima Yojana...\
   [202603241234051001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241234051001.pdf)
 
 - Regarding the Grant of Financial Approval to the Estimates for Construction Works within the Premises of Government Fruit Nurseries, under the Head of Account Vegetable Nurseries, Fruit Nurseries, and Local Gardens (Mandatory) (2401 1722)  Sub-head 27: Minor Construction Works.\
   [202603251942324201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251942324201.pdf)
+
+- Regarding the approval of item-wise fund reallocation for the Citrus Estate, Isarwadi, Taluka Paithan, District Chhatrapati Sambhajinagar.\
+  [202603271223503801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271223503801.pdf)
+
+- Guidelines regarding the provision of a special relief package and concessions to persons affected by excessive rainfall and flood disasters in the State during the period from June to September 2025.\
+  [202603271252081401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271252081401.pdf)
 
 ## Personnel
 - Regarding the extension of temporary posts under the 100 Centrally Sponsored Schemesnamely, the World Agricultural Census Scheme, the Scheme for Timely Reporting of Area under Major Crops in the State of Maharashtra, and the Scheme for Improvement of Crop Statisticsfor the period from March 1, 2026, to August 31, 2026.\

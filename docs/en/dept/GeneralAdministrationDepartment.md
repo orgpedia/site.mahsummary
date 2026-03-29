@@ -31,6 +31,18 @@
 - Regarding the approval for the withdrawal of funds against an advance bill for organizing the National PR Summit-2026 in New Delhi in April 2026.\
   [202603251901179107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251901179107.pdf)
 
+- Requisition No.A-4 (Mandatory/Definitive) Re-appropriation of the provision under the head heads 2070, Other Administrative Services and 2052, Secretariat-General Services for the year 2025-26.\
+  [202603271744001307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271744001307.pdf)
+
+- Regarding disbursement of grant to Maharashtra Airport Development Company for development of Mihan project.\
+  [202603271736084107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271736084107.pdf)
+
+- Under Maharashtra Gaurav Puraskar Scheme as well as providing financial assistance to soldiers who have been martyred and disabled in war war situations/ security related operations.\
+  [202603271731017807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271731017807.pdf)
+
+- Regarding the grant of administrative and financial approval for the expenditure amounting to Rs. 3,53,17,032/- to be incurred on the organization/broadcasting of the programs Jai Maharashtra and Dilkhulas during the financial year 2026-27.\
+  [202603271121585807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271121585807.pdf)
+
 ## Miscellaneous
 - Regarding filling various vacant posts in  the State Right to Service Commission under the jurisdiction of the General Administration Department by deputation.\
   [202603231313426407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231313426407.pdf)
@@ -50,12 +62,21 @@
 - Sanction is hereby accorded for the extension of services of four technical manpower personnel, deployed through an external agency at the Office of the Chief Electoral Officer, for the period from 16/02/2026 to 30/09/2026.\
   [202603251817092107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251817092107.pdf)
 
+- Regarding the provision of rooms in rest houses/guest houses of various departmentsconstructed using government fundsto government officers and employees of all departments during official tours, subject to their eligibility...\
+  [202603271517230107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271517230107.pdf)
+
+- Nomination Proposal for Padma Awards 2027\
+  [202603271513422407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271513422407....pdf)
+
 ## Personnel
 - Regarding the handling and transfer of the subject: construction and Maintenance of Monuments for National Figures and Eminent Personalities.\
   [202603231543443507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231543443507.pdf)
 
 - Provisional seniority list of third and fourth class employees of Sahyadri/Nandgiri State Guest House dated 01.01.2026.\
   [202603251809323607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251809323607.pdf)
+
+- mandatory use of MahaID as the Single Sign-On (SSO) mechanism for availing the benefits of all schemes and services of the Government of Maharashtra, and for establishing the necessary framework to implement the Mahasarathi project.\
+  [202603271342328507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271342328507.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

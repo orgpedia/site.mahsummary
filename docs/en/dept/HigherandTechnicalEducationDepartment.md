@@ -25,6 +25,12 @@
 - Regarding the disbursement of (Mandatory) Grants-in-Aid to Government-recognized Public Libraries for the second / consolidated installment of the financial year 2025-26.\
   [202603251851045408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251851045408.pdf)
 
+- Regarding approving the expenditure by disbursing the State Governments contribution (compulsory) for the matching scheme of the Raja Rammohan Roy Library Foundation from the budget provision for the year 2025-26.\
+  [202603271709551408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271709551408.pdf)
+
+- Regarding the disbursement of funds to the Gokhale Institute of Politics and Economics, Puneappointed to conduct a study on enhancing the financial viability of all non-agricultural universities and institutions falling under the purview of the Department of Higher Education.\
+  [202603271126318108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271126318108....pdf)
+
 ## Miscellaneous
 - Regarding the completion of the probationary period and continuation of appointment for Lecturers at Government Polytechnics.\
   [202603231743311008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231743311008.pdf)
@@ -55,6 +61,15 @@
 
 - Regarding the grant of administrative approval for the construction of the first floor of the Yashwantrao Chavan School of Rural Development at Shivaji University, Kolhapur.\
   [202603251801295508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251801295508....pdf)
+
+- Regarding the completion of the probation period and continuation of appointment for Lecturers at Government Polytechnics.\
+  [202603271452090708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271452090708.pdf)
+
+- Regarding the completion of the probation period and continuation of appointment for Lecturers at Government Polytechnics.\
+  [202603271449595708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271449595708.pdf)
+
+- Regarding the entrustment of the additional charge of the post of Presiding Officer of the University and College Tribunal, University of Mumbai, Mumbai.\
+  [202603271105368808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271105368808.pdf)
 
 ## Personnel
 - Regarding the Constitution of a State-Level Committee on Innovation and Intellectual Property Rights (IPR)\

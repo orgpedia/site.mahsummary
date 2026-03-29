@@ -13,6 +13,12 @@
 - Regarding the distribution of funds for the financial year 2025-26 to Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (Sarathi), Pune.  (Step-11)\
   [202603241940412716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241940412716.pdf)
 
+- Regarding the provision of grants-in-aid to Urban Local Bodiesspecifically through re-appropriation from Demand No. O-9, Head of Account 3604 1018 (Municipal Councils), Sub-head 31 (Grants-in-AidProgrammes)to the Head of Account 3604 1009 (Municipal Corporations), Sub-head 31 (Grants-in-AidProgrammes).\
+  [202603271824108016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271824108016.pdf)
+
+- Regarding the allocation of funds for the year 2025-26 under the Shri Kshetra Grishneshwar, Verul (Taluka Khultabad, District Chhatrapati Sambhajinagar) Development Plan.\
+  [202603271119358316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271119358316.pdf)
+
 ## Personnel
 - Regarding the extension of the tenure of a total of 266 temporary postsincluding that of the Commissioner (IAS)across the Headquarters, all Regional Offices, and all District Statistical Offices of the Directorate of Economics and Statistics, for the period from March 1, 2026, to August 31, 2026.\
   [202603231255526016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231255526016.pdf)

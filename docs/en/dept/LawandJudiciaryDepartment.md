@@ -33,5 +33,14 @@
 - Regarding the continuation of the tenure of 55 temporary posts in 11 Special Courts established for persons with disabilities, senior citizens, and marginalized sections of society.\
   [202603251220201612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251220201612.pdf)
 
+- Continuation of temporary post for the period 01.03.2026 to 31.08.2026 District and session Court, Nashik.\
+  [202603271325257412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271325257412.pdf)
+
+- Regarding the extension of temporary posts for the period from 01.03.2026 to 31.08.2026. District and Sessions Court and Subordinate Courts within the Hingoli Judicial District.\
+  [202603271326584512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271326584512.pdf)
+
+- Regarding the extension of the tenure of temporary posts of Judicial Officers in the District and Sessions Courts and their subordinate courts within the State, as well as in the Court of the Chief Metropolitan Magistrate, Mumbai, and the Small Causes Court, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
+  [202603271321388012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271321388012.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

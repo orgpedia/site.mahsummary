@@ -34,12 +34,33 @@
 - To release grant for the scheme of Implementation of E Governance Project (Scheme) under the TSP in financial year 2025-26\
   [202603251121305824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251121305824.pdf)
 
+- To release gran for the scheme of Incentives for Scheduled Tribes Entrepreneurs under Special Package Scheme of Incentives.(Scheme)  CRC 2852 A013\
+  [202603271632550324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271632550324.pdf)
+
+- Regarding the distribution of funds under the Ashram School Cluster scheme for the Financial Year 2025-26, within the framework of the Tribal Sub-Plan. (Head of Account: 2225 D 734) (Item No. 21: Supplies and Materials)\
+  [202603271148278724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271148278724.pdf)
+
+- To release grant for the scheme of 5 of the Tribal Sub-plan funds to  the Grampanchayats in Scheduled Areas. (Scheme) under the TSP in financial year 2025-26. CRC 2501 2971\
+  [202603271632596624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271632596624.pdf)
+
+- Allocation of Funds for the Skill Development Scheme for Tribal Youth under the Tribal Sub-Plan Component for the Financial Year 2025-26 (Head of Account 2225D262)\
+  [202603271144416824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271144416824.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 200.00 Lakhs under Head of Account 2225 2658 for the year 2025-26 to the Tribal Research and Training Institute, Pune (an autonomous body), in the form of an annual lump-sum grant (Corpus Fund).\
+  [202603271603079024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271603079024.pdf)
+
+- Distribution of Funds for the Tribal Sub-Plan for the Financial Year 2025-26 Head of Account: 2225 2587 Item No. 31  Grants-in-Aid (Non-Salary)\
+  [202603271150238724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271150238724.pdf)
+
 ## Miscellaneous
 - Distribution of Funds under the Scheme for Program Expenditure for the Tribal Sub-Plan Component for the Financial Year 2025-26\
   [202603231804540324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231804540324.pdf)
 
 - To release grant for the scheme of committed expenditure scheme Financial Assistance to Shabri Tribal Development Corporation (Committed) under the TSP in financial year 2025-26. CRC 2225G081 01-salary\
   [202603251121351524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251121351524.pdf)
+
+- Regarding the release of funds under the Tribal Sub-Plan (TSP) Head of Account (4225 1109) for the construction of Government Ashram Schools for the year 2025-26.\
+  [202603271541594024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271541594024....pdf)
 
 ## Personnel
 - Regarding the extension of the tenure of a total of 342 temporary postscomprising those within the office of the Commissioner, Tribal Research and Training Institute, Pune, and those within the offices of all Scheduled Tribe Certificate Scrutiny Committees subordinate to itfor the period from March 1, 2026, to August 31, 2026.\

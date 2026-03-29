@@ -94,6 +94,36 @@
 - Regarding the provision of funds for the training programs (CPTP-10) of Probationary Deputy Collectors and Tehsildars, under the State Training Policy.\
   [202603251837195519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251837195519.pdf)
 
+- Regarding distribution of grants under the Rural and Tribal Development Programme (2406 1521) scheme under the State Plan 2025-26.\
+  [202603271812287719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271812287719.pdf)
+
+- Regarding the disbursement of funds under the scheme Establishment of the Maharashtra Nature Tourism Development Board (2406-A096) for the year 2025-26.\
+  [202603271109093519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271109093519.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of Nanded District that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603271904010819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271904010819.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of Nanded District that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603271214078219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271214078219.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages located in Naigaon Taluka, Nanded District, that were rehabilitated following disruption caused by heavy rainfall and floods.\
+  [202603272002122219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272002122219.pdf)
+
+- Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2025-26.\
+  [202603271905045019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271905045019.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of the Naigaon and Biloli talukas of Nanded District that were rehabilitated following disruption caused by heavy rainfall and floods.\
+  [202603271159330019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271159330019.pdf)
+
+- Regarding the distribution of funds for civic amenity works in Mauje Chandaja rehabilitated village site in the Madha Taluka of Solapur Districtunder the Ujani Project.\
+  [202603271902032419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271902032419.pdf)
+
+- Regarding the provision of financial assistance to the legal heirs of Warkaris who met with accidental deaths at the holy site of Pandharpur, under the Vitthal Rakhumai Warkari Scheme  2025.\
+  [202603271843565919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271843565919.pdf)
+
+- Regarding the disbursement of funds to the Thane Municipal Corporation for the settlement of pending payments for transport services (ambulances) rendered during the period from September 2020 to February 2021, amidst the COVID-19 virus outbreak.\
+  [202603271756131419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271756131419.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme Establishment of the Maharashtra Bamboo Development Board for the year 2025-26 (2406-A185).\
   [202603241142345019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241142345019.pdf)
@@ -115,6 +145,15 @@
 
 - Regarding the Granting of Approval for the Appointment of Licensed Surveyors / Survey Agencies for Survey Work at the District Level....\
   [202603251446330719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251446330719.pdf)
+
+- Regarding the distribution of funds for civic amenity works in rehabilitated village settlements located in Bhor Taluka (Pune District) under the Bhatghar and Veer Projects; Jawali Taluka (Satara District) under the Koyna Project; and Indapur Taluka (Pune District) and Karmala Taluka (Solapur District) under the Ujani Project...\
+  [202603271859369919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271859369919.pdf)
+
+- Regarding the distribution of funds for the year 2025-26 under the Scheme for Survey, Settlement, and Demarcation of Reserved Forests.. (4406-0053).... Corrigendum\
+  [202603272004004819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272004004819.pdf)
+
+- Regarding the distribution of funds under the scheme titled Schemes Financed from Revenue Accruing from Forest Development Tax (4406 0171) under the State Plan for the year 2025-26.\
+  [202603271814316419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271814316419.pdf)
 
 ## Personnel
 - Regarding the provision of funds to the tenderer in accordance with the Governments policy on the excavation, storage, and online sale of sand. (District: Gondia)\
@@ -185,6 +224,21 @@
 
 - Regarding the posting of officers belonging to the Deputy Collector cadre by way of transfer.\
   [202603251834213019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251834213019.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of Nanded District that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603272011136919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272011136919.pdf)
+
+- Continuation of Posts.\
+  [202603271114392719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271114392719.pdf)
+
+- Continuation of Posts.\
+  [202603271117184619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271117184619.pdf)
+
+- Regarding the distribution of funds for civic amenity works in the rehabilitated village sites within Bhor Taluka, Pune District, under the Veer Project...\
+  [202603271157258319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271157258319.pdf)
+
+- Regarding the provision of funds to the tenderer in accordance with the Governments policy on the excavation, storage, and online sale of sand. (District: Gondia)\
+  [202603271828302419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271828302419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
