@@ -73,6 +73,12 @@
 - Regarding the provision of necessary funds for the construction of the Divisional Joint Director of Agriculture, Nashik, and its subordinate offices, in the form of deposit contributions.\
   [202603271935489901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271935489901.pdf)
 
+- Regarding the disbursement of grants to Mahatma Phule Krishi Vidyapeeth, Rahuri, under Head 31  Grants-in-Aid (Non-Salary)  for the Financial Year 2025-26 (Mandatory).\
+  [202603281833126001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281833126001.pdf)
+
+- Regarding the disbursement of grants to Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola, for the financial year 2025-26, under Head 35: Grants for the Creation of Capital Assets (Program).\
+  [202603281333318801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281333318801.pdf)
+
 ## Miscellaneous
 - Regarding the grant of approval to open a Personal Deposit Account in the name of the District Superintendent of Agriculture Officer, Osmanabad (Dharashiv), for the disbursement of compensation to eligible farmers in Dharashiv district for the Kharif season 2020, under the Pradhan Mantri Fasal Bima Yojana...\
   [202603241234051001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241234051001.pdf)
@@ -95,6 +101,9 @@
 
 - Regarding the permanent transferat a rate of 50 percent, inclusive of machinery, assets, and landof the Government Milk Chilling Center, Karjat, to the Sahakar Maharshi Raosaheb alias Balasaheb Patil Cooperative Milk Business and Processing Union Ltd., Karjat.\
   [202603251757169101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251757169101.pdf)
+
+- Regarding purely temporary promotion from the cadre of Superintendent of Agriculture Officer (Maharashtra Agriculture Service, Group-A) to the cadre of Joint Director of Agriculture (Maharashtra Agriculture Service, Group-A).\
+  [202603281723428701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281723428701.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -37,12 +37,36 @@
 - Regarding the approval for the utilization of funds under the scheme for Promotion of the Cashew Processing Industry for the year 2025-26...\
   [202603272025314410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272025314410.pdf)
 
+- Grants to MSEDCL for book in Cash against Subsidy to powerloom consumers for the year 2025-26\
+  [202603281243058910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281243058910.pdf)
+
+- Regarding the grant of administrative and financial approval to a proposal under the Scheme for the Creation and Development of Industrial Infrastructure (2025-26).\
+  [202603281345400410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281345400410....pdf)
+
+- Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty Tax on Electricity against Subsidy to Agricultural pump consumers for the year 2025-26\
+  [202603281249231110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281249231110.pdf)
+
+- Financial Assistance (by adjustment) to the Maharashtra State Electricity Distribution Company Limited on account of concessions in electricity tariffs granted to powerloom consumers in the State  Year 2025-26. (Head of Account 28015581) (Rs. 91.55 Crore)\
+  [202603281245008710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281245008710.pdf)
+
+- Financial Assistance (by adjustment) to the Maharashtra State Electricity Distribution Company Limited on account of electricity tariff concessions granted to textile industry consumers in the State  Year 2025-26. (Head of Account 28015599) (Rs. 430.59 Crore)\
+  [202603281247115910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281247115910.pdf)
+
+- Regarding the approval of expenditure under the objective 34  Scholarships/Stipends within the Chief Ministers Employment Generation Programme (General) scheme for the financial year 2025-26.\
+  [202603281431300110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281431300110.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of Nominated/Ex-officio Members to the Governing Council under the District Mineral Foundation, Chhatrapati Sambhajinagar...\
   [202603241635379010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241635379010.pdf)
 
 - Regarding the Constitution of a Steering Committee for Organizing the Maharashtra Mining Investment Conference.\
   [202603251811327810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251811327810....pdf)
+
+- Regarding improvements to the online procedurein accordance with the e-Governance system of the Gazettefor advertisements pertaining to changes in name, age, and religion published in Part Two of the Government of Maharashtra Gazette, as part of the Governance Process Re-engineering (GPR) initiative for various government schemes and services.\
+  [202603281613525210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281613525210.pdf)
+
+- Regarding the simplification of the establishment registration and acknowledgment receipt forms under the Maharashtra Shops and Establishments (Regulation of Employment and Conditions of Service) Act, 2017; specifically, by reducing the information required in the application forms, minimizing the documents to be submitted by applicants, and facilitating the delivery of services to citizens and applicants with greater ease.\
+  [202603281338083310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281338083310....pdf)
 
 ## Personnel
 - Regarding the Granting of a Notional Date to Ms. H.K. Vidhate, Geologist, on the Establishment of the Directorate of Geology and Mining, Nagpur...\

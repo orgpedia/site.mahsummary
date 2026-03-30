@@ -73,6 +73,15 @@
 - Regarding the provision of funds for the establishment of a Tussar Silk Cocoon Market at Armori, District Gadchiroli, under the Integrated and Sustainable Textile Policy 2023-28.\
   [202603271418127102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271418127102.pdf)
 
+- Regarding the Distribution of Funds Allocated for the Year 2025-26. Financial Assistance for the Strengthening of District Central Cooperative Banks under the Short-Term Cooperative Credit Structure (STCCS) in the State (2425 2524).\
+  [202603281432444202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281432444202.pdf)
+
+- Regarding the disbursement of a 10 capital subsidy for the modernization of existing powerloom units belonging to minority communities, under the State Textile Policy 201117.\
+  [202603281727108502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281727108502.pdf)
+
+- Regarding the disbursement of interest subsidy to textile units under the Textile Policy, 20112017.\
+  [202603281729432202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281729432202.pdf)
+
 ## Miscellaneous
 - Regarding the payment of 12 interest on loans obtained by Cooperative Spinning Mills from financial institutions... Shri Mahesh Cooperative Spinning Mill Ltd., Ichalkaranji, Taluka Hatkanangale, District Kolhapur.\
   [202603241612037902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241612037902.pdf)

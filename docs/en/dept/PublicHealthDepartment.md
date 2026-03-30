@@ -64,6 +64,12 @@
 - regarding distribution for construction of Primary Health Centers and Sub-Centers under Regional Backlog under Head 2210 3065.For the financial year 2025-26, demand No. R-1,\
   [202603271054302017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271054302017.pdf)
 
+- Regarding the sanctioning of funds for recurring expenditure on ambulances operational under the Maharashtra Emergency Medical Services (MEMS) scheme for the year 2025-26. (70 payment for the month of February 2026)\
+  [202603281257256617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281257256617.pdf)
+
+- Regarding the Granting of Administrative Approval for the Expenditure to Procure Contractual Dietary Services at Shashikala Tuberculosis Health Centre, Jaisingpur, Kolhapur.\
+  [202603271508156017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271508156017.pdf)
+
 ## Miscellaneous
 - Regarding redistribution of funds from state share head 2210E455 to newly received head 2210K562 for tribal sub-plan under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26.\
   [202603231105034617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231105034617.pdf)
@@ -101,6 +107,9 @@
 - Regarding the distribution of funds through re-appropriation for the Pradhan Mantri Ayushman Bharat Health Infrastructure Mission Tribal Deployment Scheme under Central Share 2210H481, Item 35 and State Share 2210H492, Item 35 from the budgetary provision approved under the Central Share Head 2210F738 and State Share Head 2210E455, Item 31 in the year 2025-26 under the National Rural Health Mission...\
   [202603251013175717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251013175717.pdf)
 
+- Regarding the distribution of funds under the Public Health Department specifically through the office of the Joint Director, Health Services (Malaria, Filaria, and Vector-borne Diseases), Pune by way of re-appropriation/re-distribution of funds from the budgetary provisions for the year 2025-26, under the Head of Account Malaria Control Programme (Local Sector) (22105219) and Malaria Control Programme (State Sector) (22100611).\
+  [202603281325399117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281325399117.pdf)
+
 ## Personnel
 - Regarding extension of the temporary post of Commissioner, Urban Health.\
   [202603241052401917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241052401917.pdf)
@@ -110,6 +119,9 @@
 
 - Regarding the continuation of 5 temporary posts within the State-level Administrative Department, under the strengthening of the Dental Departments in hospitals of the Public Health Department.\
   [202603251548126217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251548126217.pdf)
+
+- Regarding the designation of the Administrative Officer at the Office of the Deputy Director (Transport), Health Services, Puneoperating under the Public Health Departmentalong with eight Service Managers from the Divisional Workshops (Transport) under his control (total: 9), as Virtual Personal Deposit Account Administrators (VPDAA).\
+  [202603281325548417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281325548417.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

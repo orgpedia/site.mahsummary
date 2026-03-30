@@ -34,6 +34,12 @@
 - Regarding distribution to Jain Minority Economic Development Corporation for the financial year 2025-26\
   [202603271901011814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271901011814.pdf)
 
+- Maulana Azad Minorities Financial Development Corporation Limited, Mumbai: Regarding the Disbursement of Share Capital Contribution for the Year 2025-26.Maulana Azad Minorities Financial Development Corporation Limited, Mumbai: Regarding the Disbursement of Share Capital Contribution for the Year 2025-26.\
+  [202603281338246814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281338246814.pdf)
+
+- Regarding the distribution of grants in the year 202526 for the construction of an Urdu Ghar in Sillod, District Chhatrapati Sambhajinagar.\
+  [202603281237413314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281237413314.pdf)
+
 ## Miscellaneous
 - Regarding the appointment to the post of Secretary at the office of the Maharashtra State Minorities Commission, Mumbai, on deputation for a period of three years.\
   [202603231809062214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231809062214.pdf)

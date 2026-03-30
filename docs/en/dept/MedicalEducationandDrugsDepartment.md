@@ -25,12 +25,18 @@
 - Regarding the grant of administrative approval for an expenditure amounting to Rs. 50,43,169/- (in words: Rupees Fifty Lakhs Eighty-Six Thousand Three Hundred Sixty-Eight only) for entering into an Annual Maintenance Contract for highly sensitive equipment at the Food and Drug Administration Laboratory, Mumbai, for the year 2025-26.\
   [202603271122546513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271122546513.pdf)
 
+- Regarding the approval for the payment of premises rent totaling Rs. 7,21,500/- (Rupees Seven Lakh Twenty-One Thousand Five Hundred Only) for the period from 01.03.2024 to 31.03.2025, for the office of the Food and Drug Administration, Government of Maharashtra, Amravati.\
+  [202603281438101913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281438101913.pdf)
+
 ## Miscellaneous
 - Administrative Approval for Purchase of  Machinery  Equipment at Trauma Care Centre Government Medical College  Hospital, Nagpur\
   [202603251303354813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251303354813.pdf)
 
 - Regarding the grant of administrative approval for the procurement of necessary equipment for the DRUG AHU at the Food and Drug Administration Laboratory, Chhatrapati Sambhajinagar.\
   [202603251603272513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251603272513.pdf)
+
+- Regarding the release of funds through the SNA SPARSH system to Government Medical College and Hospital, Nandurbar, under the Centrally Sponsored Scheme, from the budget provision for the year 202526, with 60 Central share and 40 State share through the Mother Sanction.\
+  [202603281135461613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281135461613.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

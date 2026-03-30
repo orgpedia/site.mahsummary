@@ -110,6 +110,9 @@
 - Regarding revival of posts in Gad-D cadre on establishment of Police Constituent Office in Maharashtra Police Force for compassionate appointment.\
   [202603271850317429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271850317429.pdf)
 
+- Final Seniority List Regarding the publication of the Final Seniority Listas of January 1, 2021; January 1, 2022; January 1, 2023; and January 1, 2024for officers belonging to the Administrative Officer (Group-B) cadre on the establishment of the Directorate of Forensic Science Laboratories, Mumbai, functioning under the Director General (Judicial and Technical), Government of Maharashtra.\
+  [202603281313330029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281313330029.pdf)
+
 ## Personnel
 - Regarding the extension of 1,126 temporary posts across various cadres on the establishment of the Commissioner of Police, Greater Mumbai.\
   [202603231531177129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231531177129.pdf)

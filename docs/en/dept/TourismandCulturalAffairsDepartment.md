@@ -109,6 +109,15 @@
 - Regarding the grant of financial approval for the expenditure on electrical renovation works at the office of the Maharashtra State Literature Academy, Mumbai. (Rs. 12,57,968/-)\
   [202603271625301023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271625301023.pdf)
 
+- Regarding the grant of administrative and financial approval for the expenditure to be incurred for organizing the cultural program titled Mahaculture: Colors of Maharashtra on the occasion of the 6th Annual Conference on Disarmament and International Security Affairs.\
+  [202603281736417723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281736417723.pdf)
+
+- Regarding the Granting of Administrative and Financial Approval for Organizing the Shivkalyan Raja Cultural Program on the Occasion of Chhatrapati Shivaji Maharaj Jayanti.\
+  [202603281341438123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281341438123.pdf)
+
+- Regarding the grant of financial approval for the production by the Government of a grand, commercial, multilingual filmincluding Marathibased on the biography of Punyashlok Ahilyadevi Holkar.\
+  [202603281522349523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281522349523.pdf)
+
 ## Miscellaneous
 - Regarding the allocation of funds for the conservation and repair works of the Lala Hardaul Samadhia State-protected monument located in Chhatrapati Sambhajinagar, Taluka and District Chhatrapati Sambhajinagar.\
   [202603231758320223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231758320223.pdf)
@@ -167,6 +176,15 @@
 - Regarding the disbursement of funds for works of the Directorate of Tourism accorded administrative approval under the Regional Tourism Development Scheme.\
   [202603271836299523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271836299523.pdf)
 
+- Regarding the grant of administrative and financial approval for the expenditure to be incurred for organizing a special cultural program in Hyderabad to celebrate the conferment of Classical Language status upon the Marathi language.\
+  [202603281525590123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281525590123.pdf)
+
+- Regarding the grant of administrative and financial approval for organizing a special cultural program featuring patriotic songs.\
+  [202603281617153523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281617153523.pdf)
+
+- Regarding the Granting of Administrative and Financial Approval for Organizing Cultural Programs in Pune.\
+  [202603281808391523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281808391523.pdf)
+
 ## Personnel
 - Regarding the extension of temporary posts on the establishment of the Directorate of Archives, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
   [202603241241243423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241241243423.pdf)
@@ -179,6 +197,9 @@
 
 - Continuation of Posts.\
   [202603251507089323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251507089323.pdf)
+
+- Regarding the grant of administrative and financial approval for the cost of cloud services required to implement the Direct Benefit Transfer (DBT) system for the Rajarshi Shahu Maharaj Honorarium Scheme for Senior Litterateurs and Artists.\
+  [202603281806152123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281806152123.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

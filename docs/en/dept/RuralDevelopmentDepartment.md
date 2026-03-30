@@ -103,6 +103,9 @@
 - Regarding granting administrative approval to the development works to be carried out under Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class). Shri Banashankari Devasthan, Mouje Banali, Tal. Jat, Dist. Sangli.\
   [202603271033215020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271033215020.pdf)
 
+- Regarding the distribution of fundsreceived through re-appropriationfor the Yashwantrao Chavan Panchayat Raj Campaign Awards and Program for the year 2024-25 (Assessment Year 2023-24) (Financial Year 2025-26).\
+  [202603281107469120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281107469120.pdf)
+
 ## Miscellaneous
 - Release of grant-in-aid to Mahatma Gandhi Pratishthan, sewagram Vardha as compensation caused by exemption in tax for year 2025-26\
   [202603241141252220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241141252220.pdf)

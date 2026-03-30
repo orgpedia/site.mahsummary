@@ -52,6 +52,9 @@
 - Distribution of Funds for the Tribal Sub-Plan for the Financial Year 2025-26 Head of Account: 2225 2587 Item No. 31  Grants-in-Aid (Non-Salary)\
   [202603271150238724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271150238724.pdf)
 
+- Regarding the allocation of funds for the Financial Year 2025-26 for the scheme concerning the implementation of the e-Governance Project (Programme), under the Tribal Sub-Plan  Major Head 2251, Secretariat  Social Services... (Corrigendum)\
+  [202603281601366724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281601366724.pdf)
+
 ## Miscellaneous
 - Distribution of Funds under the Scheme for Program Expenditure for the Tribal Sub-Plan Component for the Financial Year 2025-26\
   [202603231804540324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231804540324.pdf)
@@ -61,6 +64,9 @@
 
 - Regarding the release of funds under the Tribal Sub-Plan (TSP) Head of Account (4225 1109) for the construction of Government Ashram Schools for the year 2025-26.\
   [202603271541594024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271541594024....pdf)
+
+- Regarding improvements in the admission process for Government Tribal Hostels under the initiative for the Simplification of Various Government Services (GPR).\
+  [202603281229589224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281229589224.pdf)
 
 ## Personnel
 - Regarding the extension of the tenure of a total of 342 temporary postscomprising those within the office of the Commissioner, Tribal Research and Training Institute, Pune, and those within the offices of all Scheduled Tribe Certificate Scrutiny Committees subordinate to itfor the period from March 1, 2026, to August 31, 2026.\

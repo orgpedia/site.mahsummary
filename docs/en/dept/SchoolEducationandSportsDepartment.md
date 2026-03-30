@@ -82,6 +82,21 @@
 - Regarding the distribution of funds under the Scheduled Castes component of the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
   [202603271234202321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271234202321.pdf)
 
+- Allocation of funds for organizing the All India Civil Services Kho-Kho Tournament, 2025-26.\
+  [202603281603366521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281603366521.pdf)
+
+- Regarding the Sanction of Insurance Coverage/Ex-gratia Assistance to the Families of Employees Who Died Due to COVID-19 Infection While Discharging COVID-19 Related Duties. Late (Mr.) Yogesh Paraji Jadhav, Assistant Teacher\
+  [202603281430126321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281430126321.pdf)
+
+- Regarding the disbursement of funds for granting scholarships to athletes from the State who participate in or achieve distinction in national-level school sports competitions.\
+  [202603281836135921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281836135921.pdf)
+
+- Allocation of funds for participation in the All India Civil Services Sports Competition scheduled for the year 2025-26.\
+  [202603281458481521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281458481521.pdf)
+
+- Regarding making available on the Budgetary Distribution System the Central Sharesanctioned by the Central Government as a Mother Sanction for the year 2025-26along with the proportionate State Share, for the implementation of the SNA-SPARSH system under the Centrally Sponsored PM SHRI (PM Schools for Rising India) Scheme.\
+  [202603281638371221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281638371221.pdf)
+
 ## Miscellaneous
 - 01 Regarding the approval for the disbursement of funds for office repairs, fire alarm systems, and electrical installations at the office of the Maharashtra Girls National Cadet Corps Unit, Mumbai. (4202 6228)\
   [202603231335327621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231335327621....pdf)
@@ -137,6 +152,24 @@
 - Regarding the disbursement of funds to M/s Grant Thornton, India, for the development of an integrated computer system.\
   [202603271637175921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271637175921.pdf)
 
+- Regarding the Distribution of Funds to District Sports Training Centers. Head of Account (2204 5682).\
+  [202603281633158221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281633158221.pdf)
+
+- Regarding the release of the fourth installment of the Scheduled Castes Sub-Plan (SCP) for the Centrally Sponsored Samagra Shiksha (Elementary Education, Secondary Education, and Teacher Education) Programme (Central Share and State Share).\
+  [202603281741214621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281741214621....pdf)
+
+- Regarding the distribution of funds of the fourth installment under the General component of the Samagra Shiksha (Primary Education, Secondary Education and Teacher Education) scheme. (Central share and State share)\
+  [202603282008122221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603282008122221.pdf)
+
+- Regarding the release of the fourth installment of the Tribal Sub-Plan (TSP) for the Centrally Sponsored Samagra Shiksha (Elementary Education, Secondary Education, and Teacher Education) program for the financial year 2025-26 (Central Share and State Share).\
+  [202603281745336521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281745336521.pdf)
+
+- Regarding the distribution of funds for school and other sports competitions scheduled for the year 2025-26.\
+  [202603281600344721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281600344721.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603281904333321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281904333321.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603231734019021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231734019021.pdf)
@@ -182,6 +215,27 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603271804385421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271804385421.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603281900102021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281900102021.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603281643335221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281643335221.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603281747033521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281747033521.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603281409542421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281409542421.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603282008274721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603282008274721.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603281900306021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281900306021.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grants for the year 2025-2026\
+  [202603281731255421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281731255421.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -124,6 +124,21 @@
 - Regarding the disbursement of funds to the Thane Municipal Corporation for the settlement of pending payments for transport services (ambulances) rendered during the period from September 2020 to February 2021, amidst the COVID-19 virus outbreak.\
   [202603271756131419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271756131419.pdf)
 
+- Regarding the allocation of funds under the Head of Account 4406 0492  Concrete Afforestation Programme at the Community Level  for the financial year 2025-26.\
+  [202603281254008719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281254008719.pdf)
+
+- Regarding the distribution of funds for the Van Mahotsav scheme under Account Head 24068551through the Convergence Scheme and in pursuance of proposals for New Itemsfor the financial year 2025-26.\
+  [202603281255583619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281255583619.pdf)
+
+- Regarding the distribution of funds in pursuance of proposals for New Items under the Head of Account 24068551 for the Van Mahotsav scheme, for the financial year 2025-26.\
+  [202603281250569119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281250569119.pdf)
+
+- Regarding the allocation of funds amounting to 122.00 Lakhs under Demand No. C-7, Major Head 2406  Forestry and Wildlife, 01  Forestry, 101 (11)  Forest Conservation and Development, (11) (29) 52  Strengthening of Mobile Squads (State) (2406 2161), specifically under the Object Head 51  Motor Vehicles.\
+  [202603281327370419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281327370419.pdf)
+
+- Regarding the grant of administrative and financial approval for the development of a Project Tracking Platform to effectively monitor the numerous projects being implemented across various sectors within the Disaster Management Department.\
+  [202603281558140419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281558140419.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of funds to the Maharashtra Bamboo Development Board under the scheme Establishment of the Maharashtra Bamboo Development Board for the year 2025-26 (2406-A185).\
   [202603241142345019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241142345019.pdf)
@@ -154,6 +169,9 @@
 
 - Regarding the distribution of funds under the scheme titled Schemes Financed from Revenue Accruing from Forest Development Tax (4406 0171) under the State Plan for the year 2025-26.\
   [202603271814316419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271814316419.pdf)
+
+- Regarding the distribution of funds under the scheme Procurement through Government Agencies (Firewood and Coal) (2406 0481) for the year 2025-26.\
+  [202603281239593419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281239593419.pdf)
 
 ## Personnel
 - Regarding the provision of funds to the tenderer in accordance with the Governments policy on the excavation, storage, and online sale of sand. (District: Gondia)\
