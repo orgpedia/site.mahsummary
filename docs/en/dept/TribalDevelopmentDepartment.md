@@ -55,6 +55,18 @@
 - Regarding the allocation of funds for the Financial Year 2025-26 for the scheme concerning the implementation of the e-Governance Project (Programme), under the Tribal Sub-Plan  Major Head 2251, Secretariat  Social Services... (Corrigendum)\
   [202603281601366724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281601366724.pdf)
 
+- Regarding the distribution of funds for the scheme providing electricity tariff concessions to agricultural pump consumers during the financial year 2025-26, under the Tribal Sub-Plan. (Head of Account: 2801 5614)\
+  [202603281601472024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281601472024.pdf)
+
+- Regarding the release of funds under the Tribal Sub-Plan (OTSP)  Construction of Government Ashram Schools  under the Head of Account (4225 1118) for the year 2025-26.\
+  [202603291717550724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291717550724.pdf)
+
+- Regarding the distribution of funds for the Chief Ministers Solar Agricultural Pump Subsidy Scheme under the Tribal Sub-Plan Component for the Financial Year 2025-26. (Head of Account: 2810 0974)\
+  [202603281601523224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281601523224.pdf)
+
+- Regarding the release of funds under the Tribal Sub-Plan (TSP)  Head of Account (4225 1109)  for the construction of Government Ashram Schools during the year 2025-26.\
+  [202603291629048224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291629048224.pdf)
+
 ## Miscellaneous
 - Distribution of Funds under the Scheme for Program Expenditure for the Tribal Sub-Plan Component for the Financial Year 2025-26\
   [202603231804540324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231804540324.pdf)

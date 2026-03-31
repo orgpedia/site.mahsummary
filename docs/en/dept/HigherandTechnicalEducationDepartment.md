@@ -31,6 +31,27 @@
 - Regarding the disbursement of funds to the Gokhale Institute of Politics and Economics, Puneappointed to conduct a study on enhancing the financial viability of all non-agricultural universities and institutions falling under the purview of the Department of Higher Education.\
   [202603271126318108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271126318108....pdf)
 
+- Regarding the provision of funds through redistribution from Object Head (24)  Petrol, Oil, and Lubricants to Object Head 10  Contractual Services, under Major Head 22050271, for the Financial Year 2025-26.\
+  [202603291326190608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291326190608.pdf)
+
+- Regarding the disbursement of a lump sum amount for daily and administrative expenses to the Marathi Language University, Ridhpur, Dist. Amravati, for the year 2025-26.\
+  [202603291758507608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291758507608.pdf)
+
+- Regarding the allocation of funds through redistribution for the construction of a memorial and a tower dedicated to Punyashlok Ahilyadevi Holkar at Punyashlok Ahilyadevi Holkar Solapur University.\
+  [202603291802403808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291802403808.pdf)
+
+- For the Financial Year 2025-26: Reappropriation Demand No. W-2, Major Head 2202, Higher Education...\
+  [202603291746268108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291746268108.pdf)
+
+- Regarding the provision of grants for the payment of enhanced compensation, in compliance with the Courts orders, in connection with the land acquisition case of Swami Ramanand Teerth Marathwada University, Nanded.\
+  [202603291800501408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291800501408.pdf)
+
+- Regarding the disbursement of funds for the construction of buildings at Mauje Kanchanwadi, Maharashtra National Law University, Chhatrapati Sambhajinagar...\
+  [202603291752077508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291752077508.pdf)
+
+- Regarding the allocation of funds for the procurement of necessary furniture for the new Administrative and Examination Building at Punyashlok Ahilyadevi Holkar University.\
+  [202603291750307208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291750307208.pdf)
+
 ## Miscellaneous
 - Regarding the completion of the probationary period and continuation of appointment for Lecturers at Government Polytechnics.\
   [202603231743311008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231743311008.pdf)
@@ -71,12 +92,24 @@
 - Regarding the entrustment of the additional charge of the post of Presiding Officer of the University and College Tribunal, University of Mumbai, Mumbai.\
   [202603271105368808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271105368808.pdf)
 
+- Regarding the disbursement of funds to District Treasury Officers (DTOs) for the payment of service charges rendered by the Central Recordkeeping Agency (CRA) under the National Pension System (NSDL).\
+  [202603291755556608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291755556608.pdf)
+
+- Regarding the provision of non-salary grants to Dr. Homi Bhabha State University, Mumbai, for the year 2025-26...\
+  [202603291753323108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291753323108.pdf)
+
+- Regarding the disbursement of rent for the hostel leased from Ashimara Housing Company for student accommodation at the Maharashtra National Law University, Mumbai.\
+  [202603291757247108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291757247108.pdf)
+
 ## Personnel
 - Regarding the Constitution of a State-Level Committee on Innovation and Intellectual Property Rights (IPR)\
   [202603241657524408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241657524408.pdf)
 
 - Regarding the continuation of temporary posts in the Directorate of Libraries, Mumbai, and the offices under its jurisdiction.\
   [202603251445516608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251445516608.pdf)
+
+- Regarding the provision of a lump sum grant to Tilak Maharashtra Vidyapeeth, Pune, to cover the expenses required for the creation of the Maharashtra Food Culture Encyclopedia...\
+  [202603291804516508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291804516508.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -106,6 +106,9 @@
 - Regarding the distribution of fundsreceived through re-appropriationfor the Yashwantrao Chavan Panchayat Raj Campaign Awards and Program for the year 2024-25 (Assessment Year 2023-24) (Financial Year 2025-26).\
   [202603281107469120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281107469120.pdf)
 
+- According to the recommendations of the 15th Central Finance Commission, the Ministry of Panchayati Raj, Government of India had withheld funds of certain rural local self-government institutions where administrators were functioning. Among these, for those rural local self-government institutions where elections have been conducted and elected representatives have been appointed, the tied grant of 218.1112 crore for the first and second installments for the year 202526 is to be distributed.\
+  [202603291123304620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291123304620.pdf)
+
 ## Miscellaneous
 - Release of grant-in-aid to Mahatma Gandhi Pratishthan, sewagram Vardha as compensation caused by exemption in tax for year 2025-26\
   [202603241141252220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241141252220.pdf)

@@ -67,9 +67,21 @@
 - Distribution of Funds for Maintenance and Repair Works of Projects with a Storage Capacity of 0 to 100 Hectare-meters under the Chief Ministers Water Conservation Scheme: District Nashik (Rest of Maharashtra Region)\
   [202603251206380126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251206380126.pdf)
 
+- Disbursement of Funds to the Maharashtra Water Conservation Corporation through RIDF Loans under NABARD Financial Assistance (Year 2025-26)\
+  [202603291441405626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291441405626.pdf)
+
+- To Release fund for Jalyukt Shivar Abhiyan 2.0 under head 4402 2781 for FY 2025-26. Fund Release Order 3.\
+  [202603291728469126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291728469126.pdf)
+
+- Regarding the distribution of funds under the Jalyukt Shivar Abhiyan, Head of Account 4402 2781.\
+  [202603291732008126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291732008126.pdf)
+
 ## Miscellaneous
 - Fund distribution under GDGS scheme- District Solapur  Jalna\
   [202603231622040426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231622040426.pdf)
+
+- Fund distribution under GDGS scheme.\
+  [202603291444233926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291444233926.pdf)
 
 ## Personnel
 - Regarding the Extension of Temporary Posts on the Establishment of the Soil and Water Conservation Department.\

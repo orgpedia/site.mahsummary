@@ -152,6 +152,96 @@
 - Regarding the disbursement of non-salary Grant-in-Aid funds to Non-Governmental Organizations (NGOs) working in the sector of Intellectual Disability. Residential School for the Intellectually Disabled, Takali Dhokeshwar  Managed by Adarsh Gramin Mahila Mandal, Takali Dhokeshwar, Taluka Parner, District Ahilyanagar. 2025-26 (60 Fund Allocation)\
   [202603281606248935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281606248935.pdf)
 
+- Regarding the disbursement of non-salary Grant-in-Aid funds to Non-Governmental Organizations working in the category of the Deaf and Mute. Lal Bahadur Shastri Shikshan Prasarak Mandal, Gitta  Administered: Gyansagar Residential School for the Hearing Impaired, Javalgav Road, Bharaj Pati, Taluka Ambajogai, District Beed  2024-25 (100 Funding)\
+  [202603291630115235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291630115235.pdf)
+
+- Regarding the distribution of grants (salary) funds to non-governmental organizations working in the blind category.  The Poona School and Home for the Blind Boys, Koregaon Park, Pune (Seventh Pay Commission difference)\
+  [202603291618084635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291618084635.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector for the deaf and mute. Gyanvardhini Residential School for Deaf and Mute Children, Ambejogai  Managed by Gyanadeep Shikshan Prasarak Mandal, Ambejogai (Taluka Ambejogai, District Beed).\
+  [202603291614521935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291614521935.pdf)
+
+- Regarding the grant of administrative approval for the allocation and expenditure of funds for the financial year 2025-26, under the scheme titled Free Bus Travel Concession via the State Transport Corporation for Award-Winning Individuals Working for Persons with Disabilities.\
+  [202603291647511035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291647511035.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working for the visually impaired and the deaf-mute categories. NAB-run School for Visually Impaired Children, Shrirampur, Taluka Shrirampur, District Ahilyanagar (2024-25)\
+  [202603291616325835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291616325835.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the category of services for the orthopedically challenged. School for the Orthopedically Challenged, Wardhamneri, Taluka Arvi, District Wardha  Managed by Shri Sant Bhanudas Maharaj Sanstha.\
+  [202603291638072535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291638072535.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the field of intellectual disability. Kamayani School for the Mentally Handicapped, Gokhale Nagar, Pune  Managed by Kamayani Training and Research Society.\
+  [202603291604427335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291604427335.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the field of intellectual disability. Kamayani Udyog Kendra, Gokhale Nagar, Pune  Operated by Kamayani Training and Research Society.\
+  [202603291601045835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291601045835.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the sector of intellectual disability. Seva Residential Agricultural Rehabilitation, Education, and Training Center for Intellectually Disabled Students  Managed by Sau. Sumatibai Shikshan Prasarak Mandal, Dhanora Khurd, Ambajogai, Beed (20242025)\
+  [202603291642232435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291642232435.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector for the deaf and mute. Lions School for the Deaf and Disabled, Kopargaon  Nagar-Manmad Road, Bet Naka, Kopargaon, Dist. Ahilyanagar (Non-Salary Grants: 2024-25)\
+  [202603291628134435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291628134435.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector of the deaf and mute. School for the Deaf and Mute, managed by the Rotary Education Trust  Shrirampur, Taluka Shrirampur, District Ahilyanagar.\
+  [202603291626190635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291626190635.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the category of the visually impaired. Rashtrasant Tukadoji Maharaj School for the Blind, Nalwadi, Taluka  District Wardha  Managed by Sharda Art and Cultural Society, Wardha (Non-Salary Grants: 2023-24)\
+  [202603291633412235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291633412235.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the sector of intellectual disability. Lumbini Special Residential Workshop for Intellectually Disabled Children (Boys and Girls), Tumsar, Bhandara  Managed by the Late Janabai Bhutange Multipurpose Educational Institution, Chicholi, Bhandara (2025-60)\
+  [202603291643217735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291643217735.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the category of the Deaf and Mute. Residential School for the Deaf and Mute, Nandurbar, Dist. Nandurbar  Managed by Sonai Apang Vikas va Shikshan Sanstha, Jalgaon (2024-25)\
+  [202603291640165635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291640165635.pdf)
+
+- Regarding the Disbursement of Grant-in-Aid (Salary) Funds to Non-Governmental Organizations Working in the Sector of Intellectual Disability. School for the Intellectually Disabled, Latur  Managed by Jeevan Vikas Pratishthan, Latur.\
+  [202603291612490335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291612490335.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the sector of intellectual disability. Carmel School for Intellectually Disabled Children, Sawangi Meghe, Taluka  District Wardha (Years 20222023 and 20232024 (100 Funding))\
+  [202603291606023535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291606023535.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the sector for the deaf and mute. K.D. Jadhav School for the Deaf and Mute, Pophali  managed by the Late Vasantrao Naik Institute for the Education of the Blind, Deaf, and Disabled, Pophali  Taluka Umarkhed, District Yavatmal. 2024-25 (100 of the previous years funds)\
+  [202603291608359935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291608359935.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the field of intellectual disability. Bodhavardhini Residential School for Intellectually Disabled Children, Ambajogai  Managed by the Late Yashwantrao Chavan Trust, Ambajogai; Taluka: Ambajogai, District: Beed.\
+  [202603291610524935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291610524935.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) working in the category of the Deaf and Mute. Residential School for the Deaf and Mute, Vashi, Taluka Vashi  Managed by Shivsharada Shikshan Prasarak Bahu-uddeshiya Mandal, Vashi, District Dharashiv. (60 for the year 2025-26)\
+  [202603291636250835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291636250835.pdf)
+
+- Regarding distribution of non-salary funds as subsidiary grants to non-governmental organizations working in the field of disability. Rajiv Gandhi Residential Disability School, Katol, Dist. Nagpur, run by Shri Sai Education Institute, Nagpur\
+  [202603291638077835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291638077835.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector of Intellectual Disability. Swikar Residential School for Mentally Challenged Children  Managed by Shri Sai Matimand Shikshan Sanstha, Chandrapur  Located at Tadali, Taluka  District Chandrapur (Non-Salary Grants: 2022-23)\
+  [202603291640023335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291640023335.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector of intellectual disability. Shri Gajanan Maharaj Residential School for the Intellectually Disabled  Operated by Prabhu Vishwakarma Rural Multipurpose Educational Institution, Karla Road, District Wardha.\
+  [202603291620291735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291620291735.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector for the deaf and mute. Rajiv Gandhi Residential School for the Deaf and Mute, Pulgaon, Taluka Deoli, District Wardha (Non-Salary Grants: 2023-24)\
+  [202603291624357335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291624357335.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations (NGOs) operating in the category of Orthopedic Disabilities. Snehsadan School for Children with Disabilities, Untkhana, Nagpur  Managed by Home for the Aged and Handicapped, Untkhana, Nagpur. 2022-23 (100 Funding)\
+  [202603291644547335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291644547335.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector of the deaf and mute. Sharada School for the Deaf and Mute, Nalwadi, Taluka  District Wardha.\
+  [202603291635032135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291635032135.pdf)
+
+- Regarding the Disbursement of Non-Salary Grants-in-Aid to Non-Governmental Organizations Working in the Field of Intellectual Disability. Residential School for the Intellectually Disabled  Managed by Renukamata Multipurpose Charitable Institution, Mahandula  Gevrai, Taluka Gevrai, District Beed (2024-25)\
+  [202603291625213435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291625213435.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector of the deaf and mute. School for the Deaf and Mute, Nalwadi, Taluka  District Wardha  Operated by the Womens Development Organization, Wardha.\
+  [202603291622161635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291622161635.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the category of Intellectual Disability. Special School for Mentally Challenged Children (Boys and Girls), Zingabai Takli, Nagpur  Operated by the Disabled and Destitute Multipurpose Welfare Organization, Nagpur  2022-23\
+  [202603291558439635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291558439635.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector for the deaf and mute. Mookbadhir Vidyamandir, Vardhamneri, Taluka Arvi, District Wardha (Non-Salary Grants: 2023-24)\
+  [202603291622145535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291622145535.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the field of intellectual disability. Kamayani School for the Mentally Handicapped, Nigdi, Pune  Managed by Kamayani Training and Research Society, Gokhale Nagar, Pune.\
+  [202603291602559135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291602559135.pdf)
+
 ## Personnel
 - Regarding the designation of Drawing and Disbursing Officers and Controlling Officers for the Special Assistance Schemes implemented by the Department of Empowerment of Persons with Disabilities: 1) Sanjay Gandhi Disabled Destitute Grant Scheme, 2) Shravanbal Seva Disabled State Pension Scheme, and 3) Indira Gandhi National Disabled Pension Scheme.\
   [202603231431297935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231431297935.pdf)
@@ -161,6 +251,9 @@
 
 - Regarding the determination of eligibility for beneficiaries with disabilitiesencompassing a total of 21 categories of disability as defined under the Rights of Persons with Disabilities Act, 2016to avail themselves of schemes, concessions, benefits, subsidies, or other similar advantages provided by the State and allied agencies.\
   [202603271315553935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271315553935.pdf)
+
+- Regarding the disbursement of non-salary grants-in-aid to Non-Governmental Organizations working in the sector of the deaf and mute. P. Ahilyadevi Holkar Residential School for Deaf and Mute Girls, Ambajogai, Dist. Beed  Managed by Venutai Chavan Pratishthan, Ambajogai.\
+  [202603291631464835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291631464835.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -79,6 +79,9 @@
 - Regarding the disbursement of grants to Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola, for the financial year 2025-26, under Head 35: Grants for the Creation of Capital Assets (Program).\
   [202603281333318801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281333318801.pdf)
 
+- Regarding granting financial approval for the second installment (Central and State share) of a total fund of Rs. 1666.66667 lakhs for all three categories (General, Scheduled Castes, Scheduled Tribes) under the National Food Security and Nutrition Mission for the year 2025-26.\
+  [202603291522050101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291522050101....pdf)
+
 ## Miscellaneous
 - Regarding the grant of approval to open a Personal Deposit Account in the name of the District Superintendent of Agriculture Officer, Osmanabad (Dharashiv), for the disbursement of compensation to eligible farmers in Dharashiv district for the Kharif season 2020, under the Pradhan Mantri Fasal Bima Yojana...\
   [202603241234051001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241234051001.pdf)

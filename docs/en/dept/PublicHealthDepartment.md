@@ -70,6 +70,21 @@
 - Regarding the Granting of Administrative Approval for the Expenditure to Procure Contractual Dietary Services at Shashikala Tuberculosis Health Centre, Jaisingpur, Kolhapur.\
   [202603271508156017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271508156017.pdf)
 
+- Regarding approval to disburse and spend the funds of Rs. 2.00 crore approved through supplementary demand in the winter session of December, 2025 under the objective of 31-Subsidiary Grant (Non-Salary) under Account Head 2210 K 061 for the purchase of iron beds (including mattresses) for regional psychiatric hospitals in the state in the financial year 2025-26.\
+  [202603291350180217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291350180217.pdf)
+
+- Regarding approval to disburse and spend a fund of Rs. 1.35 crore under the objective 31-Subsidies (Non-Salary) under Account Head 2210 K 014 to meet the establishment expenses of the Maharashtra Medical Goods Procurement Authority in the financial year 2025-26.\
+  [202603291350008917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291350008917.pdf)
+
+- Regarding the provision of funds for recurring expenditure on ambulances operational under the Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (Amount equivalent to 30 of the payable bills for the period August 2025 to October 2025).\
+  [202603291109142317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291109142317.pdf)
+
+- Regarding giving approval under budget head : 088 of 2210, 061 of 2210, 079 of 2210 and 097 of 2210, (31)-Grants-in-aid (non-salary) earmarked total funds of Rs. 359.9607 crore will be distributed for the purchase of medicines, literature, medical equipment and supplies to health institutions in the state for the financial year 2025-26.\
+  [202603291456252817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291456252817.pdf)
+
+- Regarding approval to spend the remaining funds of Rs. 2.50 crore in the approved supplementary demand for the purchase of medicines for mental disorders under the objective of 31-Subsidiary Grant (Non-Salary) under Account Head 2210 K 061 in the winter session of the year 2025-26 by distributing them through the budget distribution system.\
+  [202603291350038417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291350038417.pdf)
+
 ## Miscellaneous
 - Regarding redistribution of funds from state share head 2210E455 to newly received head 2210K562 for tribal sub-plan under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26.\
   [202603231105034617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231105034617.pdf)

@@ -82,6 +82,27 @@
 - Regarding the disbursement of interest subsidy to textile units under the Textile Policy, 20112017.\
   [202603281729432202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281729432202.pdf)
 
+- Regarding the disbursement of Government Share Capital and Loansas the first installmentto the Jawahar Powerloom Industrial Cooperative Society Ltd., Chincholi, Taluka Parshivni, District Nagpur, under the State Scheme for providing financial assistance to Powerloom Cooperative Societies.\
+  [202603291330479002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291330479002.pdf)
+
+- Regarding the disbursement of Government Share Capital and Loansas the first installmentto Navdurga Textile Industrial Cooperative Society Ltd., Mohgaon (Zilpi), Taluka Hingna, District Nagpur, under the State Scheme for providing financial assistance to Powerloom Cooperative Societies.\
+  [202603291332283302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291332283302.pdf)
+
+- Regarding the disbursement of Government Share Capital and Loan, as the first installment, to Nilkanth Backward Class Knitting Garment Industrial Cooperative Society Ltd., Dongargaon, Dist. Nagpura powerloom cooperative societyunder the State Scheme for providing financial assistance to powerloom cooperative societies.\
+  [202603291333510202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291333510202.pdf)
+
+- Regarding the Payment of 12 Interest on Loans Obtained from Financial Institutions by Cooperative Spinning Mills  Wai Taluka Cooperative Spinning Mill Ltd., Bavdhan, Taluka Wai, District Satara.\
+  [202603291328384302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291328384302.pdf)
+
+- Regarding the disbursement of Government Share Capital and Loansas the first installmentto the powerloom cooperative society Shramik Gramin Mahila Yantramag Vinkar Industrial Cooperative Society, Neknur, Taluka  District Beed, under the State Scheme for providing financial assistance to powerloom cooperative societies.\
+  [202603291351442102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291351442102.pdf)
+
+- Regarding the disbursement of Government Share Capital and Loansas the first installmentto Venkatrao Mane Textile Industrial Cooperative Society Ltd., Bhendavade, Taluka Hatkanangale, District Kolhapur, under the State Scheme for providing financial assistance to Powerloom Cooperative Societies.\
+  [202603291335295302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291335295302.pdf)
+
+- Regarding the disbursement of Government Share Capital and Loan (as the first installment) to Shalimar Textile Co-op. Knitting and Garment Industrial Co-operative Society Ltd., Kamptee (Taluka Kamptee, District Nagpur)a powerloom cooperative societyunder the State Scheme for providing financial assistance to powerloom cooperative societies.\
+  [202603291337079102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291337079102.pdf)
+
 ## Miscellaneous
 - Regarding the payment of 12 interest on loans obtained by Cooperative Spinning Mills from financial institutions... Shri Mahesh Cooperative Spinning Mill Ltd., Ichalkaranji, Taluka Hatkanangale, District Kolhapur.\
   [202603241612037902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241612037902.pdf)

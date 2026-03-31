@@ -118,6 +118,15 @@
 - Regarding the grant of financial approval for the production by the Government of a grand, commercial, multilingual filmincluding Marathibased on the biography of Punyashlok Ahilyadevi Holkar.\
   [202603281522349523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281522349523.pdf)
 
+- Regarding the grant of financial approval for the sanctioning of incentive-based financial assistance for the production of high-quality Marathi films classified as A, B, and C grade.\
+  [202603291509401823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291509401823.pdf)
+
+- Regarding the grant of financial approval for providing incentive-based financial assistance for the production of 45 high-quality Marathi films classified as A, B, and C grade.\
+  [202603291506065623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291506065623.pdf)
+
+- Regarding the grant of financial approval to 98 filmscertified by the Censor Board between the years 2018 and 2022that were deemed ineligible for the incentive-based financial assistance scheme for the production of quality Marathi films during the COVID-19 period.\
+  [202603291507536323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291507536323.pdf)
+
 ## Miscellaneous
 - Regarding the allocation of funds for the conservation and repair works of the Lala Hardaul Samadhia State-protected monument located in Chhatrapati Sambhajinagar, Taluka and District Chhatrapati Sambhajinagar.\
   [202603231758320223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231758320223.pdf)

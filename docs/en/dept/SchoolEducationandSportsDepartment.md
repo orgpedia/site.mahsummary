@@ -97,6 +97,36 @@
 - Regarding making available on the Budgetary Distribution System the Central Sharesanctioned by the Central Government as a Mother Sanction for the year 2025-26along with the proportionate State Share, for the implementation of the SNA-SPARSH system under the Centrally Sponsored PM SHRI (PM Schools for Rising India) Scheme.\
   [202603281638371221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281638371221.pdf)
 
+- Regarding the disbursement of funds for the Financial Year 2025-26 under the Mission Lakshyavedh Scheme. Head of Account: 2204-5368.\
+  [202603291616228221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291616228221.pdf)
+
+- Regarding the distribution of funds for the construction of kitchens in eligible schools under the Pradhan Mantri Poshan Shakti Nirman Yojana, specifically under the Scheduled Tribes (TSP) component (Year 2025-26).\
+  [202603291459218921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291459218921.pdf)
+
+- Regarding the distribution of funds under the General (Gen) category for the construction of kitchens in eligible schools, pursuant to the Pradhan Mantri Poshan Shakti Nirman Yojana (Year 2025-26).\
+  [202603291457185921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291457185921.pdf)
+
+- Regarding the disbursement of a grant of Rs. 2,974.00 Lakhs for Taluka Sports Complexes for the Financial Year 2025-26. (2204-1792)\
+  [202603291451127721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291451127721.pdf)
+
+- Regarding the distribution of funds under the Scheduled Castes Sub-Plan (SCSP) component for the construction of kitchens in eligible schools, under the Pradhan Mantri Poshan Shakti Nirman Yojana (Year 2025-26).\
+  [202603291455579821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291455579821.pdf)
+
+- Government of Maharashtra regarding disbursement of funds for day-to-day expenses for the financial year 2025-26 to Resident Sports Education/Sports University/Sports Academy in the State. Account Heading (2204-2064)\
+  [202603291748063621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291748063621.pdf)
+
+- Regarding the provision of financial assistance to athletes from the State selected for or participating in international competitions.\
+  [202603291634592921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291634592921....pdf)
+
+- Regarding the distribution of funds for the Financial Year 2025-26 for the National Cadet Corps (NCC) Office, covering: (1) Refreshment, Washing, and Polishing Allowance; (2) Various Training Programs and Camps; and (3) Printing of Question Papers. (2204-0016) 21  Materials and Supplies.\
+  [202603291321341921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291321341921.pdf)
+
+- Regarding the Distribution of Funds for Divisional and District Sports Complexes for the Financial Year 2025-26  Head of Account (2204-1827)\
+  [202603291312251121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291312251121.pdf)
+
+- Regarding making available on the Budgetary Distribution Systemas a Mother Sanction approved by the Central Government in the year 2025-26the Central Share (and the proportionate State Share) for the implementation of the SNA-SPARSH system under the Centrally Sponsored Scheme STARS (Strengthening Teaching-Learning and Results for States).\
+  [202603291722496421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291722496421.pdf)
+
 ## Miscellaneous
 - 01 Regarding the approval for the disbursement of funds for office repairs, fire alarm systems, and electrical installations at the office of the Maharashtra Girls National Cadet Corps Unit, Mumbai. (4202 6228)\
   [202603231335327621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231335327621....pdf)
@@ -170,6 +200,15 @@
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603281904333321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281904333321.pdf)
 
+- Regarding the distribution of funds for meeting professional and special service charges of the National Cadet Corps offices for the financial year 2025-26. (2204-0016-28)\
+  [202603291318495021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291318495021....pdf)
+
+- Regarding the Distribution of Additional Funds by the State Government to Cooks and Helpers under the General Component of the Pradhan Mantri Poshan Shakti Nirman (PM-POSHAN) Scheme... (Year 2025-26)\
+  [202603291454231221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291454231221.pdf)
+
+- Regarding the distribution of funds towards pending subscriptions for the Jeevan Shikshan magazine...\
+  [202603291440586921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291440586921.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603231734019021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231734019021.pdf)
@@ -236,6 +275,21 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grants for the year 2025-2026\
   [202603281731255421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281731255421.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603291446034421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291446034421......pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603291844259821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291844259821.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026 Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603291807577821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291807577821.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603291805574321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291805574321.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603291736488821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291736488821.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

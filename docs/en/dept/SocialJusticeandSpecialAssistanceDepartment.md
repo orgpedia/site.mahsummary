@@ -64,6 +64,16 @@
 - Regarding the distribution of funds to the Gopinath Munde Sugarcane Cutters Welfare Corporation under the Head of Account 2235C519.\
   [202603271801054722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271801054722.pdf)
 
+- Regarding the grant of administrative approval to the estimated budget for the construction of a hostel building with a capacity of 1002 (Unit-4), through the amalgamation of the following four government hostels: 1) Divisional-level Government Girls Hostel Unit No. 4, Padampura, Chhatrapati Sambhajinagar; 2) Government Girls Hostel, Pushyanagari, Chhatrapati Sambhajinagar; 3) Government Hostel for Girls from Backward Classes (Old), Padampura, Chhatrapati Sambhajinagar; and 4) Government Hostel for Girls from Backward Classes (New), Padampura, Chhatrapati Sambhajinagar.\
+  [202603281609096722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281609096722.pdf)
+
+- Regarding the Granting of Administrative Approval to the Cost Estimate for the Construction of the Hostel Building for the Dr. Babasaheb Ambedkar Government Hostel for Backward Class Boys, Devpur, Dist. Dhule (Student Capacity: 250).\
+  [202603281606104422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281606104422.pdf)
+
+## Miscellaneous
+- For the effective implementation of the de-addiction policy in the year 2021-22, financial support is given to de-addiction organizations/centres which are doing fundamental work in this field under the Mahatma Gandhi De-addiction Counselling, Treatment and Rehabilitation Scheme.\
+  [202603291757019222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291757019222.pdf)
+
 ## Personnel
 - Regarding Amendments to the Criteria for the Special Assistance Scheme\
   [202603272055487622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603272055487622.pdf)
