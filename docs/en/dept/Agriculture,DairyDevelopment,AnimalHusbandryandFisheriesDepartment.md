@@ -1,112 +1,49 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 30 March 2026 - 04 April 2026
+**Date Range**: 06 April 2026 - 11 April 2026
 
 
 ## Funds
-- Regarding the disbursement of grants for House Building Advances to employees of Agricultural Universities during the Financial Year 2025-26 (Mandatory)\
-  [202603231515165501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231515165501.pdf)
+- Regarding the disbursement of funds for the printing and postal delivery charges of the Shetkari monthly magazine issues, under the Shetkari Monthly Scheme.\
+  [202603302130080501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302130080501.pdf)
 
-- Regarding the disbursement of the State Share amounting to Rs. 10.00 Lakhs from the budgetary allocation for the year 2025-26, under the Coconut Development Scheme sponsored by the Coconut Development Board, Kochi...... (2401 A942)\
-  [202603231838484901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231838484901.pdf)
+- Regarding the disbursement of grants to Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli, for the financial year 2025-26, under the Head of Account (2415 1095)  31- Grants-in-aid (Non-salary)  (State Share: 25) (Programme).\
+  [202603301301154701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301301154701.pdf)
 
-- Regarding the Granting of Revised Financial Sanction for the General Category for the Year 2025-26 under the Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme\
-  [202603231836495101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231836495101.pdf)
+- Regarding the distribution of grants to Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani, under Head 31  Assistance Grants (Non-Salary)  for the Financial Year 2025-26... (Mandatory)\
+  [202603301737053601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301737053601.pdf)
 
-- Regarding the disbursement of the State Share amount of Rs. 10.00 Lakhs from the budgetary allocation for the year 2025-26, under the Coconut Development Scheme sponsored by the Coconut Development Board, Kochi...... (2401 A942) (Corrigendum)\
-  [202603241600523701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241600523701.pdf)
+- Regarding the distribution of funds under Head 31  Grants-in-Aid (Non-Salary)  to Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola, for the Financial Year 2025-26 (Mandatory).\
+  [202603301302449601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301302449601.pdf)
 
-- Regarding the provision of the Central Share and the corresponding State Sharesanctioned by the Central Government through a Mother Sanction for the Scheduled Castes category under the Pulses Self-Sufficiency Mission (including TRFA Pulses)by way of re-appropriation.\
-  [202603241059155401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241059155401.pdf)
+- Regarding the disbursement of the liability amount of Rs. 18,58,80,947/payable by the State Government to the Agricultural Insurance Company of Indiatowards compensation exceeding 110 of the claim amount, in accordance with the 80:110 model applicable to the Kharif 2022 and Rabi 2022-23 seasons under the Pradhan Mantri Fasal Bima Yojana.\
+  [202603302035451801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302035451801.pdf)
 
-- Regarding making available through re-appropriation the Central and equivalent State share sanctioned by the Central Government through Mother Sanction for Scheduled Tribes category in the Grain Self-Reliance Mission (including TRFA Grain).\
-  [202603241102366201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241102366201.pdf)
+- Regarding the distribution of funds to Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani, for the financial year 2025-26, under the head 35  Grants for Creation of Capital Assets (Program Expenditure).\
+  [202603301258122701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301258122701.....pdf)
 
-- Regarding the distribution of enhanced funds amounting to Rs. 95.00 Lakhs for the General Category under the Sub-Mission on Agricultural Mechanization (SMAM)implemented through RKVY for the year 2025-26in accordance with the revised second installment released by the Central Government.\
-  [202603241532534001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241532534001.pdf)
-
-- Regarding the allocation of funds amounting to 150.00 crore for the implementation of the State-Sponsored Agricultural Mechanization Scheme during the year 2025-26.\
-  [202603241108568001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241108568001.pdf)
-
-- Regarding the distribution of funds for the Financial Year 2025-26 for the implementation of the Dr. Panjabrao Deshmukh Natural Farming Mission, under the State-sponsored scheme for Organic/Toxin-free Farming.\
-  [202603241817073401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241817073401.pdf)
-
-- Regarding the release of funds for the National Natural Farming Mission, a Centrally Sponsored Scheme.\
-  [202603241837046401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241837046401.pdf)
-
-- Regarding the allocation of funds amounting to Rs. 1,584.93 Crore under the State e-Governance Programme for the Financial Year 2025-26 .......... (Corrigendum)\
-  [202603261744512601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261744512601.pdf)
-
-- Regarding the disbursement of funds amounting to Rs. 762.00 Lakh for the year 2025-26 for the implementation of the Hon. Balasaheb Thackeray Turmeric Research and Training Center in Hingoli District. (2401 B446)\
-  [202603251805273701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251805273701.pdf)
-
-- RKVY PDMC fund release for general category  for the year 2025-26.\
-  [202603251233459401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251233459401.pdf)
-
-- Regarding the grant of Revised Administrative Approval to the Annual Action Plan worth Rs.20510.0066 Lakh under the Sub-Mission on Agricultural Mechanization for the financial year 2025-26; and regarding the allocation of a total fund of Rs.1576.6667 Lakh for the said scheme across all three categories (General, Scheduled Castes, and Scheduled Tribes).\
-  [202603251624310901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251624310901.pdf)
-
-- Regarding the disbursement of grants to Mahatma Phule Krishi Vidyapeeth, Rahuri, for 31 - Assistance Grants (Non-Salary) under the Head of Account (2415 1086) for the Financial Year 2025-26... (State Share: 25) (Programme)\
-  [202603251724403101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251724403101.pdf)
-
-- Regarding the distribution of funds amounting to 235.00 Crores for the supplementary subsidy to be provided under the Micro-irrigation component of the Chief Ministers Sustainable Agriculture Irrigation Scheme during the year 2025-26... (Corrigendum)\
-  [202603261555042001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261555042001.pdf)
-
-- Regarding the distribution of funds to Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli, for the financial year 2025-26, under Head 35: Grant for the Creation of Capital Assets... (Program Expenditure)\
-  [202603271232531601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271232531601.pdf)
-
-- Regarding the provision of necessary fundsin the form of deposit contributionsfor the construction works of the Sub-Divisional Agriculture Officer, Pachora and subordinate offices; the Taluka Agriculture Officer, Jamner and subordinate offices; as well as the Taluka Agriculture Officer, Chalisgaon, the 4 Circle Agriculture Officers, and the Taluka Seed Multiplication Center, Chalisgaon, Dist. Jalgaon.\
-  [202603271933488401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271933488401.pdf)
-
-- Regarding the allocation of funds amounting to Rs. 23.52 Lakhs for various construction works at Taluka Seed Multiplication Farms under the jurisdiction of the Divisional Joint Directors of Agriculture, Pune and Chhatrapati Sambhajinagar.\
-  [202603271809538801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271809538801.pdf)
-
-- Regarding the provision of funds for carrying out works at the RAMETI institutions in Khopoli, Pune, and Kolhapur.\
-  [202603271907469601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271907469601.pdf)
-
-- Regarding the distribution of funds amounting to 30 Crores for the General Category for the implementation of the Bhausaheb Fundkar Orchard Plantation Scheme during the year 2025-26... (2401 A889)\
-  [202603271221146801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271221146801.pdf)
-
-- Regarding the distribution of funds to Mahatma Phule Krishi Vidyapeeth, Rahuri, for the financial year 2025-26, under Head 35: Grant for the Creation of Capital Assets... (Program Expenditure)\
-  [202603271951566501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271951566501.pdf)
-
-- Regarding the provision of necessary funds for the construction of the Divisional Joint Director of Agriculture, Nashik, and its subordinate offices, in the form of deposit contributions.\
-  [202603271935489901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271935489901.pdf)
-
-- Regarding the disbursement of grants to Mahatma Phule Krishi Vidyapeeth, Rahuri, under Head 31  Grants-in-Aid (Non-Salary)  for the Financial Year 2025-26 (Mandatory).\
-  [202603281833126001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281833126001.pdf)
-
-- Regarding the disbursement of grants to Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola, for the financial year 2025-26, under Head 35: Grants for the Creation of Capital Assets (Program).\
-  [202603281333318801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281333318801.pdf)
-
-- Regarding granting financial approval for the second installment (Central and State share) of a total fund of Rs. 1666.66667 lakhs for all three categories (General, Scheduled Castes, Scheduled Tribes) under the National Food Security and Nutrition Mission for the year 2025-26.\
-  [202603291522050101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291522050101....pdf)
+- Regarding the release of funds for the General Category under the Centrally Sponsored Scheme  National Natural Farming Mission.\
+  [202603302141484801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302141484801.pdf)
 
 ## Miscellaneous
-- Regarding the grant of approval to open a Personal Deposit Account in the name of the District Superintendent of Agriculture Officer, Osmanabad (Dharashiv), for the disbursement of compensation to eligible farmers in Dharashiv district for the Kharif season 2020, under the Pradhan Mantri Fasal Bima Yojana...\
-  [202603241234051001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241234051001.pdf)
+- Regarding the disbursement of an amount of Rs. 1,42,296/- to insurance companies towards the payment of the remaining State share of the insurance premium subsidy for the Rabi season 2021-22, under the Pradhan Mantri Fasal Bima Yojana.\
+  [202603302044044101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302044044101.pdf)
 
-- Regarding the Grant of Financial Approval to the Estimates for Construction Works within the Premises of Government Fruit Nurseries, under the Head of Account Vegetable Nurseries, Fruit Nurseries, and Local Gardens (Mandatory) (2401 1722)  Sub-head 27: Minor Construction Works.\
-  [202603251942324201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251942324201.pdf)
+- Regarding the provision of funds through re-appropriation for the implementation of the scheme Study Tours Abroad for Farmers of the State during the year 2025-26.\
+  [202603302131552401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302131552401.pdf)
 
-- Regarding the approval of item-wise fund reallocation for the Citrus Estate, Isarwadi, Taluka Paithan, District Chhatrapati Sambhajinagar.\
-  [202603271223503801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271223503801.pdf)
+- Regarding the disbursement of an amount of 39,38,555/- to insurance companies towards the payment of the remaining State share of the insurance premium subsidy for the Kharif 2022 season, under the Pradhan Mantri Fasal Bima Yojana.\
+  [202603302040117501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302040117501.pdf)
 
-- Guidelines regarding the provision of a special relief package and concessions to persons affected by excessive rainfall and flood disasters in the State during the period from June to September 2025.\
-  [202603271252081401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271252081401.pdf)
+- Regarding the disbursement of an amount of 36,94,868/- to insurance companies towards the payment of the remaining State share of the insurance premium subsidy for the Rabi season 2022-23, under the Pradhan Mantri Fasal Bima Yojana.\
+  [202603302042213201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302042213201.pdf)
+
+- Regarding the distribution of an amount of Rs. 12,70,677/- for payment to insurance companies, towards the remaining State share of the insurance premium subsidy for the Kharif Season 2021, under the Pradhan Mantri Fasal Bima Yojana.\
+  [202603302038020301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302038020301.pdf)
 
 ## Personnel
-- Regarding the extension of temporary posts under the 100 Centrally Sponsored Schemesnamely, the World Agricultural Census Scheme, the Scheme for Timely Reporting of Area under Major Crops in the State of Maharashtra, and the Scheme for Improvement of Crop Statisticsfor the period from March 1, 2026, to August 31, 2026.\
-  [202603231804365201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231804365201.pdf)
-
-- Regarding declaration of Drawing and Disbursement Officer of Commissioner, Dairy Development Department as Virtual Personal Deposit Account Administrator (VPDAA) for speedy disbursement and monitoring of Subsidiary Grants.\
-  [202603241121121701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241121121701.pdf)
-
-- Regarding the permanent transferat a rate of 50 percent, inclusive of machinery, assets, and landof the Government Milk Chilling Center, Karjat, to the Sahakar Maharshi Raosaheb alias Balasaheb Patil Cooperative Milk Business and Processing Union Ltd., Karjat.\
-  [202603251757169101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251757169101.pdf)
-
-- Regarding purely temporary promotion from the cadre of Superintendent of Agriculture Officer (Maharashtra Agriculture Service, Group-A) to the cadre of Joint Director of Agriculture (Maharashtra Agriculture Service, Group-A).\
-  [202603281723428701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281723428701.pdf)
+- Regarding the extension of temporary posts created for the Nanaji Deshmukh Krishi Sanjivani Project, Phase-2, for the period from March 1, 2026, to August 31, 2026...\
+  [202603301836217601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301836217601.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

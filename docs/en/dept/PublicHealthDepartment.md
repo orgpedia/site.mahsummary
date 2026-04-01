@@ -1,142 +1,49 @@
 # Public Health Department
 
-**Date Range**: 30 March 2026 - 04 April 2026
+**Date Range**: 06 April 2026 - 11 April 2026
 
 
 ## Funds
-- Regarding the disbursement of funds totaling Rs. 13.248 crores from the sanctioned grant under the the Epidemic Disease Control Programme and the Plague Control Programme in the financial year 2025-26 under the objectives 21 - Supplies and Materials and 31 - Subsidiary Grants (Non-Salary) under Account Heads 2210 4286 and 2210 0629.\
-  [202603241141173417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241141173417.pdf)
+- Regarding the distribution of fundsmade available through re-appropriation under the Head of Account 2210 1053, Objective Head 51 (Motor Vehicles)for the payment of bills pertaining to ambulances procured for health institutions within the State; and granting approval for the settlement of ambulance bills that have remained outstanding for a period exceeding one year.\
+  [202603301155313817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301155313817.pdf)
 
-- Regarding the grant of administrative approval for expenditure on the publicity and promotion of various welfare schemes implemented under the Department of Public Health and Family Welfare, as well as the integrated Mahatma Jyotirao Phule and Ayushman Bharat Pradhan Mantri Jan Arogya Yojana.\
-  [202603241104325317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241104325317....pdf)
+- Regarding distribution of subsidy to 8 rehabilitation-based NGOs for the prevention of leprosy in the financial year 2025-26.\
+  [202603301035578917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301035578917.pdf)
 
-- Fund Release  Year 2025-2026 Regarding Release of Rs. 50.00 lakhs for administrative expenses under the Budget head 2210 G 251 (General) 20-Other Administrative Expenses under Mahatma Jyotirao Phule Jan Arogya Yojana\
-  [202603241304243217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241304243217.pdf)
+- Regarding granting approval to spend Rs. 25 crore by distributing under the budget distribution system 31-grant-in-aid (non-salary) or under account head 2210 0119, for the purchase of necessary medical equipment, instruments and equipment for 25 primary health centers and 202 sub-centers where 100 percent construction is completed in the state in the year 2025-26 or the financial year.\
+  [202603301032438917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301032438917.pdf)
 
-- Regarding distribution of subsidiary grants to Maharogi Seva Samiti , Anandvan , Varora , District Chandrapur on rehabilitation basis in the financial year 2025-2026 for leprosy prevention.\
-  [202603241141125117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241141125117.pdf)
+- Regarding transfer of funds through re-appropriation from Account Head 2210 1044 26-Advertisement and publicity to Account Head 22100164 31-Subsidiary Grants (Non-Salary) for the purchase of Mobile Eye Surgical Unit under National Blindness and Visual Impairment Control Programme in the financial year 2025-26.\
+  [202603301058306817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301058306817.pdf)
 
-- Regarding distribution of subsidiary grants to Maharogi Seva Samiti , Anandvan , Varora , District Chandrapur on hospital-basis in the financial year 2025-26 for leprosy prevention.\
-  [202603241141070817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241141070817.pdf)
+- Regarding obtaining administrative approval for measuring the area of the Regional Psychiatric Hospital, Thane.\
+  [202603301222564417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301222564417.pdf)
 
-- Regarding redistribution of state share grants from head 22105246 to newly received head 2210K622 for general category under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26, and distribution to State Health Society.\
-  [202603261149595817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261149595817.pdf)
+- Fund Release Year 2025-2026 Regarding the Release of funds of Rs. 77,05,85,332/- under the objective 10-Contractual Services under Budget head 2210 G 251 (General) to pay the service charges of the Implementation Support Agencies appointed for the implementation of Mahatma Jyotirao Phule Jan Arogya Yojana on the Assurance Mode\
+  [202603301031448617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301031448617.pdf)
 
-- Regarding redistribution of state share grants from head 2210E455 to newly received head 2210K562 for tribal sub-plan under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26.\
-  [202603261150091317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261150091317.pdf)
+- Fund Release Year 2025-26. Regarding the release of funds amounting to Rs. 400.00 crore (Rs. four hundred crore) to pay the claims of the hospitals adopted under Mahatma Jyotirao Phule Jan Arogya Yojana Budget Head 2210 G 251 (General) 31-Grant-in-Aid (Non-Salary).\
+  [202603301031466817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301031466817.pdf)
 
-- Regarding the disbursement of a grant amounting to Rs. 20.00 Crores from Account Head 2210K041, out of the budgetary provisions for the year 2025-26, for the Hinduhridaysamrat Balasaheb Thackeray Aapla Davakhana Scheme.... Corrigendum\
-  [202603251334181117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251334181117.pdf)
+- Regarding the approval to disburse and spend the funds approved by the New Matter supplementary demand in the financial year 2025-26 under the new account head 22111521 for the implementation of the Surrogacy (Regulation) Act, 2021 and the Assisted Reproductive Technology Act, 2021 as well as for the amount to be paid towards the expenses of the constituted committee and for receiving grants through registration of institutions.\
+  [202603271910051417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271910051417.pdf)
 
-- Regarding the sanctioning of funds for recurring expenditure on ambulances operational under the Maharashtra Emergency Medical Services (MEMS) scheme for the year 2025-26. (70 payment for the months of December 2025 and January 2026)\
-  [202603271608315117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271608315117.pdf)
+- 15th Finance Commission - Regarding distribution of funds amounting to Rs. 430.50 lakhs approved by the Central Government for strengthening the health system in the state for the financial year 2023-24, from the approved estimates for the financial year 2025-26.\
+  [202603301629372117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301629372117.pdf)
 
-- Regarding the grant of administrative approval for the repair expenses of official vehicles utilized by officers working in various health institutions under the Public Health Department.\
-  [202603271141114217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271141114217.pdf)
-
-- Regarding the distribution of funds under the Head of Account 2210 1053, 17 (Computer Expenses)  utilizing the amount sanctioned through the Supplementary Demand for the Financial Year 2025-26  for the procurement of computer sets, laptops, and printers (including scanners) with UPS units, for the office of the Deputy Director of Health Services (Transport), Pune Headquarters, and its subordinate offices.\
-  [202603270957449117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603270957449117.pdf)
-
-- Regarding approval to disburse and spend a fund of Rs. 1.35 crore under the objective 31-Subsidies (Non-Salary) under Account Head 2210 K 014 to meet the establishment expenses of the Maharashtra Medical Goods Procurement Authority in the financial year 2025-26.\
-  [202603271313197117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271313197117.pdf)
-
-- regarding distribution for construction of Primary Health Centers and Sub-Centers under Regional Backlog under Head 2210 3065.For the financial year 2025-26, demand No. R-1,\
-  [202603271358520017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271358520017.pdf)
-
-- Regarding the distribution of funds amounting to Rs. 5.00 Lakhs to the State Blood Transfusion Council, Mumbai, from the budgetary grant for the year 2025-26 (2210 4473).\
-  [202603271146401517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271146401517.pdf)
-
-- Regarding the approval of pending bills of M/s. Garudzep Self-Employment Service Cooperative Society (Ltd.), Satara, for the provision of sanitation, cleaning, garden development, and maintenance services at the Arogya Bhavan building, Mumbai...\
-  [202603271141089317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271141089317.pdf)
-
-- Regarding approval to spend the remaining funds of Rs. 2.50 crore in the approved supplementary demand for the purchase of medicines for mental disorders under the objective of 31- Subsidiary Grants (Non-Salary) under the Head of Account 2210 K 061 in the winter session of the year 2025-26 by distributing them through the budget distribution system.\
-  [202603271140550717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271140550717.pdf)
-
-- Regarding distribution of subsidy to 6 hospital-based NGOs for the prevention of leprosy in the financial year 2025-26.\
-  [202603271313068417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271313068417.pdf)
-
-- Ruby Hall Clinic, Pune Regarding approval of the honorarium of the Chairman of the Illegal Kidney Racket Investigation Committee and the expenses of the Commissions lawyer for the hearing etc.\
-  [202603271146144017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271146144017.pdf)
-
-- Regarding the grant of administrative approval for the repair expenses of official vehicles utilized by officers working in various health institutions under the Public Health Department.\
-  [202603270957430117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603270957430117.pdf)
-
-- regarding distribution for construction of Primary Health Centers and Sub-Centers under Regional Backlog under Head 2210 3065.For the financial year 2025-26, demand No. R-1,\
-  [202603271054302017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271054302017.pdf)
-
-- Regarding the sanctioning of funds for recurring expenditure on ambulances operational under the Maharashtra Emergency Medical Services (MEMS) scheme for the year 2025-26. (70 payment for the month of February 2026)\
-  [202603281257256617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281257256617.pdf)
-
-- Regarding the Granting of Administrative Approval for the Expenditure to Procure Contractual Dietary Services at Shashikala Tuberculosis Health Centre, Jaisingpur, Kolhapur.\
-  [202603271508156017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271508156017.pdf)
-
-- Regarding approval to disburse and spend the funds of Rs. 2.00 crore approved through supplementary demand in the winter session of December, 2025 under the objective of 31-Subsidiary Grant (Non-Salary) under Account Head 2210 K 061 for the purchase of iron beds (including mattresses) for regional psychiatric hospitals in the state in the financial year 2025-26.\
-  [202603291350180217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291350180217.pdf)
-
-- Regarding approval to disburse and spend a fund of Rs. 1.35 crore under the objective 31-Subsidies (Non-Salary) under Account Head 2210 K 014 to meet the establishment expenses of the Maharashtra Medical Goods Procurement Authority in the financial year 2025-26.\
-  [202603291350008917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291350008917.pdf)
-
-- Regarding the provision of funds for recurring expenditure on ambulances operational under the Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (Amount equivalent to 30 of the payable bills for the period August 2025 to October 2025).\
-  [202603291109142317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291109142317.pdf)
-
-- Regarding giving approval under budget head : 088 of 2210, 061 of 2210, 079 of 2210 and 097 of 2210, (31)-Grants-in-aid (non-salary) earmarked total funds of Rs. 359.9607 crore will be distributed for the purchase of medicines, literature, medical equipment and supplies to health institutions in the state for the financial year 2025-26.\
-  [202603291456252817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291456252817.pdf)
-
-- Regarding approval to spend the remaining funds of Rs. 2.50 crore in the approved supplementary demand for the purchase of medicines for mental disorders under the objective of 31-Subsidiary Grant (Non-Salary) under Account Head 2210 K 061 in the winter session of the year 2025-26 by distributing them through the budget distribution system.\
-  [202603291350038417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291350038417.pdf)
+- Regarding the provision of funds for recurring expenditure on ambulances operationalized under the Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2025-26. (Amount equivalent to 30 of the payable bills for the period from November 2025 to January 2026).\
+  [202603301559370717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301559370717.pdf)
 
 ## Miscellaneous
-- Regarding redistribution of funds from state share head 2210E455 to newly received head 2210K562 for tribal sub-plan under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26.\
-  [202603231105034617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231105034617.pdf)
-
-- Regarding the disbursement of funds from the budgetary provision of the year 2025-26 for the Scheduled Caste Category (SCSP) through the SNA SPARSH system through the 3rd Mother Sanction, with a Central share of 60 under Account Head 2210G592 and a State share of 40 under Account Head 2210G609.\
-  [202603241602585717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241602585717.pdf)
-
-- Regarding the disbursement of funds from the budgetary provision of the year 2025-26 for the Tribal Deployment Project (TSP) under the centrally sponsored National Rural Health Mission through the SNA SPARSH system through the 3rd Mother Sanction with a Central share of 60 under Account Head 2210F738 and a State share of 40 under Account Head 2210E455.\
-  [202603241603143917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241603143917.pdf)
-
-- Writ Petition (Stamp) No. 1690/2026 Constitution of a Committee to inquire into the incident at the District Hospital, Satara, in accordance with the directives issued by the Honble High Court in the matter of XYZ vs. The State Government and Others.\
-  [202603201327072517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603201327072517.pdf)
-
-- Regarding administrative approval for the cost of repairing the engine of 1 accident-affected ambulance and 1 ambulance operating in a health institution under the Public Health Department.\
-  [202603241437051217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241437051217.pdf)
-
-- Regarding granting administrative approval for the repair costs of 5 accident-affected ambulances operating in health institutions under the Public Health Department.\
-  [202603241437028317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241437028317.pdf)
-
-- Regarding redistribution of state share grants from head 2210G609 to newly received head 2210K642 for socially special component under National Rural Health Mission, NHM, under centrally sponsored National Health Mission for FY 2025-26.\
-  [202603261150165417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261150165417.pdf)
-
-- Regarding the redistribution of the balance provision under the                              purpose 13- Office Expenses in Requisition No. R-2, Account Heads                               2251 0697 and 2251 0187 for the year 2025-26 to pay the bills for                                computers, printers and scanners purchased for the Public Health                              Department to the purpose 17- Computer Expenses under the same                               Account Head.\
-  [202603261537113317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261537113317.pdf)
-
-- Regarding the allocation of funds for organizing the State-level Mahalaxmi Saras Exhibition, as well as Divisional and District-level Sales Exhibitions, during the year 2025-26.\
-  [202603251013150817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251013150817.pdf)
-
-- Regarding redistribution of funds from head 2210G592 under central share and head 2210G609 under state share for socially special component under National Rural Health Mission for FY 2025-26, from object head 31-grants-in-aid (non-salary) to object head 35-grants for creation of capital assets.\
-  [202603261644437717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261644437717.pdf)
-
-- Corrigendum regarding the grant of administrative approval for the repair costs of the official vehicle utilized by the Director (2), Directorate of Health Services, Pune, and the Joint Director (Hospitals), Directorate of Health Services, Mumbai; and the accident-damaged ambulance belonging to the Sub-District Hospital under the Medical Superintendent, Niphad, Nashik.\
-  [202603251334199417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251334199417.pdf)
-
-- Regarding the distribution of funds through re-appropriation for the Pradhan Mantri Ayushman Bharat Health Infrastructure Mission Tribal Deployment Scheme under Central Share 2210H481, Item 35 and State Share 2210H492, Item 35 from the budgetary provision approved under the Central Share Head 2210F738 and State Share Head 2210E455, Item 31 in the year 2025-26 under the National Rural Health Mission...\
-  [202603251013175717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251013175717.pdf)
-
-- Regarding the distribution of funds under the Public Health Department specifically through the office of the Joint Director, Health Services (Malaria, Filaria, and Vector-borne Diseases), Pune by way of re-appropriation/re-distribution of funds from the budgetary provisions for the year 2025-26, under the Head of Account Malaria Control Programme (Local Sector) (22105219) and Malaria Control Programme (State Sector) (22100611).\
-  [202603281325399117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281325399117.pdf)
+- Regarding the declaration of Drawing and Disbursement Officer and Controlling Officer for passing the payments of training expenses of various cadres to be organized through all Health and Family Welfare Training Centers under the Health Services Commissionerate.\
+  [202603301254347917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301254347917.pdf)
 
 ## Personnel
-- Regarding extension of the temporary post of Commissioner, Urban Health.\
-  [202603241052401917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241052401917.pdf)
+- Regarding continuation of temporary posts under the authority of Deputy Director Health Services, Ch. Sambhajinagar Board, Ch. Sambhajinagar.\
+  [202603301056568117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301056568117.pdf)
 
-- Regarding the extension of the temporary post of District Health Officer, Washim, under the Deputy Director of Health Services, Akola Division, Akola.\
-  [202603251548042117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251548042117.pdf)
-
-- Regarding the continuation of 5 temporary posts within the State-level Administrative Department, under the strengthening of the Dental Departments in hospitals of the Public Health Department.\
-  [202603251548126217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251548126217.pdf)
-
-- Regarding the designation of the Administrative Officer at the Office of the Deputy Director (Transport), Health Services, Puneoperating under the Public Health Departmentalong with eight Service Managers from the Divisional Workshops (Transport) under his control (total: 9), as Virtual Personal Deposit Account Administrators (VPDAA).\
-  [202603281325548417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281325548417.pdf)
+- Regarding extension of 10302 temporary posts approved under the Family                                                               Welfare Program in the State Family Welfare Office, Pune and various                                                                subordinate offices for the period from 01/03/2026 to 31/08/2026.\
+  [202603301115326017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301115326017.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

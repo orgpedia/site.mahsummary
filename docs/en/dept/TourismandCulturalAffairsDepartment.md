@@ -1,214 +1,214 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 30 March 2026 - 04 April 2026
+**Date Range**: 06 April 2026 - 11 April 2026
 
 
 ## Funds
-- Regarding the grant of administrative and financial approval for organizing the 5th National Student Film Festival  2026, hosted by the Student Fund Organization.\
-  [202603231507266623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231507266623.pdf)
+- Regarding the Sanction and Disbursement of Funds for the Conservation and Repair Works of the State-Protected Monument: Yog Nrusimha Temple, Raher, Taluka Naigaon, District Nanded.\
+  [202603301707037923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301707037923.pdf)
 
-- Regarding the grant of financial approval to meet the daily operational expenses of the Kolhapur Chitranagari Corporation.\
-  [202603231459581623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231459581623.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Chhatrapati Rajaram Maharaj Samadhia State-protected monument located at Sinhagad Fort, Taluka Haveli, District Pune.\
+  [202603301653597823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301653597823.pdf)
 
-- Regarding the grant of administrative approval for providing incentive-based financial assistance for the production of 45 high-quality Marathi films classified as A, B, and C grade.\
-  [202603231503456823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231503456823....pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Kalammadevi Temple  a State-protected monument located at Mauje Mahuli, Taluka Khanapur, District Sangli.\
+  [202603301250344723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301250344723.pdf)
 
-- Regarding the grant of financial approval for the expenditure on the digitization of play scripts at the office of the Drama Performances Scrutiny Board, Mumbai.\
-  [202603231509525523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231509525523.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Stepwell at Mahimapur, Taluka Daryapur, District Amravati  a State-Protected Monument.\
+  [202603301857051123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301857051123.pdf)
 
-- Regarding the Sanction and Distribution of Funds for the Conservation and Repair Works of Udgir Fort (Part-4)  a State-Protected Monument  located in Udgir Taluka, Latur District.\
-  [202603231759126423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231759126423.pdf)
+- The Amrit Mahotsav Year of the Constitution: Regarding the grant of financial approval for the expenditure to be incurred for organizing tableau processions across six administrative divisions under the Gharoghari Sanvidhan (Constitution in Every Home) initiative.\
+  [202603301922311023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301922311023.pdf)
+
+- Regarding the disbursement of funds for photogrammetric and LiDAR survey work of the controlled areas of protected monuments in the Nagpur Division...\
+  [202603301855349323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301855349323.pdf)
+
+- Regarding the approval of expenditure for electrical works at the cafeteria of the Shri Bhavani Art Museum and Library, Aundh, District Satara.\
+  [202603301259204023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301259204023.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of Manikgad Fort (Taluka Jivati, District Chandrapur)a State-Protected Monument.\
+  [202603301241381823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301241381823.pdf)
+
+- Regarding the grant of administrative and financial approval for the website renewal, maintenance, and repair costs of the Rajarshi Shahu Maharaj Honorarium Scheme for Senior Litterateurs and Artists.\
+  [202603302157174823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302157174823.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Rudra Nrusimha Temple (Gadmandi), Taluka Ramtek, District Nagpur  a State-Protected Monument.\
+  [202603301859534723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301859534723.pdf)
+
+- Regarding the organization of cultural programs on Raigad Fort on the occasion of the death anniversary of Chhatrapati Shivaji Maharaj, and the grant of administrative and financial approval for the associated expenditure as a special case.\
+  [202603302151315623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302151315623.pdf)
+
+- Regarding the Granting of Financial Approval for the Organization of Hindi Literary and Cultural Programs in the State of Maharashtra, and for the Expenditure Incurred Thereon.\
+  [202603301927577323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301927577323.pdf)
+
+- Regarding the grant of financial approval for the expenditure on cultural programs organized in connection with the flag-off ceremony of the CISF Coastal Cyclothon-2026.\
+  [202603301904269423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301904269423.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Vadeshwar Mahadev Temple, Ambhai, Taluka Sillod, District Chhatrapati Sambhajinagara State-Protected Monument.\
+  [202603301901132823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301901132823.pdf)
+
+- Regarding the grant of financial approval for the expenditure on organizing the Dapoli Cultural Festival  2025.\
+  [202603301903164023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301903164023.pdf)
+
+- Regarding the disbursement of admissible Capital Investment Incentive Returns to eligible tourism projects under the Tourism Policy-2024 during the financial year 2025-26.\
+  [202603301617021523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301617021523.pdf)
+
+- Regarding the disbursement of funds for the microfilming of records at the Directorate of Archives...\
+  [202603301916474723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301916474723.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of Udgir Fort (Part-4)  a State-Protected Monument  located in Udgir Taluka, Latur District.\
+  [202603301700254223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301700254223.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Torna Fort (Taluka Velhe, District Pune).\
+  [202603301655174023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301655174023.pdf)
+
+- The Amrit Mahotsav Year of the Constitution: Regarding the Granting of Approval for Organizing the Program  The Constitution in Every Home: Our Pride  The Constitution (Raj Bhavan, Mumbai)\
+  [202603301921211523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301921211523.pdf)
+
+- Regarding the Sanction and Disbursement of Funds for the Conservation and Repair Works of the State-Protected Monument: Yog Nrusimha Temple, Raher, Taluka Naigaon, District Nanded.\
+  [202603301247243223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301247243223.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of Kharda Fort (Kharda, Taluka Jamkhed, District Ahilyanagar)a State-protected monument.\
+  [202603301703028823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301703028823.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Kholeshwar Temple, Ambajogai (Taluka Ambajogai, District Beed)a State-protected monument.\
+  [202603301241127523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301241127523.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Bhairav Darwaza, Gadmandir, Taluka Ramtek, District Nagpur.\
+  [202603301858169723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301858169723.pdf)
+
+- Regarding the Sanction of Funds for the Second Payment towards the Creation of the Arms Gallery within the Temporary Hall of the Laxmi Vilas Palace Museum, Kolhapur, under the Shivshastra Shauryagatha Exhibition.\
+  [202603301905420623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301905420623.pdf)
+
+- Regarding the grant of financial approval for the expenditure on organizing the Swarajya Sankalpak Cultural Festival at Verul, Chhatrapati Sambhajinagar, on the occasion of the birth anniversary of Swarajya Sankalpak Shahajiraje Bhosale.\
+  [202603301920063623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301920063623.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of the Sundarnarayan Temple, Nashik (Taluka  District Nashik)a State-Protected Monument.\
+  [202603301248476223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301248476223.pdf)
 
 - Regarding the allocation of funds for the conservation and repair works of Yashwantgad Fort (Nate, Taluka Rajapur, District Ratnagiri)a State-protected monument.\
-  [202603231802175923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231802175923.pdf)
-
-- Regarding the grant of financial approval for the reimbursement of expenses incurred under Part-2 works for the organization of the 60th and 61st Maharashtra State Marathi Film Awards ceremonies.\
-  [202603231501533823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231501533823.pdf)
+  [202603301255083323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301255083323.pdf)
 
 - Regarding the allocation of funds for the conservation and repair works of the Goa Fort (Harne, Taluka Dapoli, District Ratnagiri)a State-Protected Monument.\
-  [202603231801274423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231801274423.pdf)
+  [202603301252244323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301252244323.pdf)
 
-- Regarding the Granting of Financial Approval for Expenditure on the Organization of Literary and Cultural Programs by the Maharashtra State Sanskrit Sahitya Akademi on the Online Platform Zoom.\
-  [202603241741455623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241741455623.pdf)
-
-- Regarding the allocation of funds for the conservation and repair works of the Vitthal Temple, Pangao (Taluka Renapur, District Latur)  a State-Protected Monument.\
-  [202603241649022023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241649022023.pdf)
-
-- Regarding the allocation of funds to the Darshanika Department for the production of a special publication shedding light on the life and various facets of Punyashlok Ahilyabai Holkar, as well as a coffee-table book based on select stepwell architecture from her reign, on the occasion of the Tricentenary Birth Anniversary celebrations of Punyashlok Ahilyabai Holkar.\
-  [202603241239080223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241239080223.pdf)
-
-- Regarding the grant of financial approval for advertising expenses to organizations working in the field of experimental arts during the year 2025-26.\
-  [202603241245566023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241245566023.pdf)
-
-- Regarding the Grant of Financial Approval for Expenditure on Book Procurement by the Maharashtra State Sanskrit Sahitya Akademi (Rs. 1.00 Lakh).\
-  [202603241743166923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241743166923.pdf)
-
-- Regarding the allocation of funds for the conservation and repair works of the Gupteshwar Temple, Dharasur (Taluka Gangakhed, District Parbhani)a State-Protected Monument.\
-  [202603241650329723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241650329723.pdf)
-
-- Regarding the allocation of funds for the conservation and repair works of the Trivikram Temple, Ter (Taluka  District Dharashiv)a State-Protected Monument.\
-  [202603241646415523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241646415523.pdf)
-
-- Regarding the grant of ex-post facto approval for the expenditure incurred in organizing the felicitation ceremony held to celebrate the conferral of World Heritage status by UNESCO upon 12 forts...\
-  [202603241655275523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241655275523.pdf)
-
-- Regarding the disbursement of funds for the reimbursement of rental expenses incurred for a projector hired for the Mini Theatre at the P.L. Deshpande Maharashtra Kala Academy complex, Mumbai, for the period from February 27, 2025, to May 31, 2025.\
-  [202603241243213923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241243213923.pdf)
-
-- Regarding the grant of financial approval for the expenditure on organizing scholarly conferences at universities abroad, on the occasion of the 750th birth anniversary (Sardhasaptashatabdi) of Saint Dnyaneshwar Mauli.\
-  [202603251726462323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251726462323.pdf)
-
-- Regarding the Granting of Financial Approval for the Organizational Expenses of the Chhatrapati Shivaji Maharaj Mahavarasa Award Presentation Ceremony.\
-  [202603251725098823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251725098823.pdf)
-
-- Regarding the grant of financial approval for the expenditure on organizing literary and cultural programs to be conducted by the Maharashtra State Telugu Sahitya Akademi. (Rs. 22,20,000/-)\
-  [202603251716211723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251716211723.pdf)
-
-- Regarding the grant of financial approval for the expenditure on the display of tableaux during the procession organized in Girgaon, Mumbai, on the occasion of Gudi Padwa.\
-  [202603251717351523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251717351523.pdf)
-
-- Regarding the grant of financial approval for the expenditure on organizing the Bharat Ratna Pt. Bhimsen Joshi Classical Music Festival.\
-  [202603251723549123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251723549123.pdf)
-
-- Regarding the grant of financial approval for the expenditure on organizing a cultural program on the occasion of the birth anniversary of Poet Sahir Ludhianvi.\
-  [202603251721371123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251721371123.pdf)
-
-- Regarding the grant of financial approval for the expenditure incurred in organizing Dene Nakshatranchea cultural program based on the poems and songs of poets Aarti Prabhu and Grace.\
-  [202603251720115023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251720115023.pdf)
-
-- Regarding the grant of administrative and financial approval for organizing the theatrical performance Sangeet Anandamath.\
-  [202603261336362223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261336362223.pdf)
-
-- Regarding the grant of Revised Administrative Approval for the expenditure to be incurred for procuring a total of 50 unskilled personnel servicescomprising 46 Cleaners and 04 Sanitation Supervisorsthrough outsourcing for a period of 11 months, for sanitation work at the P.L. Deshpande Maharashtra Kala Academy, Mumbai.\
-  [202603271851123123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271851123123.pdf)
-
-- Regarding the allocation of funds for the conservation and repair works of the State-protected monument: Jogai Assembly Hall and Caves (Chhota Hathikhana), Taluka Ambajogai, District Beed.\
-  [202603271847121523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271847121523.pdf)
-
-- Regarding the Granting of Administrative and Financial Approval for Expenditure Incurred on the Publicity and Promotion of the Tableau Titled Maharashtras Ganeshotsav: A Symbol of Self-Reliance.\
-  [202603271628041923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271628041923.pdf)
-
-- Regarding the grant of financial approval to the Tourism Departments Annual Marketing and Branding Action Plan for the financial year 2025-26amounting to 76,94,58,000to be implemented through the Directorate General of Information and Public Relations.\
-  [202603271434472623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271434472623.pdf)
-
-- Regarding the allocation of funds for the year 2025-26 under the AAI (Azadi ka Amrit Mahotsav Initiative)  a Women-Centric / Gender-Inclusive Policy.\
-  [202603271746269323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271746269323.pdf)
-
-- Regarding the allocation of funds for the conservation and repair works of the Malojiraje Bhosale Gadhi (Fortress) at Verul, Taluka Khultabad, District Chhatrapati Sambhajinagara State-Protected Monument.\
-  [202603271848317323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271848317323.pdf)
+- Regarding the Granting of Financial Approval for Internal Improvements at N.D. Studio\
+  [202603301204286823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301204286823.pdf)
 
 - Regarding the Granting of Financial Approval for Development Worksspecifically Part 2 of the Construction Worksunder Phase 3 of the Kolhapur Chitranagari Corporation, as well as under the Azadi Ka Amrit Mahotsav initiative.\
-  [202603271238241423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271238241423.pdf)
+  [202603302159085323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302159085323.pdf)
 
-- Regarding the allocation of funds for the conservation and repair works of the Amaleshwar Temple  a State-protected monument located in Ambajogai, Taluka Ambajogai, District Beed.\
-  [202603271849514223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271849514223.pdf)
+- Regarding the proposal for the Shivsrushti Theme Park project at Ambegaon, Pune District.\
+  [202603301457570523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301457570523....pdf)
 
-- Regarding the disbursement of funds for works of the Directorate of Tourism accorded administrative approval under the Regional Tourism Development Scheme.\
-  [202603271834530323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271834530323.pdf)
+- Regarding the grant of financial approval for the renovation, annual maintenance, and structural audit of residential rooms situated within N.D. Studios.\
+  [202603301204152923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301204152923.pdf)
 
-- Regarding the grant of financial approval for the expenditure on electrical renovation works at the office of the Maharashtra State Literature Academy, Mumbai. (Rs. 12,57,968/-)\
-  [202603271625301023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271625301023.pdf)
+- Regarding the allocation of funds for the preparation of duplicate copies of microfilm rolls generated from the records held by the Directorate of Archives...\
+  [202603301923011023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301923011023.pdf)
 
-- Regarding the grant of administrative and financial approval for the expenditure to be incurred for organizing the cultural program titled Mahaculture: Colors of Maharashtra on the occasion of the 6th Annual Conference on Disarmament and International Security Affairs.\
-  [202603281736417723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281736417723.pdf)
+- Regarding the grant of financial approval for the expenditure on organizing the program Natyaatun Mauli at the headquarters of the States Revenue Divisions, and for organizing devotional cultural programs at District Headquarters (excluding the aforementioned locations).\
+  [202603301926288823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301926288823.pdf)
 
-- Regarding the Granting of Administrative and Financial Approval for Organizing the Shivkalyan Raja Cultural Program on the Occasion of Chhatrapati Shivaji Maharaj Jayanti.\
-  [202603281341438123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281341438123.pdf)
+- Regarding the provision of funds amounting to Rs. 1,03,719/-, subject to administrative approval, for hosting the digitized data of the Drama Performances Scrutiny Board office on the cloud.\
+  [202603301711373123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301711373123.pdf)
 
-- Regarding the grant of financial approval for the production by the Government of a grand, commercial, multilingual filmincluding Marathibased on the biography of Punyashlok Ahilyadevi Holkar.\
-  [202603281522349523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281522349523.pdf)
+- Regarding the allocation of funds for the preservation and conservation works of the Soneri Mahal (Golden Palace), Taluka and District Chhatrapati Sambhajinagara State-Protected Monument.\
+  [202603301659067023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301659067023.pdf)
 
-- Regarding the grant of financial approval for the sanctioning of incentive-based financial assistance for the production of high-quality Marathi films classified as A, B, and C grade.\
-  [202603291509401823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291509401823.pdf)
+- Regarding the distribution of residual funds (Spillover) for works of the Directorate of Tourism that have received administrative approval under the Regional Tourism Development Scheme.\
+  [202603301306504223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301306504223.pdf)
 
-- Regarding the grant of financial approval for providing incentive-based financial assistance for the production of 45 high-quality Marathi films classified as A, B, and C grade.\
-  [202603291506065623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291506065623.pdf)
+- Regarding the distribution of residual funds (Spillover) for works of the Maharashtra Tourism Development Corporation that have received administrative approval under the Regional Tourism Development Scheme.\
+  [202603301311396323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301311396323.pdf)
 
-- Regarding the grant of financial approval to 98 filmscertified by the Censor Board between the years 2018 and 2022that were deemed ineligible for the incentive-based financial assistance scheme for the production of quality Marathi films during the COVID-19 period.\
-  [202603291507536323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603291507536323.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Parvati Temple, Hottal (Taluka Deglur, District Nanded)a State-Protected Monument.\
+  [202603301243340923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301243340923.pdf)
+
+- Regarding the grant of administrative and financial approval for organizing the 5th Devgiri National Short Film Festival  2026 through M/s. Ajintha Film Society, Jalgaon.\
+  [202603301934215423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301934215423.pdf)
+
+- Regarding the grant of financial approval for the expenditure on organizing cultural programs on the occasion of the birth anniversary of Rajmata Rani Hirai.\
+  [202603301905413423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301905413423.pdf)
+
+- Regarding the allocation of funds for the conservation and repair works of Yashwantgad Fort (Sukalbhat, Redi, Taluka Vengurla, District Sindhudurg)a State-protected monument.\
+  [202603301256213023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301256213023.pdf)
+
+- Regarding the grant of financial approval for expenditure on organizing special cultural programs to mark the Silver, Golden, Diamond, Centenary, or Post-Centenary jubilee years of eminent personalities.\
+  [202603301924571523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301924571523.pdf)
+
+- Regarding the allocation of funds for establishing a World Heritage Desk for research on the rock carvings of the Konkan region.\
+  [202603301709319623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301709319623.pdf)
 
 ## Miscellaneous
-- Regarding the allocation of funds for the conservation and repair works of the Lala Hardaul Samadhia State-protected monument located in Chhatrapati Sambhajinagar, Taluka and District Chhatrapati Sambhajinagar.\
-  [202603231758320223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231758320223.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Keshavraj Temple, Kesapuri, Taluka Majalgaon, District Beeda State-Protected Monument.\
+  [202603301854059223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301854059223.pdf)
 
-- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Makai Darwaza, Chhatrapati Sambhajinagar (Taluka  District Chhatrapati Sambhajinagar)...\
-  [202603231800110323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231800110323.pdf)
+- Regarding the approval for the establishment of a Tourism Information Center and basic amenities at Mouje Gholvad, Taluka Dahanu, District Palghar.\
+  [202603301309216523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301309216523.pdf)
 
-- Regarding the Grant of Financial Approval for Advertising Expenses related to the Pt. Bhimsen Joshi Classical Music Promotion Grant Scheme and the Pt. Bhimsen Joshi Youth Scholarship for the year 2025-26.\
-  [202603241247445523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241247445523.pdf)
+- Regarding the allocation of funds for the construction of accessible public amenity centers within the precincts of State-protected monuments under the jurisdiction of the Department of Archaeology, Pune Office...\
+  [202603301704172223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301704172223.pdf)
 
-- Regarding the Granting of Financial Approval for the Sanctioning of Performance Grants under the Subsidy Scheme for New Theatrical Productions to Theater Production Organizations\
-  [202603241745510523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241745510523.pdf)
+- Regarding the allocation of funds for the preparation of the necessary Site Management Plan for the conservation and repair works of Rajgad Fort (Taluka Velhe, District Pune)a State-protected monument.\
+  [202603301657560623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301657560623.pdf)
 
-- Regarding the allocation of funds for the conservation and repair works of the Gateway of India, Mumbaia State-protected monument.\
-  [202603241653272123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241653272123.pdf)
+- Regarding the grant of financial approval for the expenditure on organizing special cultural programs to mark the 650th Birth Anniversary of Sant Shiromani Rohidas Maharaj.\
+  [202603301901452923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301901452923.pdf)
 
-- Regarding the grant of financial approval for the expenditure on organizing the cultural program titled Bugdi Majhi Sandli Ga on the occasion of the birth anniversary of the Empress of Lavani, Sulochana Chavan.\
-  [202603251718445523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251718445523.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Siddheshwar Temple, Devhada (Taluka Rajura, District Chandrapur)a State-Protected Monument.\
+  [202603301248031623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301248031623.pdf)
 
-- Regarding the grant of financial approval for the issuance of a commemorative coin in honor of Shri Guru Tegh Bahadur Ji, and for the expenditure incurred thereon.\
-  [202603251736498023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251736498023.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Gupteshwar Temple, Dharasur, Taluka Gangakhed, District Parbhani  a State-Protected Monument..\
+  [202603301652334923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301652334923.pdf)
 
-- Regarding the Granting of Financial Approval to Cover the Daily Operational Expenses of the Kolhapur Chitranagari Corporation. (Corrigendum)\
-  [202603251234031223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251234031223.pdf)
+- Regarding the allocation of funds for photogrammetric and LiDAR surveys of the controlled areas of State-protected monuments within the Pune Division...\
+  [202603301250254923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301250254923.pdf)
 
-- Regarding the grant of financial approval for expenditure on the organization of cultural programs in the Konkan and Pune revenue divisions, on the occasion of the Sardhasaptashatabdi (750th birth anniversary) year of the renowned 13th-century Marathi Saint and Poet, Dnyaneshwar Mauli.\
-  [202603251728506823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251728506823.pdf)
+- Regarding the disbursement of funds for expenses incurred on the programs titled Drawing Competition and Pictorial Exhibition, organized on the occasion of the Service Fortnight.\
+  [202603301852023723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301852023723.pdf)
 
-- Regarding the grant of financial approval for the expenditure on organizing literary and cultural programs by the Maharashtra State Sanskrit Sahitya Akademi.\
-  [202603261650248823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603261650248823.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the Bhog Narsimha Temple, Raher, Taluka Naigaon, District Nanded  a State-Protected Monument.\
+  [202603301245344423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301245344423.pdf)
 
-- Regarding the grant of financial approval for expenditure on the organization of cultural programs in the Amravati and Nashik revenue divisions, on the occasion of the 750th birth anniversary (Sardhasaptashatabdi) of the renowned 13th-century Marathi saint and poet, Dnyaneshwar Mauli.\
-  [202603251732511723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251732511723.pdf)
+- Regarding the organization of training camps and sessions for experimental cultural arts, and the granting of financial approval for the associated expenditure.\
+  [202603301720151723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301720151723.pdf)
 
-- Regarding the grant of financial approval for expenditure on the organization of cultural programs within the Nagpur Revenue Division, on the occasion of the Sardhasaptashatabdi (750th Birth Anniversary) of the renowned 13th-century Marathi Saint and Poet, Dnyaneshwar Mauli.\
-  [202603251735217823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251735217823.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monumentthe Stepwell near Saraswati Temple, Taluka Deglur, District Nanded.\
+  [202603301246242623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301246242623.pdf)
 
-- Regarding the grant of financial approval for the expenditure on organizing the cultural program titled Hind-di-Chadar, on the occasion of the 350th Martyrdom Commemoration Year of Shri Guru Tegh Bahadur Sahib Ji.\
-  [202603251714387423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251714387423.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Rasalgad Fort (Ghera Rasalgad, Taluka Khed, District Ratnagiri)...\
+  [202603301656409423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301656409423.pdf)
 
-- Regarding the grant of financial approval for expenditure on the organization of cultural programs within the Chhatrapati Sambhajinagar Revenue Division, on the occasion of the Sardhasaptashatabdi (750th Birth Anniversary) of the renowned 13th-century Marathi Saint and Poet, Dnyaneshwar Mauli.\
-  [202603251734085623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251734085623.pdf)
+- Regarding the allocation of funds for the repair, modern-style renovation, and supply of furniture for the cabins, anti-chambers, lift lobby, and P.A. cabins within the proposed administrative block located on the first floor of the Ravindra Natyamandir building at Prabhadevi, Mumbai.\
+  [202603301921103723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301921103723.pdf)
 
-- Regarding the grant of financial approval for the expenditure on organizing literary and cultural programs by the Maharashtra State Gor Banjara Sahitya Akademi.\
-  [202603271444598223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271444598223.pdf)
+- Regarding the grant of financial approval for expenditure on organizing workshops, seminars, exhibitions, and training programs related to elements of diverse cultures within the field of experimental arts.\
+  [202603302154201023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302154201023.pdf)
 
-- Regarding the allocation of funds for the conservation and repair works of Koyrigad Fort (Koraigad)a State-protected monument located at Mauje Ambavane, Taluka Mulshi, District Pune.\
-  [202603271845355523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271845355523.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, Keval Narsimha Temple (Gadmandir), Taluka Ramtek, District Nagpur.\
+  [202603301701444523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301701444523.pdf)
 
-- Regarding the Granting of Administrative Approval to Works of the Directorate of Tourism and the Disbursement of Funds under the Regional Tourism Development Scheme (Year 2025-26).\
-  [202603271838461523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271838461523.pdf)
+- Regarding the allocation of funds for the conservation and repair works of the State-protected monument, St. Georges Fort, Mumbai.\
+  [202603301257313923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301257313923.pdf)
 
-- Regarding the disbursement of a refundequivalent to the States share of the Goods and Services Tax (GST) paidduring the financial year 2025-26, as a concession towards the permissible financial incentives for eligible tourism projects under the Tourism Policies of 2006 and 2016.\
-  [202603271242196223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271242196223.pdf)
+- Regarding the grant of financial approval for expenses incurred in organizing cultural festivals featuring distinctive cultural or community-specific elements.\
+  [202603301923427723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301923427723.pdf)
 
-- Regarding the disbursement of funds for works of the Directorate of Tourism accorded administrative approval under the Regional Tourism Development Scheme.\
-  [202603271836299523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271836299523.pdf)
+- Regarding the disbursement of funds by the P.L. Deshpande Maharashtra Kala Academy for implementing employment-oriented short-term courses in the field of arts for students across the state.\
+  [202603301918164623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301918164623.pdf)
 
-- Regarding the grant of administrative and financial approval for the expenditure to be incurred for organizing a special cultural program in Hyderabad to celebrate the conferment of Classical Language status upon the Marathi language.\
-  [202603281525590123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281525590123.pdf)
+- Regarding the Sanction and Disbursement of Funds for the Conservation and Repair Works of the Sangameshwar Mahadev Temple (Taluka Patoda, District Beed)  a State-Protected Monument.\
+  [202603301244169023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301244169023.pdf)
 
-- Regarding the grant of administrative and financial approval for organizing a special cultural program featuring patriotic songs.\
-  [202603281617153523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281617153523.pdf)
+- Regarding the allocation of funds for the conservation and repair works of Dharmapuri Fort (Dharmapuri, Taluka Parli, District Beed)a State-protected monument.\
+  [202603301705487923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301705487923.pdf)
 
-- Regarding the Granting of Administrative and Financial Approval for Organizing Cultural Programs in Pune.\
-  [202603281808391523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281808391523.pdf)
+- Regarding the organization of training camps and sessions for experimental cultural arts, and the granting of financial approval for the associated expenditure.\
+  [202603301718442323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301718442323.pdf)
 
 ## Personnel
-- Regarding the extension of temporary posts on the establishment of the Directorate of Archives, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
-  [202603241241243423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241241243423.pdf)
-
-- Regarding the extension of the tenure of temporary posts within the Department of Tourism and Cultural Affairs (Head Office) for the period from March 1, 2026, to August 31, 2026...\
-  [202603241447191323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241447191323....pdf)
-
-- Continuation of Posts.\
-  [202603251511254923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251511254923.pdf)
-
-- Continuation of Posts.\
-  [202603251507089323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251507089323.pdf)
-
-- Regarding the grant of administrative and financial approval for the cost of cloud services required to implement the Direct Benefit Transfer (DBT) system for the Rajarshi Shahu Maharaj Honorarium Scheme for Senior Litterateurs and Artists.\
-  [202603281806152123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281806152123.pdf)
+- Regarding the grant of administrative and financial approval for the expenditure incurred in implementing the Direct Benefit Transfer (DBT) system under the Rajarshi Shahu Maharaj Honorarium Scheme for senior litterateurs and artists.\
+  [202603301716148323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301716148323.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

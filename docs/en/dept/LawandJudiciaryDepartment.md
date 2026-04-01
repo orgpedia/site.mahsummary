@@ -1,46 +1,15 @@
 # Law and Judiciary Department
 
-**Date Range**: 30 March 2026 - 04 April 2026
+**Date Range**: 06 April 2026 - 11 April 2026
 
-
-## Funds
-- Budgetary Demand for Grants 2025-26  Demand No. J-5, Major Head 7610: Loans to Government Servants, etc.  Sub-head (202)(00)(01): Advances for Purchase of Motor Vehicles (7610 0481)  Sanction of Advances for Purchase of New Motorcycles/Scooters.\
-  [202603231725071612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231725071612.pdf)
-
-- Budgetary Demand for Grants No. J-5 for the Year 2025-26; Major Head 7610  Loans to Government Servants, etc.; Sub-head (202)(00)(01) thereunder  Advances for Purchase of Motor Vehicles (7610 0481)  Sanction of Advances for Purchase of Motor Vehicles.\
-  [202603241736199612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241736199612.pdf)
 
 ## Miscellaneous
-- Budgetary Demand for Grants No. J-5 (2025-26); Head of Account 7610  Loans to Government Servants, etc.; (204)(00)(01)  Advances for Purchase of Personal Computers; (7610 1842)  Sanction of Computer Advances.\
-  [202603241731229312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241731229312.pdf)
-
-- Corrigendum regarding the revision of the Stipend Scheme for Law Clerks (Current Designation: Judicial Research Assistant) at the Honble High Court, Mumbai, and its Nagpur/Aurangabad Benches.\
-  [202603251831311112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251831311112.pdf)
+- Regarding the opening of a Personal Deposit Account for amounts involved in civil suits, for the Civil Court (Senior Division), Rahuri, Dist. Ahilyanagar.\
+  [202603301539126612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301539126612.pdf)
 
 ## Personnel
-- Regarding the Granting of Approval for the Continuation of Temporary Posts on the Establishment of the District and Sessions Court, Dhule\
-  [202603241316389912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241316389912.pdf)
-
-- Continuation of temporary post for the period 01.03.2026 to 31.08.2026 District and session Court,  Ahmednagar.\
-  [202603241314299612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241314299612.pdf)
-
-- Regarding the extension of temporary posts on the establishment of the Controller of Rationing and Director of Civil Supplies, Mumbai, for the period from March 1, 2026, to August 31, 2026...\
-  [202603241733570312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241733570312.pdf)
-
-- Regarding the extension of temporary posts for the period from March 1, 2026, to August 31, 2026. District and Sessions Court and Subordinate Courts within the Washim Judicial District.\
-  [202603241735552612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241735552612.pdf)
-
-- Regarding the continuation of the tenure of 55 temporary posts in 11 Special Courts established for persons with disabilities, senior citizens, and marginalized sections of society.\
-  [202603251220201612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251220201612.pdf)
-
-- Continuation of temporary post for the period 01.03.2026 to 31.08.2026 District and session Court, Nashik.\
-  [202603271325257412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271325257412.pdf)
-
-- Regarding the extension of temporary posts for the period from 01.03.2026 to 31.08.2026. District and Sessions Court and Subordinate Courts within the Hingoli Judicial District.\
-  [202603271326584512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271326584512.pdf)
-
-- Regarding the extension of the tenure of temporary posts of Judicial Officers in the District and Sessions Courts and their subordinate courts within the State, as well as in the Court of the Chief Metropolitan Magistrate, Mumbai, and the Small Causes Court, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
-  [202603271321388012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271321388012.pdf)
+- Regarding the grant of approval for the continued retention of temporary posts on the establishment of the District and Sessions Court, Sangli.\
+  [202603301541056212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301541056212.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

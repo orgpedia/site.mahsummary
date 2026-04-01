@@ -1,154 +1,82 @@
 # Home Department
 
-**Date Range**: 30 March 2026 - 04 April 2026
+**Date Range**: 06 April 2026 - 11 April 2026
 
 
 ## Funds
-- Regarding the payment of interest on enhanced compensation under Section 18 of the Land Acquisition Act, 1894. Border Check Post, Kagal, Dist. Kolhapur\
-  [202603231825167929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231825167929.pdf)
+- Regarding the payment of Milestone-2 to M/s. Prostram Info System Ltd., Mahape, in connection with the procurement of computers and ancillary equipment for the CCTNS project.\
+  [202603301936114229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301936114229.pdf)
 
-- Regarding the provision of funds for the payment of enhanced compensation under Section 28-A of the Land Acquisition Act, 1894  Land Acquisition: Border Check Post, Warud, Dist. Amravati.\
-  [202603231819032929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231819032929.pdf)
+- Regarding the grant of administrative and financial approval for the expenditure incurred on the training of officers and employees of the Motor Vehicles Department.\
+  [202603301424261929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301424261929.pdf)
 
-- Regarding the deposit of Central and State shares of funds for the Security Related Expenditure (SRE) Scheme into the designated SNA account of the said scheme, under the PFMS system.\
-  [202603231613566429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231613566429.pdf)
+- Regarding the disbursement of funds for making payments to the Project Entity towards project components during the OM (Operations and Maintenance) period of the Intelligent Traffic Management System (ITMS) project on the Mumbai-Pune Expressway.\
+  [202603301734317129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301734317129.pdf)
 
-- Regarding the approval for the disbursement of funds amounting to Rs. 1,54,72,658/- towards rent payments for the period from November 2025 to March 2026, for a total area of 10,469 sq. ft. occupied by the Maharashtra State Cyber Office at the World Trade Centre, Cuffe Parade, Mumbai.\
-  [202603231657510029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231657510029.pdf)
+- Regarding the disbursement of funds for the e-Challan project.\
+  [202603301937555129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301937555129.pdf)
 
-- Regarding the disbursement of the States share of funds amounting to 16.36 crore for the new WadsaDesaiganjGadchiroli railway line.\
-  [202603231229160029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231229160029.pdf)
+- Regarding the payment of funds amounting to Rs. 37,71,82,854/- (inclusive of taxes) to the System IntegratorsLT Technology Services Pvt Ltd (Consortium Lead) and KPMG India LLP (Consortium Member)appointed for the Cyber Security Project.\
+  [202603301556481929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301556481929.pdf)
 
-- Regarding the release of funds amounting to Rs. 17.42 Crores to the Maharashtra Maritime Board under the scheme Substantial Port Dredging (Programme)  Budget Head B-7 (3051 0732).\
-  [202603231723461329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231723461329.pdf)
+- Regarding the release of funds amounting to Rs. 5.00 Crore for the year 2025-26, under Head of Account No. 2711 0922, for the Asian Development Bank-assisted scheme titled Maharashtra Sustainable Environment-Friendly Coastal Protection and Management Project.\
+  [202603301930080829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301930080829.pdf)
 
-- Regarding the provision of funds for depositing enhanced compensation under Section 18 of the Land Acquisition Act, 1984, into the Honble Court.\
-  [202603231822428429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231822428429.pdf)
+- Regarding the book adjustment of Passenger Tax amounting to Rs. 83,26,00,000/pertaining to the period from March 2025 (payable in April 2025) to April 2025 (payable in May 2025) (partially)as a Capital Contribution from the Government to the Maharashtra State Road Transport Corporation (MSRTC).\
+  [202603301316467629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301316467629.pdf)
 
-- Regarding the payment of bills for work performed during the period from June 2025 to August 2025 to M/s PwC, appointed as the Consultant for the Mumbai City CCTV Project.\
-  [202603241827259629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241827259629.pdf)
+- Regarding the disbursement of funds amounting to 27.20 crore under Scheme Account Head No. B-7 (3051 1835)  Provision of Floating Jetties and Allied Passenger Facilities (Programme)  for the financial year 2025-26.\
+  [202603301548278229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301548278229.pdf)
 
-- Regarding the grant of administrative approval for outstanding payments related to internal training bills of the Anti-Terrorism Squad (ATS) office.\
-  [202603241516295529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241516295529.pdf)
+- Financial Year 2025-26  Re-appropriation Regarding the allocation of funds amounting to 10.00 Crore for Demand No. B-8, Head of Account No. 27110976.\
+  [202603301931413329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301931413329.pdf)
 
-- Regarding the payment for work performed during the period from November 2024 to May 2025 to M/s PwC, appointed as the Project Consultant for the CCTNS project.\
-  [202603241823478829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241823478829.pdf)
+- Regarding the disbursement of funds under the Maharashtra Electric Vehicle Policy-2025.\
+  [202603301152280529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301152280529.pdf)
 
-- Regarding ex-post facto approval for the rental expenditure of 1,38,19,729/- towards 302 private vehicles hired by the Commissioner of Police, Pune City for bandobast duties during the 2024 Legislative Assembly Elections.\
-  [202603251609444929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251609444929.pdf)
+- Regarding the approval for the disbursement of funds totaling Rs. 22,88,03,260/- for the Maharashtra Cyber Crime Security Corporation.\
+  [202603301558046729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301558046729.pdf)
 
-- Regarding the grant of administrative and financial approval to the cost estimate for the construction of a new bus stand at Gadchandur, under the Chandrapur Division of the State Transport Corporation\
-  [202603251455214929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251455214929.pdf)
+- Regarding the release of funds amounting to 20.00 Crore under the scheme for Construction of Roads/Railways to Ports and Backwater Development Programme (Head of Account B-7: 3051 0768) for the financial year 2025-26.\
+  [202603301544479129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301544479129.pdf)
 
-- Fund Allocation 2025-26. Demand No. B-6  Major Head of Account: 22351684, Social Security and Welfare, 104  Deposit Linked Insurance Scheme.\
-  [202603251830237929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251830237929.pdf)
-
-- Regarding the crediting of funds sanctioned under Part VI AScrapping of Old Vehiclesof the Central Governments Scheme for Special Assistance to States for Capital Investment (2025-26) into the SNA account.\
-  [202603251258475929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251258475929.pdf)
-
-- Regarding the allocation of funds amounting to Rs. 95.85 Crores to the Maharashtra State Road Transport Corporation under the Head of Account 3055 0052-35, specifically for the Bus Stand Modernization and Other Amenities Program....\
-  [202603251458298229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251458298229.pdf)
-
-- Regarding the distribution of funds amounting to Rs. 58.20 Crores to the Maharashtra State Road Transport Corporation under the Head of Account 3055 0052-35  Modernization of Bus Stands and Other Amenities Program.\
-  [202603251457026829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251457026829.pdf)
-
-- Regarding the Granting of Administrative and Financial Approval to the Cost Estimate for the Reconstruction and Concretization of the Ghoti Bus Stand, Nashik Division, within the State Transport Corporation\
-  [202603251453055929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251453055929.pdf)
-
-- Regarding the payment of professional fees to Adv. Girish Godbole, Senior Advocate, and Adv. Prasad Dhakephalkar, Senior Advocate.\
-  [202603251102434629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251102434629.pdf)
-
-- Regarding the disbursement of funds for the maintenance, repair, and other essential requirements of the CCTNS project in the State.\
-  [202603271938314029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271938314029.pdf)
-
-- Regarding the payment of the Project Suppliers invoice and the disbursement of the Mobilization Advance for the CCTV Project of the Thane City Police Commissionerate.\
-  [202603271940432729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271940432729.pdf)
-
-- Regarding approving the disbursement of funds for prison industry in state prisons in the year 2025-26...\
-  [202603271836438729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271836438729.pdf)
-
-- Regarding the release of funds amounting to 62 Lakhs to the Maharashtra Maritime Board for the financial year 2025-26, under the scheme titled Purchase of Fleet (State) (Programme) 31  Grants-in-Aid (Non-Salary), under Head of Account B-7 (3051 0741).\
-  [202603271153323829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271153323829....pdf)
+- Regarding the payment of a total amount of Rs. 44,65,800/- to the supplier, M/s Pelorus Technologies Pvt. Ltd., Mumbai, towards comprehensive warranty and maintenance services for Mobile Device Forensic tools for the two quarters spanning the period from March 2025 to August 2025.\
+  [202603301552221229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301552221229.pdf)
 
 ## Miscellaneous
-- Regarding the revision of the pay scale for the post of Law Officer (Group-A) on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
-  [202603231750270229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231750270229.pdf)
+- Additional Director General of Police, Maharashtra Cyber, Mumbai  Regarding the provision of funds for the disbursement of bills pertaining to rewards and other expenses.\
+  [202603301550510529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301550510529.pdf)
 
-- Regarding the correction of the name of Ms. Neha Radha Ravishankar Dave, Law Officer (Group-A), on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
-  [202603231747423029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231747423029.pdf)
+- Regarding the grant of administrative and financial approval for the procurement of computer sets, printers, and scanners for the computerization of the Motor Vehicles Department.\
+  [202603301737560129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301737560129.pdf)
 
-- Regarding the creation of 224 supernumerary posts for the cadre of Police Sub-Inspector on the establishment of the Maharashtra Police Academy, Nashik.\
-  [202603231650502129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231650502129.pdf)
+- Additional Director General of Police, Maharashtra Cyber, Mumbai  Regarding the provision of funds for the settlement of bills pertaining to computer and intelligence services.\
+  [202603301555186729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301555186729.pdf)
 
-- Regarding the payment of a total remuneration of Rs. 7,40,132/- (inclusive of taxes) to M/s Primus Partners Pvt. Ltd., for two Project Management Consultantsspecifically, one Senior Consultant and one Consultantappointed for the Maharashtra Cyber Security Project, covering the periods from 16.11.2025 to 31.12.2025 and 16.12.2025 to 31.12.2025, respectively.\
-  [202603231655346729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231655346729.pdf)
+- Policy regarding the payment of outstanding renewal fees, supervisory fees, and applicable interest thereon, for entities intending to reactivate closed licenses for the manufacture of alcohol/liquor, in the context of license renewal.\
+  [202603301715069029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301715069029.pdf)
 
-- Regarding the payment of dues to the Project Consultant for the CCTV Project of the Thane Police Commissionerate, for the work performed during the period from June 1, 2025, to August 31, 2025.\
-  [202603241829403229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241829403229.pdf)
+- Regarding the deposit of Central and State shares of funds for the Security Related Expenditure (SRE) Scheme into the designated SNA account of the said scheme, under the PFMS system.\
+  [202603301500203029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301500203029.pdf)
 
-- Regarding the approval for the release of budgeted funds for prison construction works under Demand No. H-8, 4059 0912...\
-  [202603241204209029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241204209029.pdf)
+- Regarding the disbursement of funds totaling Rs. 5,21,12,204/- (inclusive of taxes) to the Additional Director General of Police, Maharashtra State Cyber, Mumbai, in recognition of the effective public awareness campaign conducted regarding cybercrimes via MahaRail (LED/LCD) screens at railway stations across the State.\
+  [202603301553568129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301553568129.pdf)
 
-- Financial Year 2025-26  Reappropriation Demand No. B-5  Major Head: 2056, Prisons\
-  [202603251602234629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251602234629.pdf)
-
-- Regarding the grant of administrative approval for the payment of rent dues for the premises leased for the office of the State Police Complaints Authority, covering the period from 01.07.2023 to 27.10.2024...\
-  [202603251235558529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251235558529....pdf)
-
-- Regarding the establishment of District-level and State-level Verification Committees, in accordance with the Standard Operating Procedure (SOP) laid down by the Ministry of Home Affairs, Government of India, for the repatriation of foreign nationals.\
-  [202603251708529929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251708529929.pdf)
-
-- FY 2025-26 - Reallocation Demand No.B-5- Main Heading- 2056, Jails\
-  [202603271833118129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271833118129.pdf)
-
-- Regarding improvements to the character and background verification process.\
-  [202603271707174029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271707174029.pdf)
-
-- Regarding the appointment of additional members from backward classes in Police Establishment Board No. 1.\
-  [202603271839282729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271839282729.pdf)
-
-- Regarding revival of posts in Gad-D cadre on establishment of Police Constituent Office in Maharashtra Police Force for compassionate appointment.\
-  [202603271850317429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271850317429.pdf)
-
-- Final Seniority List Regarding the publication of the Final Seniority Listas of January 1, 2021; January 1, 2022; January 1, 2023; and January 1, 2024for officers belonging to the Administrative Officer (Group-B) cadre on the establishment of the Directorate of Forensic Science Laboratories, Mumbai, functioning under the Director General (Judicial and Technical), Government of Maharashtra.\
-  [202603281313330029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281313330029.pdf)
+- Regarding the approval for the distribution of funds amounting to Rs. 73,08,000/through re-appropriation from Head of Account 20550032-18 (Weekly Holidays) to Head of Account 20550141-21 (Supplies and Materials), for the purchase of medical supplies, equipment, and medicines for the Police Surgeon, Nagpada Hospital, Mumbai, functioning under the jurisdiction of the Commissioner of Police, Greater Mumbai.\
+  [202603301731027429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301731027429.pdf)
 
 ## Personnel
-- Regarding the extension of 1,126 temporary posts across various cadres on the establishment of the Commissioner of Police, Greater Mumbai.\
-  [202603231531177129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231531177129.pdf)
+- Regarding the extension of the tenure of 4 temporary posts on the establishment of the Motor Accident Claims Tribunal, Pune.\
+  [202603301536251529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301536251529.pdf)
 
-- Regarding the Extension of the Tenure of 2,144 Temporary Posts Allocated to Various Traffic Branches of the Maharashtra Police Force\
-  [202603231528024629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231528024629.pdf)
+- Regarding the extension of the tenure of two Additional Motor Accident Claims Tribunals and 12 temporary posts in Nagpur.\
+  [202603301533336529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301533336529.pdf)
 
-- Regarding the extension of 1,330 temporary posts in various offices under the Director General of Police, Maharashtra State, Mumbai.\
-  [202603231535554929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231535554929.pdf)
+- Regarding the payment of a total amount of 17.5comprising the 10 Passenger Tax and the proposed 7.5to the Maharashtra State Road Transport Corporation as the Governments capital contribution...\
+  [202603301952332429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301952332429.pdf)
 
-- Regarding the extension of the tenure of 1,101 temporary posts across various cadres, under the establishments of Commissioners of Police and Superintendents of Police, for the State Highway Safety Squad.\
-  [202603231531599429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231531599429.pdf)
-
-- Request Transfer for the Cadre of Motor Vehicle Inspector\
-  [202603231744272529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231744272529....pdf)
-
-- Regarding extension of newly created temporary 100 posts for 02 Armed Police Support Centers 1) Nender and 2) Yelchil at Surjagad in Naxal infested Gadchiroli district.\
-  [202603271855384229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271855384229.pdf)
-
-- Regarding the extension of the tenure of a total of 1,244 temporary posts on the establishment of the Director, Directorate of Forensic Science Laboratories, State of Maharashtra, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
-  [202603271622295129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271622295129.pdf)
-
-- Created under Restructuring of Police Force Regarding the extension of tenure of a total of 115 temporary posts of various Superintendent of Police/Deputy Commissioner of Police and Deputy Superintendent of Police/Assistant Commissioner of Police.\
-  [202603271854209029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271854209029.pdf)
-
-- Regarding extension of 633 temporary posts on the establishment of Superintendent of Police, Pune (Rural).\
-  [202603271843005129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271843005129.pdf)
-
-- Regarding the extension of the temporary post of Superintendent of Police on the establishment of the Director General of Police, State of Maharashtra, Mumbai.\
-  [202603271851399429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271851399429.pdf)
-
-- Regarding the extension of the post of Additional Director General of Police, Protection of Civil Rights on the establishment of the Director General of Police, State of Maharashtra, Mumbai.\
-  [202603271849056729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271849056729.pdf)
-
-- Regarding the extension of the total 2633 temporary posts created in the first, second and third phase of the establishment of Commissioner of Police, Pimpri Chinchwad.\
-  [202603271844367529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271844367529.pdf)
+- Regarding the extension of the tenure of 24 temporary posts on the establishment of the Motor Accident Claims Tribunal, Nagpur.\
+  [202603301531315229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301531315229.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,57 +1,30 @@
 # Minorities Development Department
 
-**Date Range**: 30 March 2026 - 04 April 2026
+**Date Range**: 06 April 2026 - 11 April 2026
 
 
 ## Funds
-- Regarding the disbursement of grants for the financial year 2025-26 under the Marathi Language Foundation Classes Scheme and the Competitive Examination Training Scheme.\
-  [202603241545334414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241545334414.pdf)
+- Introduction of a second/third shift in existing Industrial Training Institutes (ITIs) located in minority-dominated areas of the State  Allocation of funds for the year 2025-26.\
+  [202603301819260714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301819260714.pdf)
 
-- Regarding the Direct Deposit of Food Allowances for Minority Students in Hostels into Aadhaar-Linked Accounts Disbursement of Funds for the Year 2024-25\
-  [202603241701038114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603241701038114.pdf)
+- Regarding the allocation of funds for the renovation of the offices of the Maharashtra State Urdu Sahitya Academy and the Maharashtra State Punjabi Sahitya Academy.\
+  [202603301602123614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301602123614.pdf)
 
-- Regarding grant realse in the year 2025-26 for the development plan of Shri Kshetra Namoakara Tirth Malasane, Chandwad Taluka, Nashik\
-  [202603251651412714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603251651412714.pdf)
+- Regarding the approval for the payment of pending bills for vehicles hired on a rental basis for the office of the Commissionerate of Minorities, Chhatrapati Sambhajinagar.\
+  [202603301821404014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301821404014.pdf)
 
-- Regarding the disbursement of grants (comprising Central and State shares) for the construction of a total of two hospitalsnamely, the Sub-District Hospital, Akot (District Akola) and the District Hospital, Akolaunder the Centrally Sponsored Pradhan Mantri Jan Vikas Karyakram.\
-  [202603271325303414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271325303414.pdf)
+- Regarding the disbursement of grants to training institutions implementing training programs during the financial year 2025-26, under the Residential Pre-Police Recruitment Training Scheme.\
+  [202603301855391814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301855391814.pdf)
 
-- Regarding the allocation of funds for consultants honorarium and travel expenses under e-Governance for the year 2025-26.\
-  [202603271515060414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271515060414.pdf)
-
-- Regarding the disbursement of Central and State share funds to the District Collector, Amravati, for the construction of a new 200-bed hospital at Achalpur (District Amravati), under the Centrally Sponsored Pradhan Mantri Jan Vikas Karyakram (PMJVK).\
-  [202603271321159314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271321159314.pdf)
-
-- Regarding the disbursement of the Central Share and matching State Sharesanctioned by the Central Government through a Mother Sanctionfor the implementation of the Centrally Sponsored Scheme, Pradhan Mantri Jan Vikas Karyakram (PMJVK), utilizing the SNA-SPARSH fund disbursement mechanism.\
-  [202603271327065314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271327065314.pdf)
-
-- Regarding the disbursement of grant funds to National Informatics Centre Services Incorporated (NICSI) for the Case Information Management System of the Maharashtra State Waqf Tribunal.\
-  [202603271634428614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271634428614.pdf)
-
-- Regarding disbursement of funds for loan interest repayment schemes of Jain Minority Economic Development Corporation for the financial year 2025-26\
-  [202603271858524214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271858524214.pdf)
-
-- Regarding distribution to Jain Minority Economic Development Corporation for the financial year 2025-26\
-  [202603271901011814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271901011814.pdf)
-
-- Maulana Azad Minorities Financial Development Corporation Limited, Mumbai: Regarding the Disbursement of Share Capital Contribution for the Year 2025-26.Maulana Azad Minorities Financial Development Corporation Limited, Mumbai: Regarding the Disbursement of Share Capital Contribution for the Year 2025-26.\
-  [202603281338246814.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281338246814.pdf)
-
-- Regarding the distribution of grants in the year 202526 for the construction of an Urdu Ghar in Sillod, District Chhatrapati Sambhajinagar.\
-  [202603281237413314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603281237413314.pdf)
+- Regarding the disbursement of grants for the office expenditure of the Maharashtra State Minorities Commission, Mumbai, for the financial year 2025-26.\
+  [202603301854010914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301854010914.pdf)
 
 ## Miscellaneous
-- Regarding the appointment to the post of Secretary at the office of the Maharashtra State Minorities Commission, Mumbai, on deputation for a period of three years.\
-  [202603231809062214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231809062214.pdf)
+- Reappropriation of Budgetary Provisions for the Financial Year 2025-26: Demand No. ZE-01, Major Head 2053 1258, Secretariat, General Services (Mandatory)\
+  [202603301816117914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301816117914.pdf)
 
-- Introduction of a second/third shift in existing Industrial Training Institutes located in minority-dominated areas of the State... Allocation of funds for the year 2025-26.\
-  [202603231321532914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603231321532914.pdf)
-
-- Regarding disbursement of funds for salary and non-salary expenses to the Jain Minority Economic Development Corporation for the financial year 2025-26\
-  [202603271902413514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271902413514.pdf)
-
-- Regarding the distribution of funds in the financial year 2025-26 for the   for Malegaon Urdu Ghar\
-  [202603271632283914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603271632283914....pdf)
+- Regarding disbursement of funds for administrative expenses under scholarship schemes for minority students of the state pursuing higher vocational and post-XII courses.\
+  [202603301958221714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301958221714.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
