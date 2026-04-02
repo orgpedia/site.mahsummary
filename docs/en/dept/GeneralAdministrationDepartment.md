@@ -55,6 +55,39 @@
 - Regarding the disbursement of funds from the sanctioned grant under the Detailed Head 31-Grants-in-Aid (Non-Salary)specifically for the year 2025-26, under the Major Head 2052-Secretariat-General Services (090), Secretariat (00) (11) Grants-in-Aid to SETU Maharashtra Society for implementing E-Governance Projects (20520582) (Programme)for the purpose of providing grants-in-aid to SETU Maharashtra Society.\
   [202603302112196207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302112196207.pdf)
 
+- Regarding the disbursement of funds for the year 2025-26 from the sanctioned grant under the Detailed Head 31- Grants-in-aid (Non-salary)specifically under the Program Head (20520582) Grants-in-aid to SETU Maharashtra Society for implementing E-Governance Projects (2052-Secretariat General Services (090), Secretariat (00) (11))under the Major Head of Account 2052. (India AI Impact)\
+  [202603311202455307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311202455307.pdf)
+
+- Financial assistance is providedunder the Maharashtra Gaurav Award Schemeto soldiers who have laid down their lives or sustained disabilities during wartime, in war-like situations, during internal security operations across all sectors of the country, in combat engagements, or during missions abroad.\
+  [202603311907145207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311907145207.pdf)
+
+- Regarding the disbursement of funds from the sanctioned grant under the Detailed Head 17-Computer Expenses (Programme: 2052 0482)  falling under Major Head 2052: Secretariat  General Services (00) (10) Directorate of Information Technology  for the year 2025-26.\
+  [202603311703062807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311703062807.pdf)
+
+- Regarding the disbursement of funds from the sanctioned grant under the Detailed Head 31  Grants-in-aid (Non-Salary) (20520582) (Programme)specifically for providing Grants-in-aid to the Setu Maharashtra organization for the implementation of the E-Governance Projectunder the Major Head 2052  Secretariat  General Services (090), Secretariat (00) (11) for the year 2025-26.\
+  [202603311200442807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311200442807.pdf)
+
+- Regarding the disbursement of funds from the sanctioned grant under the Detailed Head 17-Computer Expenses (Programme: 2052 0482)  falling under Major Head 2052: Secretariat  General Services (00) (10) Directorate of Information Technology  for the year 2025-26.\
+  [202603312116283107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312116283107.pdf)
+
+- Regarding the provision of funds through re-allocation for the distribution of Outstanding Journalism Awards for the years 20192023, and for the organization of the said awards ceremony.\
+  [202603311242464207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311242464207.pdf)
+
+- Demand No. A-5 (Charged/Voted) Re-appropriation of provisions under Major Head 2235  Social Security and Welfare for the year 2025-26.\
+  [202603311157277107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311157277107.pdf)
+
+- Regarding the distribution of funds from the sanctioned grant under the Detailed Head 17Computer Expenses (2052 0473), falling under the Major Head 2052Secretariat: General Services (00) (09) Directorate of Information Technology (Mandatory), for the year 2025-26.\
+  [202603311658410607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311658410607.pdf)
+
+- Regarding the distribution of funds from the sanctioned grant under the Detailed Head 17Computer Expenses, falling under Major Head 2052Secretariat: General Services (00) (16)Provision for Implementation of E-Governance Projects (Programme) (2052 5072), for the year 2025-26.\
+  [202603311526527307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311526527307.pdf)
+
+- Demand No. A-4 (Compulsory/Voted) Re-appropriation of provisions under Major Heads 2052, Secretariat  General Services and 2059, Public Works for the year 2025-26.\
+  [202603311155263807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311155263807.pdf)
+
+- Regarding the disbursement of funds from the sanctioned grant under the Detailed Head 31-Grants-in-Aid (Non-Salary)specifically for the year 2025-26, under the Major Head 2052-Secretariat-General Services (090), Secretariat (00) (11) Grants-in-Aid to SETU Maharashtra Society for implementing E-Governance Projects (20520582) (Programme)for the purpose of providing grants-in-aid to SETU Maharashtra Society.\
+  [202603312114183407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312114183407.pdf)
+
 ## Miscellaneous
 - Regarding the provision of Viability Gap Funding for air travel between Chipi and Mumbai.\
   [202603301422541207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301422541207.pdf)
@@ -76,6 +109,12 @@
 
 - Integrated Probationary Training Program Regarding the distribution of grants to the training institutes YASHADA, Pune, and VANAMATI, Nagpur, through re-appropriation for the Financial Year 2025-26.\
   [202603301748148607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301748148607.pdf)
+
+- Regarding the extension of the tenure of technical manpower provided by the Maharashtra Information Technology Corporation.\
+  [202603311706344207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311706344207.pdf)
+
+- Under the Maharashtra Gaurav Award Scheme, a one-time cash grant is awarded to holders of gallantry and service medals in the Indian Armed Forces who are domiciled in the State of Maharashtra; the scheme also provides financial assistance to the widows or dependents of posthumous gallantry medal recipients.\
+  [202603311903072707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311903072707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

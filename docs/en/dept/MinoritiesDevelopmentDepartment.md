@@ -19,12 +19,36 @@
 - Regarding the disbursement of grants for the office expenditure of the Maharashtra State Minorities Commission, Mumbai, for the financial year 2025-26.\
   [202603301854010914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301854010914.pdf)
 
+- Distribution of funds to Madrasas for the year 202526 under the Dr. Zakir Hussain Madrasa Modernization Scheme.\
+  [202603311656086314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311656086314.pdf)
+
+- Regarding disbursement of funds in the financial year 2025-26 for selected students under the Departments Foreign Scholarship Scheme\
+  [202603311617343514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311617343514.pdf)
+
+- Regarding the disbursement of funds to the Maharashtra State Minorities Commission for the scheme pertaining to Research, Training, and Publicity of Schemes, for the financial year 2025-26.\
+  [202603311725529214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311725529214.pdf)
+
+- Regarding distribution of funds to the Maharashtra State Hajj Committee for the financial year 2025-26.\
+  [202603311617295314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311617295314.pdf)
+
+- Regarding the disbursement of funds to the Maharashtra State Minorities Commission for the scheme pertaining to Research, Training, and Publicity of Schemes, for the financial year 2025-26.\
+  [202603311727587014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311727587014.pdf)
+
+- Introduction of a second/third shift in existing Industrial Training Institutes located in minority-dominated areas of the State... Allocation of funds for the year 2025-26.\
+  [202603311723083214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311723083214.pdf)
+
+- Regarding the disbursement of grants to training institutions implementing training programs during the financial year 2025-26, under the Residential Pre-Police Recruitment Training Scheme.\
+  [202603311111100314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311111100314.pdf)
+
 ## Miscellaneous
 - Reappropriation of Budgetary Provisions for the Financial Year 2025-26: Demand No. ZE-01, Major Head 2053 1258, Secretariat, General Services (Mandatory)\
   [202603301816117914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301816117914.pdf)
 
 - Regarding disbursement of funds for administrative expenses under scholarship schemes for minority students of the state pursuing higher vocational and post-XII courses.\
   [202603301958221714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301958221714.pdf)
+
+- Re-appropriation of Budgetary Provisions for the Financial Year 2025-26: Demand No. ZE-01, Major Head 2235  Grant-in-Aid for Overseas Scholarships to Minority Students Pursuing Post-graduate Degrees and PhDs Abroad (Programme) (2235D613)\
+  [202603312203219414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312203219414.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

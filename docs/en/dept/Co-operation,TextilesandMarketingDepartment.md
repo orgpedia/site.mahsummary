@@ -73,6 +73,48 @@
 - Regarding the distribution of funds to Prasar Bharati, New Delhi, to provide the State Governments payable share towards the production and broadcasting costs of Karghaa series on the traditional textile industry of Maharashtra State.\
   [202603302139140802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302139140802.pdf)
 
+- Regarding the provision of Government Share Capital to the Maharashtra State Handloom Cooperative Federation Ltd. (Mahatex), Mumbai.\
+  [202603311114100602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311114100602.pdf)
+
+- Regarding the approval for the distribution and utilization of funds for beneficiaries belonging to the Scheduled Castes (S.C.) category under the Centrally Sponsored Scheme (Central Sector Scheme) Silk Samagra-2 (ISDSI).\
+  [202603311713055202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311713055202.pdf)
+
+- Regarding the approval for the distribution and utilization of funds for beneficiaries belonging to the General Category under the Centrally Sponsored Scheme (Central Sector Scheme) Silk Samagra-2 (ISDSI).\
+  [202603311711231102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311711231102.pdf)
+
+- Regarding the Sanction of Government Share Capital to Cooperative Spinning Mills  Punyashlok Ahilyadevi Holkar Cooperative Spinning Mill Ltd., Choundi, Taluka Jamkhed, District Ahilyanagar.\
+  [202603312145555102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312145555102.pdf)
+
+- Redistribution of Provisions for Staffing (Mandatory) (24250111) for Cooperative Courts for the Year 2025-26.\
+  [202603311519596802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311519596802.pdf)
+
+- Demand No. V-2 (Programme): Reappropriation of Provisions under Major Head 2851  Village and Small Industries  for the Year 2025-26.\
+  [202603311107270302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311107270302.pdf)
+
+- Regarding the Distribution of Funds Received for the Year 2025-26 Chhatrapati Shivaji Maharaj Farmers Honour Scheme, 2017\
+  [202603311759071102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311759071102.pdf)
+
+- Regarding the provision of funds for the capacity enhancement of the Silk Egg Cluster Production Centre located at Gadhinglaj, District Kolhapur, under the Integrated and Sustainable Textile Policy 2023-28.\
+  [202603311715515602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311715515602.pdf)
+
+- Regarding the sanctioning of financial assistance to Shri Ganesh Integrated Textile Park Pvt. Ltd., Degav, Taluka Shindkheda, District Dhule, under the Centrally Sponsored Scheme for Integrated Textile Parks (SITP).\
+  [202603311111072402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311111072402.pdf)
+
+- Regarding the provision of funds for the payment of pending dues to the Maharashtra State Handloom Cooperative Federation Ltd., Mumbai.\
+  [202603311112437502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311112437502.pdf)
+
+- Regarding the disbursement of capital subsidies to textile unitsin lieu of interest subsidiesunder the Textile Policy.\
+  [202603311804227202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311804227202.pdf)
+
+- Regarding the disbursement of funds for expenditure incurred in connection with the MahaReshim Abhiyan-2026\
+  [202603311714251402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311714251402.pdf)
+
+- Regarding the approval for the distribution and utilization of funds for beneficiaries belonging to the Scheduled Tribes (S.T.) category under the Centrally Sponsored Scheme (Central Sector Scheme) Silk Samagra-2 (ISDSI).\
+  [202603311709535702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311709535702.pdf)
+
+- Regarding the sanctioning of financial assistance to the textile park of Dishan Infrastructure Pvt. Ltd., Dahiwade, Taluka Shirpur, District Dhule, under the Centrally Sponsored Scheme for Integrated Textile Parks (SITP).\
+  [202603311620431902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311620431902.pdf)
+
 ## Miscellaneous
 - Regarding the Postponement of Elections for Cooperative Societies in Ahilyanagar and Pune Districts, in light of the Legislative Assembly By-elections in the State of Maharashtra.\
   [202603301637497802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301637497802.pdf)
@@ -82,6 +124,12 @@
 
 - Regarding the grant of administrative approval for the purchase of one vehicle for the office of the Maharashtra State Cooperative Appellate Court, Mumbai.\
   [202603301558112702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301558112702.pdf)
+
+- Regarding the disbursement of interest subsidy to textile units under the Textile Policy, 20112017.\
+  [202603311258435702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311258435702.pdf)
+
+- Regarding the disbursement of capital subsidies to textile unitsin lieu of interest subsidiesunder the Textile Policy.\
+  [202603311257555102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311257555102.pdf)
 
 ## Personnel
 - Regarding the continuation of 32 temporary posts of Classes 2, 3, and 4 at the Nagpur and Pune Benches of the Maharashtra State Cooperative Appellate Court, Mumbai, for the period from March 1, 2026, to August 31, 2026.\

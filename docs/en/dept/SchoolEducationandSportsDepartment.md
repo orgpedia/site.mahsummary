@@ -37,6 +37,51 @@
 - Regarding the disbursement of funds to the Maharashtra State Lawn Tennis Association for organizing the Billie Jean King (Fed Cup) International Tennis Tournament 2025. (2204 1943)\
   [202603301841454121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301841454121.pdf)
 
+- Regarding the disbursement of grants under the scheme for providing financial assistance for the creation of sports facilities for the financial year 2025-26.\
+  [202603311422492521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311422492521.pdf)
+
+- Regarding the grant of administrative approval and the disbursement of funds for the tournament organized on behalf of the Association of Tennis Professionals (ATP) / Womens Tennis Association (WTA).\
+  [202603311504510521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311504510521.pdf)
+
+- Regarding distribution of funds to local government schools in the state under Bharat Ratna Dr. Babasaheb Ambedkar Adarsh School Scheme\
+  [202603312011512021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312011512021.pdf)
+
+- Regarding the distribution of the States share of funds for the honorarium of part-time instructors in Upper Primary Schools under Local Self-Government Bodies.\
+  [202603311923279821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311923279821.pdf)
+
+- Regarding the sanction and disbursement of funds for organizing Youth Festivals at the District, Divisional, and State levels. (2204 -5582-31)\
+  [202603311654221221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311654221221.pdf)
+
+- Regarding the payment of technical training fees for probationary officers to Vanamati, Nagpur, under the Integrated Probationary Training Programs 9 and 10.\
+  [202603311551081921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311551081921.pdf)
+
+- Regarding the Sanction and Disbursement of Funds amounting to Rs. 10.00 Crore for the Taluka Sports Complex, Indapur, Dist. Pune. (2204-1792)\
+  [202603311413473121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311413473121.pdf)
+
+- Regarding the disbursement of funds under the Rajiv Gandhi Student Accident Ex-gratia Grant Scheme.\
+  [202603311348247821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311348247821.pdf)
+
+- Regarding the disbursement of funds for the State Youth Development Fund grant.\
+  [202603311329520121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311329520121....pdf)
+
+- Regarding the approval for the disbursement of funds for the construction of the NCC Academy at Mauje Padegaon, Taluka and District Chhatrapati Sambhajinagar.\
+  [202603311239146221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311239146221.pdf)
+
+- Regarding the grant of administrative approval and the disbursement of funds for works undertaken under the scheme Development of Wrestling Training Centers.\
+  [202603311438095121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311438095121.pdf)
+
+- Regarding the Distribution of Funds for the District Sports Complex, Beed (2204-1827).\
+  [202603311415171621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311415171621.pdf)
+
+- Regarding the disbursement of a grant of Rs. 5,026.00 Lakhs for Taluka Sports Complexes for the Financial Year 2025-26. (2204-1792)\
+  [202603311738415421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311738415421.pdf)
+
+- Regarding the Distribution of Grants to Divisional and District Sports Complexes for the Financial Year 2025-26  Head of Account (2204-1827)\
+  [202603311809324421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311809324421.pdf)
+
+- Contribution to the State Sports Development Fund: Regarding the Distribution of Funds (2204 2082)\
+  [202603311807142021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311807142021.pdf)
+
 ## Miscellaneous
 - Regarding the Service Review of Officers working as Deputy Directors of Education (Group-A) within the Maharashtra Education Service (Administration Branch), to be conducted upon completion of 50/55 years of age or 30 years of qualifying service.\
   [202603301758043521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301758043521.pdf)
@@ -59,6 +104,12 @@
 - Regarding the allocation of funds amounting to Rs. 5,000.00 Lakhs to cover the expenditure for the renovation works of various sports facilities at the Shiv Chhatrapati Sports Complex, Mahalunge-Balewadi, Pune  Head of Account (2204-1702).\
   [202603301703227621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301703227621.....pdf)
 
+- Regarding the provision of funds for the disbursement of outstanding salaries, the installment of arrears payable under the 7th Pay Commission, and medical bills for the academic year 2024-25, to the teaching and non-teaching staff of the Krida Maharshi Prof. D.B. Deodhar Sports Academy School.\
+  [202603311503196421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311503196421.pdf)
+
+- Regarding the disbursement of the fourth installment of funds under the General Component of the Centrally Sponsored Samagra Shiksha Scheme (Elementary Education, Secondary Education, and Teacher Education)  State Share.\
+  [202603311925378621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311925378621.pdf)
+
 ## Personnel
 - Regarding the payment of salaries to Special Teachers under the Inclusive Education for the Disabled Scheme (Secondary Level).\
   [202603301605082721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301605082721.pdf)
@@ -74,6 +125,30 @@
 
 - Regarding the establishment of a Standard Operating Procedure (SOP) for teacher recruitment through the Pavitra Portal, in accordance with the directives of the Honble High Court.\
   [202603301958352721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301958352721.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603301900595621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301900595621.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603301901021221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301901021221.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603302222049921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302222049921.pdf)
+
+- Regarding the payment of salaries to Special Teachers under the Inclusive Education for the Disabled Scheme (Secondary Level).\
+  [202603311927566921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311927566921.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603311446523521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311446523521.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603311844347121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311844347121.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603311446546021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311446546021.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603311447089321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311447089321.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -67,6 +67,69 @@
 - Regarding the Granting of Administrative Approval for Civic Amenity Works in Villages Resettled Due to Floods in the Deglur and Biloli Talukas of Nanded District.\
   [202603301743517119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301743517119.pdf)
 
+- Regarding the distribution of funds for civic amenity works in villages within the Biloli Taluka of Nanded District that were rehabilitated following heavy rainfall and floods.\
+  [202603311322344919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311322344919.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages located in Naigaon Taluka, Nanded District, that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603311331134819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311331134819.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages located in Naigaon Taluka, Nanded District, that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603311325526919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311325526919.pdf)
+
+- Regarding the allocation of funds under the Head of Account 4406 0492  Concrete Afforestation Programme at the Community Level  for the financial year 2025-26.\
+  [202603312057348919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312057348919.pdf)
+
+- Regarding the distribution of funds under the Head of Account 4406 0797 for the scheme Construction of Farm Ponds / Cement Bandharas for the financial year 2025-26.\
+  [202603311911324619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311911324619.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of Deglur Taluka, Nanded District, that were rehabilitated following disruption caused by heavy rainfall and floods.\
+  [202603311321142219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311321142219.pdf)
+
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2025-26 (2406 8669).\
+  [202603311420297419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311420297419.pdf)
+
+- Regarding the distribution of funds in accordance with the provisions of the Centrally Sponsored Scheme for the Rehabilitation of Bonded Labourers, 2021.\
+  [202603311334426519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311334426519.pdf)
+
+- Regarding the approval for the distribution of funds to the Nagpur Municipal Corporation to cover the expenditure incurred in restoring basic infrastructure damaged due to heavy rainfall in Nagpur city on September 22, 2023.\
+  [202603311426599719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311426599719.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of Mudkhed Taluka, Nanded District, that were affected by heavy rainfall/floods and subsequently rehabilitated.\
+  [202603311315353319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311315353319.pdf)
+
+- State Plan 2025-26 Proposal for Continuing Items under the Establishment of the Maharashtra State Zoo Authority (2406 A087)\
+  [202603311811586319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311811586319.pdf)
+
+- Regarding the provision of funds for the reimbursement of data card usage charges for Village Revenue Officers (Talathis) and Circle Officers for the period from April 2025 to March 2026.\
+  [202603311432015319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311432015319.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages of Deglur Taluka, Nanded District, that were rehabilitated following disruption caused by heavy rainfall and floods.\
+  [202603311316528519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311316528519.pdf)
+
+- Regarding the Grant of Administrative Approval for Civic Amenity Works in Villages Resettled Due to Floods in Chiplun Taluka, Ratnagiri District.\
+  [202603311318410119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311318410119.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages within the Narkhed Taluka of Nagpur District that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603311329502819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311329502819.pdf)
+
+- Regarding the disbursement of pending funds for works undertaken during the years 2020-21 and 2022-23, under the Head of Account 4406 0492  Concrete Afforestation Programme at the Community Level  for the financial year 2025-26.\
+  [202603312105355519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312105355519.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages located in Naigaon Taluka, Nanded District, that were rehabilitated following disruption caused by excessive rainfall and floods.\
+  [202603311324046719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311324046719.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages within Amravati District that were affected by heavy rainfall/floods and subsequently rehabilitated.\
+  [202603311328376119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311328376119.pdf)
+
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2025-26 (2406 8669).\
+  [202603311422220419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311422220419.pdf)
+
+- Regarding the distribution of funds under Head of Account 24068589 for the Promotion, Publicity, and Training Scheme for the financial year 2025-26.\
+  [202603312100163719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312100163719.pdf)
+
+- Regarding the distribution of funds for civic amenity works in villages located in the Biloli Taluka of Nanded District that were affected by heavy rainfall/floods and subsequently rehabilitated.\
+  [202603311320015019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311320015019.pdf)
+
 ## Miscellaneous
 - State Plan 2025-26 Disbursement of funds for the construction of a protective wall at Sanjay Gandhi National Park (4406 3849).\
   [202603302119562819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302119562819.pdf)
@@ -97,6 +160,12 @@
 
 - State Plan 2025-26 Proposal for Continuing Items under Nature Conservation and Wildlife Management (Programme) (2406 0775)\
   [202603302123055319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302123055319.pdf)
+
+- Regarding the disbursement of funds for the payment of pensions to the heirs of persons who lost their lives in the 1984 riots, for the financial year 2025-26.\
+  [202603311429180319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311429180319.pdf)
+
+- Regarding the provision of funds for water supply scheme works in Mauje Dhakephala rehabilitated village site in Paithan Taluka, Chhatrapati Sambhajinagar Districtunder Phase I of the Jayakwadi Project.\
+  [202603311336598719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311336598719.pdf)
 
 ## Personnel
 - Regarding the extension of temporary posts within the Land Acquisition Establishment of the Amravati Division for the period from March 1, 2026, to August 31, 2026.\

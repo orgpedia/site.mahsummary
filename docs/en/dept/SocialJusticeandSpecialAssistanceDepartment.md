@@ -61,6 +61,36 @@
 - Regarding the disbursement of financial assistance to Vishwa Ajinkya Backward Class Industrial Cooperative Society Ltd., Manedeulgaon, Taluka Badnapur, District Jalna, under the scheme for providing financial assistance to Scheduled Caste cooperative societies...\
   [202603302147070022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302147070022.pdf)
 
+- Disbursement of Grants for Centrally Sponsored Schemes via the PFMS System.\
+  [202603311610080922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311610080922.pdf)
+
+- Regarding the grant of approvalunder the scheme for constructing memorials for eminent personalities belonging to Scheduled Castes and Neo-Buddhists, developing sites of cultural and historical significance for Scheduled Castes, and providing grants to Non-Governmental Organizations (NGOs) for projects aimed at fostering development based on the cultural and ethical values of Scheduled Castesfor the construction of a Vipassana Center and Library at Mouja Kelzar, Taluka Selu, District Wardha, by the Dhamma Global Foundation, Nagpur.\
+  [202603311414183122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311414183122.pdf)
+
+- Regarding the grant of administrative approval for the purchase of a property constructed by the Nagpur Improvement Trustcomprising a total of 396 units (252 units of 2 BHK and 144 units of 1 BHK) located at Mouza Wathoda, Khasra No. 54, City Survey No. 173, Sheshnagar, Nagpurat a cost of Rs. 143.41 Crores, for the purpose of establishing a hostel under the Department of Social Justice.\
+  [202603311547555322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311547555322.pdf)
+
+- Regarding the distribution of funds to the Mahatma Phule Backward Class Development Corporation Ltd., Mumbai, under the Head of Account (2225G252) 31  Grants-in-Aid (Non-Salary).\
+  [202603312035305022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312035305022.pdf)
+
+- Regarding the provision of funds for the Scheduled Castes category under the National Natural Farming Mission through re-allocation from the budgetary provisions for the year 2025-26.\
+  [202603311334229022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311334229022.pdf)
+
+- Regarding the distribution of funds to the Gopinath Munde Sugarcane Cutters Welfare Corporation under the Head of Account 42350378 (Capital Outlay) for the financial year 2025-26.\
+  [202603312032196922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312032196922.pdf)
+
+- Regarding the grant of approval for the construction of the Yashkamal Vipassana Center and Research Center by the Jai Maharudra Sevabhavi Sanstha, Chhatrapati Sambhajinagar at Gat No. 114, Mouje Babhulgaon Tarate, Taluka Phulambri, District Chhatrapati Sambhajinagarpursuant to the scheme aimed at constructing memorials for eminent personalities belonging to Scheduled Castes and Neo-Buddhists, developing sites of cultural and historical significance for Scheduled Castes, and sanctioning grants to Non-Governmental Organizations (NGOs) for projects fostering development based on the cultural and moral values of the Scheduled Castes.\
+  [202603311416446822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311416446822....pdf)
+
+- Regarding the disbursement of funds to the Mahatma Phule Backward Class Development Corporation under the Head of Account (4225 0031)  Share Capital Grant (54) / Investments.\
+  [202603312033098122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312033098122.pdf)
+
+- Regarding the sanctioning of financial assistance under the scheme for providing financial aid to Scheduled Caste Cooperative Societies. Gautam Buddha Backward Class Industrial Producers Cooperative Society Ltd., Kankura, Taluka  District: Chhatrapati Sambhajinagar.\
+  [202603311701461922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311701461922.pdf)
+
+- Regarding the sanctioning of financial assistance under the scheme for providing financial aid to Scheduled Caste cooperative societies. Mahatma Jyotiba Phule Backward Classes Industrial Cooperative Society Ltd., Yelambghat, Taluka  District Beed.\
+  [202603311344102622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311344102622.pdf)
+
 ## Miscellaneous
 - Regarding the release of funds for the additional State Share (100) for the Centrally Sponsored Pradhan Mantri Poshan Shakti Nirman Yojana for the Financial Year 2025-26. Head of Account: 2202 L 057\
   [202603301719066022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301719066022.pdf)
