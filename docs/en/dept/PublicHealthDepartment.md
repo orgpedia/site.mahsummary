@@ -73,6 +73,18 @@
 - Regarding the transfer of funds through re-appropriation from Account Head 2210J994 under Item 11- Travelling Allowance and Daily Allowance, 17- Computer Expenses to Account Head 22100217 21, Supplies and Materials for the purchase of psychiatric medicines, linen and other items for the Regional Psychiatric Hospital in the financial year 2025-26.\
   [202603301058360117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301058360117.pdf)
 
+- Regarding the allocation of funds amounting to Rs. 9,96,55,000/- towards administrative expenditure under the Head of Account 22101044  Health Publicity Centers  26  Advertising and Publicity, for the promotion and publicity of various welfare schemes implemented by the Public Health Department.\
+  [202603311603255017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311603255017.pdf)
+
+- Regarding the approval for the allocation and expenditure of funds amounting to Rs. 10,28,43,000/distributed through the Budgetary Expenditure and Accounting Management System (BEAMS)for the procurement of medicines, laboratory supplies, and other items under the National Leprosy Eradication Programme and the Tuberculosis Elimination and Control Programme during the financial year 2025-26.\
+  [202603311603300817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311603300817.pdf)
+
+- Regarding the authorization to incur expenditureby disbursing funds                                    sanctioned as a New Item amounting to Rs. 4.30 Lakhs through a                                    Supplementary Demand for the financial year 2025-26under the                                     objectives of the newly created Head of Account 22111521; specifically                                    for the implementation of the Surrogacy (Regulation) Act, 2021, and the                                  Assisted Reproductive Technology Act, 2021, as well as for meeting the                                  expenses of the constituted Committee and for providing grants to                                  institutions through the registration process. (Corrigendum)\
+  [202604011307481617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011307481617.pdf)
+
+- Regarding the redistribution of Rs. 52.27 lakh grant under Account Head 22100291 Chapter-27-Small Constructions for the payment of pending electricity bills of the Regional Psychiatric Hospital for the financial year 2025-26 under the same Account Head 06-Telephone, Electricity and Water.\
+  [202603311338055617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311338055617.pdf)
+
 ## Miscellaneous
 - Regarding the declaration of Drawing and Disbursement Officer and Controlling Officer for passing the payments of training expenses of various cadres to be organized through all Health and Family Welfare Training Centers under the Health Services Commissionerate.\
   [202603301254347917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301254347917.pdf)

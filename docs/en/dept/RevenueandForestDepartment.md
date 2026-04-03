@@ -130,6 +130,9 @@
 - Regarding the distribution of funds for civic amenity works in villages located in the Biloli Taluka of Nanded District that were affected by heavy rainfall/floods and subsequently rehabilitated.\
   [202603311320015019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311320015019.pdf)
 
+- Regarding the Granting of Administrative Approval for Civic Amenity Works in Villages Resettled Due to Floods in the Biloli and Deglur Talukas of Nanded District.\
+  [202604011539365219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011539365219.pdf)
+
 ## Miscellaneous
 - State Plan 2025-26 Disbursement of funds for the construction of a protective wall at Sanjay Gandhi National Park (4406 3849).\
   [202603302119562819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302119562819.pdf)
@@ -167,6 +170,9 @@
 - Regarding the provision of funds for water supply scheme works in Mauje Dhakephala rehabilitated village site in Paithan Taluka, Chhatrapati Sambhajinagar Districtunder Phase I of the Jayakwadi Project.\
   [202603311336598719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311336598719.pdf)
 
+- Forest Land-Palghar Diversion of revised area 0.14025 ha. (original area 0.18 ha.) Protected land in favour of Nehalkumar Hasmukhrai Gandhi for  construction of Access / approach road to Logistic Park, With Ware House Project including underground Water pipeline, Electricity cable  other ancillary activities at Village Kharivali tarf Paulbar, Tal. Wada, Dist. Palghar, in the State of Maharashtra\
+  [202604011835201019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011835201019.pdf)
+
 ## Personnel
 - Regarding the extension of temporary posts within the Land Acquisition Establishment of the Amravati Division for the period from March 1, 2026, to August 31, 2026.\
   [202603301543404619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301543404619.pdf)
@@ -188,6 +194,27 @@
 
 - Regarding the posting of officers belonging to the Deputy Collector cadre by way of transfer.\
   [202603301642228619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301642228619.pdf)
+
+- Rehabilitation Establishment  Konkan Division Regarding the extension of the tenure of sanctioned temporary posts in the Konkan Divisioncreated for the rehabilitation of project-displaced personsfor the period from March 1, 2026, to August 31, 2026.\
+  [202604011539530319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011539530319.pdf)
+
+- Reinstatement and Posting in Government Service Mr. Vasant Madhukar Sonawane, Deputy Superintendent of Land Records.\
+  [202604011720347819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011720347819.pdf)
+
+- Continuation of Posts.\
+  [202604011840520419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011840520419.pdf)
+
+- Establishment  Nashik Division Regarding the extension of the tenure of a total of 1,283 temporary posts for the period from 01/03/2026 to 31/08/2026.\
+  [202604011226260619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011226260619.pdf)
+
+- Continuation of 1534 Temporary Post of Nagpur  Division from 01/09/2025  to 28/02/2026.\
+  [202604011231518919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011231518919.pdf)
+
+- Regarding extension of tenure of 2 temporary posts in the cell created to send proposals for conversion of forest land to non-forest use for prior approval of the Central Government.\
+  [202604011837161019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011837161019.pdf)
+
+- Continuation of 722 Temporary Post of All Division from 01/03/2026  to 31/08/2026.\
+  [202604011229420419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011229420419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

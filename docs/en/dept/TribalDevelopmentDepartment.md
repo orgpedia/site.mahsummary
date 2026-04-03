@@ -28,6 +28,33 @@
 - Regarding the determination of housing targets for urban areas under the Shabari Tribal Housing Scheme for the financial year 2025-26.\
   [202603311440541024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311440541024.pdf)
 
+- Regarding the Distribution of Funds for this Scheme under the Maharashtra Golden Jubilee Urban Renewal Mega-Mission, within the framework of the Tribal Sub-Plan, for the Year 2025-26 (Head of Account 2217A065)\
+  [202603311054042024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311054042024.pdf)
+
+- Distribution of Funds for the Training Extension Scheme for Artisans and Supervisors at Industrial Training Institutes under the Tribal Sub-Plan Component for the Financial Year 2025-26\
+  [202603311850579724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311850579724.pdf)
+
+- Regarding the distribution of funds to the Commissionerate of Tribal Development under the Tribal Sub-Plan, within the scope of program expenditure for the financial year 2025-26. (Head of Account: 24251359)\
+  [202603311053537924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311053537924.pdf)
+
+- Regarding the allocation of funds through re-appropriation for the Pandit Deendayal Upadhyay Swayam Yojana for the financial year 2025-26, under the Tribal Sub-Plan. Head of Account (2225E 024)\
+  [202603311054092824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311054092824.pdf)
+
+- Regarding the distribution of funds for the Chief Ministers Employment Generation Program in the financial year 2025-26 under the Tribal Component Program. (Account Head 28516654)\
+  [202603311053486124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311053486124.pdf)
+
+- Regarding the allocation of funds through re-appropriation for the Pandit Deendayal Upadhyay Swayam Yojana for the financial year 2025-26, under the Tribal Sub-Plan. Head of Account (2225E 024)\
+  [202603311054248524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311054248524.pdf)
+
+- Regarding the distribution of funds through re-appropriation from Demand Nos. T-02 and T-04 for schemes involving obligatory expenditure, under the Tribal Sub-Plan, for the financial year 2025-26.\
+  [202603311054197624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311054197624.pdf)
+
+- Regarding the distribution of funds for the Financial Year 2025-26 towards the New Defined Contributory Pension Scheme for teaching and non-teaching staff of government-aided Ashram Schools, under the Tribal Sub-Plan. (Head of Account: 2225 D396) (Objective No. 32  Contributions)\
+  [202603311053590724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311053590724.pdf)
+
+- Regarding the distribution of unallocated funds for scheme-related program expendituredrawn from Demand No. T-05 (Revenue Expenditure)for the financial year 2025-26 under the Tribal Sub-Plan, as well as the distribution of funds through re-appropriation.\
+  [202603311054140624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311054140624.pdf)
+
 ## Miscellaneous
 - Distribution of funds under the District and Other Roads (State-Level Scheme) (Head of Account 5054 5117) scheme for the year 2025-26, under the Tribal Sub-Plan.\
   [202603311525435624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311525435624.pdf)

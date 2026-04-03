@@ -31,6 +31,15 @@
 - Regarding the disbursement of funds for the construction of Phase II of the Maharshi Karve Womens Empowerment Knowledge Complex at Visapur, Taluka Ballarpur, District Chandrapur, under S.N.D.T. Womens University...\
   [202603311937375808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311937375808.pdf)
 
+- Regarding the allocation of funds for the renovation of the Department of Linguistics, the Auditorium Hall (Building No. 1), the Boys and Girls Hostels, the Faculty Hostel, and the Guest House buildings at the Deccan College Post-Graduate and Research Institute, Pune.\
+  [202603312318515308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312318515308....pdf)
+
+- Regarding the disbursement of funds for the construction of the Boys and Girls Hostel buildings at Tilak Maharashtra Vidyapeeth, Pune.\
+  [202603312320460708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312320460708.pdf)
+
+- Regarding the allocation of funds through a supplementary grant for the campus construction of the Lakshmi Narayan Institute of Innovative Technology.\
+  [202603312319071908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312319071908.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of lump-sum grants to the Maharashtra National Law Universities at Mumbai, Chhatrapati Sambhajinagar, and Nagpur for the year 2025-26...\
   [202603301827466108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301827466108.pdf)
@@ -55,6 +64,9 @@
 
 - Regarding the allocation of funds for the construction of a world-class indoor sports complex at Rashtrasant Tukadoji Maharaj Nagpur University...\
   [202603311606453708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311606453708.pdf)
+
+- For the Financial Year 2025-26: Reappropriation Demand No. W-2, Major Head 2202, Higher Education...\
+  [202603312323006508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312323006508.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

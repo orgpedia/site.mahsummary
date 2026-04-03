@@ -91,12 +91,27 @@
 - Regarding the sanctioning of financial assistance under the scheme for providing financial aid to Scheduled Caste cooperative societies. Mahatma Jyotiba Phule Backward Classes Industrial Cooperative Society Ltd., Yelambghat, Taluka  District Beed.\
   [202603311344102622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311344102622.pdf)
 
+- Regarding the Sanction of Financial Assistance under the Scheme for Providing Financial Assistance to Scheduled Caste Cooperative Societies... Sainath Industrial Producers Cooperative Society Ltd., Mirkhel (Pimpri De.), Taluka  District Parbhani\
+  [202603312355548422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312355548422.pdf)
+
+- Regarding the sanctioning of a long-term loan to Dr. Babasaheb Ambedkar Backward Class Cooperative Spinning Mill Ltd., Nagpur, under the scheme for providing financial assistance to Scheduled Caste Cooperative Spinning Mills...\
+  [202603312231299322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312231299322.pdf)
+
+- Regarding the distribution of funds to the Holar Samaj Economic Development Corporation (a subsidiary) under the Capital Head of Account 4235 0841, Programme 54  Investments.\
+  [202603312300598922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312300598922.pdf)
+
+- Regarding the sanctioning of financial assistance under the scheme for providing financial aid to Scheduled Caste Cooperative Societies... Majhi Maay Industrial Producers Cooperative Society, Pimpri Deshmukh, Taluka  District Parbhani\
+  [202603312356056322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312356056322.pdf)
+
 ## Miscellaneous
 - Regarding the release of funds for the additional State Share (100) for the Centrally Sponsored Pradhan Mantri Poshan Shakti Nirman Yojana for the Financial Year 2025-26. Head of Account: 2202 L 057\
   [202603301719066022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301719066022.pdf)
 
 - Regarding the extension of the tenure of the Committee constituted under the chairmanship of a retired Judge of the Honble High Court, for the purpose of sub-classification of reservations for Scheduled Castes, in accordance with the directives contained in Civil Appeal No. 2317/2011 (The State of Punjab vs. Davinder Singh) of the Honble Supreme Court.\
   [202603302035491922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302035491922.pdf)
+
+- Regarding the sanctioning of financial assistance under the scheme for providing financial aid to Scheduled Caste Cooperative Societies... Mauli Industrial Producers Cooperative Society, Pimpri Deshmukh, Taluka  District Parbhani\
+  [202603312354338722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312354338722.pdf)
 
 ## Personnel
 - Regarding the granting of approval for a project involvingspecifically for the Sandesh Shikshan va Krida Prasarak Mandal, Chhatrapati Sambhajinagarthe construction of the Nibbana Vipassana Center and Research Center located at Shelgaon (Taluka Phulambri, District Chhatrapati Sambhajinagar); and generally encompassing the construction of memorials for eminent personalities belonging to Scheduled Castes and Neo-Buddhists, the development of sites holding cultural and historical significance for Scheduled Castes, and the sanctioning of grants to Non-Governmental Organizations (NGOs) for projects aimed at fostering development rooted in the cultural and ethical values of Scheduled Castes...\

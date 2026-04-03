@@ -110,6 +110,9 @@
 - Regarding the disbursement of the fourth installment of funds under the General Component of the Centrally Sponsored Samagra Shiksha Scheme (Elementary Education, Secondary Education, and Teacher Education)  State Share.\
   [202603311925378621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311925378621.pdf)
 
+- Regarding private primary schools and divisions granted recognition on a permanent unaided basis, yet which have repeatedly been deemed ineligible under the criteria for evaluation and grant-in-aid.\
+  [202604011826215321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011826215321.pdf)
+
 ## Personnel
 - Regarding the payment of salaries to Special Teachers under the Inclusive Education for the Disabled Scheme (Secondary Level).\
   [202603301605082721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301605082721.pdf)
@@ -149,6 +152,9 @@
 
 - Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
   [202603311447089321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311447089321.pdf)
+
+- Maharashtra Appropriation Act, 2025. Distribution of grant for the year 2025-2026\
+  [202603311844378521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311844378521.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

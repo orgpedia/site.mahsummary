@@ -34,6 +34,12 @@
 - Regarding the Sanction of Special Road Grant Funds to Municipal Corporations, Municipal Councils, and Nagar Panchayats in the State. For the Financial Year 2025-26 (Under Head of Account 3054 0022) For Shirala Nagar Panchayat, Dist. Sangli Amount: Rs. 7.00 Crores\
   [202603302011194025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302011194025.pdf)
 
+- Regarding the sanctioning of funds to Municipal Corporations, Municipal Councils, and Nagar Panchayats within the State under the Special Road Grant Scheme. For the Financial Year 2025-26, under the Budget Head (3054 0022), for Deglur Municipal Council, Dist. Nanded: Amount: Rs. 6.00 Crore (Corrigendum)\
+  [202604011730591025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011730591025.pdf)
+
+- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2024-25, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 9.50 Crore (Corrigendum)\
+  [202604011726498025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011726498025.pdf)
+
 ## Miscellaneous
 - Regarding the approval for implementing an Abhay Yojana (Amnesty Scheme) offering a 100 waiver of penalties, aimed at the effective recovery of outstanding property tax within the jurisdiction of the Saswad Municipal Council, District Pune.\
   [202603301931598725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301931598725.pdf)
@@ -52,6 +58,15 @@
 
 - Regarding the Water Supply Project for Ralegaon City, sanctioned under the Centrally Sponsored AMRUT 2.0 Mission.\
   [202603302009407725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302009407725.pdf)
+
+- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2024-25, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 15.00 Crore (Corrigendum)\
+  [202604011729305125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011729305125.pdf)
+
+- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme For the Financial Year 2023-24, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 10.00 Crore (Corrigendum)\
+  [202604011723000725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011723000725.pdf)
+
+- Regarding the disbursement of the installment of Tied Grants for the year 2025-26 under the Million Plus Cities category, in accordance with the recommendations of the 15th Central Finance Commission  Corrigendum\
+  [202604011314315425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011314315425.pdf)
 
 ## Personnel
 - Regarding the distribution of amounts accruing from the 1 Stamp Duty Surcharge to the respective Municipal Corporations for the year 2025-26.... Rs. 500,00,00,000/- (Account Head: 3604 0924)\

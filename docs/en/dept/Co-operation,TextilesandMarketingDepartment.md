@@ -131,12 +131,21 @@
 - Regarding the disbursement of capital subsidies to textile unitsin lieu of interest subsidiesunder the Textile Policy.\
   [202603311257555102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311257555102.pdf)
 
+- Regarding the extension of the validity period of the panel of auditorspublished for the years 2024 to 2026for the audit of cooperative societies within the State.\
+  [202604011436215902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011436215902.pdf)
+
 ## Personnel
 - Regarding the continuation of 32 temporary posts of Classes 2, 3, and 4 at the Nagpur and Pune Benches of the Maharashtra State Cooperative Appellate Court, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
   [202603301633293002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301633293002.pdf)
 
 - Regarding the continuation of temporary posts under the scheme for Continuous and Concurrent Audit of Cooperative Sugar Factories for the year 2026-2027 (from 01/03/2026 to 31/08/2026).\
   [202603301831523502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301831523502.pdf)
+
+- Continuation of Posts.\
+  [202604011440541402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011440541402.pdf)
+
+- Continuation of Posts.\
+  [202604011443402202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011443402202.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

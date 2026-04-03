@@ -172,6 +172,21 @@
 - Distribution of Funds for Survey Works of Minor Irrigation Projects (101 to 250 Hectares): District Sindhudurg (Rest of Maharashtra Region)\
   [202603311644408026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311644408026.pdf)
 
+- Allocation of Funds for Minor Irrigation Schemes under the State-Level Tribal Sub-Plan  Year 2025-26\
+  [202603312239448926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312239448926.pdf)
+
+- Distribution of Funds for Maintenance and Repair Works of Projects with a Storage Capacity of 0 to 100 Hectare-meters under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Region)\
+  [202603312304300926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312304300926.pdf)
+
+- Distribution of Funds for Maintenance and Repair Works of Projects with a Storage Capacity of 0 to 100 Hectare-meters under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Region)\
+  [202603312306050426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312306050426.pdf)
+
+- Distribution of Funds for Maintenance and Repair Works of Projects with a Storage Capacity of 0 to 100 Hectare-meters under the Chief Ministers Water Conservation Scheme: Dist. Ahilyanagar (Rest of Maharashtra Region)\
+  [202603312345340626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312345340626.pdf)
+
+- Distribution of Funds for Works on New and Ongoing Projects (0 to 100 Ha. Irrigation Potential): District Sangli (Rest of Maharashtra Region)\
+  [202603312335326226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312335326226.pdf)
+
 ## Miscellaneous
 - Demand no. ZH-5 AccountHeading 4702 A028 L.P.Y. Loniseem , Ta. Parola Dist. Jalgaon. (Joint Assessment Fee)\
   [202603301316533626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301316533626.pdf)
@@ -185,9 +200,15 @@
 - Demand No. ZH-5, Head of Account 4702 A019: Percolation Tank at Mouje Valkhed, Taluka Partur, District Jalna (Land Acquisition Funds).\
   [202603311652263626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311652263626.pdf)
 
+- Regarding the disbursement of funds under the schemes Silt-free Dams and Silt-enriched Fields and Nala Deepening and Widening.\
+  [202603312223535526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312223535526.pdf)
+
 ## Personnel
 - State-Level Tribal Sub-Plan Fund Allocation  Year 2025-26\
   [202603311644521426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311644521426.pdf)
+
+- State-Level Tribal Sub-Plan Fund Allocation  Year 2025-26\
+  [202603312223404426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312223404426.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

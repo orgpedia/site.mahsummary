@@ -110,5 +110,8 @@
 - Regarding the approval of expenditure for the second-phase grant from the State Government towards the establishment of a Common Facility Centre for the Umarkhed Furniture Cluster (Umarkhed, Dist. Yavatmal)an industrial cluster project under the Maharashtra State Industrial Cluster Development Programme (MSICDP).\
   [202603311848025010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311848025010.pdf)
 
+- Regarding the prescription of the license format for the service Permission for Charging of Electrical Installation, in accordance with Governance Process Re-engineering (GPR).\
+  [202604011311039010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011311039010.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -73,6 +73,15 @@
 - Regarding the disbursement of grants to Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani, under the 31  Grants-in-Aid (Non-Salary) program for the financial year 2025-26.\
   [202603311529524201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311529524201.pdf)
 
+- Regarding the disbursement of grants to the Maharashtra Council of Agricultural Education and Research, Pune, under Head 31  Grants-in-Aid (Non-Salary) (Mandatory), for the Financial Year 2025-26.\
+  [202603312315247901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312315247901.pdf)
+
+- Regarding the allocation of funds to Mahatma Phule Krishi Vidyapeeth, Rahuri, through re-appropriation under Head 35Grant for Creation of Capital Assetsfor the Financial Year 2025-26. (Programme)\
+  [202603312316244401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312316244401.pdf)
+
+- Regarding the grant of financial approval for the disbursement of funds amounting to Rs. 2.00 Crores for the establishment of Artificial Intelligence Innovation  Incubation Centres (AI3) at four agricultural universities within the State, under the MahaAgri-AI Policy 2025-2029.\
+  [202603312230087601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312230087601.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of an amount of Rs. 1,42,296/- to insurance companies towards the payment of the remaining State share of the insurance premium subsidy for the Rabi season 2021-22, under the Pradhan Mantri Fasal Bima Yojana.\
   [202603302044044101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302044044101.pdf)
@@ -98,6 +107,9 @@
 ## Personnel
 - Regarding the extension of temporary posts created for the Nanaji Deshmukh Krishi Sanjivani Project, Phase-2, for the period from March 1, 2026, to August 31, 2026...\
   [202603301836217601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301836217601.pdf)
+
+- Regarding the extension of temporary posts under the Farmers Monthly Magazine Scheme and the Agricultural Information Unit Scheme of the Department of Agriculture, for the period from March 1, 2026, to August 31, 2026.\
+  [202604011337142201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011337142201.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

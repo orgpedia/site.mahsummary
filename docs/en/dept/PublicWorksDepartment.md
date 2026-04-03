@@ -3,6 +3,16 @@
 **Date Range**: 06 April 2026 - 11 April 2026
 
 
+## Miscellaneous
+- Regarding the cancellation of E.T.P. charges (Establishment, Tools, and Plant expenses) levied on the cost of roads and buildings constructed by the Public Works Department.\
+  [202604011617071918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011617071918.pdf)
+
+- Approval granted for the revised alignment of the Nagpur-Goa (Pawnar to Patradevi) Access-Controlled Expressway (Maharashtra Shaktipeeth Expressway).\
+  [202604011317186518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011317186518.pdf)
+
+- Regarding obtaining administrative approval through the District Planning Board for the construction of office/residential building in the plan outline under the District Plan in the District Annual Plan (General).\
+  [202604011222147918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011222147918....pdf)
+
 ## Personnel
 - Promotion order of Junior Engineer (Civil)) on the post of Sub Divisional Officer (Civil), Public Works Department.\
   [202603301633544318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301633544318.pdf)

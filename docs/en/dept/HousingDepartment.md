@@ -11,5 +11,8 @@
 - Regarding the Granting of Administrative Approval for Infrastructure Development Works under the Development of New Chandrapur City Scheme\
   [202603311917214509.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311917214509.pdf)
 
+- Regarding the Implementation of the Hinduhridaysamrat Balasaheb Thackeray Urban Public Welfare Campaign\
+  [202604011820127909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011820127909.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

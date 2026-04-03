@@ -116,5 +116,17 @@
 - Under the Maharashtra Gaurav Award Scheme, a one-time cash grant is awarded to holders of gallantry and service medals in the Indian Armed Forces who are domiciled in the State of Maharashtra; the scheme also provides financial assistance to the widows or dependents of posthumous gallantry medal recipients.\
   [202603311903072707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311903072707.pdf)
 
+- Regarding the approval for the procurement of 3 new Battery-Operated Vehicles (Buggies) for the Office of the Honble Governors Household Manager, and 1 new vehicle for the Honble Governors Household Manager, in addition to the existing vehicle fleet.\
+  [202603312332409407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312332409407.pdf)
+
+- Regarding the establishment of limits concerning the appointment of IT Consultants in various government departments.\
+  [202604011908516907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011908516907.pdf)
+
+- Regarding the grant of Revised Administrative Approval for the furniture budget of the proposed building of the Maharashtra Public Service Commission.\
+  [202604011243314207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011243314207.pdf)
+
+- Regarding the approval for deputing two pilots from the Directorate of Aviation, Mumbai, to Munich, Germany, for refresher training, as well as the approval for the expenditure incurred on said training.\
+  [202604011455425007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011455425007.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

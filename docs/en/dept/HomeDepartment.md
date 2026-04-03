@@ -79,6 +79,9 @@
 - Regarding the payment of bills for work performed during the period from September 2025 to February 2026 to M/s PwC, appointed as the Consultant for the Mumbai City CCTV Project.\
   [202603311325414729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311325414729.pdf)
 
+- Regarding the payment of the Milestone-13 invoice to the project vendor for the CCTV project of the Thane City Police Commissionerate.\
+  [202603312251444729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312251444729.pdf)
+
 ## Miscellaneous
 - Additional Director General of Police, Maharashtra Cyber, Mumbai  Regarding the provision of funds for the disbursement of bills pertaining to rewards and other expenses.\
   [202603301550510529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301550510529.pdf)
@@ -131,6 +134,33 @@
 
 - Regarding the disbursement of funds for the maintenance, repair, and other essential requirements of the CCTNS project in the State.\
   [202603312205259429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312205259429.pdf)
+
+- Continuation of Posts.\
+  [202604011815370429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011815370429.pdf)
+
+- Regarding the extension of the tenure of the temporary posts of Financial Advisor (an officer of the rank of Deputy Director in the Maharashtra Finance and Accounts Service) and Accounts Officer (Group-A) on the establishment of the Director, Maharashtra Police Academy, Nashik.\
+  [202604011621382629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011621382629.pdf)
+
+- Regarding the extension of the tenure of 77 posts transferred to the establishment of the office of the Additional Director General of Police, Cyber and Prevention of Atrocities against Women, Maharashtra State, Mumbai.\
+  [202604011629020629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011629020629.pdf)
+
+- Regarding the extension of 17,103 temporary posts in various offices under the Commissioner of Police, Greater Mumbai.\
+  [202604011626437329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011626437329.pdf)
+
+- Continuation of Posts.\
+  [202604011809052129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011809052129.pdf)
+
+- Continuation of Posts.\
+  [202604011648362829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011648362829.pdf)
+
+- Regarding the extension of the tenure of 335 newly created temporary posts for Pardi, Wathoda, and Kapilnagar Police Stations, under the establishment of the Commissioner of Police, Nagpur City.\
+  [202604011623418229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011623418229.pdf)
+
+- Continuation of Posts.\
+  [202604011813181129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011813181129.pdf)
+
+- Regarding the extension of the temporary post of Staff Officer to the Additional Director General of Police (Special Action).\
+  [202604011619412729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011619412729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
