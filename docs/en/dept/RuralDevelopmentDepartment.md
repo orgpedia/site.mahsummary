@@ -50,5 +50,14 @@
 - Regarding  revised administrative approval for the road work of MRL-23 NH-166E to Govare Sayapur Tembhu Rama-142 Road, Taluka Karad, District Satara under Package No. MH-2795 of the Pradhan Mantri Gram Sadak Yojana (Phase III).\
   [202603301049299420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301049299420.pdf)
 
+- Regarding inclusion of non-planned/unclassified roads in Mehkar, Lonar, Nandurao Malkapur talukas of Buldhana district as rural roads in Road Development Plan 2001-21.\
+  [202604011307019920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011307019920.pdf)
+
+- Regarding granting approval for the construction of buildings of Gram Panchayats in Dharashiv district under the Honble Balasaheb Thackeray Smriti Matoshree Gram Panchayat Construction Scheme..\
+  [202604011307130720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011307130720.pdf)
+
+- Regarding Revised Administrative Approval for the Road Works on the ToranwadaMedhsingDumma Road (Taluka Chikhli, District Buldhana), under Package No. MH-0770 of the Pradhan Mantri Gram Sadak Yojana (Part-3).\
+  [202603301049528120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301049528120.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

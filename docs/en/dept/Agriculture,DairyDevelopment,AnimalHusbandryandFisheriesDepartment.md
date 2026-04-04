@@ -82,6 +82,9 @@
 - Regarding the grant of financial approval for the disbursement of funds amounting to Rs. 2.00 Crores for the establishment of Artificial Intelligence Innovation  Incubation Centres (AI3) at four agricultural universities within the State, under the MahaAgri-AI Policy 2025-2029.\
   [202603312230087601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312230087601.pdf)
 
+- Regarding the Grant of Revised Administrative Approval for the Implementation of the State e-Governance Programme during the Financial Year 2025-26.\
+  [202604021237570601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021237570601.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of an amount of Rs. 1,42,296/- to insurance companies towards the payment of the remaining State share of the insurance premium subsidy for the Rabi season 2021-22, under the Pradhan Mantri Fasal Bima Yojana.\
   [202603302044044101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302044044101.pdf)

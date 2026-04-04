@@ -68,5 +68,8 @@
 - For the Financial Year 2025-26: Reappropriation Demand No. W-2, Major Head 2202, Higher Education...\
   [202603312323006508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312323006508.pdf)
 
+- Regarding the Counting of Prior Service. Mr. Nitin Kondbaji Ratanwar, Manager, Government Polytechnic, Yavatmal.\
+  [202604021814271808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021814271808.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

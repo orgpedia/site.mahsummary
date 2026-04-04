@@ -82,6 +82,9 @@
 - Contribution to the State Sports Development Fund: Regarding the Distribution of Funds (2204 2082)\
   [202603311807142021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311807142021.pdf)
 
+- Regarding the grant of administrative approval to an estimated budget amounting to Rs. 942.94 Lakhs for the construction of a store, weapon guardroom, parade ground, a two-story building for trainee cadets, and a vehicle parking facility for the office of the 48 Maharashtra National Cadet Corps (NCC), Dhule, on a land parcel admeasuring 2.00 hectares (out of a total area of 4 hectares and 14 ares) within Survey No. 186/1, situated at Mauje Bhokar, Taluka  District Dhule.\
+  [202604021502055221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021502055221.pdf)
+
 ## Miscellaneous
 - Regarding the Service Review of Officers working as Deputy Directors of Education (Group-A) within the Maharashtra Education Service (Administration Branch), to be conducted upon completion of 50/55 years of age or 30 years of qualifying service.\
   [202603301758043521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301758043521.pdf)
@@ -112,6 +115,21 @@
 
 - Regarding private primary schools and divisions granted recognition on a permanent unaided basis, yet which have repeatedly been deemed ineligible under the criteria for evaluation and grant-in-aid.\
   [202604011826215321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011826215321.pdf)
+
+- Regarding private Higher Secondary Schools / Junior Colleges and divisions thereof, which were granted recognition on a permanent unaided basis but have repeatedly been deemed ineligible under the criteria for evaluation and grant-in-aid.\
+  [202604021136024921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021136024921.pdf)
+
+- Regarding necessary improvements to the teacher recruitment procedure through the Pavitra Portal.\
+  [202604021321305521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021321305521.pdf)
+
+- Regarding private secondary schools and divisions thereof that have been granted recognition on a permanent unaided basis, yet have repeatedly been deemed ineligible under the criteria for evaluation and grant-in-aid.\
+  [202604021225351121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021225351121.pdf)
+
+- Standard Operating Procedure to be followed by educational institutions opting for the teacher recruitment processincluding interviewsthrough the Pavitra Portal, for the selection of candidates.\
+  [202604021328460721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021328460721.pdf)
+
+- Regarding the prohibition of using misleading words in the name of the school while submitting applications for the establishment of new schools on a self-financed basis by interested institutions, trusts, companies, or similar management bodies.\
+  [202604021620079321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021620079321.pdf)
 
 ## Personnel
 - Regarding the payment of salaries to Special Teachers under the Inclusive Education for the Disabled Scheme (Secondary Level).\

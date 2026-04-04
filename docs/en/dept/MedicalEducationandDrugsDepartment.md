@@ -32,6 +32,9 @@
 - Regarding granting approval to release the pending payments of the NextGen e-Hospitals HMIS projects implemented in institutions under the Directorate of Medical Education and AYUSH.\
   [202603311750363313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311750363313.pdf)
 
+- Regarding granting approval to obtain the services of a total of 101 security guards for the Government Medical College, Gondia and its affiliated hospital, which are under the jurisdiction of the department, from the Maharashtra Ex-Servicemen Corporation (MESCO).\
+  [202604011442507713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011442507713.pdf)
+
 ## Personnel
 - Regarding the approval for transferring the State Share (40) amounting to Rs. 1,980.88 Lakhs provided for in the Budget Estimates for the year 2025-26 under the scheme Strengthening of Food Safety System, to the Bank of Baroda account of the Commissioner of Food Safety, Mumbai.\
   [202603301333280313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301333280313....pdf)

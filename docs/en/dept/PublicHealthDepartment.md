@@ -105,5 +105,11 @@
 - Fund Release for the Year 2025-2026   Regarding the Release of funds  50.00 Lakhs for administrative expenses under the Mahatma Jyotirao Phule Jan Arogya Yojana,  under the BudgetHead 2210 G 251 (General) 20  Other Administrative Expenses.\
   [202603301035451117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301035451117.pdf)
 
+- Regarding the continuation of 15 temporary posts on the establishment of Joint Director, Health Services (Maleria, Elephantiasis and Waterborne Diseases), Pune-1 office.\
+  [202604021120085717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021120085717.pdf)
+
+- Regarding the continuation of 3 temporary posts in the office of Joint Director, Health Services (Maleria, Elephantiasis and Waterborne Diseases), Pune-1 under the Cholera Control Programme.\
+  [202604021120111817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021120111817.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

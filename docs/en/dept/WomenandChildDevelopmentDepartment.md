@@ -50,6 +50,9 @@
 - Permanent provision of at least 3 percent of funds under District Planning Development Committee (General) for Women and Child Empowerment Scheme.\
   [202603301333173430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301333173430.pdf)
 
+- Regarding providing the opportunity to do e-KYC under the Mukhyamantri Mazi Ladki Bahin scheme.\
+  [202604021515424130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021515424130....pdf)
+
 ## Personnel
 - Partial change in the posting structure of autonomous duties under the Probationary Training Programme (CPTP-10) of the officers under examination in Group-B (Gazetted) cadre working under the supervision of the Dean of the Department of Women and Child Development.\
   [202603311124329730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311124329730.pdf)

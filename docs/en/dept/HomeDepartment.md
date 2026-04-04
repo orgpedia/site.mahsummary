@@ -82,6 +82,27 @@
 - Regarding the payment of the Milestone-13 invoice to the project vendor for the CCTV project of the Thane City Police Commissionerate.\
   [202603312251444729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312251444729.pdf)
 
+- Regarding the grant of administrative and financial approval to the cost estimates for the construction of modern passenger shelters at necessary locations within the Nagpur Region of the State Transport Corporationspecifically across the Nagpur, Chandrapur, Gadchiroli, Wardha, and Bhandara divisions\
+  [202604021103052629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021103052629.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimates for the construction of modern passenger shelters at necessary locations within the Nashik Region of the State Transport Corporationspecifically covering the Nashik, Ahilyanagar, Dhule, and Jalgaon divisions\
+  [202604021106171829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021106171829.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimate for the reconstruction (remaining works) of the Vita Bus Stand under the Sangli Division of the State Transport Corporation\
+  [202604021100588329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021100588329.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimates for the construction of modern passenger shelters at necessary locations within the Chhatrapati Sambhajinagar Region of the State Transport Corporationspecifically covering the Chhatrapati Sambhajinagar, Beed, Jalna, Latur, Nanded, Dharashiv, and Parbhani divisions\
+  [202604021117284029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021117284029.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimates for the renovation and concreting of the Miraj (Rural) Bus Stand (remaining works) and the Depot, under the Sangli Division of the State Transport Corporation\
+  [202604021058531529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021058531529.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimates for the construction of modern passenger shelters at necessary locations within the Pune Region of the State Transport Corporationspecifically across the Pune, Kolhapur, Sangli, Satara, and Solapur divisions\
+  [202604021108592729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021108592729.pdf)
+
+- Regarding the grant of administrative and financial approval to the cost estimates for the construction of modern passenger shelters at necessary locations within the Thane, Palghar, Raigad, Ratnagiri, and Sindhudurg divisions of the Mumbai Region, under the State Transport Corporation\
+  [202604021111580529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021111580529.pdf)
+
 ## Miscellaneous
 - Additional Director General of Police, Maharashtra Cyber, Mumbai  Regarding the provision of funds for the disbursement of bills pertaining to rewards and other expenses.\
   [202603301550510529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301550510529.pdf)
@@ -118,6 +139,12 @@
 
 - Regarding the approval for the distribution of funds amounting to Rs. 9,59,000/through re-appropriation from Head of Account 20550032-11 (Travel Expenses) to Head of Account 20550391-10 (Contractual Services), for the payment of honorarium for the period from December 2025 to February 2026 to 6 Medical Officers appointed on a contractual basis at the J.J. Post-mortem Centre, under the jurisdiction of the Commissioner of Police, Greater Mumbai.\
   [202603312146168029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312146168029.pdf)
+
+- Honble Supreme Court  SLP (Cr.) 1554/2025: Constitution of the Committee for Revising Guidelines on Premature Release. Honorarium for the Honble Chairperson of the Committee.\
+  [202604021607270529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021607270529.pdf)
+
+- Honble Supreme Court  SLP (Cr.) 1554/2025: Constitution of the Committee for Revising Guidelines on Premature Release. Honorarium for Non-Official Members of the Committee.\
+  [202604021604503429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021604503429.pdf)
 
 ## Personnel
 - Regarding the extension of the tenure of 4 temporary posts on the establishment of the Motor Accident Claims Tribunal, Pune.\
@@ -161,6 +188,9 @@
 
 - Regarding the extension of the temporary post of Staff Officer to the Additional Director General of Police (Special Action).\
   [202604011619412729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011619412729.pdf)
+
+- Honble Supreme Court  SLP (Cr.) 1554/2025: Constitution of the Committee for Revising Guidelines on Premature Release. Remuneration for the Committees Legal Assistants.\
+  [202604021608421529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021608421529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

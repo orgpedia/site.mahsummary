@@ -40,6 +40,24 @@
 - Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2024-25, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 9.50 Crore (Corrigendum)\
   [202604011726498025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011726498025.pdf)
 
+- Under the Centrally Sponsored AMRUT 2.0 Mission: Regarding the Granting of Administrative Approval to the Green Area Development Project of the Alibaug Municipal Council. (Rs. 4.43 Crore)\
+  [202604021306085125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021306085125.pdf)
+
+- Regarding the disbursement of funds under the scheme: Special Provision for the Development of Basic Amenities within Municipal Corporation Areas. For the Financial Year 2022-23 (under Head of Account 2217 0913) For Mira Bhayandar Municipal Corporation, Dist. Thane Amount: Rs. 215 Crores (Corrigendum)\
+  [202604021227369825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021227369825.pdf)
+
+- Regarding the disbursement of funds under the scheme: Special Provision for the Development of Basic Amenities within Municipal Corporation Areas. For the Financial Year 2022-23 (under Head of Account 2217 0913) For Mira Bhayandar Municipal Corporation, Dist. Thane: Amount of Rs. 184.8283 Crore (in place of Rs. 215 Crore) For Thane Municipal Corporation, Dist. Thane: Amount of Rs. 30.1717 Crore (Corrigendum)\
+  [202604021549578525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021549578525.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 5.00 Croresdrawn from the funds reserved with the Directorate of Municipal Administrationfor Phases 1 and 2 of the pilgrimage site development plan for Shri Mahalakshmi Jagdamba Sansthan, Koradi, Taluka Kamthi, District Nagpur, under the scheme titled Grant-in-Aid for the Development Program of Pilgrimage Sites within Municipal Council Areas (Budget Head 2217 0951).\
+  [202604021225233325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021225233325.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Areas. For the year 2024-25 (under Account Head (4217 0541) For Thane Municipal Corporation, District Thane Out of the sanctioned amount in principle of Rs. 850.00 crore, the sanctioned amount was earlier of Rs. 46.00 crore For Mira-Bhayander Municipal Corporation, District Thane Out of the sanctioned amount in principle of Rs. 950.00 crore, the sanctioned amount was earlier of Rs. 38.00 crore (Total sanctioned amount in principle of Rs. 1800.00 crore, the sanctioned amount was earlier of Rs. 84.00 crore (Corrigendum)\
+  [202604021224065925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021224065925.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for Development of Basic Amenities in Municipal Areas. For the year 2024-25 (under Account Head (4217 0541) For Thane Municipal Corporation, District Thane In-principle sanctioned amount Rs.850.00 crore instead of Rs.873.33 crore out of the earlier sanctioned amount Rs.46.00 crore instead of Rs.47.30 crore For Mira-Bhayander Municipal Corporation, District Thane In-principle sanctioned amount Rs.950.00 crore instead of Rs.926.66 crore out of the earlier sanctioned amount Rs.38.00 crore instead of Rs.36.70 crore (Total In-principle sanctioned amount Rs.1800.00 crore out of the earlier sanctioned amount Rs.84.00 crore (Corrigendum)\
+  [202604021552042025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021552042025.pdf)
+
 ## Miscellaneous
 - Regarding the approval for implementing an Abhay Yojana (Amnesty Scheme) offering a 100 waiver of penalties, aimed at the effective recovery of outstanding property tax within the jurisdiction of the Saswad Municipal Council, District Pune.\
   [202603301931598725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301931598725.pdf)
@@ -67,6 +85,12 @@
 
 - Regarding the disbursement of the installment of Tied Grants for the year 2025-26 under the Million Plus Cities category, in accordance with the recommendations of the 15th Central Finance Commission  Corrigendum\
   [202604011314315425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011314315425.pdf)
+
+- Special Provision for the Development of Basic Amenities within Municipal Corporation Areas Regarding the Sanction of Funds under the Scheme. For the Year 2025-26 (Under Head of Account 2217 0913) For Thane Municipal Corporation, Dist. Thane Amount: Rs. 10.00 Crore (Corrigendum)\
+  [202604021548581325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021548581325.pdf)
+
+- Regarding the distribution of funds under the Assistance for Providing Civic Amenities to Newly Established Nagar Panchayats Scheme. For the Financial Year 2023-24, under Head of Account (2217 9492), for Pali Nagar Panchayat, Dist. Raigad: Amount: Rs. 10.00 Crore (Corrigendum)\
+  [202604021550533325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021550533325.pdf)
 
 ## Personnel
 - Regarding the distribution of amounts accruing from the 1 Stamp Duty Surcharge to the respective Municipal Corporations for the year 2025-26.... Rs. 500,00,00,000/- (Account Head: 3604 0924)\

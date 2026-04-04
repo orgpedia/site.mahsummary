@@ -133,6 +133,9 @@
 - Regarding the Granting of Administrative Approval for Civic Amenity Works in Villages Resettled Due to Floods in the Biloli and Deglur Talukas of Nanded District.\
   [202604011539365219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011539365219.pdf)
 
+- Regarding the grant of administrative approval to the estimated budget amounting to Rs. 1,313.00 Lakhs for the development work involving the establishment of an Advanced Wood Processing and Facility Center at MIDC, Tadali, Chandrapur, under FDCM Ltd.\
+  [202604021303420719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021303420719.pdf)
+
 ## Miscellaneous
 - State Plan 2025-26 Disbursement of funds for the construction of a protective wall at Sanjay Gandhi National Park (4406 3849).\
   [202603302119562819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603302119562819.pdf)
@@ -215,6 +218,30 @@
 
 - Continuation of 722 Temporary Post of All Division from 01/03/2026  to 31/08/2026.\
   [202604011229420419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011229420419.pdf)
+
+- Land Acquisition Establishment: Divisional Commissioner, Konkan  Regarding the extension of the tenure of 35 temporary posts within the Land Acquisition Establishment of the Konkan Division, for the period from March 1, 2026, to August 31, 2026.\
+  [202604021728048919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021728048919.pdf)
+
+- Land Acquisition Establishment  Regarding the Grant of an Extension to the Temporary Teams of Special Land Acquisition Officers in the Konkan Division for the Period from 01.03.2026 to 31.08.2026.\
+  [202604021730367119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021730367119.pdf)
+
+- Land Acquisition Establishment: Regarding the extension of the tenure of 3 temporary posts in the Award Branch of the Office of the Divisional Commissioner, Konkan Division, for the period from March 1, 2026, to August 31, 2026.\
+  [202604021725164519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021725164519.pdf)
+
+- Regarding the Transfer and Posting of Officers belonging to the Deputy Collector Cadre Smt. Varsha Shingan, District Rehabilitation Officer, Kolhapur\
+  [202604021554176219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021554176219.pdf)
+
+- Regarding the extension of the tenure of 92 temporary posts within the Land Acquisition Establishment of the Chhatrapati Sambhajinagar Division, for the period from March 1, 2026, to August 31, 2026.\
+  [202604021733046419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021733046419.pdf)
+
+- Regarding the allotment of government land totaling 29.52 H.R.comprising 24.28 H.R. out of the total area of 24.37 H.R. under Survey No. 178, and 5.24 H.R. out of the total area of 7.14 H.R. under Survey No. 179situated at Mauje Jambutke, Taluka Dindori, District Nashik, to the Maharashtra Industrial Development Corporation (MIDC) for the establishment of a Tribal Industrial Cluster.\
+  [202604021628249619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021628249619.pdf)
+
+- Regarding the Approval of the Revised Cadre Structure for the Revenue Department...\
+  [202604021736159919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021736159919.pdf)
+
+- Regarding the Transfer and Posting of Officers belonging to the Additional Collector Cadre Mr. Sanjay Shankar Shinde, Additional Collector\
+  [202604021527361519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604021527361519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
