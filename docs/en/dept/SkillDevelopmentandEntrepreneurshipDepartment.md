@@ -1,21 +1,11 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 06 April 2026 - 11 April 2026
+**Date Range**: 13 April 2026 - 18 April 2026
 
 
-## Funds
-- Regarding the disbursement of the remaining 30 percent of the fundsout of the total amount budgeted under the head 31-Grants-in-Aid (Non-Salary)allocated to the Ratan Tata Maharashtra State Skill University for the financial year 2025-26.\
-  [202603301729288003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301729288003............pdf)
-
-## Personnel
-- Continuation of Posts.\
-  [202603301427272703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301427272703.pdf)
-
-- Regarding the disbursement of funds for the Maharashtra State Innovative Startup Policy (2230 A334) scheme for the financial year 2025-26.\
-  [202603301732316303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301732316303.....pdf)
-
-- Regarding the Granting of a Notional Date of Promotion to Mr. Pradeep Bhimrao Durge, Deputy Director, Devgiri Government Industrial Training Institute, Chhatrapati Sambhajinagar.\
-  [202604011450122003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011450122003.....pdf)
+## Miscellaneous
+- Regarding the grant of approval to establish a Mahatma Jyotiba Phule Skill Training Center within a minimum area of 300 to 1,500 square feet, under the state-level initiative known as the Pramod Mahajan Skill Development and Entrepreneurship Mission (PMKUVA)...\
+  [202604061857399603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061857399603....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
