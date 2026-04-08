@@ -10,5 +10,9 @@
 - Regarding the amendment to the pay scale under the Fifth Pay Commission, as referenced in the notification regarding the implementation of the Seventh Pay Commission for the post of System Analyst at Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon.\
   [202604061236421608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061236421608.pdf)
 
+## Personnel
+- Regarding the entrustment of the additional charge of the post of State Project Director, State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), Mumbai, to Mr. Vinod Mohitkar, Director, Directorate of Technical Education, Mumbai.\
+  [202604071114310308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071114310308.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
