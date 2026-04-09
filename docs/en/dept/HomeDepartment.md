@@ -7,6 +7,9 @@
 - Regarding the grant of administrative approval for the establishment of an electric charging station for electric buses within the premises at Madhavnagar, under the Sangli Division of the State Transport Corporation.\
   [202604061506399229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061506399229....pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 448.21 crore to the Maharashtra State Road Transport Corporation towards the reimbursement of concessionary fares...\
+  [202604081908027229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081908027229.pdf)
+
 ## Miscellaneous
 - Regarding the grant of administrative approval for the procurement of equipmentspecifically High Mast Poles and Baggage Scannersunder the scheme Modernization of Prison Security Systems for the year 2026-27...\
   [202604061318042529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061318042529.pdf)
@@ -25,6 +28,10 @@
 
 - Regarding the grant of administrative approval for the procurement of Video Conferencing sets under the scheme Video Conferencing Facilities for Prisons for the year 2026-27...\
   [202604061320094429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061320094429.pdf)
+
+## Personnel
+- Regarding transfers/ postings of officers of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202604081341372229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081341372229.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

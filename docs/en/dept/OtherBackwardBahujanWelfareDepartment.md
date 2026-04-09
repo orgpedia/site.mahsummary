@@ -1,30 +1,11 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 06 April 2026 - 11 April 2026
+**Date Range**: 13 April 2026 - 18 April 2026
 
-
-## Funds
-- Regarding modifications to works in Chhatrapati Sambhajinagar district that have received administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
-  [202603301926472134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301926472134.pdf)
-
-- Regarding the approval for the disbursement of funds under Head 31  Grants-in-Aid (Non-Salary)  to the Vasantrao Naik Vimukta Jati and Nomadic Tribes Development Corporation Ltd. for the financial year 2025-26...\
-  [202603301659133034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301659133034.pdf)
-
-- Regarding modifications to works in the districts of Chhatrapati Sambhajinagar, Jalna, and Parbhani, for which administrative approval has been granted under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
-  [202603301925284534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301925284534.pdf)
-
-- Regarding the approval for the disbursement of funds under 36  Grants-in-Aid (Salaries) to the Maharashtra State Other Backward Classes Finance and Development Corporation for the financial year 2025-26...\
-  [202603301656083934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301656083934.pdf)
-
-- Regarding the distribution of funds to the Vasantrao Naik Research and Training Institute (VANARTI), Nagpur, under the Head of Account 2225 G 501 (31Non-Salary Grants) for the financial year 2025-26...\
-  [202603311255393134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311255393134.pdf)
-
-- Regarding the disbursement of funds for Government Share Capital to Punyashlok Ahilyadevi Holkar Cooperative Spinning Mill Ltd., Choundi, Taluka Jamkhed, District Ahilyanagara cooperative spinning mill of the Dhangar communitywhich has been selected for Government financial assistance. (Head of Account: 4225 2141)\
-  [202603312014204934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603312014204934.pdf)
 
 ## Miscellaneous
-- Regarding the approval for the disbursement of funds under Head 36 (Grants-in-Aid  Salaries) to the Vasantrao Naik Vimukta Jati and Bhatkya Jamati Development Corporation Ltd. for the financial year 2025-2026...\
-  [202603301657520834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603301657520834.pdf)
+- Regarding the distribution of funds to the Maharashtra Research, Upgradation and Training Academy (AMRUT), Pune, under the head 36  Grants-in-Aid (Salaries) for the financial year 2026-27...\
+  [202604081442202534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081442202534.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

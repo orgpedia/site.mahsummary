@@ -7,6 +7,10 @@
 - Regarding the Grant of Administrative Approval for the Dangurli High-Level Weir Project, Taluka and District Gondia.\
   [202604071545510827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071545510827.pdf)
 
+## Miscellaneous
+- Regarding the Naming of the Urmodi Dam Reservoir as Chhatrapati Abhayasinhraje Bhosale Reservoir.\
+  [202604081640001627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081640001627.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202604061523473027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061523473027.pdf)
@@ -31,6 +35,9 @@
 
 - Revised Orders regarding Request Transfers of Officers in the Junior Engineer / Assistant Engineer (Grade-2) Cadre.\
   [202604071816317327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071816317327.pdf)
+
+- Regarding extension of tenure of posts on fixed temporary establishments and converted temporary establishments in the department under the jurisdiction of Superintending Engineer and Administrator, Benefit Area Development Authority, Latur from 01/03/2026 to 31/08/2026.\
+  [202604081147312027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081147312027.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

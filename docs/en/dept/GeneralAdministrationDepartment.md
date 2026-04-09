@@ -7,6 +7,9 @@
 - Regarding the grant of administrative approval for procuring MS-SQL licenses in connection with the strengthening of the Maharashtra State Data Center (MH-SDC) infrastructure...\
   [202604061832108407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061832108407.pdf)
 
+- Regarding the grant of administrative and financial approval for the expenditure to be incurred in connection with the Tech-Wari 2.0 training program, scheduled to be held at the Mantralaya from May 4 to May 8, 2026.\
+  [202604081801021307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081801021307.pdf)
+
 ## Miscellaneous
 - Procedure for Filling Posts Reserved for Backward Classes in the Small Category (Direct Recruitment)\
   [202604061254552507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061254552507.pdf)
@@ -16,6 +19,15 @@
 
 - Training, under State Training Policy to Mantralaya cadre Assistant Section Officer\
   [202604071710551107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071710551107.pdf)
+
+- Regarding the filling of one post of Executive Officer at the Shri Shanaishwar Devasthan, Shingnapur, on deputation from among the Section Officers of the Ministerial Cadre.\
+  [202604081313041407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081313041407.pdf)
+
+- Extension for medical examinations as per the AIS (Performance Appraisal Report) Rules, 2007 to IAS officers..\
+  [202604081132546907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081132546907.pdf)
+
+- Regarding the Filling of the Post of Administrative Officer (Group-B) on the Establishment of the Mantralaya Canteen, by Deputation from among Section Officers of the Mantralaya Cadre\
+  [202604081315286207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081315286207.pdf)
 
 ## Personnel
 - Provisional Combined Seniority List, as of January 1, 2026, of Officers/Employees belonging to Group-B (Non-Gazetted) and Group-C cadres on the administrative establishment of the Mantralaya Canteen/Cafeteria. (Period: January 1, 2025 to December 31, 2025)\
@@ -29,6 +41,9 @@
 
 - Regarding the transfer of Shri Anil Kumar Alurkar, Deputy Director (Information)  Directorate General of Information and Public Relations  to a supernumerary post, pursuant to the judgment delivered by the Honble Supreme Court in Civil Appeal No. 8928/2015 and other petitions, wherein his Scheduled Tribe caste certificate was declared invalid.\
   [202604071630327207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071630327207.pdf)
+
+- Regarding the extension of the tenure of a total of 192 temporary postscomprising 191 posts within the Directorate General of Information and Public Relations and its subordinate offices, and 1 post within the office of the Superintendent, Books and Publications, Mumbaifor the period from March 1, 2026, to August 31, 2026.\
+  [202604081848282807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081848282807....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

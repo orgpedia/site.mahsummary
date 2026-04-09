@@ -1,14 +1,18 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 06 April 2026 - 11 April 2026
+**Date Range**: 13 April 2026 - 18 April 2026
 
 
 ## Miscellaneous
-- Regarding the revision of commissions for retail kerosene licensees in the State.\
-  [202604011641258806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011641258806.pdf)
+- Final Seniority List of the Cadre of Deputy Controller, Legal Metrology (Gazetted, Group-B) within the Department of Legal Metrology, as of January 1, 2026.\
+  [202604081649166306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081649166306.pdf)
 
-- Regarding the determination of kerosene transportation rates in the district in connection with kerosene distribution.\
-  [202604011638391406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011638391406.pdf)
+## Personnel
+- Regarding the constitution of a committee to earmark posts in Group A to Group C cadres within offices under the jurisdiction of the Food, Civil Supplies, and Consumer Protection Department for persons with disabilities.\
+  [202604081151282306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081151282306.pdf)
+
+- Final Seniority List of Inspectors (Legal Metrology Cadre) within the Department of Legal Metrology, as of January 1, 2026.\
+  [202604081644584506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081644584506....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
