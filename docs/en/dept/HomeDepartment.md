@@ -29,9 +29,21 @@
 - Regarding the grant of administrative approval for the procurement of Video Conferencing sets under the scheme Video Conferencing Facilities for Prisons for the year 2026-27...\
   [202604061320094429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061320094429.pdf)
 
+- Regarding the appointment of Mr. Viraj Santosh Ghag and Mr. Vikas Haridas Sayam, wards of martyrs, on compassionate grounds to the post of Police Sub-Inspector, Group-B (Non-Gazetted).\
+  [202604091229508729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091229508729.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of officers of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
   [202604081341372229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081341372229.pdf)
+
+- Continuation of Posts.\
+  [202604091621131929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091621131929.pdf)
+
+- Regarding appointment by direct recruitment to the post of Assistant Director, Directorate of Forensic Science Laboratories (Group-A), under the establishment of the Directorate of Forensic Science Laboratories, Government of Maharashtra, Mumbai.\
+  [202604091718051329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091718051329.pdf)
+
+- Regarding appointment to the post of Assistant Government Pleader, Group A, by Direct Recruitment.\
+  [202604091511267729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091511267729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

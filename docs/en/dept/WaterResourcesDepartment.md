@@ -7,6 +7,12 @@
 - Regarding the Grant of Administrative Approval for the Dangurli High-Level Weir Project, Taluka and District Gondia.\
   [202604071545510827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071545510827.pdf)
 
+- First Revised Administrative approval under special repairs to Dham Height raising work of Dham Medium Project Taluka Aravi Dist Wardha.\
+  [202604091601248327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091601248327.pdf)
+
+- Regarding the Granting of Administrative Approval to the Sakalai Lift Irrigation Scheme, Shrigonda Taluka, Ahilyanagar District.\
+  [202604091731088127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091731088127.pdf)
+
 ## Miscellaneous
 - Regarding the Naming of the Urmodi Dam Reservoir as Chhatrapati Abhayasinhraje Bhosale Reservoir.\
   [202604081640001627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081640001627.pdf)
@@ -38,6 +44,30 @@
 
 - Regarding extension of tenure of posts on fixed temporary establishments and converted temporary establishments in the department under the jurisdiction of Superintending Engineer and Administrator, Benefit Area Development Authority, Latur from 01/03/2026 to 31/08/2026.\
   [202604081147312027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081147312027.pdf)
+
+- Continuation of Posts.\
+  [202604091128471527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091128471527.pdf)
+
+- Continuation of Posts.\
+  [202604091125341927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091125341927.pdf)
+
+- Continuation of Posts.\
+  [202604091123380227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091123380227.pdf)
+
+- Continuation of Posts.\
+  [202604091121158827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091121158827.pdf)
+
+- Continuation of Posts.\
+  [202604091109562427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091109562427.pdf)
+
+- Transfer of Officers in the Superintendent Engineer (Civil) Cadre\
+  [202604091444111827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091444111827.pdf)
+
+- Continuation of Posts.\
+  [202604091115070527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091115070527.pdf)
+
+- Continuation of Posts.\
+  [202604091117436027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091117436027.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

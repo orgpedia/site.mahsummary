@@ -39,5 +39,8 @@
 - Regarding the continuation of temporary posts in offices under the superintendence of the Superintending Engineer, Vigilance and Quality Control Boards.\
   [202604081709530018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081709530018.pdf)
 
+- Promotion and Posting from the post of Executive Engineer (Electrical) to the post of Superintending Engineer (Electrical).\
+  [202604091746344118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091746344118.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

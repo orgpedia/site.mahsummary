@@ -14,5 +14,8 @@
 - Final Seniority List of Inspectors (Legal Metrology Cadre) within the Department of Legal Metrology, as of January 1, 2026.\
   [202604081644584506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081644584506....pdf)
 
+- Regarding the transfer of officers belonging to the cadre of Assistant District Supply Officer and Inspecting Officer / Circle Officer, Group-B (Gazetted)...\
+  [202604091201156706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091201156706.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -29,6 +29,9 @@
 - Regarding the Filling of the Post of Administrative Officer (Group-B) on the Establishment of the Mantralaya Canteen, by Deputation from among Section Officers of the Mantralaya Cadre\
   [202604081315286207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081315286207.pdf)
 
+- Regarding the constitution of a committee in connection with the preparations for the Simhastha Kumbh Mela to be held in Nashik in the year 2027.\
+  [202604091656172007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091656172007.pdf)
+
 ## Personnel
 - Provisional Combined Seniority List, as of January 1, 2026, of Officers/Employees belonging to Group-B (Non-Gazetted) and Group-C cadres on the administrative establishment of the Mantralaya Canteen/Cafeteria. (Period: January 1, 2025 to December 31, 2025)\
   [202604071518216207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071518216207.pdf)

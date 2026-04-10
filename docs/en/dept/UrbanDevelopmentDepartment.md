@@ -25,12 +25,18 @@
 - Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2026-27, under Head of Account (2217 1301) For Chopda Municipal Council, Dist. Jalgaon Amount: Rs. 1.00 Crore\
   [202604081833504925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081833504925.pdf)
 
+- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme For the Financial Year 2022-23, under Head of Account (4217 0603) For Sangola Municipal Council, Dist. Solapur Amount: Rs. 5.00 Crore (Corrigendum)\
+  [202604091524318725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091524318725.pdf)
+
 ## Miscellaneous
 - Regarding the publication of the Final Seniority List as of January 1, 2026, for officers belonging to the Director of Town Planning (Group-A) cadre on the establishment of the Directorate of Town Planning and Valuation.\
   [202604071216093425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071216093425.pdf)
 
 - Regarding the Reconstitution of the Grievance Redressal Committee for the Settlement of Claims Pertaining to Service Matters of Employees in Urban Local Bodies...\
   [202604071857269025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071857269025.pdf)
+
+- Instructions regarding Banking Transactions and Investment of Surplus Funds held by Urban Local Bodies  TJSB Sahakari Bank Ltd.\
+  [202604091703024725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091703024725.pdf)
 
 ## Personnel
 - Regarding the continuation of temporary posts at the Maharashtra Fire Service Academy, Mumbai, for the period from March 1, 2026, to August 31, 2026.\
