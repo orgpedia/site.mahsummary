@@ -10,6 +10,15 @@
 - Regarding the grant of administrative and financial approval for the expenditure to be incurred in connection with the Tech-Wari 2.0 training program, scheduled to be held at the Mantralaya from May 4 to May 8, 2026.\
   [202604081801021307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081801021307.pdf)
 
+- Integrated Probationary Training Program Regarding the disbursement of grants to the Vanamati, Nagpur training instituteunder the head 36-Grants-in-Aid (Salaries)for the payment of salaries for the months of March and April 2026, in connection with the Integrated Probationary Training Program for the Financial Year 2026-27.\
+  [202604101235232907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101235232907.pdf)
+
+- Grant-in-Aid for the Marathwada Administrative and Development Training Academy, Nathnagar (North), Paithan, Dist. Chhatrapati Sambhajinagar  Year 2026-27 (Mandatory) (First Installment)\
+  [202604101127215707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101127215707.pdf)
+
+- Grant-in-Aid to Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Academy, Amravati  Year 2026-27 (Mandatory) (First Installment)\
+  [202604101137334407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101137334407.pdf)
+
 ## Miscellaneous
 - Procedure for Filling Posts Reserved for Backward Classes in the Small Category (Direct Recruitment)\
   [202604061254552507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061254552507.pdf)
@@ -31,6 +40,12 @@
 
 - Regarding the constitution of a committee in connection with the preparations for the Simhastha Kumbh Mela to be held in Nashik in the year 2027.\
   [202604091656172007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091656172007.pdf)
+
+- Regarding the invitation of expressions of interest from officers belonging to the Ministerial Section Officer cadre for filling the posts in the Assistant Commissioner category within the Nagpur Municipal Corporationunder the aegis of the Urban Development Departmenton a deputation basis.\
+  [202604101731048807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101731048807.pdf)
+
+- Filling the post of deputation basis.\
+  [202604101615002507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101615002507.pdf)
 
 ## Personnel
 - Provisional Combined Seniority List, as of January 1, 2026, of Officers/Employees belonging to Group-B (Non-Gazetted) and Group-C cadres on the administrative establishment of the Mantralaya Canteen/Cafeteria. (Period: January 1, 2025 to December 31, 2025)\

@@ -24,5 +24,8 @@
 - Regarding the approval for the relocation and transfer of the Balashram (Childrens Home) situated at Adarsh Colony, Taluka Partur, District Jalnaan institution dedicated to the care and protection of children under the Juvenile Justice (Care and Protection of Children) Act, 2015 (as amended in 2021) and administered by the Jagdamba Shikshan Prasarak Mandal, Majalgaonto the Shri Datt Yogiraj Bahuuddeshiya Samajik Sanstha, a Non-Governmental Organization (NGO) located at Mulewadi (Post), Taluka Karjat, District Ahilyanagar.\
   [202604081553463230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081553463230.pdf)
 
+- Regarding the approval of the revised staffing pattern for field offices under the administrative control of the Department of Women and Child Development.\
+  [202604101809424730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101809424730...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

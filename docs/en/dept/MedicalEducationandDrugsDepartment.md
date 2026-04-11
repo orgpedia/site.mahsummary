@@ -10,6 +10,9 @@
 - Administrative approval for the purchase of machinery and equipment to Shri. Vasantrao Naik Government Medical College and Hospital, Yavatmal from the grant approved under the District Mineral Foundation.\
   [202604091131336813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091131336813.pdf)
 
+- Regarding granting administrative approval to the revised Estimate for the construction of a 100-student capacity medical college and  attached 430-bed hospital, boys and girls hostels, residences, etc. at Government Medical College, Wardha.\
+  [202604101013065613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101013065613......pdf)
+
 ## Miscellaneous
 - Administrative Approval to the Estimate for leveling the land near the dam at Rajarshi Chhatrapati Shahu Maharaj Government Medical College, Shenda Park, Kolhapur and carrying out ancillary works.\
   [202604091456091913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091456091913.pdf)

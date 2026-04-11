@@ -28,6 +28,9 @@
 - Regarding the Sanction of Funds to Municipal Councils under the Special Scheme For the Financial Year 2022-23, under Head of Account (4217 0603) For Sangola Municipal Council, Dist. Solapur Amount: Rs. 5.00 Crore (Corrigendum)\
   [202604091524318725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091524318725.pdf)
 
+- Regarding the approval for the implementation of the World Bank-assisted Maharashtra Urban Water Supply, Sanitation and Reuse Program (MUWREP) project in the State...\
+  [202604101813358325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101813358325.pdf)
+
 ## Miscellaneous
 - Regarding the publication of the Final Seniority List as of January 1, 2026, for officers belonging to the Director of Town Planning (Group-A) cadre on the establishment of the Directorate of Town Planning and Valuation.\
   [202604071216093425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071216093425.pdf)

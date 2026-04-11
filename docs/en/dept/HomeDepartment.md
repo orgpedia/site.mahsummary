@@ -32,6 +32,9 @@
 - Regarding the appointment of Mr. Viraj Santosh Ghag and Mr. Vikas Haridas Sayam, wards of martyrs, on compassionate grounds to the post of Police Sub-Inspector, Group-B (Non-Gazetted).\
   [202604091229508729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091229508729.pdf)
 
+- Regarding the Grant of Administrative Approval for the Procurement of Computers, Printers, and UPS units for the Directorate of Prosecution (Home Department) under the ICJS 2.0 Project.\
+  [202604101604270929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101604270929.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of officers of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
   [202604081341372229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081341372229.pdf)
@@ -44,6 +47,18 @@
 
 - Regarding appointment to the post of Assistant Government Pleader, Group A, by Direct Recruitment.\
   [202604091511267729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091511267729.pdf)
+
+- Regarding the extension of the tenure of a total of 946 temporary posts across various cadres functioning under the establishment of the Directorate of Prosecution.\
+  [202604101901388129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101901388129.pdf)
+
+- Supplementary Regular Select List  2024-25 (Part-II): Regarding Postings by Promotion to the Cadre of Superintendent of Police / Deputy Commissioner of Police (Non-Cadre).\
+  [202604101746004629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101746004629.pdf)
+
+- Continuation of Posts.\
+  [202604101208499629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101208499629.pdf)
+
+- Continuation of Posts.\
+  [202604101212452629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101212452629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

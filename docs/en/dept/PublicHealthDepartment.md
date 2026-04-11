@@ -18,5 +18,8 @@
 - Regarding extension of 126 temporary posts in the Dental Department under the supervision of Deputy Director, Health Services, Kolhapur Board, Kolhapur.\
   [202604091253541117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091253541117.pdf)
 
+- Standard Operating System for the treatment from the Corpus Fund under the State Health Assurance Society under the Vistarit Mahatma Jyotirao Phule Jan Arogya Yojana and Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana.....\
+  [202604101123583917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101123583917.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
