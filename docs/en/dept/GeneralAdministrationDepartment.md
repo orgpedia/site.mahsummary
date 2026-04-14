@@ -1,67 +1,31 @@
 # General Administration Department
 
-**Date Range**: 13 April 2026 - 18 April 2026
+**Date Range**: 20 April 2026 - 25 April 2026
 
 
 ## Funds
-- Regarding the grant of administrative approval for procuring MS-SQL licenses in connection with the strengthening of the Maharashtra State Data Center (MH-SDC) infrastructure...\
-  [202604061832108407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061832108407.pdf)
-
-- Regarding the grant of administrative and financial approval for the expenditure to be incurred in connection with the Tech-Wari 2.0 training program, scheduled to be held at the Mantralaya from May 4 to May 8, 2026.\
-  [202604081801021307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081801021307.pdf)
-
-- Integrated Probationary Training Program Regarding the disbursement of grants to the Vanamati, Nagpur training instituteunder the head 36-Grants-in-Aid (Salaries)for the payment of salaries for the months of March and April 2026, in connection with the Integrated Probationary Training Program for the Financial Year 2026-27.\
-  [202604101235232907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101235232907.pdf)
-
-- Grant-in-Aid for the Marathwada Administrative and Development Training Academy, Nathnagar (North), Paithan, Dist. Chhatrapati Sambhajinagar  Year 2026-27 (Mandatory) (First Installment)\
-  [202604101127215707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101127215707.pdf)
-
-- Grant-in-Aid to Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Academy, Amravati  Year 2026-27 (Mandatory) (First Installment)\
-  [202604101137334407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101137334407.pdf)
+- Regarding the appointment of a catering service provider at Nandanvan, the official residence of the Hon. Deputy Chief Minister (Shri Eknath Shinde).\
+  [202604131532030307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131532030307.pdf)
 
 ## Miscellaneous
-- Procedure for Filling Posts Reserved for Backward Classes in the Small Category (Direct Recruitment)\
-  [202604061254552507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061254552507.pdf)
+- Regarding the allocation of space for the personnel of the Elite Guard Company deployed at the Mantralaya, and for the secure storage of their weaponry and equipment.\
+  [202604131246257007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131246257007.pdf)
 
-- Regarding Reservation for Isolated Posts\
-  [202604061252545107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604061252545107.pdf)
+- Regarding the grant of permission to execute a lease agreement for the land allotted to the State Bank of India, Mumbai.\
+  [202604131250530607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131250530607.pdf)
 
-- Training, under State Training Policy to Mantralaya cadre Assistant Section Officer\
-  [202604071710551107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071710551107.pdf)
-
-- Regarding the filling of one post of Executive Officer at the Shri Shanaishwar Devasthan, Shingnapur, on deputation from among the Section Officers of the Ministerial Cadre.\
-  [202604081313041407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081313041407.pdf)
-
-- Extension for medical examinations as per the AIS (Performance Appraisal Report) Rules, 2007 to IAS officers..\
-  [202604081132546907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081132546907.pdf)
-
-- Regarding the Filling of the Post of Administrative Officer (Group-B) on the Establishment of the Mantralaya Canteen, by Deputation from among Section Officers of the Mantralaya Cadre\
-  [202604081315286207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081315286207.pdf)
-
-- Regarding the constitution of a committee in connection with the preparations for the Simhastha Kumbh Mela to be held in Nashik in the year 2027.\
-  [202604091656172007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604091656172007.pdf)
-
-- Regarding the invitation of expressions of interest from officers belonging to the Ministerial Section Officer cadre for filling the posts in the Assistant Commissioner category within the Nagpur Municipal Corporationunder the aegis of the Urban Development Departmenton a deputation basis.\
-  [202604101731048807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101731048807.pdf)
-
-- Filling the post of deputation basis.\
-  [202604101615002507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604101615002507.pdf)
+- Post-Promotion Training for the Ministerial Stenographer Cadre under the State Training Policy.\
+  [202604131710030807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131710030807.....pdf)
 
 ## Personnel
-- Provisional Combined Seniority List, as of January 1, 2026, of Officers/Employees belonging to Group-B (Non-Gazetted) and Group-C cadres on the administrative establishment of the Mantralaya Canteen/Cafeteria. (Period: January 1, 2025 to December 31, 2025)\
-  [202604071518216207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071518216207.pdf)
+- Seniority List Provisional Seniority List of Officers in the Cadre of Deputy Director (Information), Group-A (Senior), as of January 1, 2026.\
+  [202604131506256407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131506256407.pdf)
 
-- Regarding the abolition of permanent posts of 2 telephone operators at the establishment of the General Administration Department (KHUDD)....\
-  [202604071513268907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071513268907.pdf)
+- Transfers of Assistant Section Officers\
+  [202604131309206907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131309206907.pdf)
 
-- Regarding the promotion to the post of Director (Information), Group-A (Senior), in the Directorate General of Information and Public Relations.\
-  [202604071237217407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071237217407....pdf)
-
-- Regarding the transfer of Shri Anil Kumar Alurkar, Deputy Director (Information)  Directorate General of Information and Public Relations  to a supernumerary post, pursuant to the judgment delivered by the Honble Supreme Court in Civil Appeal No. 8928/2015 and other petitions, wherein his Scheduled Tribe caste certificate was declared invalid.\
-  [202604071630327207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604071630327207.pdf)
-
-- Regarding the extension of the tenure of a total of 192 temporary postscomprising 191 posts within the Directorate General of Information and Public Relations and its subordinate offices, and 1 post within the office of the Superintendent, Books and Publications, Mumbaifor the period from March 1, 2026, to August 31, 2026.\
-  [202604081848282807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081848282807....pdf)
+- Additional Temporary Seniority List of Assistant Section Officers eligible for promotion to the post of Section Officer, as on 01.01.2026\
+  [202604131521249107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131521249107....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
