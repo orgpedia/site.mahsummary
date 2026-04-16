@@ -7,5 +7,8 @@
 - Transfer / Posting of Officers in the Superintending Engineer (Civil) Cadre.\
   [202604131239458018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131239458018.pdf)
 
+- Regarding the continuation of temporary posts in the offices under the jurisdiction of the Chief Engineer, Public Works Regional Division, Konkan\
+  [202604151719414318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151719414318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

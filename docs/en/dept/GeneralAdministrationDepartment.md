@@ -17,6 +17,15 @@
 - Post-Promotion Training for the Ministerial Stenographer Cadre under the State Training Policy.\
   [202604131710030807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131710030807.....pdf)
 
+- Regarding cancellation of appointment of candidates recommended by Maharashtra Public Service Commission from the waiting list no.2 for Lower Category Stenographer (Marathi/English) Examination 2022 who did not join within the prescribed period.\
+  [202604151544237407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151544237407.pdf)
+
+- Regarding cancellation of appointment of candidates recommended by Maharashtra Public Service Commission from the waiting list no. 2 for Steno Typist (Marathi/English) Examination 2022 who did not join within the prescribed period.\
+  [202604151549200607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151549200607.pdf)
+
+- Regarding the Reconstitution of the State Broadband Committee and the Constitution of District-level Telecommunication Committees\
+  [202604151754117707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151754117707.pdf)
+
 ## Personnel
 - Seniority List Provisional Seniority List of Officers in the Cadre of Deputy Director (Information), Group-A (Senior), as of January 1, 2026.\
   [202604131506256407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131506256407.pdf)
@@ -26,6 +35,9 @@
 
 - Additional Temporary Seniority List of Assistant Section Officers eligible for promotion to the post of Section Officer, as on 01.01.2026\
   [202604131521249107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131521249107....pdf)
+
+- Regarding the payment of salaries to officers awaiting appointment in the Indian Administrative Service, to be disbursed through the General Administration Department.\
+  [202604151848321707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151848321707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

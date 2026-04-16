@@ -11,5 +11,8 @@
 - Regarding the renaming of two existing schemes pertaining to the incidental expenses incurred in implementing the Guaranteed Price Procurement Process under the Central Governments Minimum Support Price Scheme.\
   [202604131752170202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131752170202.pdf)
 
+- Regarding the prohibition on workers in all Agricultural Produce Market Committees across the State from carrying loads exceeding 50 kilograms...\
+  [202604151758345402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151758345402.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

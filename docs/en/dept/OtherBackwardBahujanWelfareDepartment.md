@@ -7,6 +7,9 @@
 - Regarding the distribution of funds to the Maharashtra Research, Upgradation and Training Academy (AMRUT), Pune, under the Head of Account 2225 F 532, Sub-head 31 (Non-Salary Grant), for the financial year 2026-27...\
   [202604131730269334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131730269334.pdf)
 
+- Regarding the grant of administrative approval for the purchase of a new vehicle in replacement of a condemned vehicle...\
+  [202604151526367534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151526367534.pdf)
+
 ## Miscellaneous
 - Regarding the selection of a school under the scheme titled Providing Education to Students of the Gowari Community (Special Backward Class) in Renowned English-Medium Residential Schools. Rai English School  Junior College, Gadge Nagar, Hingna Road, Nagpur  Managed by Shribalashri Multipurpose Educational Institute, Nagpur.\
   [202604131800130634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131800130634.pdf)

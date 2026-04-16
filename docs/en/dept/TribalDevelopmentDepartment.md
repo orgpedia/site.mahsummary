@@ -1,17 +1,15 @@
 # Tribal Development Department
 
-**Date Range**: 13 April 2026 - 18 April 2026
+**Date Range**: 20 April 2026 - 25 April 2026
 
+
+## Funds
+- To release grant for the scheme of general education schemes under the TSP in financial year 2026-27.  (CRC 2202 1901, 2202 1948  2202 H973) 36- Grant-in-aid (Salary).\
+  [202604151152090424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151152090424.pdf)
 
 ## Miscellaneous
-- To release grant for the scheme of scheme expenditure schemes under the TSP in financial year 2026-27.\
-  [202604081310000924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081310000924.pdf)
-
-- To release grant for the scheme of committed expenditure schemes under the TSP in financial year 2026-27.\
-  [202604081310022924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081310022924.pdf)
-
-- To release grant for the scheme of District annual sub plan under the TSP in financial year .. (Demand No-T-09) 01-salary\
-  [202604081310134724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604081310134724.pdf)
+- Measures to be undertaken to increase student enrollment in Government and Aided Ashram Schools.\
+  [202604151722186324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151722186324.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
