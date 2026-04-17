@@ -41,5 +41,20 @@
 - Regarding extension of tenure of the posts of Superintending Engineer, Nanded Irrigation Board, Nanded and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/03/2026 to 31/08/2026.\
   [202604151646137927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151646137927.pdf)
 
+- Regarding the sanction of a Bulk Water Entitlement from the Andra Dam Project for domestic (drinking) purposes to the Talegaon Dabhade Municipal Council (Taluka Maval, District Pune), under the Maharashtra Swarna Jayanti Nagarotthan Maha-abhiyan.\
+  [202604161316200927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161316200927.pdf)
+
+- Continuation of Posts.\
+  [202604161125002027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161125002027.pdf)
+
+- Continuation of Posts.\
+  [202604161127463827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161127463827.pdf)
+
+- Continuation of Posts.\
+  [202604161122100327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161122100327.pdf)
+
+- Regarding extension of tenure of the posts of Superintending Engineer, Yavatmal Irrigation Board, Yavatmal and 3 divisional offices under his jurisdiction on fixed temporary establishment and converted temporary establishment for the period from 01/03/2026 to 31/08/2026.\
+  [202604161130021427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161130021427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

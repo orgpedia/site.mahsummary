@@ -26,6 +26,15 @@
 - Regarding the Reconstitution of the State Broadband Committee and the Constitution of District-level Telecommunication Committees\
   [202604151754117707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151754117707.pdf)
 
+- Regarding the determination of rate contracts for vehicles to be procured from private suppliers for the Collector, Nashik, and other government offices within the Nashik Division.\
+  [202604161740241007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161740241007.pdf)
+
+- Regarding taking Services Data entry Operator through outsourcing.\
+  [202604161331527807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161331527807.pdf)
+
+- Regarding the exemption from post-promotion training for employees in the cadre of Senior Personal Assistant/Selection Grade Stenographer (Ministerial) who have two years remaining until retirement.\
+  [202604161239533007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161239533007.pdf)
+
 ## Personnel
 - Seniority List Provisional Seniority List of Officers in the Cadre of Deputy Director (Information), Group-A (Senior), as of January 1, 2026.\
   [202604131506256407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131506256407.pdf)

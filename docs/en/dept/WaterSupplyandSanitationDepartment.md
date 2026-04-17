@@ -14,5 +14,15 @@
 - Budgetary Grant Year 2026-27 Demand No. Y-04, 2702 Regarding distribution of funds for Exploration and Development of Groundwater Resources Establishment (Non-Plan) for Small Irrigation.\
   [202604151752170128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151752170128.pdf)
 
+## Personnel
+- To give revised administrative approval to Mauje Malnathpur, Tq. Parali, Dist. Beed water supply scheme under Jal Jeevan Mission.\
+  [202604161503259428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161503259428.pdf)
+
+- Regarding the establishment of District Technical Unit (DTU) in every district of the state for water supply schemes under the Jal Jeevan Mission as per the guidelines of the Central Government.\
+  [202604161503204128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161503204128.pdf)
+
+- To give revised administrative approval to Mauje Tamalwadi and 2 villages water supply schemeTq. Tuljapur, dist. Dharashiv under Jal Jeevan Mission.\
+  [202604161503319628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161503319628.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

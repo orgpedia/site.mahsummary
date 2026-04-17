@@ -3,6 +3,10 @@
 **Date Range**: 20 April 2026 - 25 April 2026
 
 
+## Miscellaneous
+- Regarding revision of the carpet area (sample maps) of government residences to be constructed for government officers/employees.\
+  [202604161500124618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161500124618.pdf)
+
 ## Personnel
 - Transfer / Posting of Officers in the Superintending Engineer (Civil) Cadre.\
   [202604131239458018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131239458018.pdf)

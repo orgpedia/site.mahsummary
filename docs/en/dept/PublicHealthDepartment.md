@@ -17,5 +17,11 @@
 - Regarding continuation of a total of 324 temporary posts in mental health related health institutions in the state\
   [202604151127149617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151127149617.pdf)
 
+- Continuation of 2173 temporary posts under the charge of Deputy Director, Health Services, Nashik Board, Nashik.\
+  [202604161700524517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161700524517.pdf)
+
+- Transfer policy for officers and employees (Group-B, Group-C, and Group-D) working in all institutions under the Public Health Department.\
+  [202604151737584317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151737584317.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

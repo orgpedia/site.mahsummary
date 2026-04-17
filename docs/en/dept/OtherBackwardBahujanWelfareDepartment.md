@@ -17,5 +17,11 @@
 - Regarding the selection of a school under the scheme titled Providing Education to Students of the Gowari Community (Special Backward Class) in Renowned English-Medium Residential Schools. Adarsh Sanskar Vidyalaya and Junior College, Pipla, Nagpur  Managed by Radhaswami Vividh Karyakari Educational Institution.\
   [202604131802180634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131802180634.pdf)
 
+- Regarding the selection of a school under the scheme for providing education to students belonging to the Gowari community (Special Backward Class) in renowned English-medium residential schools located in urban areas. Swami Vivekananda Public School, Sevadas Nagar, Arni, Taluka Arni, District Yavatmal  Managed by Sevadas Multipurpose Educational Institution, Arni, Taluka Arni, District Yavatmal.\
+  [202604161749141634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161749141634.pdf)
+
+- Regarding the selection of a school under the scheme for providing education to students from the Gowari community (belonging to the Special Backward Class category) in reputed English-medium residential schools. Progressive English School, Chulod Road, Gondia  Managed by Shrimati Umabai Multipurpose Educational Institution, Gondia.\
+  [202604161746305534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161746305534.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

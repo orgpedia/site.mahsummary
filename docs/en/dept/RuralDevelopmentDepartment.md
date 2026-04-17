@@ -29,6 +29,21 @@
 - Regarding the extension of the evaluation period at various levels under the Mukhyamantri  Samruddha Panchayat Raj Abhiyan\
   [202604141754578520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604141754578520.pdf)
 
+- Hon. Balasaheb Thackeray Smriti Matoshree  Regarding granting approval for the construction of Gram Panchayat buildings in Jalgaon  district under the Gram Panchayat Construction Scheme\
+  [202604151108199420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151108199420.pdf)
+
+- Regarding inclusion of  non-planned/classified roads as rural roads in Miraj taluka of Sangli district in Road Development Plan 2001-21\
+  [202604151108255520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151108255520.pdf)
+
+- Hon. Balasaheb Thackeray Smriti Matoshree  Regarding change in the name of Gram Panchayats in Satara  district under Gram Panchayat Construction Scheme\
+  [202604151232020720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151232020720.pdf)
+
+- Hon. Balasaheb Thackeray Smriti Matoshree  Regarding granting approval for the construction of Gram Panchayat buildings in Kolhapur district under the Gram Panchayat Construction Scheme\
+  [202604151108132720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151108132720.pdf)
+
+- Hon. Balasaheb Thackeray Smriti Matoshree  Regarding granting approval for the construction of Gram Panchayat buildings in Satara  District under the Gram Panchayat Construction Scheme\
+  [202604151107070320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151107070320.pdf)
+
 ## Personnel
 - Regarding approval to continue the temporary posts created for              the work of the program budget of the District Councils from 1              march, 2026 to 31 August, 2026.\
   [202604151302318320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151302318320.pdf)
