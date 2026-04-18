@@ -3,12 +3,19 @@
 **Date Range**: 20 April 2026 - 25 April 2026
 
 
+## Funds
+- Regarding the Grant of Third Revised Administrative Approval to the Shelgaon Barrage Medium Project (Taluka  District: Jalgaon).\
+  [202604171216543827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171216543827.pdf)
+
 ## Miscellaneous
 - Regarding the observance of the Water Management Action Fortnight from April 15 to April 30.\
   [202604131112196027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131112196027.pdf)
 
 - Regarding the Reconstitution of the Departmental Promotion Committee\
   [202604151745229227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151745229227.pdf)
+
+- Regarding the approval of the revised water planning for the Tulshi, Dudhganga, and Dhamani projects.\
+  [202604171220047127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171220047127.pdf)
 
 ## Personnel
 - Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment in the office under the authority of Superintending Engineer, Maharashtra Engineering Research Institute, Mary, Nashik from 01/03/2026 to 31/08/2026.\
@@ -55,6 +62,12 @@
 
 - Regarding extension of tenure of the posts of Superintending Engineer, Yavatmal Irrigation Board, Yavatmal and 3 divisional offices under his jurisdiction on fixed temporary establishment and converted temporary establishment for the period from 01/03/2026 to 31/08/2026.\
   [202604161130021427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161130021427.pdf)
+
+- Regarding the publication of the Final Seniority Lists for the post of Deputy Engineer (Electrical) as of 01/01/2022, 01/01/2023, and 01/01/2024.\
+  [202604171721241427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171721241427.pdf)
+
+- Regarding the publication of the Final Seniority List for the post of Deputy Engineer (Mechanical), Group-A Cadre, as of January 1, 2022.\
+  [202604171718434427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171718434427.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

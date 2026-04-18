@@ -35,6 +35,15 @@
 - Regarding the exemption from post-promotion training for employees in the cadre of Senior Personal Assistant/Selection Grade Stenographer (Ministerial) who have two years remaining until retirement.\
   [202604161239533007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161239533007.pdf)
 
+- Regarding filling up the posts of Section Officer on Deputation Basis in the office of Maharashtra Jeevan Pradhikaran, Belapur, Navi Mumbai.\
+  [202604171626021407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171626021407.pdf)
+
+- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) (From May 18, 2026, to May 29, 2026)\
+  [202604171632166907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171632166907.pdf)
+
+- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) (From 04.05.2026 to 15.05.2026)\
+  [202604171628314107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171628314107.pdf)
+
 ## Personnel
 - Seniority List Provisional Seniority List of Officers in the Cadre of Deputy Director (Information), Group-A (Senior), as of January 1, 2026.\
   [202604131506256407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131506256407.pdf)

@@ -7,6 +7,15 @@
 - Regarding providing  guidelines for the disposal of proposals of revised administrative approval of water supply schemes under the Jal Jeevan Mission at the Divisional Commissioner level.\
   [202604151751426728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151751426728.pdf)
 
+- Financial Year 2026-27  Regarding distribution of Subsidiary Grant towards Salary and Allowances to Maharashtra Life Authority. (Mandatory) (2215A041), 36, Subsidiary Grants (Salary).\
+  [202604161700173228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161700173228.pdf)
+
+- Financial Year 2026-27  Regarding the distribution of grants to Zilla Parishads under the account head Establishment Grants, Regular Establishments (Compulsory) (2215 1881) (36- Subsidiary Grants) under Section 183 of the Maharashtra Zilla Parishad and Panchayat Samiti Act, 1961.\
+  [202604161700122728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161700122728.pdf)
+
+- Regarding distribution of grant under the account head Divisional / Sub Divisional Establishment (Compulsory) (22151843) (01- Salary) for the implementation of water supply programme for the financial year 2026-27.\
+  [202604161700069628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161700069628.pdf)
+
 ## Miscellaneous
 - Regarding the formation and determination of terms of reference for technical committees at various levels for the scrutiny of proposals for revised administrative approval of water supply schemes.\
   [202604151750549628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151750549628.pdf)

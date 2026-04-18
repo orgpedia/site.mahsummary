@@ -25,6 +25,9 @@
 - Regarding extension of the arrangement to make 1600 rural housing engineers available from external agencies for effective implementation of Pradhan Mantri Awas Yojana - Rural and other rural housing schemes in the state.\
   [202604151320185220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151320185220.pdf)
 
+- Regarding granting administrative approval to development works to be carried out under Punyashlok Ahilyadevi Holkar Rural Yatrasthala Yojana (B Class). Shri Kshetra Khandoba Devasthan, Mouje Malegaon Yatra, Tal. Loha, Dist. Nanded.\
+  [202604171703027020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171703027020.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the evaluation period at various levels under the Mukhyamantri  Samruddha Panchayat Raj Abhiyan\
   [202604141754578520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604141754578520.pdf)
@@ -43,6 +46,9 @@
 
 - Hon. Balasaheb Thackeray Smriti Matoshree  Regarding granting approval for the construction of Gram Panchayat buildings in Satara  District under the Gram Panchayat Construction Scheme\
   [202604151107070320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151107070320.pdf)
+
+- Regarding cancellation of appointments of non-official members on various committees (State, Divisional, District and Taluka level) under the Sant Sevalal Maharaj Banjara/Labhana Tanda Samruddhi Yojana.\
+  [202604161715432520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161715432520.pdf)
 
 ## Personnel
 - Regarding approval to continue the temporary posts created for              the work of the program budget of the District Councils from 1              march, 2026 to 31 August, 2026.\

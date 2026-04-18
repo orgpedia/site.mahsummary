@@ -7,6 +7,9 @@
 - Regarding revision of the carpet area (sample maps) of government residences to be constructed for government officers/employees.\
   [202604161500124618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161500124618.pdf)
 
+- Regarding the Grant of Administrative Approval to the Superintending Engineer, Public Works Board, Solapur, for the purchase of new inspection vehicles in replacement of written-off inspection vehicles.\
+  [202604171223457318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171223457318.pdf)
+
 ## Personnel
 - Transfer / Posting of Officers in the Superintending Engineer (Civil) Cadre.\
   [202604131239458018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131239458018.pdf)
