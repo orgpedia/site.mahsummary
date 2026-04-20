@@ -7,6 +7,9 @@
 - Regarding the appointment of a catering service provider at Nandanvan, the official residence of the Hon. Deputy Chief Minister (Shri Eknath Shinde).\
   [202604131532030307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131532030307.pdf)
 
+- Rajiv Gandhi Administrative Dynamism Mission and Competition 2025-2026: Regarding declaration of State level prize winners.\
+  [202604191528519707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604191528519707.pdf)
+
 ## Miscellaneous
 - Regarding the allocation of space for the personnel of the Elite Guard Company deployed at the Mantralaya, and for the secure storage of their weaponry and equipment.\
   [202604131246257007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131246257007.pdf)
