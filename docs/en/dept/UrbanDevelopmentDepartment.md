@@ -1,36 +1,22 @@
 # Urban Development Department
 
-**Date Range**: 20 April 2026 - 25 April 2026
+**Date Range**: 27 April 2026 - 02 May 2026
 
 
 ## Funds
-- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2026-27, under Head of Account (2217 1301) For Dharashiv Municipal Council, Dist. Dharashiv Amount: Rs. 5.00 Crores\
-  [202604131018149525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131018149525.pdf)
-
-- Regarding the sanctioning of funds under the scheme: Grant-in-Aid for the Development Program of Pilgrimage Sites within Municipal Council Areas (Budget Head 2217 0951). Regarding the sanctioning of the remaining amount of Rs. 2.49 Crores for the Gadhinglaj Municipal Council, corresponding to the previously sanctioned amount of Rs. 4.99 Crores, based on a 100 Government share.\
-  [202604161558358825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161558358825.pdf)
-
-- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2024-25, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 9.50 Crore (Corrigendum)\
-  [202604171647065225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171647065225.pdf)
+- Regarding the Sanction of Funds under the Scheme Special Provision for the Development of Basic Amenities within Municipal Corporation Areas For the Year 2026-27 (Under Head of Account 2217 0913) For Thane Municipal Corporation, Dist. Thane Amount: Rs. 47.00 Crores\
+  [202604201623332625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201623332625.pdf)
 
 ## Miscellaneous
-- Regarding the Creation of Posts under the Nashik-Trimbakeshwar Kumbh Mela Authority (Corrigendum)\
-  [202604151802597925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151802597925.pdf)
+- Regarding the Sanction of Funds under the Scheme: Special Provision for the Development of Basic Amenities within Municipal Corporation Areas For the Financial Year 2023-24 (Under Head of Account: 4217 0541) For the Brihanmumbai Municipal Corporation, Dist. Mumbai Suburban Amount: Rs. 20.00 Crores (Corrigendum)\
+  [202604201625512425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201625512425.pdf)
 
-- Regarding the Finalization of the Financial Framework and Guidelines under the Scheme for Development of Basic Amenities in Municipal Corporation Areas. (Amendment to the Financial Framework)\
-  [202604161601160825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161601160825.pdf)
+- Regarding the approval for the constitution of a committee to draft a comprehensive and uniform Street Vendors Scheme for Urban Local Bodies within the Stateincorporating all provisions enshrined in Section 38 and Schedule II of the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014and to determine the procedure to be adopted by the committee for the notification of the said Street Vendors Scheme.\
+  [202604201318277125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201318277125.pdf)
 
-- Regarding the determination of criteria and revised guidelines for the Distinctive Scheme applicable to Municipal Councils in the State. (Revision in the Financial Framework)\
-  [202604161557187225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161557187225.pdf)
-
-- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2024-25, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 15.00 Crore (Corrigendum)\
-  [202604171908368625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171908368625.pdf)
-
-- Regarding the grant of administrative approval for the construction of a memorial to Punyashlok Ahilyadevi Holkar in the town of Tivsa.\
-  [202604171608456225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171608456225.pdf)
-
-- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme For the Financial Year 2023-24, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 10.00 Crore (Corrigendum)\
-  [202604171910044125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171910044125.pdf)
+## Personnel
+- Regarding the Granting of Government Approval for Promotions to the Posts of Chief Sanitation Officer and Assistant Commissioner on the Establishment of the Latur City Municipal Corporation.\
+  [202604201516139725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201516139725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

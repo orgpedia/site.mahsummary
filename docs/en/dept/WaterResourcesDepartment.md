@@ -1,73 +1,27 @@
 # Water Resources Department
 
-**Date Range**: 20 April 2026 - 25 April 2026
+**Date Range**: 27 April 2026 - 02 May 2026
 
-
-## Funds
-- Regarding the Grant of Third Revised Administrative Approval to the Shelgaon Barrage Medium Project (Taluka  District: Jalgaon).\
-  [202604171216543827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171216543827.pdf)
 
 ## Miscellaneous
-- Regarding the observance of the Water Management Action Fortnight from April 15 to April 30.\
-  [202604131112196027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131112196027.pdf)
+- Regarding the applicability of the Old Pension Scheme to State Government Officers/Employees who joined government service on or after November 1, 2005on the lines of the Central Governmentin cases where the recruitment advertisement/notification was issued prior to November 1, 2005.\
+  [202604201447201327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201447201327.pdf)
 
-- Regarding the Reconstitution of the Departmental Promotion Committee\
-  [202604151745229227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151745229227.pdf)
+- Regarding the establishment of a Standing Coordination and Monitoring Committee under the Godavari Marathwada Irrigation Development Corporation, for the purpose of determining the annual water utilization of the Godavari Basin.\
+  [202604201631587227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201631587227.pdf)
 
-- Regarding the approval of the revised water planning for the Tulshi, Dudhganga, and Dhamani projects.\
-  [202604171220047127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171220047127.pdf)
+- Regarding the applicability of the Old Pension Scheme to State Government Officers/Employees who joined government service on or after November 1, 2005on the lines of the Central Governmentin cases where the recruitment advertisement/notification was issued prior to November 1, 2005.\
+  [202604201449347727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201449347727.pdf)
+
+- Regarding the establishment of a Standing Coordination and Monitoring Committee for the purpose of determining the annual water utilization of the Godavari Basin, under the Vidarbha Irrigation Development Corporation.\
+  [202604201630263227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201630263227.pdf)
+
+- Regarding the establishment of a Standing Coordination and Monitoring Committee under the Tapi Irrigation Development Corporation, for the purpose of determining the annual water utilization of the Tapi and Narmada basins.\
+  [202604201628285527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201628285527.pdf)
 
 ## Personnel
-- Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment in the office under the authority of Superintending Engineer, Maharashtra Engineering Research Institute, Mary, Nashik from 01/03/2026 to 31/08/2026.\
-  [202604151152542527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151152542527.pdf)
-
-- Regarding extension of tenure of the posts of Superintending Engineer, Thane Irrigation Board, Thane and his subordinate divisional offices for the period from 01/03/2026 to 31/08/2026.\
-  [202604151152436127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151152436127.pdf)
-
-- Transfer within the Deputy Engineer (Civil) Cadre (Total: 3 Assistant Engineers, Grade-I)\
-  [202604151748115827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151748115827.pdf)
-
-- Regarding extension of tenure of the fixed temporary and converted temporary posts of Superintending Engineer and Administrator, Benefit Area Development Authority, Nashik and their subordinate divisional offices for the period from 01/03/2026 to 31/08/2026.\
-  [202604151153216127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151153216127.pdf)
-
-- Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment under the authority of Superintending Engineer and Director, Directorate of Irrigation Research and Development, Pune from 01/03/2026 to 31/08/2026.\
-  [202604151646193327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151646193327.pdf)
-
-- Regarding extension of tenure for the posts on fixed temporary establishment in the office of Chief Auditor, Water and Irrigation, State of Maharashtra, Chhatrapati Sambhajinagar, for the period from 01/03/2026 to 31/08/2026.\
-  [202604151646252627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151646252627.pdf)
-
-- Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment in the office under the authority of Superintending Engineer and Joint Director, Maharashtra Engineering Training Institute, Nashik from 01/03/2026 to 31/08/2026.Regarding extension of tenure of posts on fixed temporary establishment and converted temporary establishment in the office under the authority of Superintending Engineer and Joint Director, Maharashtra Engineering Training Institute, Nashik from 01/03/2026 to 31/08/2026.\
-  [202604151152457327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151152457327.pdf)
-
-- Continuation of Posts.\
-  [202604151307149927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151307149927.pdf)
-
-- Regarding extension of tenure of the posts of Superintending Engineer, Bhandara Irrigation Board, Bhandara and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/03/2026 to 31/08/2026.\
-  [202604151153056027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151153056027.pdf)
-
-- Regarding extension of tenure of the posts of Superintending Engineer, Nanded Irrigation Board, Nanded and his subordinate divisional offices on fixed temporary establishment and converted temporary establishment for the period from 01/03/2026 to 31/08/2026.\
-  [202604151646137927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151646137927.pdf)
-
-- Regarding the sanction of a Bulk Water Entitlement from the Andra Dam Project for domestic (drinking) purposes to the Talegaon Dabhade Municipal Council (Taluka Maval, District Pune), under the Maharashtra Swarna Jayanti Nagarotthan Maha-abhiyan.\
-  [202604161316200927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161316200927.pdf)
-
-- Continuation of Posts.\
-  [202604161125002027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161125002027.pdf)
-
-- Continuation of Posts.\
-  [202604161127463827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161127463827.pdf)
-
-- Continuation of Posts.\
-  [202604161122100327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161122100327.pdf)
-
-- Regarding extension of tenure of the posts of Superintending Engineer, Yavatmal Irrigation Board, Yavatmal and 3 divisional offices under his jurisdiction on fixed temporary establishment and converted temporary establishment for the period from 01/03/2026 to 31/08/2026.\
-  [202604161130021427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161130021427.pdf)
-
-- Regarding the publication of the Final Seniority Lists for the post of Deputy Engineer (Electrical) as of 01/01/2022, 01/01/2023, and 01/01/2024.\
-  [202604171721241427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171721241427.pdf)
-
-- Regarding the publication of the Final Seniority List for the post of Deputy Engineer (Mechanical), Group-A Cadre, as of January 1, 2022.\
-  [202604171718434427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171718434427.pdf)
+- Regarding the promotion of officers to the cadre of Executive Director/Director General, holding the rank equivalent to that of a Secretary.\
+  [202604201803044927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201803044927.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

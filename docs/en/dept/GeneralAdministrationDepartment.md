@@ -1,64 +1,39 @@
 # General Administration Department
 
-**Date Range**: 20 April 2026 - 25 April 2026
+**Date Range**: 27 April 2026 - 02 May 2026
 
-
-## Funds
-- Regarding the appointment of a catering service provider at Nandanvan, the official residence of the Hon. Deputy Chief Minister (Shri Eknath Shinde).\
-  [202604131532030307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131532030307.pdf)
-
-- Rajiv Gandhi Administrative Dynamism Mission and Competition 2025-2026: Regarding declaration of State level prize winners.\
-  [202604191528519707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604191528519707.pdf)
 
 ## Miscellaneous
-- Regarding the allocation of space for the personnel of the Elite Guard Company deployed at the Mantralaya, and for the secure storage of their weaponry and equipment.\
-  [202604131246257007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131246257007.pdf)
+- Termination of Deputation and Repatriation to Parent Service Smt. Nivedita Lokesh Warule, Section Officer\
+  [202604201612434007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201612434007.pdf)
 
-- Regarding the grant of permission to execute a lease agreement for the land allotted to the State Bank of India, Mumbai.\
-  [202604131250530607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131250530607.pdf)
+- Regarding reinstatement from deputation service.. Smt. Varsha Samant, Section Officer.\
+  [202604201819238607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201819238607.pdf)
 
-- Post-Promotion Training for the Ministerial Stenographer Cadre under the State Training Policy.\
-  [202604131710030807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131710030807.....pdf)
+- Repatriation from Deputation- Shri Gafar Pirsaheb Magadum, Under Secretary\
+  [202604201730282507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201730282507.pdf)
 
-- Regarding cancellation of appointment of candidates recommended by Maharashtra Public Service Commission from the waiting list no.2 for Lower Category Stenographer (Marathi/English) Examination 2022 who did not join within the prescribed period.\
-  [202604151544237407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151544237407.pdf)
+- Extention of Deputation period .. Smt. Vaishali Kakade, Section Officer\
+  [202604201821023207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201821023207.pdf)
 
-- Regarding cancellation of appointment of candidates recommended by Maharashtra Public Service Commission from the waiting list no. 2 for Steno Typist (Marathi/English) Examination 2022 who did not join within the prescribed period.\
-  [202604151549200607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151549200607.pdf)
-
-- Regarding the Reconstitution of the State Broadband Committee and the Constitution of District-level Telecommunication Committees\
-  [202604151754117707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151754117707.pdf)
-
-- Regarding the determination of rate contracts for vehicles to be procured from private suppliers for the Collector, Nashik, and other government offices within the Nashik Division.\
-  [202604161740241007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161740241007.pdf)
-
-- Regarding taking Services Data entry Operator through outsourcing.\
-  [202604161331527807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161331527807.pdf)
-
-- Regarding the exemption from post-promotion training for employees in the cadre of Senior Personal Assistant/Selection Grade Stenographer (Ministerial) who have two years remaining until retirement.\
-  [202604161239533007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161239533007.pdf)
-
-- Regarding filling up the posts of Section Officer on Deputation Basis in the office of Maharashtra Jeevan Pradhikaran, Belapur, Navi Mumbai.\
-  [202604171626021407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171626021407.pdf)
-
-- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) (From May 18, 2026, to May 29, 2026)\
-  [202604171632166907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171632166907.pdf)
-
-- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) (From 04.05.2026 to 15.05.2026)\
-  [202604171628314107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171628314107.pdf)
+- Regarding the indefinite strike called by State Government employees, commencing from April 21, 2026, concerning their various pending demands...\
+  [202604201715244107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201715244107.pdf)
 
 ## Personnel
-- Seniority List Provisional Seniority List of Officers in the Cadre of Deputy Director (Information), Group-A (Senior), as of January 1, 2026.\
-  [202604131506256407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131506256407.pdf)
+- Regarding the Revision of Post-Promotion Placement for the Post of Section Officer (Ad-hoc Promotion) Mr. Vilas Ragho Bhogaonkar\
+  [202604201610045107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201610045107....pdf)
 
-- Transfers of Assistant Section Officers\
-  [202604131309206907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131309206907.pdf)
+- Regarding reinstatement from deputation service.. Smt. Aarati Patil, Section Officer.\
+  [202604201817434907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201817434907.pdf)
 
-- Additional Temporary Seniority List of Assistant Section Officers eligible for promotion to the post of Section Officer, as on 01.01.2026\
-  [202604131521249107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604131521249107....pdf)
+- Regarding the Transfer of an Officer belonging to the Mantralaya Section Officer Cadre\
+  [202604201607330607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201607330607.pdf)
 
-- Regarding the payment of salaries to officers awaiting appointment in the Indian Administrative Service, to be disbursed through the General Administration Department.\
-  [202604151848321707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151848321707.pdf)
+- Repatriation from Service on Deputation (Promotional Assignment) Smt. Prerana Vijay Salunkhe, Section Officer\
+  [202604201614236507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201614236507.pdf)
+
+- Transfer of  Shri. Abhijeet Arvind Khochare, Under Secretary\
+  [202604201228186707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201228186707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

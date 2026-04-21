@@ -1,18 +1,11 @@
 # Housing Department
 
-**Date Range**: 06 April 2026 - 11 April 2026
+**Date Range**: 27 April 2026 - 02 May 2026
 
 
 ## Funds
-- Regarding the disbursement of funds for infrastructure development works under the Development of New Chandrapur City scheme.\
-  [202603311915096709.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311915096709.pdf)
-
-## Miscellaneous
-- Regarding the Granting of Administrative Approval for Infrastructure Development Works under the Development of New Chandrapur City Scheme\
-  [202603311917214509.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202603311917214509.pdf)
-
-- Regarding the Implementation of the Hinduhridaysamrat Balasaheb Thackeray Urban Public Welfare Campaign\
-  [202604011820127909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604011820127909.pdf)
+- Regarding the provision of funds to the Maharashtra Housing Development Corporation (MahaHousing) from the Maharashtra Shelter Fund.\
+  [202604201649514609.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201649514609.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

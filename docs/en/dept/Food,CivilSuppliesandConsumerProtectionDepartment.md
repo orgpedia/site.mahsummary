@@ -1,18 +1,24 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 20 April 2026 - 25 April 2026
+**Date Range**: 27 April 2026 - 02 May 2026
 
 
 ## Miscellaneous
-- Regarding the strict implementation of instructions issued pursuant to Government Resolutions and Circulars concerning promotions, by officers and employees selected for promotion.\
-  [202604151449316606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604151449316606.pdf)
-
-- Final Seniority List of the cadre of Inspection Officer (Supply) / Circle Officer, Group-B (Gazetted), under the Food, Civil Supplies and Consumer Protection Department, reflecting the status as of January 1, 2026.\
-  [202604161621398906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604161621398906.pdf)
+- Final Combined Seniority List of the Assistant District Supply Officer (Group-B) and Technical Officer (Group-B) cadres within the Food, Civil Supplies, and Consumer Protection Department, reflecting the status as of January 1, 2026.\
+  [202604201620558706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201620558706....pdf)
 
 ## Personnel
-- Regarding the hiring of warehouses on a rental basis for the storage of Custom Milled Rice (CMR) accruing from paddy procured under the Minimum Support Price (MSP) scheme during the Marketing Season 2025-2026.\
-  [202604171934472406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604171934472406.pdf)
+- Regarding the additional workload to be assigned to the Members of the District Consumer Disputes Redressal Commission.\
+  [202604201604332106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201604332106.pdf)
+
+- Regarding the Promotion and Posting of the Deputy Commissioner (Supply) in the Food, Civil Supplies, and Consumer Protection Department  Group A (Gazetted) Cadre.\
+  [202604201825023806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201825023806.pdf)
+
+- Regarding the Promotion and Posting of the Deputy Commissioner (Supply) in the Food, Civil Supplies, and Consumer Protection Department  Group A (Gazetted) Cadre.\
+  [202604201823257906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201823257906.pdf)
+
+- Regarding the Promotion and Posting of the Deputy Commissioner (Supply) in the Food, Civil Supplies, and Consumer Protection Department  Group A (Gazetted) Cadre.\
+  [202604201827066306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201827066306.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
