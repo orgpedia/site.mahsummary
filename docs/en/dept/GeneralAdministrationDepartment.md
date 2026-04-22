@@ -19,6 +19,15 @@
 - Regarding the indefinite strike called by State Government employees, commencing from April 21, 2026, concerning their various pending demands...\
   [202604201715244107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201715244107.pdf)
 
+- Regarding the Invitation of Applications for the Post-Entry Training Examination for Clerk-Typists in Ministerial Departments  Year 2026.\
+  [202604211448528807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211448528807.pdf)
+
+- Regarding the Extension of the Deputation Period for the Post of Assistant Commissioner on the Establishment of the Mira Bhayandar Municipal Corporation Mr. Yogesh Gunijan, Section Officer\
+  [202604211637204907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211637204907....pdf)
+
+- Regarding the Allotment of Space to the Office of the District Women and Child Development Officer, Mumbai City.\
+  [202604211446183207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211446183207.pdf)
+
 ## Personnel
 - Regarding the Revision of Post-Promotion Placement for the Post of Section Officer (Ad-hoc Promotion) Mr. Vilas Ragho Bhogaonkar\
   [202604201610045107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201610045107....pdf)
@@ -34,6 +43,9 @@
 
 - Transfer of  Shri. Abhijeet Arvind Khochare, Under Secretary\
   [202604201228186707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201228186707.pdf)
+
+- Promotion from Selection Grade Stenographer to Senior Personal Assistant - Year 2025-2026\
+  [202604211156472907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211156472907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
