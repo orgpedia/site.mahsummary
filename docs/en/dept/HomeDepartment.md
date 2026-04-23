@@ -14,6 +14,12 @@
 - Regarding the Constitution of a Committee to Identify Posts for Persons with Disabilities within the Approved Cadres of the Transport Department.\
   [202604211754563429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211754563429.pdf)
 
+- Regarding the Granting of an Extension to the Project Consultant for the CCTV Project of the Thane Police Commissionerate.\
+  [202604221813184229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221813184229.pdf)
+
+- Regarding the establishment of a study group to formulate recommendations concerning the utilization of technology for e-challan collection and the implementation of penal actions for traffic rule violations within the State.\
+  [202604221643177929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221643177929.pdf)
+
 ## Personnel
 - Regarding the Transfer and Posting of Indian Police Service (IPS) Officers.\
   [202604201833055529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201833055529.pdf)

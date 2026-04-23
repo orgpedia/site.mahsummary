@@ -7,6 +7,9 @@
 - With regard to the change in posting of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP-10) to independent charge of the post of Block Development Officer, Group-A...\
   [202604211432331520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211432331520.pdf)
 
+- Allocation of grant to meet the expenses of by-elections to vacant seats of members/direct Sarpanch in Gram Panchayat.\
+  [202604211323166320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211323166320.pdf)
+
 ## Personnel
 - Consolidated State-Level Provisional Seniority List as of January 1, 2026, for Junior Engineers in the District Technical Services, Class-3 (Electrical and Mechanical) Cadre, within the District Council.\
   [202604201434455320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201434455320.pdf)

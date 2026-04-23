@@ -32,5 +32,8 @@
 - Regarding giving Revised administrative approval to the regional water supply scheme   Barlinga ta. Sindhkhed raja dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
   [202604211300328528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300328528.pdf)
 
+- Regarding the reorganization of the posts of Assistant Section Officer and Clerk-Typist cadre in the department as per the revised structure of the Department of Water Supply and Sanitation Department, Mantralaya (Est.)\
+  [202604221127450328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221127450328.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -28,6 +28,12 @@
 - Regarding the Allotment of Space to the Office of the District Women and Child Development Officer, Mumbai City.\
   [202604211446183207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211446183207.pdf)
 
+- Regarding the filling of a vacant post in the Section Officer cadre at the office of the State Service Rights Commission, Amravati, on deputation basis.\
+  [202604221615360207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221615360207.pdf)
+
+- Regarding the determination of working days within every seven-day period for drivers in the Transport Section of the Government Transport Service, Worli, Mumbai.\
+  [202604221810206807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221810206807.pdf)
+
 ## Personnel
 - Regarding the Revision of Post-Promotion Placement for the Post of Section Officer (Ad-hoc Promotion) Mr. Vilas Ragho Bhogaonkar\
   [202604201610045107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201610045107....pdf)
