@@ -3,6 +3,10 @@
 **Date Range**: 27 April 2026 - 02 May 2026
 
 
+## Funds
+- Regarding the announcement of the Mahatma Phule Water Users Association Campaign and, thereunder, the Punyashlok Ahilyadevi Holkar Water Users Association Management Awards for the year 2024-25.\
+  [202604231700192327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231700192327.pdf)
+
 ## Miscellaneous
 - Regarding the applicability of the Old Pension Scheme to State Government Officers/Employees who joined government service on or after November 1, 2005on the lines of the Central Governmentin cases where the recruitment advertisement/notification was issued prior to November 1, 2005.\
   [202604201447201327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201447201327.pdf)
@@ -18,6 +22,12 @@
 
 - Regarding the establishment of a Standing Coordination and Monitoring Committee under the Tapi Irrigation Development Corporation, for the purpose of determining the annual water utilization of the Tapi and Narmada basins.\
   [202604201628285527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201628285527.pdf)
+
+- Regarding the suspension of the Jalbhushan Award for two years, 2023 and 2024, on the birth centenary year of the father of the Water Revolution, former Chief Minister Late Shankarrao Chavan.\
+  [202604231156478327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231156478327.pdf)
+
+- Regarding the announcement of the Jalbhushan Award 2022 on the birth centenary of the late former Chief Minister Shankarrao Chavan, the father of the Water Revolution.\
+  [202604231156453827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231156453827.pdf)
 
 ## Personnel
 - Regarding the promotion of officers to the cadre of Executive Director/Director General, holding the rank equivalent to that of a Secretary.\

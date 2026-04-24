@@ -3,6 +3,10 @@
 **Date Range**: 27 April 2026 - 02 May 2026
 
 
+## Funds
+- Regarding the Granting of Administrative and Financial Approval for the Implementation of Billing Software for the Directorate General of Information and Public Relations.\
+  [202604231102545707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231102545707.pdf)
+
 ## Miscellaneous
 - Termination of Deputation and Repatriation to Parent Service Smt. Nivedita Lokesh Warule, Section Officer\
   [202604201612434007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201612434007.pdf)
@@ -34,6 +38,21 @@
 - Regarding the determination of working days within every seven-day period for drivers in the Transport Section of the Government Transport Service, Worli, Mumbai.\
   [202604221810206807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221810206807.pdf)
 
+- Removal of the entry regarding the disability type Orthopedic Impairment from Column 8, appearing against the name of Mr. N. R. Dodke (Seniority No. 704), in the Common Interim Seniority List dated 01.01.2023.\
+  [202604231151536007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231151536007.pdf)
+
+- Training under the State Training Policy for the year 2026-27. Regarding exclusion of names of nominated Under Secretary from training after promotion of Under Secretary (Group-A).\
+  [202604231319586407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231319586407....pdf)
+
+- Cancellation of the ad-hoc promotion granted to Mr. N. R. Dodke to the post of Assistant Section Officer under the Persons with Disabilities category, vide the Order dated 07.03.2024.\
+  [202604231154530307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231154530307.pdf)
+
+- Training under the State Training Policy for the year 2026-27. Post-promotion training of Under Secretary (Group-A).\
+  [202604231316136707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231316136707.pdf)
+
+- Regarding the observance of Bhadrapada Shuddha Dwitiyathe day of the Divine Incarnation of the Omniscient Lord Shri Chakradhar Swamias Avatar Din (Incarnation Day).\
+  [202604231522102907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231522102907.pdf)
+
 ## Personnel
 - Regarding the Revision of Post-Promotion Placement for the Post of Section Officer (Ad-hoc Promotion) Mr. Vilas Ragho Bhogaonkar\
   [202604201610045107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201610045107....pdf)
@@ -52,6 +71,9 @@
 
 - Promotion from Selection Grade Stenographer to Senior Personal Assistant - Year 2025-2026\
   [202604211156472907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211156472907.pdf)
+
+- Regarding the transfer of services of officers and employees of the Information Technology Sub-division, under the General Administration Department, to the Department of Electronics, Information Technology, and Artificial Intelligence...\
+  [202604231908254707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231908254707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

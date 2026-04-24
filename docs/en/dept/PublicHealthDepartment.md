@@ -7,6 +7,12 @@
 - Regarding publication of provisional seniority list of working officers in Group-A and Group-B cadres of State Workers Insurance Scheme dated 01.01.2026\
   [202604221531039417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221531039417.....pdf)
 
+- Corrigendum regarding termination of probationary period of Medical Officer Group-A in Maharashtra Medical and Health Services cadre. . .\
+  [202604221740156917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221740156917.pdf)
+
+- Regarding the Approval of the Memorandum of Understanding (MoU)     between AIIMS Nagpur and the Public Health Department\
+  [202604221322275017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221322275017.pdf)
+
 ## Personnel
 - Regarding continuation of 204 temporary posts of Medical Officer Group A and 8 temporary posts of Group B in Primary Health Centers of Zilla Parishad under the jurisdiction of Deputy Director, Health Services, Nashik Board, Nashik\
   [202604211312083017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211312083017.pdf)
@@ -25,6 +31,9 @@
 
 - Regarding extension of the temporary post of District Health Officer Group-A (Class 1) at Zilla Parishad, Sindhudurg.\
   [202604211258051517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211258051517.pdf)
+
+- Continuation of 130 temporary posts in the Dental Department of Rural Hospital/Sub-District/District Hospital under the supervision of Deputy Director, Health Services, Akola Board, Akola.\
+  [202604231441050517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231441050517.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

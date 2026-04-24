@@ -10,6 +10,9 @@
 - Allocation of grant to meet the expenses of by-elections to vacant seats of members/direct Sarpanch in Gram Panchayat.\
   [202604211323166320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211323166320.pdf)
 
+- Under the Mukhyamantri Gram Sadak Yojana Phase-2 (Batch-1) Research and Development cancellation and reinstatement of the corrigendum that changed the package number of the approved works in Chhatrapati Sambhajinagar district.\
+  [202604221123317820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221123317820.pdf)
+
 ## Personnel
 - Consolidated State-Level Provisional Seniority List as of January 1, 2026, for Junior Engineers in the District Technical Services, Class-3 (Electrical and Mechanical) Cadre, within the District Council.\
   [202604201434455320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201434455320.pdf)
