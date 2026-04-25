@@ -3,6 +3,10 @@
 **Date Range**: 27 April 2026 - 02 May 2026
 
 
+## Funds
+- Guidelines regarding the finalization of contracts for the transportation and handling of food grains and other essential commoditiesfor delivery to Fair Price Shopsunder the revised grain distribution system within the Public Distribution System.\
+  [202604241252567006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241252567006.pdf)
+
 ## Miscellaneous
 - Final Combined Seniority List of the Assistant District Supply Officer (Group-B) and Technical Officer (Group-B) cadres within the Food, Civil Supplies, and Consumer Protection Department, reflecting the status as of January 1, 2026.\
   [202604201620558706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201620558706....pdf)

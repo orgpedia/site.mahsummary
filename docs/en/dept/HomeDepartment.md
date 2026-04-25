@@ -20,6 +20,9 @@
 - Regarding the establishment of a study group to formulate recommendations concerning the utilization of technology for e-challan collection and the implementation of penal actions for traffic rule violations within the State.\
   [202604221643177929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221643177929.pdf)
 
+- Regarding the Service Review of Officers belonging to the Gazetted Cadre on the establishment of the Additional Director General of Police and Director, Communication, Information Technology, and Transport, Maharashtra State, Punebeyond the age of 50/55 years or after completion of 30 years of qualifying service.\
+  [202604241840291829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241840291829.pdf)
+
 ## Personnel
 - Regarding the Transfer and Posting of Indian Police Service (IPS) Officers.\
   [202604201833055529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201833055529.pdf)

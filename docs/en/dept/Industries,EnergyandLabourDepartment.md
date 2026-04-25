@@ -11,6 +11,9 @@
 - Regarding the constitution of a committee to conduct a study concerning the levy of Electricity Duty under the Maharashtra Electricity Duty Act, 2016, specifically with respect to Rooftop Solar (RTS) consumers, Grid Support Charges, and the determination of the percentage rate of such duty.\
   [202604211316254110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211316254110.pdf)
 
+- Visit of State delegation to Singapore to participate in Singapore Maritime Week 2026 between 18th April to 22nd April, 2026 (Including travel time)\
+  [202604241456281210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241456281210.pdf)
+
 ## Personnel
 - Regarding the grant of prior permission by the Government to Balsane Power Transmission Limited, under Section 68 of the Electricity Act, 2003, for the erection of new transmission lines at Balsane in the Dhule District.\
   [202604211724224710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211724224710.pdf)

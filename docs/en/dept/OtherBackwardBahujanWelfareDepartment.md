@@ -11,5 +11,8 @@
 - Guidelines regarding the recruitment, appointment, and inclusion in the Sevarth system for salary processing of non-teaching staff in VJNT Ashram Schools operated by Voluntary Organizations.\
   [202604221144426334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221144426334.pdf)
 
+- Regarding the constitution of committees at the State, District, and Sub-divisional levels for the development of the Nomadic and Denotified communities, the redressal of their grievances, and the mitigation of inhumane atrocities and associated incidents perpetrated against them.\
+  [202604241403351534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241403351534.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

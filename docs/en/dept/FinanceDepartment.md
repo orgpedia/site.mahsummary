@@ -13,6 +13,9 @@
 - Regarding the sanction of a loan amounting to 500.00 crore by the National Bank for Agriculture and Rural Development (NABARD) under RIDF-31 for a total of 148 projectscomprising the strengthening/upgradation of 19 rural roads and 129 rural bridges across 27 districts of the stateto be executed by the Public Works Department.\
   [202604231617123405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231617123405....pdf)
 
+- Regarding the provision of a Government Guarantee for a loan amount of 6,000 croreto be availed by the Maharashtra Industrial Development Corporation (MIDC) from HUDCO or other similar financial institutions at competitive ratesfor the purpose of land acquisition for the Purandar Airport.\
+  [202604241211541705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241211541705.pdf)
+
 ## Miscellaneous
 - Regarding the Extension of the Deadline for Completing e-KYC for Officers and Employees in the Sevarth System...\
   [202604231807173505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231807173505.pdf)

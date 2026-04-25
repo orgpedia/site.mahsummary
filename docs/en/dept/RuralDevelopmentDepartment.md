@@ -3,6 +3,10 @@
 **Date Range**: 27 April 2026 - 02 May 2026
 
 
+## Funds
+- Regarding granting administrative approval for the necessary land acquisition for the development plan of the pilgrimage site of Shri Kshetra Sant Shiromani Savata Maharaj Sanjeev Samadhi, Aran, Tal. Madha, Dist. Solapur.\
+  [202604241719152120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241719152120.pdf)
+
 ## Miscellaneous
 - With regard to the change in posting of Probationary Block Development Officer, Group-A in Combined Probationary Training Program (CPTP-10) to independent charge of the post of Block Development Officer, Group-A...\
   [202604211432331520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211432331520.pdf)
@@ -12,6 +16,18 @@
 
 - Under the Mukhyamantri Gram Sadak Yojana Phase-2 (Batch-1) Research and Development cancellation and reinstatement of the corrigendum that changed the package number of the approved works in Chhatrapati Sambhajinagar district.\
   [202604221123317820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221123317820.pdf)
+
+- Hon. Balasaheb Thackeray Smriti Matoshree Regarding granting approval for the construction of 05 Gram Panchayat buildings in Solapur district under the Gram Panchayat Construction Scheme\
+  [202604241203229620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241203229620.pdf)
+
+- Regarding inclusion of non-planned/classified roads as rural roads in Man and Khatav taluka of Satara district in Road Development Plan 2001-21\
+  [202604241203355020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241203355020.pdf)
+
+- Regarding upgrading of rural road quality roads in Man taluka of Satara district to other district roads\
+  [202604241203293620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241203293620.pdf)
+
+- Hon. Balasaheb Thackeray Smriti Matoshree Regarding granting approval for the construction of Gram Panchayat buildings in Akola  district under the Gram Panchayat Construction Scheme\
+  [202604241203142020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241203142020.pdf)
 
 ## Personnel
 - Consolidated State-Level Provisional Seniority List as of January 1, 2026, for Junior Engineers in the District Technical Services, Class-3 (Electrical and Mechanical) Cadre, within the District Council.\

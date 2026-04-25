@@ -7,6 +7,9 @@
 - Regarding the Granting of Administrative and Financial Approval for the Implementation of Billing Software for the Directorate General of Information and Public Relations.\
   [202604231102545707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231102545707.pdf)
 
+- Distribution of Budgetary Grants for the Year 2026-27  Major Head 2235: Pensions to Freedom Fighters and their Dependents, etc. (22350015) (April 2026 to March 2027)\
+  [202604241516381807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241516381807.pdf)
+
 ## Miscellaneous
 - Termination of Deputation and Repatriation to Parent Service Smt. Nivedita Lokesh Warule, Section Officer\
   [202604201612434007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201612434007.pdf)
@@ -52,6 +55,21 @@
 
 - Regarding the observance of Bhadrapada Shuddha Dwitiyathe day of the Divine Incarnation of the Omniscient Lord Shri Chakradhar Swamias Avatar Din (Incarnation Day).\
   [202604231522102907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231522102907.pdf)
+
+- Regarding the Constitution of a Sub-Committee and an Executive Committee for the Initiatives to be Undertaken to Celebrate the Bicentenary of Mahatma Jyotirao Phule in the Year 2027.\
+  [202604241745443407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241745443407.pdf)
+
+- Regarding making the Council Hall and Committee Rooms available for meetings.\
+  [202604241436510607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241436510607.pdf)
+
+- Regarding the formulation of Standard Operating Procedures (S.O.P.) for establishing a Single-Window facility to grant various permissions, with a view to promoting and developing the Live Entertainment economy within the State.\
+  [202604241852395007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241852395007.pdf)
+
+- Regarding the appointment on deputation to the post of Project Assistant under the Integrated Probationary Training Program at the Yashwantrao Chavan Academy of Development Administration (YASHADA), Pune.\
+  [202604241739174407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241739174407.pdf)
+
+- Establishment of a Recommendation Committee to propose names to the Central Government for the Padma Awards 2027.\
+  [202604241257370307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241257370307.pdf)
 
 ## Personnel
 - Regarding the Revision of Post-Promotion Placement for the Post of Section Officer (Ad-hoc Promotion) Mr. Vilas Ragho Bhogaonkar\

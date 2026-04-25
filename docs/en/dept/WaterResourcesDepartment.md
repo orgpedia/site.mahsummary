@@ -7,6 +7,9 @@
 - Regarding the announcement of the Mahatma Phule Water Users Association Campaign and, thereunder, the Punyashlok Ahilyadevi Holkar Water Users Association Management Awards for the year 2024-25.\
   [202604231700192327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231700192327.pdf)
 
+- Third Revised Administrative Approval to Chitegaon Minor Irrigation Tank Tal. Chalisgaon, Dist. Jalgaon\
+  [202604241446521327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241446521327.pdf)
+
 ## Miscellaneous
 - Regarding the applicability of the Old Pension Scheme to State Government Officers/Employees who joined government service on or after November 1, 2005on the lines of the Central Governmentin cases where the recruitment advertisement/notification was issued prior to November 1, 2005.\
   [202604201447201327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604201447201327.pdf)

@@ -13,6 +13,12 @@
 - Regarding the Approval of the Memorandum of Understanding (MoU)     between AIIMS Nagpur and the Public Health Department\
   [202604221322275017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221322275017.pdf)
 
+- Regarding the approval for entering into a Memorandum of Understanding (MoU) with the Eklavya Foundation for Mental Health a voluntary organization for the purpose of promoting mental health awareness and outreach within the State.\
+  [202604241202326317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241202326317.....pdf)
+
+- Corrigendum regarding the approval of the necessary grant for the establishment of Hindu Hriday Samrat Balasaheb Thackeray Aapla Davakhana at 700 locations across the State, with the objective of providing free healthcare services to common and underprivileged citizens residing in slums across various cities.\
+  [202604241206267017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241206267017.pdf)
+
 ## Personnel
 - Regarding continuation of 204 temporary posts of Medical Officer Group A and 8 temporary posts of Group B in Primary Health Centers of Zilla Parishad under the jurisdiction of Deputy Director, Health Services, Nashik Board, Nashik\
   [202604211312083017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211312083017.pdf)
