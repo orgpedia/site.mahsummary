@@ -1,11 +1,11 @@
 # Marathi Language Department
 
-**Date Range**: 27 April 2026 - 02 May 2026
+**Date Range**: 04 May 2026 - 09 May 2026
 
 
-## Funds
-- Regarding the grant of administrative approval for the preservation and promotion of Marathi Bandishes in book form, and the appointment of a Coordinator.\
-  [202604241225520233.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241225520233.pdf)
+## Personnel
+- Final Common Seniority List as on 01.01.2025 of Peon cadre employees (for the period 01.01.2024 to 31.12.2024) and 01.01.2026 (for the period 01.01.2025 to 31.12.2025) in Marathi Language Department.\
+  [202604271730339333.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271730339333.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

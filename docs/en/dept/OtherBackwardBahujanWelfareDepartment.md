@@ -1,18 +1,11 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 27 April 2026 - 02 May 2026
+**Date Range**: 04 May 2026 - 09 May 2026
 
-
-## Funds
-- Regarding modifications to works in Yavatmal District that have received administrative approval under the Vasantrao Naik Tanda Settlement Improvement Scheme.\
-  [202604231046117534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604231046117534.pdf)
 
 ## Miscellaneous
-- Guidelines regarding the recruitment, appointment, and inclusion in the Sevarth system for salary processing of non-teaching staff in VJNT Ashram Schools operated by Voluntary Organizations.\
-  [202604221144426334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221144426334.pdf)
-
-- Regarding the constitution of committees at the State, District, and Sub-divisional levels for the development of the Nomadic and Denotified communities, the redressal of their grievances, and the mitigation of inhumane atrocities and associated incidents perpetrated against them.\
-  [202604241403351534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604241403351534.pdf)
+- Regarding the extension of the Tuition Fee and Examination Fee (Freeship) scheme benefits to students belonging to Denotified and Nomadic Tribes, Other Backward Classes, and the Special Backward Category for the Pharm-D course; and regarding the mapping of the said course on the MahaDBT system.\
+  [202604271801250134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271801250134.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
