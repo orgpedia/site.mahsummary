@@ -1,39 +1,14 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 27 April 2026 - 02 May 2026
+**Date Range**: 04 May 2026 - 09 May 2026
 
 
 ## Funds
-- Regarding giving Revised administrative approval to the regional water supply scheme   Shelu ta. Sindhkhed raja dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300503628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300503628.pdf)
+- Regarding the distribution of funds to the concerned Zilla Parishads for the retirement pensions of retired employeesserving under the Converted Regular Temporary (CRT) establishment of Water Supply Schemesfor the financial year 2026-27. Head of Account 22151914 (04-Pensions).\
+  [202604281321118728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281321118728.pdf)
 
-- Regarding giving Revised administrative approval to the regional water supply scheme   Tandulwadi ta. Sindhkhed Raja dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300215028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300215028.pdf)
-
-- Regarding giving Revised administrative approval to the regional water supply scheme   Baygaon kh. ta. Deulgaon raja dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300265928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300265928.pdf)
-
-- Regarding the distribution of grants to cover the expenditure on salaries and allowances of officers/employees working on deputation at the State and District levels under the Jal Jeevan Mission. (2215 9971, 36-Grants-in-aid (Salary))\
-  [202604211257178528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211257178528.pdf)
-
-- Regarding giving Revised administrative approval to the regional water supply scheme   Bitoda Teli ta. Washim dist- Washim for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300555928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300555928.pdf)
-
-- Regarding giving Revised administrative approval to the regional water supply scheme   ramnagar and kalonawadi ta. Chikhali dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300442128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300442128.pdf)
-
-- Regarding giving Revised administrative approval to the regional water supply scheme   Anchali ta. Sindhkhed raja dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300195428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300195428.pdf)
-
-- Regarding giving Revised administrative approval to the regional water supply scheme   mohotkhed ta. lonar dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300381128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300381128.pdf)
-
-## Miscellaneous
-- Regarding giving Revised administrative approval to the regional water supply scheme   Barlinga ta. Sindhkhed raja dist- buldhana for tap water supply scheme to under the Jal Jeevan Mission Program\
-  [202604211300328528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604211300328528.pdf)
-
-- Regarding the reorganization of the posts of Assistant Section Officer and Clerk-Typist cadre in the department as per the revised structure of the Department of Water Supply and Sanitation Department, Mantralaya (Est.)\
-  [202604221127450328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604221127450328.pdf)
+- Regarding the distribution of funds to the concerned Zilla Parishads for the payment of salaries for the financial year 2026-27 to employees working under the Converted Regular Temporary (CRT) establishment of water supply schemes. Head of Account 22151914 (36-Grants-in-Aid).\
+  [202604281321059128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281321059128.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
