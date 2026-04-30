@@ -11,5 +11,15 @@
 - Regarding the planning of the Departments Annual Media Plan for the Financial Year 2026-27.\
   [202604281513445416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281513445416.pdf)
 
+## Personnel
+- Regarding the publication of the Final Seniority List for the cadre of Research Officer/Statistical Officer, Group-B within the Directorate of Economics and Statistics, as of January 1, 2024 (covering the period from January 1, 2023, to December 31, 2023).\
+  [202604291711347516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291711347516.pdf)
+
+- Regarding the transfers of officers belonging to the Group-A cadre (Additional Commissioners) within the Directorate of Economics and Statistics, on administrative grounds.\
+  [202604291615354816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291615354816.pdf)
+
+- Regarding the promotion and posting of Joint Commissioners (Group-A) on the establishment of the Directorate of Economics and Statistics to the cadre of Additional Commissioner (Group-A).\
+  [202604291618456716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291618456716.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

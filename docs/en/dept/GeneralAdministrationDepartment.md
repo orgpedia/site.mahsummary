@@ -25,6 +25,12 @@
 - Regarding cancellation of allotment of candidates recommended by Maharashtra Public Service Commission from the waiting list no.2 of Higher Category Stenographer (Marathi/English) Examination-2022 who did not join within the prescribed period.\
   [202604281642442307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281642442307.pdf)
 
+- Regarding the filling of various vacant posts within the State Service Rights Commissionunder the aegis of the General Administration Departmentthrough deputation from field offices...\
+  [202604291547088507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291547088507....pdf)
+
+- Procurement of services for the Tech wari 2.0 programme\
+  [202604291107257407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291107257407.pdf)
+
 ## Personnel
 - Provisional Seniority List of Selection Garde Stenographer in Manatralaya Department dated 01.01.2026\
   [202604281653334807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281653334807.pdf)
@@ -40,6 +46,12 @@
 
 - Provisional Seniority List of Lower Grade Stenographer in Manatralaya Department dated 01.01.2026\
   [202604281651011107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281651011107.pdf)
+
+- Regarding the Upgradation of the Post of Deputy Secretary at the State Information Commission, Pune Bench, Pune, to the Cadre of Joint Secretary.....\
+  [202604291642182207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291642182207.pdf)
+
+- Transfer of  Smt. Vishakha Sachin Adhav, Under Secretary\
+  [202604291104160307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291104160307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
