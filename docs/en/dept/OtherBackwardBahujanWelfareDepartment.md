@@ -3,6 +3,10 @@
 **Date Range**: 04 May 2026 - 09 May 2026
 
 
+## Funds
+- Regarding the distribution of funds for Post-Matric Scholarships for the Academic Year 2018-19...\
+  [202604301713502834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301713502834.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the Tuition Fee and Examination Fee (Freeship) scheme benefits to students belonging to Denotified and Nomadic Tribes, Other Backward Classes, and the Special Backward Category for the Pharm-D course; and regarding the mapping of the said course on the MahaDBT system.\
   [202604271801250134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271801250134.pdf)

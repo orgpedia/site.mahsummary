@@ -16,5 +16,15 @@
 - Regarding the suspension of Shri Rajendra Keskar, Assistant Regional Transport Officer, Gondia,\
   [202604291342307029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291342307029.pdf)
 
+- Regarding the suspension of Mr. Tanaji Dhumal, Motor Vehicle Inspector, Regional Transport Office, Pimpri Chinchwad, from government service.\
+  [202604301653127429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301653127429.pdf)
+
+## Personnel
+- Regarding the appointment by promotion from the cadre of Sub-Inspector (Group-C) to the cadre of Inspector (Group-B) within the State Excise Department.\
+  [202604301459376229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301459376229.pdf)
+
+- Regarding the Transfer of IPS/SPS Officers\
+  [202604301835132229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301835132229.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,5 +7,8 @@
 - Regarding the Designation of Drawing and Disbursing Officer and Controlling Officer for the District Office for the Empowerment of Persons with Disabilities\
   [202604281452546035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281452546035.pdf)
 
+- Regarding the distribution of funds to beneficiaries with disabilities under the Special Assistance Scheme.\
+  [202604301817019535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301817019535.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

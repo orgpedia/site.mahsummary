@@ -11,6 +11,12 @@
 - Regarding the planning of the Departments Annual Media Plan for the Financial Year 2026-27.\
   [202604281513445416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281513445416.pdf)
 
+- Regarding the appointment on deputation to the post of Group Education Officer at the Divisional Office, Nashikunder the Chhatrapati Shahu Maharaj Research, Training, and Human Development Institute (SARTHI). Mrs. Rohini Dashrath Navale, State Tax Officer\
+  [202604301511446616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301511446616.pdf)
+
+- Appointment of Nominated and Special Invitee Members on District Planning Committee, Nagpur.\
+  [202604301828565016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301828565016.pdf)
+
 ## Personnel
 - Regarding the publication of the Final Seniority List for the cadre of Research Officer/Statistical Officer, Group-B within the Directorate of Economics and Statistics, as of January 1, 2024 (covering the period from January 1, 2023, to December 31, 2023).\
   [202604291711347516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291711347516.pdf)

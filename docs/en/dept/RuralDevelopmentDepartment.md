@@ -11,5 +11,8 @@
 - Fund distribution of the financial year 2026-2027 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill, Gargoti  Amravati.  Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  1st installment (Salary)\
   [202604281620564920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281620564920.pdf)
 
+- Implementation of a Pilot Project in 75 Villages under the Sant Gadge Baba Gram Yojana to Enhance Citizens Quality of Life Using Artificial Intelligence\
+  [202604301135143420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301135143420.....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

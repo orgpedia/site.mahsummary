@@ -31,6 +31,27 @@
 - Procurement of services for the Tech wari 2.0 programme\
   [202604291107257407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291107257407.pdf)
 
+- Extension of tenure of three temporary posts in the Apex Scale (Level 17 of the Pay Matrix) under the proviso to Rule 4(2) of the IAS (Cadre) Rules, 1954.\
+  [202604301127480207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301127480207.pdf)
+
+- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) Regarding the Change of Training Sessions for Nominated Section Officers\
+  [202604301506502807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301506502807.pdf)
+
+- Training under the State Training Policy for the year 2026-27. Regarding exclusion of names of nominated Under Secretary from training after promotion of Under Secretary (Group-A).\
+  [202604301502481607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301502481607.pdf)
+
+- Regarding the enhancement of honorarium for Honorary Professors at the Pre-Examination Training Centre, Nashik.\
+  [202604301546458407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301546458407.pdf)
+
+- Procurement of services for the Tech wari 2.0 programme\
+  [202604301723511207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301723511207.pdf)
+
+- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) Regarding the Removal of Names of Nominated Section Officers from the Training Program\
+  [202604301508299207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301508299207.pdf)
+
+- Regarding the declaration of Central Government officials attending the Tech-Wari 2.0 training program as State Guests.\
+  [202604301445099307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301445099307.pdf)
+
 ## Personnel
 - Provisional Seniority List of Selection Garde Stenographer in Manatralaya Department dated 01.01.2026\
   [202604281653334807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281653334807.pdf)
