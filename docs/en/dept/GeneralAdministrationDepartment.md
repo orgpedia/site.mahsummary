@@ -1,78 +1,23 @@
 # General Administration Department
 
-**Date Range**: 04 May 2026 - 09 May 2026
+**Date Range**: 11 May 2026 - 16 May 2026
 
 
 ## Miscellaneous
-- Regarding the determination of terms and conditions for the advertisement to be published for the posts of State Chief Information Commissioner and State Information Commissioner.\
-  [202604271720206007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271720206007.pdf)
-
-- Post-promotion training for Mantralaya stenographer cadre under the State Training Policy.\
-  [202604271704331207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271704331207.pdf)
-
-- Regarding exemption from post-promotion training for employees in the Higher Grade  Stenographers.\
-  [202604271708166107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271708166107.pdf)
-
-- Regarding the filling of vacant posts at the Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Academy, Amravati, on deputation basis.\
-  [202604271609259007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271609259007.pdf)
-
-- Consolidation of all circulars issued between July 27, 2015, and August 20, 2021, regarding the provision of respectful and courteous treatment to Members of the Legislature/Parliament Issuance of Revised, Comprehensive Guidelines...\
-  [202604281126359307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281126359307.pdf)
-
 - Regarding the appointment of a catering service provider at the official residences of the Honble Chief Minister and the Honble Deputy Chief Minister.\
-  [202604281327486207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281327486207.pdf)
+  [202605051042286307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051042286307.pdf)
 
-- Regarding cancellation of allotment of candidates recommended by Maharashtra Public Service Commission from the waiting list no.2 of Higher Category Stenographer (Marathi/English) Examination-2022 who did not join within the prescribed period.\
-  [202604281642442307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281642442307.pdf)
+- Streamlining and Improvement of the Recruitment Process\
+  [202605051824209807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051824209807.pdf)
 
-- Regarding the filling of various vacant posts within the State Service Rights Commissionunder the aegis of the General Administration Departmentthrough deputation from field offices...\
-  [202604291547088507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291547088507....pdf)
+- Regarding the determination of guidelines for the appointment to the post of Technical Member of the Maharashtra Public Service Commission.\
+  [202605051605376407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051605376407.pdf)
 
-- Procurement of services for the Tech wari 2.0 programme\
-  [202604291107257407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291107257407.pdf)
+- Sanctioning of Financial Assistance from the Chief Ministers Charitable Donation Fund. Shri Saraswati Shikshan Prasarak Mandal, Basarge Bu., Taluka Gadhinglaj, District Kolhapur.\
+  [202605051804196407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051804196407.pdf)
 
-- Extension of tenure of three temporary posts in the Apex Scale (Level 17 of the Pay Matrix) under the proviso to Rule 4(2) of the IAS (Cadre) Rules, 1954.\
-  [202604301127480207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301127480207.pdf)
-
-- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) Regarding the Change of Training Sessions for Nominated Section Officers\
-  [202604301506502807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301506502807.pdf)
-
-- Training under the State Training Policy for the year 2026-27. Regarding exclusion of names of nominated Under Secretary from training after promotion of Under Secretary (Group-A).\
-  [202604301502481607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301502481607.pdf)
-
-- Regarding the enhancement of honorarium for Honorary Professors at the Pre-Examination Training Centre, Nashik.\
-  [202604301546458407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301546458407.pdf)
-
-- Procurement of services for the Tech wari 2.0 programme\
-  [202604301723511207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301723511207.pdf)
-
-- Training for the Year 2026 under the State Training Policy Post-Promotion Training for Section Officers (Group B) Regarding the Removal of Names of Nominated Section Officers from the Training Program\
-  [202604301508299207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301508299207.pdf)
-
-- Regarding the declaration of Central Government officials attending the Tech-Wari 2.0 training program as State Guests.\
-  [202604301445099307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301445099307.pdf)
-
-## Personnel
-- Provisional Seniority List of Selection Garde Stenographer in Manatralaya Department dated 01.01.2026\
-  [202604281653334807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281653334807.pdf)
-
-- Provisional Seniority List of Higher Grade Stenographer in Manatralaya Department dated 01.01.2026\
-  [202604281645529907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281645529907.pdf)
-
-- Provisional Seniority List of Senior Personal Assistants in Manatralaya Department dated 01.01.2026\
-  [202604281655495307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281655495307.pdf)
-
-- Provisional Seniority List of Steno Typist in Manatralaya Department dated 01.01.2026\
-  [202604281658528307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281658528307.pdf)
-
-- Provisional Seniority List of Lower Grade Stenographer in Manatralaya Department dated 01.01.2026\
-  [202604281651011107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281651011107.pdf)
-
-- Regarding the Upgradation of the Post of Deputy Secretary at the State Information Commission, Pune Bench, Pune, to the Cadre of Joint Secretary.....\
-  [202604291642182207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291642182207.pdf)
-
-- Transfer of  Smt. Vishakha Sachin Adhav, Under Secretary\
-  [202604291104160307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291104160307.pdf)
+- Sanctioning of financial assistance from the Chief Ministers Charitable Donation Fund. Saptashrungi Multipurpose Womens Organization, Walwadi Shivar, Vidya Nagari, Devpur, Dhule.\
+  [202605051757419807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051757419807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

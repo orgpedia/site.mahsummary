@@ -10,5 +10,8 @@
 - Regarding the enhancement of remuneration for the services of a Cook at the residential office of a Honble Justice of the Bombay High Court, and granting approval to engage the services of a Cook either through outsourcing or insourcing.\
   [202605041733396812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041733396812.pdf)
 
+- Regarding the grant of Dearness Allowance to Judicial Officers of Subordinate Courts in the State under the Revised Pay Scales.\
+  [202605051434077212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051434077212.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

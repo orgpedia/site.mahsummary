@@ -14,5 +14,11 @@
 - Regarding the suspension of Mr. Sachin Patil, Motor Vehicle Inspector, Office of the Transport Commissioner, Mumbai, from government service.\
   [202605041526456329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041526456329.pdf)
 
+- Implementation of the second phase for installing E-locks/Digital Locks for the transportation of Molasses, spirit and Liquor.\
+  [202605051301205329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051301205329.pdf)
+
+- Regarding the grant of administrative and financial approval for the purchase of 58 new car-type vehicles for the Motor Vehicles Department.\
+  [202605051642161029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051642161029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

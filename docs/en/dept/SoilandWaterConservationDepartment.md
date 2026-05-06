@@ -1,14 +1,11 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 04 May 2026 - 09 May 2026
+**Date Range**: 11 May 2026 - 16 May 2026
 
 
-## Miscellaneous
-- Regarding the repatriation of the services of Ms. Suhani Sachin Hovale, Deputy Engineer (Civil), to the Water Resources Department.\
-  [202604301551577126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301551577126.pdf)
-
-- Regarding the repatriation of the services of Mr. Ajay Ladse, Deputy Engineer (Civil), to the Water Resources Department.\
-  [202604301550035426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301550035426.pdf)
+## Funds
+- To accord second Revised administrative approval to M.I. Tank Tadil, Tal. Dapoli, Dist. Ratnagiri.\
+  [202605051309220926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051309220926.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
