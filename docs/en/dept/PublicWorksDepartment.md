@@ -14,5 +14,8 @@
 - Final Seniority List of Diploma-holding Deputy Engineers (Electrical) in the Public Works Department, as of 1 January , 2026.\
   [202605051151527418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051151527418.pdf)
 
+- Regarding the provisional appointment, by nomination, of candidates from the additional selection list to the post of Civil Engineering Assistant (Group-C) under the Public Works Department.\
+  [202605061812258218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061812258218.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

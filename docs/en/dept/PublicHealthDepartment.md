@@ -10,5 +10,15 @@
 - Regarding the establishment of State, District, and Municipal Corporation Vaccination Task Forces for the effective implementation of the Routine Immunization Program and the various campaigns conducted thereunder within the State....\
   [202605041034159317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041034159317.pdf)
 
+- Regarding the establishment of a District Level Coordination Committee for District TB-Comorbidity, Leprosy Screening Campaign, Active Tuberculosis Screening Campaign and Kushth Mukt Surakshit Maharashtra (KUSUM) Campaign.\
+  [202605061129282117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061129282117.pdf)
+
+- Regarding the distribution of honorarium to ASHA volunteers and group promoters for the period April, 2026 to May, 2026 from the budgetary provision under Account Head 2210H015, 31- Subsidiary Grants (Non-Salary) in the financial year 2026-27 under the Centrally Sponsored National Health Mission\
+  [202605041308236617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041308236617.pdf)
+
+## Personnel
+- Regarding the constitution of a State-Level Implementation Committee to ensure the effective implementation of recommendations contained in the report of the State-Level Committeeconstituted under the chairmanship of the Collector, Nandurbarwhich was tasked with studying all health-related issues in the tribal areas of the State and proposing remedial measures therefor.\
+  [202605061343379917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061343379917.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

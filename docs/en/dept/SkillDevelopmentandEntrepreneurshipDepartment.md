@@ -3,6 +3,10 @@
 **Date Range**: 11 May 2026 - 16 May 2026
 
 
+## Miscellaneous
+- Final Seniority List as of January 1, 2026, of officers belonging to the cadre of Assistant Director (Senior) in the Directorate of Vocational Education and Training, or Deputy Secretary, Maharashtra State Board of Skill, Vocational Education and Training, Mumbai  Group-A (Non-Technical) (Gazetted), Maharashtra Education Service (Pay Level S-18: 49,100  155,800).\
+  [202605061148039103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061148039103.pdf)
+
 ## Personnel
 - Regarding the grant of temporary promotion from the cadre of Office Superintendent, Group-C, Maharashtra Education Service (Pay Level S-14: Rs. 38,600122,800) to the post of Assistant Director or Manager, Group-B (Non-Technical) (Gazetted), Maharashtra Education Service (Pay Level S-15: Rs. 41,800132,300) within the institutions and offices under the Directorate of Vocational Education and Training.\
   [202605051707474203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051707474203.pdf)
