@@ -1,15 +1,11 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 04 May 2026 - 09 May 2026
+**Date Range**: 11 May 2026 - 16 May 2026
 
 
 ## Funds
-- Regarding the grant of administrative and financial approval for the expenditure to be incurred in procuring services through outsourcing for the Maharashtra State Hindi, Sindhi, Gujarati, Sanskrit, Telugu, Bengali, and Gor Banjara Sahitya Academies.\
-  [202604291646012823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604291646012823.pdf)
-
-## Miscellaneous
-- Regarding the grant of administrative approval for procuring two Xerox machines on a rental basis for a period of 11 months for the Directorate of Archives, Mumbai, and the Pune Archives Office.\
-  [202604271619468123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604271619468123.pdf)
+- Regarding the approval of expenditure for the services pertaining to a total of 52 vacant Group-D postscomprising 11 Multi-purpose Employees and 41 Record Bearers (Unskilled)to be filled through outsourcing at the Directorate of Archives, Mumbai.\
+  [202605071130306123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071130306123....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

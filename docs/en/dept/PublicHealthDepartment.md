@@ -20,5 +20,11 @@
 - Regarding the constitution of a State-Level Implementation Committee to ensure the effective implementation of recommendations contained in the report of the State-Level Committeeconstituted under the chairmanship of the Collector, Nandurbarwhich was tasked with studying all health-related issues in the tribal areas of the State and proposing remedial measures therefor.\
   [202605061343379917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061343379917.pdf)
 
+- Regarding extension of tenure of 52 temporary posts at the State Health Information and Vital Statistics Establishment for the period from 01/09/2025 to 28/02/2026.\
+  [202605071211281117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071211281117....pdf)
+
+- Implementation of Comprehensive Primary Health Care Training Programme for Community Health Officers, ANMs, MPWs and ASHA workers in Ayushman Arogya Mandir, Sub-Centers across the state.\
+  [202605071302559317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071302559317.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

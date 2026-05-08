@@ -1,15 +1,14 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 04 May 2026 - 09 May 2026
+**Date Range**: 11 May 2026 - 16 May 2026
 
 
-## Funds
-- Regarding the distribution of funds for the year 2026-27 for District Establishmentcovering both salary and non-salary expenditureunder the Sanjay Gandhi Niradhar Grant Scheme and the Financial Assistance Scheme for Elderly Landless Agricultural Laborers.\
-  [202604301826023522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604301826023522.pdf)
+## Miscellaneous
+- Regarding the authorization of the Commissioner, Social Welfare, Pune, to effect a reimbursement from the administrative expenditure fund under the Rajarshi Shahu Maharaj Scholarship Scheme for Scheduled Caste students pursuing specialized studies abroad.\
+  [202605071136128122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071136128122.pdf)
 
-## Personnel
-- Provisional Seniority List for the cadre of Deputy Commissioner, Social Welfare, and Allied Group-A posts, for the period from 01.01.2022 to 01.01.2026.\
-  [202604281830160122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202604281830160122.pdf)
+- Regarding the submission of Life Certificates (Digital Life Certificates) by beneficiaries of the Special Assistance Scheme under the Department of Social Justice and Special Assistance, using the Beneficiary Satyapan App.\
+  [202605071320585822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071320585822.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

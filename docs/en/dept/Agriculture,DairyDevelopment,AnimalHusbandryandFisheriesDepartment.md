@@ -17,5 +17,8 @@
 - Regarding the Granting of Permission to Shri Vitthal Cooperative Sugar Factoryan institution affiliated with Mahatma Phule Krishi Vidyapeeth, Rahurito establish an Agricultural College on a permanent, unaided basis at Mouje Venunagar, Taluka Pandharpur, District Solapur.\
   [202605061824132901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061824132901.pdf)
 
+- Regarding the approval of the Annual Action Plan amounting to Rs. 6,686.00 Lakhs for the Digital Crop Survey component under the AgriStack project, within the Agri-Unnati Yojana, for the year 2026-27...\
+  [202605071635147101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071635147101.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

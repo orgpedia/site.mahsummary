@@ -23,5 +23,12 @@
 - Regarding the grant of administrative approval by the Maharashtra Cyber Office for the procurement of 10 units of Call Data OSINT  Analysis Tools from ICube Solutions, with the aim of further strengthening the capabilities for Call Data Analysis and Digital Investigation at the States Nodal Cyber Police Stations.\
   [202605061557389029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061557389029.pdf)
 
+- Suspension of Kiran Bidkar, RTO\
+  [202605071743370329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071743370329.pdf)
+
+## Personnel
+- Final Seniority List of Additional Government Prosecutors (Group-A) Cadre  As of 01.01.2026\
+  [202605071156390029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071156390029.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
