@@ -25,6 +25,9 @@
 - Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. Under Head of Account (2217 1301) for the Year 2026-27 For Mohol Municipal Council, Dist. Solapur Amount: Rs. 4.00 Crores\
   [202605071436033125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071436033125.pdf)
 
+- Regarding the Sanction of Funds to Municipal Councils under the Special Scheme. For the Financial Year 2024-25, under Head of Account (4217 0603) For Nandurbar Municipal Council, Dist. Nandurbar Amount: Rs. 9.50 Crore (Corrigendum)\
+  [202605081700388725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081700388725.pdf)
+
 ## Miscellaneous
 - Regarding the retrospective annulment of the election of Smt. Gayatri Rupchand Gaur alias Gayatri Chetan Bhangale to the posts of Corporator and Council President, consequent upon her Caste Validity Certificate being declared invalid.\
   [202605041658059525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041658059525.pdf)
@@ -32,6 +35,9 @@
 ## Personnel
 - Regarding the publication of the Final Seniority List of officers belonging to the Town Planner (Group-A) cadre on the establishment of the Directorate of Town Planning and Valuation, as of January 1, 2026.\
   [202605071510244725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071510244725.pdf)
+
+- Regarding the approval to allot the land bearing Khasra No. 74/1, admeasuring 3,646.70 sq. m., situated at Mouza Babhulakheda, to the Charmakar Seva Sangh, Nagpur, at a nominal rate.\
+  [202605081231562725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081231562725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

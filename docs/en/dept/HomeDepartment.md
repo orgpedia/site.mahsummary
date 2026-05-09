@@ -26,6 +26,12 @@
 - Suspension of Kiran Bidkar, RTO\
   [202605071743370329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071743370329.pdf)
 
+- Regarding the grant of administrative approval for the procurement of 82 Cellebrite UFED 4PC licenses for the Cyber Police Lab of the Maharashtra Cyber Office and other police units.\
+  [202605081552046829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081552046829.pdf)
+
+- Regarding the constitution of a committee, under the chairmanship of the Director General of Police, Maharashtra (Mumbai), to study legal provisions and submit recommendations to the Government for regulating defamation occurring on social media platforms.\
+  [202605081554092429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081554092429.pdf)
+
 ## Personnel
 - Final Seniority List of Additional Government Prosecutors (Group-A) Cadre  As of 01.01.2026\
   [202605071156390029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071156390029.pdf)

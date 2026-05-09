@@ -11,5 +11,8 @@
 - Regarding the nomination of nominated members and special invitees to the Amravati District Planning Committee...\
   [202605051124480016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051124480016.pdf)
 
+- Regarding the implementation in principle of the Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin)-2025\
+  [202605081603410116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081603410116.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

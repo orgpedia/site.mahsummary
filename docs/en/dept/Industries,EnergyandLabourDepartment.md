@@ -14,12 +14,18 @@
 - Regarding publication of the final seniority list of Group-A and Group-B cadre officers of the Directorate of Government Printing, Stationery and Publication, Mumbai and its subordinate offices as on 01.01.2026.\
   [202605051520065310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051520065310.pdf)
 
+- Regarding the suspension of Mr. Uday Dambe, Electrical Inspector.\
+  [202605081808173710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081808173710.pdf)
+
 ## Personnel
 - Provisional Seniority List as of 01/01/2026 for the post of Electrical Inspector, Group-A (Gazetted), under the jurisdiction of the Energy Department.\
   [202605061730034410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061730034410.pdf)
 
 - Provisional Seniority List as of 01/01/2026 for the post of Superintending Engineer, Group-A (Gazetted), in the Electrical Inspectorate Branch under the Energy Department.\
   [202605061727061710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061727061710.pdf)
+
+- Provisional Seniority List as of 01/01/2026 for the post of Assistant Electrical Inspector, Group-A (Gazetted), under the jurisdiction of the Energy Department.\
+  [202605081815088710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081815088710.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

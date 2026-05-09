@@ -26,5 +26,8 @@
 - Implementation of Comprehensive Primary Health Care Training Programme for Community Health Officers, ANMs, MPWs and ASHA workers in Ayushman Arogya Mandir, Sub-Centers across the state.\
   [202605071302559317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071302559317.pdf)
 
+- Regarding service review of officers in Maharashtra Medical and Health Services, Group-A (S-20) under the Health Services Commissionerate after the age of 50/55 years...\
+  [202605081213462217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081213462217.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
