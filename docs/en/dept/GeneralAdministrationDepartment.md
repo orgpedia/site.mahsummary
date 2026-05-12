@@ -1,33 +1,27 @@
 # General Administration Department
 
-**Date Range**: 11 May 2026 - 16 May 2026
+**Date Range**: 18 May 2026 - 23 May 2026
 
 
 ## Miscellaneous
-- Regarding the appointment of a catering service provider at the official residences of the Honble Chief Minister and the Honble Deputy Chief Minister.\
-  [202605051042286307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051042286307.pdf)
+- Increased Dearness Allowance by 2 Percent for officers of All India Service in Maharashtra Cadre\
+  [202605111239119307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111239119307....pdf)
 
-- Streamlining and Improvement of the Recruitment Process\
-  [202605051824209807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051824209807.pdf)
+- One Week In-Service Training Programs (Offline) calendar for the year 2026-27\
+  [202605111242487607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111242487607.....pdf)
 
-- Regarding the determination of guidelines for the appointment to the post of Technical Member of the Maharashtra Public Service Commission.\
-  [202605051605376407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051605376407.pdf)
+- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of April to June, 2026\
+  [202605111716076007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111716076007.pdf)
 
-- Sanctioning of Financial Assistance from the Chief Ministers Charitable Donation Fund. Shri Saraswati Shikshan Prasarak Mandal, Basarge Bu., Taluka Gadhinglaj, District Kolhapur.\
-  [202605051804196407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051804196407.pdf)
+- Regarding the issuance of instructions concerning the Video Conferences (V.C.) and in-person meetings to be conducted with the Divisional Commissioners, District Collectors, and Chief Executive Officers (CEOs) of the Zilla Parishads in the State...\
+  [202605111643407007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111643407007....pdf)
 
-- Sanctioning of financial assistance from the Chief Ministers Charitable Donation Fund. Saptashrungi Multipurpose Womens Organization, Walwadi Shivar, Vidya Nagari, Devpur, Dhule.\
-  [202605051757419807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051757419807.pdf)
-
-- Regarding the write-off of three vehiclesbearing registration numbers MH-01-AN-2102 (Bulletproof), MH-01-AN-2366, and MH-01-AN-2367belonging to the Office of the Resident Commissioner and Secretary, Maharashtra Sadan, New Delhi; and the subsequent procurement of three new vehicles in their place (including one bulletproof vehicle for the Honble Chief Minister).\
-  [202605081601421607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605081601421607.pdf)
+- Regarding the Constitution of a State Administrative Innovation Committee for the Effective Implementation of Principles of Good Governance in the State of Maharashtra.\
+  [202605111804334007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111804334007.pdf)
 
 ## Personnel
-- Regarding the declaration of the Appointing Authority for appointmentsvia direct recruitment, promotion, and deputationto Group B (Gazetted), Group B (Non-Gazetted), Group C, and Group D cadres within the establishment of the Government Transport Service, Worli, Mumbai.\
-  [202605061733463907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061733463907.pdf)
-
-- Regarding the declaration of the Maharashtra Public Service Commissions office as a Drawing and Disbursing Officer and a Controlling Officer.\
-  [202605061827136907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061827136907.pdf)
+- Final seniority list of Class III and IV employees of Sahyadri/Nandgiri State Guest House as on 01.01.2026.\
+  [202605111730110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111730110207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

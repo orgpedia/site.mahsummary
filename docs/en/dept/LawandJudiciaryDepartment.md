@@ -1,23 +1,36 @@
 # Law and Judiciary Department
 
-**Date Range**: 11 May 2026 - 16 May 2026
+**Date Range**: 18 May 2026 - 23 May 2026
 
+
+## Funds
+- Administrative Approval      Regarding the construction of a Lawyers Hall at the Taluka Court in Amgaon, District           Gondia.\
+  [202605111755296012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111755296012.pdf)
+
+- Revised Administrative Approval Regarding the construction of two residential quarters for the Civil Judge (Junior Division) at Selu, Dist. Parbhani....\
+  [202605111751521612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111751521612.pdf)
+
+- Administrative Approval Regarding the construction of the Lawyers Hall at the District Court, Gondia\
+  [202605111758594312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111758594312.pdf)
+
+- Administrative approval Regarding the construction of the Lawyers Hall at the Taluka Court in Tiroda, District Gondia..\
+  [202605111759398312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111759398312.pdf)
+
+- Administrative Approval Regarding the construction of a Lawyers Hall at the Taluka Court, Deori, District Gondia.\
+  [202605111803387212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111803387212.pdf)
 
 ## Miscellaneous
-- Regarding the revision of remuneration for Judicial Research Assistants (formerly designated as Law Clerks) at the Honble High Court, Mumbai, and its Benches.\
-  [202605041730165012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041730165012.pdf)
+- Administrative Approval Regarding the construction of one residential quarter for the Civil Judge (Junior Division) at Kankavli, District Sindhudurg.\
+  [202605111744348112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111744348112.pdf)
 
-- Regarding the enhancement of remuneration for the services of a Cook at the residential office of a Honble Justice of the Bombay High Court, and granting approval to engage the services of a Cook either through outsourcing or insourcing.\
-  [202605041733396812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041733396812.pdf)
+- Administrative Approval Regarding the construction of one residential quarter for the Civil Judge (Senior Division) at Paithan, Dist. Chhatrapati Sambhajinagar.\
+  [202605111747026912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111747026912.pdf)
 
-- Regarding the grant of Dearness Allowance to Judicial Officers of Subordinate Courts in the State under the Revised Pay Scales.\
-  [202605051434077212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051434077212.pdf)
+- Administrative approval Regarding the construction work of lodges in the Taluka  Cottage under the administrative jurisdiction at  Arjuni Morgaon. Dist Gondia.\
+  [202605111752436412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111752436412.pdf)
 
-- Regarding the grant of administrative approval for the expenditure amounting to Rs. 5,97,37,500/- for the renewal of a total of 100 licenses for Supreme Court Cases Online.\
-  [202605061643556412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061643556412.pdf)
-
-- Administrative Approval  Regarding the construction of a second floor on the existing building (Ground Floor  First Floor) of the Public Trust Registration Office, Nanded.\
-  [202605061603432612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061603432612.pdf)
+- Regarding the grant of administrative approval for the renovation, repair, and strengthening works of Vivek, the residential bungalow of the Honble Justice, High Court, situated at Civil Lines, Nagpur.\
+  [202605111246156412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111246156412.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
