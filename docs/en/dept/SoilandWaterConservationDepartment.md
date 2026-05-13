@@ -1,22 +1,11 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 11 May 2026 - 16 May 2026
+**Date Range**: 18 May 2026 - 23 May 2026
 
 
 ## Funds
-- To accord second Revised administrative approval to M.I. Tank Tadil, Tal. Dapoli, Dist. Ratnagiri.\
-  [202605051309220926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605051309220926.pdf)
-
-## Miscellaneous
-- Regarding the action to be taken under the Dam Safety Act-2021.\
-  [202605071749294226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071749294226.pdf)
-
-- Establishment of the State Water and Soil Conservation and Management Committee (SWSCMC).\
-  [202605071757481426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071757481426.pdf)
-
-## Personnel
-- To accord administrative approval to restoration of mama talav Sakoli gath no. 241, Tal. Sakoli, Dist. Bhandara.\
-  [202605071751253526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071751253526.pdf)
+- Regarding the disbursement of the Central Share and matching State Share funds, pursuant to the Mother Sanction approved by the Central Government under the Centrally Sponsored Scheme  Pradhan Mantri Krishi Sinchai Yojana (PMKSY)  Watershed Development Component 2.0.\
+  [202605121203147526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121203147526.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

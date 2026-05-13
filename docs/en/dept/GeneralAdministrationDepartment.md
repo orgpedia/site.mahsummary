@@ -19,9 +19,21 @@
 - Regarding the Constitution of a State Administrative Innovation Committee for the Effective Implementation of Principles of Good Governance in the State of Maharashtra.\
   [202605111804334007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111804334007.pdf)
 
+- Regarding the dissolution of the Working Group constituted to finalize the draft of the Maharashtra Good Governance Bill.\
+  [202605121159501407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121159501407.pdf)
+
 ## Personnel
 - Final seniority list of Class III and IV employees of Sahyadri/Nandgiri State Guest House as on 01.01.2026.\
   [202605111730110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111730110207.pdf)
+
+- Regarding the grant of administrative and financial approval for the construction of the proposed Gadchiroli Airport.\
+  [202605121720174507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121720174507.pdf)
+
+- Regarding the repatriation of the services of Shri Jagdish More, District Information Officer (Group-A Cadre) of the Directorate General of Information and Public Relations, from the State Election Office back to the Directorate General of Information and Public Relations, and his subsequent posting...\
+  [202605121511315107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121511315107.pdf)
+
+- Regarding the appointment of a supplier for the provision of stationery, computer peripherals, and other supplies to the Hon. Chief Ministers Secretariat, the Office situated at the Hon. Chief Ministers Official Residence, the Ministers Establishment Desks (ME-1, 2,  3), as well as the offices of the Additional Chief Secretary/Principal Secretary/Secretary associated with the Ministers Establishment.\
+  [202605121728522207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121728522207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

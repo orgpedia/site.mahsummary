@@ -1,11 +1,11 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 11 May 2026 - 16 May 2026
+**Date Range**: 18 May 2026 - 23 May 2026
 
 
 ## Funds
-- Regarding the approval of expenditure for the services pertaining to a total of 52 vacant Group-D postscomprising 11 Multi-purpose Employees and 41 Record Bearers (Unskilled)to be filled through outsourcing at the Directorate of Archives, Mumbai.\
-  [202605071130306123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605071130306123....pdf)
+- Regarding the grant of administrative approval for the appointment of security guards on a contractual basis to ensure the security of the State-protected monumentsPratapgad, Rajgad, Salher, and Khanderiwhich are included in UNESCOs list of World Heritage Sites...\
+  [202605121620499423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121620499423.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -14,9 +14,18 @@
 - Regarding the introduction of Junior Administrative Grade (JAG) to officers in the Indian Forest Service (Allotment Year 2016 and 2017)\
   [202605111549388719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111549388719.pdf)
 
+- Extension of Deputation Period Mr. Audumbar Shamrao Patil, Tehsildar\
+  [202605121826228419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121826228419.pdf)
+
 ## Personnel
 - Regarding the Promotion of Officers of the Junior Time Scale to the Senior Time Scale within the Indian Forest Service Cadre  Allotment Year: 2022\
   [202605111546051419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111546051419.pdf)
+
+- Regarding the extension of the tenure of supernumerary posts created for Revenue Assistants within the Revenue Field Establishment who were appointed under the Scheduled Tribes category but failed to submit a Caste Validity Certificate, or who submitted a different Caste Validity Certificate.\
+  [202605121026538019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121026538019.pdf)
+
+- Regarding the termination of deputation of officers belonging to the Deputy Collector cadre.....\
+  [202605121613096419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121613096419....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

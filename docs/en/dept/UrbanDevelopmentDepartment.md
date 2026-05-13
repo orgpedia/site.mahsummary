@@ -3,6 +3,10 @@
 **Date Range**: 18 May 2026 - 23 May 2026
 
 
+## Funds
+- Regarding the distribution of grants to Municipal Corporations within the State under the Maharashtra Goods and Services Tax (Compensation to Local Authorities) Act, 2017. An amount of Rs. 5,585.68 Crores (for the months of April and May 2026) under the Head of Account (3604 0998) for the year 2026-2027.\
+  [202605121634409625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121634409625.pdf)
+
 ## Miscellaneous
 - Regarding the Special Purpose Vehicle (SPV) and the Officers/Employees operating under the Centrally Sponsored Smart Cities Mission.\
   [202605111602091525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111602091525.pdf)
