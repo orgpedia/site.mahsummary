@@ -3,6 +3,10 @@
 **Date Range**: 18 May 2026 - 23 May 2026
 
 
+## Funds
+- Regarding granting administrative and financial approval for the construction of a new Kamgar Bhavan building for Hingoli district.\
+  [202605131134295910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131134295910.....pdf)
+
 ## Miscellaneous
 - Regarding the constitution of a committee, under the chairmanship of the Director General, Directorate of Geology and Mining, for the implementation of the newly inserted Rules 10-A (pertaining to Mining Leases) and 18-A (pertaining to Composite Licenses)along with the accompanying Schedules VI and VII, respectivelyunder the Mineral Auction Rules, 2015.\
   [202605121806581510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121806581510.pdf)

@@ -7,6 +7,10 @@
 - Adminstrative approval under Extension and improvement to height raising work to waste weir of   Betekar bothali Medium Project Tal Mohadi Dist Bhandara\
   [202605121710412927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121710412927.pdf)
 
+## Miscellaneous
+- Regarding the applicability of the Old Pension Scheme to State Government Officers/Employees who joined government service on or after November 1, 2005on the lines of the Central Governmentin cases where the recruitment advertisement/notification was issued prior to November 1, 2005.\
+  [202605131549386727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131549386727.pdf)
+
 ## Personnel
 - Regarding extension of tenure for the posts of Superintending Engineer and Administrator, Benefit Area Development Authority, Solapur on fixed temporary establishment in the Board Office for the period from 01/03/2026 to 31/08/2026.\
   [202605111439180427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111439180427.pdf)
@@ -46,6 +50,18 @@
 
 - Regarding the approval of a proposal for a Bulk Water Entitlement from the Bhavali Dam Project (Taluka Igatpuri, District Nashik) for The Grand Garden Resort and Spa (Mauje Pimprisadroddin, Taluka Igatpuri, District Nashik).\
   [202605121748166027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121748166027.pdf)
+
+- Regarding the Grant of Bulk Water Entitlement from the Vadivale Reservoir to the Gujarati Kelvani Mandal, Vadavali (Taluka Maval, District Pune), for Domestic (Commercial) Use.\
+  [202605131528226127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131528226127.pdf)
+
+- Regarding the Grant of a Bulk Water Entitlement to Pride Purple Infrastructure and Pride Purple Properties (formerly Shobha Developers Ltd.)located at Mouje Hinjawadi and Marunji, Taluka Mulshi, District Puneto be drawn from the Hinjawadi Co-op Weir (Bandhara) at Mouje Hinjawadi, via the release of water into the Mula River from the Mulshi Medium Project.\
+  [202605131516507827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131516507827.pdf)
+
+- Regarding the sanctioning of a Bulk Water Entitlement to Sirin Developers (Mauje Bhoirwadi, Taluka Mulshi, District Pune)specifically involving the release of water from the Mulshi Medium Project into the Mula River, for abstraction at the Lavale Co-op Weir (Mauje Lavale, Taluka Mulshi, District Pune).\
+  [202605131530333727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131530333727.pdf)
+
+- Regarding the approval of the proposal for granting a Bulk Water Entitlement from the Kashyapi Dam (part of the Gangapur Group) to the Hearts Sanjeevani Center and Multimedical Research Institute, Dhondegaon, Taluka  District Nashik.\
+  [202605131526063427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131526063427.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
