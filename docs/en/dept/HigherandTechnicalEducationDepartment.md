@@ -3,6 +3,10 @@
 **Date Range**: 18 May 2026 - 23 May 2026
 
 
+## Funds
+- Regarding the implementation of Quantum Technology and Skill Development initiatives in Maharashtra under the National Quantum Mission (NQM), and the grant of administrative approval for procurement under the said initiatives.\
+  [202605141534472308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141534472308.......pdf)
+
 ## Miscellaneous
 - Regarding the publication of the Final Seniority List of officers holding the post of Professor in Engineering Collegesunder the Maharashtra Engineering College Teachers Service, Group-Afunctioning under the aegis of the Directorate of Technical Education, for the period from January 1, 2013, to January 1, 2025.\
   [202605121505506908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121505506908.pdf)

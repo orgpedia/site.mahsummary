@@ -19,6 +19,9 @@
 - Regarding the grant of prior government approval and administrative sanction for the civic amenities to be provided in the rehabilitated village sitesspecifically Rehabilitation Village Site No. 12 (Kukaval), Village Site No. 9 (Wadi), and Village Site No. 10 (Chikhali) in Shahada Talukawithin the Nandurbar District, under the Sardar Sarovar Project.\
   [202605131829404319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131829404319.pdf)
 
+- Regarding the establishment of Standard Operating Procedures (SOPs) for recovery and reconstruction in areas affected by natural disasters.\
+  [202605141614399319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141614399319.pdf)
+
 ## Miscellaneous
 - Regarding the introduction of Junior Administrative Grade (JAG) to officers in the Indian Forest Service (Allotment Year 2016 and 2017)\
   [202605111549388719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111549388719.pdf)
@@ -44,6 +47,12 @@
 
 - Transfers of Officers in the Cadre of Assistant Conservator of Forests, Group-A (Junior Scale).\
   [202605131724482119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131724482119.pdf)
+
+- Regarding appointments to the post of Naib Tehsildaron a purely temporary, ad-hoc promotional basisfrom the cadres of Assistant Revenue Officer and Mandal Officer (Nagpur Division).\
+  [202605141540203119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141540203119.pdf)
+
+- Regarding the formulation of a Standard Operating Procedure-SOP to ensure compliance with the procedure for handling quasi-judicial cases filed with the Government as well as Revenue Officers/Authorities.\
+  [202605141826082019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141826082019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

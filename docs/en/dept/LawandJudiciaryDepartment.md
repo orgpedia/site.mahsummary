@@ -19,6 +19,9 @@
 - Administrative Approval Regarding the construction of a Lawyers Hall at the Taluka Court, Deori, District Gondia.\
   [202605111803387212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111803387212.pdf)
 
+- Regarding the grant of administrative approval for the procurement of two (02) Kiosk Machines to be installed in the Main and Extension (Annex) buildings of the Honble High Court, Bombay, Aurangabad Bench.\
+  [202605141353237712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141353237712.pdf)
+
 ## Miscellaneous
 - Administrative Approval Regarding the construction of one residential quarter for the Civil Judge (Junior Division) at Kankavli, District Sindhudurg.\
   [202605111744348112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111744348112.pdf)

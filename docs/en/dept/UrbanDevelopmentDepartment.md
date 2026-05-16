@@ -38,5 +38,8 @@
 - Regarding the release of funds for the Financial Year 2026-27 under the SNA SPARSH system, to cover expenditure on Capacity Building, Skill Development, and Knowledge Management (CB, SD  KM) under the Swachh Maharashtra Abhiyan (Urban) 2.0.\
   [202605131710451625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131710451625.pdf)
 
+- Regarding the Sanction of Funds under the Scheme: Special Provision for the Development of Basic Amenities within Municipal Corporation Areas For the Financial Year 2023-24 (Under Head of Account 4217 0541) For Nashik Municipal Corporation, Dist. Nashik Amount: Rs. 17.00 Crores (Corrigendum)\
+  [202605141512581125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141512581125.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

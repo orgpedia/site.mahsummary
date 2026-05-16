@@ -22,6 +22,15 @@
 - Regarding the dissolution of the Working Group constituted to finalize the draft of the Maharashtra Good Governance Bill.\
   [202605121159501407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121159501407.pdf)
 
+- Measures being undertaken by the State Government against the West Asian crisis.\
+  [202605141103458007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141103458007...pdf)
+
+- Regarding the grant of an extension to M/s Classic Entertainment Network, Mumbai, for the period from May 1, 2026, to April 30, 2028, for the provision of necessary servicessuch as cable connections, set-top boxes, etc.for television sets installed in the office chambers of Hon. Chief Minister, Deputy Chief Minister, Ministers, Ministers of State, Chief Secretary, Additional Chief Secretaries, Principal Secretaries, and Secretaries (Ministerial Officers), as well as the Public Relations Officers within the Hon. Chief Ministers Secretariat.\
+  [202605141457494007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141457494007.pdf)
+
+- Regarding the organization of the Post-Recruitment Training Examination 2026 for Clerk-Typists in the Mantralaya\
+  [202605141530362507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141530362507.pdf)
+
 ## Personnel
 - Final seniority list of Class III and IV employees of Sahyadri/Nandgiri State Guest House as on 01.01.2026.\
   [202605111730110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111730110207.pdf)
@@ -34,6 +43,9 @@
 
 - Regarding the appointment of a supplier for the provision of stationery, computer peripherals, and other supplies to the Hon. Chief Ministers Secretariat, the Office situated at the Hon. Chief Ministers Official Residence, the Ministers Establishment Desks (ME-1, 2,  3), as well as the offices of the Additional Chief Secretary/Principal Secretary/Secretary associated with the Ministers Establishment.\
   [202605121728522207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121728522207.pdf)
+
+- Regarding the cancellation of the appointment order of Shri Gangadhar Manika Nirade, Peon (Messenger), District Information Office, Parbhaniserving under the Directorate General of Information and Public Relationsto a supernumerary post, effective from the date of his appointment to the said supernumerary post.\
+  [202605141206131907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141206131907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

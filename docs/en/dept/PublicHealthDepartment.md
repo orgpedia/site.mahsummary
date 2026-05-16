@@ -11,9 +11,21 @@
 - Regarding the distribution of Central share 60 Account Head 2210F738, Rs. 6089.00 lakhs under Item 31 and Rs. 570.00 lakhs under Item 35 and State share 40 Account Head 2210E455, Rs. 4059.33 lakhs under Item 31 and Rs. 380.00 lakhs under Item 35 for Tribal Deployment Projects (TSP) from the budgetary provision for the financial year 2026-27 under the Centrally Sponsored National Rural Health Mission.\
   [202605131717596917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131717596917.pdf)
 
+- Regarding granting administrative approval as a special matter for the construction of the main building of the 50-bed Sub-District Hospital at Katol, Dist. Nagpur.\
+  [202605141508402517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141508402517.pdf)
+
+- Regarding distribution of funds from the budgetary provision for the year 2026-27 under the Central share 60 under Account Head 2210G135 and State share 40 under Account Head 2210G144 for the programs under the Centrally Sponsored National AYUSH Mission for General Category (General) through SNA SPARSH system\
+  [202605141638368517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141638368517.pdf)
+
+- Regarding the establishment of an Integrated Health Promotion Committee to make health-related initiatives in the State people-centric, dynamic, and robust.\
+  [202605141132445417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141132445417.pdf)
+
 ## Personnel
 - Corrigendum -Transfer policy for officers and employees (Group-B, Group-C, and Group-D) working in all institutions under the Public Health Department\
   [202605131722149517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131722149517.pdf)
+
+- Regarding the posting of Chief Administrative Officer, Joint Director (H.H.J.Ro), Health Services, Pune, working under the Public Health Department, as Virtual Personal Deposit Account Administrator (VPDAA) for the office of Joint Director (H.H.J.Ro), Health Services, Pune.\
+  [202605141509088917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141509088917.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
