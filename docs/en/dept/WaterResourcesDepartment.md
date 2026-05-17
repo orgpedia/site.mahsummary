@@ -63,5 +63,11 @@
 - Regarding the approval of the proposal for granting a Bulk Water Entitlement from the Kashyapi Dam (part of the Gangapur Group) to the Hearts Sanjeevani Center and Multimedical Research Institute, Dhondegaon, Taluka  District Nashik.\
   [202605131526063427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131526063427.pdf)
 
+- Administrative Approval to Nivendi Khar Land scheme, Tal. Dist:- Ratnagiri,  Renovation of Earthen Bund From Ch. 0m to Ch 420m of Nivendi A Kharland Scheme and Renovation of Earthen Bund From ch. (-) 30m to Ch. 580m and Fright Work at Ch. 111m of Nivendi B  Basani Kharland Scheme, Tal. Dist. Ratnagiri\
+  [202605151218299327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151218299327.pdf)
+
+- Continuation of Posts.\
+  [202605151319335327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151319335327.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

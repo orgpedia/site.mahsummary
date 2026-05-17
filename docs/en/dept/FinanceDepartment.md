@@ -10,6 +10,12 @@
 - Regarding the opening of a separate Single Nodal Agency (SNA) account and Zero Balance Subsidiary Accounts for implementing agencies under the Central Governments scheme, Special Assistance to States for Capital Investment.\
   [202605141504559105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141504559105.pdf)
 
+- Guidelines for Administrative Departments regarding Reappropriation\
+  [202605151019282905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151019282905.pdf)
+
+- Regarding the Designation of a Virtual Personal Deposit Account Administrator for Drawing and Disbursing Officers, for the purpose of expeditious disbursement and monitoring of Grant-in-Aid...\
+  [202605151619000305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151619000305.pdf)
+
 ## Personnel
 - Regarding the Remittance (Deposit) to the Government of Excess Payments and Unutilized (Budgeted) Funds\
   [202605111255004405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111255004405.pdf)

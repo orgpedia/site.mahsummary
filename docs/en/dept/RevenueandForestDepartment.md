@@ -22,6 +22,12 @@
 - Regarding the establishment of Standard Operating Procedures (SOPs) for recovery and reconstruction in areas affected by natural disasters.\
   [202605141614399319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141614399319.pdf)
 
+- Regarding the Grant of Administrative and Financial Approval for the Purchase of New Vehicles in Replacement of Condemned Vehicles.\
+  [202605151508213319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151508213319.pdf)
+
+- Regarding the Granting of Administrative Approval for Disaster Mitigation Works. Regarding the Granting of Administrative Approval for New Works in Replacement of Duplicated Works that were Subsequently Deleted, in the Taluka and District of Wardha.\
+  [202605151708396919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151708396919.pdf)
+
 ## Miscellaneous
 - Regarding the introduction of Junior Administrative Grade (JAG) to officers in the Indian Forest Service (Allotment Year 2016 and 2017)\
   [202605111549388719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111549388719.pdf)
@@ -31,6 +37,15 @@
 
 - Forest Land - Gadchiroli Diversion of 19.227 ha. forest land under Section-2 of Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 for above ground conveyor along with road for conveyor maintenance  emergency road and transmission line in Villages Hedri, Bande in Tahsil Etapalli, Distrist Gadchiroli in the State of Maharashtra in favour of M/s Lloyds Metals  Energy Limited.\
   [202605131145394119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131145394119.pdf)
+
+- Sand Extraction Policy  2025 (10 Sand Mandatorily Reserved for Housing Schemes)Sand Extraction Policy  2025 (10 Sand Mandatorily Reserved for Housing Schemes)\
+  [202605151711118319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151711118319.pdf)
+
+- State Plan 2025-26 Proposal for Continuing Items under the Establishment of the Maharashtra State Zoo Authority (2406 A087)\
+  [202605151446517819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151446517819.pdf)
+
+- Forest Land - Pune Diversion of 4.7606 ha. Restored Private Forest land for construction of non-Forest activities i.e. Tourism Project like Forest Villas, Internal Roads, Tourism Activities etc. at Village Apti, Taluka-Maval, Dist. Pune in the State of Maharashtra.\
+  [202605151253453419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151253453419.pdf)
 
 ## Personnel
 - Regarding the Promotion of Officers of the Junior Time Scale to the Senior Time Scale within the Indian Forest Service Cadre  Allotment Year: 2022\
@@ -53,6 +68,42 @@
 
 - Regarding the formulation of a Standard Operating Procedure-SOP to ensure compliance with the procedure for handling quasi-judicial cases filed with the Government as well as Revenue Officers/Authorities.\
   [202605141826082019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141826082019.pdf)
+
+- Regarding the Postings of Officers in the Cadre of Additional Collector (Selection Grade) upon Transfer\
+  [202605151926592419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151926592419.pdf)
+
+- Regarding the Transfer and Posting of Officers belonging to the Additional Collector Cadre\
+  [202605151928485319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151928485319.pdf)
+
+- Regarding the Transfer and Posting of Officers belonging to the Additional Collector Cadre\
+  [202605151933015319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151933015319.pdf)
+
+- Regarding the Postings of Officers in the Cadre of Additional Collector (Selection Grade) upon Transfer\
+  [202605151911494319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151911494319....pdf)
+
+- Regarding the Transfer and Posting of Officers belonging to the Additional Collector Cadre\
+  [202605151940162019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151940162019.pdf)
+
+- Regarding the grant of promotion and postingon a purely temporary basisto eligible officers of the Deputy Collector (Selection Grade) cadre against vacant posts under the regular promotion quota of the Additional Collector cadre, within the Select List Year 2025-2026 (Supplementary Select List).\
+  [202605151944267419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151944267419.pdf)
+
+- Regarding the Regularization of Ad-hoc Promotions in the Cadre of Naib Tehsildar within the Nagpur Division (Select List: Year 2025-26)\
+  [202605151842311919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151842311919.pdf)
+
+- Regarding the Transfer and Posting of Officers belonging to the Additional Collector Cadre\
+  [202605151936136419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151936136419.pdf)
+
+- Regarding the Transfer and Posting of Smt. Yogita Naththuji Zhile, Deputy Superintendent of Land Records, Mauda, Dist. Nagpur...\
+  [202605151511289919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151511289919.pdf)
+
+- Regarding the Postings of Officers in the Cadre of Additional Collector (Selection Grade) upon Transfer\
+  [202605151916485319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151916485319.pdf)
+
+- Regarding the Postings of Officers in the Cadre of Additional Collector (Selection Grade) upon Transfer\
+  [202605151925032419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151925032419.pdf)
+
+- Regarding the Postings of Officers in the Cadre of Additional Collector (Selection Grade) upon Transfer\
+  [202605151915118219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151915118219....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

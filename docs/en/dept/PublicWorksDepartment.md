@@ -7,5 +7,8 @@
 - Regarding the Termination of Services of Mr. Chetankumar Baburao Chandol, Civil Engineering Assistant.\
   [202605121447314518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121447314518....pdf)
 
+- Regarding the Transfer of the Deputy Engineer (Civil)\
+  [202605151615306018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151615306018.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
