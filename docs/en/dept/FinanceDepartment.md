@@ -1,24 +1,21 @@
 # Finance Department
 
-**Date Range**: 18 May 2026 - 23 May 2026
+**Date Range**: 25 May 2026 - 30 May 2026
 
 
 ## Miscellaneous
-- Regarding the levy of Goods and Services Tax (GST) on the subscription for the State Government Employees Group Personal Accident Insurance Scheme.\
-  [202605131318461105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605131318461105.pdf)
+- Regarding the arrears of Dearness Allowance to State Government and other eligible employees drawing salary in unrevised pay structure (as per 6th Pay Commission) for the period 1 November, 2025 to 31 January, 2026\
+  [202605181446595305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181446595305.pdf)
 
-- Regarding the opening of a separate Single Nodal Agency (SNA) account and Zero Balance Subsidiary Accounts for implementing agencies under the Central Governments scheme, Special Assistance to States for Capital Investment.\
-  [202605141504559105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141504559105.pdf)
+- Regarding the arrears of Dearness Allowance to State Government and other eligible employees drawing salary in unrevised pay structure (as per 5th Pay Commission) for the period 1 November, 2025 to 31 January, 2026\
+  [202605181452000605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181452000605.pdf)
 
-- Guidelines for Administrative Departments regarding Reappropriation\
-  [202605151019282905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151019282905.pdf)
-
-- Regarding the Designation of a Virtual Personal Deposit Account Administrator for Drawing and Disbursing Officers, for the purpose of expeditious disbursement and monitoring of Grant-in-Aid...\
-  [202605151619000305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151619000305.pdf)
+- Regarding the arrears of Dearness Allowance to State Government and other eligible employees for the period 01 November, 2025 to 31 January, 2026\
+  [202605181444096405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181444096405.pdf)
 
 ## Personnel
-- Regarding the Remittance (Deposit) to the Government of Excess Payments and Unutilized (Budgeted) Funds\
-  [202605111255004405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111255004405.pdf)
+- Promotion and Posting from the post of Joint Commissioner of State Tax to the post of Additional Commissioner of State Tax\
+  [202605181151337605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181151337605.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

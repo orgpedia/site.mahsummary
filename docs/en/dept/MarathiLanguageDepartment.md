@@ -1,11 +1,11 @@
 # Marathi Language Department
 
-**Date Range**: 11 May 2026 - 16 May 2026
+**Date Range**: 25 May 2026 - 30 May 2026
 
 
-## Funds
-- Regarding the payment of the property tax bill for the year 2026-27 for the land acquired for the Marathi Bhasha Bhavan building in Airoli.\
-  [202605061546017833.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605061546017833.pdf)
+## Miscellaneous
+- Regarding the disbursement of funds to the Maharashtra Industrial Development Corporation (MIDC) for the payment of dues to the construction contractors and architects for the work executed on the Marathi Bhasha Bhavan project at Charni Road, Mumbai...\
+  [202605181203578633.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181203578633.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

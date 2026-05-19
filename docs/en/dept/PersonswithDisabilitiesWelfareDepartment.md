@@ -1,11 +1,11 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 18 May 2026 - 23 May 2026
+**Date Range**: 25 May 2026 - 30 May 2026
 
 
-## Personnel
-- Regarding granting an extension to Divyang beneficiaries who do not have a Unique Disability Identity (UDID) Card under the Special Assistance Grant Scheme.\
-  [202605151830391635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151830391635.pdf)
+## Miscellaneous
+- Regarding the disbursement of grants to the Maharashtra State Divyang Finance and Development Corporation Ltd., Mumbai, under the head 36  Grants-in-Aid (Salaries) for the Financial Year 2026-27 (Mandatory) (Unconditional).\
+  [202605181613419735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181613419735.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
