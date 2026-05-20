@@ -1,51 +1,31 @@
 # General Administration Department
 
-**Date Range**: 18 May 2026 - 23 May 2026
+**Date Range**: 25 May 2026 - 30 May 2026
 
+
+## Funds
+- Regarding the grant of ex-post facto administrative and financial approval for the year 2026-27 to the estimated expenditure of Rs. 3.62 Crores (inclusive of all taxes) and the associated plan (Special Publicity Campaign), for the purpose of implementing a comprehensive public awareness drive as part of a special publicity campaign for the Excellence in Medical Sciences and Reforms in Medical Education  Conclave, scheduled to be held on March 27 and 28, 2026.\
+  [202605181232161307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181232161307.pdf)
+
+- Regarding the disbursement of a grant to YASHADA, Pune, for the Financial Year 2026-27 for the Integrated Probationary Training Program (Salary  1st Installment).\
+  [202605191703155507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191703155507.pdf)
 
 ## Miscellaneous
-- Increased Dearness Allowance by 2 Percent for officers of All India Service in Maharashtra Cadre\
-  [202605111239119307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111239119307....pdf)
+- Regarding the procedure for submission  of files of Maharashtra Sadan, New Delhi\
+  [202605181516477907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181516477907.pdf)
 
-- One Week In-Service Training Programs (Offline) calendar for the year 2026-27\
-  [202605111242487607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111242487607.....pdf)
+- Repatriation from Deputation- Shri Arjun Ashok Giram, Under Secretary\
+  [202605191140228507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191140228507.pdf)
 
-- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of April to June, 2026\
-  [202605111716076007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111716076007.pdf)
-
-- Regarding the issuance of instructions concerning the Video Conferences (V.C.) and in-person meetings to be conducted with the Divisional Commissioners, District Collectors, and Chief Executive Officers (CEOs) of the Zilla Parishads in the State...\
-  [202605111643407007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111643407007....pdf)
-
-- Regarding the Constitution of a State Administrative Innovation Committee for the Effective Implementation of Principles of Good Governance in the State of Maharashtra.\
-  [202605111804334007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111804334007.pdf)
-
-- Regarding the dissolution of the Working Group constituted to finalize the draft of the Maharashtra Good Governance Bill.\
-  [202605121159501407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121159501407.pdf)
-
-- Measures being undertaken by the State Government against the West Asian crisis.\
-  [202605141103458007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141103458007...pdf)
-
-- Regarding the grant of an extension to M/s Classic Entertainment Network, Mumbai, for the period from May 1, 2026, to April 30, 2028, for the provision of necessary servicessuch as cable connections, set-top boxes, etc.for television sets installed in the office chambers of Hon. Chief Minister, Deputy Chief Minister, Ministers, Ministers of State, Chief Secretary, Additional Chief Secretaries, Principal Secretaries, and Secretaries (Ministerial Officers), as well as the Public Relations Officers within the Hon. Chief Ministers Secretariat.\
-  [202605141457494007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141457494007.pdf)
-
-- Regarding the organization of the Post-Recruitment Training Examination 2026 for Clerk-Typists in the Mantralaya\
-  [202605141530362507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141530362507.pdf)
+- Regarding the implementation of a 2 increase in Dearness Allowance for pensioners/family pensioners of the All India Services (Maharashtra Cadre), effective from January 1, 2026.\
+  [202605181647511607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181647511607.pdf)
 
 ## Personnel
-- Final seniority list of Class III and IV employees of Sahyadri/Nandgiri State Guest House as on 01.01.2026.\
-  [202605111730110207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605111730110207.pdf)
+- Regarding the entrustment of the additional charge of the post of Director and Assistant Professor (Economics) at the Vasantrao Naik State Agricultural Extension Management Training Institute (VANAMATI), Nagpur, to Smt. Suvarna Pandey, Chief Accounts and Finance Officer, Vidarbha Irrigation Development Corporation, Nagpur.\
+  [202605181722291607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181722291607.pdf)
 
-- Regarding the grant of administrative and financial approval for the construction of the proposed Gadchiroli Airport.\
-  [202605121720174507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121720174507.pdf)
-
-- Regarding the repatriation of the services of Shri Jagdish More, District Information Officer (Group-A Cadre) of the Directorate General of Information and Public Relations, from the State Election Office back to the Directorate General of Information and Public Relations, and his subsequent posting...\
-  [202605121511315107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121511315107.pdf)
-
-- Regarding the appointment of a supplier for the provision of stationery, computer peripherals, and other supplies to the Hon. Chief Ministers Secretariat, the Office situated at the Hon. Chief Ministers Official Residence, the Ministers Establishment Desks (ME-1, 2,  3), as well as the offices of the Additional Chief Secretary/Principal Secretary/Secretary associated with the Ministers Establishment.\
-  [202605121728522207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121728522207.pdf)
-
-- Regarding the cancellation of the appointment order of Shri Gangadhar Manika Nirade, Peon (Messenger), District Information Office, Parbhaniserving under the Directorate General of Information and Public Relationsto a supernumerary post, effective from the date of his appointment to the said supernumerary post.\
-  [202605141206131907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605141206131907.pdf)
+- Regarding the transfer of an officer belonging to the Mantralaya Section Officer Cadre. Mr. Mithun M. Salunkhe, Section Officer\
+  [202605191216340907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191216340907.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

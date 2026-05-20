@@ -11,5 +11,8 @@
 - Regarding the extension of sanctioned regular temporary posts and converted temporary posts under the office and subordinate offices of the Chief Engineer, Hydrology and Dam Safety, Nashik from 01/03/2026 to 31/08/2026. ( Corrigendum)\
   [202605181808256727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181808256727.pdf)
 
+- Sanctioning of an Enhanced Bulk Water Entitlement for drinking purposes from the Gautami Godavari Project (Gangapur Dam Complex) for the Trimbak Municipal Council, Taluka Trimbakeshwar, District Nashik, under the Maharashtra Suvarna Nagrotthan Mahaabhiyan Program.\
+  [202605191449202227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191449202227.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,14 +1,11 @@
 # Public Works Department
 
-**Date Range**: 18 May 2026 - 23 May 2026
+**Date Range**: 25 May 2026 - 30 May 2026
 
 
 ## Personnel
-- Regarding the Termination of Services of Mr. Chetankumar Baburao Chandol, Civil Engineering Assistant.\
-  [202605121447314518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605121447314518....pdf)
-
-- Regarding the Transfer of the Deputy Engineer (Civil)\
-  [202605151615306018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605151615306018.pdf)
+- Final Seniority List as of 01/01/2026 for the Cadre of Executive Engineer (Electrical) in the Public Works Department.\
+  [202605191542424618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191542424618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

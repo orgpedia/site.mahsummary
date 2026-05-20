@@ -20,6 +20,12 @@
 - Regarding the Implementation of Phase 1 of the Chhatrapati Shivaji Maharaj Revenue Grievance Redressal Camp Campaign.\
   [202605181752573219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181752573219....pdf)
 
+- Regarding the extension of the UNDP-GCF supported project, Enhancing Climate Resilience of Indias Coastal Communities.\
+  [202605191658195019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191658195019.pdf)
+
+- Regarding the target of recovery of royalty on minor minerals for the year 2026-2027\
+  [202605191835246419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191835246419.pdf)
+
 ## Personnel
 - Regarding the extension of the duration for a total of 33 temporary posts for rehabilitation work in the rehabilitated Gaothans (village sites) of divisional and district level projects in Nagpur Division, from 01.03.2026 to 31.08.2026 (6 months)...\
   [202605181214199419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181214199419.pdf)
@@ -32,6 +38,12 @@
 
 - Regarding the extension of the duration for a total of 13 temporary posts in the office of the Land Acquisition, Rehabilitation and Resettlement Authority, Nagpur, from 01.03.2026 to 31.08.2026 (6 months)...\
   [202605181211428519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181211428519.pdf)
+
+- Procedure to be followed while granting short-term/temporary permits in accordance with the provisions of the Maharashtra Minor Mineral Extraction (Development and Regulation) Rules, 2013.\
+  [202605191832174419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191832174419.pdf)
+
+- Regarding the extension of tenure for a total of 13 temporary posts in the office of the Land Acquisition, Rehabilitation and Resettlement Authority, Chhatrapati Sambhajinagar, from 01.03.2026 to 31.08.2026 (6 months)...\
+  [202605191145586419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191145586419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
