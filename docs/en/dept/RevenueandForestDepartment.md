@@ -16,6 +16,12 @@
 - Regarding the sanctioning of compensation to the legal heirs of an employee who lost his life while attempting to bring a forest fire under control. Late Vijay Ramdas Singanjude, Forest Guard, Forest Range (Territorial), Hiwari, Dist. Yavatmal.\
   [202605181535558419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181535558419.pdf)
 
+- Regarding the enhancement of the grant allocated for lighting, the remuneration of priests, and the stipends of attendants at the Shivrajeshwar Temple of Chhatrapati Shivaji Maharaj, located at Sindhudurg Fort, Taluka Malvan, District Sindhudurg...\
+  [202605201237386119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201237386119.pdf)
+
+- Regarding the determination of the headquarters locations and jurisdictions of new offices within the Department of Land Records.\
+  [202605201306389219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201306389219...pdf)
+
 ## Miscellaneous
 - Regarding the Implementation of Phase 1 of the Chhatrapati Shivaji Maharaj Revenue Grievance Redressal Camp Campaign.\
   [202605181752573219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181752573219....pdf)

@@ -10,5 +10,11 @@
 - Grant-in-Aid to the Authority for sanctioning pension benefits to retired employees of Maharashtra Jeevan Authority (2215 A052)  31, Grant-in-Aid (Extra-Salary)\
   [202605191440085828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191440085828.pdf)
 
+- Financial Year 2026-27 Regarding distribution of funds under the account head 22151914 (04-Retirement Expenses) to the concerned Zilla Parishads for the salaries of employees working on Converted Regular Temporary (CRT) Establishments on Water Supply Schemes.\
+  [202605191440066228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191440066228.pdf)
+
+- Financial Year 2026-27 Regarding the disbursement of funds under the account head 22151914 (36-Subsidies) to the concerned Zilla Parishads for the salaries of employees working on Converted Regular Temporary (CRT) establishments on water supply schemes.\
+  [202605191440175028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191440175028.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

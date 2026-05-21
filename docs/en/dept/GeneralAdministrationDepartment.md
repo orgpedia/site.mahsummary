@@ -20,12 +20,21 @@
 - Regarding the implementation of a 2 increase in Dearness Allowance for pensioners/family pensioners of the All India Services (Maharashtra Cadre), effective from January 1, 2026.\
   [202605181647511607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181647511607.pdf)
 
+- Regarding the constitution of a Scrutiny Committee to examine proposals during the Model Code of Conduct period, in connection with the Biennial Elections-2026 for the 16 vacant Local Authorities Constituencies of the Maharashtra Legislative Council across the State, as well as the vacant seat in the Nagpur Local Authorities Constituency....\
+  [202605201216177807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201216177807.pdf)
+
+- Regarding the allotment of additional space to the Office of the Honble Lokayukta and Upa-Lokayukta, State of Maharashtra.\
+  [202605201739333907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201739333907.pdf)
+
 ## Personnel
 - Regarding the entrustment of the additional charge of the post of Director and Assistant Professor (Economics) at the Vasantrao Naik State Agricultural Extension Management Training Institute (VANAMATI), Nagpur, to Smt. Suvarna Pandey, Chief Accounts and Finance Officer, Vidarbha Irrigation Development Corporation, Nagpur.\
   [202605181722291607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181722291607.pdf)
 
 - Regarding the transfer of an officer belonging to the Mantralaya Section Officer Cadre. Mr. Mithun M. Salunkhe, Section Officer\
   [202605191216340907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191216340907.pdf)
+
+- Regarding the grant of temporary regular promotion to the post of Deputy Director (Information), Group-A (Senior).\
+  [202605201631229107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201631229107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

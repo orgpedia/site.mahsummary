@@ -27,5 +27,8 @@
 - Regarding the continuation of 1,463 temporary posts under the jurisdiction of the Deputy Director of Health Services, Nagpur Division, Nagpur.\
   [202605191039519117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191039519117.pdf)
 
+- Regarding the distribution of funds for programs under the Centrally Sponsored National Rural Health Missionspecifically for the Scheduled Castes Sub-Plan (SCSP)through the SNA SPARSH system, comprising a Central Share of 60 (under Head of Account 2210G592: Rs. 9,275.00 Lakhs under Item 31 and Rs. 782.00 Lakhs under Item 35) and a State Share of 40 (under Head of Account 2210G609: Rs. 6,183.33 Lakhs under Item 31 and Rs. 521.33 Lakhs under Item 35), to be drawn from the Original Budgetary Provisions for the year 2026-27.\
+  [202605201721023717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201721023717.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

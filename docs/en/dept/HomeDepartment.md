@@ -10,5 +10,8 @@
 - Regarding the cancellation of the Government Resolution concerning the constitution of a committee to select candidatesbased on meritfor the conferment of awards upon newspaper correspondents for publicizing the Mahatma Gandhi Dispute-Free Village Campaign.\
   [202605191242507429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191242507429.pdf)
 
+- Regarding Amendments to the Name and Bye-laws of the Dharmveer Anand Dighe Saheb Maharashtra Auto-rickshaw and Metered Taxi Drivers Welfare Board.\
+  [202605201508320229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201508320229.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,5 +10,8 @@
 - Regarding the conferral of Grade A tourist destination status upon Shrimant Dagdusheth Halwai Ganpati, Pune.\
   [202605191234240323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191234240323.pdf)
 
+- Regarding the grant of administrative and financial approval for organizing the cultural program Bhim-Geet Singing in Mumbai, and for the expenditure incurred thereon.\
+  [202605201757391723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201757391723.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

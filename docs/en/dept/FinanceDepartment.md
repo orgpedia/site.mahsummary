@@ -25,6 +25,9 @@
 - Supplementary Demands 2026-27- June-2026\
   [202605191056046405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191056046405.pdf)
 
+- Regarding the submission of various expenditure- related and other proposals received from administrative departments in the prescribed format.\
+  [202605201059556405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201059556405.pdf)
+
 ## Personnel
 - Promotion and Posting from the post of Joint Commissioner of State Tax to the post of Additional Commissioner of State Tax\
   [202605181151337605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181151337605.pdf)
