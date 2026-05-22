@@ -51,5 +51,11 @@
 - Regarding the extension of tenure for a total of 13 temporary posts in the office of the Land Acquisition, Rehabilitation and Resettlement Authority, Chhatrapati Sambhajinagar, from 01.03.2026 to 31.08.2026 (6 months)...\
   [202605191145586419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191145586419.pdf)
 
+- Consolidated Revised Policy regarding the Unearned Increment to be levied on the transfer of land/plots granted by the Government...\
+  [202605211454306419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211454306419.pdf)
+
+- Regarding the Termination of Deputation of Officers belonging to the Additional Collector Cadre...Mr. Dattatray Nagnath Bhadakwad\
+  [202605211135214919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211135214919.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

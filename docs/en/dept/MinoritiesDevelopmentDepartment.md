@@ -1,11 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 11 May 2026 - 16 May 2026
+**Date Range**: 25 May 2026 - 30 May 2026
 
 
 ## Funds
-- Regarding the distribution of funds to the Maharashtra State Haj Committee for the financial year 2026-27...\
-  [202605041531105914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605041531105914.pdf)
+- Regarding the disbursement of the Central Share and matching State Sharesanctioned by the Central Government through a Mother Sanctionfor the implementation of the Centrally Sponsored Scheme, Pradhan Mantri Jan Vikas Karyakram (PMJVK), utilizing the SNA-SPARSH fund disbursement mechanism.\
+  [202605211510127214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211510127214.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

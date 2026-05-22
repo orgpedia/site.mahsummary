@@ -16,5 +16,11 @@
 - Regarding Voluntary Retirement... Mr. Deepak Pujari, Maharashtra Urban Administrative Service, Chief Officer (Group-A) / Deputy Commissioner (Group-A)\
   [202605191844424325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191844424325.pdf)
 
+- Regarding the applicability of the Service Entry Rules for the Stenographer cadre of the General Administration Department to the post of Stenographer on the establishment of the Maharashtra Fire Service Academy, under the Directorate of Maharashtra Fire and Emergency Services.\
+  [202605211558580625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211558580625.pdf)
+
+- Regarding the applicability of the Service Entry Rules for the post of Clerk-Typist (Group-C) under the General Administration Department to the post of Clerk-Typist (Group-C) within the Directorate of Maharashtra Fire and Emergency Services and the Maharashtra Fire Services Academy.\
+  [202605211556321025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211556321025.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

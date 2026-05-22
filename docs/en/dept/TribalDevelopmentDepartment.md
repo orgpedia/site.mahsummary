@@ -7,6 +7,9 @@
 - To release grant for the scheme of Maintenance Allowance to Students Studying in Sainik School(Scheme) under the TSP in financial year 2026-27. CRC 2225 F102\
   [202605191042506324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191042506324.pdf)
 
+- To release grant for the scheme of Legal Advice Centre (Scheme) under the TSP in financial year 2026-27.  CRC 2225 3494\
+  [202605211508451824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211508451824.pdf)
+
 ## Miscellaneous
 - Regarding the grant of permanent recognition to the Indian Institute of Naturopathy, Bhokar, Dist. Nanded to operate a grant-in-aid Ashram School at Mouje Wadgaon, Taluka Hadgaon, Dist. Nanded, under the Tribal Development Department.\
   [202605201729272124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201729272124.pdf)
