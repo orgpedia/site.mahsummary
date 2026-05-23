@@ -20,5 +20,9 @@
 - Regarding granting approval to open a Personal Ledger Account (P.L.A.) for Government Medical College, Bhandara.\
   [202605211121013213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211121013213.pdf)
 
+## Personnel
+- Regarding the adoption of the MahaShishyavrutti integrated computerized system developed by MahaIT on the MahaDBT Portal to make the process of Post-Matric Scholarship Schemes implemented by the Medical Education And Drugs  Department .\
+  [202605221803271213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221803271213.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

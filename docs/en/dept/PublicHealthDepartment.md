@@ -16,6 +16,12 @@
 - Regarding administrative approval for the expenditure incurred for the training session in accordance with the Memorandum of Understanding signed with IoFC Panchgani Satara for enhancing the knowledge and skills of officers and employees of various cadres under the Public Health Department of the state...\
   [202605191210297817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191210297817.pdf)
 
+- Repayment of loan received from HUDCO, a financial institution, for the construction of public health institutions.\
+  [202605221157463317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221157463317.pdf)
+
+- Approval to pay interest on loans received from HUDCO, a financial institution, for the construction of health institutions.\
+  [202605221157285517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221157285517.pdf)
+
 ## Miscellaneous
 - Regarding declaring the Medical Superintendent, Class 1 Group-A as the Drawing and Disbursing Officer for the newly established health institutions to pass the salaries and allowances of the Head of Office and the officers and employees there as well as the payments of incidental expenses from the treasury.\
   [202605181744191317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181744191317.pdf)
@@ -32,6 +38,18 @@
 - Regarding the establishment of a Maternal and Child Mortality Investigation Action Committee at the district (rural), (urban) and taluka levels for in-depth investigation of maternal and child mortality incidents in the state, causal analysis and effective implementation of preventive measures, as well as a Taluka, District and Ward Level Technical Advisory Committee to assist these action committees.\
   [202605211120270917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211120270917.pdf)
 
+- Regarding the distribution of funds to the National AYUSH Society through redistribution of funds from the Central share under Account Head 2210G135 Item 31- Subsidiary Grants (Non-Salary) under the Centrally Sponsored National AYUSH Mission for the year 2026-27 for general category as well as from Account Head 2210G144 Item 31- Subsidiary Grants (Non-Salary) under the State share under Account Head 2210G135 Item 31- Subsidiary Grants (Non-Salary) under the State share under Account Head 2210G144 Item 35- Capital Creation.\
+  [202605221505144117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221505144117.pdf)
+
+- Regarding providing funds to the Taluka Level Coordination and Monitoring Committee for the effective implementation of the National Tobacco Control Program Cigarettes and Other Tobacco Products Act, 2003 (COTPA).\
+  [202605221127031017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221127031017.pdf)
+
+- Regarding distribution of grants to State Health Societies for social special categories from the approved budgetary provision for the year 2026-27 for the centrally sponsored Pradhan Mantri Ayushman Bharat Health Infrastructure Mission.\
+  [202605221505004317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221505004317.pdf)
+
+- Regarding the approval for entering into a Memorandum of Understanding (MoU) with social organizations (Gramin Adivasi Samaj Vikas Sanstha, Sausar, Madhya Pradesh; and Annyatha Foundation) Non-Governmental Organizations within the districts of Nagpur and Wardha, under the District Mental Health Programme.\
+  [202605221454448417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221454448417.pdf)
+
 ## Personnel
 - Regarding the continuation of 1,463 temporary posts under the jurisdiction of the Deputy Director of Health Services, Nagpur Division, Nagpur.\
   [202605191039519117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191039519117.pdf)
@@ -44,6 +62,9 @@
 
 - Regarding the disbursement of funds from the budgetary provision for the year 2026-27 under the centrally sponsored National AYUSH Mission for Tribal Deployment Scheme (TSP) through SNA SPARSH system with Central share 60 under Account Head 2210F981 and State share 40 under Account Head 2210F999\
   [202605211554043617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211554043617.pdf)
+
+- Regarding distribution of funds to the National AYUSH Society through redistribution from the budget provision for the year 2026-27 for tribal deployment under the centrally sponsored National AYUSH Mission, under the Central Share, Head of Account 2210F981, Item 31- Subsidiary Grants (Non-Salary) under Item 35- Creation of Capital Assets and from the State Share, Head of Account 2210F999, Item 31- Subsidiary Grants (Non-Salary) under Item 35- Creation of Capital Assets.\
+  [202605221505204717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221505204717.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

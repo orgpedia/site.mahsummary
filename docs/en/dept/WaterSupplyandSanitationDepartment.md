@@ -16,5 +16,8 @@
 - Financial Year 2026-27 Regarding the disbursement of funds under the account head 22151914 (36-Subsidies) to the concerned Zilla Parishads for the salaries of employees working on Converted Regular Temporary (CRT) establishments on water supply schemes.\
   [202605191440175028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191440175028.pdf)
 
+- Budgetary Grant 2026-27 Regarding the Distribution of Funds Available for the General Component under the Swachh Bharat Mission (Gramin)  Phase II, via Token Mother Sanction Head of Account 2215 9835 (31) and 2215 2189 (31)\
+  [202605181317584028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181317584028.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

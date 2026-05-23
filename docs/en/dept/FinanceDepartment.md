@@ -28,6 +28,15 @@
 - Regarding the submission of various expenditure- related and other proposals received from administrative departments in the prescribed format.\
   [202605201059556405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201059556405.pdf)
 
+- Supplementary Demands for Expenditure for the Year 2026-27 Second (Monsoon) Session  June 2026\
+  [202605221151017605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221151017605.pdf)
+
+- Instructions to be issued to all Drawing and Disbursing Officers (DDOs) within the Pune Divisionunder all Ministerial Administrative Departments comprising small and medium-sized establishmentsregarding the effective implementation of the new Sevarth System...\
+  [202605221424023305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221424023305.pdf)
+
+- Regarding Data Migration in connection with the effective implementation of the new Sevarth System: Instructions to be issued to all Drawing and Disbursing Officers (DDOs) within the Pune Division, under all Ministerial Administrative Departments...\
+  [202605221426142105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221426142105.pdf)
+
 ## Personnel
 - Promotion and Posting from the post of Joint Commissioner of State Tax to the post of Additional Commissioner of State Tax\
   [202605181151337605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181151337605.pdf)

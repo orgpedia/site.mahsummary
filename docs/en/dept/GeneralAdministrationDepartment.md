@@ -38,6 +38,9 @@
 - Partial change in posting after promotion to Deputy Secretary : shri. Govind Balu Kamble\
   [202605211912335107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211912335107.pdf)
 
+- Foundation Training for the Ministerial Stenographer Cadre under the State Training Policy.\
+  [202605221750278507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221750278507.pdf)
+
 ## Personnel
 - Regarding the entrustment of the additional charge of the post of Director and Assistant Professor (Economics) at the Vasantrao Naik State Agricultural Extension Management Training Institute (VANAMATI), Nagpur, to Smt. Suvarna Pandey, Chief Accounts and Finance Officer, Vidarbha Irrigation Development Corporation, Nagpur.\
   [202605181722291607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181722291607.pdf)
@@ -62,6 +65,9 @@
 
 - Cancellation of Transfer of Deputy Secretary Shri Chetan B. Nikam\
   [202605211907290807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211907290807.pdf)
+
+- Finalising the Provisional Seniority List of Deputy Secretary Cadre as on Dt.01.01.2024\
+  [202605221741171307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221741171307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

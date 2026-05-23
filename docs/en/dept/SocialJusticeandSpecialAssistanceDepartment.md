@@ -14,5 +14,11 @@
 - Regarding the distribution of funds for Centrally Sponsored Schemes under the Development Action Plan for Scheduled Castes for the financial year 2026-27.\
   [202605191509519522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191509519522.pdf)
 
+- Regarding the adoption of the MahaScholarship integrated computerized systemdeveloped by MahaIT on the MahaDBT Portalto streamline, ensure transparency, and establish a time-bound process for Post-Matric scholarship schemes within the State.\
+  [202605221920521622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221920521622.pdf)
+
+- Regarding the adoption of the MahaScholarship integrated computerized systemdeveloped by MahaIT on the MahaDBT Portalto streamline, ensure transparency, and establish a time-bound process for Pre-Matric scholarship schemes within the State.\
+  [202605221923427122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221923427122.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

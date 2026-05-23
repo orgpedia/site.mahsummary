@@ -19,6 +19,9 @@
 - Fresh administrative approval has been granted, under the Special Repairs category, for the work on the Sheloli Coffer Dams in the Bhudargad Taluka of Kolhapur District.\
   [202605211723365227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211723365227.pdf)
 
+- Regarding the grant of administrative approval for the works related to the survey, investigation, and design of the Ramling Lift Irrigation Scheme.\
+  [202605221254121127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221254121127.pdf)
+
 ## Personnel
 - Regarding the extension of sanctioned regular temporary posts and converted temporary posts under the office and subordinate offices of the Chief Engineer, Hydrology and Dam Safety, Nashik from 01/03/2026 to 31/08/2026. ( Corrigendum)\
   [202605181808256727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181808256727.pdf)
@@ -31,6 +34,9 @@
 
 - Administrative Approval Under Special Repairs to K.T. Weir Madur  Taluka Bhudargad Dist Kolhapur\
   [202605211721011627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211721011627.pdf)
+
+- Regarding the provisional appointment, through nomination from the waitlist, to the post of Assistant Engineer, Grade-2 (Civil) (Group-B) (Gazetted) under the Maharashtra Civil Engineering Services Main Examination  2022.\
+  [202605221323575027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221323575027.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

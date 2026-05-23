@@ -26,12 +26,27 @@
 - Regarding the Reconstitution of the Divisional-Level Coordination Committee for Industrial Development\
   [202605201718397310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201718397310.pdf)
 
+- Regarding the publication of the Final Seniority List for the post of Joint Director of Industries (Group-A) as of January 1, 2026...\
+  [202605221613388910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221613388910.pdf)
+
+- Regarding the assessment of eligibility for continuation in servicebeyond the age of 50/55 years or upon completion of 30 years of qualifying servicefor Group-A and Group-B (Gazetted) officers on the establishment of the Directorate of Industries.\
+  [202605221611570310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221611570310.pdf)
+
+- Regarding the publication of the Final Seniority List for the cadre of Deputy Director of Industries (Technical), Group-A, as of January 1, 2026.\
+  [202605221621103010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221621103010.pdf)
+
 ## Personnel
 - Regarding the operation, management, and maintenance of PM Unity Mall.\
   [202605201715030910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605201715030910.pdf)
 
 - Demand No. K-11: Major Head of Account 4801 Capital Outlay on Power Projects  Regarding the Surrender of Final Provision and Savings for the Financial Year 2025-26 (Programme)\
   [202605211616109510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211616109510.pdf)
+
+- Regarding the publication of the Final Seniority List for the cadre of Industry Officer (Administration), Group-B as of January 1, 2026...\
+  [202605221616443610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221616443610.pdf)
+
+- Regarding the regular posting of officers belonging to the cadre of Industry Officer (Technical), Group-Bwho were recommended pursuant to the State Service Examination, 2021, and have completed their training under the Integrated Probationary Training Program-8A.\
+  [202605221609370310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221609370310.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

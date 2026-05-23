@@ -32,6 +32,9 @@
 - Regarding the target of recovery of royalty on minor minerals for the year 2026-2027\
   [202605191835246419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191835246419.pdf)
 
+- Regarding the opening of a Personal Ledger Account (PLA) in the name of the Registrar, Land Acquisition, Rehabilitation and Resettlement Authority, Amravati.......\
+  [202605221419322219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221419322219.pdf)
+
 ## Personnel
 - Regarding the extension of the duration for a total of 33 temporary posts for rehabilitation work in the rehabilitated Gaothans (village sites) of divisional and district level projects in Nagpur Division, from 01.03.2026 to 31.08.2026 (6 months)...\
   [202605181214199419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181214199419.pdf)
