@@ -1,21 +1,11 @@
 # Law and Judiciary Department
 
-**Date Range**: 25 May 2026 - 30 May 2026
+**Date Range**: 01 June 2026 - 06 June 2026
 
 
-## Funds
-- Revised Administrative Approval Regarding the construction of an additional court building at Akola.\
-  [202605191607510912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605191607510912.pdf)
-
-## Miscellaneous
-- Budgetary Demand for Grants No. J-5 (2026-27): 7610  Loans to Government Employees, etc.  (201)(00)(01)  Disbursement of House Building Advances.\
-  [202605181659340212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181659340212.pdf)
-
-- Deleting the post of Peon, Group-D in Public Trust Registration Office, Akola in the Charity Organization\
-  [202605181250223212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605181250223212.pdf)
-
-- Regarding the provisional reimbursement by the Government of electricity charges incurred beyond the annual limit of 10,000 units admissible to Honble Judges, in accordance with Rule 2(e) of the High Court Judges Rules, 1956.\
-  [202605221813033912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605221813033912.pdf)
+## Personnel
+- Regarding the designation of Drawing and Disbursing Officerswho submit bills for grants-in-aid in Form No. 44 (M.C.N.) under the District Courts within the Stateas Virtual Personal Deposit Account Administrators (VPDAA) for the purpose of the speedy disbursement and monitoring of such grants-in-aid.\
+  [202605251259030012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251259030012.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

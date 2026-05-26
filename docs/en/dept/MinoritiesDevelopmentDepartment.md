@@ -1,11 +1,18 @@
 # Minorities Development Department
 
-**Date Range**: 25 May 2026 - 30 May 2026
+**Date Range**: 01 June 2026 - 06 June 2026
 
 
 ## Funds
-- Regarding the disbursement of the Central Share and matching State Sharesanctioned by the Central Government through a Mother Sanctionfor the implementation of the Centrally Sponsored Scheme, Pradhan Mantri Jan Vikas Karyakram (PMJVK), utilizing the SNA-SPARSH fund disbursement mechanism.\
-  [202605211510127214.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605211510127214.pdf)
+- Regarding the Distribution of Funds for the Office of the Commissionerate of Minorities, Chhatrapati Sambhajinagar, for the Year 2026-27.\
+  [202605251525392314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251525392314.pdf)
+
+- Regarding the disbursement of the approved grant (comprising both Central and State shares) for the construction of a Sadbhav Mandap at Property No. 63/4, located at Mujampeth within the limits of Mouje Dhanegaon Gram Panchayat (Nanded Block), Nanded District, under the Centrally Sponsored Pradhan Mantri Jan Vikas Karyakram (PMJVK). Send feedback\
+  [202605251555239314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251555239314.pdf)
+
+## Miscellaneous
+- Regarding the submission of fresh applications by educational institutions on the Aaple Sarkar website (https://aaplesarkar.mahaonline.gov.in) to obtain a digitally signed Minority Status Certificate.\
+  [202605251600341714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251600341714.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
