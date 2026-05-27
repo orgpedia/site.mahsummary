@@ -17,5 +17,21 @@
 - Regarding the Reinstatement of Suspended Officers/Employees\
   [202605251826050329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251826050329.pdf)
 
+- Regarding Procurement through the Government e-Marketplace (GeM) Portal\
+  [202605261807434929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261807434929.pdf)
+
+## Personnel
+- Regarding transfers/ postings of State Police Service officers.\
+  [202605261843105329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261843105329.pdf)
+
+- Regarding the Transfer of an Indian Police Service (IPS) Officer\
+  [202605261644095529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261644095529.pdf)
+
+- Regular Select List 2025-26 Regarding appointment by promotion to the post in the cadre of Deputy Superintendent of Police / Assistant Commissioner of Police, Motor Transport...\
+  [202605261832559129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261832559129.pdf)
+
+- Regarding the Transfer of State Police Service Officers\
+  [202605261658549929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261658549929.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -21,5 +21,8 @@
 - Maharashtra Medical and Health Services, Group A Final Common Seniority List of District Civil Surgeons, District Health Officers and Specialists as on 01.01.2024.\
   [202605251231272017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251231272017.pdf)
 
+- Regarding termination of services of Medical Officers, Group-A (S-20) who are in unauthorized absence during the probationary period. . .\
+  [202605261113355917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261113355917.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
