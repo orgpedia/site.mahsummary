@@ -11,5 +11,8 @@
 - Regarding the submission of court cases pertaining to Scheduled Tribe validity certificates within the prescribed time limit.\
   [202605261706451424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261706451424.pdf)
 
+- Regarding the selection of Sports, Art, and Computer Teachers on a contractual basis in Government Ashram Schools under the Tribal Development Department.\
+  [202605271635260824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271635260824.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

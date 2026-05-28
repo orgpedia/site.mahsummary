@@ -22,5 +22,11 @@
 - Regarding the Quality Assessment of Aaple Sarkar Service Centers\
   [202605261654316819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261654316819.pdf)
 
+- Regarding the authorization to draw funds from the Treasury against a Negative (-) Authority Letter under Head of Account 2245 0271 for the year 2026-27.\
+  [202605271620314419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271620314419.pdf)
+
+- Appointment on the Board of Directors of Forest Development Corporation of Maharashtra Ltd.\
+  [202605271251540319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271251540319.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

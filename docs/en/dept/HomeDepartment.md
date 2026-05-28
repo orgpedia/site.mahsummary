@@ -20,6 +20,9 @@
 - Regarding Procurement through the Government e-Marketplace (GeM) Portal\
   [202605261807434929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261807434929.pdf)
 
+- Corrigendum to the Suspension Order of Mr. Tanaji Dhumal, Motor Vehicle Inspector, Regional Transport Office, Pimpri Chinchwad.\
+  [202605271328459929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271328459929.pdf)
+
 ## Personnel
 - Regarding transfers/ postings of State Police Service officers.\
   [202605261843105329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261843105329.pdf)
@@ -32,6 +35,9 @@
 
 - Regarding the Transfer of State Police Service Officers\
   [202605261658549929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261658549929.pdf)
+
+- Regular Select List 2023-24- Regarding promotion from posts in the cadre of Personal Assistant on the establishment of the Director General of Police, to posts in the cadre of Senior Personal Assistant, Group A\
+  [202605271932068529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271932068529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
