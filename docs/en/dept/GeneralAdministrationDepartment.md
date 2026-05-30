@@ -3,6 +3,16 @@
 **Date Range**: 01 June 2026 - 06 June 2026
 
 
+## Funds
+- Grant-in-Aid to Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Academy, Amravati  Year 2026-27 (Mandatory) (Second Installment)\
+  [202605291205532607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291205532607.pdf)
+
+- Integrated Probationary Training Program Regarding the disbursement of grants to the Vanamati, Nagpur training instituteunder the head 36-Grants-in-Aid (Salaries)for the salaries pertaining to the period from May 2026 to December 2026, in connection with the Integrated Probationary Training Program for the Financial Year 2026-27.\
+  [202605291200088307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291200088307.pdf)
+
+- Grant-in-Aid to the Marathwada Administrative and Development Training Academy, Nathnagar (North), Paithan, Dist. Chhatrapati Sambhajinagar  Year 2026-27 (Mandatory) (Second Installment)\
+  [202605291207510007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291207510007.pdf)
+
 ## Miscellaneous
 - Regarding the Extension of the Deputation Period for the Post of Section Officer at the Sixth Maharashtra Finance Commission Smt. Mugdha Dilip Bane, Section Officer\
   [202605251237165907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251237165907.pdf)
@@ -18,6 +28,9 @@
 
 - Regarding  Selection Grade Pay Scale of S-25 to 25 Percent officers in the cadre of S-23.\
   [202605271245493207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271245493207.pdf)
+
+- Filling the post on deputation basis.\
+  [202605291211087607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291211087607.pdf)
 
 ## Personnel
 - Regarding the Extension of the Period of Deputation (Promotion by Selection) to the Post of Section Officer at the Office of the State Information Commission, Nagpur Bench Mrs. Kalpana A. Joshi, Section Officer\

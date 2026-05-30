@@ -39,5 +39,14 @@
 - Regular Select List 2023-24- Regarding promotion from posts in the cadre of Personal Assistant on the establishment of the Director General of Police, to posts in the cadre of Senior Personal Assistant, Group A\
   [202605271932068529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271932068529.pdf)
 
+- Regular Select List, 2025-26; Regarding posting-on-promotion to a post in the cadre of Deputy Superintendent of Police/ Assistant Commissioner of Police (Unarmed).\
+  [202605291419141229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291419141229.pdf)
+
+- Regarding the posting of officers belonging to the CPTP-9 batch within the Assistant Regional Transport Officer (Group-A) cadre of the Motor Vehicles Department.\
+  [202605291552469829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291552469829.pdf)
+
+- Regarding the posting of Mr. Deepak Anna Patil, Regional Transport Officer, following his reinstatement into government service.\
+  [202605291737597529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291737597529.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

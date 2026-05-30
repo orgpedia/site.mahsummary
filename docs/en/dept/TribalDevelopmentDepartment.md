@@ -7,12 +7,19 @@
 - To release grant for the scheme of Grants-in-aid to Voluntary Agencies for running Ashramshla and Post Basic Ashramshalas (Scheme) under the TSP in financial year 2026-27. CRC 2225F129\
   [202605261303345024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261303345024.pdf)
 
+- Distribution of funds under the District and Other Roads (State-Level Scheme) (Head of Account 5054 5117) scheme for the year 2026-27, under the Tribal Sub-Plan.\
+  [202605291107092824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291107092824.pdf)
+
 ## Miscellaneous
 - Regarding the submission of court cases pertaining to Scheduled Tribe validity certificates within the prescribed time limit.\
   [202605261706451424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261706451424.pdf)
 
 - Regarding the selection of Sports, Art, and Computer Teachers on a contractual basis in Government Ashram Schools under the Tribal Development Department.\
   [202605271635260824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271635260824.pdf)
+
+## Personnel
+- Distribution of funds under the District and Other Roads (State-Level Scheme) (Head of Account 5054 5117) scheme for the year 2026-27, under the Tribal Sub-Plan.\
+  [202605291700380924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291700380924.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

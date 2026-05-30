@@ -20,5 +20,30 @@
 - Regarding the establishment of an inter-departmental group at the government level for the compilation of Environmental Accounts, based on the System of Environmental-Economic Accounts (SEEA) framework.\
   [202605271505294016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271505294016.pdf)
 
+## Personnel
+- Regarding the General Transfers and Postings of Deputy Commissioners (Group-A) within the Directorate of Economics and Statistics for the year 2026......\
+  [202605291904580116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291904580116.pdf)
+
+- Regarding the Postings by Adjustment of Officers belonging to the Cadre of Research Officer/Statistical Officer, Group-B (Gazetted), under the Directorate of Economics and Statistics, for the Year 2026, in accordance with the Revised Cadre Structure.\
+  [202605291835425616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291835425616.pdf)
+
+- Regarding the promotion and posting of employees belonging to the cadre of Assistant Research Officer, Group-B (Non-Gazetted), on the establishment of the Directorate of Economics and Statistics, to the post of Research Officer / Statistical Officer, Group-B (Gazetted).\
+  [202605291840454716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291840454716.pdf)
+
+- Year 2026: Regarding the transfers of officers belonging to the Deputy Commissioner (Group-A) cadre within the Directorate of Economics and Statistics, effected at their own request during the current year...\
+  [202605291906385216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291906385216.pdf)
+
+- Regarding the Transfer/Posting by Adjustment of Deputy Commissioners (Group-A) within the Directorate of Economics and Statistics for the Year 2026......\
+  [202605291908166816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291908166816.pdf)
+
+- Regarding the General/Adjustment-based Transfers and Postings of Joint Commissioners (Group-A) within the Directorate of Economics and Statistics for the year 2026......\
+  [202605291911580116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291911580116.pdf)
+
+- Regarding the transfer and posting of Deputy Commissioners (Group-A cadre) within the Directorate of Economics and Statistics, on administrative grounds...\
+  [202605291901591616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291901591616.pdf)
+
+- Regarding transfers of Joint Commissioners (Group-A) within the Directorate of Economics and Statistics for the year 2026, to be effected upon request...\
+  [202605291909593216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291909593216.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -23,6 +23,9 @@
 - Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Tribes Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan, under the Centrally Sponsored Scheme PM-USHA.\
   [202605271518063608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271518063608.pdf)
 
+- Regarding the Extension of the Tenure of the Chairperson of the Maharashtra State Academic and Research Council (MahaSARC).\
+  [202605291126590708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291126590708.pdf)
+
 ## Personnel
 - Regarding the adoption of the MahaScholarship integrated computerized systemdeveloped by MahaIT on the MahaDBT Portalto streamline, ensure transparency, and establish a time-bound process for Post-Matric scholarship schemes within the State.\
   [202605251321041908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251321041908.pdf)
@@ -35,6 +38,12 @@
 
 - Regarding the approval of the Lease Agreement for taking on lease the 2nd, 3rd, 4th, and 6th floors of the MTNL building at Powai, as a temporary arrangement for the Maharashtra National Law University, Mumbai.\
   [202605271722038808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271722038808.pdf)
+
+- Regarding the approval of a Lease Agreement for the Maharashtra National Law University, Mumbai, to take on rentas a temporary arrangementthe library and ten classrooms located on the second floor of the MTNL building in Powai.\
+  [202605291542028808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291542028808.pdf)
+
+- Regarding the Constitution of a Task Force for the Implementation of the New National Education Policy-2020.\
+  [202605291623036008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291623036008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

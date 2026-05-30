@@ -29,5 +29,12 @@
 - Regarding the distribution of funds60 Central Share approved by the Central Government (Mother Sanction) and a matching 40 State Shareunder the Hub for Empowerment of Women component of the Centrally Sponsored umbrella scheme Mission Shakti for the Financial Year 2026-27.\
   [202605271139579030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271139579030.pdf)
 
+- Regarding extension of tenure of officers working in Group-A cadre of Deputy Commissioners on Regional Establishments under the Women and Child Development Department.\
+  [202605291742575630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291742575630.pdf)
+
+## Personnel
+- General transfers of Group-A cadre officers in regional establishments under the Women and Child Development Department.\
+  [202605291742493530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291742493530.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

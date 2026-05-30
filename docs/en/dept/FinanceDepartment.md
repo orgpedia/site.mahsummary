@@ -14,5 +14,11 @@
 - Administrative Transfers of Officers in the Cadre of Deputy Commissioner of State Tax  Year 2026\
   [202605251709091905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251709091905.pdf)
 
+- Promotion from the post of State Tax Officer to the post of Assistant State Tax Commissioner, and posting.\
+  [202605291803155305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291803155305.pdf)
+
+- Promotion from the post of Assistant State Tax Commissioner to Deputy State Tax Commissioner, and Posting.\
+  [202605291743183705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291743183705.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

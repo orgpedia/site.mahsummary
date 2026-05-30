@@ -13,6 +13,9 @@
 - Regarding the grant of administrative and financial approval for the expenditure incurred on the Ropeway at Raigad Fort, undertaken in connection with the Shivrajyabhishek (Coronation) and Shivpunyatithi (Death Anniversary) ceremonies.\
   [202605271709543523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271709543523.pdf)
 
+- Regarding the grant of administrative approval for the expenditure on organizing the Mumbai International Film Festival (MIFF)  2026.\
+  [202605291627384123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291627384123.pdf)
+
 ## Personnel
 - Regarding the grant of administrative approval for the expenditure to be incurred for the transfer of the Waghnakh (Tiger Claws) from Laxmi Vilas Palace, Kolhapur, to the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai...\
   [202605271746193223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271746193223.pdf)
