@@ -48,5 +48,8 @@
 - Regarding the posting of Mr. Deepak Anna Patil, Regional Transport Officer, following his reinstatement into government service.\
   [202605291737597529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291737597529.pdf)
 
+- Regular Selection List-2025-26 Regarding posting by promotion to the post of Armed Police Deputy Superintendent/Assistant Commandant in the State Reserve Police Force.\
+  [202605301604319929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605301604319929.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
