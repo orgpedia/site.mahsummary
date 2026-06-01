@@ -51,5 +51,8 @@
 - Regular Selection List-2025-26 Regarding posting by promotion to the post of Armed Police Deputy Superintendent/Assistant Commandant in the State Reserve Police Force.\
   [202605301604319929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605301604319929.pdf)
 
+- Regarding promotion from Joint Commissioner,State Excise to Additional Commissioner, State Excise.\
+  [202605311150308429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605311150308429.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
