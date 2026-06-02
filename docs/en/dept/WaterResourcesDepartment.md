@@ -1,29 +1,17 @@
 # Water Resources Department
 
-**Date Range**: 01 June 2026 - 06 June 2026
+**Date Range**: 08 June 2026 - 13 June 2026
 
 
 ## Personnel
-- Premature/Request Transfers of Officers in the Executive Engineer (Civil) Cadre\
-  [202605292008003827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292008003827.pdf)
+- Regarding the publication of the provisional seniority list as of January 1, 2026, for the cadre comprising Secretaries and Executive Directors/Directors General (holding a rank equivalent to Secretary) within the Water Resources Department.\
+  [202606011255101827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011255101827.pdf)
 
-- General / Periodic Transfers of Officers in the Executive Engineer (Civil) Cadre.\
-  [202605292001576527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292001576527.pdf)
+- Provisional Seniority List of the Chief Engineer (Mechanical) Cadre in the Water Resources Department as of January 1, 2026.\
+  [202606011305303027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011305303027.pdf)
 
-- Partial Modification in the Premature/Request Transfers/Postings of Officers belonging to the Executive Engineer (Mechanical/Electrical) Cadre.\
-  [202605292012172727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292012172727.pdf)
-
-- Premature/Request Transfers of Officers in the Executive Engineer (Civil) Cadre\
-  [202605292009551227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292009551227.pdf)
-
-- General/Periodic Transfers of Officers in the Executive Engineer (Mechanical) Cadre.\
-  [202605292004116927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292004116927.pdf)
-
-- General/Periodic Transfers of Officers in the Executive Engineer (Electrical) Cadre.\
-  [202605292006124027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292006124027.pdf)
-
-- Partial Modification in Pre-mature / Request Transfers / Postings of Officers belonging to the Executive Engineer (Civil) Cadre.\
-  [202605292022091627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605292022091627.pdf)
+- Regarding the publication of the provisional seniority list for the cadre of Chief Engineer (Civil) in the Water Resources Department, as of January 1, 2026.\
+  [202606011302533427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011302533427.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

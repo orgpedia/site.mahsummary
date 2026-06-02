@@ -1,23 +1,23 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 01 June 2026 - 06 June 2026
+**Date Range**: 08 June 2026 - 13 June 2026
 
 
-## Personnel
-- Regarding the distribution of funds to beneficiaries with disabilities under the Special Assistance Scheme.\
-  [202605261557052035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261557052035.pdf)
+## Miscellaneous
+- Regarding the disbursement of Grant-in-Aid (Salary) funds to Non-Governmental Organizations working in the sector for the visually impaired. Jagruti School for Blind Girls  Managed by the National Federation of the Blind (Constructive Work Committee), Mumbai  At/Post Alandi Devachi, Markal Road, Taluka Khed, District Pune (7th Pay Commission Arrears and Senior Pay Scale).\
+  [202606011809474935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011809474935.pdf)
 
-- Regarding the adoption of the MahaScholarship integrated computerized systemdeveloped by MahaIT on the MahaDBT Portalto streamline, ensure transparency, and establish a time-bound process for scholarship schemes implemented for students with disabilities studying from the pre-primary level through the 12th grade.\
-  [202605251818257135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251818257135.pdf)
+- Regarding the disbursement of Grant-in-Aid (Salary) funds to Non-Governmental Organizations working in the category of the visually impaired. Smt. Kamala Mehta School for the Blind, Dadar, Mumbai (Arrears of Salary)\
+  [202606011811316235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011811316235.pdf)
 
-- Regarding the Constitution of a Committee concerning Grants for Permanent Non-Aided, Non-Aided, and Aided Workshops (Training Centers) for Persons with Disabilities in the State.\
-  [202605261602156735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261602156735.pdf)
+- Regarding the disbursement of Grant-in-Aid (Salary) funds to Non-Governmental Organizations working in the sector of the Deaf and Mute. The Central School for the Deaf, Agripada, Mumbai (Arrears of Salary)\
+  [202606011807324735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011807324735.pdf)
 
-- Regarding the adoption of the MahaScholarship integrated computerized systemdeveloped by MahaIT on the MahaDBT Portalto streamline, ensure transparency, and establish a time-bound process for the scholarship scheme for students with disabilities pursuing post-Higher Secondary education.\
-  [202605251222473435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251222473435.pdf)
+- Regarding the disbursement of Grant-in-Aid (Salary) funds to Non-Governmental Organizations working in the sector of the Deaf and Mute. Samvad Karnabadhir Prabodhini, Dombivli, Dist. Thane. (Arrears of Salary)\
+  [202606011815325035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011815325035.pdf)
 
-- Regarding the modification of the category of the Jogeshwari Residential Skill Development and Entrepreneurship Center for the Disabled (Workshop) at Sillodoperated by the Akshar Vikas Shikshan Prasarak Mandal, Chhatrapati Sambhajinagarfrom Orthopedically Challenged to Intellectually Disabled, and the subsequent transfer of the management of the said Skill Development and Entrepreneurship Center (Workshop) to the Akhil Maharashtra Gramin Shikshan Vikas Mandal, Chhatrapati Sambhajinagar.\
-  [202605271459363335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271459363335.pdf)
+- Regarding the disbursement of Grant-in-Aid (Salary) funds to Non-Governmental Organizations working in the sector of the Deaf and Mute. Sadhana Vidyalaya for the Hearing Impaired, Dadar, Mumbai (Arrears of Salary)\
+  [202606011813482335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011813482335.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
