@@ -13,5 +13,8 @@
 - Regarding the publication of the provisional seniority list for the cadre of Chief Engineer (Civil) in the Water Resources Department, as of January 1, 2026.\
   [202606011302533427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011302533427.pdf)
 
+- Regarding the posting of Deputy Engineers (Mechanical) whose services have been repatriated from the Public Works Department...\
+  [202606021900172527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021900172527.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

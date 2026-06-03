@@ -1,25 +1,17 @@
 # Tribal Development Department
 
-**Date Range**: 01 June 2026 - 06 June 2026
+**Date Range**: 08 June 2026 - 13 June 2026
 
 
 ## Funds
-- To release grant for the scheme of Grants-in-aid to Voluntary Agencies for running Ashramshla and Post Basic Ashramshalas (Scheme) under the TSP in financial year 2026-27. CRC 2225F129\
-  [202605261303345024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261303345024.pdf)
+- Release  of funds for Subsidiary Grants Scheme to Agricultural   Universities in the financial year 2026-27  under the Tribal Component Programme. (Account Head 2401 8291)\
+  [202606021236146124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021236146124.pdf)
 
-- Distribution of funds under the District and Other Roads (State-Level Scheme) (Head of Account 5054 5117) scheme for the year 2026-27, under the Tribal Sub-Plan.\
-  [202605291107092824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291107092824.pdf)
+- To release grant for the scheme of National AYUSH Mission (State Share 40 percent) (Scheme) under the TSP in financial year 2026-27. (central share 2210 F981) (state share 2210F999)\
+  [202606021057035124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021057035124.pdf)
 
-## Miscellaneous
-- Regarding the submission of court cases pertaining to Scheduled Tribe validity certificates within the prescribed time limit.\
-  [202605261706451424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261706451424.pdf)
-
-- Regarding the selection of Sports, Art, and Computer Teachers on a contractual basis in Government Ashram Schools under the Tribal Development Department.\
-  [202605271635260824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605271635260824.pdf)
-
-## Personnel
-- Distribution of funds under the District and Other Roads (State-Level Scheme) (Head of Account 5054 5117) scheme for the year 2026-27, under the Tribal Sub-Plan.\
-  [202605291700380924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291700380924.pdf)
+- Regarding the distribution of funds for the Sanjay Gandhi Niradhar Anudan Yojana and the Shravanbal Seva State Pension Scheme for the year 2026-27, under the Tribal Sub-Plan... (Head of Account 2235 C 161)  (Head of Account 2235 C 172)\
+  [202606021057016524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021057016524.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

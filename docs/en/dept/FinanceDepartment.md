@@ -1,24 +1,15 @@
 # Finance Department
 
-**Date Range**: 01 June 2026 - 06 June 2026
+**Date Range**: 08 June 2026 - 13 June 2026
 
+
+## Funds
+- Regarding proposals for revised administrative approval to be submitted to the Expenditure Prioritization Committee.\
+  [202606021207356405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021207356405.pdf)
 
 ## Miscellaneous
-- Regarding the creation of a supernumerary post in the State Tax Officer (Group-B Gazetted) cadre on the establishment of the Goods and Services Tax Department...\
-  [202605251248467005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251248467005.pdf)
-
-- Regarding the Granting of an Additional Opportunity to State Government Employees to Change Their Declared Native Village\
-  [202605261533402005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605261533402005....pdf)
-
-## Personnel
-- Administrative Transfers of Officers in the Cadre of Deputy Commissioner of State Tax  Year 2026\
-  [202605251709091905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605251709091905.pdf)
-
-- Promotion from the post of State Tax Officer to the post of Assistant State Tax Commissioner, and posting.\
-  [202605291803155305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291803155305.pdf)
-
-- Promotion from the post of Assistant State Tax Commissioner to Deputy State Tax Commissioner, and Posting.\
-  [202605291743183705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202605291743183705.pdf)
+- Regarding the establishment of a Monitoring Committee to implement the reforms prescribed in Part-IV of the Government of Indias Scheme for Special Assistance to States for Capital Investment for the year 2026-27.\
+  [202606021806002005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021806002005.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

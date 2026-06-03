@@ -49,5 +49,14 @@
 - Regular Transfers of Officers in the Cadre of Electrical Inspector, Group-A (Gazetted)  Year 2026.\
   [202606011936077010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011936077010.pdf)
 
+- Regular transfers of officers in the cadre of Assistant Labour Commissioner, Group-A-2026.\
+  [202606021630510910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021630510910....pdf)
+
+- Regarding the declaration of Drawing and Disbursing Officers of Industrial and Labour Courts, Wage Boards, and the Office of the Commissioner for Workmens Compensation as Virtual Personal Deposit Account Administrators (VPDA) for the speedy disbursement and monitoring of grants-in-aid.\
+  [202606021755238710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021755238710.pdf)
+
+- Regular transfers of officers in the cadre of Government Labour Officers, Group-B-2026.\
+  [202606021627214210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021627214210....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
