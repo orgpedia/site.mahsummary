@@ -3,6 +3,13 @@
 **Date Range**: 08 June 2026 - 13 June 2026
 
 
+## Miscellaneous
+- Regarding granting administrative approval for taking premises on lease for the office of Deputy Commissioner of Labour, Raigad.\
+  [202606041458524310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041458524310.pdf)
+
+- Regarding the constitution of a committee to suggest improvements to the Single Window Portal, in accordance with the Maharashtra Renewable Energy and Energy Storage Policy 2025-26 to 2035-36.\
+  [202606041518332410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041518332410.pdf)
+
 ## Personnel
 - Regular Transfers of Officers in the Cadre of Electrical Inspector, Group-A (Gazetted)  Year 2026.\
   [202606011918377610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011918377610.pdf)

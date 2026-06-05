@@ -17,9 +17,15 @@
 - Proposal for filling up One post of Executive Officer at Shri Shanaishwar Devasthan, Shingnapur, on deputation from the Regional Office.\
   [202606021551066612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021551066612.pdf)
 
+- Budgetary Demand for Grants No. J-5 (2026-27)  Major Head 7610: Loans to Government Servants, etc.  (204)(00)(01)  Advances for Purchase of Personal Computers (7610 1842): Disbursement of Computer Advances.\
+  [202606031300502812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606031300502812.pdf)
+
 ## Personnel
 - Cancellation of supernumerary post of Senior Clerk, Group-C in the Charity organization created for Shri. Raju Ramesh Awale\
   [202606021614284412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021614284412.pdf)
+
+- Budgetary Demand for Grants No. J-5 for the Year 2026-27; Major Head 7610  Loans to Government Servants, etc.; Sub-head (202)(00)(01)  Advances for Purchase of Motor Vehicles (7610 0481)  Sanction of Advances for the Purchase of New Motorcycles/Scooters.\
+  [202606041547035412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041547035412.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
