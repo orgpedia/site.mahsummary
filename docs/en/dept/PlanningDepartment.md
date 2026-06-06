@@ -13,5 +13,9 @@
 - Regarding the approval of the proposal to implement the MSME Accelerate Programme under the strategic partnership with the Wadhwani Foundation (through the MITRA office), within the framework of the MahaSTRIDE project.\
   [202606031459185516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606031459185516.pdf)
 
+## Miscellaneous
+- Guidelines regarding proposals to be submitted for the approval of the Committee of Secretaries.\
+  [202606051804370016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051804370016.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

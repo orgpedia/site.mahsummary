@@ -10,6 +10,9 @@
 - Third Revised Administrative Approval Regarding the construction of the new Family Court building at Bandra, Mumbai.\
   [202606021816375112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021816375112.pdf)
 
+- For the 2026-27 budget, under Demand No. J-5 and Major Head 7610 (Loans to Government Servants, etc.), the allocation for Motor Vehicle Purchase Advances (7610 0481) falls under sub-head (202)(00)(01).\
+  [202606051550325012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051550325012.pdf)
+
 ## Miscellaneous
 - Regarding approval to Outsourcing Service for Registrar of Partnership Firms, Mumbai and Pune, Nagpur and Chh. Sambhajinagar offices for disposal of pendency.\
   [202606021612428212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021612428212.pdf)

@@ -20,6 +20,18 @@
 - Regarding the approval to revive one Group-D Peon postpreviously declared abolishedwithin the office of the Controller, Government Transport Service, Worli, Mumbai, as a regular post for the purpose of compassionate appointment.\
   [202606031100024707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606031100024707.pdf)
 
+- Cancellation of Deputation -Shri. Keshav Sadashiv Jadhav, Under Secretary.\
+  [202606051751252007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051751252007.pdf)
+
+- Regarding filling up the posts of Assistant Commissioner cadre in Nagpur Municipal Corporation on Deputation Basis from Section Officer cadre, Mantralaya\
+  [202606051530576107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051530576107.pdf)
+
+- Regarding the appointment of Shri Deepak Kapoor (IAS), retired Additional Chief Secretary, to the post of Vice Chairman and Managing Director at the Maharashtra Airport Development Company, Mumbai.\
+  [202606051740229907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051740229907.pdf)
+
+- Regarding extending the benefits of educational concessions and facilities to the Maratha community, similar to those available to Other Backward Classes (OBCs)...\
+  [202606051727094207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051727094207.pdf)
+
 ## Personnel
 - Partial change in Transfer :- Shri Moreshwar Shankar Chorge, Under Secretary\
   [202606011820579407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011820579407.pdf)
@@ -35,6 +47,12 @@
 
 - Mantralaya Canteens Establishments regarding publication of provisional seniority list dated 01st January, 2026 for the posts of Waiter-n-Assistant Cook, Cook/Tea Expert and Head Cook/Coupon Seller in Group-D cadre for inviting objections/suggestions...\
   [202606041557449607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041557449607.pdf)
+
+- Regarding the appointment of Smt. Swati Pandey (Indian Postal Service) to the post of Joint Managing Director at the Maharashtra Airport Development Company, Mumbai.\
+  [202606051736548407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051736548407.pdf)
+
+- Seniority wise list for promotion on the post of Mantralaya Clerk- Typist Group-C as on 01.01.2026 (Provisional) from Mantralaya Group-D Employees.\
+  [202606051251544407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051251544407.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -24,5 +24,8 @@
 - Regarding the posting by ad hoc promotion within the cadre of Sub-Divisional Water Conservation Officer (Civil) and other equivalent posts (Group A)  Revised Designation: Deputy Engineer (Soil and Water Conservation).\
   [202606041321594526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041321594526.pdf)
 
+- Regarding the temporary appointment of candidates recommended by the Maharashtra Public Service Commissionbased on the Maharashtra Civil Engineering Services Main Examination 2024for training in the cadre of Sub-Divisional Water Conservation Officer (Civil), Group-A and other equivalent posts (revised designation: Deputy Engineer, Soil and Water Conservation, Group-A) on a probationary basis.\
+  [202606051837085326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051837085326.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

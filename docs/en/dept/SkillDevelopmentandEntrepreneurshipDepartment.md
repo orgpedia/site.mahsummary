@@ -93,5 +93,11 @@
 - Periodic Transfers for the year 2026 of officers belonging to the cadre of Assistant Director (Senior) or Deputy Secretary, Directorate of Vocational Education and Training / Maharashtra State Board of Skill, Vocational Education and Training  Group A (Non-Technical) (Senior) (Gazetted), Maharashtra Education Service.\
   [202606031222090903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606031222090903.pdf)
 
+- Regarding the publication of the provisional seniority list as of 01.01.2026 for officers in the cadre of Assistant Commissioner (Group A) working under the Directorate of Skill Development, Employment, and Entrepreneurship.\
+  [202606051758018203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051758018203.pdf)
+
+- Regarding the publication of the provisional seniority list as of 01.01.2026 for officers in the cadre of Skill Development, Employment, and Entrepreneurship Guidance Officer (Group-B), working under the Directorate of Skill Development, Employment, and Entrepreneurship.\
+  [202606051801428503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051801428503.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
