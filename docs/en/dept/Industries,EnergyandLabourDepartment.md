@@ -3,6 +3,10 @@
 **Date Range**: 08 June 2026 - 13 June 2026
 
 
+## Funds
+- Regarding the establishment and operationalization of the Maharashtra Investment Promotion Agency (Invest Maharashtra) under Section 8 of the Companies Act, 2013, under the administrative control of the Industries, Energy, Labour and Mining Department.\
+  [202606051149066010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051149066010.pdf)
+
 ## Miscellaneous
 - Regarding granting administrative approval for taking premises on lease for the office of Deputy Commissioner of Labour, Raigad.\
   [202606041458524310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041458524310.pdf)
@@ -64,6 +68,9 @@
 
 - Regular transfers of officers in the cadre of Government Labour Officers, Group-B-2026.\
   [202606021627214210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606021627214210....pdf)
+
+- Regarding the implementation of the Nipun Setu initiative for candidates not recommended in the final selection of the Maharashtra Public Service Commission.\
+  [202606051145447610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051145447610.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
