@@ -19,6 +19,15 @@
 - Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the field of hearing and speech impairment. Residential School for the Hearing and Speech Impaired, Mul (run by Gramin Vikas Samiti, Mul), Taluka Mul, District Chandrapur (7th Pay Commission arrears).\
   [202606081646293335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081646293335.pdf)
 
+- Regarding the disbursement of grant-in-aid funds (salary) to non-governmental organizations working in the field of visual impairment. School for the Blind, Shrirampur (Ahilyanagar)run by the National Association for the Blind, Shrirampur(7th Pay Commission arrears).\
+  [202606091257503035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091257503035.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the sector for the intellectually disabled. Swami Vivekananda Residential School for the Intellectually Disabled, Charmoshi, Dist. Gadchiroli, run by Swami Vivekananda Dnyan Prasarak Mandal (7th Pay Commission arrears).\
+  [202606091301257235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091301257235.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (salary) to non-governmental organizations working in the field of hearing and speech impairment. Vinaykumar Ramniwas Ruiya School for the Deaf and Mute, 1658, Sadashiv Peth, Pune-30 (7th Pay Commission arrears).\
+  [202606091259283635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091259283635.pdf)
+
 ## Personnel
 - Regarding the disbursement of grant-in-aid (salary) funds to non-governmental organizations working in the field of intellectual disability. Special School for Intellectually Disabled Children run by the Dr. Nandkumar Maruti Jadhav Foundation, New Panvel, Raigad (7th Pay Commission arrears and senior pay scale).\
   [202606081651137335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081651137335.pdf)

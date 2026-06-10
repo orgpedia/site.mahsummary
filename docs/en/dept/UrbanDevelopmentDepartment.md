@@ -1,18 +1,18 @@
 # Urban Development Department
 
-**Date Range**: 08 June 2026 - 13 June 2026
+**Date Range**: 15 June 2026 - 20 June 2026
 
 
 ## Funds
-- Regarding the distribution of grants to Municipal Corporations within the State under the Maharashtra Goods and Services Tax (Compensation to Local Authorities) Act, 2017. An amount of Rs. 2,792.84 Crores (for the month of June 2026) under the Head of Account (3604 0998) for the year 2026-2027.\
-  [202606011243035625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606011243035625.pdf)
+- Creation of new budget heads for disbursement of Equity and Sub-Ordinate Debt assistance to Mumbai Metro Rail Corporation Ltd. of the State Government for Mumbai Metro Line-11 (Anik Depot, Wadala to Gate Way of India) project and to recovery of Principal of Sub-Ordinate Loan Amount from MMRCL.\
+  [202606091625039325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091625039325.pdf)
 
-- Regarding the land acquisition of 191.21 acresreserved for the Sadhugram project within the Nashik Municipal Corporation areafor the organization of the Nashik-Trimbakeshwar Simhastha Kumbh Mela 2027.\
-  [202606051321400125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606051321400125.pdf)
+- Regarding the sanction of funds to Municipal Councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Hatkanangale Nagar Panchayat, Dist. Kolhapur Amount: Rs. 19.00 crore\
+  [202606091437476325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091437476325.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of the Mumbai Metropolitan Region Development Authority (MMRDA) as the Implementing Agency as well as the Coordinating/Planning Agency for the Maharashtra Innovation City project...\
-  [202606041757569825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606041757569825.pdf)
+- Nagpur Municipal Corporation Regarding Government approval for the Recruitment (Classification, Appointment, and Promotion) Rules 2026 for officers and employees of the Fire and Emergency Services Department.\
+  [202606091444428325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091444428325.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

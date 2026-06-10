@@ -3,6 +3,10 @@
 **Date Range**: 15 June 2026 - 20 June 2026
 
 
+## Funds
+- Regarding the disbursement of funds amounting to Rs. 155.86 crore as the States share for the new Wadsa-Desaiganj-Gadchiroli railway line.\
+  [202606091806423629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091806423629.pdf)
+
 ## Miscellaneous
 - Regarding the approval to procure the services of 500 personnel through an external agency (Maharashtra State Security Corporation) for the Mira-Bhayandar-Vasai-Virar Police Commissionerate.\
   [202606081533280429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081533280429.pdf)
