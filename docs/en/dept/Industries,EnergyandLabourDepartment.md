@@ -17,6 +17,9 @@
 - Regarding the finalization of the seniority list as of 01.01.2025 for officers in the cadre of Joint Director (Group-A), Directorate of Steam Boilers.\
   [202606091538567810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091538567810.pdf)
 
+- Regarding the cancellation of the Government Resolution dated 23/04/2025, which mandated the constitution of a committee under the chairmanship of the Principal Secretary (Labour) to make recommendations to the Government on implementing welfare schemesas a social security measurefor farm labourers and workers associated with the agricultural sector in the unorganized sector, and to determine the sources of funding for such welfare schemes.\
+  [202606101456199110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101456199110.pdf)
+
 ## Personnel
 - Regarding the finalization of the seniority list for the cadre of Joint Director (Group-A), Directorate of Boilers, as of 01.01.2015, 01.01.2016, 01.01.2017, 01.01.2018, 01.01.2019, 01.01.2020, 01.01.2021, 01.01.2022, 01.01.2023, and 01.01.2024.\
   [202606081751519210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081751519210.pdf)

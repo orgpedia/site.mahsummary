@@ -7,6 +7,9 @@
 - Regarding the disbursement of funds to provide immediate assistance to the heirs of farmers who committed suicide... (Mandatory) (Data Entry)\
   [202606091727437919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091727437919.pdf)
 
+- Regarding the grant of advance approval and administrative sanction by the government for civic amenities to be provided in the resettled village sites within the Shahada and Taloda talukas of Nandurbar district under the Sardar Sarovar Project.\
+  [202606101403167219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101403167219.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the tenure of 34 IT Assistants working in all districtsexcluding Mumbai City and Mumbai Suburban districtsfrom April 2, 2026, to May 30, 2026...\
   [202606081210064819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081210064819.pdf)
@@ -26,6 +29,9 @@
 
 - Regarding the constitution of a committee to formulate a comprehensive policy for the periodic transfers and post-promotion postings of officers and employees within the Revenue, Registration  Stamps, and Land Records sub-departmentswhich operate under the administrative control of the Revenue Departmentusing an online (computerized) system.\
   [202606091039223719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091039223719.pdf)
+
+- Regarding the provision of facilities to individuals from the Kumbhar community to carry out their traditional occupation.\
+  [202606101817178319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101817178319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

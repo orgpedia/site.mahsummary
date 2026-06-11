@@ -14,5 +14,9 @@
 - Regarding the designation of the Commandant as the Controlling Officer and the Assistant Commandant (Class A) as the Drawing and Disbursing Officer for financial matters concerning the office of the Commandant, State Reserve Police Force, Group at Baran-gaon, Taluka Bhusawal, District Jalgaon.\
   [202606081248314229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081248314229.pdf)
 
+## Personnel
+- Regular Select List, 2025-2026: Regarding promotion to a post in the cadre of Senior Deputy Assistant on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
+  [202606101147059429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101147059429.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,12 @@
 - Disbursement of funds for the Rajarshi Chhatrapati Shahu Maharaj Tuition Fee Scholarship Scheme for the financial year 2026-27. (Budget Head: 22030748)\
   [202606091111181908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091111181908.pdf)
 
+- Sanctioning scholarships for meritorious students from the open category who are economically disadvantaged, for higher education abroad...\
+  [202606101855257708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101855257708.pdf)
+
+- Regarding the permanent transfer of Shri Tuljabhavani College of Engineering, Tuljapur (Dist. Dharashiv)managed by the Shri Tuljabhavani Temple Trust, Tuljapuralong with all its movable and immovable assets, to the Government of Maharashtra.\
+  [202606101820160108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101820160108.pdf)
+
 ## Miscellaneous
 - Regarding the grant of government approval for the establishment of a new unaided engineering diploma institute in the state, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (JRD INSTITUTE OF TECHNOLOGY HINGOLI)\
   [202606091837205608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091837205608.pdf)

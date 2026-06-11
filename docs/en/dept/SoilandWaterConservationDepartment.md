@@ -10,5 +10,9 @@
 - Demand No. ZH-5, Budget Head 4702 A019  Percolation Tank No. 15, Mauje Hivra Rala, Taluka Badnapur, District Jalna (Land Acquisition Funds).\
   [202606081816105026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081816105026.pdf)
 
+## Miscellaneous
+- Demand No. ZH-5, Budget Head 4702 A028  Minor Irrigation Tank, Mouza Gorja, Taluka Bhadravati, District Chandrapur (Land Acquisition Funds).\
+  [202606091247106026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091247106026.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,10 @@
 **Date Range**: 15 June 2026 - 20 June 2026
 
 
+## Miscellaneous
+- Regarding the opening of a Current Account with the State Bank of India (a nationalized bank) for the purpose of remitting fees for filing complaints or appeals on the e-Jagriti platform within the State Consumer Disputes Redressal Commission system.\
+  [202606101440143906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101440143906.pdf)
+
 ## Personnel
 - Periodical/Administrative Transfers of Officers in the Cadre of Technical Officer (Supply), Group-B (Gazetted)  2026.\
   [202606091243461806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091243461806.pdf)

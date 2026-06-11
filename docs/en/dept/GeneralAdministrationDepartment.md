@@ -14,5 +14,11 @@
 - Repatriation from Deputation- Shri Sunil Laxmanrao Kathole, Under Secretary\
   [202606091520349507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091520349507.pdf)
 
+- Regarding the inclusion of the post of Chairperson, National Commission for Women, New Delhi, in the list of State Guests for the duration of the incumbents tenure.\
+  [202606101506113107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101506113107.pdf)
+
+- Regarding inclusion in the seniority list of employees promoted to the post of Selection Grade Stenographer as per the reservation for the disabled in accordance with the implementation of the Rights of Persons with Disabilities Act, 2016\
+  [202606101728595807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101728595807.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
