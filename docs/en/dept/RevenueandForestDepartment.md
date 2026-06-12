@@ -33,5 +33,8 @@
 - Regarding the provision of facilities to individuals from the Kumbhar community to carry out their traditional occupation.\
   [202606101817178319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101817178319.pdf)
 
+- Posting of an officer in the Tehsildar cadre via transfer Shri Iresh Chappalwar, Tehsildar\
+  [202606111943129119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111943129119.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

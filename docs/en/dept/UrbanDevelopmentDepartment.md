@@ -10,6 +10,9 @@
 - Regarding the sanction of funds to Municipal Councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Hatkanangale Nagar Panchayat, Dist. Kolhapur Amount: Rs. 19.00 crore\
   [202606091437476325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091437476325.pdf)
 
+- Regarding the sanction of funds under the scheme: Special provision for the development of basic amenities and facilities in municipal corporation areas. For the year 2025-26 (Account Head 2217 0913), for the Brihanmumbai Municipal Corporation (Mumbai Suburban District): Amount of Rs. 4.00 crore (Corrigendum).\
+  [202606111449541825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111449541825.pdf)
+
 ## Miscellaneous
 - Nagpur Municipal Corporation Regarding Government approval for the Recruitment (Classification, Appointment, and Promotion) Rules 2026 for officers and employees of the Fire and Emergency Services Department.\
   [202606091444428325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091444428325.pdf)

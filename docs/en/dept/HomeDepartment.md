@@ -7,6 +7,12 @@
 - Regarding the disbursement of funds amounting to Rs. 155.86 crore as the States share for the new Wadsa-Desaiganj-Gadchiroli railway line.\
   [202606091806423629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091806423629.pdf)
 
+- Regarding grant of administrative approval for the purchase of a new vehicle for the Director General, Prisons and Correctional Services, Maharashtra State, Pune.\
+  [202606111600327429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111600327429.pdf)
+
+- Regarding the Annual Media Plan for the publicity of the Transport Department for the financial year 2026-27.\
+  [202606111521139729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111521139729.pdf)
+
 ## Miscellaneous
 - Regarding the approval to procure the services of 500 personnel through an external agency (Maharashtra State Security Corporation) for the Mira-Bhayandar-Vasai-Virar Police Commissionerate.\
   [202606081533280429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081533280429.pdf)
@@ -17,6 +23,12 @@
 ## Personnel
 - Regular Select List, 2025-2026: Regarding promotion to a post in the cadre of Senior Deputy Assistant on the establishment of the Director General of Police, Maharashtra State, Mumbai.\
   [202606101147059429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101147059429.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202606111816011429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111816011429.pdf)
+
+- Regarding transfers/ postings of State Police Service officers.\
+  [202606111819260729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111819260729.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

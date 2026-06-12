@@ -32,5 +32,11 @@
 - Regarding the disbursement of grant-in-aid (salary) funds to non-governmental organizations working in the field of intellectual disability. Special School for Intellectually Disabled Children run by the Dr. Nandkumar Maruti Jadhav Foundation, New Panvel, Raigad (7th Pay Commission arrears and senior pay scale).\
   [202606081651137335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081651137335.pdf)
 
+- Marriage Incentive Scheme for Persons with Disabilities under Social Security.\
+  [202606111205109535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111205109535.pdf)
+
+- Financial assistance for persons with disabilities to purchase toolkits for self-employment\
+  [202606111655344835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111655344835.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
