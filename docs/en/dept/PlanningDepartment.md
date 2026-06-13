@@ -23,5 +23,8 @@
 - Regarding extension Dhadak Irrigation Wells Program of Nagpur Division for 110 incomplete wells out of 386 ongoing wells in Gadchiroli, Bhandara, Chandrapur, Gondia, Nagpur and Wardha districts.\
   [202606081244543716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081244543716.pdf)
 
+- Regarding the appointment of a Vice-Chairman to the Sindhuratna Executive Committee of the Sindhuratna Samruddha Yojana 2.0...\
+  [202606121537218616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121537218616.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -14,5 +14,8 @@
 - Regarding the new budget head for the pre-matric scholarship scheme...\
   [202606101444268922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101444268922.pdf)
 
+- Regarding the grant of administrative approval for the cost estimates for the construction of four government hostel buildings in Kolhapur district.\
+  [202606121821029622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121821029622.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

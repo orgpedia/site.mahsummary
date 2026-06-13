@@ -20,5 +20,14 @@
 - Regarding inclusion in the seniority list of employees promoted to the post of Selection Grade Stenographer as per the reservation for the disabled in accordance with the implementation of the Rights of Persons with Disabilities Act, 2016\
   [202606101728595807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101728595807.pdf)
 
+- Regarding the designation of the Collector (Mumbai City), Collector (Mumbai Suburban), and Divisional Commissioner (Konkan Division, Navi Mumbai) as Drawing and Disbursing Officers for incurring expenditure related to the conduct of examinations.\
+  [202606121211327707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121211327707.pdf)
+
+- Regarding the payment of rent for government and political party offices located at the Free Press Journal marg.\
+  [202606121130571707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121130571707.pdf)
+
+- Regarding the constitution of a committee to verify the computerized roster system in the context of its implementation at the government level.\
+  [202606121427359007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121427359007.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

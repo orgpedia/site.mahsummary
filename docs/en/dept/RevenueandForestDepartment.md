@@ -10,12 +10,18 @@
 - Regarding the grant of advance approval and administrative sanction by the government for civic amenities to be provided in the resettled village sites within the Shahada and Taloda talukas of Nandurbar district under the Sardar Sarovar Project.\
   [202606101403167219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101403167219.pdf)
 
+- Regarding the grant of administrative and financial approval for the proposal to provide 125 remote-controlled robotic craft to disaster response forces for search and rescue operations...\
+  [202606121539227819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121539227819.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the tenure of 34 IT Assistants working in all districtsexcluding Mumbai City and Mumbai Suburban districtsfrom April 2, 2026, to May 30, 2026...\
   [202606081210064819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081210064819.pdf)
 
 - Forest Land- Nandurbar Re-diversion of 0.2008 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Vodafone Idea Telecom Infrastructure Ltd.,   for laying of Optical fiber cable along the ROW of Nandurbar to Amalner Road (RHS Side) in Nandurbar District, in the state of Maharashtra.\
   [202606091823265819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091823265819.pdf)
+
+- Forest Land - Thane Diversion of 0.39 ha. Mangrove Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of Executive Engineer, Metro PIU, MMRDA, Mumbai for construction of approach road with spur line to Mogharpada Car Depot for Mumbai Metro-4  4A (Wadala-Mulund-Thane-Kasarvadali-Gaimukh) through Mangrove Forest Gut No.30 of Village Mogharpada, Tal.Thane,  Dist. Thane in the State of Maharashtra.\
+  [202606121629248219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121629248219.pdf)
 
 ## Personnel
 - Annual Plan 2026-27: Regarding the procurement of 29 new vehicles to replace 29 vehicles across various forest circles that have been written off, under the state-level scheme Strengthening of Mobile Squads (2406 2161).\
@@ -35,6 +41,12 @@
 
 - Posting of an officer in the Tehsildar cadre via transfer Shri Iresh Chappalwar, Tehsildar\
   [202606111943129119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111943129119.pdf)
+
+- Regarding the provision of assistance to farmers affected by unseasonal rain... (April 2026)\
+  [202606121840546319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121840546319.pdf)
+
+- Regarding the permanent closure of secondary prisons in the state.\
+  [202606121219349519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121219349519.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,5 +10,8 @@
 - Regarding the creation of a separate budget head for the Scheduled Castes and Scheduled Tribes components of the Centrally Sponsored Scheme Strengthening of Drug Control System.\
   [202606101636556113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101636556113.pdf)
 
+- Regarding the constitution of a committee to investigate bogus pharmaceutical companies and the ingredients (content) of the medicines produced by them.\
+  [202606111437114213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111437114213.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

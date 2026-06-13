@@ -23,5 +23,8 @@
 - Periodical/Administrative Transfers of Officers in the Cadre of Technical Officer (Supply), Group-B (Gazetted)  2026.\
   [202606091240528006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091240528006.pdf)
 
+- Regarding the issuance of directives to impose restrictions on the purchase and sale of petroleum products.\
+  [202606121750263706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121750263706.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
