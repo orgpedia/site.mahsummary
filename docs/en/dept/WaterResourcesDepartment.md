@@ -31,5 +31,11 @@
 - Transfer within the cadres of Junior Engineer / Section Engineer / Assistant Engineer Grade-2 (Civil/Mechanical/Electrical).\
   [202606111236570627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111236570627.pdf)
 
+- Transfer of officers in the Superintending Engineer (Civil/Mechanical) cadre.\
+  [202606122328009727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606122328009727.pdf)
+
+- Transfers of officers in the Executive Engineer (Civil/Electrical) cadre.\
+  [202606122328075327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606122328075327.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
