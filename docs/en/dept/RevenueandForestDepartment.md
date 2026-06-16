@@ -1,52 +1,15 @@
 # Revenue and Forest Department
 
-**Date Range**: 15 June 2026 - 20 June 2026
+**Date Range**: 22 June 2026 - 27 June 2026
 
 
 ## Funds
-- Regarding the disbursement of funds to provide immediate assistance to the heirs of farmers who committed suicide... (Mandatory) (Data Entry)\
-  [202606091727437919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091727437919.pdf)
-
-- Regarding the grant of advance approval and administrative sanction by the government for civic amenities to be provided in the resettled village sites within the Shahada and Taloda talukas of Nandurbar district under the Sardar Sarovar Project.\
-  [202606101403167219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101403167219.pdf)
-
-- Regarding the grant of administrative and financial approval for the proposal to provide 125 remote-controlled robotic craft to disaster response forces for search and rescue operations...\
-  [202606121539227819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121539227819.pdf)
-
-## Miscellaneous
-- Regarding the extension of the tenure of 34 IT Assistants working in all districtsexcluding Mumbai City and Mumbai Suburban districtsfrom April 2, 2026, to May 30, 2026...\
-  [202606081210064819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081210064819.pdf)
-
-- Forest Land- Nandurbar Re-diversion of 0.2008 ha. forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of M/s Vodafone Idea Telecom Infrastructure Ltd.,   for laying of Optical fiber cable along the ROW of Nandurbar to Amalner Road (RHS Side) in Nandurbar District, in the state of Maharashtra.\
-  [202606091823265819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091823265819.pdf)
-
-- Forest Land - Thane Diversion of 0.39 ha. Mangrove Forest land under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 in favour of Executive Engineer, Metro PIU, MMRDA, Mumbai for construction of approach road with spur line to Mogharpada Car Depot for Mumbai Metro-4  4A (Wadala-Mulund-Thane-Kasarvadali-Gaimukh) through Mangrove Forest Gut No.30 of Village Mogharpada, Tal.Thane,  Dist. Thane in the State of Maharashtra.\
-  [202606121629248219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121629248219.pdf)
+- Regarding the grant of administrative approval for the cost estimate for the tourism development of the Nagadeshwar Devasthan tourism project site at Mauje Georai Aglave, Taluka Paithan, District Chhatrapati Sambhajinagar.\
+  [202606151305027219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151305027219.pdf)
 
 ## Personnel
-- Annual Plan 2026-27: Regarding the procurement of 29 new vehicles to replace 29 vehicles across various forest circles that have been written off, under the state-level scheme Strengthening of Mobile Squads (2406 2161).\
-  [202606081739559419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081739559419.pdf)
-
-- Consolidated final seniority list of Deputy Collectors (Group-A cadre officers) for the period from 01.01.2013 to 31.12.2017, reflecting the position as of 01.01.2018.\
-  [202606081828361619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081828361619.pdf)
-
-- Regarding the rehabilitation of villages affected by or prone to disasterssuch as floods caused by excessive rainfall, landslides, large ground fissures, or collapsing hills and rockfallsand the provision of civic amenities to them...\
-  [202606091224034519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091224034519.pdf)
-
-- Regarding the constitution of a committee to formulate a comprehensive policy for the periodic transfers and post-promotion postings of officers and employees within the Revenue, Registration  Stamps, and Land Records sub-departmentswhich operate under the administrative control of the Revenue Departmentusing an online (computerized) system.\
-  [202606091039223719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091039223719.pdf)
-
-- Regarding the provision of facilities to individuals from the Kumbhar community to carry out their traditional occupation.\
-  [202606101817178319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101817178319.pdf)
-
-- Posting of an officer in the Tehsildar cadre via transfer Shri Iresh Chappalwar, Tehsildar\
-  [202606111943129119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111943129119.pdf)
-
-- Regarding the provision of assistance to farmers affected by unseasonal rain... (April 2026)\
-  [202606121840546319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121840546319.pdf)
-
-- Regarding the permanent closure of secondary prisons in the state.\
-  [202606121219349519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121219349519.pdf)
+- Regarding the extension of tenure for supernumerary posts created for Naib Tehsildars in the revenue field establishment who were appointed under the Scheduled Tribe category but failed to submit a caste validity certificate or submitted a different caste validity certificate.\
+  [202606151542147419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151542147419.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

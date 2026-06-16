@@ -1,11 +1,17 @@
 # Women and Child Development Department
 
-**Date Range**: 15 June 2026 - 20 June 2026
+**Date Range**: 22 June 2026 - 27 June 2026
 
 
 ## Funds
-- Regarding the disbursement of funds for the sub-schemes of sponsorship and aftercare under the Centrally Sponsored Scheme Mission Vatsalya for the year 2026-27.\
-  [202606121610305630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121610305630.pdf)
+- Grant release for Baby Care Kit Scheme\
+  [202606151525442930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151525442930.pdf)
+
+- Regarding the approval for the distribution and expenditure of budgeted funds for the Village Child Development Centre (VCDC) and Urban Child Development Centre (UCDC) schemes for severely malnourished children for the financial year 2026-27.\
+  [202606151520154430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151520154430.pdf)
+
+- Regarding the disbursement of funds to operational voluntary organizations for the year 2026-27 under the centrally sponsored Shakti Sadan scheme.\
+  [202606151647201630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151647201630.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
