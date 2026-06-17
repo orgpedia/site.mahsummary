@@ -1,11 +1,34 @@
 # Law and Judiciary Department
 
-**Date Range**: 15 June 2026 - 20 June 2026
+**Date Range**: 22 June 2026 - 27 June 2026
 
+
+## Funds
+- Administrative Approval Regarding the grant of fresh administrative approvalsuperseding the original approvalfor the construction of a new building (comprising a basement, stilt, and 8 upper floors, with 18 court halls) for the Family Court at Nagpur.\
+  [202606151702334912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151702334912.pdf)
+
+- Administrative Approval Regarding the construction of a new court building (Stilt  Ground Floor  3 Floors) (3 Court Halls) at Goregaon, District Gondia.\
+  [202606151705324312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151705324312.pdf)
+
+- Administrative Approval Construction of a new court building (stilt  6 floors, 8 court halls) at Mehkar, District Buldhana.\
+  [202606151717344912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151717344912.pdf)
+
+- Administrative Approval Regarding the construction of a new court building (Ground Floor  2 Floors) (11 Court Halls) at Umarkhed, District Yavatmal.\
+  [202606151708499112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151708499112.pdf)
+
+- Administrative Approval Regarding the grant of fresh administrative approvalsuperseding the original approvalfor the construction of a new court building (Ground Floor  2 Upper Floors; 2 Court Halls) at Dondaicha, District Dhule.\
+  [202606151712117612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151712117612.pdf)
+
+- For the 2026-27 budget, under Demand No. J-5 and Major Head 7610 (Loans to Government Servants, etc.), the allocation for Motor Vehicle Purchase Advances (7610 0481) falls under sub-head (202)(00)(01).\
+  [202606151320566112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151320566112.pdf)
 
 ## Miscellaneous
-- Appointment on Deputation-Smt.Varsha Ananda Salunkhe, Assistant Director, Finance Department.\
-  [202606091305020912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091305020912....pdf)
+- Administrative Approval  Regarding the construction of a new court building (Ground Floor  Stilt  Floors 1 to 6) comprising 7 court halls and 1 V.W.D.C. at Hingna, District Nagpur.\
+  [202606151714393912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151714393912.pdf)
+
+## Personnel
+- Regarding the designation of the appointing authority for appointments whether by direct recruitment, promotion, or deputation to posts in Group-B (Gazetted), Group-B (Non-Gazetted), Group-C, and Group-D categories across the 13 Government Pleaders offices under the administrative control of the Law and Judiciary Department.\
+  [202606151226426412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151226426412.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
