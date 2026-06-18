@@ -49,5 +49,38 @@
 - Regarding the grant of approval for starting new engineering diploma courses and increasing the intake capacity of existing courses at the current institute, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi, effective from the academic year 2026-27. AHINSA INSTITUTE OF TECHNOLOGY, DHULE\
   [202606151900118408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151900118408.pdf)
 
+- Regarding Government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhifor starting new courses, closing existing courses, or increasing/decreasing intake capacity at the undergraduate, postgraduate, or postgraduate diploma levels, effective from the academic year 2026-27, at the existing institute functioning under the Directorate of Technical Education... (Netaji Polytechnic College, Ajang, Dist. Dhule, run by Netaji Subhash Chandra Bose Education Trust)\
+  [202606161841272008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161841272008.pdf)
+
+- Regarding the allocation of funds to outsource the work associated with 55 unskilled posts on the establishment of the Directorate of Libraries...\
+  [202606161619007908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161619007908.pdf)
+
+- Regarding the grant of government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito an existing institute under the administrative control of the Directorate of Technical Education, for starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (Mitthulalji Sarda Institute of Technology, Bahirwadi, Beed)\
+  [202606161433397708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161433397708.pdf)
+
+- Regarding the grant of government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito the existing institute under the Directorate of Technical Education, for starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (METs Institute of Technology-Polytechnic, Adgaon, Dist. Nashik)\
+  [202606161439264508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161439264508.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the All India Council for Technical Education (AICTE), New Delhifor starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the undergraduate, postgraduate, or postgraduate diploma levels, effective from the academic year 2026-27, at the existing institute functioning under the Directorate of Technical Education... (Aditya Institute of Management - AIMS, Narhe-Ambegaon, Pune)\
+  [202606161441521408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161441521408.pdf)
+
+- Regarding the grant of government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito the existing institute under the Directorate of Technical Education, for the introduction of new courses, closure of existing courses, and increase or decrease in intake capacity at the Undergraduate, Postgraduate, and Postgraduate Diploma levels, effective from the academic year 2026-27... (Aditya College of MBA, Beed)\
+  [202606161425519508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161425519508.pdf)
+
+- Regarding Government approval for starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the undergraduate, postgraduate, or postgraduate diploma levelseffective from the 2026-27 academic yearat the existing institute under the Directorate of Technical Education, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (Rural Technical and Management Campus, Vishnupuri, Nanded)\
+  [202606161839105108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161839105108.pdf)
+
+- Regarding the appointment of the Presiding Officer to the University and College Tribunal at Dr. Babasaheb Ambedkar Marathwada University, Chhatrapati Sambhajinagar.\
+  [202606161811087408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161811087408.pdf)
+
+- Regarding the grant of government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito an existing institute under the administrative control of the Directorate of Technical Education, for the introduction of new courses, closure of existing courses, or increase/decrease in intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (Dr. Sudhakarrao Jadhavar Institute of Management and Technology, Narhe, Dist. Pune)\
+  [202606161444379008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161444379008.pdf)
+
+- Regarding the grant of Government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito the existing institute under the administrative control of the Directorate of Technical Education, for the introduction of new courses, closure of existing courses, and increase or decrease in intake capacity at the Undergraduate, Postgraduate, and Postgraduate Diploma levels, effective from the academic year 2026-27... (Mitthulalji Sarda MBA College, Beed)\
+  [202606161436336508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161436336508.pdf)
+
+- Regarding the grant of Government approvalsubject to the recognition of the All India Council for Technical Education (AICTE), New Delhito an existing institute under the administrative control of the Directorate of Technical Education, for the purpose of starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (Aditya Engineering College, Beed)\
+  [202606161430497108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161430497108.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

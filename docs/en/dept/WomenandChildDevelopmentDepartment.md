@@ -13,5 +13,11 @@
 - Regarding the disbursement of funds to operational voluntary organizations for the year 2026-27 under the centrally sponsored Shakti Sadan scheme.\
   [202606151647201630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151647201630.pdf)
 
+- Regarding the disbursement of funds for the Child Helpline under the Centrally Sponsored Scheme Mission Vatsalya for the year 2026-27.\
+  [202606161321191030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161321191030.pdf)
+
+- Regarding the distribution of funds for the payment of salaries to officers and staff working under the Integrated Child Development Services (ICDS) scheme for the financial year 2026-27.\
+  [202606161538349430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161538349430.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,30 +1,17 @@
 # Planning Department
 
-**Date Range**: 15 June 2026 - 20 June 2026
+**Date Range**: 22 June 2026 - 27 June 2026
 
 
-## Funds
-- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies. (Kalyan-Dombivli Municipal Corporation)\
-  [202606101515537616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101515537616.pdf)
+## Personnel
+- Regarding the publication of the final seniority list as of 01/01/2025 (covering the period from 01/01/2024 to 31/12/2024) for the Research Officer/Statistical Officer, Group-B cadre in the Directorate of Economics and Statistics.\
+  [202606161756361016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161756361016.pdf)
 
-- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies. (Corrigendum  Palghar Municipal Council, District Palghar)\
-  [202606101514137916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101514137916.pdf)
+- Regarding the appointment by promotion of employees from the cadre of Assistant Research Officer, Group-B (Non-Gazetted) under the Directorate of Economics and Statistics to the post of Research Officer / Statistical Officer, Group-B (Gazetted).\
+  [202606161754126116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161754126116.pdf)
 
-- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies (Corrigendum  Sangamner Municipal Council, Dist. Ahilyanagar)\
-  [202606101517249516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101517249516.pdf)
-
-- Regarding the grant of administrative approval for the development plan of the Phase-3 Shri Kshetra Bhimashankar Model Village Project, District Pune.\
-  [202606111200301316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111200301316.pdf)
-
-- Regarding the disbursement of funds for the financial year 2026-27 to the Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (SARTHI), Pune. (Phase-3)\
-  [202606111311300416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111311300416.pdf)
-
-## Miscellaneous
-- Regarding extension Dhadak Irrigation Wells Program of Nagpur Division for 110 incomplete wells out of 386 ongoing wells in Gadchiroli, Bhandara, Chandrapur, Gondia, Nagpur and Wardha districts.\
-  [202606081244543716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081244543716.pdf)
-
-- Regarding the appointment of a Vice-Chairman to the Sindhuratna Executive Committee of the Sindhuratna Samruddha Yojana 2.0...\
-  [202606121537218616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121537218616.pdf)
+- Regarding the posting of officers in the cadre of Research Officer/Statistical Officer, Group-B (Gazetted) under the Directorate of Economics and Statistics for the year 2026, through adjustment...\
+  [202606161752219916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161752219916.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

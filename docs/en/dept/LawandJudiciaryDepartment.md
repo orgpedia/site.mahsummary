@@ -22,9 +22,18 @@
 - For the 2026-27 budget, under Demand No. J-5 and Major Head 7610 (Loans to Government Servants, etc.), the allocation for Motor Vehicle Purchase Advances (7610 0481) falls under sub-head (202)(00)(01).\
   [202606151320566112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151320566112.pdf)
 
+- Regarding the creation of 2 posts of Section Officer and 13 new posts of Bailiff and Clerk for the Sheriffs Office.\
+  [202606161815328212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161815328212.pdf)
+
+- Regarding the grant of administrative approval for the repair and renovation of the 4th, 5th, and 6th floors of the Hon. High Court Rest House building at Gundavali, Teli Galli, Andheri (East).\
+  [202606161637586612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161637586612.pdf)
+
 ## Miscellaneous
 - Administrative Approval  Regarding the construction of a new court building (Ground Floor  Stilt  Floors 1 to 6) comprising 7 court halls and 1 V.W.D.C. at Hingna, District Nagpur.\
   [202606151714393912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151714393912.pdf)
+
+- Budget Grant Demand No. J-5 for the year 2026-27; Head of Account 7610  Loans to Government Servants, etc. (204)(00)(01)  Advances for Purchase of Personal Computers; (7610 1842)  Disbursement of Computer Advances.\
+  [202606161727017712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161727017712.pdf)
 
 ## Personnel
 - Regarding the designation of the appointing authority for appointments whether by direct recruitment, promotion, or deputation to posts in Group-B (Gazetted), Group-B (Non-Gazetted), Group-C, and Group-D categories across the 13 Government Pleaders offices under the administrative control of the Law and Judiciary Department.\

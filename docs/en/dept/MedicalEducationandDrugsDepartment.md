@@ -11,5 +11,12 @@
 - Regarding granting approval for opening a Personal Ledger Account (P.L.A.) for the Government Medical College and Hospital, Bhandara.\
   [202606151435394013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151435394013.pdf)
 
+- Administrative approval for the purchase of machinery and equipment to Chhatrapati Pramilaraje General Hospital, Kolhapur.\
+  [202606161317059213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161317059213.pdf)
+
+## Personnel
+- Regarding the cancellation of the transfer of undergraduate, postgraduate, and internship students of Sinhgad Dental College and Hospital, Pune, to other private unaided dental colleges in the state.\
+  [202606161152481513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161152481513.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
