@@ -7,6 +7,15 @@
 - Regarding the sanctioning of insurance cover/ex-gratia assistance to the families of employees who died due to coronavirus infection while performing duties related to COVID-19. Late (Shri) Shidore Kishor Ramkrishna, Assistant Professor.\
   [202606161706214721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161706214721.pdf)
 
+- Regarding the sanctioning of insurance cover/ex-gratia assistance to the families of employees who died due to coronavirus infection while performing duties related to COVID-19. Late (Shri) Vasantrao Anantrao Jagdale, Assistant Teacher.\
+  [202606181820219021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181820219021.pdf)
+
+- Regarding the approval for payment of fees for the cloud services availed for the Shalarth, Pavitra, and Saral systems under e-Governance.\
+  [202606171510307221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171510307221.pdf)
+
+- Regarding the sanctioning of insurance cover/ex-gratia assistance to the families of employees who died due to coronavirus infection while performing duties related to COVID-19. Late (Shri) Nagnath Laxman Upase, Attendant.\
+  [202606181822384221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181822384221.pdf)
+
 ## Personnel
 - Clarification regarding the fixation of pay for candidates appointed to the post of Shikshan Sevak from government or semi-government service.\
   [202606151403040721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151403040721.pdf)

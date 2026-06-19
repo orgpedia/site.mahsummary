@@ -7,6 +7,9 @@
 - To release grant for the scheme of Pandit Deendayal Upadhyay Swayam Yojana(Scheme) under the TSP in financial year 2026-27. CRC 2225 E024\
   [202606161723096224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161723096224.pdf)
 
+- Regarding the upgrading of the Government English Medium Primary Ashram School at Thanepada (Taluka  District Nandurbar), under the Tribal Development Department, to include secondary education (Classes 8 to 10).\
+  [202606171901004324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171901004324.pdf)
+
 ## Miscellaneous
 - Regarding the approval to upgrade the aided Ashram School at Balapur Akhada (Taluka: Kalamnuri, District: Hingoli)run by Shri Mahatma Mungsaji Shikshan Sanstha, Pusad (District: Yavatmal) under the jurisdiction of the Additional Commissioner (Tribal Development, Amravati) and the Additional Commissioner (Tribal Development, Dharni)to commence classes for Standards 8 through 10, effective from the 2026-27 academic year.\
   [202606151839251824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151839251824.pdf)
@@ -70,6 +73,12 @@
 
 - Regarding the approval to upgrade the aided secondary Ashram School at Gondpipri (Taluka Gondpipri, District Chandrapur)run by Shri Phulajibaba Shikshan Prasarak Mandal, Rajura (District Chandrapur) and functioning under the Project Officer, Integrated Tribal Development Project, Chandrapur (under the Additional Commissioner, Tribal Development, Nagpur)to start Classes 11 and 12 (Arts and Science) from the academic year 2026-27.\
   [202606161051147624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161051147624.pdf)
+
+- Regarding the approval to upgrade the aided secondary Ashram School at Gojoli (Taluka Gondpipri, District Chandrapur)run by the Janakalyan Backward Class Education Society, Karanji (Taluka Gondpipri, District Chandrapur) and operating under the Project Officer, Integrated Tribal Development Project, Chandrapur (within the jurisdiction of the Additional Commissioner, Tribal Development, Nagpur)to commence Classes 11 and 12 (Arts and Science) starting from the academic year 2026-27.\
+  [202606161050537624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161050537624.pdf)
+
+- Regarding the approval to upgrade the aided secondary Ashram School at Gadad (Taluka Navapur, District Nandurbar)run by the Adivasi Seva Sahayak va Shikshan Prasarak Sanstha, Navapurby introducing Classes 11 and 12 (Arts and Science) starting from the academic year 2026-27; this proposal falls under the jurisdiction of the Project Officer, Integrated Tribal Development Project, Nandurbar, operating under the Additional Commissioner, Tribal Development, Nashik (Tribal Development Department).\
+  [202606161051209824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161051209824.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

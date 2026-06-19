@@ -3,6 +3,13 @@
 **Date Range**: 22 June 2026 - 27 June 2026
 
 
+## Miscellaneous
+- Regarding the constitution of a Monitoring Committee to implement the reforms prescribed under Part-IV of the Central Governments Special Assistance to States for Capital Investment scheme for the year 2026-27.\
+  [202606181816467705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181816467705.pdf)
+
+- Regarding the publication of a checklist for proposals related to the joining of services.\
+  [202606171111379105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171111379105.pdf)
+
 ## Personnel
 - Regarding the preparation of a revised Form 5A by consolidating the application forms to be filled out by retiring State Government employees at the time of retirement.\
   [202606151745574905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151745574905.pdf)

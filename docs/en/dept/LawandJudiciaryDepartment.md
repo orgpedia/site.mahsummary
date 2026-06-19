@@ -28,12 +28,18 @@
 - Regarding the grant of administrative approval for the repair and renovation of the 4th, 5th, and 6th floors of the Hon. High Court Rest House building at Gundavali, Teli Galli, Andheri (East).\
   [202606161637586612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161637586612.pdf)
 
+- Regarding the grant of administrative and financial approval for the IT enablement of the Honble Judges of the Honble High Court, Mumbai.\
+  [202606181651110312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181651110312.pdf)
+
 ## Miscellaneous
 - Administrative Approval  Regarding the construction of a new court building (Ground Floor  Stilt  Floors 1 to 6) comprising 7 court halls and 1 V.W.D.C. at Hingna, District Nagpur.\
   [202606151714393912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151714393912.pdf)
 
 - Budget Grant Demand No. J-5 for the year 2026-27; Head of Account 7610  Loans to Government Servants, etc. (204)(00)(01)  Advances for Purchase of Personal Computers; (7610 1842)  Disbursement of Computer Advances.\
   [202606161727017712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161727017712.pdf)
+
+- Regarding the grant of approval for the creation of notional posts of Mali (Gardener) to facilitate the management, maintenance, and development of gardens within the premises of the official residential bungalows of the Honble Judges of the High Court of Bombay (Aurangabad Bench) through an external service provider appointed via the tender process.\
+  [202606171221211512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171221211512.pdf)
 
 ## Personnel
 - Regarding the designation of the appointing authority for appointments whether by direct recruitment, promotion, or deputation to posts in Group-B (Gazetted), Group-B (Non-Gazetted), Group-C, and Group-D categories across the 13 Government Pleaders offices under the administrative control of the Law and Judiciary Department.\

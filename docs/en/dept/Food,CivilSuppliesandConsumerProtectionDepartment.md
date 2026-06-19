@@ -1,30 +1,21 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 15 June 2026 - 20 June 2026
+**Date Range**: 22 June 2026 - 27 June 2026
 
 
-## Miscellaneous
-- Regarding the opening of a Current Account with the State Bank of India (a nationalized bank) for the purpose of remitting fees for filing complaints or appeals on the e-Jagriti platform within the State Consumer Disputes Redressal Commission system.\
-  [202606101440143906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606101440143906.pdf)
+## Funds
+- Regarding the disbursement of funds for the APL-DBT (Orange) farmers scheme across 14 districts.\
+  [202606171805314106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171805314106.pdf)
 
 ## Personnel
-- Periodical/Administrative Transfers of Officers in the Cadre of Technical Officer (Supply), Group-B (Gazetted)  2026.\
-  [202606091243461806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091243461806.pdf)
+- Regarding the transfer of Inspection Officer (Supply) / Zonal Officer, Group-B (Gazetted)...\
+  [202606181114137306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181114137306.pdf)
 
-- Periodical/Administrative Transfers of Officers in the Cadre of Technical Officer (Supply), Group-B (Gazetted)  2026.\
-  [202606091239181106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091239181106.pdf)
+- Regarding the transfer of officers in the cadre of register, Group-B (Gazetted), in the District Consumer Disputes Redressal Commission...\
+  [202606181749599306.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181749599306.pdf)
 
-- Periodical/Administrative Transfers of Officers in the Cadre of Technical Officer (Supply), Group-B (Gazetted)  2026.\
-  [202606091242200006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091242200006.pdf)
-
-- Periodical/Administrative Transfers of Officers in the Cadre of Inspecting Officer (Supply), Group-B (Gazetted)  2026.\
-  [202606091237279606.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091237279606.pdf)
-
-- Periodical/Administrative Transfers of Officers in the Cadre of Technical Officer (Supply), Group-B (Gazetted)  2026.\
-  [202606091240528006.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091240528006.pdf)
-
-- Regarding the issuance of directives to impose restrictions on the purchase and sale of petroleum products.\
-  [202606121750263706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121750263706.pdf)
+- Regarding the assignment of additional charge of the post of register, District Consumer Disputes Redressal Commission, Sangli.\
+  [202606181752290506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181752290506.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

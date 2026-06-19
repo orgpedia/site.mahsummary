@@ -1,36 +1,43 @@
 # Public Health Department
 
-**Date Range**: 15 June 2026 - 20 June 2026
+**Date Range**: 22 June 2026 - 27 June 2026
 
 
 ## Funds
-- Regarding administrative approval for the cost estimate for the installation of solar water heating systems at the Rural Hospitals in Dharur and Patoda, and the Sub-District Hospital in Kej, Beed District.\
-  [202606091221345717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091221345717.pdf)
+- Regarding administrative approval for the procurement of 105 types of medicines for Hinduhridaysamrat Balasaheb Thackeray Aapla Davakhana centers from the 2026-27 budgetary allocation, and for the transfer of the said funds to the Maharashtra Medical Goods Procurement Authority.\
+  [202606171453582517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171453582517.pdf)
 
-- Fund Release Year 2026-2027  Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana Centrally Sponsored Scheme- State Share (40) Releasing of funds  Rs. 32,62,50,855/-  under Budget Head 2210 G 888 (SCP) 31-Grant in Aids\
-  [202606111718245317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111718245317.pdf)
+- Regarding the disbursement of honorarium to ASHA volunteers and Group Facilitators for the period of June 2026 to July 2026, under the Centrally Sponsored National Health Mission, from the budgetary provisions of Budget Head 2210H015, 31-Grants-in-Aid (Non-salary) for the financial year 2026-27.\
+  [202606181802187817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181802187817.pdf)
 
-- Fund Release Year 2026-2027 Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana Centrally Sponsored Scheme State Share (40) Regarding  Release of funds  Rs.24,86,24,695/- under budget head 2210G494(TSP) 31-Grant in Aids\
-  [202606111718297617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111718297617.pdf)
+- Regarding the grant of administrative approval for a proposal amounting to a total of 94,63,353/- for the procurement of necessary supplementary medicines, materials, and supplies for leprosy patients during the financial year 2026-27 under the National Leprosy Control Programme, chargeable to the object head 31-Grants-in-Aid (Non-salary) under budget heads 2210 0941 and 2210 0665.\
+  [202606181702149617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181702149617.pdf)
 
-- Fund Release Year 2026-2027 Regarding Release of funds under the Budget Head 2210 G 449 (General)State Share (40) 31-Grant in Aids (Non-Salary) for the Centrally sponsored scheme  Ayushman Bharat Pradhan Mantri Jan Arogya Yojana\
-  [202606121447126417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121447126417.pdf)
+- Regarding the grant of administrative approval for expenses related to training sessions, pursuant to the Memorandum of Understanding (MoU) signed with the Breastfeeding Promotion Network of India (BPNI), Maharashtra, aimed at strengthening public health, training, research, and policy in the state.Regarding the grant of administrative approval for expenses related to training sessions, pursuant to the Memorandum of Understanding (MoU) signed with the Breastfeeding Promotion Network of India (BPNI), Maharashtra, aimed at strengthening public health, training, research, and policy in the state.\
+  [202606171309538917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171309538917.pdf)
 
-- Fund Release Year 2026-2027 Regarding the Release of funds for Central Govt sponsored scheme Ayushman Bharat- Pradhan Mantri Jan Arogya Yojana Rs. 6.41 crore  under  Budget Head 2210 G 449 (General)State Share (40) 20-Other Administrative Expenses\
-  [202606121447075817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121447075817.pdf)
+- Fund Release- Year 2026-27. Regarding release of funds Rs. 244,18,66,000/- for payment of claims of hospitals under Mahatma Jyotirao Phule Jan Arogya Yojana Budget Head 2210 K 542 (General) 31-Grant in Aids (Non-Salary).\
+  [202606181030264517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181030264517.pdf)
 
 ## Miscellaneous
-- Regarding administrative approval of the budget for the remaining construction and furniture work of the 100-bed Women and Newborn Hospital building in Satara.\
-  [202606081302413017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606081302413017.pdf)
+- Regarding the grant of administrative approval for the procurement of food grains, groceries, food-related items, and daily utility goods for the States Regional Mental Hospitals located in Pune, Thane, Nagpur, and Ratnagiri.\
+  [202606181456478417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181456478417.....pdf)
 
-- Regarding the grant of revised administrative approval for the cost estimate for the construction of the main building and officer/staff quarters of the 200-bed Women and Newborn Hospital at Chhatrapati Sambhajinagar.\
-  [202606091221324317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606091221324317.pdf)
+- Regarding the establishment of a committee to suggest measures for the control of Hemophilia disease.\
+  [202606181131308617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181131308617.pdf)
 
-- Regarding the reconstitution of the Core Committee formed to prevent child mortality in tribal areas.\
-  [202606111510251117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606111510251117.pdf)
+- Regarding the appointment of Shri Ganesh Borhade (resident of Sangamner, District Ahilyanagar) as an Invited Member to the state-level committeeestablished under the chairpersonship of Hon. Dr. (Smt.) Neelam Latika Diwakar Gorhe, Deputy Chairperson of the Maharashtra Legislative Counciltasked with formulating measures, guidelines, and government recommendations concerning the health-related issues of female sugarcane-cutting workers.\
+  [202606171749424917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171749424917.pdf)
 
-- Regarding the constitution of a Coordination Committee for the implementation of the Stop Diarrhoea Campaign 2026...\
-  [202606121447254217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606121447254217.pdf)
+- Regarding the creation of posts for newly established health institutions- Corrigendum\
+  [202606181702577917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181702577917.pdf)
+
+- Regarding the grant of administrative approval for the procurement of 2 computers and 3 printers for the Joint/Deputy Secretary in the Public Health Department (itself) through the GeM portal, following the prescribed procedure\
+  [202606171535283817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171535283817.pdf)
+
+## Personnel
+- Regarding the transfer of Mr. Sachin Shivaji Nagtilak (Regular Field Staff - Group D), Mrs. Anita Sahebrao Jadhav (Staff Nurse), and Mr. Sanjay Baburao Wankhede (Male Attendant) from supernumerary posts to regular service.\
+  [202606181702356317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181702356317.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

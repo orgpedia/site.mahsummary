@@ -10,6 +10,9 @@
 - Fund distribution of the financial year 2026-2027 for Composite Training Center, Gargoti, Dist. Kolhapur.   Major Account Head - 25150026 2nd installment (Non Salary  Salary)\
   [202606161430102020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161430102020.pdf)
 
+- Regarding the disbursement of the governments share of grant-in-aid for the financial year 2026-27 to cover Gram Panchayat employee salaries, honoraria for the Sarpanch and Up-Sarpanch, meeting allowances for members, and the Gram Panchayat employees Provident Fund.\
+  [202606171749073920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171749073920.pdf)
+
 ## Miscellaneous
 - Fund distribution of the financial year 2026-2027 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill, Gargoti, Amravati  YASHADA Pune.  Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  2nd installment (Non Salary  Salary)\
   [202606161430026820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161430026820.pdf)

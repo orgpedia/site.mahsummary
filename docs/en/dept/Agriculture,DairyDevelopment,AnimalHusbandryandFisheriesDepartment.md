@@ -21,5 +21,8 @@
 - Regarding the transfer of the entire land (2.02 hectares) belonging to the Dairy Development Departmentsituated at City Survey No. 121 of the Government Milk Chilling Centre, Georai (District Beed)to the Commissioner of Animal Husbandry, Maharashtra State, Pune, for the office of the Taluka Small Animal Veterinary Hospital, Georai.\
   [202606151610178101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151610178101.pdf)
 
+- Appointment of the State Scheme Manager and Single Nodal Agency for the Centrally Sponsored Scheme Cotton Productivity Mission for the purposes of the SNA-SPARSH procedure.\
+  [202606181636167101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181636167101.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,5 +19,9 @@
 - Regarding the distribution of funds for the payment of salaries to officers and staff working under the Integrated Child Development Services (ICDS) scheme for the financial year 2026-27.\
   [202606161538349430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161538349430.pdf)
 
+## Miscellaneous
+- Regarding the approval of a service provider organization/agency for the supply of manpower for Group-C and Group-D posts in offices under the jurisdiction of the Commissioner, Women and Child Development, Pune, through an external agency.\
+  [202606181821458330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181821458330...pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
