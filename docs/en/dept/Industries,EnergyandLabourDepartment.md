@@ -10,6 +10,9 @@
 - Regarding the opening of a new accounting head for the centralized payment of electricity bills for all government offices in the state through Mahavitarans Composite Billing system.\
   [202606171800136210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171800136210.pdf)
 
+- Regarding the grant of administrative and financial approval for the creation of a dedicated logistics portal for the state under the Maharashtra Logistics Policy-2024.\
+  [202606191509229910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191509229910.pdf)
+
 ## Miscellaneous
 - Regarding the publication of the provisional seniority list of officers in the cadre of Industries Officer (Technical), Group-B as of January 1, 2026.\
   [202606181436551710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181436551710.pdf)

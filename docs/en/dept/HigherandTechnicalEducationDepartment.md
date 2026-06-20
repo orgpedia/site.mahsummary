@@ -3,6 +3,13 @@
 **Date Range**: 22 June 2026 - 27 June 2026
 
 
+## Funds
+- Regarding the disbursement of funds for the construction of the Late Dr. Shankarrao Chavan Study Centre complex building at Swami Ramanand Teerth Marathwada University, Nanded...\
+  [202606191651322308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191651322308.pdf)
+
+- Regarding the grant of administrative approval for the construction of the Prof. Bal Apte Centre for Studies in Student and Youth Movements at the University of Mumbai, Mumbai...\
+  [202606191648560208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191648560208.pdf)
+
 ## Miscellaneous
 - Regarding approval for starting new Engineering Diploma courses in the existing institution, increase in admission capacity of the existing courses etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2026-27. (SUMAN RAMESH TULSIANI TECHNICAL CAMPUS- FACULTY OF ENGINEERING, PUNE\
   [202606151935316208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606151935316208.pdf)
@@ -261,6 +268,24 @@
 
 - Regarding the grant of Government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito an existing institute under the administrative control of the Directorate of Technical Education, for the purpose of starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (Indrayani College, Talegaon Dabhade, Pune)\
   [202606171836014908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171836014908.pdf)
+
+- Approval to open a new Personal Ledger Account (PLA) for the Government Polytechnic, Vikramgad (District Palghar).\
+  [202606191540179808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191540179808.pdf)
+
+- Regarding the granting of approval to start a new unaided diploma institute in the state from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi.  NANDKUMAR SHINDE COLLEGE OF ENGINEERING AND TECHNOLOGY\
+  [202606191831364308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191831364308.pdf)
+
+- Regarding approval for starting a new unaided diploma institute in the state from the academic year 2026-27 in accordance with the approval given by All India Council for Technical Education, New Delhi. (SVS COLLEGE OF ENGINEERING AND TECHNOLOGY TEMBHURNI, SOLAPUR)\
+  [202606191734318108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191734318108.pdf)
+
+- Regarding the granting of approval to start a new unaided diploma institute in the state from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (Ramkrishna Polytechnic, Hingoli)\
+  [202606191828540508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191828540508.pdf)
+
+- Regarding approval for starting a new Engineering Diploma course in the existing institution, increasing the admission capacity of the existing course, etc., as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2026-27. (SHRI ANANDRAO ABITKAR COLLEGE OF ENGINEERING)\
+  [202606191833496508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191833496508.pdf)
+
+- Approval to open a new Personal Ledger Account (PLA) for the Loknete Shamrao Peje Government Engineering College, Ratnagiri.\
+  [202606191548533308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191548533308.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

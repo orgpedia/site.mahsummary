@@ -13,6 +13,9 @@
 - Regarding financial approval for the expenditure incurred on organizing 33 various cultural festivals under the aegis of the Directorate of Cultural Affairs, Mumbai.\
   [202606161601272723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161601272723.pdf)
 
+- Regarding the grant of administrative approval for the creation of a series of guidebooks on museum management...\
+  [202606191506510923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191506510923.pdf)
+
 ## Miscellaneous
 - Regarding financial approval for the expenditure incurred on organizing the Tamasha and Dashavatar cultural festivals by the Directorate of Cultural Affairs, Mumbai.\
   [202606161603372923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161603372923.pdf)

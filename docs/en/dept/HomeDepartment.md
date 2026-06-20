@@ -28,6 +28,9 @@
 - Regarding the grant of administrative and financial approval to proposals sanctioned by the Road Safety Fund Control Committeeconstituted under the chairmanship of the Hon. Chief Secretaryfor expenditure to be incurred from the Road Safety Fund.\
   [202606181808493729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181808493729.pdf)
 
+- Regarding the payment of hire charges for the helicopter leased from M/s Pawan Hans Ltd., Mumbai.\
+  [202606191653350029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191653350029.pdf)
+
 ## Miscellaneous
 - Regarding the grant of administrative approval for the estimate for the construction of a connecting road to the Anjanvel Bhoiwadi jetty at Anjanvel.\
   [202606161738270729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161738270729.pdf)
@@ -59,6 +62,9 @@
 
 - Regarding transfers/ postings of officers of Deputy Superintendent of Police/ Assistant Commissioner of Police (PCIT).\
   [202606171210426929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171210426929.pdf)
+
+- Appointment to the post of Deputy Regional Transport Officer (Group A) by promotion.\
+  [202606191912085829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191912085829....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

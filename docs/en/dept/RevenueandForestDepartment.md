@@ -19,6 +19,9 @@
 - Van Mahotsav 2026-27 Regarding the fixation of sale rates for saplings to be distributed during the Van Mahotsav period.\
   [202606181846502019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181846502019.pdf)
 
+- Regarding the grant of administrative and financial approval for the establishment of a Disaster Data Validation and Modeling Cell within the Disaster Management Department...\
+  [202606191312267719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191312267719.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the Special Amnesty Scheme-2025 for the regularization of lease condition violations and conversion to freehold status for residential and commercial lands held by displaced Sindhi persons in the states notified areas (excluding Ulhasnagar, Thane district).\
   [202606161653141319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606161653141319.pdf)
@@ -37,6 +40,12 @@
 
 - Forest Land-Mumbai Sub-Urban Diversion of 0.2709 ha. (Mangrove) for construction of Vehicular Bridge behind Bhagat Singh Nagar across Goregaon Creek by Brihanmumbai Municipal Corporation in the State of Maharashtra.\
   [202606181755352719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181755352719.pdf)
+
+- Regarding the timely submission of proposals to the Government for the sanction of remuneration for handling additional charge.\
+  [202606191614475519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191614475519.pdf)
+
+- Policy regarding the leasing of government land for fodder or bamboo cultivation under the Rajmata Jijau Womens Empowerment Scheme...\
+  [202606191920514219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191920514219.pdf)
 
 ## Personnel
 - Regarding the extension of tenure for supernumerary posts created for Naib Tehsildars in the revenue field establishment who were appointed under the Scheduled Tribe category but failed to submit a caste validity certificate or submitted a different caste validity certificate.\
@@ -107,6 +116,12 @@
 
 - Regarding the regularization of ad-hoc promotions to the post of Naib Tehsildar in the Chhatrapati Sambhajinagar Division (Selection List for the year 2025-26)\
   [202606171310205719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171310205719.pdf)
+
+- Annual Plan 2026-27: Regarding the purchase of 17 new vehicles to replace 17 vehicles condemned by the office of the Principal Chief Conservator of Forests (Head of Forest Force), Maharashtra State, Nagpur, under the state-level scheme Strengthening of Mobile Squads (2406 2161).\
+  [202606191203000019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191203000019.pdf)
+
+- Regarding the posting of Indian Forest Service officers upon promotion or transfer.\
+  [202606191610160819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191610160819.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

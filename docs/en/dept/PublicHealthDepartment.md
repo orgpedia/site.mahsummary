@@ -19,6 +19,9 @@
 - Fund Release- Year 2026-27. Regarding release of funds Rs. 244,18,66,000/- for payment of claims of hospitals under Mahatma Jyotirao Phule Jan Arogya Yojana Budget Head 2210 K 542 (General) 31-Grant in Aids (Non-Salary).\
   [202606181030264517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181030264517.pdf)
 
+- Regarding the disbursement of the State share grant to the State Health Societysourced from the 2026-27 budgetary provision for the Tribal Sub-Plan under the National Rural Health Mission (part of the Centrally Sponsored National Health Mission)by reallocating funds from the original budget head (2210E455) to the newly received budget head (2210K562) designated for Grants-in-aid (General) - Grants in kind under the National Health Mission.\
+  [202606191452243117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191452243117.pdf)
+
 ## Miscellaneous
 - Regarding the grant of administrative approval for the procurement of food grains, groceries, food-related items, and daily utility goods for the States Regional Mental Hospitals located in Pune, Thane, Nagpur, and Ratnagiri.\
   [202606181456478417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181456478417.....pdf)

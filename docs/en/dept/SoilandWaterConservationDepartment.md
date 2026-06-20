@@ -13,6 +13,9 @@
 - Regarding the constitution of a committee at the government level for the Soil and Water Conservation Department to accept tenders valued at over Rs. 100 crore.\
   [202606171325232826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606171325232826.pdf)
 
+- Demand No. ZH-5, Budget Head 4702 A019: Percolation Tank at Mouje Kinkhed, Taluka Mantha, District Jalna (Land Acquisition Fund).\
+  [202606191714109026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606191714109026.pdf)
+
 ## Miscellaneous
 - Fund distribution under GDGS scheme.\
   [202606181742030126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606181742030126.pdf)
