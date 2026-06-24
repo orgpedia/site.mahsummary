@@ -1,0 +1,3609 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+        <title>Weekly Summary: Revenue and Forest Department </title>
+
+        <!-- CSS Link -->
+
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+  </head>
+
+  <body>
+        <header>
+            <div class="bg-black text-gray-50 h-[98px] flex top-0 items-center px-2 lg:px-4 py-2.5 border-b-[9px] border-blue-500 fixed z-50 w-full">
+                <div class="container w-full lg:max-w-[1024px] flex flex-wrap justify-between items-center mx-auto">
+                    <!-- Logo -->
+                    <a href="https://www.orgpedia.in/" class="flex items-center order-2 lg:order-1">
+                        <div class="w-[53px] h-[53px] bg-white flex justify-center items-center rounded-full mr-2.5">
+                            <p class="text-[30px] text-black w-[53px] h-[53px] text-center"><span class="text-blue-500">o</span>p</p>
+                        </div>
+                        <div class="text-[45px] text-white flex flex-col items-center justify-center">
+                            <img src="../../i/l-en.svg" class="w-32 xs:w-48 lg:w-full" alt="">
+                            <p class="text-xs xs:text-sm text-right -mb-3 lg:mb-0 -mr-9 xs:-mr-[70px] lg:-mr-20 xs:-mt-0.5">
+                                Weekly Summary: Maharastra GRs</p>
+                        </div>
+                    </a>
+
+                    <!--  Search Input -->
+                    <div class="lg:min-w-[450px] order-1 lg:order-2">
+                        <div class="hidden lg:block">
+                            <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xs whitespace-nowrap">Search</span>
+                                    <div class="relative search-container"> <!-- ignore -->
+				      <i class="fa fa-search"></i> <!-- ignore -->
+                                        <input type="search" id="search" name="q" autocomplete="off"
+                                            class="block h-[30px] lg:w-[450px] text-sm pl-4 text-gray-900 bg-white outline-none w-16"
+                                               placeholder="keywords" required="">
+                                        <div class="flex absolute inset-y-0 right-0.5 items-center pl-3 mr-1.5 pointer-events-none">
+                                            <svg aria-hidden="true" class="w-5 h-5 text-blue-500 dark:text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Toggle Menu Btn  -->
+                        <button id="mbo" type="button" class="inline-flex lg:hidden">
+			  <img src="../../i/b.svg" class="h-11 w-11">
+                        </button>
+                    </div>
+
+                    <!-- Language Select Input -->
+                    <div class="order-3 lg:order-3">
+                        <div class="hidden lg:block">
+                          <div class="flex items-center">
+				<select name="lang_menu" id="lang_menu" class="bg-black text-gray-50 text-sm rounded-r-lg outline-none" onchange="select_language()">
+                                  <!-- <option selected="ignore">Select Language</option> -->
+                                    <option value="en"selected>English</option>
+                                    <!-- <option value="as">অসমীয়া (Assamese)</option> -->
+                                    <!-- <option value="bn">বাংলা (Bangla)</option> -->
+                                    <!-- <option value="brx">बड़ो (Boro)</option> -->
+				    <!-- <option value="doi">डोगरी (Dogri)</option> -->
+				    <!-- <option value="gu">ગુજરાતી (Gujrati)</option> -->
+				    <!-- <option value="hi">हिन्दी (Hindi)</option> -->
+				    <!-- <option value="kn">ಕನ್ನಡ (Kannada)</option> -->
+				    <!-- <option value="ks">کوشور (Kashmiri)</option> -->
+				    <!-- <option value="gom">कोंकणी (Konkani)</option> -->
+				    <!-- <option value="mai">मैथिली (Maithili)</option> -->
+				    <!-- <option value="mni">ꯃꯩꯇꯩꯂꯣꯟ (Meitei)</option> -->
+				    <!-- <option value="ml">മലയാളം (M'lam)</option> -->
+				    <option value="mr">मराठी (Marathi)</option>
+				    <!-- <option value="ne">नेपाली (Nepali)</option> -->
+				    <!-- <option value="or">ଓଡ଼ିଆ (Odia)</option> -->
+				    <!-- <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option> -->
+  				    <!-- <option value="sa">संस्कृत (Sanskrit)</option> -->
+  				    <!-- <option value="sat">ᱥᱟᱱᱛᱟᱲᱤ (Santhali)</option> -->
+  				    <!-- <option value="sd">सिंधी (Sindhi)</option> -->
+  				    <!-- <option value="te">తెలుగు (Telgu)</option> -->
+  				    <!-- <option value="ta">தமிழ் (Tamil)</option> -->
+  				    <!-- <option value="ur">اُردُو (Urdu)</option> -->
+</select>
+                            </div>
+                        </div>
+
+                        <!-- Search box  -->
+                        <div>
+                          <span id="sb" class="lg:hidden">
+			    <img src="../../i/sw.svg" class="w-8 h-8">
+                            </span>
+
+                              <div id="sbt" class="duration-700 lg:hidden ease-in-out hidden"> <!-- ignore -->
+                                <span id="sbc" class="bg-black/50 h-screen w-screen z-40 absolute top-[98px] left-0"></span>
+                                <div class="font-sans absolute top-[98px] left-0 w-screen text-white flex items-center min-h-screen justify-center">
+                                    <div class="relative rounded overflow-hidden flex -mt-24 z-50">
+                                        <input type="search" id="mobileSearch" name="mq" autocomplete="off"
+                                            class="px-4 py-2 text-base outline-none text-center border-b-2 border-dashed border-t-0 border-l-0 border-r-0 focus:border-white border-white min-w-[300px] md:min-w-[400px] w-full bg-black/0"
+                                            placeholder="Search...">
+                                        <button class="absolute right-0 top-1 flex items-center justify-center">
+					  <img src="../../i/sw.svg" class="w-8 h-8">
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Container -->
+    <div class="flex p-5 gap-5 pt-[120px] max-w-7xl container mx-auto">
+
+          <!-- Side Navigation Menu -->
+            <div id="mb" class="min-w-[300px] lg:min-w-[170px] max-w-[170px] fixed h-screen top-0 left-0 lg:top-auto lg:left-auto z-50 w-full ease-in lg:ease-linear duration-200 -translate-x-full lg:-translate-x-0"> <!-- ignore -2 -->
+                <div class="container fixed">
+                    <nav class="h-screen shadow-md bg-gray-200 px-1 z-40">
+                      <div class="flex justify-end w-full py-4 px-2 lg:hidden">
+                        <button id="mbc" type="button" class="inline-flex w-10 h-10 justify-center items-center bg-white hover:bg-slate-100 rounded-md">
+			  <img src="../i/c.svg" class="w-9 h-9">
+                        </button>
+                      </div>
+                      <ul class="p-4 pl-5 text-sm text-blue-500">
+                        <li class="mb-3.5 text-black">
+                          Latest Summary
+                        </li>			  
+			<ul>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dept/summary.html">
+                              Department-wise
+                            </a>
+                          </li>
+                          <li class="mb-3.5 ml-3">
+			    <a href="../dist/summary.html">
+                              District-wise
+                            </a>
+                          </li>
+			</ul>
+                        <li class="mb-3.5">
+                          <a href="../archive.html">Archives</a>			  			  
+                        </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--      -->
+                        <!--   </a> -->
+                        <!-- </li> -->
+                        <li class="mb-3.5 lg:hidden">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
+			    Disclaimer
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+          <main class="w-full lg:max-w-[918px] lg:ml-[190px] min-h-screen">
+	      <section class="search-results hidden"> <!-- ignore -->
+                <div class="sm:container mx-auto">
+                  <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+		    <div class="flex items-center justify-start gap-2.5">
+                        <span class="cursor-pointer">Home</span>
+                        <span>
+			  <img src="../../i/bc.svg" class="w-5 h-5">
+                        </span>
+                        <span class="font-bold text-black"> Search</span>
+		    </div>
+		     <button id="clear-search-results" class="bg-blue-500 text-white py-2.5 px-5 text-xs">Clear Search</button>
+                    </div>
+                  <div class="w-full bg-gray-200 p-3 sm:p-6">
+		    <div class="mb-4">
+		      <p id="query" class="text-lg text-black font-bold"></p>
+		    </div>
+                    <div id="search-cells" class="border bg-white p-3 my-5 text-base"></div>
+		  </div>
+		</div>
+	      </section>	    
+                <section class="primary">
+                  <div class="sm:container mx-auto">
+		    <div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
+  <a href="../index.html">
+    <span class="cursor-pointer">Home</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+  <a href="2026-W26-summary.html">
+    <span class="cursor-pointer">Weekly Summary: Department-wise</span>
+  </a>
+  <span>
+    <img src="../../i/bc.svg" class="w-5 h-5">
+  </span>
+      <span class="font-bold text-black">Week 26</span>
+
+
+
+  </div>
+    <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('Revenue and Forest Department', 26)">Subscribe</button>
+</div>
+
+
+		    
+		    <!-- Department Summary -->
+                    <div class="w-full bg-gray-200 p-3 sm:p-6">
+		      <div class="mb-4">
+			<h2 class="text-blue-500 font-bold text-xl md:text-2xl">Weekly Summary: Revenue and Forest Department</h2>
+			<span class="text-blue-500">
+			  Week 26: (29 June 2026 - 04 July 2026)
+			</span>
+		      </div>
+		      
+                      <div class="border bg-white p-3 my-5 text-base">		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Funds </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the grant of administrative and financial approval for a media framework aimed at raising public awareness about the measures and policies implemented by the government to respond to natural and man-made disasters.</h4>
+			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Funds:</span> Rs.5 crore
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Pune, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221745077919....pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221745077919.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221745077919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221745077919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Personnel </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222145440519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222145440519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222145440519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222145440519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222132555619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222132555619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222132555619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222132555619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Palghar, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222215414119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222215414119.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222215414119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222215414119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalna, Mumbai, Palghar, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222053295619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222053295619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222053295619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222053295619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Bhandara, Chandrapur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222031230919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222031230919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222031230919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222031230919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222214235019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222214235019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222214235019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222214235019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Palghar, Pune, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222047539719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222047539719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222047539719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222047539719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222131356419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222131356419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222131356419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222131356419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222207244219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222207244219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222207244219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222207244219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222218112919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222218112919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222218112919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222218112919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221950042419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221950042419.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221950042419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221950042419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222216539719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222216539719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222216539719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222216539719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222025352819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222025352819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222025352819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222025352819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Jalgaon, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222245042519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222245042519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222245042519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222245042519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Dhule, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222019172619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222019172619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222019172619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222019172619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222015407919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222015407919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222015407919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222015407919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai, Parbhani, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222236023919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222236023919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222236023919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222236023919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222118350819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222118350819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222118350819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222118350819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222017122819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222017122819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222017122819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222017122819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222119502519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222119502519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222119502519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222119502519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Sangli, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222148352819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222148352819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222148352819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222148352819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222212329219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222212329219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222212329219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222212329219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222014008819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222014008819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222014008819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222014008819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222032367319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222032367319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222032367319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222032367319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Jalgaon, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222154187319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222154187319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222154187319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222154187319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Washim, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222237240619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222237240619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222237240619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222237240619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221944310719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221944310719.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221944310719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221944310719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Parbhani, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222129084019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222129084019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222129084019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222129084019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221928405919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221928405919.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221928405919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221928405919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Bhandara, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222226321819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222226321819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222226321819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222226321819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Satara, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222115164519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222115164519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222115164519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222115164519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Beed, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222012421419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222012421419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222012421419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222012421419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222227470119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222227470119.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222227470119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222227470119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222008362319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222008362319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222008362319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222008362319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Jalgaon, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222112382719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222112382719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222112382719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222112382719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221954299619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221954299619.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221954299619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221954299619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222005395819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222005395819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222005395819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222005395819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222157023919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222157023919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222157023919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222157023919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Hingoli, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221951275919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221951275919.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221951275919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221951275919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Sangli, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222158255819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222158255819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222158255819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222158255819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222231368319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222231368319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222231368319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222231368319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222225191919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222225191919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222225191919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222225191919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Mumbai, Nanded, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222035047519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222035047519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222035047519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222035047519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Sangli, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222108464219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222108464219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222108464219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222108464219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222238411119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222238411119.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222238411119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222238411119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222011229019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222011229019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222011229019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222011229019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222030097919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222030097919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222030097919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222030097919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai, Pune, Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222243447019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222243447019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222243447019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222243447019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222210071219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222210071219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222210071219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222210071219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222143584419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222143584419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222143584419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222143584419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222123515319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222123515319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222123515319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222123515319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Palghar, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222052003219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222052003219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222052003219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222052003219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Raigad, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222027031119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222027031119.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222027031119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222027031119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222211225419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222211225419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222211225419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222211225419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222125122619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222125122619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222125122619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222125122619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai, Pune, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222138518219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222138518219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222138518219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222138518219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222232564419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222232564419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222232564419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222232564419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Dhule, Pune, Raigad
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222147110619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222147110619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222147110619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222147110619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gondia, Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222224054919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222224054919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222224054919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222224054919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Bhandara, Mumbai, Pune, Wardha
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222023583519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222023583519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222023583519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222023583519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Hingoli, Mumbai, Pune, Solapur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222130239619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222130239619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222130239619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222130239619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gadchiroli, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222114036919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222114036919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222114036919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222114036919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222208435719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222208435719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222208435719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222208435719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Pune, Yavatmal
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222141290319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222141290319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222141290319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222141290319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Mumbai, Parbhani, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221943150419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221943150419.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221943150419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221943150419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222050422319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222050422319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222050422319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222050422319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Sindhudurg
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222110546619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222110546619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222110546619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222110546619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221938138619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221938138619.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221938138619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221938138619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the demarcation of boundaries and other related actions concerning 15 villages in Jivati Taluka, Chandrapur District.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Mumbai, Nagpur, Nanded
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222059395319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222059395319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222059395319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222059395319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221926595719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221926595719.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221926595719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221926595719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222007027219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222007027219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222007027219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222007027219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222247318519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222247318519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222247318519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222247318519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Latur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222021124919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222021124919.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222021124919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222021124919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Bhandara, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222134126719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222134126719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222134126719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222134126719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Akola, Mumbai, Pune, Thane
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222151135619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222151135619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222151135619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222151135619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nandurbar, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222127534719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222127534719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222127534719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222127534719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Beed, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222126312519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222126312519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222126312519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222126312519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur, Pune, Wardha
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222221064819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222221064819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222221064819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222221064819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221953127119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221953127119.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221953127119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221953127119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Buldhana, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222246206119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222246206119.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222246206119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222246206119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222155456519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222155456519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222155456519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222155456519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Satara
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221913351219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221913351219.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221913351219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221913351219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gondia, Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221930055219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221930055219.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221930055219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221930055219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222137028819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222137028819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222137028819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222137028819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222230199519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222230199519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222230199519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222230199519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222009575419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222009575419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222009575419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222009575419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221947260019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221947260019.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221947260019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221947260019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222222432819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222222432819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222222432819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222222432819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalna, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222022401019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222022401019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222022401019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222022401019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222152562719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222152562719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222152562719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222152562719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune, Ratnagiri
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222242373219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222242373219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222242373219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222242373219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Amravati, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221925259319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221925259319.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221925259319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221925259319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nandurbar, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222240071119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222240071119.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222240071119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222240071119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222122351619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222122351619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222122351619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222122351619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221919238519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221919238519.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221919238519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221919238519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Jalgaon, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222028429419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222028429419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222028429419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222028429419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221911167419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221911167419.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221911167419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221911167419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222135419719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222135419719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222135419719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222135419719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222241225719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222241225719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222241225719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222241225719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Pune, Wardha
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222142401019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222142401019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222142401019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222142401019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Sindhudurg
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222149592719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222149592719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222149592719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222149592719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222228589819.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222228589819.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222228589819.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222228589819.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222121058019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222121058019.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222121058019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222121058019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222056191319.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222056191319.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222056191319.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222056191319.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222054558419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222054558419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222054558419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222054558419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Kolhapur, Pune, Sangli
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222205576419.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222205576419.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222205576419.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222205576419.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nanded, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222003580219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222003580219.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222003580219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222003580219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nanded, Nashik, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221939586019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221939586019.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221939586019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221939586019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nagpur, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221931563019.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221931563019.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221931563019.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221931563019.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gadchiroli, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221945463919.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221945463919.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221945463919.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221945463919.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Chandrapur, Mumbai, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221941434119.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221941434119.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221941434119.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221941434119.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Pune, Sindhudurg
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222140081719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222140081719.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222140081719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222140081719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai, Nanded, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222116359519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222116359519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222116359519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222116359519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Gondia, Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221948407719.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221948407719.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221948407719.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221948407719.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222002317619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222002317619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222002317619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222002317619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <span class="block h-[1px] w-full mt-5 bg-[#B6B6B6]"></span>
+		      
+		      <h2 class="text-base font-semibold text-black ml-2 mb-4 mt-4">Miscellaneous </h2>
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the disbursement of funds for the salaries and allowances of officers and staff of the Special Tiger Protection Force for the year 2026-27.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Nagpur
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221248045219.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606221248045219.pdf">202606221....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221248045219.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606221248045219.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the revision and simplification of measurement fee rates and categories.</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Pune
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222103421619.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222103421619.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222103421619.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222103421619.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+                      <div class="m-2 mb-5 flex flex-col md:flex-row w-full">
+			<div class="md:w-3/4 w-full p-2" > 
+			  <h4 class="">Regarding the approval to include the Public Works Department as the implementing agency for the Chief Ministers Baliraja Farm/Access Road Scheme...</h4>
+			  <div class="text-gray-500 text-sm">
+
+			    
+			    <span class="font-semibold">Districts:</span> Mumbai
+			    
+			  </div>
+			</div>
+			<div class="w-full p-2 pb-2 md:w-1/4">
+			  <div class="flex flex-row">
+			    <div class="px-2">
+			      <a target="_blank" href="https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222106278519.pdf"><img class="mt-4 scale-200" src="../../i/pdf-large.svg"></a>
+			    </div>
+			    <div class="px-2">
+				<span title="202606222106278519.pdf">202606222....pdf</span>
+				<div class="text-gray-500 text-sm flex flex-row md:flex-col">
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222106278519.pdf.en.txt">English</a></div>
+				  <!-- <div class="mr-2">Pages: 3</div> -->
+				  <div class="mr-2">Text: <a class="text-blue-500" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/Revenue_and_Forest_Department/202606222106278519.pdf.mr.txt">Marathi</a></div>
+				  <div>Date: 22 Jun 2026</div>
+				</div>
+			    </div>
+			  </div>
+			</div>
+			</div>
+
+		      
+			</div>			
+                    </div>
+		    <!-- Department end -->
+                  </div>
+                </section>
+          </main>
+        </div>
+        <footer>
+          <div class="bg-gray-200 p-5 z-50 relative hidden lg:block">
+	    <div class="container w-full lg:max-w-[1024px] mx-auto">
+                <div class="flex flex-row items-center gap-2.5 text-gray-500 text-sm">
+                    <img src="../../i/lf-en.svg" alt="">
+                    <div class="flex">
+                      <p class="xs:border-l xs:border-r border-gray-500 px-2.5 hover:underline">
+			<a href="https://www.orgpedia.in/disclaimer.html">Disclaimer</a>
+		      </p>
+
+                    </div>
+                    <div class="flex">
+                        <p class="xs:border-r border-gray-500 px-2.5 hover:underline"><a href="mailto:info@orgpedia.in?subject=Weekly Summary: Revenue and Forest Department">Report an Error</a></p>
+
+                    </div>
+                                <div onclick="location.href='https://github.com/orgpedia/mahsummary';" style="cursor: pointer;" class="flex xs:border-r border-gray-500 px-2.5">
+                                    <span class="border-gray-500 hover:underline"><a href="#">View on GitHub</a></span>
+                                    <span class="px-2.5">
+				      <img src="../../i/gh.svg">
+                                    </span>
+                                </div>
+
+
+
+                    <div class="flex gap-2" style="cursor: pointer;" onclick="location.href='https://creativecommons.org/licenses/by/4.0/'">
+                      <span><img src="../../i/cc-1.svg"></span>
+                      <span><img src="../../i/cc-2.svg"></span>
+                    </div>
+                </div>
+	    </div>
+          </div>
+
+	<script src="https://unpkg.com/lunr/lunr.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>	  
+	<script src="../../j/search.js"></script>
+	
+<!--	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4b28ac948b94411393435f9ff3e233ef"}'></script> -->
+        </footer>    </body>
+</html>
