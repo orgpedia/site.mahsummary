@@ -7,6 +7,22 @@
 - Regarding the sanctioning of insurance cover/ex-gratia assistance to the families of employees who died due to coronavirus infection while performing duties related to COVID-19. Late (Shri) Mirza Hussain Sirajuddin Pirjade, Assistant Teacher.\
   [202606221220088421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221220088421.pdf)
 
+- Regarding the disbursement of funds under the Rajiv Gandhi Student Accident Ex-gratia Grant Scheme.\
+  [202606231750012921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231750012921.pdf)
+
+## Miscellaneous
+- Regarding the discontinuation of the Youth Welfare Extension Programme in Rural Areas scheme (organizing social service camps and providing grants to organizations)...\
+  [202606231629160521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231629160521.pdf)
+
+- Regarding the grant of administrative approval for the establishment of a Sports Academy (Krida Prabodhini) for the sport of Archery at the Taluka Sports Complex, Ballarpur (Visapur), District Chandrapur.\
+  [202606231509422321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231509422321.pdf)
+
+- Regarding the approval to participate in the Sports, Fitness, and Infrastructure Expo organized by the Times of India Group in New Delhi from July 30 to August 1, 2026.\
+  [202606231503064821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231503064821.pdf)
+
+- Regarding the payment of expenses incurred for the functioning of the One-Member Committeeconstituted pursuant to the order of the Honble High Court, Mumbai, in Writ Petition No. 1294/2018 (Smt. Jayshree Shivaji Jakate  Others vs. State of Maharashtra  Others) and connected petitionsand the payment of honorarium to the Honble Member.\
+  [202606231236082821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231236082821.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2026. Distribution of grant for the year 2026-2027\
   [202606221747230721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221747230721.pdf)

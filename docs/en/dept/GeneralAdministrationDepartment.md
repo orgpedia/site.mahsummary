@@ -7,9 +7,21 @@
 - Regarding the grant of administrative approval to depute Group-A and Group-B officers belonging to the Information Cadre of the Directorate General of Information and Public Relations to the Indian Institute of Mass Communication (IIMC), New Delhi, for training on the subject of Government Public Relations.\
   [202606221209289007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221209289007....pdf)
 
+- Scheme for honoring/duly recognizing individuals who endured imprisonment during the Emergency period... Regarding the disbursement of funds for the period from May 2026 to August 2026...\
+  [202606231222011207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231222011207.pdf)
+
 ## Miscellaneous
 - Post-promotion training for the ministerial stenographer cadre under the State Training Policy.\
   [202606221647172807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221647172807.pdf)
+
+- Regarding appointment as District Guardian Secretary.\
+  [202606231140262807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231140262807.pdf)
+
+- Regarding the cancellation of the appointment From Assistant Section officer (Main) Exam 2024.\
+  [202606231745581407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231745581407.pdf)
+
+- Final seniority list of Group-D employees on the establishment of the Mantralaya canteen/cafeteria as of 1st January 2026.\
+  [202606231608119807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231608119807.pdf)
 
 ## Personnel
 - Transfers of Assistant Section Officers\

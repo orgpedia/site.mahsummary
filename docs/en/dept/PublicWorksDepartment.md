@@ -10,5 +10,8 @@
 - Promotion and posting from the lower cadre of Superintending Engineer (Civil) to the higher cadre of Chief Engineer (Civil).\
   [202606221802575618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221802575618.pdf)
 
+- Transfer/Posting of an officer in the Executive Engineer (Civil) cadre.\
+  [202606231625248218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231625248218.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

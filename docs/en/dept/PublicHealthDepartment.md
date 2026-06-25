@@ -7,5 +7,9 @@
 - Regarding the grant of administrative approval for the procurement of spectacles through a tender process, for free distribution to school children to address vision defects during the 2026-27 financial year.\
   [202606221515109217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221515109217.pdf)
 
+## Miscellaneous
+- Regarding the disbursement of the State Governments share of the grant-in-aid to Nowrosjee Wadia Maternity Hospital, Parel, Mumbai, to cover expenses for salaries, allowances, and medicines.\
+  [202606231027294817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231027294817.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

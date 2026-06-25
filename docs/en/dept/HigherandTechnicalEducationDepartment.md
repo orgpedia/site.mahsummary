@@ -31,5 +31,9 @@
 - Regarding approval for starting new Engineering Diploma courses in the existing institution, increase in admission capacity of the existing courses etc. as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2026-27. (SWVSMS TATYASAHEB KORE INSTITUTE OF ENGINEERING AND TECHNOLOGY)\
   [202606221510271408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221510271408.pdf)
 
+## Personnel
+- Regarding reinstatement in government service and posting... Shri Kishor Lala Meshram, Head of Department (Metallurgy), Government Polytechnic; Maharashtra Polytechnic Teachers Service, Group-A.\
+  [202606231712405508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231712405508.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

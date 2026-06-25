@@ -7,6 +7,9 @@
 - Regarding the grant of administrative and financial approval for a media framework aimed at raising public awareness about the measures and policies implemented by the government to respond to natural and man-made disasters.\
   [202606221745077919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221745077919....pdf)
 
+- Regarding the grant of administrative approval for the construction of a new building for the offices of the Joint District Registrar (Class-1)  District Collector of Stamps, Gadchiroli, and the Joint Sub-Registrar (Class-2), Gadchiroli (District Gadchiroli).\
+  [202606231543260319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231543260319.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds for the salaries and allowances of officers and staff of the Special Tiger Protection Force for the year 2026-27.\
   [202606221248045219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221248045219.pdf)
@@ -16,6 +19,9 @@
 
 - Regarding the approval to include the Public Works Department as the implementing agency for the Chief Ministers Baliraja Farm/Access Road Scheme...\
   [202606222106278519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222106278519.pdf)
+
+- Regarding the determination of funding limits for granting administrative approvalon an Assembly constituency-wise basisfor the Chief Ministers Baliraja Farm/Farm Access Road Scheme.\
+  [202606231549439819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231549439819.pdf)
 
 ## Personnel
 - Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...\
@@ -362,6 +368,63 @@
 
 - Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...\
   [202606222002317619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222002317619.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231213274819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231213274819.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231204202519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231204202519.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231321003419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231321003419.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231210410919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231210410919.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231319257219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231319257219.pdf)
+
+- Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...\
+  [202606231552480119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231552480119.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231209069619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231209069619.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231318190119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231318190119.pdf)
+
+- Regarding the transfer and posting of officers in the Additional District Collector cadre.\
+  [202606231753572319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231753572319.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231212094519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231212094519.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231202228519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231202228519.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231316523119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231316523119.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231323545219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231323545219.pdf)
+
+- Regarding the transfer and posting of officers in the Additional District Collector cadre.\
+  [202606231843038819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231843038819.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231207238019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231207238019.pdf)
+
+- Regarding transfers in the cadre of Deputy Director, Land Records...\
+  [202606231551005019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231551005019.pdf)
+
+- Regarding transfers in the cadre of Deputy Director, Land Records...\
+  [202606231549132319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231549132319.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231322454719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231322454719.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606231206157719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231206157719....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
