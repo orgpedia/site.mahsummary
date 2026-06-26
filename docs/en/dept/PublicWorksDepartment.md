@@ -13,5 +13,8 @@
 - Transfer/Posting of an officer in the Executive Engineer (Civil) cadre.\
   [202606231625248218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231625248218.pdf)
 
+- Regarding the revision of the final seniority lists for the cadre of Deputy Engineer (Electrical)  Diploma Holders in the Public Works Department as of 01/01/2020, 01/01/2021, 01/01/2022, 01/01/2023, 01/01/2024, 01/01/2025, and 01/01/2026.\
+  [202606241754140418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241754140418.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

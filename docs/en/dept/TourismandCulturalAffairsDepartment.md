@@ -10,6 +10,18 @@
 - Regarding the grant of financial approval for expenses related to organizing cultural programs for the Vengurla Municipal Council on the occasion of its post-centenary golden jubilee year.\
   [202606231053546623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231053546623.pdf)
 
+- Regarding the grant of financial approval for expenses related to organizing various cultural programs, tableaux processions, and the reception of Palkhis (processional palanquins) on the occasion of Ashadhi Ekadashi.\
+  [202606241802442223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241802442223.pdf)
+
+- Financial approval for the expenditure on the organization of Chitrarath Sanchalan at Shivaji Park, Dadar, Mumbai on Republic Day\
+  [202606241803592523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241803592523.pdf)
+
+- Regarding financial approval for the expenses of organizing the play Triveni.\
+  [202606241806547423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241806547423.pdf)
+
+- Regarding the grant of financial approval for expenses related to the organization of a Marathi play based on the life of Dr. Syama Prasad Mukherjee.\
+  [202606241808120123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241808120123.pdf)
+
 ## Miscellaneous
 - Regarding the grant of administrative approval to procure the services of two personnel through an external agencyin accordance with the revised staffing pattern of the Exhibition Department, Mumbaifor the 11-month period from July 1, 2026, to May 31, 2027.\
   [202606221659481223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221659481223.pdf)
@@ -28,6 +40,9 @@
 
 - Regarding financial approval for the expenditure on organizing cultural programs on the occasion of Lord Gautam Buddhas birth anniversary.\
   [202606231102242323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231102242323.pdf)
+
+- Financial approval for the expenditure on Chitrarath Sanchalan in Delhi on Republic Day\
+  [202606241805240823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241805240823.pdf)
 
 ## Personnel
 - Regarding the approval of expenditure for the scientific packing of art objects, books, and manuscripts at the Shri Bhavani Art Museum and Library, Aundh, Satara...\

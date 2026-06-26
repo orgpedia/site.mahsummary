@@ -23,6 +23,15 @@
 - Regarding the payment of expenses incurred for the functioning of the One-Member Committeeconstituted pursuant to the order of the Honble High Court, Mumbai, in Writ Petition No. 1294/2018 (Smt. Jayshree Shivaji Jakate  Others vs. State of Maharashtra  Others) and connected petitionsand the payment of honorarium to the Honble Member.\
   [202606231236082821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231236082821.pdf)
 
+- Regarding the grant of administrative and financial approval for incurring expenditure under the New India Literacy Programme from the approved allocation for the year 2026-27. (Scheduled Tribe Component) (Central and State Share)\
+  [202606241540366221.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241540366221.pdf)
+
+- Regarding the grant of administrative and financial approval for incurring expenditure under the New India Literacy Programme from the approved allocation for the year 2026-27. (Scheduled Caste Component) (Central and State Share)\
+  [202606241547127721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241547127721.pdf)
+
+- Regarding the grant of administrative and financial approval for incurring expenditure under the New India Literacy Programme from the approved allocation for the year 2026-27. (General Component) (Central and State Share)\
+  [202606241545201321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241545201321.pdf)
+
 ## Personnel
 - Maharashtra Appropriation Act, 2026. Distribution of grant for the year 2026-2027\
   [202606221747230721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221747230721.pdf)

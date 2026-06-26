@@ -14,6 +14,9 @@
 - Regarding the constitution of a Cabinet Sub-Committee of the Textile Department for conducting a detailed examination of proposals received from cooperative spinning mills for government financial assistance, granting approval to such proposals, and carrying out re-evaluation of spinning mill projects Cost.\
   [202606231302307802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231302307802.pdf)
 
+- Regarding the approval to establish a new District Sericulture Office at Jalgaon and to procure manpower through an external agency, within the limit of 8 regular posts and 2 additional posts.\
+  [202606241737552902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241737552902.pdf)
+
 ## Personnel
 - Creation of a new accounting head for the implementation of the Punyashlok Ahilyadevi Holkar Farmers Loan Waiver Scheme, 2026.\
   [202606222039510702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606222039510702.pdf)

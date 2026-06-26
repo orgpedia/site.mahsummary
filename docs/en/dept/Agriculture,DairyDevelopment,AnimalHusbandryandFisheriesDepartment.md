@@ -7,6 +7,9 @@
 - Regarding the grant of administrative and financial approval for the budgetary provision sanctioned for prizes to farmers winning agricultural awards and crop competitions.\
   [202606221811469201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221811469201.pdf)
 
+- Regarding the disbursement of funds for the year 2026-27 for the implementation of the Hon. Balasaheb Thackeray Haridra (Turmeric) Research and Training Centre in Hingoli district. (2401 B446)\
+  [202606241601293001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241601293001.pdf)
+
 ## Miscellaneous
 - International study tour to France by Dr. Ramaswamy N., Secretary (Fisheries), proposed by the Department of Fisheries (AFD), Government of India, from June 29, 2026, to July 3, 2026.\
   [202606221322160901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221322160901.pdf)

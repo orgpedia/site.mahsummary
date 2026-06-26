@@ -13,6 +13,10 @@
 - First Revised Administrative Approval to Renovation work of Panderi Kharland Scheme, between Ch.(-) 90 m to 2285 m  Construction of CD Work  Ch.2285 m Tal. Mandangad , Dist- Ratnagiri\
   [202606231636491527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231636491527.pdf)
 
+## Miscellaneous
+- Regarding cancellation of approval given to the panel of human resource service providers to outsource work...\
+  [202606241727311827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241727311827.pdf)
+
 ## Personnel
 - Revised policy for restoring water storage by removing silt and silty sand from the reservoirs of seven major irrigation projects in the state on a pilot basis.\
   [202606221150368527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221150368527.pdf)

@@ -16,5 +16,11 @@
 - Administrative approval for the purchase of machinery and equipment to Dr Vaisampayan Smruti Government Medical College, Solapur\
   [202606231114168113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231114168113.pdf)
 
+- Regarding the grant of administrative and financial approval for hiring vehicles on a rental basis for Government Medical Colleges under the DMER.\
+  [202606241143528113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241143528113.pdf)
+
+- Regarding the grant of administrative approval to the estimated cost proposal for the installation of an oxygen pipeline for various hospital departments and buildings at Vilasrao Deshmukh Government Medical College, Latur.\
+  [202606241143550913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241143550913.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

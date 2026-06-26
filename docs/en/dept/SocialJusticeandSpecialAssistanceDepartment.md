@@ -13,5 +13,12 @@
 - Regarding the sanction of a managerial grant (36-Grants-in-Aid  Salaries) to the Sant Rohidas Leather Industries and Charmakar Development Corporation Ltd., Mumbai, for the financial year 2026-27.\
   [202606231602069122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231602069122.pdf)
 
+- Regarding the sanction of financial assistance under the scheme for providing financial aid to Scheduled Caste cooperative societies... Rajarshi Shahu Maharaj Backward Class Industrial Producers Cooperative Society, Nipani Takli, Taluka Majalgaon, District Beed.\
+  [202606241857136522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241857136522.pdf)
+
+## Miscellaneous
+- Regarding the writing of confidential reports of government officers...\
+  [202606241724594522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241724594522.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

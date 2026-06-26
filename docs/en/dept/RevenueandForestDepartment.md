@@ -10,6 +10,12 @@
 - Regarding the grant of administrative approval for the construction of a new building for the offices of the Joint District Registrar (Class-1)  District Collector of Stamps, Gadchiroli, and the Joint Sub-Registrar (Class-2), Gadchiroli (District Gadchiroli).\
   [202606231543260319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231543260319.pdf)
 
+- Regarding the grant of administrative approval for the estimate for the strengthening, electrification, and beautification of the Chief Stamp Office, Mumbai City District.\
+  [202606241632220519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241632220519.pdf)
+
+- Regarding the implementation of the judgments delivered by the Hon. Maharashtra Administrative Tribunal (Mumbai Bench at Aurangabad) on 20/04/2023 and the Hon. High Court (Aurangabad Bench) on 24/03/2025 in the case of Shri Natharao Ramarao Hodbe and 7 others; and concerning the creation of 8 supernumerary Forest Labourer posts effective from 01/06/2012 (in accordance with the provisions of the Government Resolution dated 16/10/2012) and the disbursement of Rs. 45,05,251/- towards the arrears of salary payable for the period from 01/06/2012 to 30/09/2025.\
+  [202606241813068019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241813068019.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds for the salaries and allowances of officers and staff of the Special Tiger Protection Force for the year 2026-27.\
   [202606221248045219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221248045219.pdf)
@@ -425,6 +431,15 @@
 
 - Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
   [202606231206157719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231206157719....pdf)
+
+- Regarding the assignment of additional charge of the post of District Superintendent of Land Records, Mumbai Suburban...\
+  [202606241307272019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241307272019.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606241626144419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241626144419.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606241624003319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241624003319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

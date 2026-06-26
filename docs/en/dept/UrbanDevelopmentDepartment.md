@@ -16,6 +16,19 @@
 - Regarding the approval of the Navi Mumbai Metro Line-2 (Pendhar to Navi Mumbai International Airport T-4) and Navi Mumbai Metro Line-1A (Belapur to Sagar Sangam) metro rail projects with a total project completion cost of Rs. 5,575.00 crore and their Detailed Project Reports.\
   [202606221707256225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221707256225.pdf)
 
+- Regarding the disbursement of funds under the scheme for Grant-in-aid to be provided to Municipal Councils due to the abolition of pilgrimage tax. An amount of Rs. 8.75 crore under the accounting head (3604 0147) for the year 2026-27.\
+  [202606241219156425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241219156425.pdf)
+
+- Regarding the disbursement of the remaining funds of Rs. 2.0625 croreout of the total Rs. 2.75 crore sanctioned under the Vaishishtyapurna (Special/Distinctive) schemeto the District Collector, Solapur. Pandharpur Municipal Council, Dist. Solapur (Government Resolution No. 75/Part-1/2025)\
+  [202606241245420325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241245420325.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 2.0250 crorerepresenting the next installment of the total Rs. 2.70 crore sanctioned under the Special Road Grant scheme (Budget Head 3054 0022)to the District Collector, Solapur. Pandharpur Municipal Council, Dist. Solapur (Government Resolution No. 75/2025)\
+  [202606241241248725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241241248725.pdf)
+
+## Miscellaneous
+- Regarding the suspension of Resolution No. 137 passed at the General Body Meeting of the Nagpur Municipal Corporation on July 22, 2021.\
+  [202606241818320125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241818320125.pdf)
+
 ## Personnel
 - Regarding the approval for the implementation of the elevated creek bridge from Bhayandar to Fountain Hotel Junction and the tunnel from Fountain Hotel Junction to Gaimukh on a Public-Private Partnership basis, under the Build, Operate, and Transfer (BOT) model.\
   [202606221710416625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221710416625.pdf)
