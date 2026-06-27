@@ -16,6 +16,12 @@
 - Regarding the implementation of the judgments delivered by the Hon. Maharashtra Administrative Tribunal (Mumbai Bench at Aurangabad) on 20/04/2023 and the Hon. High Court (Aurangabad Bench) on 24/03/2025 in the case of Shri Natharao Ramarao Hodbe and 7 others; and concerning the creation of 8 supernumerary Forest Labourer posts effective from 01/06/2012 (in accordance with the provisions of the Government Resolution dated 16/10/2012) and the disbursement of Rs. 45,05,251/- towards the arrears of salary payable for the period from 01/06/2012 to 30/09/2025.\
   [202606241813068019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241813068019.pdf)
 
+- Regarding the provision of assistance to farmers affected by unseasonal rain... (April 2026)\
+  [202606251657037219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251657037219.pdf)
+
+- Regarding the provision of assistance to farmers affected by unseasonal rain... (March 2026)\
+  [202606251650570719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251650570719.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds for the salaries and allowances of officers and staff of the Special Tiger Protection Force for the year 2026-27.\
   [202606221248045219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221248045219.pdf)
@@ -28,6 +34,9 @@
 
 - Regarding the determination of funding limits for granting administrative approvalon an Assembly constituency-wise basisfor the Chief Ministers Baliraja Farm/Farm Access Road Scheme.\
   [202606231549439819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231549439819.pdf)
+
+- Corrigendum regarding the regularization of residential encroachments on government land existing as of 01.01.2011, in accordance with the provisions of the Maharashtra Land Revenue Code, 1966.\
+  [202606251200176519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251200176519....pdf)
 
 ## Personnel
 - Regarding transfers in the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...\
@@ -440,6 +449,48 @@
 
 - Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
   [202606241624003319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241624003319.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606251851448219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251851448219.pdf)
+
+- Final seniority list of the Administrative Officer, Group-A (Gazetted) cadre, showing the position as of 01.01.2026.\
+  [202606251610305419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251610305419.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606251850188919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251850188919.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606251854336419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251854336419.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606251855532619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251855532619.pdf)
+
+- Final seniority list of the Personal Assistant, Group-A (Gazetted) cadre, showing the position as of 01.01.2026.\
+  [202606251608163519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251608163519.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606251847597019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251847597019.pdf)
+
+- Regarding the promotion and postingon a purely temporary basisof eligible officers from the Deputy Collector (Selection Grade) cadre to vacant posts in the Additional Collector cadre under the regular promotion quota, as per the selection list for the year 2025-2026 (supplementary selection list)...\
+  [202606251843522719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251843522719....pdf)
+
+- Regarding the provision of assistance to farmers affected by severe cold / unseasonal rain... (October 2025 to April 2026)\
+  [202606251716187019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251716187019.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre via transfer.\
+  [202606251853047419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251853047419.pdf)
+
+- Regarding the provision of assistance to farmers affected by unseasonal rain... (April 2026 and May 2026)\
+  [202606251700086719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251700086719.pdf)
+
+- Regarding the posting of officers belonging to the Deputy Collector cadre upon transfer.\
+  [202606251439410819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251439410819.pdf)
+
+- Final seniority list of the Senior Personal Assistant (Group-A, Gazetted) cadre as of 01.01.2026.\
+  [202606251606473919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251606473919.pdf)
+
+- Regarding the provision of assistance to farmers affected by unseasonal rain... (April 2026 and May 2026)\
+  [202606251654241319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251654241319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,12 @@
 - Regarding the disbursement of funds under the Rajiv Gandhi Student Accident Ex-gratia Grant Scheme.\
   [202606231750012921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231750012921.pdf)
 
+- Regarding the distribution of funds for the National Cadet Corps (NCC) office for the financial year 2026-27 to cover: (1) Refreshment, washing, and polishing allowances; (2) Various training programs and camps; and (3) Printing of question papers. (2204-0016) 21 - Materials and Supplies (Camps and Courses)\
+  [202606251447530821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251447530821.pdf)
+
+- Regarding the sanctioning of insurance cover/ex-gratia assistance to the families of employees who died due to coronavirus infection while performing duties related to COVID-19. Late (Shri) Surendra Tukaram Mahale, Assistant Teacher.\
+  [202606251545145321.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251545145321.pdf)
+
 ## Miscellaneous
 - Regarding the discontinuation of the Youth Welfare Extension Programme in Rural Areas scheme (organizing social service camps and providing grants to organizations)...\
   [202606231629160521.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231629160521.pdf)
@@ -35,6 +41,9 @@
 ## Personnel
 - Maharashtra Appropriation Act, 2026. Distribution of grant for the year 2026-2027\
   [202606221747230721.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221747230721.pdf)
+
+- Regarding the creation of a supernumerary post in accordance with the provisions of Section 20(4) of the Rights of Persons with Disabilities Act, 2016.\
+  [202606251637408121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251637408121.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

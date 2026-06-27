@@ -16,5 +16,8 @@
 - Regarding the revision of the final seniority lists for the cadre of Deputy Engineer (Electrical)  Diploma Holders in the Public Works Department as of 01/01/2020, 01/01/2021, 01/01/2022, 01/01/2023, 01/01/2024, 01/01/2025, and 01/01/2026.\
   [202606241754140418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241754140418.pdf)
 
+- Guidelines Regarding The Granting Of Rights To Erect Private Advertisement Boards On Various Categories Of Roads, Within The Premises Of Government Buildings, On The Roofs Of Government Buildings, And Within The Right Of Way (Row) Of Various Categories Of Roads Under The Jurisdiction Of The Public Works Department.\
+  [202606251203162318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251203162318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,9 @@
 - Regarding the disbursement of funds for the year 2026-27 for the implementation of the Hon. Balasaheb Thackeray Haridra (Turmeric) Research and Training Centre in Hingoli district. (2401 B446)\
   [202606241601293001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241601293001.pdf)
 
+- Regarding the payment of compensation and arrears to daily wage laborers as per the judgment dated 03.03.2025 in Revision ULP Application No. 55/2015 filed before the Honble Industrial Court, Chhatrapati Sambhajinagar.\
+  [202606251153053101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251153053101.pdf)
+
 ## Miscellaneous
 - International study tour to France by Dr. Ramaswamy N., Secretary (Fisheries), proposed by the Department of Fisheries (AFD), Government of India, from June 29, 2026, to July 3, 2026.\
   [202606221322160901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221322160901.pdf)

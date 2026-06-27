@@ -121,6 +121,33 @@
 - Regarding Government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhifor the introduction of new courses, closure of existing courses, and increase or decrease in intake capacity at the undergraduate, postgraduate, or postgraduate diploma levels, starting from the academic year 2026-27, at the existing institute functioning under the Directorate of Technical Education... (SVPMs College of Commerce, Science and Computer Education, Malegaon (Bk.), Baramati, Dist. Pune)\
   [202606242016309208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606242016309208.pdf)
 
+- Regarding the grant of approval to start a separate division for working professionals in existing unaided institutes, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (RENAISSANCE POLYTECHNIC CHANDRAPUR)\
+  [202606251835486408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251835486408.pdf)
+
+- Regarding the grant of approval to start a separate division for working professionals in existing unaided institutions, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (Khandesh College Education Societys College of Engineering and Management, Jalgaon)\
+  [202606251831261908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251831261908.pdf)
+
+- Regarding the grant of approval to start a separate division for working professionals in existing unaided institutes, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (SAMARTH POLYTECHNIC)\
+  [202606251837531008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251837531008.pdf)
+
+- Regarding the grant of approval to start a separate division for working professionals in existing unaided institutes, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (SHATABDI INSTITUTE OF TECHNOLOGY)\
+  [202606251839389008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251839389008.pdf)
+
+- Regarding approval to start a separate division for working professionals in the existing unaided institution from the academic year 2026-27 as per the approval given by All India Council for Technical Education, New Delhi. (GURUKUL EDUCATION SOCIETYS INSTITUTE OF ENGINEERING  TECHNOLOGY\
+  [202606251829165108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251829165108.pdf)
+
+- Regarding Government approval to establish a new institute for professional courses starting from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (Gorakhnath Sasane Institute of Management Studies, Mohammadwadi, Pune)\
+  [202606251944459708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251944459708.pdf)
+
+- Regarding approval to start a separate division for working professionals in the existing unaided institutions from the academic year 2026-27 as per the approval given by All India Council for Technical Education, New Delhi. (SHRI BHAIRAVNATH NISARG MANDALS, DIPLOMA IN ENGINEERING AND TECHNOLOGY (POLYTECHNIC)\
+  [202606251841367508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251841367508.pdf)
+
+- Regarding the grant of approval to start a separate division for working professionals in existing unaided institutes, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi. (GURU SAI POLYTECHNIC)\
+  [202606251827023508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251827023508.pdf)
+
+- Regarding the grant of approvalin accordance with the sanction accorded by the All India Council for Technical Education (AICTE), New Delhito commence a separate division for working professionals in existing unaided institutes, effective from the academic year 2026-27. (Koti Vidya Charitable Trusts Alamuri Ratnamala Institute of Engineering and Technology)\
+  [202606251833124608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251833124608.pdf)
+
 ## Personnel
 - Regarding reinstatement in government service and posting... Shri Kishor Lala Meshram, Head of Department (Metallurgy), Government Polytechnic; Maharashtra Polytechnic Teachers Service, Group-A.\
   [202606231712405508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231712405508.pdf)

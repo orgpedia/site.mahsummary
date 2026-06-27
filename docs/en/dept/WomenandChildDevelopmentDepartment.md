@@ -7,6 +7,9 @@
 - Regarding the disbursement of funds under the Centrally Sponsored Scheme Mission Vatsalya for the year 2026-27.\
   [202606231621098130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231621098130.pdf)
 
+- Grant release for Lek Ladki Scheme\
+  [202606251538043730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251538043730.pdf)
+
 ## Miscellaneous
 - Regarding the assignment of independent charge of Group-A postssuch as Child Development Project Officer and equivalent positionsto the Probationary Officers of the Combined Probationary Training Programme-11 (CPTP-11).\
   [202606241818141530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241818141530.pdf)

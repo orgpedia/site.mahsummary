@@ -25,9 +25,27 @@
 - Regarding the disbursement of funds amounting to Rs. 2.0250 crorerepresenting the next installment of the total Rs. 2.70 crore sanctioned under the Special Road Grant scheme (Budget Head 3054 0022)to the District Collector, Solapur. Pandharpur Municipal Council, Dist. Solapur (Government Resolution No. 75/2025)\
   [202606241241248725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241241248725.pdf)
 
+- Regarding the sanction of Special Road Grant funds to Municipal Corporations, Municipal Councils, and Nagar Panchayats in the State. For the year 2025-26, under Budget Head (3054 0022), for Shirala Nagar Panchayat, Dist. Sangli: Amount revised from Rs. 7.00 crore to Rs. 5.00 crore (Corrigendum).\
+  [202606251100181725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251100181725.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 0.40 croresanctioned under the Vaishishtyapurna (Special/Distinctive) schemeto the District Collector, Satara, from the funds previously drawn and held by the Directorate of Municipal Council Administration for the financial year 2024-25. Mahabaleshwar Municipal Council, Dist. Satara (Corrigendum)\
+  [202606251248238725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251248238725.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme For the year 2026-27, under budget head (2217 1301) For Mahabaleshwar Municipal Council, Dist. Satara Total amount: Rs. 75.00 lakh\
+  [202606251900386825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251900386825.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the accounting head (2217 1301) for the year 2026-27 For Chikhaldara Municipal Council, Dist. Amravati Total amount: Rs. 24.9925 crore\
+  [202606251057023925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251057023925.........pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Ambernath Municipal Council, District Thane, under the financial year 2026-27 budget head (2217 1301). Total amount: Rs. 2.00 crore.\
+  [202606251904093725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251904093725.pdf)
+
 ## Miscellaneous
 - Regarding the suspension of Resolution No. 137 passed at the General Body Meeting of the Nagpur Municipal Corporation on July 22, 2021.\
   [202606241818320125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241818320125.pdf)
+
+- Regarding the selection of works and determination of competition criteria under the Hinduhrudaysamrat Balasaheb Thackeray Nagari Lokkalyan Abhiyan.\
+  [202606251244531125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251244531125.pdf)
 
 ## Personnel
 - Regarding the approval for the implementation of the elevated creek bridge from Bhayandar to Fountain Hotel Junction and the tunnel from Fountain Hotel Junction to Gaimukh on a Public-Private Partnership basis, under the Build, Operate, and Transfer (BOT) model.\

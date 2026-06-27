@@ -10,6 +10,15 @@
 - Regarding the provision of funds through reallocation under the Human Development Programme of the Planning Department for the financial year 2026-27specifically under Demand No. O-1, Budget Head 20531231, and the 50-OtherChargesto the 14- Rent,Rates and Taxes  head.\
   [202606241515394516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241515394516.pdf)
 
+- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies. (Corrigendum  Trimbakeshwar Municipal Council, District Nashik)\
+  [202606251146377416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251146377416.pdf)
+
+- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies. (Corrigendum  Pune Municipal Corporation)\
+  [202606251149566716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251149566716.pdf)
+
+- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local self-government bodies (Corrigendum  Shirala Nagar Panchayat, Sangli District)\
+  [202606251148543916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251148543916.pdf)
+
 ## Miscellaneous
 - World Bank-assisted Project for Strengthening Institutional Capacity to Boost Development in Districts of Maharashtra (MahaSTRIDE)  Regarding the determination of the procedure for the distribution of incentive funds to districts.\
   [202606231449443816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231449443816.pdf)

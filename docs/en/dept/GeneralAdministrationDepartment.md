@@ -13,6 +13,12 @@
 - Regarding the grant of approval to the Director, Pre-Military Training Institute, Chhatrapati Sambhajinagar, to purchase a new vehicle in replacement of the vehicle specified herein.\
   [202606241620490007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241620490007.pdf)
 
+- Regarding the grant of administrative approval to depute 91 officers belonging to the Information Cadre (Group A and Group B) of the Directorate General of Information and Public Relations for training on the subject of Government Public Relations at the Indian Institute of Mass Communication (IIMC), New Delhi.\
+  [202606251156032407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251156032407.pdf)
+
+- Regarding the extension of the term of the committee constituted under the chairmanship of Hon. Justice Shri Sandeep Shinde (Retired)...\
+  [202606251053108907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251053108907.pdf)
+
 ## Miscellaneous
 - Post-promotion training for the ministerial stenographer cadre under the State Training Policy.\
   [202606221647172807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221647172807.pdf)
@@ -34,6 +40,9 @@
 
 - Regarding the declaration of the result of the Assistant Section Officer Post-Recruitment Training Examination 2025.\
   [202606241531323107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241531323107.pdf)
+
+- Regarding the constitution of an expert committee to develop software for the verification of the roster (reservation register).\
+  [202606251552148707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251552148707.pdf)
 
 ## Personnel
 - Transfers of Assistant Section Officers\

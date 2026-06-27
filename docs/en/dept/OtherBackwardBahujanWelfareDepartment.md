@@ -3,6 +3,10 @@
 **Date Range**: 29 June 2026 - 04 July 2026
 
 
+## Funds
+- Regarding the grant of administrative approval to organize the tableau and cultural programs to be presented by the department during the 341st Ashadhi Wari Palkhi procession...\
+  [202606251555550934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251555550934.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of non-official members to the taluka-level committee in Nandurbar district, in accordance with the simplified procedure established by the Government Resolution dated 28/08/2025.\
   [202606241612233534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241612233534.pdf)

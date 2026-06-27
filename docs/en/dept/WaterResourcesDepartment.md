@@ -39,5 +39,20 @@
 - Regarding the grant of administrative approval for works under the Govindshetwadi Kharland Scheme (Taluka Dapoli, District Ratnagiri), comprising the renovation of the embankment between Chainage 0 m and Chainage 1575 m, and the construction of an opening at Chainage 725 m.\
   [202606231634376027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231634376027.pdf)
 
+- Regarding the grant of an extension from 01.03.2026 to 31.08.2026 for posts on the regular temporary and converted temporary establishments under the Executive Engineer, Irrigation Project Construction Division, Chiplunwhich operates under the Superintending Engineer, Ratnagiri Irrigation Circle, Kuwarbav-Ratnagiriand its six subordinate sub-divisional offices.\
+  [202606251107193827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251107193827.pdf)
+
+- Regarding the posting of Junior Engineers and Assistant Engineers (Grade-2) to the Water Resources Department, following the repatriation of their services from the Soil and Water Conservation Department.\
+  [202606252312373627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606252312373627.pdf)
+
+- Transfer/Revised Posting in the Cadre of Junior Engineer / Section Engineer / Assistant Engineer (Grade-2).\
+  [202606252302539627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606252302539627.pdf)
+
+- Transfer within the cadres of Junior Engineer / Section Engineer / Assistant Engineer (Grade-2).\
+  [202606252255362527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606252255362527.pdf)
+
+- Transfer within the cadres of Junior Engineer / Section Engineer / Assistant Engineer Grade-2 (Civil/Mechanical/Electrical).\
+  [202606252308198227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606252308198227.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
