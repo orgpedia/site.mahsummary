@@ -23,5 +23,9 @@
 - Regarding the honoring of farmers/organizations by conferring various agricultural awards for the year 2024.\
   [202606231018549701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231018549701.pdf)
 
+## Personnel
+- Regarding the implementation of the Restructured Weather-Based Fruit Crop Insurance Schemeunder the Pradhan Mantri Crop Insurance Schemefor notified fruit crops during the Mrig Bahar and Ambia Bahar seasons in the state for the 2026-27 period.\
+  [202606271615418101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606271615418101.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
