@@ -1,19 +1,44 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 29 June 2026 - 04 July 2026
+**Date Range**: 06 July 2026 - 11 July 2026
 
-
-## Funds
-- State Rural Drinking Water Policy 2026\
-  [202606251559355828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251559355828.pdf)
-
-## Miscellaneous
-- Regarding the preparation of a Special Scarcity Action Plan for the quarterly period from July 2026 to September 2026, against the backdrop of water scarcity arising from the impact of El-Nino.\
-  [202606251208093828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251208093828.pdf)
 
 ## Personnel
-- Regarding the final extension of the deputation period of Smt. Sangeeta Mahadev Chahakar-Ambre, Assistant Revenue Officer, in the post of Clerk at the State Water and Sanitation Mission office, Belapur.\
-  [202606221240075428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221240075428.pdf)
+- Regarding the temporary appointment by nomination to the post of Deputy Engineer (Mech) (Group-A) in the Groundwater Surveys and Development Agency\
+  [202606291621198828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291621198828.pdf)
+
+- Request transfers of officers in the Assistant Geologist category within the Groundwater Survey and Development Agency (GSDA) - 2026\
+  [202606291539257928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539257928.pdf)
+
+- Regular transfers of officers in the Senior Geologist (Group-A) cadre within the Groundwater Surveys and Development Agency  2026\
+  [202606291539455928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539455928.pdf)
+
+- Request transfers of officers in the Junior Geologist cadre of the Groundwater Surveys and Development Agency  2026\
+  [202606291539159828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539159828.pdf)
+
+- Regular transfers of officers in the Junior Geologist (Group-B) cadre within the Groundwater Surveys and Development Agency  2026\
+  [202606291539408728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539408728.pdf)
+
+- Regular Transfers of Officers in the Assistant Geologist Group-B cadre of the Groundwater Surveys and Development Agency- 2026\
+  [202606291539507928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539507928.pdf)
+
+- Request transfers of officers in the Deputy Engineer (Mechanical) cadre of the Groundwater Surveys and Development Agency  2026\
+  [202606291539084628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539084628.pdf)
+
+- Regular transfers of Deputy Director (Group-A cadre) officers in the Groundwater Surveys and Development Agency  2026\
+  [202606291539366828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539366828.pdf)
+
+- Request transfers of officers in the Senior Geologist cadre within the Groundwater Surveys and Development Agency  2026\
+  [202606291539210928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539210928.pdf)
+
+- Regular transfers of officers in the Deputy Engineer (Mechanical) Group-A cadre within the Groundwater Surveys and Development Agency  2026.\
+  [202606291539311528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539311528.pdf)
+
+- Regarding a partial change in the posting of temporary appointments by nomination to the post of Deputy Director (Group-A) in the Groundwater Surveys and Development Agency.\
+  [202606291539556528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539556528.pdf)
+
+- Request transfers for the cadre of Deputy Director in the Groundwater Surveys and Development Agency (GSDA)  2026\
+  [202606291539103528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291539103528.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
