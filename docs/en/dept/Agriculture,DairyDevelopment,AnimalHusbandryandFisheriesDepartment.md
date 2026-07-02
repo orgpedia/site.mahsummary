@@ -1,31 +1,37 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 29 June 2026 - 04 July 2026
+**Date Range**: 06 July 2026 - 11 July 2026
 
 
 ## Funds
-- Regarding the grant of administrative and financial approval for the budgetary provision sanctioned for prizes to farmers winning agricultural awards and crop competitions.\
-  [202606221811469201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221811469201.pdf)
-
-- Regarding the disbursement of funds for the year 2026-27 for the implementation of the Hon. Balasaheb Thackeray Haridra (Turmeric) Research and Training Centre in Hingoli district. (2401 B446)\
-  [202606241601293001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241601293001.pdf)
-
-- Regarding the payment of compensation and arrears to daily wage laborers as per the judgment dated 03.03.2025 in Revision ULP Application No. 55/2015 filed before the Honble Industrial Court, Chhatrapati Sambhajinagar.\
-  [202606251153053101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251153053101.pdf)
+- Regarding the disbursement of funds amounting to Rs. 600.00 lakh for the payment of award money to farmers who won various agricultural awards in the years 2023 and 2024, as well as for the agricultural award distribution ceremony.\
+  [202606301518404101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301518404101.pdf)
 
 ## Miscellaneous
-- International study tour to France by Dr. Ramaswamy N., Secretary (Fisheries), proposed by the Department of Fisheries (AFD), Government of India, from June 29, 2026, to July 3, 2026.\
-  [202606221322160901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606221322160901.pdf)
+- Regarding the formulation of eligibility criteria, duties, responsibilities, and the scope of work for the positions of Joint Commissioner (Fisheries) and experienced consultant in the fisheries sector, to be engaged through an external agency by the Fisheries Department.\
+  [202607011240002401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011240002401.pdf)
 
-- Regarding the constitution of a Capacity Building Unit (Dept.-CBU) at the administrative department level to prepare the Capacity Building Plan (CBP) for the Animal Husbandry, Dairy Development, and Fisheries Department...\
-  [202606231611546001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231611546001.pdf)
-
-- Regarding the honoring of farmers/organizations by conferring various agricultural awards for the year 2024.\
-  [202606231018549701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231018549701.pdf)
+- Regarding the long-term leasing of the Pentakali Reservoir (Taluka Mehkar, District Buldhana) on an experimental basis for the implementation of an innovative, integrated pilot project.\
+  [202606301521575101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301521575101.pdf)
 
 ## Personnel
-- Regarding the implementation of the Restructured Weather-Based Fruit Crop Insurance Schemeunder the Pradhan Mantri Crop Insurance Schemefor notified fruit crops during the Mrig Bahar and Ambia Bahar seasons in the state for the 2026-27 period.\
-  [202606271615418101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606271615418101.pdf)
+- 2026 Periodic Transfers Assistant Commissioner Animal Husbandry and Dairying, Group-A\
+  [202606301743189701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301743189701.pdf)
+
+- Regarding the constitution of Civil Services Board (1) to make recommendations to the competent authority concerning the posting and transfer of officers belonging to Group-A and Group-B (Gazetted) cadres in the Fisheries Department.\
+  [202607011235366901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011235366901.pdf)
+
+- Regarding the grant of approval to start a Veterinary College on a permanent non-aided basis under the Maharashtra Animal and Fishery Sciences University.\
+  [202606301159151501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301159151501....pdf)
+
+- Request Transfers  Year 2026\
+  [202606301822106201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301822106201.pdf)
+
+- 2026 Periodic Transfers Veterinary Officer, Group-A\
+  [202606301739487301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301739487301.pdf)
+
+- Periodic Transfers  2026 Deputy Commissioner, Animal Husbandry and Dairy Development (Group A)\
+  [202606301656542701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301656542701.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

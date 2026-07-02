@@ -3,6 +3,19 @@
 **Date Range**: 06 July 2026 - 11 July 2026
 
 
+## Funds
+- Financial Year 2026-27  Regarding the disbursement of grants-in-aid towards salaries and allowances to the Maharashtra Jeevan Pradhikaran (Mandatory) (2215A041), 36, Grants-in-aid (Salaries).\
+  [202607011139153128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011139153128.pdf)
+
+- Budgetary Grant Regarding the distribution of funds made available through the Token Mother Sanction for the General Component under Swachh Bharat Mission (Gramin) Phase-II (Account Heads 2215 9835 (31) and 2215 2189 (31)).\
+  [202606301529451228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301529451228.pdf)
+
+- Financial Year 2026-27  Regarding the distribution of establishment grants to Zilla Parishads under Section 183 of the Maharashtra Zilla Parishads and Panchayat Samitis Act, 1961, under the budget head Regular Establishment (Mandatory) (2215 1881) (36-Grants-in-Aid).\
+  [202607011139133528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011139133528.pdf)
+
+- Financial Year 2026-27  Regarding the disbursement of grants to Zilla Parishads under Section 183 of the Maharashtra Zilla Parishads and Panchayat Samitis Act, 1961, under the budget head Establishment Grants  Regular Establishment (Mandatory) (2215 1881) (10-Contractual Services).\
+  [202606301149221828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301149221828.pdf)
+
 ## Personnel
 - Regarding the temporary appointment by nomination to the post of Deputy Engineer (Mech) (Group-A) in the Groundwater Surveys and Development Agency\
   [202606291621198828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291621198828.pdf)

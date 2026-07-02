@@ -1,28 +1,27 @@
 # Women and Child Development Department
 
-**Date Range**: 29 June 2026 - 04 July 2026
+**Date Range**: 06 July 2026 - 11 July 2026
 
 
 ## Funds
-- Regarding the disbursement of funds under the Centrally Sponsored Scheme Mission Vatsalya for the year 2026-27.\
-  [202606231621098130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231621098130.pdf)
+- Regarding the disbursement of 100 of the Central share of funds (Mother Sanction) approved by the Central Government for the One Stop Centre (Construction) component under the Centrally Sponsored Umbrella Scheme Mission Shakti for the financial year 2026-27...\
+  [202606301719087730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301719087730.pdf)
 
-- Grant release for Lek Ladki Scheme\
-  [202606251538043730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251538043730.pdf)
+- Regarding distribution of funds for payment of honorarium and incentive allowance to Anganwadi workers and Anganwadi helpers\
+  [202606301621261630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301621261630.pdf)
 
-## Miscellaneous
-- Regarding the assignment of independent charge of Group-A postssuch as Child Development Project Officer and equivalent positionsto the Probationary Officers of the Combined Probationary Training Programme-11 (CPTP-11).\
-  [202606241818141530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241818141530.pdf)
-
-- Regarding the womens counseling centers established within the premises of police stations in the state.\
-  [202606241134405830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241134405830.pdf)
-
-- Regarding the assignment of independent charge to probationer officers belonging to the Group-B (Gazetted) cadre under the Women and Child Development Department, as part of the Combined Probationary Training Programme (CPTP-11).\
-  [202606241820566830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241820566830.pdf)
+- Grant release for ICDS General in FY 2026-27\
+  [202606301621073030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301621073030.pdf)
 
 ## Personnel
-- Regarding the repatriation of the services of Mr. Chandrashekhar Kekan, Deputy Chief Executive Officer.\
-  [202606241817353830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241817353830.pdf)
+- Regarding the disbursement of 100 of the Central share of funds (Mother Sanction) approved by the Central Government for the One Stop Centre (Construction) component under the Centrally Sponsored Umbrella Scheme Mission Shakti for the financial year 2026-27...\
+  [202606301719329530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301719329530.pdf)
+
+- Regarding the disbursement of 100 of the Central share of funds (Mother Sanction) approved by the Central Government for the One Stop Centre (Construction) component under the Centrally Sponsored Umbrella Scheme Mission Shakti for the financial year 2026-27...\
+  [202606301719272530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301719272530.pdf)
+
+- Regarding the disbursement of 100 of the Central share of funds (Mother Sanction) approved by the Central Government for the One Stop Centre (Construction) component under the Centrally Sponsored Umbrella Scheme Mission Shakti for the financial year 2026-27...\
+  [202606301719386730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301719386730.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

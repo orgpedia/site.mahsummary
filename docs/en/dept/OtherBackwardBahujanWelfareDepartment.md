@@ -1,27 +1,15 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 29 June 2026 - 04 July 2026
+**Date Range**: 06 July 2026 - 11 July 2026
 
 
 ## Funds
-- Regarding the grant of administrative approval to organize the tableau and cultural programs to be presented by the department during the 341st Ashadhi Wari Palkhi procession...\
-  [202606251555550934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251555550934.pdf)
+- Regarding the approval to disburse funds under 36 - Grants-in-Aid (Salaries) to the Vasantrao Naik Vimukta Jati and Nomadic Tribes Development Corporation Ltd. for the financial year 2026-27...\
+  [202606301338209934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301338209934.pdf)
 
-## Miscellaneous
-- Regarding the appointment of non-official members to the taluka-level committee in Nandurbar district, in accordance with the simplified procedure established by the Government Resolution dated 28/08/2025.\
-  [202606241612233534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241612233534.pdf)
-
-- Regarding the appointment of non-official members to the taluka-level committee in Bhandara district, in accordance with the simplified procedure established by the Government Resolution dated 28/08/2025.\
-  [202606241616178634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241616178634.pdf)
-
-- Regarding the appointment of non-official members to the taluka-level committee in Dhule district, under the simplified procedure established by the Government Resolution dated 28/08/2025.\
-  [202606241610179734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241610179734....pdf)
-
-- Regarding the appointment of non-official members to the taluka-level committee in Buldhana district, in accordance with the simplified procedure established by the Government Resolution dated 28/08/2025.\
-  [202606241613597834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241613597834.pdf)
-
-- Regarding the appointment of non-official members to the taluka-level committee in Wardha district, in accordance with the simplified procedure established by the Government Resolution dated 28/08/2025.\
-  [202606241617491334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606241617491334.pdf)
+## Personnel
+- Regarding the cancellation of the decision concerning the permanent absorption of five officerscurrently serving as Regional Deputy Directors under the Other Backward Bahujan Welfare Departmentinto the said department.\
+  [202606301826179334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301826179334....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

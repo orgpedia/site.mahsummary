@@ -112,5 +112,57 @@
 - Regarding the granting of approval for the introduction of new engineering diploma courses, as well as for increasing or decreasing the intake capacity of existing courses, at the current institute, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi, effective from the academic year 2026-27.  CHHATRAPATI SHAHU MAHARAJ SHIKSHAN SANSTHA, C.S.M.S.S. COLLEGE OF POLYTECHNIC\
   [202606291845580408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291845580408.pdf)
 
+- Regarding the disbursement of funds for developing an online KPI (Key Performance Indicator) system under Developed Maharashtra 2047 by Swami Ramanand Teerth Marathwada University, Nanded...\
+  [202606301507546408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301507546408.pdf)
+
+- Regarding the entrustment of the additional charge of the post of Director, Directorate of Technical Education, to Dr. Pramod Naik, Director, Maharashtra State Board of Technical Education, Mumbai.\
+  [202606301847301808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301847301808.pdf)
+
+- Academic year 2026-2 Recognition of new colleges under Kavikulguru Kalidas Sanskrit University, Ramtek.\
+  [202606302054530608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302054530608.pdf)
+
+- Regarding the grant of final approval to new colleges for the academic year 2026-27.\
+  [202606302101358408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302101358408.pdf)
+
+- Academic Year 2026-27 Regarding the granting of approval for new courses, subjects, specialization subjects, additional divisions, and new faculties in existing colleges.\
+  [202606302337256208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302337256208.pdf)
+
+- Regarding the assignment of additional charge of the post of Joint Director, Regional Office of Technical Education, Mumbai.\
+  [202606302207526908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302207526908.pdf)
+
+- Regarding the grant of final approval to new colleges for the academic year 2026-27.\
+  [202606302058168308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302058168308.pdf)
+
+## Personnel
+- Regarding the administrative transfers of Assistant Professors (Education), Group-A, in Government Colleges of Education under the jurisdiction of the Directorate of Higher Education for the year 2026.\
+  [202606302255244408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302255244408.pdf)
+
+- Regarding the administrative transfers for the year 2026 of officers holding the post of Administrative Officer (Group-A) in government offices under the jurisdiction of the Directorate of Higher Education.\
+  [202606302252259708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302252259708.pdf)
+
+- Regarding the administrative transfers of Junior Lecturers (Group-B) in government colleges/institutions under the jurisdiction of the Directorate of Higher Education for the year 2026.\
+  [202606302301109508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302301109508.pdf)
+
+- Periodical Transfers 2026... Associate Professors and Assistant Professors, Government Engineering Colleges\
+  [202606302021072208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302021072208.pdf)
+
+- Regarding the administrative transfers of Assistant Professors (Group-A) in government colleges/institutions under the jurisdiction of the Directorate of Higher Education for the year 2026.\
+  [202606302256502608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302256502608....pdf)
+
+- Periodical Transfers (Year 2026)... Officers in the administrative service under the Directorate of Technical Education\
+  [202606302023382308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302023382308.pdf)
+
+- Regarding the assignment of additional charge of the post of Joint Director, Divisional Office, Pune.\
+  [202606302206403608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302206403608.pdf)
+
+- Regarding the general administrative transfers of Gazetted Group-B officers under the Directorate of Libraries for the year 2026...\
+  [202606302147525508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302147525508.pdf)
+
+- Transfers of Principal, HOD and Lecturers in Government Polytechnic, Maharashtra Polytechnic Teachers Group-A of 2026\
+  [202606301932503108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301932503108...pdf)
+
+- Regarding the administrative transfers of Associate Professors (Group-A) in government colleges/institutions under the jurisdiction of the Directorate of Higher Education for the year 2026.\
+  [202606302259431408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302259431408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

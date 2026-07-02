@@ -1,11 +1,15 @@
 # Law and Judiciary Department
 
-**Date Range**: 29 June 2026 - 04 July 2026
+**Date Range**: 06 July 2026 - 11 July 2026
 
 
 ## Funds
-- Administrative Approval Regarding the construction of a new building for the Public Trust Registration Office, Ratnagiri.\
-  [202606231216022712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606231216022712.pdf)
+- For the 2026-27 budget, under Demand No. J-5 and Major Head 7610 (Loans to Government Servants, etc.), the allocation for Motor Vehicle Purchase Advances (7610 0481) falls under sub-head (202)(00)(01).\
+  [202606301323104312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301323104312.pdf)
+
+## Miscellaneous
+- Review of vehicles belonging to the office of the Registrar of Firms, Maharashtra State, Mumbai.\
+  [202606301528016512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301528016512.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -33,5 +33,8 @@
 - Departmental Review Committee to assess the suitability for retention in government service of Group A to Group D government officers and employees under the Rural Development Department (direct establishment) upon attaining the age of 50/55 years or completing 30 years of qualifying service.\
   [202606291548097320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291548097320.pdf)
 
+- Regarding Request Transfer of Assistant Block Development officer, Group B cadre in Maharashtra Development Services- Shri.Salunke and Smt. Kale, Assistant Block Development officer\
+  [202606300957215720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606300957215720.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

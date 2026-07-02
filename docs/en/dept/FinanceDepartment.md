@@ -1,11 +1,14 @@
 # Finance Department
 
-**Date Range**: 29 June 2026 - 04 July 2026
+**Date Range**: 06 July 2026 - 11 July 2026
 
 
-## Miscellaneous
-- Regarding the registration of regional offices in the GRAS system...\
-  [202606251703160205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606251703160205.pdf)
+## Personnel
+- Instructions to be issued to all Drawing and Disbursing Officers across the Konkan, Nashik, Amravati, and Nagpur divisionsunder all administrative departmentsregarding the effective implementation of the new Sevarth system...\
+  [202607011229143305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011229143305.pdf)
+
+- Promotion and posting to the post of Assistant Commissioner of State Tax.\
+  [202606301837060605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301837060605.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
