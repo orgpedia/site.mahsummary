@@ -19,6 +19,30 @@
 - Regarding the grant of administrative and financial approval for organizing the 62nd Maharashtra State Marathi Film Awards ceremony.\
   [202606301220541023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301220541023.pdf)
 
+- Regarding the grant of financial approval for expenses related to organizing cultural programs at the Mahalaxmi Saras Sale and Exhibition-2026, organized under the Umed-Maharashtra State Rural Livelihood Mission.\
+  [202607021141389223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021141389223.pdf)
+
+- Regarding the financial approval of the expenditure on the organization of Somnath Yatra on the occasion of Somnath Swabhiman Parv- 1000 Varsh Ki Akhand Astha.\
+  [202607021147436623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021147436623.pdf)
+
+- Regarding financial approval for the expenditure on organizing a cultural festival under the joint auspices of the Cultural Affairs Department, Government of Maharashtra, and Shri Shraddhanand Samaj Sarvajanik Aajoba Ganpati Trust.\
+  [202607021145151223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021145151223.pdf)
+
+- Regarding the grant of financial approval for the expenditure incurred in organizing the cultural program Swatantrate Bhagwati on the occasion of the birth anniversary of Swatantryaveer Vinayak Damodar Savarkar.\
+  [202607021136581223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021136581223.pdf)
+
+- Regarding financial approval for the expenditure on organizing the play Yugpravartak  Dr. Hedgewar.\
+  [202607021143387223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021143387223.pdf)
+
+- Regarding the grant of administrative and financial approval for organizing the NAFA Film Festival-2026 through the North American Film Association.\
+  [202607021704279123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021704279123.pdf)
+
+- Regarding the grant of financial approval for the expenditure on organizing a cultural program based on the life and work of Chhatrapati Sambhaji Maharaj under Shivswarajya.\
+  [202607021139533723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021139533723.pdf)
+
+- Regarding financial approval for the expenditure on the computerization and preservation of play scripts at the office of the Theatre Performance Scrutiny Board, Mumbai.\
+  [202607021702335023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021702335023.pdf)
+
 ## Miscellaneous
 - Final notification regarding the declaration of Gagangad Fort (Taluka: Gaganbawda, District: Kolhapur) as a State-protected monument.\
   [202606291822259923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291822259923.pdf)

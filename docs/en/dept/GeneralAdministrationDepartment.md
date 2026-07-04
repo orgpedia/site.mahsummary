@@ -7,6 +7,9 @@
 - Regarding the disbursement of a grant to the Maharashtra Airport Development Company for the development of the MIHAN project.\
   [202606291820050207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291820050207.pdf)
 
+- Regarding the provision of funds through redistribution/re-appropriation for the purchase of two electric vehicles for the headquarters of the Directorate General of Information and Public Relations.\
+  [202607021303307207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021303307207.pdf)
+
 ## Miscellaneous
 - Regarding the hike in meal rates charged by the food contractor at the Pre-Student Training Centre, Nashik.\
   [202606291306220407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291306220407.pdf)
@@ -22,6 +25,12 @@
 
 - Regarding filling the post of Executive Officer at the Shri Vitthal Rukmini Temples Committee, Pandharpur (District Solapur), on deputation from Section Officers belonging to the Ministerial Cadre.\
   [202606301450379707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301450379707.pdf)
+
+- Regarding the sanction of financial assistance from the Chief Ministers Charitable Donation Fund. Vidyasagar High School, Rasai Shendur, Taluka Chikkodi, District Belagavi (run by Shri Bhairavnath Shikshan Prasarak Mandal).\
+  [202607021625432607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021625432607.pdf)
+
+- Regarding granting candidates a six-month extension to submit the caste validity certificate for admission to educational institutions offering engineering, medical, and other professional courses for the academic year 2026-2027...\
+  [202607021612459807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021612459807.pdf)
 
 ## Personnel
 - Transfer of Shri. Arvind T. Shete, Deputy Secretary\

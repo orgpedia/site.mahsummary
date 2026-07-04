@@ -7,6 +7,18 @@
 - Regarding the disbursement of funds amounting to Rs. 600.00 lakh for the payment of award money to farmers who won various agricultural awards in the years 2023 and 2024, as well as for the agricultural award distribution ceremony.\
   [202606301518404101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301518404101.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 2,21,28,14,800/- (Rupees two hundred twenty-one crore twenty-eight lakh fourteen thousand eight hundred only) for the Nanaji Deshmukh Krishi Sanjeevani Prakalp (Phase-2) for the financial year 2026-27.\
+  [202607021250484101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021250484101.pdf)
+
+- Regarding the disbursement of an amount of Rs. 11,01,09,421/- towards the States share of the subsidy for the advance payment under the Restructured Weather-Based Fruit Crop Insurance Scheme for the Mrig Bahar season of 2026.\
+  [202607021206493701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021206493701....pdf)
+
+- Regarding the disbursement of grants under the Rajarshi Chhatrapati Shahu Maharaj Tuition Fee Scholarship Scheme and the Dr. Panjabrao Deshmukh Hostel Maintenance Allowance Scheme for the financial year 2026-27. (Under the programme)\
+  [202607021758169401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021758169401.pdf)
+
+- Regarding the disbursement of funds amounting to 4.00 crore for the implementation of the State-sponsored Agricultural Mechanization Scheme during the year 2026-27.\
+  [202607021246555401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021246555401.pdf)
+
 ## Miscellaneous
 - Regarding the formulation of eligibility criteria, duties, responsibilities, and the scope of work for the positions of Joint Commissioner (Fisheries) and experienced consultant in the fisheries sector, to be engaged through an external agency by the Fisheries Department.\
   [202607011240002401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011240002401.pdf)

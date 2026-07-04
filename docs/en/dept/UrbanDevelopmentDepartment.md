@@ -38,5 +38,8 @@
 - Regarding promotion to the post of Assistant Commissioner under the Solapur Municipal Corporation establishment.\
   [202606301226049825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301226049825.pdf)
 
+- Regarding instructions for the rapid and accelerated expansion of the CGD (City Gas Distribution) network across the state, in accordance with the directives of the Central Government.\
+  [202607021618041725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021618041725....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

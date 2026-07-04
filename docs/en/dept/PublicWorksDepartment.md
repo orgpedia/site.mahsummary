@@ -63,5 +63,8 @@
 - Regarding the extension of the tenure for the transfer of Assistant Engineer (Grade-2) / Branch Engineer / Junior Engineer (Civil).\
   [202606301812190618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301812190618.pdf)
 
+- Final seniority list of the Senior Architect cadre in the Public Works Department as of 01.01.2026.\
+  [202607021743184118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021743184118.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

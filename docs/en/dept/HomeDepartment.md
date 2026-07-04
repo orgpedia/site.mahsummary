@@ -10,6 +10,12 @@
 - Regarding the payment of the bill or the release of mobilization advance to the project supplier for the Thane City Police Commissionerates CCTV project.\
   [202607011358109129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011358109129.pdf)
 
+- Regarding the revision of the carpet area for government residences being constructed for police officers and personnel.\
+  [202607021713258229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021713258229.pdf)
+
+- Regarding the inclusion of the Commissioner, Brihanmumbai Municipal Corporation, as a member of the high-level committee constituted to implement the De-addiction Public Awareness Campaign within the Brihanmumbai Municipal Corporation area.\
+  [202607021813477829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021813477829.pdf)
+
 ## Personnel
 - Periodic Transfers 2026 Superintendent, State Excise (Group A).\
   [202606302313206329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302313206329.pdf)
@@ -76,6 +82,12 @@
 
 - Regular Select List, 2025-26; Regarding posting-on-promotion to a post in the cadre of Armed Deputy Superintendent of Police/ Assistant Commandant, S.R.P.F..\
   [202606301906287329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301906287329.pdf)
+
+- Regarding inclusion in the seniority list Shri Sandip Wamanrao Khadse, Deputy Regional Transport Officer\
+  [202607021537555829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021537555829.pdf)
+
+- Regarding inclusion in the seniority list Shri Surendra Prakash Nikam, Deputy Regional Transport Officer\
+  [202607021533178029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021533178029.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

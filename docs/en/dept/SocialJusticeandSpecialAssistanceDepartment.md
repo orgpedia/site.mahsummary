@@ -25,5 +25,12 @@
 - Regarding the disbursement of funds for the Late Bhausaheb Fundkar Fruit Orchard Plantation Scheme during the financial year 2026-27. (Accounting Head 2401B321)\
   [202607011258024322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011258024322.pdf)
 
+## Miscellaneous
+- Regarding the distribution of a grant of 20,000 per dindi (pilgrimage group) accompanying the 10 prestigious palkhis (processional palanquins) for the Ashadhi Ekadashi Wari at the pilgrimage site of Pandharpur in the year 2026, through the Chief Minister Warkari Mahamandal...\
+  [202607021749237222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021749237222.pdf)
+
+- Regarding the appointment of a Nodal Officer to ensure the monitoring and coordination of the effective implementation of schemes for senior citizens.\
+  [202607021741106722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021741106722.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

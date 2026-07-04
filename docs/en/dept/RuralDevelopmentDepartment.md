@@ -10,6 +10,12 @@
 - Regarding the approval for availing loan assistance for projects financed by the Asian Infrastructure Investment Bank (AIIB) under Phase III of the Mukhya Mantri Gram Sadak Yojana, and for the proposal relating to the State Governments funding contribution.\
   [202606291756369920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291756369920.pdf)
 
+- Regarding changes to the works sanctioned under the Konkan Rural Tourism Development Programme scheme.\
+  [202607021242357720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021242357720.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Jarandeshwar Maruti Devasthan, At  Post Borkhal Jarandeshwar, Taluka  District Satara.\
+  [202607021242378020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021242378020.pdf)
+
 ## Miscellaneous
 - Regarding the establishment of a Capacity Building Unit (Dept-CBU) within the Rural Development Department to formulate a capacity-building framework aimed at enhancing the skills of government officers and employees.\
   [202606291549241420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291549241420.pdf)

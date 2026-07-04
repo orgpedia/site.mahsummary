@@ -10,6 +10,9 @@
 - Regarding the approval to partially change the names of Government Industrial Training Institutes in the state.\
   [202606301649123903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301649123903.pdf)
 
+- Allotment of district/field offices for district level training to Probationary Assistant Commissioner (Group-A) and Skill Development, Employment and Entrepreneurship Guidance officers (Group- B) under CPTP-11\
+  [202607021212252103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021212252103.pdf)
+
 ## Personnel
 - Periodic transfer in the year 2026 of an officer belonging to the Maharashtra Education Service cadrespecifically, Deputy Director (Vocational Education), Group-A (Technical) (Senior) (Gazetted)under the Directorate of Vocational Education and Training.\
   [202606302002011103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302002011103....pdf)

@@ -7,6 +7,9 @@
 - Regarding the provision of funds amounting to Rs. 170.00 crore as equity capital by the Government for the scheme titled Strengthening the electricity distribution system for solarization and providing conventional electricity connections to farmers agricultural pumps. (Account Head No. 48014095)\
   [202607011626084310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011626084310.pdf)
 
+- Regarding the approval to incur expenditure under the scheme for promoting the wine industry for the year 2026-27.\
+  [202607021659319010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021659319010.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of the Maharashtra Labour Welfare Fund contribution under Section 6BB(8) of the Maharashtra Labour Welfare Fund Act, 1953.\
   [202606291705142810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291705142810....pdf)

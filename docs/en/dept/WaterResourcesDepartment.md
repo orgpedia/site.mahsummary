@@ -7,6 +7,9 @@
 - Regarding the grant of administrative approval for the proposal concerning the estimate for a flood protection wall on the Vedganga River at the villages of Shengaon, Sonali (Gargoti), Gargoti, and Mhasve (Taluka Bhudargad, District Kolhapur).\
   [202606291712256727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291712256727.pdf)
 
+- Second Revised Administrative Approval to Rapapur Minor Irrigation scheme Tal. Taloda, Dist. Nandurbar.\
+  [202607021752533027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021752533027.pdf)
+
 ## Personnel
 - Transfer within the cadres of Junior Engineer / Section Engineer / Assistant Engineer Grade-2 (Civil/Mechanical/Electrical).\
   [202606292206249027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606292206249027.pdf)

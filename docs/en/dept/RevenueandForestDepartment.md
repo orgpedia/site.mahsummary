@@ -10,6 +10,9 @@
 - Regarding the provision of funds for necessary measures during the deployment of National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF) teams to tackle potential flood situations in various districts during the monsoon season...\
   [202606301305048919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301305048919.pdf)
 
+- Regarding the grant of administrative approval for civic amenity works in villages rehabilitated due to floods in Mahur Taluka, Nanded District.\
+  [202607021543148219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021543148219.pdf)
+
 ## Miscellaneous
 - Regarding the determination of funding limits for granting administrative approvalon an Assembly constituency-wise basisfor the Chief Ministers Baliraja Farm/Farm Access Road Scheme.\
   [202606291808530419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291808530419.pdf)
@@ -22,6 +25,9 @@
 
 - Regarding the disbursement of grants under the Village Premises and Tribal Development Programme (2406 1521) scheme, as part of the State Plan for 2026-27.\
   [202607011301300619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011301300619.pdf)
+
+- Regarding the provision of minor minerals to farmers in rural areas for agricultural improvements and the construction of farmhouses or wells.\
+  [202607021746329219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021746329219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

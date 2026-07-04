@@ -13,6 +13,21 @@
 - Regarding the grant of administrative approval for the disbursement and expenditure of funds under the Marriage Incentive Scheme for persons with disabilitiesas part of social security measuresfor the financial year 2026-27.\
   [202607011454157335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011454157335.pdf)
 
+- Regarding disbursement of Subsidiary Grants (Salary) funds to Non-Governmental Organizations working in the category of Mukabadhir. Raul Khanolkar Residential Mukbadhir Vidyalaya, Junnar Dist. Dhule (Seventh Pay Gap)\
+  [202607021159264235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021159264235.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations (NGOs) working in the category of orthopaedic disability. Apang Nivasi Vidyalaya, Sahakari Bank Colony, Jalna (Taluka  District Jalna)  7th Pay Commission arrears.\
+  [202607021152100035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021152100035.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the sector for the intellectually disabled. Shri Shamrao Bhide Workshop (run by Avishkar Sanstha), Ratnagiri  7th Pay Commission arrears.\
+  [202607021154591035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021154591035.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the field of hearing and speech impairment. Residential School for the Hearing and Speech Impaired, Bhor (run by Bhor Education Society, Bhor, Dist. Pune)  7th Pay Commission arrears.\
+  [202607021157417835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021157417835.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the intellectually disabled category. Rukhmai Govind Residential School for the Mentally Challenged (run by Raje Sambhaji Bahu Seva Bhavi Sanstha, Dagdishahjanpur), Pangri Road, Beed (7th Pay Commission arrears).\
+  [202607021201057735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021201057735.pdf)
+
 ## Personnel
 - Regarding the disbursement of funds for differently-abled beneficiaries of the Special Assistance Scheme.\
   [202606291827192435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291827192435.pdf)

@@ -22,6 +22,12 @@
 - Administrative approval for the procurement of machinery and equipment for the Radiology Department at Chhatrapati Pramilaraje General Hospital, Kolhapur.\
   [202606301319377013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319377013.pdf)
 
+- Administrative approval for the procurement of machinery and equipment for the Department of Dermatology and Venereology at Dr. Vaishampayan Memorial Government Medical College, Solapur.\
+  [202607021738218913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021738218913.pdf)
+
+- Administrative approval for the procurement of machinery and equipment for the Department of Pathology at the Government Medical College and Hospital, Nagpur.\
+  [202607021738150413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021738150413.pdf)
+
 ## Miscellaneous
 - Administrative approval for the procurement of machinery and equipment for the Department of Respiratory Medicine at Dr. Shankarrao Chavan Government Medical College, Nanded.\
   [202606301319423013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319423013.pdf)
@@ -31,6 +37,9 @@
 
 - Administrative approval for the procurement of machinery and equipment for the Department of Orthopaedics at Sir J.J. Group of Hospitals, Mumbai.\
   [202606301319206113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319206113.pdf)
+
+- Administrative approval for the procurement of machinery and equipment for Government Medical College, Nandurbar\
+  [202607021738109613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021738109613.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
