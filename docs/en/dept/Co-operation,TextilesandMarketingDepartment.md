@@ -10,6 +10,9 @@
 - Regarding the non-levying of interest by District Central Cooperative Banks and Primary Agricultural Credit Societies on the eligible outstanding amounts of beneficiaries under the Punyashlok Ahilyadevi Holkar Farmers Loan Waiver Scheme, 2026.\
   [202607011924384902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011924384902.pdf)
 
+- Regarding the grant of administrative and financial approval for the media plan for the publicity and promotion of various welfare schemes of the Textile Department for the financial year 2026-27.\
+  [202607031859437802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031859437802.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the deadline for the revised amicable repayment scheme applicable to urban cooperative credit societies.\
   [202606291456064002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291456064002.pdf)

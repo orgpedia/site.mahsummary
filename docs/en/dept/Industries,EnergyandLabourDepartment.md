@@ -51,5 +51,8 @@
 - Regarding temporary promotion to the post of Deputy Director of Industries (Technical), Group-A (Pay Scale S-20, Rs.56100-177500).\
   [202606301653108510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301653108510.pdf)
 
+- Regarding the revocation of the final penalty order issued against Mr. S.D. Mankar, Deputy Director (Boilers), following the departmental inquiry, and his posting to the position of Joint Director (Boilers).\
+  [202607031709470710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031709470710.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

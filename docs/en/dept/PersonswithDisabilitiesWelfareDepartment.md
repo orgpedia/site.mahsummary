@@ -28,6 +28,12 @@
 - Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the intellectually disabled category. Rukhmai Govind Residential School for the Mentally Challenged (run by Raje Sambhaji Bahu Seva Bhavi Sanstha, Dagdishahjanpur), Pangri Road, Beed (7th Pay Commission arrears).\
   [202607021201057735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021201057735.pdf)
 
+- Regarding the implementation of a special drive for the immediate disbursement of grants to eligible beneficiaries under the Marriage Incentive Scheme for persons with disabilities as part of social security measures.\
+  [202607031649096935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031649096935.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of intellectual disability. Bharat Ratna Dr. A.P.J. Abdul Kalam Childrens Home for Differently-Abled Children, Mankhurd, Mumbai (run by The Childrens Aid Society, Mumbai).\
+  [202607031645440635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031645440635.pdf)
+
 ## Personnel
 - Regarding the disbursement of funds for differently-abled beneficiaries of the Special Assistance Scheme.\
   [202606291827192435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291827192435.pdf)

@@ -16,6 +16,12 @@
 - Regarding the inclusion of the Commissioner, Brihanmumbai Municipal Corporation, as a member of the high-level committee constituted to implement the De-addiction Public Awareness Campaign within the Brihanmumbai Municipal Corporation area.\
   [202607021813477829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021813477829.pdf)
 
+- Regarding the publicity and dissemination of Transport Department schemes along the Ashadhi Dindi 2026 routes.\
+  [202607031552108729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031552108729.pdf)
+
+- Regarding the creation of one supernumerary post in the cadre of Assistant Sub-Inspector of Police under the establishment of the Commissioner of Police, Greater Mumbai... Shri Sudhir Tukaram Khairmode, Police Sub-Inspector (ASI No. 26036)\
+  [202607031739463129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031739463129.pdf)
+
 ## Personnel
 - Periodic Transfers 2026 Superintendent, State Excise (Group A).\
   [202606302313206329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606302313206329.pdf)
@@ -88,6 +94,12 @@
 
 - Regarding inclusion in the seniority list Shri Surendra Prakash Nikam, Deputy Regional Transport Officer\
   [202607021533178029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021533178029.pdf)
+
+- Provisional Seniority List of Officers in the Cadre of Deputy Regional Transport Officers as on 1 January 2025\
+  [202607031702393129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031702393129.pdf)
+
+- Provisional Seniority List of Officers in the Cadre of Deputy Regional Transport Officers as on 1 January 2026\
+  [202607031702548829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031702548829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

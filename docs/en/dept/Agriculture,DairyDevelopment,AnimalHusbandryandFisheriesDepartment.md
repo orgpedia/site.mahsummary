@@ -19,12 +19,18 @@
 - Regarding the disbursement of funds amounting to 4.00 crore for the implementation of the State-sponsored Agricultural Mechanization Scheme during the year 2026-27.\
   [202607021246555401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021246555401.pdf)
 
+- Regarding the approval of project allowance for government officers/employees in the World Bank-assisted Hon. Balasaheb Thackeray Agribusiness and Rural Transformation (SMART) Project.\
+  [202607031447203301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031447203301.pdf)
+
 ## Miscellaneous
 - Regarding the formulation of eligibility criteria, duties, responsibilities, and the scope of work for the positions of Joint Commissioner (Fisheries) and experienced consultant in the fisheries sector, to be engaged through an external agency by the Fisheries Department.\
   [202607011240002401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011240002401.pdf)
 
 - Regarding the long-term leasing of the Pentakali Reservoir (Taluka Mehkar, District Buldhana) on an experimental basis for the implementation of an innovative, integrated pilot project.\
   [202606301521575101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301521575101.pdf)
+
+- Corrigendum Request Transfers  Group C  Year 2026\
+  [202607031659566301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031659566301.pdf)
 
 ## Personnel
 - 2026 Periodic Transfers Assistant Commissioner Animal Husbandry and Dairying, Group-A\
@@ -44,6 +50,9 @@
 
 - Periodic Transfers  2026 Deputy Commissioner, Animal Husbandry and Dairy Development (Group A)\
   [202606301656542701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301656542701.pdf)
+
+- Corrigendum Periodic Transfers-2026 Assistant Commissioner Animal Husbandry and Dairying, Group-A\
+  [202607031658152801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031658152801.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

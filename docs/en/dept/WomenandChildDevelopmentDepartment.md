@@ -13,6 +13,13 @@
 - Grant release for ICDS General in FY 2026-27\
   [202606301621073030.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301621073030.pdf)
 
+## Miscellaneous
+- Regarding the constitution of a committee to earmark posts for persons with disabilities in offices under the jurisdiction of the Women and Child Development Department.\
+  [202607031704210130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031704210130.pdf)
+
+- Regarding the modification of the age limit condition for appointmentvia promotion based on selectionfrom the post of Anganwadi Worker to that of Mukhya Sevika/Supervisor.\
+  [202607031704509330.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031704509330.pdf)
+
 ## Personnel
 - Regarding the disbursement of 100 of the Central share of funds (Mother Sanction) approved by the Central Government for the One Stop Centre (Construction) component under the Centrally Sponsored Umbrella Scheme Mission Shakti for the financial year 2026-27...\
   [202606301719329530.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301719329530.pdf)

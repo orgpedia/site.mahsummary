@@ -32,6 +32,9 @@
 - Regarding granting candidates a six-month extension to submit the caste validity certificate for admission to educational institutions offering engineering, medical, and other professional courses for the academic year 2026-2027...\
   [202607021612459807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021612459807.pdf)
 
+- Regarding the engagement of retired government/semi-government officers on a service contract basis for specific tasks.\
+  [202607031603550607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031603550607.pdf)
+
 ## Personnel
 - Transfer of Shri. Arvind T. Shete, Deputy Secretary\
   [202607011143163807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011143163807.pdf)
@@ -41,6 +44,21 @@
 
 - Transfer of  Shri. Vilas Natha Dhaije, Under Secretary\
   [202607011147112007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011147112007.pdf)
+
+- Transfer of an officer belonging to the District Sainik Welfare Officer cadre\
+  [202607031525279707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031525279707.pdf)
+
+- Transfer of an officer belonging to the District Sainik Welfare Officer cadre\
+  [202607031524005607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031524005607.pdf)
+
+- Transfer of an officer belonging to the District Sainik Welfare Officer cadre\
+  [202607031528302007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031528302007.pdf)
+
+- Transfer of an officer belonging to the District Sainik Welfare Officer cadre\
+  [202607031527064607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031527064607.pdf)
+
+- Transfer of an officer belonging to the District Sainik Welfare Officer cadre\
+  [202607031529472807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031529472807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

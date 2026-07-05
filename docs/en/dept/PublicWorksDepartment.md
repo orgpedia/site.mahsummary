@@ -10,6 +10,9 @@
 - Regarding improvement of roads in the State under financial assistance from the New Development Bank (NDB)\
   [202607011502310318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011502310318.pdf)
 
+- Revised guidelines for proposals seeking revised administrative approval to be submitted to the Expenditure Prioritization Committee.\
+  [202607031549229118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031549229118.pdf)
+
 ## Miscellaneous
 - Guidelines regarding construction of toilet facilities (Jan Suvidha Kendras) along the roads of the Public Works Department in the State.\
   [202607011447507418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011447507418.pdf)
@@ -65,6 +68,12 @@
 
 - Final seniority list of the Senior Architect cadre in the Public Works Department as of 01.01.2026.\
   [202607021743184118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021743184118.pdf)
+
+- Regarding the extension of the tenure for the transfer of Assistant Engineer (Grade-2) / Branch Engineer / Junior Engineer (Civil).\
+  [202607031846536518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031846536518.pdf)
+
+- Posting of Civil Engineering Assistants working under the Public Works Department upon request transfer.\
+  [202607031844162218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031844162218.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

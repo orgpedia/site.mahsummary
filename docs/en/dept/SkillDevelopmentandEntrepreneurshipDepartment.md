@@ -3,6 +3,10 @@
 **Date Range**: 06 July 2026 - 11 July 2026
 
 
+## Funds
+- Regarding the disbursement of funds for the Maharashtra State Skill University under the head 22511076-31-Grants-in-Aid (Non-salary) for the financial year 2026-27.\
+  [202607031223582103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031223582103.pdf)
+
 ## Miscellaneous
 - Regarding the designation of Drawing and Disbursing Officers in the Directorate of Vocational Education and Training (Maharashtra State, Mumbai) and its subordinate Regional Offices and Industrial Training Institutes as Virtual Personal Deposit Account Administrators (VPDAA).\
   [202606301543447803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301543447803.pdf)

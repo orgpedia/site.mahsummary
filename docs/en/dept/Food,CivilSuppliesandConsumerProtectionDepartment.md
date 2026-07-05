@@ -11,5 +11,11 @@
 - Regarding the cancellation of Government orders dated June 5, 2026, and June 12, 2026.\
   [202606301833212106.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301833212106.pdf)
 
+- Regarding the grant of administrative and ex-post-facto approval to attach Office No. 46/F (Badlapur)located in the Murbad constituency within the Mumbai-Thane rationing areato the Kalyan Zonal Office under the jurisdiction of the Controller of Rationing, Mumbai...\
+  [202607031456489806.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031456489806.pdf)
+
+- Regarding the non-relocation of Rationing Office No. 40F (Ulhasnagar-5) in the context of establishing constituency-wise rationing offices within the Mumbai-Thane rationing area...\
+  [202607031454383906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031454383906.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -16,6 +16,16 @@
 - Financial Year 2026-27  Regarding the disbursement of grants to Zilla Parishads under Section 183 of the Maharashtra Zilla Parishads and Panchayat Samitis Act, 1961, under the budget head Establishment Grants  Regular Establishment (Mandatory) (2215 1881) (10-Contractual Services).\
   [202606301149221828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301149221828.pdf)
 
+- Grant-in-aid to the Maharashtra Jeevan Pradhikaran for sanctioning pension benefits to its retired employees (2215 A052) 31, Grants-in-aid (Non-salary)\
+  [202607031504137028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031504137028.pdf)
+
+- Regarding the distribution of grants for measures to alleviate the scarcity of drinking water in rural areas during the scarcity period.  (Account Head 2215 A195)\
+  [202607031612064428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031612064428.pdf)
+
+## Miscellaneous
+- Declaring the post of Stenographer in the Groundwater Surveys and Development Agency as a dying cadre.\
+  [202607031716537928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031716537928.pdf)
+
 ## Personnel
 - Regarding the temporary appointment by nomination to the post of Deputy Engineer (Mech) (Group-A) in the Groundwater Surveys and Development Agency\
   [202606291621198828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291621198828.pdf)

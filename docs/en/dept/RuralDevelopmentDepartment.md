@@ -35,6 +35,12 @@
 - Regarding the inclusion of non-planned/unclassified roads in Satara Taluka, Satara District, as rural roads under the Road Development Plan 2001-21\
   [202606291120068920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291120068920.pdf)
 
+- Regarding the change in the evaluation period under the Mukhyamantri Samruddha Panchayat Raj Abhiyan.\
+  [202607031726185620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031726185620.pdf)
+
+- Guidelines regarding the construction of the Umed Mall building.\
+  [202607031541034120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031541034120.pdf)
+
 ## Personnel
 - Departmental Review Committee to assess the suitability for retention in government service of Group A to Group D government officers and employees under the Rural Development Department (direct establishment) upon attaining the age of 50/55 years or completing 30 years of qualifying service.\
   [202606291548097320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291548097320.pdf)

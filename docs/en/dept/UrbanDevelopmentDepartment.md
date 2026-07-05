@@ -34,12 +34,18 @@
 - Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Manora Nagar Panchayat, District Washim Amount: Rs. 40.00 lakh\
   [202606301843000825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301843000825.pdf)
 
+- Regarding the sanction of funds under the Special scheme For the year 2025-26 (Account Head 2217 1301) For Hupari Municipal Council, Dist. Kolhapur: Amount: Rs. 2.00 crore For Hatkanangale Municipal Council, Dist. Kolhapur: Amount: Rs. 1.00 crore For Vadgaon Municipal Council, Dist. Kolhapur: Amount: Rs. 2.00 crore Total Amount: Rs. 5.00 crore (Corrigendum)\
+  [202607031654332425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031654332425.pdf)
+
 ## Miscellaneous
 - Regarding promotion to the post of Assistant Commissioner under the Solapur Municipal Corporation establishment.\
   [202606301226049825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301226049825.pdf)
 
 - Regarding instructions for the rapid and accelerated expansion of the CGD (City Gas Distribution) network across the state, in accordance with the directives of the Central Government.\
   [202607021618041725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021618041725....pdf)
+
+- Regarding the grant of government prior approval for the construction of a water tunnelstretching from Manori to the Municipal Corporation Garden at Charkop, and further to Mahavir Nagar, Kandivalias part of the Brihanmumbai Municipal Corporations proposed seawater desalination project.\
+  [202607031201106325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031201106325.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
