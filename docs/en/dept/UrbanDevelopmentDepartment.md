@@ -1,51 +1,27 @@
 # Urban Development Department
 
-**Date Range**: 06 July 2026 - 11 July 2026
+**Date Range**: 13 July 2026 - 18 July 2026
 
 
 ## Funds
-- Regarding the distribution of funds collected through the 1 stamp duty surcharge for the year 2026-27 to the concerned municipal corporations... Rs. 240,00,00,000/-  Accounting Head (3604 0924)\
-  [202606291637542125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291637542125.pdf)
+- Regarding the sanction of funds under the scheme: Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) (Special Road Grant) For the year 2026-27 (under Budget Head 3604 1054) For Alandi Municipal Council, District Pune Amount: Rs. 5.00 crore\
+  [202607071820104025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071820104025.pdf)
 
-- Regarding the distribution of grants to municipal corporations in the state under the Maharashtra Goods and Services Tax (Compensation to Local Authorities) Act, 2017: An amount of Rs. 2,792.84 crore (for the month of July 2026) under the accounting head (3604 0998) for the year 2026-2027.\
-  [202606291644156325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291644156325.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054) For Patan Nagar Panchayat, District Satara Amount: Rs. 95.00 lakh\
-  [202606291733548725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291733548725.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme. Under accounting head (2217 1301) for the year 2026-27 For Patan Nagar Panchayat, Dist. Satara Amount: Rs. 3.55 crore\
-  [202606291736203325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291736203325.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Vaishishtyapurna (Special/Distinctive) scheme. Under the financial year 2026-27 and budget head (2217 1301) For Parner Nagar Panchayat, Dist. Ahilyanagar Amount: Rs. 25.00 lakh\
-  [202606291728455925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291728455925.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054) For Parner Nagar Panchayat, Dist. Ahilyanagar Amount: Rs. 1.40 crore\
-  [202606291731554325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291731554325.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Manora Nagar Panchayat, Dist. Washim Amount: Rs. 20.00 lakh\
-  [202606301845431125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301845431125.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Vaishishtyapurna (Special) scheme. Under the financial head (2217 1301) for the year 2026-27 For Parner Nagar Panchayat, Dist. Ahilyanagar Amount: Rs. 50.00 lakh\
-  [202606301841034225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301841034225.pdf)
-
-- Regarding the distribution of grants to municipal corporations in the state under the Maharashtra Goods and Services Tax (Compensation to Local Authorities) Act, 2017an amount of Rs. 2,792.84 crore (for the month of July 2026) under the accounting head (3604 0998) for the year 2026-2027.\
-  [202606301128404325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301128404325.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Manora Nagar Panchayat, District Washim Amount: Rs. 40.00 lakh\
-  [202606301843000825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301843000825.pdf)
-
-- Regarding the sanction of funds under the Special scheme For the year 2025-26 (Account Head 2217 1301) For Hupari Municipal Council, Dist. Kolhapur: Amount: Rs. 2.00 crore For Hatkanangale Municipal Council, Dist. Kolhapur: Amount: Rs. 1.00 crore For Vadgaon Municipal Council, Dist. Kolhapur: Amount: Rs. 2.00 crore Total Amount: Rs. 5.00 crore (Corrigendum)\
-  [202607031654332425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031654332425.pdf)
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under accounting head (2217 1301) for the year 2026-27 For Alandi Municipal Council, Dist. Pune Total amount: Rs. 5.00 crore\
+  [202607071822043925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071822043925.pdf)
 
 ## Miscellaneous
-- Regarding promotion to the post of Assistant Commissioner under the Solapur Municipal Corporation establishment.\
-  [202606301226049825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301226049825.pdf)
+- Regarding taking action in accordance with the directives issued from time to time by the Honble Supreme Court concerning stray dogs...\
+  [202607081301359825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081301359825.pdf)
 
-- Regarding instructions for the rapid and accelerated expansion of the CGD (City Gas Distribution) network across the state, in accordance with the directives of the Central Government.\
-  [202607021618041725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021618041725....pdf)
+- Regarding the constitution of a committee for the planning, financial management, implementation, and monitoring of major urban transport projects in Pune.\
+  [202607081744329225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081744329225.pdf)
 
-- Regarding the grant of government prior approval for the construction of a water tunnelstretching from Manori to the Municipal Corporation Garden at Charkop, and further to Mahavir Nagar, Kandivalias part of the Brihanmumbai Municipal Corporations proposed seawater desalination project.\
-  [202607031201106325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031201106325.pdf)
+- Regarding the procurement and fabrication of fire-fighting vehicles under the Maharashtra Fire Safety Campaign being implemented in Municipal Corporations and Municipal Councils.\
+  [202607071244595825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071244595825.pdf)
+
+- Scheme for financial assistance for the expansion and modernization of fire services under the 15th Central Finance Commission  Corrigendum.\
+  [202607071717025425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071717025425.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

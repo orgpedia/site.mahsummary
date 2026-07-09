@@ -1,52 +1,24 @@
 # Rural Development Department
 
-**Date Range**: 06 July 2026 - 11 July 2026
+**Date Range**: 13 July 2026 - 18 July 2026
 
 
 ## Funds
-- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B). His Holiness Sadguru Shri Sevagiri Maharaj, Shri Kshetra Pusegaon Devasthan, Taluka Khatav, District Satara.\
-  [202606291118335220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291118335220.pdf)
-
-- Regarding the approval for availing loan assistance for projects financed by the Asian Infrastructure Investment Bank (AIIB) under Phase III of the Mukhya Mantri Gram Sadak Yojana, and for the proposal relating to the State Governments funding contribution.\
-  [202606291756369920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291756369920.pdf)
-
-- Regarding changes to the works sanctioned under the Konkan Rural Tourism Development Programme scheme.\
-  [202607021242357720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021242357720.pdf)
-
-- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Jarandeshwar Maruti Devasthan, At  Post Borkhal Jarandeshwar, Taluka  District Satara.\
-  [202607021242378020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021242378020.pdf)
+- Regarding the distribution of funds of Rs. 140,00,00,000/- for the scheme under the Rural Development Department for the financial year 2026-27 under the Pradhan Mantri Awas Yojana-Gramin as additional state share (100) for the general category.\
+  [202607081736021220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081736021220.pdf)
 
 ## Miscellaneous
-- Regarding the establishment of a Capacity Building Unit (Dept-CBU) within the Rural Development Department to formulate a capacity-building framework aimed at enhancing the skills of government officers and employees.\
-  [202606291549241420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291549241420.pdf)
+- Regarding the inclusion of a road in Jawali Taluka, Satara District, in the Road Development Plan 200121 as a rural road (previously classified as a non-plan/unclassified road\
+  [202607071202122220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202122220.pdf)
 
-- Regarding the grant of approval for the construction of Gram Panchayat buildings in Palghar district under the Hon. Balasaheb Thackeray Smruti Matoshree Gram Panchayat Construction Scheme.\
-  [202606291119573420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291119573420.pdf)
+- Regarding the inclusion of a road in Renapur Taluka, Latur Districtcurrently classified as a non-plan/unclassified roadas a Rural Road under the Road Development Plan 200121.\
+  [202607071202189320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202189320.pdf)
 
-- Regarding the inclusion of non-planned/unclassified roads in Katol Taluka, Nagpur District, as rural roads under the Road Development Plan 2001-21.\
-  [202606291120110420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291120110420.pdf)
+- Regarding the partial renaming of a rural road in Ratnagiri Taluka, Ratnagiri District.\
+  [202607071202143220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202143220.pdf)
 
-- Regarding the inclusion of non-planned/unclassified roads in Madha Taluka, Solapur District, as rural roads under the Road Development Plan 2001-21.\
-  [202606291120025720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291120025720.pdf)
-
-- Regarding the inclusion of non-planned/unclassified roads in Yeola Taluka, Nashik District, as rural roads under the Road Development Plan 2001-21.\
-  [202606291119549220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291119549220.pdf)
-
-- Regarding the inclusion of non-planned/unclassified roads in Satara Taluka, Satara District, as rural roads under the Road Development Plan 2001-21\
-  [202606291120068920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291120068920.pdf)
-
-- Regarding the change in the evaluation period under the Mukhyamantri Samruddha Panchayat Raj Abhiyan.\
-  [202607031726185620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031726185620.pdf)
-
-- Guidelines regarding the construction of the Umed Mall building.\
-  [202607031541034120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607031541034120.pdf)
-
-## Personnel
-- Departmental Review Committee to assess the suitability for retention in government service of Group A to Group D government officers and employees under the Rural Development Department (direct establishment) upon attaining the age of 50/55 years or completing 30 years of qualifying service.\
-  [202606291548097320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291548097320.pdf)
-
-- Regarding Request Transfer of Assistant Block Development officer, Group B cadre in Maharashtra Development Services- Shri.Salunke and Smt. Kale, Assistant Block Development officer\
-  [202606300957215720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606300957215720.pdf)
+- Regarding the grant of approval for the construction of Gram Panchayat buildings in Beed district under the Hon. Balasaheb Thackeray Smruti Matoshree Gram Panchayat Construction Scheme.\
+  [202607071202241920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202241920.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

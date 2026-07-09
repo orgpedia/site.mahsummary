@@ -1,45 +1,39 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 06 July 2026 - 11 July 2026
+**Date Range**: 13 July 2026 - 18 July 2026
 
 
 ## Funds
-- Administrative approval for the procurement of machinery and equipment for the Department of Anesthesiology at Dr. Shankarrao Chavan Government Medical College, Nanded.\
-  [202606291122204713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291122204713.pdf)
+- Regarding the grant of revise administrative approval for the construction estimate of a medical college with a capacity of 100 students, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Palghar\
+  [202607071203025813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071203025813.pdf)
 
-- Regarding the grant of administrative approval for the construction estimate of the office of the Joint Director, Regional Office, Chhatrapati Sambhajinagar, at the Government Medical College, Chhatrapati Sambhajinagar.\
-  [202606291122130813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291122130813.pdf)
+- Regarding the grant of administrative approval for the construction estimate of a medical college with a capacity of 100 students, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Ambernath, District Thane.\
+  [202607071202479013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202479013.pdf)
 
-- Administrative approval for the procurement of machinery and equipment for the Department of Tuberculosis and Respiratory Diseases at Jannayak Birsa Munda Government Medical College, Nandurbar.\
-  [202606291122152213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291122152213.pdf)
+- Regarding the grant of administrative approval for the revised cost estimate for the construction of a medical college with a 100-student intake capacity, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Washim\
+  [202607081211062013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081211062013.pdf)
 
-- Regarding the utilization of funds received through insurance under the Mahatma Jyotirao Phule Jan Arogya Yojana in Government Medical/Dental Colleges and their affiliated hospitals under the administrative control of the Department.\
-  [202607011139019113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011139019113.pdf)
+- Regarding the grant of administrative approval for the revised cost estimate for the construction of a medical college with a 100-student intake capacity, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Ratnagiri.\
+  [202607071203075813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071203075813.pdf)
 
-- Administrative approval for the procurement of machinery and equipment for the Department of Obstetrics and Gynaecology at the Government Medical College and Hospital, Chhatrapati Sambhajinagar.\
-  [202606301319300513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319300513.pdf)
+- Regarding the upgradation of 8 GNM Nursing colleges, increase in student intake capacity of 5 BSc nursing colleges attached to Government Medical Colleges, and the establishment of 10 new Government  BSc nursing colleges.\
+  [202607081038488413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081038488413.pdf)
 
-- Administrative approval for the procurement of machinery and equipment for the Radiology Department at Chhatrapati Pramilaraje General Hospital, Kolhapur.\
-  [202606301319377013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319377013.pdf)
+- Regarding the grant of administrative approval for the construction estimate of a medical college with a capacity of 100 students, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Amravati\
+  [202607071202459713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202459713.pdf)
 
-- Administrative approval for the procurement of machinery and equipment for the Department of Dermatology and Venereology at Dr. Vaishampayan Memorial Government Medical College, Solapur.\
-  [202607021738218913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021738218913.pdf)
+- Administrative approval for the procurement of machinery and equipment for the Casualty Department of Indira Gandhi Government Medical College and Hospital, Nagpur.\
+  [202607081211084113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081211084113.pdf)
 
-- Administrative approval for the procurement of machinery and equipment for the Department of Pathology at the Government Medical College and Hospital, Nagpur.\
-  [202607021738150413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021738150413.pdf)
+- Regarding the grant of administrative approval for the purchase of equipment for the Department of Ophthalmology at the Government Medical College and Hospital, Chhatrapati Sambhajinagar, using funds sanctioned under the District Annual Plan.\
+  [202607081211193813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081211193813.pdf)
+
+- Regarding the grant of administrative approval for the construction estimate of a medical college with a capacity of 100 students, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Gadchiroli\
+  [202607071202526013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202526013.pdf)
 
 ## Miscellaneous
-- Administrative approval for the procurement of machinery and equipment for the Department of Respiratory Medicine at Dr. Shankarrao Chavan Government Medical College, Nanded.\
-  [202606301319423013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319423013.pdf)
-
-- Regarding the grant of administrative approval to incur expenditure from the sanctioned grant for the year 2026-27 under the object head (10) Contractual Services within the Food and Drug Administrations budget heads S-1 (2210 2701), (2210 2721), and (2210 5086).\
-  [202606301824403413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301824403413.pdf)
-
-- Administrative approval for the procurement of machinery and equipment for the Department of Orthopaedics at Sir J.J. Group of Hospitals, Mumbai.\
-  [202606301319206113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301319206113.pdf)
-
-- Administrative approval for the procurement of machinery and equipment for Government Medical College, Nandurbar\
-  [202607021738109613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021738109613.pdf)
+- Administrative approval for the procurement of machinery and equipment for the Emergency Medicine Department at Sassoon General Hospital, Pune\
+  [202607071202576813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202576813.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

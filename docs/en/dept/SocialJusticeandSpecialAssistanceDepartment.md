@@ -1,36 +1,54 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 06 July 2026 - 11 July 2026
+**Date Range**: 13 July 2026 - 18 July 2026
 
 
 ## Funds
+- Regarding the disbursement of funds for the scheme providing electricity bill concessions to agricultural pump consumers during the financial year 2026-27. (Accounting Head 28015661)\
+  [202607071436312622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071436312622.pdf)
+
+- Regarding the sanction of financial assistance under the scheme for providing financial aid to Scheduled Caste cooperative societies... Harsha Backward Class Industrial Cooperative Society Ltd., Vaishalinagar, Jaswantpura, Taluka  District Chhatrapati Sambhajinagar\
+  [202607081825257122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081825257122.pdf)
+
 - Regarding the approval of works in Jalgaon district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202606291752097822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291752097822.pdf)
+  [202607071925126522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071925126522.pdf)
+
+- Regarding the approval of works in Kolhapur district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071941576822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071941576822.pdf)
+
+- Regarding the disbursement of a long-term loan to the Mandeshi Prabodhankar Backward Class Cooperative Spinning Mill Ltd., Vaduj (Taluka Khatav, District Satara)...\
+  [202607071719062722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071719062722.pdf)
+
+- Regarding the approval of works in Nandurbar district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071931394322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071931394322.pdf)
+
+- Regarding the approval of works in Nanded district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071933581422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071933581422.pdf)
 
 - Regarding the approval of works in Nashik district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202606291750031622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291750031622....pdf)
+  [202607071938083522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071938083522.pdf)
 
-- Regarding the approval of works in Pune district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202606291800478222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291800478222.pdf)
+- Regarding administrative approval for the furniture cost estimate required to utilize the units purchased from the Nagpur Improvement Trust at Mauja Wathoda, Nagpur, as a hostel complex for the Social Justice and Special Assistance Department.\
+  [202607081702520922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081702520922.pdf)
 
-- Regarding the approval of works in Thane district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202606291757503122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606291757503122.pdf)
+- Regarding the disbursement of funds for the Mukhyamantri Majhi Ladki Bahin Yojana during the financial year 2026-27. (Accounting Head 2235D767)\
+  [202607081755033422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081755033422.pdf)
 
-- Regarding the amendment of the comprehensive policy formulated to ensure necessary uniformity across fellowship, training, skill development, and other programswhether currently implemented or proposedby autonomous institutions such as the Tribal Research and Training Institute (TRTI), Pune; Dr. Babasaheb Ambedkar Research and Training Institute (BARTI), Pune; Chhatrapati Shahu Maharaj Research and Training Institute (SARTHI), Pune; Mahatma Jyotiba Phule Research and Training Institute (Mahajyoti), Nagpur; Maharashtra Research and Training Institute (AMRUT), Mumbai; and other similar bodies in the State of Maharashtra.\
-  [202607011137180122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011137180122.pdf)
+- Regarding the approval of works in Beed district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071945025222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071945025222.pdf)
 
-- Regarding the procurement of 100 robotic cleaning machines mounted on vehiclesunder the state-level scheme From Manhole to Machine-holefor the welfare of manual scavengers, through the Mahatma Phule Backward Class Development Corporation Ltd., Mumbai, under the Social Justice and Special Assistance Department.\
-  [202606301646120322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202606301646120322.pdf)
+- Regarding the approval of works in Chhatrapati Sambhajinagar district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071936324422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071936324422.pdf)
 
-- Regarding the disbursement of funds for the Late Bhausaheb Fundkar Fruit Orchard Plantation Scheme during the financial year 2026-27. (Accounting Head 2401B321)\
-  [202607011258024322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607011258024322.pdf)
+- Regarding the approval of works in Chhatrapati Sambhajinagar district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071928144422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071928144422.pdf)
+
+- Regarding the approval of works in Parbhani district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202607071940297022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071940297022.pdf)
 
 ## Miscellaneous
-- Regarding the distribution of a grant of 20,000 per dindi (pilgrimage group) accompanying the 10 prestigious palkhis (processional palanquins) for the Ashadhi Ekadashi Wari at the pilgrimage site of Pandharpur in the year 2026, through the Chief Minister Warkari Mahamandal...\
-  [202607021749237222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021749237222.pdf)
-
-- Regarding the appointment of a Nodal Officer to ensure the monitoring and coordination of the effective implementation of schemes for senior citizens.\
-  [202607021741106722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607021741106722.pdf)
+- Regarding the structure, Board of Directors, and appointment of shareholders for the Chief Minister Warkari Corporation.\
+  [202607081251266222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081251266222.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
