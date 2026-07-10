@@ -397,5 +397,20 @@
 - Regarding the grant of Government approvalsubject to the recognition of the All India Council for Technical Education (AICTE), New Delhito an existing institute under the administrative control of the Directorate of Technical Education, for the introduction of new courses, closure of existing courses, or increase/decrease in intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (Aditya School of Business Management, Borivali (West), Mumbai)\
   [202607071855183908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071855183908.pdf)
 
+- Regarding the grant of approval to increase the intake capacity of the currently running course at the existing government-aided diploma institute, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi, effective from the academic year 2026-27. (St. Xaviers Technical Institute)\
+  [202607091513177508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091513177508.pdf)
+
+- Regarding Government approval to start a new professional course institute from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (MES Institute of Engineering and Technology, Ahilyanagar)\
+  [202607091643576408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091643576408.pdf)
+
+- Regarding the grant of approval to discontinue regional language stream courses at the existing unaided diploma institute, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi, effective from the academic year 2026-27. (Dr. A.D. Shinde Institute of Technology)\
+  [202607091501583508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091501583508.pdf)
+
+- Regarding approval for starting new Engineering Diploma courses in the existing institution, increase/decrease in admission capacity of the existing courses etc., as per the approval given by All India Council for Technical Education, New Delhi from the academic year 2026-27. (V.J. SHINDE POLYTECHNIC COLLEGE DHARASHIV)\
+  [202607091506529708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091506529708.pdf)
+
+- Regarding the granting of approval to start a new unaided diploma institute in the state from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi.  RAJE SHAHAJI POLYTECHNIC COLLEGE\
+  [202607091502438408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091502438408.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

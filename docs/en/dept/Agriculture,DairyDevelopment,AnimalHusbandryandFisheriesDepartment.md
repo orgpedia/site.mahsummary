@@ -36,5 +36,8 @@
 - Regarding the posting by promotion to the post of Regional Deputy Commissioner of Fisheries and Deputy Commissioner (Finance and Planning), Group-A (Technical).\
   [202607071114011001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071114011001.pdf)
 
+- 2026 Periodical Transfers Commissioner Animal Husbandry and Dairying, Group-A\
+  [202607091751031101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091751031101.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

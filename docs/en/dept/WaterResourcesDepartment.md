@@ -17,5 +17,8 @@
 - Administrative Approval Under Special Repairs to Embankment Repair work Of Talwade Bhamer Project Tal Satana Dist Nashik Under Dam Safety Act 2021\
   [202607071604255327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071604255327.pdf)
 
+- Regarding the transfer of an officer in the Executive Engineer (Civil) cadre.\
+  [202607091137463827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091137463827.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,9 +19,15 @@
 - Regarding the grant of Administrative Approval for the expenditure under the object 34  Scholarships/Stipends, Budget Head 2230A719, incurred during the financial year 20262027 under the Maharashtra Apprenticeship Promotion Scheme (MAPS)\
   [202607071442360003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071442360003.pdf)
 
+- Regarding the constitution of a committee for preparing standard building layout plans (Type Plans) for Government Industrial Training Institutes (ITIs) and various offices under the administrative control of the Department.\
+  [202607091547559503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091547559503.pdf)
+
 ## Miscellaneous
 - Regarding the preparation of the Capacity Building Plan (CBP) for the Department of Skill, Employment, Entrepreneurship and Innovation, and the constitution of a Capacity Building Unit (Dept-CBU) at the administrative department level.\
   [202607071651162503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071651162503.pdf)
+
+- Regarding the implementation of revised pay scales as per the 7th Pay Commission for teaching and non-teaching staff in non-government aided technical secondary schools and vocational courses at higher secondary schools (Bi-focal and Higher Secondary Vocational streams at the 2 level).\
+  [202607091535292003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091535292003.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

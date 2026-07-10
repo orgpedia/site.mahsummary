@@ -7,6 +7,10 @@
 - Regarding the grant of administrative approval for an amount of Rs. 6,35,79,854/- to purchase 604 new All-in-One computers and 12 new laptops as replacements for the 604 All-in-One computers purchased in 2020 and the 12 laptops purchased in 2019 for the Principal Seat of the Honble High Court, Mumbai, as well as the benches at Aurangabad and Nagpur.\
   [202607081336141112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081336141112....pdf)
 
+## Miscellaneous
+- Constitution of High Level Expert Committee to study the implementation of the Uniform Civil Code in the state of Maharashtra\
+  [202607091628200912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091628200912.pdf)
+
 ## Personnel
 - Allocation of advances for the purchase of new motorcycles/scooters under Sub-head (202)(00)(01)  Motor Vehicle Purchase Advances (7610 0481)  within Budget Grant Demand No. J-5, Major Head 7610 (Loans to Government Servants, etc.) for the year 2026-27.\
   [202607071230382312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071230382312.pdf)

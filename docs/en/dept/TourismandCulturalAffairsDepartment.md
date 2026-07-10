@@ -7,5 +7,8 @@
 - Regarding the grant of administrative approval for the renovation of galleries and the creation of a new gallery at the Shri Balasaheb Patil Government Museum, Paithan...\
   [202607071810203323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071810203323.pdf)
 
+- Regarding the grant of administrative approval for the construction of a memorial to Veer Jivaji Mahale at the foothills of Pratapgad Fort under the Regional Tourism Development Scheme, and for the allocation of 1.00 crore for the first phase of the work.\
+  [202607091330075823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091330075823.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

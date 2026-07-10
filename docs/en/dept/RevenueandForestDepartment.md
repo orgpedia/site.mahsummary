@@ -41,9 +41,18 @@
 - Regarding the grant of administrative approval for the construction of a new building for the offices of the Joint District Registrar (Class-1)  District Collector of Stamps, Gadchiroli, and the Joint Sub-Registrar (Class-2), Gadchiroli (District Gadchiroli)... Corrigendum...\
   [202607071812235219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071812235219.pdf)
 
+- Policy regarding the leasing of government land for fodder or bamboo cultivation under the Rajmata Jijau Womens Empowerment Scheme...\
+  [202607091308084619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091308084619.pdf)
+
+- Procedure to be followed regarding granting permission for excavation of minor minerals during development of the plot\
+  [202607091811571919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091811571919.pdf)
+
 ## Personnel
 - Regarding the partial modification of the posting specified in the transfer order for the cadre of Deputy Superintendent of Land Records (Group-B Gazetted)...\
   [202607071824131319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071824131319.pdf)
+
+- Regarding the approval to conduct the Chhatrapati Shivaji Maharaj Maharajswa Samadhan Shibir campaign on one of the three daysJuly 22, July 25, or July 26, 2026.\
+  [202607091755572319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091755572319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

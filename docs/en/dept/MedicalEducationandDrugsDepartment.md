@@ -31,6 +31,9 @@
 - Regarding the grant of administrative approval for the construction estimate of a medical college with a capacity of 100 students, an attached 430-bed hospital, hostels for male and female students, residential quarters, etc., at the Government Medical College, Gadchiroli\
   [202607071202526013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202526013.pdf)
 
+- Administrative approval for the procurement of machinery and equipment for the Dialysis Department at the Government Medical College and Hospital, Miraj.\
+  [202607091142564613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091142564613.pdf)
+
 ## Miscellaneous
 - Administrative approval for the procurement of machinery and equipment for the Emergency Medicine Department at Sassoon General Hospital, Pune\
   [202607071202576813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202576813.pdf)

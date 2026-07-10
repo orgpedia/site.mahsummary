@@ -3,6 +3,10 @@
 **Date Range**: 13 July 2026 - 18 July 2026
 
 
+## Funds
+- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies (Corrigendum  Tirthpuri Nagar Panchayat, Dist. Jalna)\
+  [202607091459361016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091459361016.pdf)
+
 ## Miscellaneous
 - Regarding nomination as nominated members and special invitees to the Gondia District Planning Committee.\
   [202607061445293916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061445293916.pdf)
@@ -24,6 +28,12 @@
 
 - Regarding nomination as nominated members and special invitees to the Akola District Planning Committee.\
   [202607061441526616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061441526616.pdf)
+
+- Guidelines regarding the implementation of the District Development Plan under the District Annual Plan (General).\
+  [202607091807365316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091807365316.pdf)
+
+- Guidelines for the Implementation of the Viksit Maharashtra Action Plan 2030\
+  [202607091544112616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091544112616.pdf)
 
 ## Personnel
 - Regarding the publication of the final seniority list of the Additional Commissioner, Group-A cadre in the Directorate of Economics and Statistics as of 01/01/2026.\
