@@ -22,6 +22,12 @@
 - Regarding the constitution of a committee for preparing standard building layout plans (Type Plans) for Government Industrial Training Institutes (ITIs) and various offices under the administrative control of the Department.\
   [202607091547559503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091547559503.pdf)
 
+- Regarding the restructuring of various committees and the revision of their terms of reference for the speedy and effective implementation of the Development of Applied Knowledge and Skills for Human Development (DAKSH) project, and regarding the exemption of the DAKSH project from the Virtual Personal Deposit Account (VPDA) mechanism.\
+  [202607101419338503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101419338503.pdf)
+
+- Regarding the provision of funds under the Chief Ministers Youth Work Training Scheme (CMYKPY) to cover the expenses for developing necessary facilities at the Chhatrapati Shivaji Maharaj Government Industrial Training Institute (ITI), Aundh, Pune district, under the Maharashtra Comprehensive International Mobility and Capability Institute (MAHIMA).\
+  [202607101423059503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101423059503.pdf)
+
 ## Miscellaneous
 - Regarding the preparation of the Capacity Building Plan (CBP) for the Department of Skill, Employment, Entrepreneurship and Innovation, and the constitution of a Capacity Building Unit (Dept-CBU) at the administrative department level.\
   [202607071651162503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071651162503.pdf)

@@ -412,5 +412,51 @@
 - Regarding the granting of approval to start a new unaided diploma institute in the state from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi.  RAJE SHAHAJI POLYTECHNIC COLLEGE\
   [202607091502438408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091502438408.pdf)
 
+- Regarding the government approval for starting a Diploma in Architecture course on unaided basis in an existing unaided course institution in the state from the academic year 2026-27, in accordance with the permission of the Council of Architecture, New Delhi. ( Pimpri Chinchwad Education Trusts S B Patil College of Architecture )\
+  [202607101637293908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101637293908.pdf)
+
+- Regarding the constitution of the new Board of Governors (BOG) for the non-government aided institution, Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded...\
+  [202607101946220508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101946220508.pdf)
+
+- Regarding Government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhifor the merger of unaided institutions operating under the same management, effective from the academic year 2026-27...\
+  [202607101146030708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101146030708.pdf)
+
+- Regarding Government approval for starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the undergraduate, postgraduate, or postgraduate diploma levelseffective from the 2026-27 academic yearat the existing institute under the Directorate of Technical Education, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (Vivekanand Education Societys Business School, Chembur, Mumbai)\
+  [202607101143032908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101143032908.pdf)
+
+- Regarding Government approval to establish an Off-Campus institute for professional courses starting from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (Hon. Shri Babanrao Pachpute Vichardhara Trusts Group of Institutions, At  Post Kashti, Taluka Shrigonda, District Ahilyanagar)\
+  [202607101154258708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101154258708.pdf)
+
+- Regarding Government approval to start a new postgraduate degree course at the existing architecture institute from the academic year 2025-26, in accordance with the approval granted by the Council of Architecture, New Delhi... (Rizvi College of Architecture, Bandra (W), Mumbai)\
+  [202607101741438908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101741438908.pdf)
+
+- As per the approval of the All India Council of Technical Education, New Delhi, regarding the Governments approval to increase the admission capacity of the existing Masters Degree Course in Engineering in Sardar Patel College of Engineering, Mumbai, a non-government aided institution, from the academic year 2026-27...\
+  [202607101151479108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101151479108.pdf)
+
+- Regarding the approval to change the name of the institute offering the existing engineering diploma course, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi, effective from the academic year 2026-27.\
+  [202607101711294208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101711294208.pdf)
+
+- Regarding Government approval to reduce the intake capacity of the existing postgraduate engineering degree program at Government College of Engineering, Jalgaon, effective from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi...\
+  [202607101149169008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101149169008.pdf)
+
+- Regarding the approval granted by the All India Council for Technical Education (AICTE), New Delhi, for new seats and the extension of existing seatseffective from the academic year 2026-27in existing unaided engineering diploma institutes within the Pune region, specifically for OCI, PIO, and foreign nationals, as well as for the children of Indian workers in Gulf countries and Non-Resident Indians (NRIs).\
+  [202607101634569008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101634569008.pdf)
+
+- Regarding Government approval for the introduction of new courses, extension of approval for NRI/PIO (etc.) seats, and approval for a separate division for an integrated-level course at Walchand College of Engineering, Sanglia non-government aided institutionstarting from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi...\
+  [202607101137488108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101137488108.pdf)
+
+- Regarding the grant of government approvalin accordance with the recognition granted by the All India Council for Technical Education (AICTE), New Delhito an existing institute under the administrative control of the Directorate of Technical Education, for starting new courses, discontinuing existing courses, or increasing/decreasing intake capacity at the Undergraduate, Postgraduate, or Postgraduate Diploma levels, effective from the academic year 2026-27... (Balaji College of Arts, Commerce and Science, Tathawade, Dist. Pune)\
+  [202607101221576208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101221576208.pdf)
+
+- Regarding the approval to change the name of the currently running course at an existing unaided engineering diploma institute, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi, effective from the academic year 2026-27.\
+  [202607101713434408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101713434408.pdf)
+
+- Regarding the approval of the Government, in accordance with the permission of the Council of Architecture, New Delhi, to start a Diploma in Architecture course on an unaided basis in an existing unaided course institution in the state from the academic year 2026-27. (Viva school of Architecture, Palghar)\
+  [202607101639569108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101639569108.pdf)
+
+## Personnel
+- Regarding the constitution of the new Board of Governors (BOG) for the non-government aided institution, Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded...\
+  [202607101210541708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101210541708.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

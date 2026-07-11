@@ -16,9 +16,18 @@
 - Regarding the grant of administrative approval for the procurement of machinery and equipment for the cocoon trading market and the post-cocoon processing pilot-cum-training center at Baramati, District Pune.\
   [202607091706243402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091706243402....pdf)
 
+- Regarding the grant of administrative and financial approval for the purchase of 21 new vehicles to replace vehicles written off by the Commissioner for Cooperation and Registrar of Cooperative Societies, Pune, and its subordinate field offices.\
+  [202607101820500802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101820500802.pdf)
+
 ## Miscellaneous
 - Regarding the recruitment process for Class IV peon posts in District Central Cooperative Banks.\
   [202607061519296802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061519296802.pdf)
+
+- Determination of posts to be filled under the reservation quota for persons with disabilitiesacross Groups A to Dwithin the establishment of the Maharashtra State Warehousing Corporation, Pune (including posts in subordinate offices), in accordance with the Rights of Persons with Disabilities Act, 2016...\
+  [202607101302553402.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101302553402.pdf)
+
+- Regarding the extension of the term of the committee constituted under the chairmanship of Mr. Pasha Patel (Chairman, State Agricultural Prices Commission, Maharashtra State) to formulate the states onion policy and suggest various measures...\
+  [202607101252467202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101252467202.pdf)
 
 ## Personnel
 - Regarding the opening of a Pool Bank Account with the Bank of Maharashtra under the Punyashlok Ahilyadevi Holkar Farmers Loan Waiver Scheme, 2026.\

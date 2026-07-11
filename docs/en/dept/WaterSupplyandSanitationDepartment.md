@@ -3,6 +3,10 @@
 **Date Range**: 13 July 2026 - 18 July 2026
 
 
+## Funds
+- Regarding the approval of the macro plan (Master Plan) of the Jal Jeevan Mission scheme and providing the necessary additional state funds for it.\
+  [202607101650031428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101650031428.pdf)
+
 ## Personnel
 - Revised Administrative Approval to Mau. Yenapur and 13 villages, Taluka Chamorshi, District Gadchiroli (Scheme Code: 7890976)water supply scheme under the Jal Jeevan Mission..\
   [202607071438480928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071438480928.pdf)

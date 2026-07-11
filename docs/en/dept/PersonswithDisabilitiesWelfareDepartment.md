@@ -28,6 +28,18 @@
 - Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the field of orthopaedic disability. Late Indira Gandhi Residential School for the Orthopaedically Disabled, Palam, Dist. Parbhanirun by Sant Gadge Maharaj Bhatkya Vimukta Jati Jamati Shikshan Prasarak Mandal, Palam (7th Pay Commission arrears).\
   [202607091831429035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091831429035.pdf)
 
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the field of hearing and speech impairment. School for the Deaf and Mute (run by the Apang Kalyan Shikshan Sanstha), Shirala, Dist. Sangli (7th Pay Commission arrears).\
+  [202607101704275335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101704275335.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the field of hearing and speech impairment. Loksevak Dadasaheb D. D. Chavan Residential School for the Hearing and Speech Impaired, Chalisgaon, Dist. Jalgaon (Arrears due to the 7th Pay Commission).\
+  [202607101707494635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101707494635.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (salary) to non-governmental organizations working in the category of intellectual disability. Late Khandu Patil Residential School for the Mentally Challenged, Dondaicha, Dist. Dhulerun by Sundaradevi Apang Shikshan va Prashikshan Prasarak Mandal, Chh. Sambhajinagar (7th Pay Commission arrears).\
+  [202607101709432135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101709432135.pdf)
+
+- Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the field of hearing and speech impairment. Shri Mukbadhir Vidyalaya, Sai Satyam Park, Wagholi, Taluka Haveli, District Pune (Arrears of salary).\
+  [202607101706128635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101706128635.pdf)
+
 ## Personnel
 - Regarding the disbursement of grant-in-aid funds (for salaries) to non-governmental organizations working in the intellectually disabled category. Sanmati School for the Mentally Challenged, Deopur, Dhule  run by Shri Radhegovind Bahu Sanstha, Dhule (7th Pay Commission arrears).\
   [202607091833004335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091833004335.pdf)

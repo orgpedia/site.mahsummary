@@ -34,9 +34,18 @@
 - Administrative approval for the procurement of machinery and equipment for the Dialysis Department at the Government Medical College and Hospital, Miraj.\
   [202607091142564613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091142564613.pdf)
 
+- Regarding the establishment of the High-Energy Medical Cyclotron Project (NHECP) at Nagpur.\
+  [202607101450333113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101450333113.pdf)
+
 ## Miscellaneous
 - Administrative approval for the procurement of machinery and equipment for the Emergency Medicine Department at Sassoon General Hospital, Pune\
   [202607071202576813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071202576813.pdf)
+
+- Regarding the grant of administrative approval for the budget estimate for the renovation and construction work of the buildings at Chhatrapati Pramilaraje General Hospital, Kolhapur.\
+  [202607101427491513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101427491513.pdf)
+
+- Regarding granting permission for the admission of 100 students to the first year at the Government Homeopathic College, Kolhapur.\
+  [202607101450355313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101450355313.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

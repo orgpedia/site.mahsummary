@@ -38,6 +38,12 @@
 - Regarding the allotment of an official residence to the Hon. Deputy Speaker of the Maharashtra Legislative Assembly.\
   [202607091601120707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091601120707.pdf)
 
+- Regarding the allotment of a government bungalow to the Hon. Deputy Chairman of the Maharashtra Legislative Council.\
+  [202607101752423507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101752423507.pdf)
+
+- Foundational training for the cadre of Mantralaya Assistant Section Officers under the State Training Policy.\
+  [202607101330289107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101330289107.pdf)
+
 ## Personnel
 - Regarding the inter-departmental transfer of officers belonging to the Mantralaya Section Officer cadre.\
   [202607081127371907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081127371907.pdf)

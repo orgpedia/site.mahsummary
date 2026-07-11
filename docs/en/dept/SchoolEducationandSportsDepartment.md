@@ -11,5 +11,8 @@
 - Regarding the sanctioning of the compulsory waiting period of Mr. Mahesh Chothe, Commissioner, Maharashtra State Council of Examination, Pune, as duty period....\
   [202607091529572421.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091529572421.pdf)
 
+- Regarding the grant of permission to start a new schoolMunicipal School No. 21, Barshi (run by the Municipal Education Board, Barshi)on a self-financed basis.\
+  [202607101239591821.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101239591821.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

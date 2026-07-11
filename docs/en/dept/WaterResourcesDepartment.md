@@ -20,5 +20,8 @@
 - Regarding the transfer of an officer in the Executive Engineer (Civil) cadre.\
   [202607091137463827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091137463827.pdf)
 
+- Regarding the posting of the Sub-Divisional Officer whose services have been repatriated from the Soil and Water Conservation Department...\
+  [202607101817071327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101817071327.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

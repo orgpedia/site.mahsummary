@@ -11,5 +11,11 @@
 - Regarding the designation of Controlling Officers and Drawing and Disbursing Officers for the Scheme for Special Assistance to States for Capital Investment.\
   [202607091741351805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091741351805.pdf)
 
+- Regarding the investment options for the contribution amount accumulated in Tier-1 for  State Government officers/employees under National Pension System.\
+  [202607101435570105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101435570105.pdf)
+
+- Regarding the constitution of a committee to determine the detailed operational procedure for the revised National Pension System.\
+  [202607101433283605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101433283605.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

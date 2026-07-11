@@ -10,5 +10,12 @@
 - Regarding the grant of administrative approval for the construction of a memorial to Veer Jivaji Mahale at the foothills of Pratapgad Fort under the Regional Tourism Development Scheme, and for the allocation of 1.00 crore for the first phase of the work.\
   [202607091330075823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091330075823.pdf)
 
+- Regarding the grant of administrative approval for the preparation of site management plans for state-protected monuments...\
+  [202607101604126123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101604126123.pdf)
+
+## Miscellaneous
+- Regarding the appointment of Smt. Geeta Nishikant Deshpande, District Superintendent of Land Records, to the post of Administrative Officer at the P.L. Deshpande Maharashtra Kala Academy, Mumbai, on deputation.\
+  [202607101159433323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101159433323.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -46,9 +46,15 @@
 - Regarding the approval of works in Parbhani district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
   [202607071940297022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071940297022.pdf)
 
+- Regarding the disbursement of funds for the financial year 2026-27 under the Scheduled Castes Programme for the scheme Incidental Expenses under the National Food Security Scheme  Mumbai City (State Share: 50). (Account Head: 44080462)\
+  [202607101555257322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101555257322.pdf)
+
 ## Miscellaneous
 - Regarding the structure, Board of Directors, and appointment of shareholders for the Chief Minister Warkari Corporation.\
   [202607081251266222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081251266222.pdf)
+
+- Regarding the purchase of school uniforms for students admitted to government residential schools under the Social Justice and Special Assistance Department...\
+  [202607101730189522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101730189522.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

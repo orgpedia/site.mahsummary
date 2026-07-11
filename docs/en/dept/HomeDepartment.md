@@ -7,6 +7,9 @@
 - Regarding the disbursement of funds amounting to Rs. 450.00 crore to the Maharashtra State Road Transport Corporation for the reimbursement of concessional fares.\
   [202607061257227529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061257227529.pdf)
 
+- Regarding the extension of tenure for the Project Director of the One State, One e-Challan project.\
+  [202607101739292629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101739292629.pdf)
+
 ## Miscellaneous
 - Regarding the approval to revive the Mali (Gardener) postclassified under the Group-D cadreon the establishment of the Superintendent of Police, Jalgaon, which had previously been designated as a dead cadre post.\
   [202607071241243729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071241243729.pdf)

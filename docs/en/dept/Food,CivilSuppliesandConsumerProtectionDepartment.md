@@ -3,6 +3,10 @@
 **Date Range**: 13 July 2026 - 18 July 2026
 
 
+## Funds
+- Public Awareness for Services Implemented under the National Food Security Scheme and the Public Distribution System Computerization Project  Media Plan 2026-27\
+  [202607101319211406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101319211406.pdf)
+
 ## Miscellaneous
 - Regarding the procurement of paddy/coarse grains under the Minimum Support Price (MSP) procurement scheme for the 2025-26 marketing season...\
   [202607081524139206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081524139206.pdf)
