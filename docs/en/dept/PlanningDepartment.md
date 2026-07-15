@@ -1,52 +1,21 @@
 # Planning Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
-
-## Funds
-- Regarding the provision of funds for delivering notified specific urban services and amenities within the jurisdiction of urban local bodies (Corrigendum  Tirthpuri Nagar Panchayat, Dist. Jalna)\
-  [202607091459361016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091459361016.pdf)
 
 ## Miscellaneous
-- Regarding nomination as nominated members and special invitees to the Gondia District Planning Committee.\
-  [202607061445293916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061445293916.pdf)
+- Regarding the development plan for the conservation and restoration of the samadhis (memorials) of Maharani Tarabai, Maharani Yesubai, and Chhatrapati Shahu Maharaj at Sangam Mahuli (Taluka  District Satara).\
+  [202607141309246316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141309246316.pdf)
 
-- Regarding nomination as nominated members and special invitees to the Wardha District Planning Committee.\
-  [202607061448283816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061448283816.pdf)
+- Regarding the development plan for the conservation, preservation, and beautification of the surroundings of Ajinkyatara Fort, Taluka and District Satara.\
+  [202607141311539016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141311539016.pdf)
 
-- Regarding the reservation of 2 of funds under the District Annual Plan (General) for implementing groundwater-related measuresspecifically to ensure the sustainability of sources for groundwater-based piped water supply schemes and to raise the overall groundwater level through large-scale groundwater recharge at the field level.\
-  [202607061239055116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061239055116.pdf)
-
-- Regarding nomination as nominated members and special invitees to the Ahilyanagar District Planning Committee.\
-  [202607061443536816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061443536816.pdf)
-
-- Regarding nomination as nominated members and special invitees to the Sangli District Planning Committee.\
-  [202607061449547616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061449547616.pdf)
-
-- Regarding nomination as nominated members and special invitees to the Bhandara District Planning Committee.\
-  [202607061447017416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061447017416.pdf)
-
-- Regarding nomination as nominated members and special invitees to the Akola District Planning Committee.\
-  [202607061441526616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061441526616.pdf)
-
-- Guidelines regarding the implementation of the District Development Plan under the District Annual Plan (General).\
-  [202607091807365316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091807365316.pdf)
-
-- Guidelines for the Implementation of the Viksit Maharashtra Action Plan 2030\
-  [202607091544112616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091544112616.pdf)
+- Regarding the appointment of two government representatives as directors on the Board of Directors of the Maharashtra Gramin Bank, a Regional Rural Bank in the state.\
+  [202607131138190016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131138190016.pdf)
 
 ## Personnel
-- Regarding the publication of the final seniority list of the Additional Commissioner, Group-A cadre in the Directorate of Economics and Statistics as of 01/01/2026.\
-  [202607071614223316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071614223316.pdf)
-
-- Regarding the publication of the final seniority list of the Deputy Commissioner, Group-A cadre in the Directorate of Economics and Statistics as of 01/01/2026.\
-  [202607071620477816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071620477816.pdf)
-
-- Regarding the publication of the provisional seniority list of the Joint Commissioner, Group-A cadre in the Directorate of Economics and Statistics as of 01/01/2026.\
-  [202607071612268716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071612268716.pdf)
-
-- Regarding the publication of the provisional seniority list as of 01/01/2026 (covering the period from 01/01/2025 to 31/12/2025) for the cadre of Research Officer/Statistical Officer, Group-B (Gazetted) in the Directorate of Economics and Statistics.\
-  [202607071616276316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071616276316.pdf)
+- Regarding the approval to open a separate Drawing Account with the Reserve Bank of India under the Centrally Sponsored Scheme Viksit Bharat Employment and Livelihood Guarantee Mission (Rural) (Viksit Bharat - G Ram G)...\
+  [202607131308239516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131308239516.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

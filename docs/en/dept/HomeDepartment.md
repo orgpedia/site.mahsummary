@@ -1,22 +1,25 @@
 # Home Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
 
 ## Funds
-- Regarding the disbursement of funds amounting to Rs. 450.00 crore to the Maharashtra State Road Transport Corporation for the reimbursement of concessional fares.\
-  [202607061257227529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061257227529.pdf)
-
-- Regarding the extension of tenure for the Project Director of the One State, One e-Challan project.\
-  [202607101739292629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101739292629.pdf)
+- Regarding the approval for the allocation of funds amounting to a total of Rs. 1,17,54,722/- to cover telephone, electricity, water, and property tax expenses for the office of the Additional Director General of Police, Maharashtra State Cyber, Mahape, Navi Mumbai.\
+  [202607141809588429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141809588429.pdf)
 
 ## Miscellaneous
-- Regarding the approval to revive the Mali (Gardener) postclassified under the Group-D cadreon the establishment of the Superintendent of Police, Jalgaon, which had previously been designated as a dead cadre post.\
-  [202607071241243729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071241243729.pdf)
+- Regarding the designation of the Commissioner of Police, Greater Mumbai, as the Controlling Officer, and the Administrative Officer subordinate to him as the Drawing and Disbursing Officer, for the purpose of drawing funds from the treasury and incurring expenditure under budget heads 40550724 and 2055A337 in connection with the Mumbai Police Housing Township Project.\
+  [202607131323254129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131323254129.pdf)
 
 ## Personnel
-- Transfers of officers in the Motor Vehicle Inspector cadre of the Transport Department via an online computerized system, 2026.\
-  [202607061555185629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061555185629.pdf)
+- Annual General Transfers - 2026\
+  [202607141918497329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141918497329.pdf)
+
+- Regarding the approval for the novation, assignment, and business transfer of the Maharashtra Cyber Security Project from M/s LT Technology Services Limited (LTTS) to M/s AMI Paradigm Solutions Private Limited (AMIP).\
+  [202607131700371929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131700371929.pdf)
+
+- Annual General Transfers - 2026\
+  [202607141915316329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141915316329.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

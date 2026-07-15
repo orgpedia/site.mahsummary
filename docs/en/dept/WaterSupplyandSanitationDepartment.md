@@ -1,24 +1,15 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
 
 ## Funds
-- Regarding the approval of the macro plan (Master Plan) of the Jal Jeevan Mission scheme and providing the necessary additional state funds for it.\
-  [202607101650031428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101650031428.pdf)
+- Financial Year 2026-27  Regarding the disbursement of funds to the concerned Zilla Parishads under the accounting head 22151914 (36-Grants-in-Aid) for the salaries of employees working on the Converted Regular Temporary (CRT) establishment for water supply schemes.\
+  [202607131415254628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131415254628.pdf)
 
-## Personnel
-- Revised Administrative Approval to Mau. Yenapur and 13 villages, Taluka Chamorshi, District Gadchiroli (Scheme Code: 7890976)water supply scheme under the Jal Jeevan Mission..\
-  [202607071438480928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071438480928.pdf)
-
-- Revised Administrative Approval to Mou. Bokhara (Retro), Taluka  District Nagpur (Scheme Code: 20071521)  water supply scheme under the Jal Jeevan Mission...\
-  [202607071438320728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071438320728.pdf)
-
-- Revised Administrative Approval to Mou. Bela, Taluka Umred, District Nagpur (Scheme Code - 20009662)  water supply scheme under the Jal Jeevan Mission..\
-  [202607071438432828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071438432828.pdf)
-
-- Revised Administrative Approval to Mau. Pardsinga, Taluka Katol, District Nagpur (Scheme Code - 20009674)water supply scheme under the Jal Jeevan Mission..\
-  [202607071438382028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071438382028.pdf)
+## Miscellaneous
+- Regarding obtaining funds from the District Mineral Foundation for direct groundwater recharge measures.\
+  [202607131658426428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131658426428.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

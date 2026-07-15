@@ -1,21 +1,11 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
-
-## Funds
-- Regarding the grant of administrative approval for the renovation of galleries and the creation of a new gallery at the Shri Balasaheb Patil Government Museum, Paithan...\
-  [202607071810203323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071810203323.pdf)
-
-- Regarding the grant of administrative approval for the construction of a memorial to Veer Jivaji Mahale at the foothills of Pratapgad Fort under the Regional Tourism Development Scheme, and for the allocation of 1.00 crore for the first phase of the work.\
-  [202607091330075823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091330075823.pdf)
-
-- Regarding the grant of administrative approval for the preparation of site management plans for state-protected monuments...\
-  [202607101604126123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101604126123.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of Smt. Geeta Nishikant Deshpande, District Superintendent of Land Records, to the post of Administrative Officer at the P.L. Deshpande Maharashtra Kala Academy, Mumbai, on deputation.\
-  [202607101159433323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101159433323.pdf)
+- Regarding the constitution of a committee to recommend the Chairperson and non-official members for the Theatre Performance Scrutiny Board.\
+  [202607131538576323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131538576323.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,15 +1,24 @@
 # Public Works Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
 
 ## Miscellaneous
-- Regarding the exemption from toll charges at toll plazasmanaged by the Public Works Department, the Maharashtra State Road Development Corporation, and the National Highways Authority of Indiafor the ten revered Palkhis (palanquin processions) of the Ashadhi Wari, as well as for the vehicles of Warkaris and devotees traveling along the designated routes.\
-  [202607061415127618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607061415127618.pdf)
+- Regarding the approval to attach the World Bank Project Sub-division No. 2, Nagpur, to the Deputy Inspector General of Police, Gadchiroli Range (under the administrative control of the Home Department), for a period of three years.\
+  [202607131627446318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131627446318.pdf)
 
 ## Personnel
-- Final seniority lists for the cadre of Deputy Chief Architect in the Public Works Department as of 01.01.2024, 01.01.2025, and 01.01.2026.\
-  [202607091226156018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091226156018.pdf)
+- Transfer Deputy-Engineer (Civil)\
+  [202607141748503718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141748503718.pdf)
+
+- Promotion and posting from the post of Architect (Group-A) to the post of Senior Architect (Group-A).\
+  [202607141718075318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141718075318.pdf)
+
+- Posting of an officer in the Executive Engineer (Electrical) cadre.\
+  [202607141721201518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141721201518.pdf)
+
+- Posting of officers in the Executive Engineer (Electrical) cadre upon transfer.\
+  [202607141715489918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141715489918.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

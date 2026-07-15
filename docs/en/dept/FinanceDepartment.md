@@ -1,21 +1,21 @@
 # Finance Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
 
 ## Funds
-- Opening of accounting heads for the disbursement of fundsderived from interest-free loans received by the State from the Central Government under the Special Assistance to States for Capital Investment schemeto various administrative departments of the State Government for capital expenditure, as well as the procedure to be followed in accordance with the Central Governments guidelines.\
-  [202607091836276605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091836276605.pdf)
+- Regarding the renewal of the medical reimbursement insurance cover scheme for serving and retired State Government officers/employees and serving and retired All India Service officers for the year 2026-27...\
+  [202607141631000805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141631000805....pdf)
 
 ## Miscellaneous
-- Regarding the designation of Controlling Officers and Drawing and Disbursing Officers for the Scheme for Special Assistance to States for Capital Investment.\
-  [202607091741351805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091741351805.pdf)
+- Report of the Comptroller and Auditor General of India on State Finances for the year 2024-2025...\
+  [202607141459309505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141459309505....pdf)
 
-- Regarding the investment options for the contribution amount accumulated in Tier-1 for  State Government officers/employees under National Pension System.\
-  [202607101435570105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101435570105.pdf)
+- Regarding the acceptance of the affidavitto be submitted by pensioners to the Pay and Accounts Officer, Mumbai, or the Treasury Office after opening a joint savings account for pension purposeson plain paper instead of stamp paper.\
+  [202607141155189605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141155189605.pdf)
 
-- Regarding the constitution of a committee to determine the detailed operational procedure for the revised National Pension System.\
-  [202607101433283605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101433283605.pdf)
+- Regarding the cancellation of the appointment made to the post of Assistant Director (Insurance), General State Service, Group A, under the Direct Recruitment quota.\
+  [202607141743444505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141743444505.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
