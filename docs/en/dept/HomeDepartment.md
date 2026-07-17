@@ -21,5 +21,8 @@
 - Annual General Transfers - 2026\
   [202607141915316329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141915316329.pdf)
 
+- Regarding the creation of supernumerary posts to fill the backlog of reservations for persons with disabilities in the State Excise Department...\
+  [202607151211457629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151211457629.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

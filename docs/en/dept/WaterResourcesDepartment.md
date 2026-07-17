@@ -1,27 +1,25 @@
 # Water Resources Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
 
 ## Funds
-- Administrative approval granted for the estimate regarding the cement concrete lining of the main canal under the special repair works for the Ghodazari Medium Project (Taluka Nagbhid, District Chandrapur).\
-  [202607071555403427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071555403427.pdf)
+- Regarding the discontinuation of the Mahatma Phule Water Users Association Campaign and the associated Punyashlok Ahilyadevi Holkar Water Users Association Management Award for the periods 201921 (biennial), 2021-23 (biennial), and 2023-24.\
+  [202607161526100527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161526100527.pdf)
 
-- Regarding the grant of administrative approval to the Amboli-Velunje Flow Diversion Scheme, Taluka Trimbakeshwar, District Nashik.\
-  [202607081657353327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607081657353327.pdf)
+## Miscellaneous
+- Administrative Approval Under Special Repairs to K.T. Weir Yevluj   Taluka Panhala  Dist Kolhapur.\
+  [202607161532587027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161532587027.pdf)
+
+- Administrative Approval Under Special Repairs to K.T. Weir Madur  Taluka Bhudargad Dist Kolhapur\
+  [202607161535388827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161535388827.pdf)
+
+- Revised criteria for the acquisition of land and houses affected by the reservoirs upstream of major, medium, and minor projects, K.T. weirs, and low/high-level barrages.\
+  [202607161520117927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161520117927.pdf)
 
 ## Personnel
-- Administrative Approval Under Special repairs to Bituminous Geomembrane Lining Work of Paithan Left Bank Canal   Km 124.100 to km 126.500.\
-  [202607071601281527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071601281527.pdf)
-
-- Administrative Approval Under Special Repairs to Embankment Repair work Of Talwade Bhamer Project Tal Satana Dist Nashik Under Dam Safety Act 2021\
-  [202607071604255327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071604255327.pdf)
-
-- Regarding the transfer of an officer in the Executive Engineer (Civil) cadre.\
-  [202607091137463827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091137463827.pdf)
-
-- Regarding the posting of the Sub-Divisional Officer whose services have been repatriated from the Soil and Water Conservation Department...\
-  [202607101817071327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101817071327.pdf)
+- Posting of officers from the Assistant Executive Engineer cadre of the Water Resources Department to the post of Executive Engineer (Civil) by way of promotion.\
+  [202607161523134827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161523134827.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,6 +19,9 @@
 - Regarding the constitution of a committee to review the service of Group-A (Gazetted) and Group-B (Gazetted) officers in the Office of the Secretary to the Hon. Governor and the Office of the Governors Household Manager, upon their attaining the age of 50/55 years or completing 30 years of qualifying service, and to consider any representations made by them.\
   [202607141743364907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141743364907.pdf)
 
+- Regarding the observance of birth anniversaries of national icons/great personalities and national days in the year 2026...\
+  [202607151759016307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151759016307.pdf)
+
 ## Personnel
 - Regarding the transfer of the services of officers/employees from the Information and Public Relations Sub-division to the Information and Public Relations Department.\
   [202607132016456307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607132016456307.pdf)

@@ -76,6 +76,30 @@
 - Regarding the sanction of funds to municipal councils under the Special scheme. For Lanja Nagar Panchayat, District Ratnagiri, under the financial year 2026-27 budget head (2217 1301). Amount: Rs. 20.00 crore.\
   [202607131546578225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131546578225.pdf)
 
+- AMRUT 2.0 Mission (Centrally Sponsored) Regarding administrative approval for the Ulhasnagar Municipal Corporations water supply project. (Rs. 211.06 crore)\
+  [202607151332020525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151332020525.pdf)
+
+- Regarding the disbursement of funds representing the shares of the State and Urban Local Bodies under the centrally sponsored AMRUT 2.0 Mission.\
+  [202607161829182525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161829182525.pdf)
+
+- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Kankavli Nagar Panchayat, District Sindhudurg Amount: Rs. 9.90 crore.\
+  [202607151517395925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151517395925.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2025-26 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 52.00 crore (Corrigendum)\
+  [202607161609444025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161609444025.pdf)
+
+- Regarding the disbursement of the Central share of funds under the Centrally Sponsored AMRUT 2.0 Mission.\
+  [202607161827286825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161827286825.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Ratnagiri Municipal Council, Dist. Ratnagiri Amount: Rs. 5.00 crore Under the financial year 2026-27 budget head (2217 1301)\
+  [202607151515123125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151515123125.pdf)
+
+- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Ulhasnagar Municipal Corporations water supply project. (Corrigendum)\
+  [202607161813413225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161813413225.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2023-24 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 6.35 crore (Corrigendum)\
+  [202607161608211625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161608211625.pdf)
+
 ## Miscellaneous
 - Regarding the constitution of a high-level inquiry committee to conduct a thorough investigation into the incident that occurred on July 8, 2026, at the Waste-to-Energy project site in Moshi.\
   [202607131817447525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131817447525.pdf)
@@ -88,6 +112,15 @@
 
 - Regarding the constitution of a high-level technical inquiry committee to conduct a thorough investigation into the incident that occurred on July 8, 2026, at the Waste-to-Energy project site in Moshi.\
   [202607131615512725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131615512725.pdf)
+
+- Regarding the distribution of funds under the Development of Basic Amenities in Municipal Corporation Areas scheme For the year 2023-24 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 22.15 crore (Corrigendum)\
+  [202607161611511425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161611511425.pdf)
+
+- Regarding the grant of administrative approval under the Maharashtra Fire Safety Mission scheme for the strengthening of fire and emergency services. Chalisgaon Municipal Council, Dist. Jalgaon\
+  [202607151154197925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151154197925.pdf)
+
+- Regarding the grant of government approval for the promotion of six officers serving on the establishment of the Parbhani City Municipal Corporation.\
+  [202607161511017325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161511017325.pdf)
 
 ## Personnel
 - Regarding Government approval for the promotion of Mr. P.V. Wankhede, Superintendent, to the post of Assistant Commissioner.\

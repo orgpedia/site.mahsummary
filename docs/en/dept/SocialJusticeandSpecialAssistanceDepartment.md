@@ -7,5 +7,9 @@
 - Regarding the grant of administrative approval for the renovation and repair of the Dr. Ambedkar College of Commerce and Economics building in Wadala, Mumbai, under the scheme for the preservation and conservation of schools, colleges, and hostels established by The Peoples Education Society, Mumbai.\
   [202607131141511222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131141511222.pdf)
 
+## Miscellaneous
+- Regarding the sanction of financial assistance under the scheme for providing financial assistance to Scheduled Caste cooperative societies... Bhikajirao Backward Class Industrial Producers Cooperative Society Ltd., Krantinagar, Taluka  District Chhatrapati Sambhajinagar.\
+  [202607161322371322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161322371322.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,39 +1,54 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 20 July 2026 - 25 July 2026
 
 
 ## Funds
-- Regarding the grant of Administrative Approval for incurring expenditure under the object head 31  Grants-in-Aid (Non-Salary) under Budget Head 2230A325 during the financial year 20262027 under the Vocational Training Fee Reimbursement Scheme.\
-  [202607071444570603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071444570603.pdf)
+- Regarding the grant of administrative approval for the training program for 270 officers from government institutions/offices under the Directorate of Vocational Education and Training...\
+  [202607161157407003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161157407003.pdf)
 
-- Regarding administrative approval for the expenditure on manpower engaged through outsourcing under the objective of 10 Contractual Services (Head 2235A534) for the financial year 2026-27...\
-  [202607071746519803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071746519803.pdf)
+## Personnel
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151546500503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151546500503.pdf)
 
-- Regarding administrative approval for the expenditure on outsourced manpower engaged under the objective of 10 Contractual Services (Head 2230A209) for the financial year 2026-27...\
-  [202607071744575603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071744575603.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151551164003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151551164003.pdf)
 
-- Regarding administrative approval for the expenditure on manpower engaged through outsourcing under the head 10 Contractual Services (Code 22254104) for the financial year 2026-27...\
-  [202607071748388603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071748388603.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151548541803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151548541803.pdf)
 
-- Regarding the grant of Administrative Approval for the expenditure under the object 34  Scholarships/Stipends, Budget Head 2230A719, incurred during the financial year 20262027 under the Maharashtra Apprenticeship Promotion Scheme (MAPS)\
-  [202607071442360003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071442360003.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151552013703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151552013703.pdf)
 
-- Regarding the constitution of a committee for preparing standard building layout plans (Type Plans) for Government Industrial Training Institutes (ITIs) and various offices under the administrative control of the Department.\
-  [202607091547559503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091547559503.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151546349703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151546349703.pdf)
 
-- Regarding the restructuring of various committees and the revision of their terms of reference for the speedy and effective implementation of the Development of Applied Knowledge and Skills for Human Development (DAKSH) project, and regarding the exemption of the DAKSH project from the Virtual Personal Deposit Account (VPDA) mechanism.\
-  [202607101419338503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101419338503.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151552478503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151552478503.pdf)
 
-- Regarding the provision of funds under the Chief Ministers Youth Work Training Scheme (CMYKPY) to cover the expenses for developing necessary facilities at the Chhatrapati Shivaji Maharaj Government Industrial Training Institute (ITI), Aundh, Pune district, under the Maharashtra Comprehensive International Mobility and Capability Institute (MAHIMA).\
-  [202607101423059503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607101423059503.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151544127903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151544127903.pdf)
 
-## Miscellaneous
-- Regarding the preparation of the Capacity Building Plan (CBP) for the Department of Skill, Employment, Entrepreneurship and Innovation, and the constitution of a Capacity Building Unit (Dept-CBU) at the administrative department level.\
-  [202607071651162503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071651162503.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151548034603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151548034603.pdf)
 
-- Regarding the implementation of revised pay scales as per the 7th Pay Commission for teaching and non-teaching staff in non-government aided technical secondary schools and vocational courses at higher secondary schools (Bi-focal and Higher Secondary Vocational streams at the 2 level).\
-  [202607091535292003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607091535292003.pdf)
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151544405403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151544405403.pdf)
+
+- Regarding the temporary promotion to the post of Director, Vocational Education and Training, Group-A (Technical) (Senior) (Gazetted), Maharashtra Education Service (S-29: 131100-216600), from the cadre of Joint Director (Training-cum-Trainee Advisor) or Joint Director (Vocational Education and Training-cum-Trainee Advisor) in the Directorate of Vocational Education and Training, or Director, Maharashtra State Board of Skill, Vocational Education and Training, Group-A (Technical) (Senior) (Gazetted), Maharashtra Education Service (S-25: 78800-209200).\
+  [202607151543162203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151543162203.pdf)
+
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151554293003.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151554293003.pdf)
+
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151550338203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151550338203.pdf)
+
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151549499403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151549499403.pdf)
+
+- Transfer of officers belonging to the Maharashtra Education Service, Group-A (Technical) (Senior) (Gazetted) cadrespecifically: Principal (Government Industrial Training Institute), Assistant Director (Vocational Education and Training), District Vocational Education and Training Officer, or Secretary (Maharashtra State Board of Skill, Vocational Education and Training) under the Directorate of Vocational Education and Training.\
+  [202607151554052803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151554052803.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
