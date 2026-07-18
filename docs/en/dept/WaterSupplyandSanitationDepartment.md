@@ -13,9 +13,28 @@
 - Regarding the provision of grants through re-appropriation under the objective 35  Grants for Creation of Capital Assets towards the Central and State share under the General Component of the Jal Jeevan Mission 2.0 programme.\
   [202607151818098328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151818098328.pdf)
 
+- Regarding granting Revised administrative approval to the tap water supply scheme at Apti Atvan, Taluka Maval, District Pune under the Jal Jeevan Mission program.\
+  [202607171128317428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171128317428.pdf)
+
+- Regarding granting Revised administrative approval to the tap water supply scheme at Uttur, Taluka Ajara, District Kolhapur under the Jal Jeevan Mission program.\
+  [202607171129209928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171129209928.pdf)
+
 ## Miscellaneous
 - Regarding obtaining funds from the District Mineral Foundation for direct groundwater recharge measures.\
   [202607131658426428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131658426428.pdf)
+
+## Personnel
+- Regarding granting Revised administrative approval to the tap water supply scheme at Pimpre Khu., Taluka Purandar, District Pune under the Jal Jeevan Mission program.\
+  [202607171129319828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171129319828.pdf)
+
+- Revised Administrative approval to Mou. Dabhadi  12 Village (Tal. Malegaon, Dist. Nashik) water supply scheme Under JJM.\
+  [202607171716013628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171716013628.pdf)
+
+- Revised Administrative approval to Mou. Samvastar (Tal. Kopargaon, Dist. Ahilyanagar) water supply scheme Under JJM.\
+  [202607171716107228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171716107228.pdf)
+
+- Regarding granting Revised administrative approval to the tap water supply scheme at Vitthalwadi, Taluka Walwa, District Sangli under the Jal Jeevan Mission program.\
+  [202607171129453928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171129453928.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

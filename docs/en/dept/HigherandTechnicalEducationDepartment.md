@@ -3,6 +3,10 @@
 **Date Range**: 20 July 2026 - 25 July 2026
 
 
+## Funds
+- Regarding the grant of administrative approval for the work of establishing digital infrastructure at Tilak Maharashtra Vidyapeeth, Pune...\
+  [202607171751357008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171751357008.pdf)
+
 ## Miscellaneous
 - Regarding the disbursement of funds to pay the rent for the hostelleased from Ashimara Housing Companyaccommodating students of the Maharashtra National Law University, Mumbai.\
   [202607141749006408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141749006408.pdf)
@@ -84,6 +88,25 @@
 
 - Regarding Government approval to start a new institute for professional courses from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (Indus Business School, Pune)\
   [202607161540284808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161540284808.pdf)
+
+- Regarding the amendment to the Government Resolution granting approval for new courses, subjects, specialization subjects, additional divisions, and new faculties in existing colleges for the academic year 2026-27. (Corrigendum)\
+  [202607171259045808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171259045808.pdf)
+
+- Regarding the continuation of the appointment of a Head of Department at a Government Polytechnic upon the completion of the probation period.\
+  [202607171531577008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171531577008.pdf)
+
+- Regarding the constitution of a high-level committee under the chairmanship of the Hon. Chief Secretary concerning online examinations...\
+  [202607171704528308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171704528308.pdf)
+
+- Regarding the grant of lien and relieving from duty. Dr. Vijaykumar K. Jagtap, Assistant Director of Libraries, Directorate of Libraries, Mumbai.\
+  [202607171420127308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171420127308.pdf)
+
+- Regarding the continuation of the appointment of a Head of Department at a Government Polytechnic upon the completion of the probation period.\
+  [202607171534048608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171534048608.pdf)
+
+## Personnel
+- Periodical Transfers (Year 2026) Principals, Heads of Departments, and Lecturers; Government Polytechnics and similar institutions; Maharashtra Polytechnic Teachers Service, Group-A.\
+  [202607171536106808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171536106808.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

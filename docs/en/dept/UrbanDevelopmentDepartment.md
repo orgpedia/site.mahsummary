@@ -100,6 +100,39 @@
 - Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2023-24 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 6.35 crore (Corrigendum)\
   [202607161608211625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161608211625.pdf)
 
+- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Mangaon Nagar Panchayat, District Raigad Amount: Rs. 34.00 lakh.\
+  [202607171659447625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171659447625.pdf)
+
+- Regarding the sanction of funds to municipal councils under the Special scheme Under accounting head (2217 1301) for the year 2026-27 For Tala Nagar Panchayat, Raigad District Total amount: Rs. 40.00 lakh\
+  [202607171652138225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171652138225.pdf)
+
+- Regarding the sanction of funds under the Vaishishtyapurna (Special/Distinctive) Scheme For the year 2025-26 (Account Head 2217 1301) For Rajura Municipal Council, Dist. Chandrapur: Amount: Rs. 3.00 crore For Gadchandur Municipal Council, Dist. Chandrapur: Amount: Rs. 2.00 crore Total Amount: Rs. 5.00 crore (Corrigendum)\
+  [202607171701452925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171701452925.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Poladpur Nagar Panchayat, Dist. Raigad Total amount: Rs. 11.00 crore (Corrigendum)\
+  [202607171646386225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171646386225........pdf)
+
+- vaishishtyapoorn yojaneantargat nagarparishadanna nidhi manjoor karanyababat. san 2023-24 sathi lekhashirsh (4217 0603) antargat degalur nagarparishad, ji. nanded karita rakkam ru. 2.00 koti umari nagarparishad, ji. nanded karita rakkam ru. 1.25 koti mukhed nagarparishad, ji. nanded karita rakkam ru. 1.00 koti nayagao nagarpanchayat, ji. nanded karita rakkam ru. 1.50 koti mudakhed nagarparishad, ji. nanded karita rakkam ru. 1.00 koti ardhapur nagarparishad, ji. nanded karita rakkam ru.0.75 koti dharmabad nagarparishad, ji. nanded karita rakkam ru. 1.50 koti biloli nagarparishad, ji. nanded karita rakkam ru. 1.65 koti kundalvadi nagarparishad, ji. nanded karita rakkam ru. 1.00 koti bhokar nagarparishad, ji. nanded karita rakkam ru. 1.35 koti kandhar nagarparishad, ji. nanded karita rakkam ru. 1.50 koti ekun rakkam ru. 14.50 kotee (shuddhipatrak) Show more 747 Regarding the sanction of funds to Municipal Councils under the Special (Vaishishtyapurna) scheme. For the year 2023-24, under Budget Head (4217 0603): For Deglur Municipal Council, Dist. Nanded Amount: Rs. 2.00 crore For Umri Municipal Council, Dist. Nanded Amount: Rs. 1.25 crore For Mukhed Municipal Council, Dist. Nanded Amount: Rs. 1.00 crore For Naigaon Nagar Panchayat, Dist. Nanded Amount: Rs. 1.50 crore For Mudkhed Municipal Council, Dist. Nanded Amount: Rs. 1.00 crore For Ardhapur Municipal Council, Dist. Nanded Amount: Rs. 0.75 crore For Dharmabad Municipal Council, Dist. Nanded Amount: Rs. 1.50 crore For Biloli Municipal Council, Dist. Nanded Amount: Rs. 1.65 crore For Kundalwadi Municipal Council, Dist. Nanded Amount: Rs. 1.00 crore For Bhokar Municipal Council, Dist. Nanded Amount: Rs. 1.35 crore For Kandhar Municipal Council, Dist. Nanded Amount: Rs. 1.50 crore Total Amount: Rs. 14.50 crore (Corrigendum)\
+  [202607171703034025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171703034025.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Mhasala Nagar Panchayat, Dist. Raigad Total amount: Rs. 25.00 lakh\
+  [202607171653555025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171653555025.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For the year 2026-27, under Budget Head (2217 1301) For Tuljapur Municipal Council, Dist. Dharashiv Amount: Rs. 55.00 Lakhs\
+  [202607171109478025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171109478025.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Mangaon Nagar Panchayat, Dist. Raigad Under the financial year 2026-27 budget head (2217 1301) Total amount: Rs. 1.00 crore\
+  [202607171655444825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171655444825.pdf)
+
+- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054) For Tuljapur Municipal Council, District Dharashiv Amount: Rs. 4.45 crore\
+  [202607171111235725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171111235725.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Shrivardhan Municipal Council, Dist. Raigad Total amount: Rs. 68.00 lakh\
+  [202607171650081425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171650081425.pdf)
+
+- Regarding the disbursement of funds to the Nashik-Trimbakeshwar Kumbh Mela Authority for works related to the Simhastha Kumbh Mela to be held at Nashik-Trimbakeshwar...\
+  [202607171739376925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171739376925.pdf)
+
 ## Miscellaneous
 - Regarding the constitution of a high-level inquiry committee to conduct a thorough investigation into the incident that occurred on July 8, 2026, at the Waste-to-Energy project site in Moshi.\
   [202607131817447525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131817447525.pdf)

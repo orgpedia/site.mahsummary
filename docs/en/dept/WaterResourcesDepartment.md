@@ -21,5 +21,8 @@
 - Posting of officers from the Assistant Executive Engineer cadre of the Water Resources Department to the post of Executive Engineer (Civil) by way of promotion.\
   [202607161523134827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161523134827.pdf)
 
+- Regarding promotion to the cadre of Executive Director/Director General with the rank equivalent to Secretary.\
+  [202607171758558527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171758558527.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

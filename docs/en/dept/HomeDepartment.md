@@ -7,6 +7,9 @@
 - Regarding the approval for the allocation of funds amounting to a total of Rs. 1,17,54,722/- to cover telephone, electricity, water, and property tax expenses for the office of the Additional Director General of Police, Maharashtra State Cyber, Mahape, Navi Mumbai.\
   [202607141809588429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141809588429.pdf)
 
+- Regarding the approval to utilize an amount of Rs. 19.60 lakhout of the total sanctioned fund of Rs. 1,50,00,000/- (Rupees One Crore Fifty Lakh only) allocated to the Superintendent of Police, Nagpur (Rural) for AI-Powered Investigation Platform Softwarefor the procurement of hardware.\
+  [202607171737075129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171737075129.pdf)
+
 ## Miscellaneous
 - Regarding the designation of the Commissioner of Police, Greater Mumbai, as the Controlling Officer, and the Administrative Officer subordinate to him as the Drawing and Disbursing Officer, for the purpose of drawing funds from the treasury and incurring expenditure under budget heads 40550724 and 2055A337 in connection with the Mumbai Police Housing Township Project.\
   [202607131323254129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131323254129.pdf)
