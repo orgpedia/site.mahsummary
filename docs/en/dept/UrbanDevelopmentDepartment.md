@@ -1,169 +1,42 @@
 # Urban Development Department
 
-**Date Range**: 20 July 2026 - 25 July 2026
+**Date Range**: 27 July 2026 - 01 August 2026
 
 
 ## Funds
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Mangaon Nagar Panchayat, District Raigad Amount: Rs. 66.00 lakh (Corrigendum)\
-  [202607141603403625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141603403625.pdf)
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Parbhani Municipal Corporation, Dist. Parbhani Amount: Rs. 19.00 crore\
+  [202607201551536925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201551536925.pdf)
 
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Navapur Municipal Councils water supply project. (Rs. 93.13 crore)\
-  [202607141854303325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141854303325.pdf)
+- Regarding the approval of works under the Development of Basic Amenities in Municipal Corporation Areas scheme. For the year 2022-23 (under Budget Head 2217 0913) For Mira-Bhayandar Municipal Corporation, Dist. Thane Amount: Rs. 220.00 crore (Corrigendum) For Thane Municipal Corporation, Dist. Thane Amount: Rs. 35.00 crore Amount: Rs. 255.00 crore (Corrigendum)\
+  [202607201805428225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201805428225.pdf)
 
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Kannad Municipal Councils water supply project. (Rs. 56.15 crore)\
-  [202607141846552625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141846552625.pdf)
+- Fund distribution to municipal corporations for works related to developing facilities for bus depot development/upgradation under the Centrally Sponsored PM-eBus Sewa scheme for the financial year 2026-27: (Central Share) (Rs. 21.46 crore) (State Share) (Rs. 14.37 crore)\
+  [202607201722597025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201722597025.pdf)
 
-- Regarding the sanction of funds to municipal councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Kankavli Nagar Panchayat, District Sindhudurg Amount: Rs. 1.50 crore\
-  [202607131543464325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131543464325.pdf)
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Pandharpur Municipal Council, Dist. Solapur Amount: Rs. 5.00 crore Under the financial year 2026-27 budget head (2217 1301)\
+  [202607201244265225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201244265225.pdf)
 
-- Central Government-sponsored AMRUT 2.0 Mission Regarding administrative approval for the Lanja Nagar Panchayat water supply project. (Rs. 65.77 crore)\
-  [202607141853134325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141853134325.pdf)
+- Regarding the sanction of funds to Municipal Councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Jawhar Municipal Council, Dist. Palghar Amount: Rs. 5.8753 crore\
+  [202607201549480225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201549480225.pdf)
 
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Mhasala Nagar Panchayat, District Raigad Amount: Rs. 1.40 crore.\
-  [202607131829533425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131829533425.pdf)
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Dhule Municipal Corporation, Dist. Dhule Amount: Rs. 5.00 crore\
+  [202607201558097325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201558097325.pdf)
 
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Tala Nagar Panchayat, District Raigad Amount: Rs. 1.25 crore.\
-  [202607131825431025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131825431025.pdf)
+- Disbursement of funds to municipal corporations for developing energy infrastructure (downstream of the meter) under the Centrally Sponsored PM-eBus Sewa scheme for the financial year 2026-27 (Central Share) (Rs. 11.01 crore)\
+  [202607201724574425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201724574425.pdf)
 
-- Under the scheme Road Subsidy (Mandatory) of Motor Vehicle Tax to be paid by the State to Urban Local Self-Government Bodies. Regarding sanction of funds. For the year 2026-27 under (head of account 3604 1054). Mhasla Nagar Panchayat Distt. For Raigad Amount Rs. 2.04 crores\
-  [202607131823323425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131823323425.pdf)
+- Regarding the State Governments approval for the implementation of the project to construct a viaduct for extending the metro line from the Kanhan River Metro Station to Kanhan City, as well as to build an additional metro station in Kanhan City, under the Nagpur Metro Rail Phase-2 project.\
+  [202607201703234925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201703234925.pdf)
 
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Devgad-Jamsande Nagar Panchayat, District Sindhudurg: Amount: Rs. 1.20 crore.\
-  [202607131541545825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131541545825.pdf)
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas for the year 2024-25 (under Budget Head 4217 0541): For Thane Municipal Corporation, Dist. Thane: Out of the amount sanctioned in principlerevised to Rs. 1034.2768090 crore (instead of Rs. 919.2768090 crore)the previously sanctioned amount is revised to Rs. 62.8553618 crore (instead of Rs. 59.8553618 crore). For Mira-Bhayandar Municipal Corporation, Dist. Thane: Out of the amount sanctioned in principlerevised to Rs. 765.7231910 crore (instead of Rs. 880.7231910 crore)the previously sanctioned amount is revised to Rs. 21.1446382 crore (instead of Rs. 24.1446382 crore). (Out of the total amount sanctioned in principle of Rs. 1800.00 crore, the previously sanctioned amount is Rs. 84.00 crore) (Corrigendum)\
+  [202607201803377125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201803377125.pdf)
 
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Sironcha Nagar Panchayat water supply project. (Rs. 34.08 crore)\
-  [202607141857485525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141857485525.pdf)
-
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Wani Municipal Councils water supply project. (Rs. 24.88 crore)\
-  [202607141900392225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141900392225.pdf)
-
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Yeola Municipal Councils water supply project. (Rs. 160.25 crore)\
-  [202607141902042225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141902042225.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme. Under accounting head (2217 1301) for the year 2026-27 For Mangaon Nagar Panchayat, Dist. Raigad Amount: Rs. 4.4550 crore\
-  [202607131822116025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131822116025.pdf)
-
-- AMRUT 2.0 Mission (Centrally Sponsored) Regarding administrative approval for the water supply project of Hatkanangale Nagar Panchayat. (Rs. 42.00 crore)\
-  [202607141844332125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141844332125.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme Under accounting head (2217 1301) for the year 2026-27 For Tala Nagar Panchayat, Raigad District Total amount: Rs. 1.30 crore\
-  [202607131827114825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131827114825.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054) For Shrivardhan Municipal Council, District Raigad Amount: Rs. 1.26 crore\
-  [202607131831544325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131831544325.pdf)
-
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Savner Municipal Councils water supply project. (Rs. 94.45 crore)\
-  [202607141855495525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141855495525.pdf)
-
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Mandangad Nagar Panchayats water supply project. (Rs. 41.69 crore)\
-  [202607141849379725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141849379725.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme. For Vikramgad Nagar Panchayat, District Palghar, under the financial year 2026-27 budget head (2217 1301). Total amount: Rs. 12.50 crore.\
-  [202607141807145025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141807145025.pdf)
-
-- AMRUT 2.0 Mission (Centrally Sponsored) Regarding administrative approval for the Lakhani Nagar Panchayat water supply project. (Rs. 34.61 crore)\
-  [202607141851556025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141851556025.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Mhasala Nagar Panchayat, Dist. Raigad Amount: Rs. 35.00 lakh\
-  [202607131828333925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131828333925.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. For the year 2024-25, under budget head (4217 0603): For Khopoli Municipal Council, Dist. Raigad: Amount: Rs. 5.74 crore For Khalapur Nagar Panchayat, Dist. Raigad: Amount: Rs. 2.00 crore For Karjat Municipal Council, Dist. Raigad: Amount: Rs. 1.78 crore Total Amount: Rs. 9.52 crore (Corrigendum)\
-  [202607141609430225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141609430225.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054) For Tala Nagar Panchayat, District Raigad Amount: Rs. 1.90 crore\
-  [202607131819553525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131819553525.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme. For Lanja Nagar Panchayat, District Ratnagiri, under the financial year 2026-27 budget head (2217 1301). Amount: Rs. 20.00 crore.\
-  [202607131546578225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131546578225.pdf)
-
-- AMRUT 2.0 Mission (Centrally Sponsored) Regarding administrative approval for the Ulhasnagar Municipal Corporations water supply project. (Rs. 211.06 crore)\
-  [202607151332020525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151332020525.pdf)
-
-- Regarding the disbursement of funds representing the shares of the State and Urban Local Bodies under the centrally sponsored AMRUT 2.0 Mission.\
-  [202607161829182525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161829182525.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Kankavli Nagar Panchayat, District Sindhudurg Amount: Rs. 9.90 crore.\
-  [202607151517395925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151517395925.pdf)
-
-- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2025-26 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 52.00 crore (Corrigendum)\
-  [202607161609444025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161609444025.pdf)
-
-- Regarding the disbursement of the Central share of funds under the Centrally Sponsored AMRUT 2.0 Mission.\
-  [202607161827286825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161827286825.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Ratnagiri Municipal Council, Dist. Ratnagiri Amount: Rs. 5.00 crore Under the financial year 2026-27 budget head (2217 1301)\
-  [202607151515123125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151515123125.pdf)
-
-- Centrally Sponsored AMRUT 2.0 Mission Regarding administrative approval for the Ulhasnagar Municipal Corporations water supply project. (Corrigendum)\
-  [202607161813413225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161813413225.pdf)
-
-- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2023-24 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 6.35 crore (Corrigendum)\
-  [202607161608211625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161608211625.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Mangaon Nagar Panchayat, District Raigad Amount: Rs. 34.00 lakh.\
-  [202607171659447625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171659447625.pdf)
-
-- Regarding the sanction of funds to municipal councils under the Special scheme Under accounting head (2217 1301) for the year 2026-27 For Tala Nagar Panchayat, Raigad District Total amount: Rs. 40.00 lakh\
-  [202607171652138225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171652138225.pdf)
-
-- Regarding the sanction of funds under the Vaishishtyapurna (Special/Distinctive) Scheme For the year 2025-26 (Account Head 2217 1301) For Rajura Municipal Council, Dist. Chandrapur: Amount: Rs. 3.00 crore For Gadchandur Municipal Council, Dist. Chandrapur: Amount: Rs. 2.00 crore Total Amount: Rs. 5.00 crore (Corrigendum)\
-  [202607171701452925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171701452925.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Poladpur Nagar Panchayat, Dist. Raigad Total amount: Rs. 11.00 crore (Corrigendum)\
-  [202607171646386225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171646386225........pdf)
-
-- vaishishtyapoorn yojaneantargat nagarparishadanna nidhi manjoor karanyababat. san 2023-24 sathi lekhashirsh (4217 0603) antargat degalur nagarparishad, ji. nanded karita rakkam ru. 2.00 koti umari nagarparishad, ji. nanded karita rakkam ru. 1.25 koti mukhed nagarparishad, ji. nanded karita rakkam ru. 1.00 koti nayagao nagarpanchayat, ji. nanded karita rakkam ru. 1.50 koti mudakhed nagarparishad, ji. nanded karita rakkam ru. 1.00 koti ardhapur nagarparishad, ji. nanded karita rakkam ru.0.75 koti dharmabad nagarparishad, ji. nanded karita rakkam ru. 1.50 koti biloli nagarparishad, ji. nanded karita rakkam ru. 1.65 koti kundalvadi nagarparishad, ji. nanded karita rakkam ru. 1.00 koti bhokar nagarparishad, ji. nanded karita rakkam ru. 1.35 koti kandhar nagarparishad, ji. nanded karita rakkam ru. 1.50 koti ekun rakkam ru. 14.50 kotee (shuddhipatrak) Show more 747 Regarding the sanction of funds to Municipal Councils under the Special (Vaishishtyapurna) scheme. For the year 2023-24, under Budget Head (4217 0603): For Deglur Municipal Council, Dist. Nanded Amount: Rs. 2.00 crore For Umri Municipal Council, Dist. Nanded Amount: Rs. 1.25 crore For Mukhed Municipal Council, Dist. Nanded Amount: Rs. 1.00 crore For Naigaon Nagar Panchayat, Dist. Nanded Amount: Rs. 1.50 crore For Mudkhed Municipal Council, Dist. Nanded Amount: Rs. 1.00 crore For Ardhapur Municipal Council, Dist. Nanded Amount: Rs. 0.75 crore For Dharmabad Municipal Council, Dist. Nanded Amount: Rs. 1.50 crore For Biloli Municipal Council, Dist. Nanded Amount: Rs. 1.65 crore For Kundalwadi Municipal Council, Dist. Nanded Amount: Rs. 1.00 crore For Bhokar Municipal Council, Dist. Nanded Amount: Rs. 1.35 crore For Kandhar Municipal Council, Dist. Nanded Amount: Rs. 1.50 crore Total Amount: Rs. 14.50 crore (Corrigendum)\
-  [202607171703034025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171703034025.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Mhasala Nagar Panchayat, Dist. Raigad Total amount: Rs. 25.00 lakh\
-  [202607171653555025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171653555025.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. For the year 2026-27, under Budget Head (2217 1301) For Tuljapur Municipal Council, Dist. Dharashiv Amount: Rs. 55.00 Lakhs\
-  [202607171109478025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171109478025.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Mangaon Nagar Panchayat, Dist. Raigad Under the financial year 2026-27 budget head (2217 1301) Total amount: Rs. 1.00 crore\
-  [202607171655444825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171655444825.pdf)
-
-- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054) For Tuljapur Municipal Council, District Dharashiv Amount: Rs. 4.45 crore\
-  [202607171111235725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171111235725.pdf)
-
-- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Shrivardhan Municipal Council, Dist. Raigad Total amount: Rs. 68.00 lakh\
-  [202607171650081425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171650081425.pdf)
-
-- Regarding the disbursement of funds to the Nashik-Trimbakeshwar Kumbh Mela Authority for works related to the Simhastha Kumbh Mela to be held at Nashik-Trimbakeshwar...\
-  [202607171739376925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607171739376925.pdf)
-
-## Miscellaneous
-- Regarding the constitution of a high-level inquiry committee to conduct a thorough investigation into the incident that occurred on July 8, 2026, at the Waste-to-Energy project site in Moshi.\
-  [202607131817447525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131817447525.pdf)
-
-- Regarding administrative approval for the Nevasa city water supply project under the Nagarotthan Mahabhiyan (Urban Upliftment Mega-Campaign)  Corrigendum.\
-  [202607141510509425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141510509425.pdf)
-
-- Regarding the suspensionunder Section 451 of the Maharashtra Municipal Corporations Actof the resolution passed by the Amravati Municipal Corporation meeting on 16.02.2018...\
-  [202607131702449325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131702449325.pdf)
-
-- Regarding the constitution of a high-level technical inquiry committee to conduct a thorough investigation into the incident that occurred on July 8, 2026, at the Waste-to-Energy project site in Moshi.\
-  [202607131615512725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131615512725.pdf)
-
-- Regarding the distribution of funds under the Development of Basic Amenities in Municipal Corporation Areas scheme For the year 2023-24 (under Budget Head 2217 0913) For Kalyan-Dombivli Municipal Corporation, Dist. Thane Amount: Rs. 22.15 crore (Corrigendum)\
-  [202607161611511425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161611511425.pdf)
-
-- Regarding the grant of administrative approval under the Maharashtra Fire Safety Mission scheme for the strengthening of fire and emergency services. Chalisgaon Municipal Council, Dist. Jalgaon\
-  [202607151154197925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607151154197925.pdf)
-
-- Regarding the grant of government approval for the promotion of six officers serving on the establishment of the Parbhani City Municipal Corporation.\
-  [202607161511017325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161511017325.pdf)
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Dhule Municipal Corporation, Dist. Dhule Amount: Rs. 5.00 crore\
+  [202607201556015425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201556015425.pdf)
 
 ## Personnel
-- Regarding Government approval for the promotion of Mr. P.V. Wankhede, Superintendent, to the post of Assistant Commissioner.\
-  [202607131704066425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131704066425.pdf)
-
-- Regarding the transfer of the Dak Bungalow site owned by the Beed Municipal Council to the Revenue Department for a girls hostel for the minority community.\
-  [202607131447094025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131447094025.pdf)
-
-- Regarding Government approval for the promotion of Mr. Prakash Barde, Assistant Law Officer, to the post of Law Officer.\
-  [202607131705491725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131705491725.pdf)
+- Regarding the leasing of commercial unit no. 3, located on the ground floor of the new office building at Reservation No. 57 (Survey No. 75A, Mauje Mhatavali) under the Uran Municipal Council, to the State Bank of India for a long-term period of 30 years.\
+  [202607201758455725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201758455725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
