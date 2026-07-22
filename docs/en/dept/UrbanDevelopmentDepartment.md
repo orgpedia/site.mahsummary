@@ -34,6 +34,16 @@
 - Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Dhule Municipal Corporation, Dist. Dhule Amount: Rs. 5.00 crore\
   [202607201556015425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201556015425.pdf)
 
+- Regarding the sanction of funds to municipal councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Mahur Nagar Panchayat, District Nanded Amount: Rs. 6.00 crore\
+  [202607211455355825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211455355825.pdf)
+
+## Miscellaneous
+- Constitution of a Committee to Undertake a Detailed Study of the Demands Raised by the Joint Action Committee of Employees and Trade Unions of the Brihanmumbai Electric Supply and Transport (BEST) Undertaking.\
+  [202607211916143225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211916143225.pdf)
+
+- Regarding the suspension of Resolution No. 969, passed by the General Body of the Navi Mumbai Municipal Corporation on 20/07/2026, under Section 451(1) of the Maharashtra Municipal Corporations Act.\
+  [202607211126431825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211126431825.pdf)
+
 ## Personnel
 - Regarding the leasing of commercial unit no. 3, located on the ground floor of the new office building at Reservation No. 57 (Survey No. 75A, Mauje Mhatavali) under the Uran Municipal Council, to the State Bank of India for a long-term period of 30 years.\
   [202607201758455725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201758455725.pdf)
