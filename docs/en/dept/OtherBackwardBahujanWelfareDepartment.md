@@ -1,28 +1,23 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 20 July 2026 - 25 July 2026
+**Date Range**: 27 July 2026 - 01 August 2026
 
-
-## Funds
-- Regarding the disbursement of Post-Matric Scholarship funds under the Centrally Sponsored Scheme PM-YASASVI.Regarding the disbursement of Post-Matric Scholarship funds under the Centrally Sponsored Scheme PM-YASASVI.\
-  [202607141217248934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141217248934....pdf)
-
-- Regarding the disbursement of funds for providing pre-matric scholarships to OBC, EBC, and DNT students under the PM-YASASVI scheme for the year 2026-27.\
-  [202607141222402834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607141222402834.pdf)
 
 ## Miscellaneous
-- Regarding the disbursement of funds to the Maharashtra Research, Advancement, and Training Institute (AMRUT), Pune, for the financial year 2026-27 under the object head 36 - Grants-in-Aid (Salaries)...\
-  [202607131414052934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131414052934.pdf)
+- Regarding the disbursement of funds by the Other Backward Bahujan Welfare Department to provide an additional grant of 50,000/- (representing the States share) to housing beneficiaries under the Pradhan Mantri Awas Yojana-Gramin (Phase-2).\
+  [202607221516128334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221516128334.pdf)
 
-- Regarding the selection of the school under the scheme Providing education to students from the Gowari community (Special Backward Category) in reputed English-medium residential schools. Little Flowers English School, Gondia (run by Pawan Shikshan Sanstha, Bhandara).\
-  [202607161213548134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161213548134.pdf)
+- Regarding the constitution of a committee to study the demand for facilitating the easy acquisition of caste certificates and caste validity certificates for members of Scheduled Tribes, as well as the issuance of caste validity certificates to blood relatives within the community.\
+  [202607221504475134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221504475134.pdf)
 
-- Regarding the selection of the school under the scheme Providing education to students from the Gowari community (Special Backward Category) in reputed English-medium residential schools. Purti Public School, Salekasa (Taluka Salekasa, District Gondia), run by the Backward Class Multipurpose Organization, Rengepar/Kohli (Taluka Lakhni, District Bhandara).\
-  [202607161215332834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161215332834.pdf)
+- Regarding the correction of the name of a work in Dhule district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
+  [202607221521310334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221521310334.pdf)
 
-## Personnel
-- Regarding the direct recruitment of Mr. Tushar Uddhav Gurava candidate from the waiting list recommended by the Maharashtra Public Service Commissionto the post of Other Backward Class and Bahujan Welfare Officer, Group-B (Gazetted) (Pay Scale S-15: Rs. 41,800132,300).\
-  [202607161513528034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161513528034....pdf)
+- Regarding the provision of funds for housing units granted post-facto approval during the years 2023-24 and 2024-25 under the Punyashlok Ahilyadevi Holkar Gharkul Yojana.\
+  [202607221519286534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221519286534.pdf)
+
+- Regarding the execution of repairs to works in Wardha district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
+  [202607221524095834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221524095834.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

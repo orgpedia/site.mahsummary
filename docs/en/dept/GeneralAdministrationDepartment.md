@@ -32,6 +32,12 @@
 - Regarding the declaration of the Stenographer cadre in the Department of Ex-Servicemen Welfare as a dying cadre...\
   [202607211257329607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211257329607.pdf)
 
+- Regarding the exclusion of a promoted Section Officer (Group B) from the training program for nominated Section Officers, under the State Training Policy.\
+  [202607221138264007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221138264007.pdf)
+
+- Regarding the appointment of a service provider to supply catering services at the official residences of the Hon. Chief Minister and the Hon. Deputy Chief Minister.\
+  [202607221449148707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221449148707....pdf)
+
 ## Personnel
 - Regarding the cancellation of the supernumerary post created for Mrs. Kirti Ganesh Pawar, Clerk-Typist, General Administration Department.\
   [202607211650411707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211650411707.pdf)

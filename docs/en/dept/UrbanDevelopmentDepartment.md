@@ -37,6 +37,21 @@
 - Regarding the sanction of funds to municipal councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Mahur Nagar Panchayat, District Nanded Amount: Rs. 6.00 crore\
   [202607211455355825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211455355825.pdf)
 
+- Fund disbursement under the Amrut Mitra initiative as part of the Centrally Sponsored AMRUT 2.0 Mission (100 Central share) (2.392075 crore)\
+  [202607221558507125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221558507125.pdf)
+
+- Regarding the disbursement of funds amounting to Rs. 5.00 croresanctioned to Pandharpur Municipal Council for the financial year 2026-27 under the Vaishishtyapurna (Special/Distinctive) Schemeto the District Collector, Solapur. Pandharpur Municipal Council, Dist. Solapur (Government Resolution No. 85(B)/2026)\
+  [202607221832286025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221832286025.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Parbhani Municipal Corporation, Dist. Parbhani Amount: Rs. 1.00 crore\
+  [202607221244507625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221244507625.pdf)
+
+- Regarding the disbursement of funds for the financial year 2026-27 to cover expenses related to Capacity Building, Skill Development, and Knowledge Management (CB, SD  KM) under the Swachh Maharashtra Mission (Urban) 2.0.\
+  [202607221657285125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221657285125.pdf)
+
+- Regarding the approval for the implementation of the centrally sponsored Urban Challenge Fund initiative in the Urban Local Bodies of the state.\
+  [202607221800162425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221800162425.pdf)
+
 ## Miscellaneous
 - Constitution of a Committee to Undertake a Detailed Study of the Demands Raised by the Joint Action Committee of Employees and Trade Unions of the Brihanmumbai Electric Supply and Transport (BEST) Undertaking.\
   [202607211916143225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211916143225.pdf)
@@ -44,9 +59,15 @@
 - Regarding the suspension of Resolution No. 969, passed by the General Body of the Navi Mumbai Municipal Corporation on 20/07/2026, under Section 451(1) of the Maharashtra Municipal Corporations Act.\
   [202607211126431825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211126431825.pdf)
 
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Parbhani Municipal Corporation, Dist. Parbhani Amount: Rs. 19.00 crore (Corrigendum)\
+  [202607221246341525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221246341525.pdf)
+
 ## Personnel
 - Regarding the leasing of commercial unit no. 3, located on the ground floor of the new office building at Reservation No. 57 (Survey No. 75A, Mauje Mhatavali) under the Uran Municipal Council, to the State Bank of India for a long-term period of 30 years.\
   [202607201758455725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201758455725.pdf)
+
+- Regarding the monetization policy for properties owned by Municipal Corporations, Municipal Councils, and Nagar Panchayats in the State\
+  [202607221321204625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221321204625.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

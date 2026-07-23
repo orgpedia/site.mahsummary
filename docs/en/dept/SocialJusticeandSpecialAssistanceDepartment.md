@@ -1,15 +1,11 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 20 July 2026 - 25 July 2026
+**Date Range**: 27 July 2026 - 01 August 2026
 
-
-## Funds
-- Regarding the grant of administrative approval for the renovation and repair of the Dr. Ambedkar College of Commerce and Economics building in Wadala, Mumbai, under the scheme for the preservation and conservation of schools, colleges, and hostels established by The Peoples Education Society, Mumbai.\
-  [202607131141511222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607131141511222.pdf)
 
 ## Miscellaneous
-- Regarding the sanction of financial assistance under the scheme for providing financial assistance to Scheduled Caste cooperative societies... Bhikajirao Backward Class Industrial Producers Cooperative Society Ltd., Krantinagar, Taluka  District Chhatrapati Sambhajinagar.\
-  [202607161322371322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161322371322.pdf)
+- Regarding the disbursement of funds under Pradhan Mantri Awas Yojana (Gramin) Phase-2 during the financial year 2026-27. (Accounting Head 2505A227)\
+  [202607221557041722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221557041722.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

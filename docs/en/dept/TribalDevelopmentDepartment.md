@@ -1,14 +1,11 @@
 # Tribal Development Department
 
-**Date Range**: 20 July 2026 - 25 July 2026
+**Date Range**: 27 July 2026 - 01 August 2026
 
 
 ## Miscellaneous
-- Regarding improvements to the admission process for government tribal hostels under the Government Process Re-engineering (GPR) initiative. (Corrigendum)\
-  [202607161125337824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161125337824.pdf)
-
-- Regarding the constitution of a committee concerning the benefits and concessions available to individuals belonging to Scheduled Tribes after religious conversion.\
-  [202607161816427424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607161816427424.pdf)
+- Regarding the approval of guidelines for the English Conversation Skill Development scheme sanctioned under Article 275(1) of the Constitution of India.\
+  [202607221437375724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221437375724.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

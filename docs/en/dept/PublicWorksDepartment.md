@@ -10,6 +10,12 @@
 - Regarding the creation and extension of supernumerary posts for employees under the Superintending Engineer, Public Works Circle, Yavatmal, whose Scheduled Tribe caste claims have been declared invalid...\
   [202607211449342918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211449342918.pdf)
 
+- Regarding the implementation of a Unique Infrastructure ID (Infra ID) portal for every infrastructure development project of the States Public Works Department...\
+  [202607221823333518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221823333518.pdf)
+
+- Regarding the formation of a Public Works Department study group to solicit suggestions and feedback on the procedure to be adopted for the systematic and time-efficient execution of processes related to the acquisition of forest land and obtaining Forest Department clearances for road and bridge projects.\
+  [202607221622114618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221622114618.pdf)
+
 ## Personnel
 - Regarding the partial modification of the posting assigned via reinstatement in the cadre of Deputy Engineer (Civil)...\
   [202607201720117218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201720117218.pdf)
