@@ -16,6 +16,9 @@
 - Regarding the disbursement of funds for the Child Helpline under the Centrally Sponsored Scheme Mission Vatsalya for the year 2026-27.\
   [202607221610527830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221610527830.pdf)
 
+- Regarding the distribution of grant for the Women Counselling Centers scheme for the financial year 2026-27.\
+  [202607231650592130.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231650592130.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of non-official members to the committee for inquiring into complaints concerning the sexual harassment of women at the workplace...\
   [202607211750454230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211750454230.pdf)
@@ -32,6 +35,9 @@
 ## Personnel
 - Regarding the disbursement of 100 of the Central share of funds (Mother Sanction) approved by the Central Government for the financial year 2026-27 under the One Stop Center component of the centrally sponsored umbrella scheme Mission Shakti....\
   [202607211502200230.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211502200230.pdf)
+
+- Regarding the publication of the provisional seniority list as of 01.01.2026 for officers in the Group-A cadre of Deputy Commissioner, under the jurisdiction of the Commissionerate of Women and Child Development, Maharashtra State, Pune, and the Integrated Child Development Services (ICDS) Scheme, Navi Mumbai\
+  [202607231453559930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231453559930.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

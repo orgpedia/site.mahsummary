@@ -52,6 +52,12 @@
 - Regarding the approval for the implementation of the centrally sponsored Urban Challenge Fund initiative in the Urban Local Bodies of the state.\
   [202607221800162425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221800162425.pdf)
 
+- Regarding the sanction of funds to Municipal Councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Mahur Nagar Panchayat, District Nanded Amount: Rs. 3.00 crore instead of Rs. 6.00 crore (Corrigendum)\
+  [202607231850232325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231850232325.pdf)
+
+- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Mahur Nagar Panchayat, District Nanded Amount: Rs. 3.00 crore\
+  [202607231849018925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231849018925.pdf)
+
 ## Miscellaneous
 - Constitution of a Committee to Undertake a Detailed Study of the Demands Raised by the Joint Action Committee of Employees and Trade Unions of the Brihanmumbai Electric Supply and Transport (BEST) Undertaking.\
   [202607211916143225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211916143225.pdf)

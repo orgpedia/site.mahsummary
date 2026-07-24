@@ -16,6 +16,9 @@
 - Regarding the formation of a Public Works Department study group to solicit suggestions and feedback on the procedure to be adopted for the systematic and time-efficient execution of processes related to the acquisition of forest land and obtaining Forest Department clearances for road and bridge projects.\
   [202607221622114618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221622114618.pdf)
 
+- Changes to the annual criteria for inspecting Public Works Department projects by the Vigilance and Quality Control Board.\
+  [202607231714117618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231714117618.pdf)
+
 ## Personnel
 - Regarding the partial modification of the posting assigned via reinstatement in the cadre of Deputy Engineer (Civil)...\
   [202607201720117218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201720117218.pdf)
@@ -61,6 +64,9 @@
 
 - Transfer order of Deputy Engineer (Civil), Public Works Department\
   [202607211612362018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211612362018.pdf)
+
+- Promotion order of Assistant Engineer Grade-2 (civil) on the post of Sub Divisional Engineer (civil), Public Works Department\
+  [202607231134347618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231134347618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

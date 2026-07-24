@@ -10,6 +10,9 @@
 - Regarding the payment of the admissible amount to the heirs of deceased employees under the Deposit-Linked Insurance Scheme.\
   [202607221435020027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221435020027.pdf)
 
+- Regarding the revision of project-wise costswithin the limits of the revised administrative approvalfor works on dams included under the Dam Rehabilitation and Improvement Project (DRIP) Phases 2 and 3.\
+  [202607231322199727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231322199727.pdf)
+
 ## Miscellaneous
 - Regarding the grant of fourth revised administrative approval for the Nagan Medium Project, Taluka Navapur, District Nandurbar.\
   [202607211607428627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211607428627.pdf)

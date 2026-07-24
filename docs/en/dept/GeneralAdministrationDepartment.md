@@ -38,6 +38,9 @@
 - Regarding the appointment of a service provider to supply catering services at the official residences of the Hon. Chief Minister and the Hon. Deputy Chief Minister.\
   [202607221449148707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221449148707....pdf)
 
+- Regarding appointment as District Guardian Secretary.\
+  [202607231642004607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231642004607.pdf)
+
 ## Personnel
 - Regarding the cancellation of the supernumerary post created for Mrs. Kirti Ganesh Pawar, Clerk-Typist, General Administration Department.\
   [202607211650411707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211650411707.pdf)

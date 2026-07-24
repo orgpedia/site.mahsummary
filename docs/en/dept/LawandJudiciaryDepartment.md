@@ -14,5 +14,8 @@
 - Regarding the grant of administrative approval for the procurement of a total of 5,017 DSC USB tokens for judicial officers and court staff in the Hon. High Court, Mumbai (including the Nagpur and Aurangabad Benches) as well as the District and Taluka courts across the state.\
   [202607221508564112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221508564112.pdf)
 
+- Legislative Internship Programme of Law and Judiciary Department\
+  [202607231610454112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231610454112.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

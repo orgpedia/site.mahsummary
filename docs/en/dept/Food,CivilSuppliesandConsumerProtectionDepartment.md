@@ -14,5 +14,9 @@
 - Regarding the approval to open a new rationing office at Mira Road in the Mira-Bhayandar city area, falling under the 146-Ovala-Majiwada constituency within the Mumbai-Thane rationing zone...\
   [202607211217060406.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211217060406.pdf)
 
+## Personnel
+- Regarding the appointment of a judicial service officer on deputation to the post of Registrar (Legal) on the establishment of the State Consumer Disputes Redressal Commission.\
+  [202607231523082906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231523082906.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

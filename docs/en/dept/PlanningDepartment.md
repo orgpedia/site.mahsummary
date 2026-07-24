@@ -26,5 +26,9 @@
 - Regarding the appointment of a consultant and the determination of fees in accordance with prescribed government guidelines and procedures for the implementation of development plans for pilgrimage sites and tourist destinations in the state.\
   [202607221757332716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221757332716.pdf)
 
+## Personnel
+- Regarding appointment by nomination to the post of Statistical Officer/Research Officer, Group B (Gazetted) cadre, in the Directorate of Economics and Statistics...\
+  [202607231633290716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231633290716.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
