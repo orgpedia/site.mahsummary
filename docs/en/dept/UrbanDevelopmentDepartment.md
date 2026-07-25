@@ -58,6 +58,9 @@
 - Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Mahur Nagar Panchayat, District Nanded Amount: Rs. 3.00 crore\
   [202607231849018925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231849018925.pdf)
 
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) Amount of Rs. 15.00 crore for Chhatrapati Sambhajinagar Municipal Corporation, Dist. Chhatrapati Sambhajinagar.\
+  [202607241858517925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241858517925.pdf)
+
 ## Miscellaneous
 - Constitution of a Committee to Undertake a Detailed Study of the Demands Raised by the Joint Action Committee of Employees and Trade Unions of the Brihanmumbai Electric Supply and Transport (BEST) Undertaking.\
   [202607211916143225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211916143225.pdf)
@@ -67,6 +70,12 @@
 
 - Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Parbhani Municipal Corporation, Dist. Parbhani Amount: Rs. 19.00 crore (Corrigendum)\
   [202607221246341525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221246341525.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme For the year 2025-26 (Account Head 2217 1301) For Karad Municipal Council, Dist. Satara Total amount of Rs. 10.00 crore (Corrigendum)\
+  [202607241652307525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241652307525.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For the year 2024-25, under Budget Head (4217 0603) For Ambernath Municipal Council, Dist. Thane Amount: Rs. 25.00 crore (Corrigendum)\
+  [202607241650504425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241650504425.pdf)
 
 ## Personnel
 - Regarding the leasing of commercial unit no. 3, located on the ground floor of the new office building at Reservation No. 57 (Survey No. 75A, Mauje Mhatavali) under the Uran Municipal Council, to the State Bank of India for a long-term period of 30 years.\

@@ -23,5 +23,9 @@
 - Regarding the execution of repairs to works in Wardha district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
   [202607221524095834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221524095834.pdf)
 
+## Personnel
+- Regarding the approval to transfer the management of Thavaraji Primary Ashram School, Nerli (Pasadgaon)run by Manav Vikas Rashtriya Shikshan Prasarak Sanstha, Daur (Taluka Ardhapur, District Nanded)to the Rainbow Sevabhavi Shikshan Prasarak Mandal, Nanded.\
+  [202607241440102334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241440102334.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

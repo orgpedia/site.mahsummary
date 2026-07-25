@@ -1,14 +1,14 @@
 # Housing Department
 
-**Date Range**: 13 July 2026 - 18 July 2026
+**Date Range**: 27 July 2026 - 01 August 2026
 
 
-## Miscellaneous
-- Regarding the inclusion of the central bathroom located on the first floor of B.D.D. Chawl No. 18, N.M. Joshi Marg, in the B.D.D. Chawl redevelopment project.\
-  [202607071715030309.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071715030309.pdf)
+## Funds
+- Regarding the disbursement of funds for the second installmentcomprising both the Central share and the corresponding State shareallocated to the Scheduled Caste (SC) component under the Beneficiary-Led Construction (BLC) vertical (SLS Code: MH 688) of the Pradhan Mantri Awas Yojana (Urban)-2.0.\
+  [202607241259027309.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241259027309....pdf)
 
-- Regarding the inclusion of the ground-floor central bathroom of B.D.D. Chawl No. 61, Worli, in the B.D.D. Chawl redevelopment project.\
-  [202607071713461709.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607071713461709.pdf)
+- Regarding the disbursement of funds for the second installmentcomprising both the Central share and the matching State shareunder the Beneficiary-Led Construction (BLC) component (SLS Code: MH 688) of the Pradhan Mantri Awas Yojana (Urban)-2.0, specifically for the Scheduled Tribe (ST) component.\
+  [202607241300530909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241300530909....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

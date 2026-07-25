@@ -3,6 +3,10 @@
 **Date Range**: 27 July 2026 - 01 August 2026
 
 
+## Funds
+- Regarding the approval for the creation of the post of Additional Superintendent of Police for the new Police Sub-Headquarters office at Pandharpur and the associated recurring and non-recurring expenditure, as well as the restructuring of Sub-Divisional Police Officer offices on a police station-wise basis.\
+  [202607241518462529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241518462529.pdf)
+
 ## Miscellaneous
 - Regarding the modification of the government decision to withdraw pending cases related to political and social agitations.\
   [202607211158157529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211158157529.pdf)
@@ -15,6 +19,9 @@
 
 - Regarding the declaration of the Maharashtra Cyber Office as the State Cyber Crime Coordination Centre (S4C), on the lines of the Indian Cyber Crime Coordination Centre (I4C).\
   [202607231251072329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231251072329.pdf)
+
+- Regarding the service review of Gazetted Officers (Group-A) under the establishment of the Director, Directorate of Civil Defence, Maharashtra State, Mumbai, who have completed 50 years of age.\
+  [202607241235387929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241235387929.pdf)
 
 ## Personnel
 - Regarding the amendment of the State Excise Departments notified services in accordance with GPR.\

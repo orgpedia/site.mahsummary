@@ -17,5 +17,8 @@
 - Regarding the completion of the probationary period of Shri Manish Baburao More, belonging to the cadre of Principal/Vice-Principal (Industrial Training Institute) / Headmaster (Government Technical School) / Assistant Apprenticeship Adviser, Maharashtra Education Service, Group-B (Technical).\
   [202607231821417703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231821417703.pdf)
 
+- Regarding the granting of approval to start new institutions and additional divisions for the 2 level bi-focal vocational course on a permanent no-grant basis, effective from the academic year 2026-27.\
+  [202607241820061803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241820061803.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

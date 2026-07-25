@@ -17,5 +17,9 @@
 - Legislative Internship Programme of Law and Judiciary Department\
   [202607231610454112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231610454112.pdf)
 
+## Personnel
+- Budget Grant Demand No. J-5 for the year 2026-27; Major Head 7610  Loans to Government Servants, etc.; Sub-head (202)(00)(01)  Motor Vehicle Purchase Advances (7610 0481): Disbursement of advances for the purchase of new motorcycles/scooters.\
+  [202607241206434012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241206434012....pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

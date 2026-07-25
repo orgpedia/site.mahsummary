@@ -14,5 +14,8 @@
 - Regarding the implementation of a pilot project in 75 villages under the Sant Gadge Baba Unnat Gram Yojana to improve the standard of living of citizens with the help of Artificial Intelligence.\
   [202607221146043920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221146043920.pdf)
 
+- Fund distribution of the financial year 2026-2027 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill, Gargoti, Amravati  YASHADA Pune.  Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  2nd installment (Non Salary  Salary)\
+  [202607241305518120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241305518120.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
