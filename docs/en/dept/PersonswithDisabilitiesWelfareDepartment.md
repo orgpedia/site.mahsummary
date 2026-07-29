@@ -16,5 +16,12 @@
 - Regarding the disbursement of grant-in-aid (non-salary) funds to non-governmental organizations (NGOs) operating in the Skill and Entrepreneurship Development Centre (Orthopedically Handicapped Category) sector: Savitribai Phule Divyang Composite Residential School, Vadsa, Dist. Gadchiroli, run by Sayali Multipurpose Educational Institution (100 funding for the years 2022-23 and 2024-25).\
   [202607271715348435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271715348435.pdf)
 
+- Regarding the appointment of an administrator for The Mancherji Navroji Banaji Andh Udyog Griha (an industrial home for the visually impaired) in Jogeshwari, Mumbaia special initiative for persons with disabilities.\
+  [202607281540082735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281540082735.pdf)
+
+## Personnel
+- Regarding the relocation of the Residential Workshop for the Disabledrun by the Indira Vikas Apang Kalyan va Punarvasan Sanstha, Janefal (Taluka Mehkar, District Buldhana)from Janefal to Mauje Savargaon Jire (Taluka  District Washim).\
+  [202607281810376335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281810376335.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

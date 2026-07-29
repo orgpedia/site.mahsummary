@@ -1,49 +1,39 @@
 # General Administration Department
 
-**Date Range**: 27 July 2026 - 01 August 2026
+**Date Range**: 03 August 2026 - 08 August 2026
 
-
-## Funds
-- Regarding the grant of administrative approval for the administrative training plan for the financial year 2026-27 under the State Training Policy.\
-  [202607201510254207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201510254207.pdf)
-
-- Regarding the appointment of a service provider to supply catering services at the official residences of the Hon. Chief Minister and the Hon. Deputy Chief Minister.\
-  [202607201301525507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607201301525507.pdf)
 
 ## Miscellaneous
-- Regarding filling the vacant post of Section Officer at the State Right to Service Commission, Nagpur, on a deputation basis.\
-  [202607211347301707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211347301707.pdf)
+- One time honorarium  to Both Level Officer and Both Level Officer Supervisor for Special Intensive Revision Programe\
+  [202607281742062707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281742062707.pdf)
 
-- Regarding filling the vacant post of Assistant Section Officer in the office of the State Right to Service Commission, Pune, on a deputation basis.\
-  [202607211705527807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211705527807.pdf)
+- Regarding the creation of a notional post for the engagement of a Head Chef (1 post) for the Mantralaya canteens through an external agency...\
+  [202607281252379207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281252379207.pdf)
 
-- Recommendation and Appointment  of Assistant Section Officer Smt. Kirti Ganesh Pawar from Limited Departmental Competative Exam 2016\
-  [202607211654267907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211654267907.pdf)
+- Repatriation from Deputation :- Shri. Nilesh M. Phalake, Deputy Secretary\
+  [202607281913141407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281913141407.pdf)
 
-- Regarding filling the vacant post of Deputy Secretary at the State Right to Service Commission, Nashik, on a deputation basis.\
-  [202607211703267707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211703267707.pdf)
+- Regarding the allocation of an office chamber to the Additional Chief Secretary (Cooperation and Marketing) and Principal Secretary (Electronics, Information Technology, and Artificial Intelligence Department).\
+  [202607281521177507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281521177507.pdf)
 
-- Regarding the grant of administrative approval for the renovation work including construction and electrical works of the Office of the Honble Lok Ayukta and Deputy Lok Ayukta.\
-  [202607211320143807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211320143807.pdf)
-
-- Regarding the declaration of the Stenographer (Higher Grade) cadre in the office of the Pre-Military Training Institute, Chhatrapati Sambhajinagar, as a dying cadre...\
-  [202607211255359507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211255359507.pdf)
-
-- Regarding the declaration of the Stenographer cadre in the Department of Ex-Servicemen Welfare as a dying cadre...\
-  [202607211257329607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211257329607.pdf)
-
-- Regarding the exclusion of a promoted Section Officer (Group B) from the training program for nominated Section Officers, under the State Training Policy.\
-  [202607221138264007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221138264007.pdf)
-
-- Regarding the appointment of a service provider to supply catering services at the official residences of the Hon. Chief Minister and the Hon. Deputy Chief Minister.\
-  [202607221449148707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607221449148707....pdf)
-
-- Regarding appointment as District Guardian Secretary.\
-  [202607231642004607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607231642004607.pdf)
+- Repatriation from Deputation :- Shri. Somanath V. Potare, Deputy Secretary\
+  [202607281910064007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281910064007....pdf)
 
 ## Personnel
-- Regarding the cancellation of the supernumerary post created for Mrs. Kirti Ganesh Pawar, Clerk-Typist, General Administration Department.\
-  [202607211650411707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607211650411707.pdf)
+- Repatriation from Deputation - Shri. Sagar A. More, Under Secretary\
+  [202607281914570607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281914570607.pdf)
+
+- Repatriation from Deputation :- Smt. Veena R. Patil, Deputy Secretary\
+  [202607281917064707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281917064707.pdf)
+
+- Assistant Section officer (Main) Exam 2021- Allotment of Waiting List Candidate as Assistant Section Officer in Mantralaya Department\
+  [202607281703416107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281703416107....pdf)
+
+- Appointment on deputation  smt. Rakhi Chavhan, Under Secretary\
+  [202607281922419107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281922419107.pdf)
+
+- Repatriation from Deputation- Shri Prasenjit D. Karlekar, Under Secretary\
+  [202607281911383107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281911383107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

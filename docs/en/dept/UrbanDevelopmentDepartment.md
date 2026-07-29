@@ -7,6 +7,9 @@
 - Regarding the sanction of funds to municipal councils under the Vaishishtyapurna (Special) Scheme. For the year 2026-27, under budget head (2217 1301) For Dapoli Nagar Panchayat, Dist. Ratnagiri Total amount: Rs. 15.00 crore\
   [202607271703212925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271703212925.pdf)
 
+- Regarding the grant of administrative approval for the construction and demolition (CD) waste processing project of Amravati Municipal Corporation, District Amravati, under the Swachh Maharashtra Mission (Urban) 2.0.\
+  [202607281759538425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281759538425.pdf)
+
 ## Miscellaneous
 - Regarding the creation of 135 new posts of Mukadam within the Chhatrapati Sambhajinagar Municipal Corporations staffing structure.\
   [202607271630225925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271630225925.pdf)
