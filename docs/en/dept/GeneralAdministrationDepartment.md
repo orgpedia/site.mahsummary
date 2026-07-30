@@ -3,6 +3,10 @@
 **Date Range**: 03 August 2026 - 08 August 2026
 
 
+## Funds
+- Regarding the grant of administrative approval for the purchase of a new Xerox machine for the Pre-Military Training Institute, Chhatrapati Sambhajinagar.\
+  [202607291522175807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291522175807.pdf)
+
 ## Miscellaneous
 - One time honorarium  to Both Level Officer and Both Level Officer Supervisor for Special Intensive Revision Programe\
   [202607281742062707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281742062707.pdf)
@@ -18,6 +22,21 @@
 
 - Repatriation from Deputation :- Shri. Somanath V. Potare, Deputy Secretary\
   [202607281910064007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281910064007....pdf)
+
+- Regarding action to be taken against officers/employees remaining absent from headquarters without permission...\
+  [202607291546480507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291546480507.pdf)
+
+- Regarding filling the post of Deputy Executive Officer at the Shree Siddhivinayak Ganapati Temple Trust, Prabhadevi, Mumbai, on deputation from Section Officers belonging to the Ministerial Cadre.\
+  [202607291304412507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291304412507.pdf)
+
+- Extension of Deputation period .. Smt. Ranjana Kumare, Section Officer\
+  [202607291300480007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291300480007.pdf)
+
+- Foundational training for the ministerial short-hand typist cadre under the State Training Policy.\
+  [202607291241218907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291241218907.pdf)
+
+- Regarding the repatriation of service upon the conclusion of the deputation period Shri Sandeep U. Rathod, Section Officer\
+  [202607291302330607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291302330607.pdf)
 
 ## Personnel
 - Repatriation from Deputation - Shri. Sagar A. More, Under Secretary\

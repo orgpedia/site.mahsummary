@@ -3,6 +3,10 @@
 **Date Range**: 03 August 2026 - 08 August 2026
 
 
+## Funds
+- Budget Demand No. J-5 for the year 2026-27, 7610 - Loans to Government Employees, etc. - (201)(00)(01) Disbursement of House Building Advance.\
+  [202607291643314812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291643314812.pdf)
+
 ## Miscellaneous
 - Conferment of Selection Grade Payscale (S-28) to the officer in the cadre of Administrator General and Official Trustee, Group-A (S-27).\
   [202607271651581212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271651581212....pdf)

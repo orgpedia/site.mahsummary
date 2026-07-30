@@ -13,6 +13,12 @@
 - Disbursement of funds to cover the interest rate differential on loans under the housing construction advance scheme for officers and personnel of the state police force.\
   [202607281654535329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281654535329.pdf)
 
+- Regarding the approval to release funds to the Maharashtra State Police Housing and Welfare Corporation for the construction of prisons during the year 2026-27...\
+  [202607291336243229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291336243229.pdf)
+
+- Regarding the sanctioning of an incentive allowance at the rate of 30 of the basic payin accordance with the 7th Pay Commissionto police officers and police personnel of the Anti-Narcotics Task Force (ANTF).\
+  [202607291145376729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291145376729.pdf)
+
 ## Miscellaneous
 - Regarding the non-granting of new licenses for live music performances (orchestras) to establishments and the non-renewal of previously granted licenses, in accordance with the provisions of the Maharashtra Police Act, 1951.\
   [202607271728341629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271728341629.pdf)

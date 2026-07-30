@@ -17,5 +17,8 @@
 - Regarding the amendment to the Chhatrapati Sambhajinagar Municipal Corporation Service (Service Entry and Classification of Services) Rules, 2021.\
   [202607271627498525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271627498525.pdf)
 
+- Establishment of a committee/study group to prescribe the procedure and framework for social and modern technology-based audits of works carried out using government development funds in urban local self-government bodies.\
+  [202607291439116125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291439116125.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
