@@ -10,6 +10,10 @@
 - Regarding the assignment of responsibilities for externally aided projects under the Public Works Department: Secretary (Roads) to serve as Project Director, and Chief Engineer (Public Works Regional Division, Konkan) to serve as Deputy Project Director.\
   [202607291719188018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291719188018.pdf)
 
+## Miscellaneous
+- Regarding the restructuring of various divisions and sub-divisions under the Superintending Engineer (Tribal), Nashik, for works pertaining to the Tribal Department.\
+  [202607311244208818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311244208818.pdf)
+
 ## Personnel
 - Regarding the appointment/posting of Assistant Engineer (Grade-2) / Branch Engineer / Junior Engineer (Civil) via request transfer.\
   [202607281849337818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281849337818.pdf)

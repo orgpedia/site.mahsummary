@@ -38,6 +38,36 @@
 - Regarding the repatriation of service upon the conclusion of the deputation period Shri Sandeep U. Rathod, Section Officer\
   [202607291302330607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291302330607.pdf)
 
+- Regarding the transfer of the task of purchasing and supplying newspapers to the offices and residences of the Hon. Deputy Chief Minister, Hon. Ministers, and Hon. Ministers of State to the respective administrative departments of the concerned Ministers offices...\
+  [202607311220433707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311220433707.pdf)
+
+- Guidelines regarding the combined probationary training program for Group A and Group B candidates recommended based on the final results of the State Services Examination-2024.\
+  [202607311814542607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311814542607.pdf)
+
+- Approval to open a new Drawing Account with the Reserve Bank of India for remitting UPS contribution amounts for All India Service officers serving on deputation and for their employers.\
+  [202607311805300407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311805300407.pdf)
+
+- Final Seniority List of Steno Typist in Mantralaya Department dated 01.01.2026\
+  [202607301804341307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301804341307.pdf)
+
+- Final Seniority List of Lower Grade Stenographer in Mantralaya Department dated 01.01.2026\
+  [202607301802027007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301802027007.pdf)
+
+- Regarding the transfer of the task of purchasing and supplying newspapers to the offices and residences of the Hon. Deputy Chief Minister, Hon. Ministers, and Hon. Ministers of State to the respective administrative departments of the concerned Ministers offices...\
+  [202607301246584507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301246584507.pdf)
+
+- Final Seniority List of Selection Grade Stenographer in Mantralaya Department dated 01.01.2026\
+  [202607301758147607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301758147607.pdf)
+
+- Regarding the appointment of Smt. Smita Patil (IFS-2011), Ministry of External Affairs, Government of India, to the post of Professor at the Yashwantrao Chavan Academy of Development Administration (YASHADA), Pune, on deputation.\
+  [202607301729326407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301729326407.pdf)
+
+- Final Seniority List of Higher Grade Stenographer in Mantralaya Department dated 01.01.2026\
+  [202607301802061707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301802061707.pdf)
+
+- Final seniority list of Senior Personal Assistants in the Mantralaya departments as of 01.01.2026.\
+  [202607301757592107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301757592107.pdf)
+
 ## Personnel
 - Repatriation from Deputation - Shri. Sagar A. More, Under Secretary\
   [202607281914570607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281914570607.pdf)
@@ -53,6 +83,9 @@
 
 - Repatriation from Deputation- Shri Prasenjit D. Karlekar, Under Secretary\
   [202607281911383107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281911383107.pdf)
+
+- Ad-hoc Promotion from the post of Deputy Secretary to the post of Joint Secretary\
+  [202607311812254707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311812254707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

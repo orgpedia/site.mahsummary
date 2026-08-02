@@ -1,17 +1,11 @@
 # Housing Department
 
-**Date Range**: 27 July 2026 - 01 August 2026
+**Date Range**: 03 August 2026 - 08 August 2026
 
 
-## Funds
-- Regarding the disbursement of funds for the second installmentcomprising both the Central share and the corresponding State shareallocated to the Scheduled Caste (SC) component under the Beneficiary-Led Construction (BLC) vertical (SLS Code: MH 688) of the Pradhan Mantri Awas Yojana (Urban)-2.0.\
-  [202607241259027309.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241259027309....pdf)
-
-- Regarding the disbursement of funds for the second installmentcomprising both the Central share and the matching State shareunder the Beneficiary-Led Construction (BLC) component (SLS Code: MH 688) of the Pradhan Mantri Awas Yojana (Urban)-2.0, specifically for the Scheduled Tribe (ST) component.\
-  [202607241300530909.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241300530909....pdf)
-
-- Regarding the disbursement of funds for the second installmentcomprising the Central share and the matching State shareunder the Beneficiary-Led Construction (BLC) component (SLS Code: MH 688) of the Pradhan Mantri Awas Yojana (Urban) 2.0, specifically for the General Category (categories other than SC/ST).\
-  [202607241252309109.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607241252309109....pdf)
+## Miscellaneous
+- Regarding the constitution of an Expert Committee to conduct a Performance Audit of the Maharashtra Slum Areas (Improvement, Clearance and Redevelopment) Act, 1971.\
+  [202607311608003009.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311608003009.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

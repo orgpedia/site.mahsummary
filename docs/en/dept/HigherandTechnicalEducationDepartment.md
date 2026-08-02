@@ -26,5 +26,11 @@
 - Regarding the observance of August 1stthe birth anniversary of Sahityaratna Lokshahir Anna Bhau Satheas Writing Inspiration Day.\
   [202607291629372008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291629372008.pdf)
 
+- Action to be taken pursuant to the order dated 28.07.2026 passed by the Honble High Court, Mumbai (Aurangabad Bench), in Writ Petition No. 8588/2026 (Shri Sameer Jamil Deshpande vs. Government of Maharashtra and Others)...\
+  [202607311510054608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607311510054608.pdf)
+
+- Academic Year 2026-27 Regarding the granting of approval for a new course in an existing college. (Court Case)\
+  [202607301601104208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301601104208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

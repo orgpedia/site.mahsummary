@@ -13,5 +13,9 @@
 - Regarding the distribution of funds for the Chief Ministers Employment Generation Programme under the Scheduled Caste Component Programme in the financial year 2026-27. (Account Head 2851 6692)\
   [202607281242140322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281242140322.pdf)
 
+## Miscellaneous
+- Regarding the disbursement of funds for Centrally Sponsored Schemes for the financial year 2026-27 under the Development Action Plan for Scheduled Castes.\
+  [202607301213241422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301213241422.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
