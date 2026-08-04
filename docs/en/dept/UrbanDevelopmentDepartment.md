@@ -1,24 +1,19 @@
 # Urban Development Department
 
-**Date Range**: 03 August 2026 - 08 August 2026
+**Date Range**: 10 August 2026 - 15 August 2026
 
 
 ## Funds
-- Regarding the sanction of funds to municipal councils under the Vaishishtyapurna (Special) Scheme. For the year 2026-27, under budget head (2217 1301) For Dapoli Nagar Panchayat, Dist. Ratnagiri Total amount: Rs. 15.00 crore\
-  [202607271703212925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271703212925.pdf)
-
-- Regarding the grant of administrative approval for the construction and demolition (CD) waste processing project of Amravati Municipal Corporation, District Amravati, under the Swachh Maharashtra Mission (Urban) 2.0.\
-  [202607281759538425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607281759538425.pdf)
+- Regarding the publication of the empanelled list and guidelines for used water management projects under the Centrally Sponsored Swachh Maharashtra Mission (Urban) 2.0.\
+  [202608031352159425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031352159425.pdf)
 
 ## Miscellaneous
-- Regarding the creation of 135 new posts of Mukadam within the Chhatrapati Sambhajinagar Municipal Corporations staffing structure.\
-  [202607271630225925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271630225925.pdf)
+- Regarding the grant of administrative approval to proposals for biomining (Legacy Waste Remediation) submitted by Urban Local Bodies in the state, sanctioned under the Dumpsite Remediation Accelerator Programme (DRAP) of the Swachh Maharashtra Mission (Urban) 2.0.\
+  [202608031348197925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031348197925.pdf)
 
-- Regarding the amendment to the Chhatrapati Sambhajinagar Municipal Corporation Service (Service Entry and Classification of Services) Rules, 2021.\
-  [202607271627498525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271627498525.pdf)
-
-- Establishment of a committee/study group to prescribe the procedure and framework for social and modern technology-based audits of works carried out using government development funds in urban local self-government bodies.\
-  [202607291439116125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607291439116125.pdf)
+## Personnel
+- Regarding the leasing of 41 shop unitsconstructed on land owned by the Khamgaon Municipal Council (Nazul Sheet No. 33C; Survey Nos. 5/1, 5/2, 7, and 8)for a period of 30 years.\
+  [202608031803334125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031803334125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
