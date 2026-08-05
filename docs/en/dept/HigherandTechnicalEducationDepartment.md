@@ -10,5 +10,8 @@
 - Regarding the deputation of faculty members from government polytechnics for higher education under the Quality Improvement Scheme.\
   [202608031839387708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031839387708.pdf)
 
+- Regarding government approval to reduce the intake capacity for the existing degree course in Pharmacy at the institute, effective from the academic year 2026-27, in accordance with the approval granted by the Pharmacy Council of India, New Delhi... Vijayrao Naik College of Pharmacy, Kankavli\
+  [202608041754482208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041754482208.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

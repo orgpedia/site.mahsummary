@@ -13,9 +13,43 @@
 - Regarding the disbursement of funds of Rs. 39,86,74,000/- for the scheme Additional State Share (100) for the Scheduled Caste category under the Social Justice and Special Assistance Department for the financial year 2026-27 under the Pradhan Mantri Awas Yojana-Gramin.\
   [202608031146482720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031146482720.pdf)
 
+## Miscellaneous
+- Regarding the inclusion of non-planned/unclassified roads in Wardha Taluka, Wardha District, as rural roads under the Road Development Plan 2001-21.\
+  [202608031124044020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124044020.pdf)
+
+- Regarding the inclusion of non-planned/unclassified roads in Mulshi Taluka, Pune District, as rural roads under the Road Development Plan 2001-21.\
+  [202608031124364320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124364320.pdf)
+
+- Regarding the inclusion of non-planned/unclassified roads in Purna Taluka, Parbhani District, as rural roads under the Road Development Plan 2001-21.\
+  [202608031124248420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124248420.pdf)
+
+- Regarding the increase in the food allowance for trainees and the honorarium for guest lecturers at the Gramsevak Training Centre, Panchayat Raj Training Centre, and Composite Training Centre.\
+  [202608041037269820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041037269820.pdf)
+
+- Regarding the inclusion of non-planned/unclassified roads in Lohara Taluka, Dharashiv District, as rural roads under the Road Development Plan 2001-21.\
+  [202608031124187420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124187420.pdf)
+
+- Regarding inclusion of non-planned/unclassified roads in Madha, Akkalkot, South Solapur talukas of Solapur district as rural roads in the Road Development Plan 2001-21.\
+  [202608031124302420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124302420.pdf)
+
+- Regarding the inclusion of non-planned/unclassified roads in Sangola Taluka, Solapur District, as rural roads under the Road Development Plan 2001-21.\
+  [202608031124023720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124023720.pdf)
+
+- Regarding the inclusion of non-planned/unclassified roads in Jat Taluka, Sangli District, as rural roads under the Road Development Plan 2001-21.\
+  [202608031124132120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124132120.pdf)
+
+- Regarding the inclusion of non-planned/unclassified roads in the Lonar, Sindkhed Raja, Chikhli, and Buldhana talukas of Buldhana district as Rural Roads under the Road Development Plan 2001-21.\
+  [202608031124485220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124485220.pdf)
+
 ## Personnel
 - Regarding the Restructuring of the study committee concerning the demands of Umed contractual officers and employees working under the Maharashtra State Rural Livelihood Mission.\
   [202608031234262820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031234262820.pdf)
+
+- Maharashtra Development Service, block Development Officer (S-20), Group-A. Regarding the transfer of Mr. Amol chandrahar Jadhav in the cadre.\
+  [202608041149294320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041149294320.pdf)
+
+- Amendments to the Transfer Policy for Intra-District Transfers of Group C (Class III) and Group D (Class IV) Cadre Employees of Zilla Parishads under the Government Resolution dated 15 th May, 2014.\
+  [202608041656315420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041656315420.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
