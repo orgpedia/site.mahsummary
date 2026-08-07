@@ -16,5 +16,8 @@
 - Promotion and posting from the post of Sub-Divisional Engineer (Civil) to the post of Executive Engineer (Civil).\
   [202608041532188718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041532188718.pdf)
 
+- Promotion and posting from the lower cadre of Superintending Engineer (Civil) to the higher cadre of Chief Engineer (Civil).\
+  [202608051753120418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051753120418.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

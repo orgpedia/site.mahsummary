@@ -1,15 +1,11 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 03 August 2026 - 08 August 2026
+**Date Range**: 10 August 2026 - 15 August 2026
 
 
-## Funds
-- Regarding the approval to rent premises for the official use of the Other Backward Bahujan Welfare Department (itself), Mantralaya, Mumbai.\
-  [202607301151096434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607301151096434.pdf)
-
-## Personnel
-- Regarding the repatriation of the services of Smt. Chhaya Gadekar, Deputy Director, Directorate of Other Backward Class and Bahujan Welfare, Pune, to her parent departmentnamely, the Social Justice and Special Assistance Department.\
-  [202607271634446334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271634446334.pdf)
+## Miscellaneous
+- Regarding the constitution of a study group committee to facilitate the effective implementation of the Centrally Sponsored PM YASASVI scholarship schemesspecifically pre-matric and post-matric scholarshipswithin the state for students belonging to the VJNT, OBC, and SBC categories, through the National Scholarship Portal (NSP) system.\
+  [202608051750542634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051750542634.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

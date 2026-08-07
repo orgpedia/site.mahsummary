@@ -19,5 +19,8 @@
 - Regarding the revival of Group D posts within the establishment of police unit offices in the Maharashtra Police Force for compassionate appointments.\
   [202608041620462829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041620462829.pdf)
 
+- Regarding the sanction of remuneration / honorarium to officers and personnel assigned to the Election Cell under the Greater Mumbai Police Commissionerate for the work of Lok Sabha General Election - 2024.\
+  [202608051441472429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051441472429.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

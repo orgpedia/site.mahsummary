@@ -10,6 +10,9 @@
 - Distribution under the Tribal Sub-Plan for the Expansion of Training for Craftsmen and Supervisors at Industrial Training Institutes scheme during the Financial year 2026-27.\
   [202608041459292124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041459292124.pdf)
 
+- Distribution of funds under the incentive award scheme for tribal students passing the Secondary School Certificate (SSC) and Higher Secondary Certificate (HSC) examinations during the financial year 2026-27, under the Tribal Sub-Plan. Budget Head (2225-3411-31).\
+  [202608051533101424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051533101424.pdf)
+
 ## Miscellaneous
 - Regarding the approval of guidelines for the Innovative Science Centre in Government Ashram School scheme, sanctioned under Article 275(1) of the Constitution of India.\
   [202608041259405324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041259405324.pdf)
@@ -31,6 +34,9 @@
 
 - Regarding the approval of guidelines for the scheme Training on Hospitality  Hotel (Home Stay) Management for selected beneficiaries, sanctioned under Article 275(1) of the Constitution of India.\
   [202608041315333824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041315333824.pdf)
+
+- Consolidated revised guidelines regarding bringing uniformity to the amenities and facilities provided to students in government tribal hostels.\
+  [202608051848032224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051848032224.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

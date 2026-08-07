@@ -7,5 +7,9 @@
 - Regarding the disbursement of funds to the Maharashtra State Haj Committee for the financial year 2026-27...\
   [202608041806224114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608041806224114.pdf)
 
+## Miscellaneous
+- Regarding the implementation of scholarship schemes for minority students in the state through the Mahashishvrutti integrated computer system, starting from the academic year 2026-27.\
+  [202608051727369114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051727369114.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
