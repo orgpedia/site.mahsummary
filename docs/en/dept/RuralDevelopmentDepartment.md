@@ -41,6 +41,9 @@
 - Regarding the inclusion of non-planned/unclassified roads in the Lonar, Sindkhed Raja, Chikhli, and Buldhana talukas of Buldhana district as Rural Roads under the Road Development Plan 2001-21.\
   [202608031124485220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124485220.pdf)
 
+- Regarding the announcement of the State-Level Ideal Gram Panchayat Officer Award for the year 2024-25...\
+  [202608051528270320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051528270320.pdf)
+
 ## Personnel
 - Regarding the Restructuring of the study committee concerning the demands of Umed contractual officers and employees working under the Maharashtra State Rural Livelihood Mission.\
   [202608031234262820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031234262820.pdf)
