@@ -13,6 +13,42 @@
 - Regarding the disbursement of funds of Rs. 39,86,74,000/- for the scheme Additional State Share (100) for the Scheduled Caste category under the Social Justice and Special Assistance Department for the financial year 2026-27 under the Pradhan Mantri Awas Yojana-Gramin.\
   [202608031146482720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031146482720.pdf)
 
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) at the Shrine of Nagebaba Gosavi, Bhenda, Taluka Nevasa, District Ahilyanagar.\
+  [202608061107141020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061107141020.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Vithoba Biroba Devasthan, Siddheshwarkuroli, Taluka Khatav, District Satara.\
+  [202608061107372220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061107372220.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Varneshwar Mahadev Temple, June Kodde, Taluka Shindkheda, District Dhule.\
+  [202608071135465420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071135465420.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Gahininath Temple, Mauje Pirachiwadi, Taluka Kagal, District Kolhapur.\
+  [202608071307362320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071307362320.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Bhojling Devasthan, Jambhulni, Taluka Man, District Satara.\
+  [202608071135487420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071135487420.pdf)
+
+- Regarding the grant of administrative approval to the works of the Directorate of Tourism and the disbursement of funds under the Regional Tourism Development Scheme for the year 2025-26.\
+  [202608071307523320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071307523320.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Sayyad Sadat Saheb Pir Dargah, Alas, Taluka Shirol, District Kolhapur.\
+  [202608071307461420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071307461420.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) at Shri Dhandai Temple, Mhasdi, Taluka Sakri, District Dhule.\
+  [202608061107201720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061107201720.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Gorakshanath Maharaj Temple Religious Trust, Mauje Hisale, Taluka Shirpur, District Dhule.\
+  [202608071135378920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071135378920.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Vitthalai Devi Temple, Khatangale, Taluka Karveer, District Kolhapur.\
+  [202608071307577920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071307577920.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Gorakshanath Maharaj Temple, Karvand, Taluka Shirpur, District Dhule.\
+  [202608071135318620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071135318620.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Bhairavnath Temple Devasthan, Bamnoli, Taluka Miraj, District Sangli.\
+  [202608071307342020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071307342020.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-planned/unclassified roads in Wardha Taluka, Wardha District, as rural roads under the Road Development Plan 2001-21.\
   [202608031124044020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031124044020.pdf)
@@ -43,6 +79,21 @@
 
 - Regarding the announcement of the State-Level Ideal Gram Panchayat Officer Award for the year 2024-25...\
   [202608051528270320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051528270320.pdf)
+
+- Regarding the constitution of a Capacity Building Unit (Dept.-CBU) at the administrative department level to prepare the Capacity Building Plan (CBP) for the Rural Development  Department...\
+  [202608051632135720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051632135720.pdf)
+
+- Regarding District Attachment of Probationary Block Development Officer,  Group-A in Combined Probationary Training Program (CPTP)-12\
+  [202608071111441720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071111441720.pdf)
+
+- Regarding District Attachment of Probationary Assistant Block Development Officer, Group-B in Combined Probationary Training Program (CPTP)-12\
+  [202608071111598920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071111598920.pdf)
+
+- Regarding the reconstitution of the State-Level Evaluation Committee under the Mukhyamantri Samruddha Panchayat Raj Abhiyan.\
+  [202608071135295320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071135295320.pdf)
+
+- Regarding the announcement of the State-Level Ideal Gram Panchayat Officer Awards for the years 2022- 23 and 2023-24..\
+  [202608071517342520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071517342520.pdf)
 
 ## Personnel
 - Regarding the Restructuring of the study committee concerning the demands of Umed contractual officers and employees working under the Maharashtra State Rural Livelihood Mission.\

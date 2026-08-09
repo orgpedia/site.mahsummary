@@ -3,6 +3,10 @@
 **Date Range**: 10 August 2026 - 15 August 2026
 
 
+## Funds
+- Regarding Temporary posting of Probationary Section Officers of Mantralaya Cadre Under CPTP-12\
+  [202608071835511607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071835511607.pdf)
+
 ## Miscellaneous
 - Regarding filling up the posts of Assistant Commissioner in Electronics, Information Technology and Artificial Intelligence Commissionerate on Deputation Basis.\
   [202608031745388307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608031745388307.pdf)
@@ -24,6 +28,27 @@
 
 - Regarding posts to be filled on deputation under the integrated probationary training program at the Vasantrao Naik State Agricultural Extension Management Training Institute, Nagpur.\
   [202608051643522907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051643522907.pdf)
+
+- Regarding the appointment on deputation to the post of Associate Professor (Group-A) at the Yashwantrao Chavan Academy of Development Administration (YASHADA), Pune.\
+  [202608071220319007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071220319007.pdf)
+
+- Creation of Supernumerary Posts for Probationary Section Officers Mantralaya Cadre under CPTP-12\
+  [202608071837274707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071837274707.pdf)
+
+- Combined Probationary Training Programme-12: Regarding the creation of supernumerary posts and the determination of pay for probationary Section Officers (Group-B cadre)selected by the Maharashtra Public Service Commission based on the final results of the State Services (Main) Examination-2024during their probationary training period.\
+  [202608071833488007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071833488007.pdf)
+
+- Regarding the honorarium payable to the appointed Electoral Registration Officers (EROs) and Assistant Electoral Registration Officers (AEROs) as per the directions of the Election Commission of India.\
+  [202608061220105607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061220105607.pdf)
+
+- Regarding the assignment of additional charge of the post of Director at the Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Academy, Amravatia divisional administrative training institute.\
+  [202608061541251407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061541251407.pdf)
+
+- Regarding Regular Dates for the Post of Joint Secretary (Select List-2025-26)\
+  [202608071322398607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071322398607.pdf)
+
+- Regarding the allotment of office space within the administrative building at Konkan Bhavan to the offices of the Divisional Commissioner, Konkan Division (Revenue Branch) and the Superintendent of Police/Deputy Commissioner of Police (Police Communication and Information Technology  Coastal Division, Navi Mumbai).\
+  [202608071645006007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071645006007.pdf)
 
 ## Personnel
 - Promotion from Higher Grade Stenographer to Selection Grade Stenographer   - 2026\
@@ -85,6 +110,18 @@
 
 - Adhoc promotion to the post of Under Secretary.\
   [202608052223194707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608052223194707.pdf)
+
+- Regarding Temporary posting of Probationary Section Officers of Mantralaya Cadre Under CPTP-12\
+  [202608071838361507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071838361507.pdf)
+
+- Regarding the transfer of officers belonging to the Mantralaya Section Officer cadre.\
+  [202608061101135907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061101135907.pdf)
+
+- Finalising the Provisional Seniority List of Deputy Secretary Cadre as on Dt.01.01.2025\
+  [202608071324275907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071324275907.pdf)
+
+- Regarding the determination of permanent and temporary posts within the organizational structure of the Department of Ex-Servicemen Welfare, Maharashtra State, Pune.\
+  [202608061539295707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061539295707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
