@@ -1,21 +1,22 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 10 August 2026 - 15 August 2026
+**Date Range**: 17 August 2026 - 22 August 2026
 
+
+## Funds
+- Regarding the provision of funds for housing units granted post-facto approval during the years 2023-24 and 2024-25 under the Yashwantrao Chavan Open Colony Scheme.\
+  [202608101759369534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101759369534.pdf)
 
 ## Miscellaneous
-- Regarding the constitution of a study group committee to facilitate the effective implementation of the Centrally Sponsored PM YASASVI scholarship schemesspecifically pre-matric and post-matric scholarshipswithin the state for students belonging to the VJNT, OBC, and SBC categories, through the National Scholarship Portal (NSP) system.\
-  [202608051750542634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608051750542634.pdf)
+- Regarding the change of the implementing agency for works in Ahilyanagar and Jalgaon districts that have received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
+  [202608101803374134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101803374134.pdf)
 
-- Regarding the grant of administrative approval for the publicity and promotion of schemes implemented by the Maharashtra State Other Backward Class Finance and Development Corporation and the new subsidiaries established under it...\
-  [202608071623349334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071623349334.pdf)
-
-- Regarding the organization of camps to issue Nomadic and De-notified Tribes (VJNT) certificates, enabling citizens belonging to these communities in the state to avail themselves of various government schemes and certificates.\
-  [202608071528513934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608071528513934.pdf)
+- Regarding the constitution of a committee in the Banjara-dominated Jalna district to propose works to be undertaken under the Vasantrao Naik Tanda/Vasti Improvement Scheme.\
+  [202608101802077934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101802077934.pdf)
 
 ## Personnel
-- Regarding the grant of promotion on a purely temporary basis to the post of Assistant Director and equivalent Group-A cadres. Regular select list for the year 2025-26.\
-  [202608061705579534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608061705579534.pdf)
+- Shri. Vasant Rao Naik Shikshan Sanstha, Palaskhed Nago, Ta. Buldhana Primary and Secondary Ashram School Buldhana The canceled Ashram School, Aadhaar Multipurpose Educational Institute, Jaiswal Lay Out Tanajinagar, Buldhana R.No. F-16196 Ta.G. Buldhana transferred to this institution, M.Po. Regarding approval for relocation and operation at Buldhana.\
+  [202608101536346634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101536346634.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

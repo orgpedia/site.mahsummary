@@ -1,11 +1,11 @@
 # Marathi Language Department
 
-**Date Range**: 03 August 2026 - 08 August 2026
+**Date Range**: 17 August 2026 - 22 August 2026
 
 
 ## Miscellaneous
-- Regarding granting administrative approval for the preservation and conservation of Marathi bandishis (compositions) in book form and the appointment of a coordinator.\
-  [202607271731159433.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202607271731159433.pdf)
+- Regarding the establishment of a panel of private translators for translating content from Marathi to English and from English to Marathi.\
+  [202608101522169833.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101522169833.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
