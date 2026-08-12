@@ -19,5 +19,9 @@
 - Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class): Sankateshwar Temple, Nevargaon, Taluka Gangapur, District Chhatrapati Sambhajinagar.\
   [202608101213564320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101213564320.pdf)
 
+## Miscellaneous
+- Regarding the implementation by all Zilla Parishads in the State of the directions issued by the Honble Supreme Court of India, New Delhi, in Suo Motu Writ Petition (Civil) No. 9/2025 (Phalodi Accident vs. National Highways Authority of India), along with W.P. (C) No. 1100/2025\
+  [202608111100255320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111100255320.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

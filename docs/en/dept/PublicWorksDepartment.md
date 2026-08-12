@@ -3,6 +3,10 @@
 **Date Range**: 17 August 2026 - 22 August 2026
 
 
+## Funds
+- Granting revised administrative approval for the work under Hybrid Annuity Model (HAM) Package NAG-178...\
+  [202608111539539018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111539539018.pdf)
+
 ## Miscellaneous
 - Indias 80th Independence Day celebration.\
   [202608101525536618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101525536618.pdf)
@@ -12,6 +16,9 @@
 
 - Regarding the establishment of a Public Works Sub-divisional Office for Dr. Babasaheb Ambedkar Technological University, Lonere, Taluka Mangaon, District Raigad.\
   [202608101749206618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101749206618.pdf)
+
+- Implementation of Contractor Performance Assessment and Rating Framework for Major Infrastructure Projects.\
+  [202608111134575118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111134575118.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
