@@ -23,5 +23,11 @@
 - Regarding the appointment of two consultants from M/s. KPMG Advisory Services Pvt. Ltd. (Project Consultant) for a period of one year to the Project Monitoring Unit established in the office of the Director General of Police, Maharashtra State, Mumbai.\
   [202608111223411429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111223411429.pdf)
 
+- Regarding the provision of funds to the Anti-Narcotics Task Force (Maharashtra State, Pune) office for the settlement of bills incurred during criminal investigations.\
+  [202608121549287129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121549287129.pdf)
+
+- Regarding the modification of the government decision to withdraw pending cases related to political and social agitations.\
+  [202608121220144929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121220144929.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -7,6 +7,9 @@
 - Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of JUL to Oct, 2026\
   [202608111614045607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111614045607....pdf)
 
+- Regarding the temporary creation of three additional posts of State Information Commissioner for the Maharashtra State Information Commission, along with the necessary officer and staff positions for them...\
+  [202608121507388207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121507388207.pdf)
+
 ## Miscellaneous
 - Regarding the declaration of a local holiday on the occasion of Raksha Bandhan instead of Gopalkala (Dahi Handi) festival in the year 2026.\
   [202608101720217507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101720217507.pdf)
@@ -23,6 +26,18 @@
 ## Personnel
 - Partial change in Transfer Posting of Joint Secretary Cadre - Dr. Shrikant L. Pulkundawar,\
   [202608111918066307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111918066307.pdf)
+
+- Inter-departmental transfers of officers in the Mantralaya Section Officer cadre Year 2026\
+  [202608121718387907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121718387907.pdf)
+
+- Regarding the transfer of officers belonging to the Mantralaya Section Officer cadre.\
+  [202608121705571607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121705571607.pdf)
+
+- Section Officer  Transfer Regarding relief from duty\
+  [202608121708274207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121708274207.pdf)
+
+- Section Officer  Regarding granting an extension to the transfer tenure.\
+  [202608121717010707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121717010707.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -19,9 +19,15 @@
 - Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (B Class): Sankateshwar Temple, Nevargaon, Taluka Gangapur, District Chhatrapati Sambhajinagar.\
   [202608101213564320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101213564320.pdf)
 
+- Regarding the disbursement of funds of Rs. 39,86,73,800/- for the Additional State Share (100) scheme for the Scheduled Caste category under the Social Justice and Special Assistance Department for the financial year 2026-27 under the Pradhan Mantri Awas Yojana-Gramin.\
+  [202608121252519720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121252519720.pdf)
+
 ## Miscellaneous
 - Regarding the implementation by all Zilla Parishads in the State of the directions issued by the Honble Supreme Court of India, New Delhi, in Suo Motu Writ Petition (Civil) No. 9/2025 (Phalodi Accident vs. National Highways Authority of India), along with W.P. (C) No. 1100/2025\
   [202608111100255320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111100255320.pdf)
+
+- Regarding the grant of the Selection Grade pay scale (S-27) to 25 of officers in the cadre of Additional Chief Executive Officer/Project Director (S-25) of the Maharashtra Development Service, based on the 2022-23 selection list.\
+  [202608121726481120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121726481120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
