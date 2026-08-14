@@ -23,6 +23,9 @@
 - Regarding the creation of a total of two posts of Senior Personal Assistantone each at the Nagpur and Chhatrapati Sambhajinagar Benches of the Maharashtra Administrative Tribunal.\
   [202608111642382107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111642382107.pdf)
 
+- Regarding the appointment of Shri Vilin Gopalrao Khadse, Chief Accounts and Finance Officer, Nagpur Improvement Trust, Nagpur, to the post of Deputy Secretary at the State Information Commission, Nagpur Bench, on deputation.\
+  [202608131650046507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131650046507.pdf)
+
 ## Personnel
 - Partial change in Transfer Posting of Joint Secretary Cadre - Dr. Shrikant L. Pulkundawar,\
   [202608111918066307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111918066307.pdf)

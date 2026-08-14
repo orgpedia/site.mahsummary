@@ -20,6 +20,12 @@
 - Implementation of Contractor Performance Assessment and Rating Framework for Major Infrastructure Projects.\
   [202608111134575118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111134575118.pdf)
 
+- Policy regarding addition charges of 10 Percent levied as per PWD State Schedule  of rates in Notified Tribal area works.\
+  [202608131602193018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131602193018.pdf)
+
+- Policy regarding addition charges of 20 percent  levied as per PWD State Schedule of rates in Naxalite affected area works.\
+  [202608131607265718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131607265718.pdf)
+
 ## Personnel
 - Promotion order of Junior Engineer (Electrical)(Diploma Holder) on the post of Deputy Engineer (Electrical)(Diploma Holder), Public Works Department.\
   [202608121753140518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121753140518.pdf)
@@ -38,6 +44,9 @@
 
 - Promotion order of Assistant Engineer Grade-2 (civil) on the post of Sub Divisional Engineer (civil), Public Works Department\
   [202608121745119118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121745119118.pdf)
+
+- Promotion order of Junior Engineer (civil) on the post of Sub Divisional Officer (civil), Public Works Department\
+  [202608131602073018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131602073018.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

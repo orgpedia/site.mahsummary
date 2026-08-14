@@ -7,6 +7,9 @@
 - Regarding the sanctioning of remuneration/honorarium to officers and staff from subordinate offices of the Director General of Police, Maharashtra State, who were deployed for election duties during the 2024 Legislative Assembly General Elections.\
   [202608111603193829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111603193829.pdf)
 
+- Regarding the payment of bills to the suppliers for the Mumbai CCTV Phase-3 project / regarding the release of mobilization advance.\
+  [202608131247170529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131247170529.pdf)
+
 ## Miscellaneous
 - Regarding the undertaking of maintenance and repair works by the Maharashtra State Police Housing and Welfare Corporation for residential and non-residential projects of the Police Departmentwhether completed, under construction, or to be constructed in the future.\
   [202608101756236629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101756236629.pdf)
@@ -28,6 +31,12 @@
 
 - Regarding the modification of the government decision to withdraw pending cases related to political and social agitations.\
   [202608121220144929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121220144929.pdf)
+
+- Regarding the grant of administrative approval to provide VSAT connectivity under the CCTNS project to 16 newly established police stations in the Naxal-affected area of Gadchiroli.\
+  [202608131908338829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131908338829.pdf)
+
+- Granting an extension to M/s Sify Co., the Cloud Service Provider for the CCTNS system, and according administrative approval for the associated expenditure.\
+  [202608131906256629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131906256629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

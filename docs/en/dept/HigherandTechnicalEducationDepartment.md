@@ -13,6 +13,9 @@
 - Regarding the sanctioning of retirement-related benefits to Mrs. Kalpana Ramakant Kolhe.\
   [202608111516006708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111516006708.pdf)
 
+- Regarding the approval of direct admission to the second year (Lateral Entry) for students who have successfully completed the Foundation Certificate in Art and Design course in three-year Art Diploma programs, as well as the sanctioning of 10 additional seats (Over and Above quota) for such second-year admissions.\
+  [202608131718538908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131718538908.pdf)
+
 ## Personnel
 - Regarding the request for the transfer of Mr. Ganesh Nagnath Bobde, Lecturer.\
   [202608111517565208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111517565208.pdf)
