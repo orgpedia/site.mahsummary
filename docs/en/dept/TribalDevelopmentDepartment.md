@@ -13,5 +13,9 @@
 - To release grant for the scheme of Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PMJANMAN) under National Health Mission (Central Share 60 ) under TSP in financial year 2026-27. Central share 2210 K696 State Share 2210 K702\
   [202608131719508924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131719508924.pdf)
 
+## Miscellaneous
+- Consolidated revised guidelines regarding bringing uniformity to the facilities and amenities provided to students in Government Tribal Hostels.\
+  [202608141708062424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141708062424.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

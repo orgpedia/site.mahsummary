@@ -35,5 +35,9 @@
 - Regarding the grant of the Selection Grade pay scale (S-27) to 25 of officers in the cadre of Additional Chief Executive Officer/Project Director (S-25) of the Maharashtra Development Service, based on the 2022-23 selection list.\
   [202608121726481120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121726481120.pdf)
 
+## Personnel
+- Regarding granting ad hoc promotion to officers in the Additional Chief Executive Officer / Project Director (S-25) cadre of the Maharashtra Development Service, Group-A, to the Additional Chief Executive Officer (Selection Grade) (S-27) cadre.  (Select List Year 202526)\
+  [202608141112075020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141112075020.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

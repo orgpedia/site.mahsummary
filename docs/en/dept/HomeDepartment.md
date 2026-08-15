@@ -10,6 +10,9 @@
 - Regarding the payment of bills to the suppliers for the Mumbai CCTV Phase-3 project / regarding the release of mobilization advance.\
   [202608131247170529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131247170529.pdf)
 
+- Regarding the disbursement of funds for the Prison Industries scheme in the year 2026-27.\
+  [202608141243492029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141243492029.pdf)
+
 ## Miscellaneous
 - Regarding the undertaking of maintenance and repair works by the Maharashtra State Police Housing and Welfare Corporation for residential and non-residential projects of the Police Departmentwhether completed, under construction, or to be constructed in the future.\
   [202608101756236629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101756236629.pdf)
@@ -37,6 +40,16 @@
 
 - Granting an extension to M/s Sify Co., the Cloud Service Provider for the CCTNS system, and according administrative approval for the associated expenditure.\
   [202608131906256629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131906256629.pdf)
+
+- Regarding the sanctioning of study leave. Shri Laxman Nabaji Salve, Teacher, Thane Central Prison, Thane.\
+  [202608141220124629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141220124629.pdf)
+
+- Regarding the constitution of an Advisory Board under the Maharashtra Special Public Safety Act\
+  [202608141553033529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141553033529.pdf)
+
+## Personnel
+- Regarding the grant of permission to temporarily use an area of approximately 4,985 square feet at the Home Guard Departments Central Training Institute, Ghatkopar, for the proposed newly established Asalpha Police Station.\
+  [202608141537362829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141537362829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

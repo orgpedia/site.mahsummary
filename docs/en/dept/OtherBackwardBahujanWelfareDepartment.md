@@ -7,6 +7,9 @@
 - Regarding the provision of funds for housing units granted post-facto approval during the years 2023-24 and 2024-25 under the Yashwantrao Chavan Open Colony Scheme.\
   [202608101759369534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101759369534.pdf)
 
+- Regarding the grant of approval to relocate and operate the Higher Secondary Ashram School at Brahmanwada (Taluka  District Nanded)run by Jai Hanuman Shikshan Prasarak Mandal, Pandurna (Taluka Bhokar, District Nanded)to Mauje Mugat (Taluka Mudkhed, District Nanded).\
+  [202608141617135234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141617135234.pdf)
+
 ## Miscellaneous
 - Regarding the change of the implementing agency for works in Ahilyanagar and Jalgaon districts that have received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
   [202608101803374134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101803374134.pdf)
@@ -16,6 +19,12 @@
 
 - Regarding the determination of the powers and duties of the Governing Body of the Amrut Institute...\
   [202608111320475734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111320475734.pdf)
+
+- Regarding modifications to works in Ahilyanagar district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
+  [202608141240420534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141240420534.pdf)
+
+- Regarding modifications to works in Kolhapur district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
+  [202608141241599434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141241599434.pdf)
 
 ## Personnel
 - Shri. Vasant Rao Naik Shikshan Sanstha, Palaskhed Nago, Ta. Buldhana Primary and Secondary Ashram School Buldhana The canceled Ashram School, Aadhaar Multipurpose Educational Institute, Jaiswal Lay Out Tanajinagar, Buldhana R.No. F-16196 Ta.G. Buldhana transferred to this institution, M.Po. Regarding approval for relocation and operation at Buldhana.\

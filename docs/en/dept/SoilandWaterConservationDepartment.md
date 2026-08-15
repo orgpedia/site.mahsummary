@@ -27,5 +27,8 @@
 - General transfers of officers belonging to the cadre of District Water Conservation Officer (Civil) and other equivalent posts (revised designation: Executive Engineer, Soil and Water Conservation).\
   [202608111130039326.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111130039326.pdf)
 
+- Regarding the provisional appointment of probationers recommended by the Maharashtra Public Service Commission for the post of Water Conservation Officer (Civil), Group-B (Gazetted)revised designation: Senior Engineer / Assistant Engineer (Grade-2)under the Maharashtra Engineering (Civil) Services Examination 2024.\
+  [202608141225417426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141225417426.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

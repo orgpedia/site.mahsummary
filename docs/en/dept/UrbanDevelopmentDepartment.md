@@ -34,6 +34,21 @@
 - Disbursement of loan amount received from New Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 6 projects (FY 2026-27)\
   [202608131809082825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131809082825.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 10.00 crore to the District Collector, Nagpur, under the scheme Development of Basic Amenities in Municipal Corporation Areas (Budget Head 2217 0913). Nagpur Municipal Corporation, District Nagpur.\
+  [202608141738009125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141738009125.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Thane Municipal Corporation, District Thane Amount: Rs. 10.00 crore\
+  [202608141741519025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141741519025.pdf)
+
+- Regarding the distribution of grants to municipal corporations in the state under the Maharashtra Goods and Services Tax (Compensation to Local Authorities) Act, 2017an amount of Rs. 2,792.84 crore (for the month of August 2026) under the accounting head (3604 0998) for the year 2026-2027.\
+  [202608141814305125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141814305125.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Thane Municipal Corporation, District Thane Amount: Rs. 15.00 crore\
+  [202608141740163925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141740163925.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under Budget Head (4217 0603) for the year 2020-21 For Khed Municipal Council, Dist. Ratnagiri Amount: Rs. 9.00 crore (Corrigendum)\
+  [202608141812398325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141812398325.pdf)
+
 ## Miscellaneous
 - Regarding the implementation by all Municipal Corporations, Municipal Councils, and Nagar Panchayats in the State of the directions issued by the Honble Supreme Court, Delhi, in connection with Suo-Moto Writ Petition (Civil) No. 9/2025 (Phalodi Accident vs. National Highways Authority of India) along with W.P. (C) No. 1100/2025...\
   [202608101148269725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101148269725.pdf)

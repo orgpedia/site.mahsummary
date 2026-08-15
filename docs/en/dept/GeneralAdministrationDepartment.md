@@ -26,6 +26,15 @@
 - Regarding the appointment of Shri Vilin Gopalrao Khadse, Chief Accounts and Finance Officer, Nagpur Improvement Trust, Nagpur, to the post of Deputy Secretary at the State Information Commission, Nagpur Bench, on deputation.\
   [202608131650046507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131650046507.pdf)
 
+- Regarding granting administrative approval for the work of modernizing the kitchen of the Mantralaya Canteen and Square Meal Canteen\
+  [202608141159474307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141159474307.pdf)
+
+- Filling the post of deputation basis\
+  [202608141702318907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141702318907.pdf)
+
+- Regarding the permission for an employees child to reside in government accommodation for educational purposes after the employees retirement...\
+  [202608141530178407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141530178407.pdf)
+
 ## Personnel
 - Partial change in Transfer Posting of Joint Secretary Cadre - Dr. Shrikant L. Pulkundawar,\
   [202608111918066307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111918066307.pdf)
@@ -41,6 +50,9 @@
 
 - Section Officer  Regarding granting an extension to the transfer tenure.\
   [202608121717010707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121717010707.pdf)
+
+- Measures to curb unauthorized occupation of government accommodation following a transfer outside Greater Mumbai.\
+  [202608141527297407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141527297407.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
