@@ -1,58 +1,36 @@
 # General Administration Department
 
-**Date Range**: 17 August 2026 - 22 August 2026
+**Date Range**: 24 August 2026 - 29 August 2026
 
-
-## Funds
-- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of JUL to Oct, 2026\
-  [202608111614045607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111614045607....pdf)
-
-- Regarding the temporary creation of three additional posts of State Information Commissioner for the Maharashtra State Information Commission, along with the necessary officer and staff positions for them...\
-  [202608121507388207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121507388207.pdf)
 
 ## Miscellaneous
-- Regarding the declaration of a local holiday on the occasion of Raksha Bandhan instead of Gopalkala (Dahi Handi) festival in the year 2026.\
-  [202608101720217507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101720217507.pdf)
+- Regarding the completion of the probationary period of officers in the Group-A cadre of District Sainik Welfare Officers under the establishment of the Department of Sainik Welfare...\
+  [202608181608561307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181608561307.pdf)
 
-- Regarding the establishment of a Maratha Reservation Cell within the General Administration Department.\
-  [202608111555243907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111555243907.pdf)
+- Regarding constitution of a committee for review of facilities and concessions given to the officers and employees posted in Tribal and Naxalite areas.\
+  [202608181801186307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181801186307.pdf)
 
-- Regarding the appointment of an Assistant Commissioner at the Nagpur Municipal Corporationunder the jurisdiction of the Urban Development Departmenton a deputation basis. Shri Anuj P. Kopulwar, Section Officer.\
-  [202608111539547307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111539547307.pdf)
+- Regarding the approval of the revised staffing pattern for the Lokayukta office.\
+  [202608171842171707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171842171707.pdf)
 
-- Regarding the creation of a total of two posts of Senior Personal Assistantone each at the Nagpur and Chhatrapati Sambhajinagar Benches of the Maharashtra Administrative Tribunal.\
-  [202608111642382107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111642382107.pdf)
+- Regarding the sanction of financial assistance from the Chief Ministers Charitable Donation Fund. Kunbi Shikshan Mandal, At  Post Kherdi, Taluka Chiplun, District Ratnagiri.\
+  [202608171248202907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171248202907.pdf)
 
-- Regarding the appointment of Shri Vilin Gopalrao Khadse, Chief Accounts and Finance Officer, Nagpur Improvement Trust, Nagpur, to the post of Deputy Secretary at the State Information Commission, Nagpur Bench, on deputation.\
-  [202608131650046507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131650046507.pdf)
+- Regarding the change of the name of the Maharashtra State Chief Officers Association, Mumbai to Maharashtra Urban Administrative Service Officers Association, Mumbai...\
+  [202608181535172507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181535172507....pdf)
 
-- Regarding granting administrative approval for the work of modernizing the kitchen of the Mantralaya Canteen and Square Meal Canteen\
-  [202608141159474307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141159474307.pdf)
+- Regarding appointment of Honble Ministers/Honble Ministers of State as District Guardian Ministers- Nashik and Raigad,\
+  [202608171330372307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171330372307.pdf)
 
-- Filling the post of deputation basis\
-  [202608141702318907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141702318907.pdf)
+- Regarding the provision of 100 government funding for the lump-sum grants awarded to soldiers who have been martyred or disabled in war, war-like situations, national security operations, skirmishes, or overseas missions, as well as for the lump-sum or monthly grants provided under the Maharashtra Gaurav Puraskar scheme.\
+  [202608171506387707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171506387707.pdf)
 
-- Regarding the permission for an employees child to reside in government accommodation for educational purposes after the employees retirement...\
-  [202608141530178407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141530178407.pdf)
+- Regarding the grant of government recognition to the Maharashtra State Forest Area Surveyor and Forest Surveyor Association...\
+  [202608181539264907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181539264907....pdf)
 
 ## Personnel
-- Partial change in Transfer Posting of Joint Secretary Cadre - Dr. Shrikant L. Pulkundawar,\
-  [202608111918066307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111918066307.pdf)
-
-- Inter-departmental transfers of officers in the Mantralaya Section Officer cadre Year 2026\
-  [202608121718387907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121718387907.pdf)
-
-- Regarding the transfer of officers belonging to the Mantralaya Section Officer cadre.\
-  [202608121705571607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121705571607.pdf)
-
-- Section Officer  Transfer Regarding relief from duty\
-  [202608121708274207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121708274207.pdf)
-
-- Section Officer  Regarding granting an extension to the transfer tenure.\
-  [202608121717010707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121717010707.pdf)
-
-- Measures to curb unauthorized occupation of government accommodation following a transfer outside Greater Mumbai.\
-  [202608141527297407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141527297407.pdf)
+- Regarding extension of transfer period of Under Secretary in Mantralaya cadre.\
+  [202608171805381607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171805381607.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

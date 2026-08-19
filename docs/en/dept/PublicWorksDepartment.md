@@ -1,52 +1,24 @@
 # Public Works Department
 
-**Date Range**: 17 August 2026 - 22 August 2026
+**Date Range**: 24 August 2026 - 29 August 2026
 
-
-## Funds
-- Granting revised administrative approval for the work under Hybrid Annuity Model (HAM) Package NAG-178...\
-  [202608111539539018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111539539018.pdf)
 
 ## Miscellaneous
-- Indias 80th Independence Day celebration.\
-  [202608101525536618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101525536618.pdf)
+- Regarding the revival of posts in the Peon cadrepart of the revised staffing pattern for the Civil Engineering Wing under the Public Works Department (covering posts across 34 cadres)for the purpose of compassionate appointments.\
+  [202608171613268618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171613268618.pdf)
 
-- Regarding the establishment of a new Circle Office in Palghar district under the Chief Engineer, Public Works Regional Division, Konkan.\
-  [202608101746297718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101746297718.pdf)
-
-- Regarding the establishment of a Public Works Sub-divisional Office for Dr. Babasaheb Ambedkar Technological University, Lonere, Taluka Mangaon, District Raigad.\
-  [202608101749206618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101749206618.pdf)
-
-- Implementation of Contractor Performance Assessment and Rating Framework for Major Infrastructure Projects.\
-  [202608111134575118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111134575118.pdf)
-
-- Policy regarding addition charges of 10 Percent levied as per PWD State Schedule  of rates in Notified Tribal area works.\
-  [202608131602193018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131602193018.pdf)
-
-- Policy regarding addition charges of 20 percent  levied as per PWD State Schedule of rates in Naxalite affected area works.\
-  [202608131607265718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131607265718.pdf)
+- Regarding the grant of administrative approval for the purchase of 03 new inspection vehicles (Jeeps) to replace 03 condemned inspection vehicles (Jeeps) for the offices under the Superintending Engineer, Public Works Circle, Satara.\
+  [202608171150190318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171150190318.pdf)
 
 ## Personnel
-- Promotion order of Junior Engineer (Electrical)(Diploma Holder) on the post of Deputy Engineer (Electrical)(Diploma Holder), Public Works Department.\
-  [202608121753140518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121753140518.pdf)
+- Provisional seniority list of the Personal Assistant cadre in the Public Works Department as of 01/01/2025 and 01/01/2026.\
+  [202608181457229118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181457229118.pdf)
 
-- Regarding the promotion and posting of a Junior Architect to the post of Architect (Group A) from the Group B cadre...\
-  [202608121747585718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121747585718.pdf)
+- Provisional seniority list of the Higher Grade Stenographer cadre in the Public Works Department as of 01/01/2025 and 01/01/2026.\
+  [202608181453066618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181453066618.pdf)
 
-- Regarding the revision of the selection list for the promotion from the post of Assistant Engineer (Civil), Class-2, to the post of Sub-Divisional Engineer...\
-  [202608121751036018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121751036018.pdf)
-
-- Regarding the partial modification of the posting assigned via promotion in the cadre of Deputy Engineer (Civil)...\
-  [202608121741222718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121741222718.pdf)
-
-- Promotion order of Assistant Engineer Grade-2 (civil) on the post of Sub Divisional Engineer (civil), Public Works Department\
-  [202608121743455718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121743455718.pdf)
-
-- Promotion order of Assistant Engineer Grade-2 (civil) on the post of Sub Divisional Engineer (civil), Public Works Department\
-  [202608121745119118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608121745119118.pdf)
-
-- Promotion order of Junior Engineer (civil) on the post of Sub Divisional Officer (civil), Public Works Department\
-  [202608131602073018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131602073018.pdf)
+- Regarding the provisional appointment by direct recruitment to the post of Executive Engineer (Electrical), Group-A, under the Maharashtra Electrical Engineering Services, Group-A Examination-2023...\
+  [202608171532079818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171532079818.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

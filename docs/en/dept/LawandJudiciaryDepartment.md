@@ -1,18 +1,24 @@
 # Law and Judiciary Department
 
-**Date Range**: 17 August 2026 - 22 August 2026
+**Date Range**: 24 August 2026 - 29 August 2026
 
 
 ## Miscellaneous
-- Regarding the engagement of a driver through an external agency for the vehicle of the Hon. Executive Chairman, M.S.E.D.C.L., Mumbai.\
-  [202608131754438612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131754438612.pdf)
+- Regarding the creation of posts for the 138 special fast-track courts established in the state to dispose of pending cases of rape and crimes against children under the POCSO Act.\
+  [202608171238156412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171238156412.pdf)
 
-- Regarding the admissibility of reimbursement of actual travel expenses incurred by the spouse (wife/husband) accompanying the Honble Chief Justice of the High Court of Bombay during judicial and administrative work or tours to the Kolhapur Bench, Silvassa (Dadra and Nagar Haveli), Daman and Diu, and any other locations.\
-  [202608141106398312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141106398312.pdf)
+- Regarding the abolition of the post of Special Officer attached to the Honble the Chief Justice.\
+  [202608181607093112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181607093112.pdf)
+
+- Regarding the establishment of a state-level coordination committee to conduct a structural review of the prosecutorial functions within the Home and Law  Judiciary Departments.\
+  [202608171232522612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171232522612.pdf)
 
 ## Personnel
-- Regarding the establishment of a Court of Civil Judge (Senior Division) at Chandvad, District Nashik, and the sanctioning of posts in connection therewith.\
-  [202608141524168912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141524168912.pdf)
+- Deletion of the Names from the Select List of Administrative Officer, Group-B (Gazetted), in the Charity Organization (Select List Year 202526)\
+  [202608181113205912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181113205912.pdf)
+
+- Regarding establishment of District and Additional Sessions Court and Public Prosecutors Office and Civil Court Senior Division at Kinwat, Dist.Nanded and sanctioning posts accordingly.\
+  [202608171716434812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171716434812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,34 +1,21 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 17 August 2026 - 22 August 2026
+**Date Range**: 24 August 2026 - 29 August 2026
 
 
 ## Funds
-- Regarding the provision of funds for housing units granted post-facto approval during the years 2023-24 and 2024-25 under the Yashwantrao Chavan Open Colony Scheme.\
-  [202608101759369534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101759369534.pdf)
-
-- Regarding the grant of approval to relocate and operate the Higher Secondary Ashram School at Brahmanwada (Taluka  District Nanded)run by Jai Hanuman Shikshan Prasarak Mandal, Pandurna (Taluka Bhokar, District Nanded)to Mauje Mugat (Taluka Mudkhed, District Nanded).\
-  [202608141617135234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141617135234.pdf)
+- Regarding the provision of funds for ongoing works under the Vasantrao Naik Tanda-Vasti Improvement Scheme for the year 2025-26.\
+  [202608171543553534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171543553534.pdf)
 
 ## Miscellaneous
-- Regarding the change of the implementing agency for works in Ahilyanagar and Jalgaon districts that have received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
-  [202608101803374134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101803374134.pdf)
+- Regarding the sanctioning of overseas scholarships for meritorious students belonging to the VJNT, OBC, and SBC categories for higher education abroad during the year 2026-27...\
+  [202608181841434534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181841434534.pdf)
 
-- Regarding the constitution of a committee in the Banjara-dominated Jalna district to propose works to be undertaken under the Vasantrao Naik Tanda/Vasti Improvement Scheme.\
-  [202608101802077934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101802077934.pdf)
+- Regarding the provision of funds for works completed under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
+  [202608171540169634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171540169634.pdf)
 
-- Regarding the determination of the powers and duties of the Governing Body of the Amrut Institute...\
-  [202608111320475734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111320475734.pdf)
-
-- Regarding modifications to works in Ahilyanagar district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
-  [202608141240420534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141240420534.pdf)
-
-- Regarding modifications to works in Kolhapur district that had received administrative approval under the Vasantrao Naik Tanda-Vasti Improvement Scheme.\
-  [202608141241599434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608141241599434.pdf)
-
-## Personnel
-- Shri. Vasant Rao Naik Shikshan Sanstha, Palaskhed Nago, Ta. Buldhana Primary and Secondary Ashram School Buldhana The canceled Ashram School, Aadhaar Multipurpose Educational Institute, Jaiswal Lay Out Tanajinagar, Buldhana R.No. F-16196 Ta.G. Buldhana transferred to this institution, M.Po. Regarding approval for relocation and operation at Buldhana.\
-  [202608101536346634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608101536346634.pdf)
+- Regarding the procedure for fee fixation and fee disbursement for schools approved under the scheme of Providing education to students from the Gowari community (belonging to the Special Backward Category) in reputed English-medium residential schools.\
+  [202608171603504934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171603504934.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
