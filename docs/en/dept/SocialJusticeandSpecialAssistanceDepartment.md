@@ -19,5 +19,9 @@
 - Regarding the sanction of the second installment of financial assistance to Bhagubai Kirtikar Backward Class Industrial Producers Cooperative Society Ltd., Khadkanarla (Taluka Gangapur, District Chhatrapati Sambhajinagar), under the scheme for providing financial assistance to Scheduled Caste cooperative societies.\
   [202608171825575122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171825575122.pdf)
 
+## Miscellaneous
+- Regarding the disposal of pending applications from Scheduled Caste students under scholarship/freeship schemes for the period 2018-19 to 2024-25.\
+  [202608191853546122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191853546122.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

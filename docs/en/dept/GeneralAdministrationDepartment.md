@@ -28,9 +28,39 @@
 - Regarding the grant of government recognition to the Maharashtra State Forest Area Surveyor and Forest Surveyor Association...\
   [202608181539264907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181539264907....pdf)
 
+- appointment of  Section Officer on deputation basis in the office of Regional department Enquiry Officer, Pune.\
+  [202608191751089807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191751089807.pdf)
+
+- Repatriation from Deputation- Smt. Deepali S. Patil (Smt. Deepali C. Divate), Under Secretary\
+  [202608192008472707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192008472707.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Shri. Ranjeet. A. Patil, Deputy Secretary\
+  [202608192054202107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192054202107.pdf)
+
+- Regarding extension of deputation of officers in the cadre of Deputy Secretary  Smt. Anuradha. K. Khanavilakar, Deputy Secretary\
+  [202608192055485507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192055485507.pdf)
+
 ## Personnel
 - Regarding extension of transfer period of Under Secretary in Mantralaya cadre.\
   [202608171805381607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171805381607.pdf)
+
+- Regarding Post Facto extension of deputation- Smt. Veena R. Patil, Deputy Secretary\
+  [202608192057193507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192057193507.pdf)
+
+- Regarding the repatriation of services from deputation Shri Vijay Sh. Naikal, Section Officer\
+  [202608192007068707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192007068707.pdf)
+
+- Midterm Transfer of Officer from Deputy Secretary Cadre - Dr. Urmila V. Joshi\
+  [202608192051063007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192051063007.pdf)
+
+- Ad-hoc Promotion from the post of Deputy Secretary to the post of Joint Secretary\
+  [202608191302563907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191302563907.pdf)
+
+- Partial change in Repatriation from Deputation :- Shri. Nilesh M. Phalake\
+  [202608192052448607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608192052448607.pdf)
+
+- Regarding the extension of the term for 8 temporary posts at the Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Institute, Amravati. (Period: 01.03.2026 to 31.08.2026)\
+  [202608191241451607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191241451607.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

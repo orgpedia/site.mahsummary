@@ -40,9 +40,25 @@
 - Regarding the increase in the authorized share capital of Mumbai Railway Vikas Corporation Limited from Rs. 25 crore to Rs. 500 crore, and the increase in the companys paid-up share capital from Rs. 25 crore to Rs. 225 crore, maintaining the existing 51:49 partnership ratio between the Central and State Governments.\
   [202608171758572825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171758572825.pdf)
 
+- Regarding the disbursement of funds amounting to Rs. 341.7462 crore to the concerned District Collectors, in accordance with the orders sanctioned under the scheme Development of Basic Amenities in Municipal Corporation Areas (Budget Head 2217 0913).\
+  [202608191106050725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191106050725...pdf)
+
+- Regarding the distribution of funds to Municipal Councils under the Vaishishtyapurna (Special) Scheme. For the year 2021-22, under Budget Head (2217 1301) For Rahimatpur Municipal Council, Dist. Satara Amount: Rs. 6.40 crore (Corrigendum)\
+  [202608191725089925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191725089925.pdf)
+
+- Regarding the distribution of funds to Municipal Councils under the Vaishishtyapurna (Special) Scheme. For the year 2021-22, under Budget Head (2217 1301) For Rahimatpur Municipal Council, Dist. Satara Amount: Rs. 3.00 crore (Corrigendum)\
+  [202608191727012725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191727012725.pdf)
+
 ## Miscellaneous
 - Regarding the final annulment of Resolution No. 33 of the Solapur Municipal Corporations Transport Undertaking and Resolution No. 585 of the General Body Meeting.\
   [202608171814552125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171814552125.pdf)
+
+- Regarding the approval of the Jalna City Municipal Corporation Service (Service Entry and Classification of Services) Rules, 2026.\
+  [202608191247313625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191247313625.pdf)
+
+## Personnel
+- Regarding the constitution of a committee under the chairmanship of the District Guardian Minister, Kolhapur, to erect a memorial for Rajarshi Shahu Maharaj on the land of the Shahu Mill in Kolhapur.\
+  [202608191720172025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191720172025.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

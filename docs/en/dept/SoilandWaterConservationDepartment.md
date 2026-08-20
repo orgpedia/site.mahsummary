@@ -46,5 +46,8 @@
 - Fund distribution for new/ongoing projects with an irrigation potential of 0 to 100 hectares: Buldhana District (Vidarbha Region)\
   [202608181710448226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181710448226.pdf)
 
+- Regarding the planting and nurturing of trees/bamboo at soil and water conservation sites across the state under the Green Maharashtra  Prosperous Maharashtra initiative, in accordance with Developed Maharashtra 2047 (Phase-1).\
+  [202608191716140826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191716140826.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
