@@ -20,6 +20,9 @@
 - Regarding the approval to procure necessary services for the Force One UCTC Training Centre, Pune office via the GeM (Government e-Marketplace) portal on a work contract basis, and granting administrative approval for the associated expenditure.\
   [202608191528540829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191528540829.pdf)
 
+- Regarding the constitution of a one-member committee to formulate a Standard Operating Procedure (SOP) for the use of Artificial Intelligence (AI)-based smart goggles, smart glasses, and other wearable devices.\
+  [202608201733547329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201733547329.pdf)
+
 ## Personnel
 - Regarding the transfer of the Nashik Road Central Jail land to MSIDC for the Nashik city Ring Road project.\
   [202608171130044729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171130044729.pdf)

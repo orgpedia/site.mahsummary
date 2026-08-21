@@ -7,6 +7,9 @@
 - Regarding the provision of funds for ongoing works under the Vasantrao Naik Tanda-Vasti Improvement Scheme for the year 2025-26.\
   [202608171543553534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171543553534.pdf)
 
+- Regarding the approval of the fuel expense bill amounting to Rs. 3,92,779/- for the Hon. Chairperson, National Commission for Backward Classes, New Delhi, for the periods of April 2025 to May 2025 and August 2025 to September 2025.\
+  [202608201803413534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201803413534.pdf)
+
 ## Miscellaneous
 - Regarding the sanctioning of overseas scholarships for meritorious students belonging to the VJNT, OBC, and SBC categories for higher education abroad during the year 2026-27...\
   [202608181841434534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181841434534.pdf)

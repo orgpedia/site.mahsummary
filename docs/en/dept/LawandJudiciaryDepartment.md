@@ -17,6 +17,9 @@
 - Regarding the establishment of a state-level coordination committee to conduct a structural review of the prosecutorial functions within the Home and Law  Judiciary Departments.\
   [202608171232522612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171232522612.pdf)
 
+- Creation of posts for providing dedicated secretarial services to the Juvenile Justice Committee of the Honble High Court... ------------------------------------------- Corrigendum regarding the redesignation of the post of Clerk-Typist to Clerk.\
+  [202608201254323212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201254323212.pdf)
+
 ## Personnel
 - Deletion of the Names from the Select List of Administrative Officer, Group-B (Gazetted), in the Charity Organization (Select List Year 202526)\
   [202608181113205912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181113205912.pdf)

@@ -49,6 +49,24 @@
 - Regarding the distribution of funds to Municipal Councils under the Vaishishtyapurna (Special) Scheme. For the year 2021-22, under Budget Head (2217 1301) For Rahimatpur Municipal Council, Dist. Satara Amount: Rs. 3.00 crore (Corrigendum)\
   [202608191727012725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191727012725.pdf)
 
+- Regarding State Government approval for the revised cost of the Mumbai Metro Line-10 project (Gaimukh to Chhatrapati Shivaji Maharaj Chowk (Miragaon))comprising a total length of 9.679 km and 5 stationswhich includes the widening of Ghodbunder Road to 60 meters for the 5.4 km stretch between Gaimukh and Fountain Hotel.\
+  [202608201435304025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201435304025.pdf)
+
+- Regarding the sanction of funds to Nagar Panchayats under the Vaishishtyapurna (Special/Distinctive) scheme. Under the financial year 2026-27 and budget head (2217 1301): For Malshiras Nagar Panchayat, Dist. Solapur: Amount: Rs. 1.85 crore For Natepute Nagar Panchayat, Dist. Solapur: Amount: Rs. 20.00 lakh Total Amount: Rs. 2.05 crore\
+  [202608201243268425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201243268425.pdf)
+
+- Regarding the sanction of funds under the scheme: Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) For the year 2026-27 (under Budget Head 3604 1054): For Malshiras Nagar Panchayat, Dist. Solapur: Amount: Rs. 2.15 crore For Natepute Nagar Panchayat, Dist. Solapur: Amount: Rs. 3.80 crore Total Amount: Rs. 5.95 crore\
+  [202608201245177525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201245177525.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Brihanmumbai Municipal Corporation, District Mumbai Suburban Amount: Rs. 5.00 crore\
+  [202608201249084725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201249084725.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Bhagur Municipal Council, Dist. Nashik Amount: Rs. 5.00 crore\
+  [202608201236452125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201236452125.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Dhule Municipal Corporation, Dist. Dhule Amount: Rs. 2.50 crore\
+  [202608201238526825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201238526825.pdf)
+
 ## Miscellaneous
 - Regarding the final annulment of Resolution No. 33 of the Solapur Municipal Corporations Transport Undertaking and Resolution No. 585 of the General Body Meeting.\
   [202608171814552125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171814552125.pdf)

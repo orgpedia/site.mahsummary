@@ -49,5 +49,9 @@
 - Regarding the planting and nurturing of trees/bamboo at soil and water conservation sites across the state under the Green Maharashtra  Prosperous Maharashtra initiative, in accordance with Developed Maharashtra 2047 (Phase-1).\
   [202608191716140826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191716140826.pdf)
 
+## Miscellaneous
+- Regarding extention of Soil and water conservation reels compitition\
+  [202608201955044926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201955044926.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -10,6 +10,9 @@
 - Regarding the grant of administrative approval for the purchase of 03 new inspection vehicles (Jeeps) to replace 03 condemned inspection vehicles (Jeeps) for the offices under the Superintending Engineer, Public Works Circle, Satara.\
   [202608171150190318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171150190318.pdf)
 
+- Regarding the sanctioning of additional posts for the Maharashtra State Infrastructure Development Corporation Limited (MSIDC) and their inclusion in the staffing pattern.\
+  [202608201523035818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201523035818.pdf)
+
 ## Personnel
 - Provisional seniority list of the Personal Assistant cadre in the Public Works Department as of 01/01/2025 and 01/01/2026.\
   [202608181457229118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181457229118.pdf)

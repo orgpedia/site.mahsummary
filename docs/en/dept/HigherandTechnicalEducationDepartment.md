@@ -103,5 +103,11 @@
 - Regarding the approval to increase the intake capacity for government-recognized, skill-based diploma courses under the Maharashtra State Board of Technical Education, starting from the academic year 2026-27.  (Jalgaon Institute of Technology, Jalgaon)\
   [202608172001047808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608172001047808.pdf)
 
+- Regarding the granting of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27.\
+  [202608201440332708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201440332708.pdf)
+
+- Regarding Government approval to reduce the intake capacity for the Bachelor of Architecture degree course at the institute, effective from the academic year 2026-27, in accordance with the approval granted by the Council of Architecture, New Delhi... (Smt. Manoramabai Mundle College of Architecture, Seminary Hills, Nagpur)\
+  [202608201511352108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201511352108.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

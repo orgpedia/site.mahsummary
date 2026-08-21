@@ -1,28 +1,33 @@
 # Finance Department
 
-**Date Range**: 17 August 2026 - 22 August 2026
+**Date Range**: 24 August 2026 - 29 August 2026
 
 
 ## Funds
-- Regarding the disbursement of interest-free loan fundsreceived from the Central Government under Part I of the Special Assistance to States for Capital Investment scheme (2026-27)to the concerned implementing agencies under the Public Health Department.\
-  [202608111629258205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111629258205.pdf)
+- Regarding the authorization of private banks (Scheduled Commercial Banks) with a net worth exceeding 16,000 croreand the Maharashtra State Cooperative Bank, Mumbai, provided its net worth exceeds 4,000 crorealongside nationalized banks, to handle banking transactions for government offices and to manage the investment of surplus funds from public sector undertakings/corporations for the year 2026-2027...\
+  [202608201719363405.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201719363405.pdf)
 
 ## Miscellaneous
-- Instructions regarding the avoidance of unnecessary expenditure when purchasing vehicles for the official use of various State Government offices, as well as vehicles for office-bearers entitled to government/official vehicles...\
-  [202608111254099305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111254099305.pdf)
+- Revision of rate of Dearness Allowance admissible to State Government and other eligible employees drawing salary in unrevised pay structure (as per 5th Pay Commission) w.e.f. 1st January, 2026\
+  [202608181810195705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181810195705.pdf)
 
-- Regarding the amendment of financial powers conferred under the Financial Powers Rules, 1978, Part I, Sub-sections One to Five.\
-  [202608111250281805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608111250281805.pdf)
+- Dearness Relief Increase to 262 for the pension / family pension being drawn in the pre-revised scale (sixth pay commission) w.e.f. 1st January 2026.\
+  [202608191702027305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191702027305.pdf)
 
-- Regarding the submission of the Governments explanatory memoranda on audit reports and related information to the Public Accounts Committee of the Maharashtra Legislature within the prescribed time limit.\
-  [202608131519547705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131519547705.pdf)
+- Revision of rate of Dearness Allowance admissible to State Government and other eligible employees with effect from 1st January, 2026\
+  [202608181803484905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181803484905.pdf)
 
-## Personnel
-- Promotion and posting from the post of Deputy Commissioner of State Tax to the post of Joint Commissioner of State Tax.\
-  [202608131523345105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131523345105.pdf)
+- Regarding the registration of offices under rural/urban local self-government bodies and other autonomous institutions in the GRAS system...\
+  [202608171258109705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171258109705.pdf)
 
-- Request-based transfers of officers in the State Tax Officer cadre  Year 2026.\
-  [202608131527021205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608131527021205.pdf)
+- Dearness Relief Increase to 483 for the pension / family pension being drawn in the pre-revised scale (Fifth Pay Commission) w.e.f. 1st January 2026.\
+  [202608191705369305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191705369305.pdf)
+
+- Dearness Relief Increase to 60 on Pension/Family Pension w.e.f. 1st Janary, 2026.\
+  [202608191707427605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191707427605.pdf)
+
+- Revision of rate of Dearness Allowance admissible to State Government and other eligible employees drawing salary in unrevised pay structure (as per 6th Pay Commission) w.e.f. 1st January, 2026\
+  [202608181806584805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181806584805.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
