@@ -11,5 +11,8 @@
 - Regarding the provision of an additional pump (standby pump) in the lift irrigation scheme.\
   [202608191825440127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191825440127.pdf)
 
+- Regarding the disbursement of salaries for officers and employees working under the Irrigation Development Corporation through the Sevarth system.\
+  [202608211256196727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211256196727.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

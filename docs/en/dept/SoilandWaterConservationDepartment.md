@@ -53,5 +53,18 @@
 - Regarding extention of Soil and water conservation reels compitition\
   [202608201955044926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201955044926.pdf)
 
+## Personnel
+- General transfers of officers belonging to the cadre of District Water Conservation Officer (Civil) and other equivalent posts (revised designation: Executive Engineer, Soil and Water Conservation).\
+  [202608211051500626.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211051500626.pdf)
+
+- Regarding posting via ad-hoc promotion to the cadre of District Water Conservation Officer (Civil) and other equivalent posts (revised designation: Executive Engineer, Soil and Water Conservation).\
+  [202608211520320426.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211520320426.pdf)
+
+- Regarding posting via temporary promotion to the cadre of District Water Conservation Officer (Civil) and other equivalent posts (revised designation: Executive Engineer, Soil and Water Conservation).\
+  [202608211516530726.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211516530726.pdf)
+
+- Premature transfers of officers belonging to the cadre of District Water Conservation Officer (Civil) and other equivalent posts (revised designation: Executive Engineer, Soil and Water Conservation).\
+  [202608211054560926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211054560926.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

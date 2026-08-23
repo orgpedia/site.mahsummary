@@ -20,5 +20,12 @@
 - Regarding the procedure for fee fixation and fee disbursement for schools approved under the scheme of Providing education to students from the Gowari community (belonging to the Special Backward Category) in reputed English-medium residential schools.\
   [202608171603504934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171603504934.pdf)
 
+- Regarding the development and maintenance of a dedicated, customized Sevarth system for aided Ashram Schools under the Other Backward Bahujan Welfare Department.\
+  [202608211539339034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211539339034.pdf)
+
+## Personnel
+- Regarding the sanctioning of a new residential primary ashram school to the Late Naru Borkar Orphanage and Social Service Organization, Chungi, Taluka Akkalkot, District Solapur.\
+  [202608211239191034.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211239191034.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

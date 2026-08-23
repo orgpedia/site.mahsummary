@@ -10,6 +10,9 @@
 - Regarding the disbursement of funds for the Mounted Police Unit under the Commissioner of Police, Greater Mumbai.\
   [202608191634387229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191634387229.pdf)
 
+- Regarding the payment of funds amounting to Rs. 61,28,94,708/- (inclusive of taxes) to the system integratorcomprising LT Technology Services Pvt Ltd (Consortium Lead) and KPMG India LLP (Consortium Member)appointed for the cybersecurity project.\
+  [202608211726471929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211726471929.pdf)
+
 ## Miscellaneous
 - Honble Supreme Court SLP (Cri.) No. 162/2025, order dated 16/07/2026 : Reconstitution of the committee to formulate a policy for the premature release of elderly and ailing prisoners.\
   [202608171732090829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171732090829.pdf)

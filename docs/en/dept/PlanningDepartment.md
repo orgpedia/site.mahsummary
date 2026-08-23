@@ -7,6 +7,9 @@
 - Regarding guidelines and the empanelment of Transaction Advisory Firms and Law Firms for the implementation of projects under the Public-Private Partnership policy.\
   [202608171334365516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171334365516.pdf)
 
+- Regarding the empanelment of external agencies for conducting scheme evaluations, studies, surveys, and other assessments, as well as for providing expert services in statistical and economic matters.\
+  [202608211132391116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211132391116.pdf)
+
 ## Personnel
 - Due to the inclusion of the Employment Guarantee Scheme Division in the Soil and Water Conservation Department, regarding the transfer of the total 56 sanctioned posts of the Employment Guarantee Scheme Division to the Soil and Water Conservation Department\
   [202608181854496616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181854496616....pdf)

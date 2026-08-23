@@ -22,6 +22,21 @@
 - Regarding the distribution of funds to disburse prize money to the Gram Panchayats selected under the R.R. (Aaba) Patil Sundar Gaon Puraskar Yojana for the year 2023-24, sourced from the 2026-27 budget grant.\
   [202608201108501620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201108501620.pdf)
 
+- Regarding the granting of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B). Shri Indrayani Devasthan, Bhosa (Indrayani Mal), Taluka Manwat, District Parbhani.\
+  [202608211121567520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121567520.pdf)
+
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for the Shri Mahalaxmi Devasthan, Mohi, Taluka Man, District Satara.\
+  [202608211121372420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121372420.pdf)
+
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B)  Mahadev Mandir, Mouje Vadange, Taluka Karveer, District Kolhapur.\
+  [202608211121500920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121500920.pdf)
+
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for the Hazrat Ladle Mashakat Dargah, Kasba Sangav, Taluka Kagal, District Kolhapur.\
+  [202608211121392420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121392420.pdf)
+
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Balaji Temple, Vadvali, Taluka Paithan, District Chhatrapati Sambhajinagar.\
+  [202608211122012620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211122012620.pdf)
+
 ## Miscellaneous
 - Regarding creation of a total 73 supernumerary posts for a period of 2 years for 49 trainee officers in Block Development Officer, Group-A and 24 trainee officers in Assistant Block Development Officer, Group-B recommended under State Service Examination-2024\
   [202608171236250720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171236250720.pdf)

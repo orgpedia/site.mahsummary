@@ -23,5 +23,11 @@
 - Regarding the provisional appointment by direct recruitment to the post of Executive Engineer (Electrical), Group-A, under the Maharashtra Electrical Engineering Services, Group-A Examination-2023...\
   [202608171532079818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171532079818.pdf)
 
+- Transfer/Posting of officers in the Executive Engineer (Civil) cadre.\
+  [202608211453340118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211453340118....pdf)
+
+- Regarding the creation of 10 supernumerary posts in the cadre of Sub-Divisional Engineer (Civil) (Degree Holder) for engineers belonging to the said cadre.\
+  [202608211606505318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211606505318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

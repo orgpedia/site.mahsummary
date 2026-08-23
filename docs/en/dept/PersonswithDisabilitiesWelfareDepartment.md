@@ -82,6 +82,9 @@
 - Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the Skill and Entrepreneurship Development Centre (Orthopedically Handicapped Category) sector. Disabled Training Centre, Bajaj Nagar, Tumsar (Taluka Tumsar, District Bhandara), operated by Bhandara District Multipurpose Organization, Nagadongri (2024-25 Non-salary).\
   [202608171728549235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171728549235.pdf)
 
+- Regarding the disbursement of grant-in-aid (non-salary) funds to non-governmental organizations (NGOs) operating in the Intellectually Disabled (Workshop) category. Vitthal Pandurang Composite Workshop for the Disabled, Latur (run by Jeevan Vikas Gramin Mahila Mandal, Latur)  Non-salary grants for the years 2023-24 and 2024-25.\
+  [202608211350132835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211350132835.pdf)
+
 ## Personnel
 - Indrayani Manovikas Sanstha, Akola run Indrayi Mentally retarded childrens school, Akola subsidized disabled special school regarding the cancellation of the governments decision to transfer the management to Sri Rashtrasant Shikshan Sanskriti Jnanpith, Masod, Chandoorbazar District, Amravati.\
   [202608181918206435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181918206435.pdf)

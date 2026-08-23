@@ -33,5 +33,8 @@
 - Regarding the establishment of a Court of Civil Judge (Senior Division) at Kej, District Beed, and the sanctioning of posts in connection therewith.\
   [202608191310262112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191310262112.pdf)
 
+- Regarding appointment by promotion to the vacant post in the cadre of Personal Assistant (Group-B/Gazetted) at the Office of the Government Pleader, High Court, Nagpur Bench.\
+  [202608211535464812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211535464812.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

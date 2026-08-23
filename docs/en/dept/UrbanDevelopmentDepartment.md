@@ -67,6 +67,30 @@
 - Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Dhule Municipal Corporation, Dist. Dhule Amount: Rs. 2.50 crore\
   [202608201238526825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201238526825.pdf)
 
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Malegaon Municipal Corporation, Dist. Nashik Amount: Rs. 2.50 crore\
+  [202608211545366125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211545366125.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Panhala Municipal Council, Dist. Kolhapur Total amount: Rs. 15.00 crore\
+  [202608211344199525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211344199525.pdf)
+
+- Regarding the sanction of funds to Nagar Panchayats under the Vaishishtyapurna (Special) Scheme For the year 2024-25 (Account Head 2217 1301): For Atpadi Nagar Panchayat, Dist. Sangli: Rs. 4.25 crore For Khanapur Nagar Panchayat, Dist. Sangli: Rs. 3.00 crore Total amount: Rs. 7.25 crore (Corrigendum)\
+  [202608211345477425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211345477425.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Brihanmumbai Municipal Corporation, District Mumbai Suburban Amount: Rs. 5.00 crore\
+  [202608211544055525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211544055525.pdf)
+
+- Regarding the grant of approval to the Nanded Waghala City Municipal Corporation to raise a loan of 101.79 crore from the financial institution HUDCO, under Section 109 of the Maharashtra Municipal Corporations Act, 1949.\
+  [202608211331132725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211331132725.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) For Thane Municipal Corporation, District Thane Amount: Rs. 50.00 Lakhs\
+  [202608211542234425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211542234425.pdf)
+
+- Regarding the sanction of funds to municipal councils under the Special scheme. Under the financial head (2217 1301) for the year 2026-27 For Khanapur Nagar Panchayat, Dist. Sangli Amount: Rs. 5.00 crore\
+  [202608211342474325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211342474325.pdf)
+
+- Regarding the sanction of funds under the scheme Special Provision for the Development of Basic Amenities in Municipal Corporation Areas For the year 2026-27 (under Budget Head 2217 0913) Amount of Rs. 2.00 crore for Chhatrapati Sambhajinagar Municipal Corporation, Dist. Chhatrapati Sambhajinagar.\
+  [202608211347458025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211347458025.pdf)
+
 ## Miscellaneous
 - Regarding the final annulment of Resolution No. 33 of the Solapur Municipal Corporations Transport Undertaking and Resolution No. 585 of the General Body Meeting.\
   [202608171814552125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171814552125.pdf)
