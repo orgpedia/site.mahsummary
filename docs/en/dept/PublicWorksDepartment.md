@@ -1,33 +1,17 @@
 # Public Works Department
 
-**Date Range**: 24 August 2026 - 29 August 2026
+**Date Range**: 31 August 2026 - 05 September 2026
 
-
-## Miscellaneous
-- Regarding the revival of posts in the Peon cadrepart of the revised staffing pattern for the Civil Engineering Wing under the Public Works Department (covering posts across 34 cadres)for the purpose of compassionate appointments.\
-  [202608171613268618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171613268618.pdf)
-
-- Regarding the grant of administrative approval for the purchase of 03 new inspection vehicles (Jeeps) to replace 03 condemned inspection vehicles (Jeeps) for the offices under the Superintending Engineer, Public Works Circle, Satara.\
-  [202608171150190318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171150190318.pdf)
-
-- Regarding the sanctioning of additional posts for the Maharashtra State Infrastructure Development Corporation Limited (MSIDC) and their inclusion in the staffing pattern.\
-  [202608201523035818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201523035818.pdf)
 
 ## Personnel
-- Provisional seniority list of the Personal Assistant cadre in the Public Works Department as of 01/01/2025 and 01/01/2026.\
-  [202608181457229118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181457229118.pdf)
+- Promotion and posting to the post of Sub-Divisional Officer (Civil) from the Junior Engineer (Diploma Holder) cadre of the Zilla Parishads District Technical Service... Selection List for the year 2025-26\
+  [202608241647054418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241647054418....pdf)
 
-- Provisional seniority list of the Higher Grade Stenographer cadre in the Public Works Department as of 01/01/2025 and 01/01/2026.\
-  [202608181453066618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181453066618.pdf)
+- Regarding the declaration of the appointing authority for appointments made through direct recruitment, promotion, and deputation.\
+  [202608241222442718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241222442718.pdf)
 
-- Regarding the provisional appointment by direct recruitment to the post of Executive Engineer (Electrical), Group-A, under the Maharashtra Electrical Engineering Services, Group-A Examination-2023...\
-  [202608171532079818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171532079818.pdf)
-
-- Transfer/Posting of officers in the Executive Engineer (Civil) cadre.\
-  [202608211453340118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211453340118....pdf)
-
-- Regarding the creation of 10 supernumerary posts in the cadre of Sub-Divisional Engineer (Civil) (Degree Holder) for engineers belonging to the said cadre.\
-  [202608211606505318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211606505318.pdf)
+- Regarding a partial modification to the posting assigned via promotion in the Deputy Engineer (Civil) cadre.\
+  [202608241642582618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241642582618.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

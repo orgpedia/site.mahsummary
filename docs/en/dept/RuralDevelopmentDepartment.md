@@ -1,76 +1,36 @@
 # Rural Development Department
 
-**Date Range**: 24 August 2026 - 29 August 2026
+**Date Range**: 31 August 2026 - 05 September 2026
 
 
 ## Funds
-- Regarding the disbursement of funds for land acquisition for the development plan of the pilgrimage site of Sant Shiromani Savata Maharajs Sanjivan Samadhi at Aran, Taluka Madha, District Solapur.\
-  [202608181305169720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181305169720.pdf)
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Sadguru Balumama Satyavadevi Mandir, Gulkshetre Metge, Taluka Kagal, District Kolhapur.\
+  [202608241215182920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241215182920.pdf)
 
-- Regarding the disbursement of the governments share of grant-in-aid for the financial year 2026-27 to cover Gram Panchayat employee salaries, honoraria for the Sarpanch and Up-Sarpanch, meeting allowances for members, and the Gram Panchayat employees Provident Fund.\
-  [202608191759100820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191759100820.pdf)
+- Regarding administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Chakradhar Swami Mandir, Savaldbara, Taluka Soygaon, District Chhatrapati Sambhajinagar.\
+  [202608241215288120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241215288120.pdf)
 
-- Regarding the disbursement of funds for development works under the development plan for the pilgrimage site of Shri Sant Sevalal Maharaj, Poharadevi (Taluka Manora, District Washim).\
-  [202608201108354220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201108354220.pdf)
+- Regarding the distribution of additional state share (100) of funds of Rs. 15,00,00,000/- for the Other Backward Classes under the Other Backward Classes Welfare Department for the financial year 2026-27 under the Pradhan Mantri Awas Yojana-Gramin.\
+  [202608241725022620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241725022620.pdf)
 
-- Regarding the disbursement of funds for works under the development plan for the pilgrimage sites of Umri and Pohradevi (Taluka Manora, District Washim).\
-  [202608201108420020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201108420020.pdf)
+- Regarding the distribution of funds amounting to Rs. 224,99,00,000/- as Central Share (60) and Rs. 149,99,33,334/- as State Matching Share (40) for the Pradhan Mantri Janajati Adivasi Nyay Mahaabhiyan (PM-JANMAN) scheme in the financial year 2026-27.\
+  [202608241725043420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241725043420.pdf)
 
-- Regarding administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Mahadev Temple, Golegaon (Gram Panchayat Alegaon, Taluka Patur, District Akola).\
-  [202608201108552220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201108552220.pdf)
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) at Shri Bhairavnath Devasthan, Warugad, Taluka Man, District Satara.\
+  [202608241215126920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241215126920.pdf)
 
-- Regarding the distribution of funds to disburse prize money to the Gram Panchayats selected under the R.R. (Aaba) Patil Sundar Gaon Puraskar Yojana for the year 2023-24, sourced from the 2026-27 budget grant.\
-  [202608201108501620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201108501620.pdf)
+- Regarding the grant of administrative approval and disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Ambabai Mandir, Village Yamge, Taluka Kagal, District Kolhapur.\
+  [202608241215103320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241215103320.pdf)
 
-- Regarding the granting of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B). Shri Indrayani Devasthan, Bhosa (Indrayani Mal), Taluka Manwat, District Parbhani.\
-  [202608211121567520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121567520.pdf)
-
-- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for the Shri Mahalaxmi Devasthan, Mohi, Taluka Man, District Satara.\
-  [202608211121372420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121372420.pdf)
-
-- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B)  Mahadev Mandir, Mouje Vadange, Taluka Karveer, District Kolhapur.\
-  [202608211121500920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121500920.pdf)
-
-- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for the Hazrat Ladle Mashakat Dargah, Kasba Sangav, Taluka Kagal, District Kolhapur.\
-  [202608211121392420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211121392420.pdf)
-
-- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Balaji Temple, Vadvali, Taluka Paithan, District Chhatrapati Sambhajinagar.\
-  [202608211122012620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608211122012620.pdf)
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for the Shri Vithoba Mandir (Prati-Pandharpur) at Mauje Nandwal, Taluka Karveer, District Kolhapur.\
+  [202608241215242020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241215242020.pdf)
 
 ## Miscellaneous
-- Regarding creation of a total 73 supernumerary posts for a period of 2 years for 49 trainee officers in Block Development Officer, Group-A and 24 trainee officers in Assistant Block Development Officer, Group-B recommended under State Service Examination-2024\
-  [202608171236250720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171236250720.pdf)
+- Regarding the inclusion of non-planned/unclassified roads in Khultabad Taluka, Chhatrapati Sambhajinagar District, as rural roads under the Road Development Plan 2001-21.\
+  [202608241105129220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241105129220.pdf)
 
-- Regarding the inclusion of a non-planned/unclassified road in Khatav Taluka, Satara District, as a Rural Road under the Road Development Plan 2001-21.\
-  [202608171116168920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608171116168920.pdf)
-
-- Regarding the constitution of a committee under the chairmanship of the District Collector, Pune, for the construction of a memorial for the pioneering revolutionary Raje Umaji Naik at Mouje Dive, Taluka Purandar, District Pune.\
-  [202608181305095820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608181305095820.pdf)
-
-- Regarding the inclusion of a non-planned/unclassified road in Niphad Taluka, Nashik District, as a Rural Road under the Road Development Plan 2001-21.\
-  [202608191117184920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191117184920.pdf)
-
-- Regarding the grant of administrative approval for the construction of Gram Panchayat buildings in Sangli district under the Hon. Balasaheb Thackeray Smruti Matoshree Gram Panchayat Construction Scheme (Corrigendum)...\
-  [202608191117205820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191117205820.pdf)
-
-- Regarding partial revision of the nomination of members of the District Development Coordination and Monitoring Committee (DISHA).\
-  [202608201113414720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608201113414720....pdf)
-
-## Personnel
-- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra  Development Service, Assistant Block Development Officer, Group-B in Amravati Division -  (Select List Year 2025-26)\
-  [202608191206022120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191206022120.pdf)
-
-- Regarding ad hoc promotion to the posts in Direct service quota of employee in  District Service (Group C) and District Technical Service (Group C) to the cadre of  Maharashtra Development Service, Group B (S-16) Assistant Block Development Officers in  Nagpur Division- (Select List Year 2025-26)\
-  [202608191206001620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191206001620.pdf)
-
-- Regarding temporary promotion to vacancies in regular promotion quota of  employees in District Technical Service (Group C) to the cadre of Maharashtra Development  Service, Group B (S-16) Assistant Block Development Officers in Amravati Division- (Select  List Year 2025-26)\
-  [202608191206074020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191206074020.pdf)
-
-- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra  Development Service, Assistant Block Development Officer, Group-B in Nagpur Division -  (Select List Year 2025-26)\
-  [202608191205528620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191205528620.pdf)
-
-- Regarding ad hoc promotion to the posts in Direct service quota of employee in  District Service (Group C) and District Technical Service (Group C) to the cadre of  Maharashtra Development Service, Group B (S-16) Assistant Block Development Officers in  Amravati Division- (Select List Year 2025-26)\
-  [202608191206122620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608191206122620.pdf)
+- Regarding the inclusion of non-planned/unclassified roads in the Mehkar and Nandura talukas of Buldhana district as Rural Roads under the Road Development Plan 2001-21.\
+  [202608241105149220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241105149220.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
