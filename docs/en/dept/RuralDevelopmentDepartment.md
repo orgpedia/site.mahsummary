@@ -25,12 +25,37 @@
 - Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for the Shri Vithoba Mandir (Prati-Pandharpur) at Mauje Nandwal, Taluka Karveer, District Kolhapur.\
   [202608241215242020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241215242020.pdf)
 
+- Regarding the grant of administrative approval and disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shiv Temple, Dongargaon, Phulambri, Taluka  District Chhatrapati Sambhajinagar\
+  [202608251144522720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251144522720.pdf)
+
+- Regarding the grant of Administrative Approval for the development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B)  Shri Mhasoba Maharaj Devasthan Trust, Loni Bk., Taluka Rahata, District Ahilyanagar.\
+  [202608251144570020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251144570020.pdf)
+
+- Regarding the grant of administrative approval and disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shani Maharaj Temple, Devgaon Shani, Taluka Vaijapur, District Chhatrapati Sambhajinagar\
+  [202608251144495520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251144495520.pdf)
+
 ## Miscellaneous
 - Regarding the inclusion of non-planned/unclassified roads in Khultabad Taluka, Chhatrapati Sambhajinagar District, as rural roads under the Road Development Plan 2001-21.\
   [202608241105129220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241105129220.pdf)
 
 - Regarding the inclusion of non-planned/unclassified roads in the Mehkar and Nandura talukas of Buldhana district as Rural Roads under the Road Development Plan 2001-21.\
   [202608241105149220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241105149220.pdf)
+
+- Regarding the constitution of a committee for the appointment of a Nodal Architect for Umed Mall buildings...\
+  [202608251254257020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251254257020.pdf)
+
+- Regarding the modification of serial numbers for non-planned/unclassified roads in Vasmat Taluka, Hingoli District, which were included as Rural Roads in the Road Development Plan 2001-21.\
+  [202608251143428420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251143428420.pdf)
+
+## Personnel
+- Regarding regularization of ad-hoc promotions in the cadre of Maharashtra  Development Service, Assistant Block Development Officer, Group-B in Pune Division -  (Select List Year 2025-26)\
+  [202608251143153420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251143153420.pdf)
+
+- Regarding ad hoc promotion to the posts in Direct service quota of employee in  District Service (Group C) and District Technical Service (Group C) to the cadre of  Maharashtra Development Service, Group B (S-16) Assistant Block Development Officers in  Pune Division- (Select List Year 2025-26)\
+  [202608251143277920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251143277920.pdf)
+
+- Regarding temporary promotion to vacancies in regular promotion quota of  employees in District Technical Service (Group C) to the cadre of Maharashtra Development  Service, Group B (S-16) Assistant Block Development Officers in Pune Division- (Select List  Year 2025-26)\
+  [202608251143253620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251143253620.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
