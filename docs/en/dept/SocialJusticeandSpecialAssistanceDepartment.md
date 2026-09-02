@@ -1,31 +1,31 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 31 August 2026 - 05 September 2026
+**Date Range**: 07 September 2026 - 12 September 2026
 
 
 ## Funds
-- Regarding the disbursement of funds for the Mukhyamantri Majhi Ladki Bahin Yojana during the financial year 2026-27. (Accounting Head 2235 D 767)\
-  [202608241405452122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608241405452122.pdf)
-
-- Regarding the approval of works in Dhule district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202608271721261522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608271721261522.pdf)
-
-- Regarding the approval of works in Dhule district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202608251302236122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251302236122.pdf)
+- Regarding the approval of works in Buldhana district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202608311810459822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311810459822.pdf)
 
 - Regarding the approval of works in Mumbai Suburban District for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202608251255565422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251255565422.pdf)
+  [202608311250075322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311250075322.pdf)
 
-- Regarding the approval of works in Mumbai Suburban District for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
-  [202608251258479222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251258479222.pdf)
+- Regarding the approval of works in Mumbai Suburban District for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.Regarding the approval of works in Mumbai Suburban District for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202608311252404822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311252404822.pdf)
+
+- Regarding the approval of works in Dhule district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202608311254562722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311254562722.pdf)
 
 ## Miscellaneous
-- Regarding the extension of the deadline for the committee constituted at the taluka levelunder the chairmanship of the Tehsildarto carry out the process of compiling genealogies for the issuance of Kunbi, Maratha-Kunbi, and Kunbi-Maratha caste certificates and caste validity certificates.\
-  [202608251217134722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251217134722.pdf)
+- Regarding regularization of services of 4 high grade Stenographers appointed on contract basis in the establishment of Social Welfare Commissionerate....\
+  [202609011318374122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011318374122.pdf)
+
+- Regarding the constitution of State-level, District-level, and Taluka-level steering, coordination, and monitoring committees for the effective implementation of the Nasha Mukt Bharat Abhiyan (NMBA) and the National Action Plan for Drug Demand Reduction (NAPDDR)...\
+  [202609011816581322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011816581322.pdf)
 
 ## Personnel
-- Regarding the increase in the hourly rates/honorarium of teachers appointed on a temporary, hourly basis in government residential schools.\
-  [202608251703211322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608251703211322.pdf)
+- Regarding the selection of suppliers to supply milk (Flavor Milk Tetra Pack 200 ml) to the admitted students of Government Hostels and Government Residential Schools under the Department of Social Justice and Special Assistance..\
+  [202608311257111522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311257111522.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
