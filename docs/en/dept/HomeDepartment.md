@@ -16,6 +16,9 @@
 - Regarding suspension from government service: Shri Prashant Matte, Superintendent, Prison Industries, Group A.\
   [202608311507401229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311507401229.pdf)
 
+- Additional Director General of Police, Mr. Res. Regarding making funds available for payment of prizes, computer expenses, advertising and publicity and other expenses to Cyber, Mumbai.\
+  [202609021536295429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021536295429.pdf)
+
 ## Personnel
 - Additional Public Prosecutor, Group-A Transfer Requests - 2026\
   [202608311901312129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311901312129.pdf)
@@ -34,6 +37,9 @@
 
 - Regarding the transfer (reversion) of 1,200 sq. m. of landout of the total 4.37 hectares in Gat No. 50/2 at Mauje Savedi, Taluka  District Ahilyanagarto the Revenue and Forests Department, for the purpose of making it available to the DCIO (Ministry of Home Affairs, Government of India), Ahilyanagar, for the construction of an office and residential complex.\
   [202608311820330829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311820330829.pdf)
+
+- Regarding the transfer of 06 posts in the clerical cadre from closed sub-jails to the respective offices of the Deputy Inspector General of Prisons.\
+  [202609021505595629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021505595629.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

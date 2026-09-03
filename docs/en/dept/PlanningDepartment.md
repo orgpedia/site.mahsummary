@@ -16,9 +16,18 @@
 - Regarding the disbursement of funds for the year 2026-27 under the development plan for the Shri Kshetra Bhimashankar pilgrimage site (located in Khed and Ambegaon talukas, Pune district).\
   [202609011811154816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011811154816.pdf)
 
+- Regarding the disbursement of funds sanctioned via re-appropriation for the financial year 2026-27 to the Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (SARTHI), Pune. (Phase-4)\
+  [202609021150184016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021150184016.pdf)
+
 ## Miscellaneous
 - Regarding the provision of a vehicle for the post of Commissioner at the Directorate of Economics and Statistics, Mumbai, under the administrative control of the Planning Department.\
   [202609011151254616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011151254616.pdf)
+
+- Regarding the renaming of the Commissionerate, Mahatma Gandhi National Rural Employment Guarantee Scheme  Maharashtra, Nagpur to Commissionerate, Maharashtra Employment Guarantee (Viksit Bharat  Employment and Livelihood Guarantee Mission (Rural)).\
+  [202609021725325916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021725325916.pdf)
+
+- Regarding the provision of funds through re-appropriation for the Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (SARTHI), Pune, for the financial year 2026-27.\
+  [202609021147237016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021147237016.pdf)
 
 ## Personnel
 - Regarding the posting of officers from the Joint Commissioner (Group-A) cadre under the Directorate of Economics and Statistics to the post of Additional Commissioner (Group-A) via promotion.\
@@ -26,6 +35,9 @@
 
 - Regarding a partial modification to the posting of an officer appointed by nomination to the cadre of Research Officer/Statistical Officer, Group B (Gazetted) in the Directorate of Economics and Statistics...\
   [202608311804331016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311804331016.pdf)
+
+- Employees Master Database (EMDb)\
+  [202609021443290416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021443290416.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -3,6 +3,19 @@
 **Date Range**: 07 September 2026 - 12 September 2026
 
 
+## Funds
+- Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Caste Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
+  [202609021857157108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021857157108.pdf)
+
+- Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central share) (General Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
+  [202609021851342208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021851342208.pdf)
+
+- Release of fund in Dr.Panjabrao Deshmukh Hostel Maintenance Scheme in 2026-27 (Budget Head 2203 3542)\
+  [202609021736587608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021736587608.pdf)
+
+- Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Tribe Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
+  [202609021855044008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021855044008.pdf)
+
 ## Miscellaneous
 - Regarding approval to start Government recognized skill based diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Hon Mohan Mane College of ADMLT, Shirol, Dist.Kolhapur)\
   [202608311912462808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311912462808.pdf)
@@ -96,6 +109,39 @@
 
 - Regarding approval to increase the accessibility of government recognized skill based diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Amtec Foundations Institute of Paramedical Science  Technology, BEED)\
   [202608311909194208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311909194208.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (METs Institute of Pharmacy, Adgaon, Nashik)\
+  [202609021600182808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021600182808.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Gokhale Education Societys Sir Dr. M. S. Gosavi College of Pharmaceutical Education and Research, Nashik)\
+  [202609021602565708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021602565708.pdf)
+
+- Regarding approval to start short term vocational oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Vivekananda Institute of Skill Development, Chandrapur)\
+  [202609021450599108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021450599108.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Institute of Pharmacy and Research, Badnera, Dist. Amravati)\
+  [202609021557580108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021557580108.pdf)
+
+- Regarding the expedited approval of new additional batches for specific faculties under exceptional circumstances for the 2026-27 academic year. (Court matter)\
+  [202609021840330308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021840330308.pdf)
+
+- Regarding the announcement of Dr. J.P. Naik Adarsh State Teacher Award for the year 2024-25 and 2025-26.\
+  [202609021158498608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021158498608.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Vishal Institute of Pharmaceutical Education and Research, Junnar, Pune)\
+  [202609021613450008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021613450008.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Annasaheb Dange College of Pharmacy, Ashta, Taluka Walwa, District Sangli)\
+  [202609021555442208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021555442208.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Dr. Rajendra Gode College of Pharmacy, Amravati)\
+  [202609021608493108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021608493108.pdf)
+
+- Regarding the granting of approval for new courses in existing colleges for the academic year 2026-27. (Court matter)\
+  [202609021838186108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021838186108.pdf)
+
+- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Rajeshbhaiyya Tope College of B.Pharm., Nipani, Bhalgaon, Chhatrapati Sambhajinagar)\
+  [202609021611243508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021611243508.pdf)
 
 ## Personnel
 - Regarding the approval to change the name of the institutes management, as well as the name and address of the college, for the existing Diploma in Pharmacy course, in accordance with the approval granted by the Pharmacy Council of India, New Delhi, effective from the academic year 2026-27.\

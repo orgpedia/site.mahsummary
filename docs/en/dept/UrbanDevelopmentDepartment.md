@@ -40,5 +40,27 @@
 - Regarding the disbursement of funds amounting to Rs. 167.3850 crore to the concerned District Collectors, in accordance with the orders sanctioned under the Vaishishtyapurna (Special/Distinctive) scheme (File No. 2217 1301).\
   [202608311759393325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311759393325.pdf)
 
+- Regarding the sanction of funds to Municipal Councils under the Special scheme Under the financial head (2217 1301) for the year 2026-27 For Devgad-Jamsande Nagar Panchayat, District Sindhudurg Amount: Rs. 1.30 crore\
+  [202609021648390225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021648390225.pdf)
+
+- Regarding the sanction of funds for providing notified specific urban services and amenities within the jurisdiction of Urban Local Bodies. For the year 2022-23, under Budget Head (3604 1009) For Nagpur Municipal Corporation, Dist. Nagpur Rs. 46.13 crore (Corrigendum)\
+  [202609021641592825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021641592825.pdf)
+
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For the year 2026-27, under Budget Head (2217 1301) For Rajapur Municipal Council, Dist. Ratnagiri Total amount: Rs. 30.00 lakh\
+  [202609021643593725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021643593725.pdf)
+
+- Regarding sanction of funds to Municipal Councils under Special Scheme. Year 2026-27 under head of account (2217 1301). Rajapur Municipal Council, Distt. For Ratnagiri A total amount of Rs. 70.00 lakhs\
+  [202609021645434825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021645434825.pdf)
+
+- Nagar Vikas Complex plot fee, consultancy fee, expenses required for getting approvals from Municipal Corporation and various authorities, as well as Foundation and Pliinth work etc. for the first phase of the project. For the year 2026-27 under the head (42170846) for Directorate of Municipal Council Administration an amount of Rs. 5,00,00,000/-\
+  [202609021549251825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021549251825.pdf)
+
+- Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Devgad-Jamsande Nagar Panchayat, District Sindhudurg: Amount: Rs. 50.00 lakh.\
+  [202609021647111925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021647111925.pdf)
+
+## Personnel
+- Regarding the designation of the Chief Accounts and Finance Officers (CAFOs) on the establishments of the Kolhapur Municipal Corporation, Sangli-Miraj-Kupwad City Municipal Corporation, and Ichalkaranji Municipal Corporation as Virtual Personal Deposit Account Administrators (VPDAA) for the expeditious disbursement and monitoring of grants-in-aid.\
+  [202609021552361825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021552361825.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

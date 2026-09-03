@@ -16,6 +16,9 @@
 - Regarding the approval of works in Dhule district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
   [202608311254562722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311254562722.pdf)
 
+- Regarding the approval of works in Pune district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
+  [202609021711444522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021711444522.pdf)
+
 ## Miscellaneous
 - Regarding regularization of services of 4 high grade Stenographers appointed on contract basis in the establishment of Social Welfare Commissionerate....\
   [202609011318374122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011318374122.pdf)
