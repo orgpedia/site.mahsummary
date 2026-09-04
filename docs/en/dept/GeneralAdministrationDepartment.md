@@ -42,5 +42,8 @@
 - Ad-hoc Promotion from the post of Deputy Secretary to the post of Joint Secretary\
   [202609021828595007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021828595007.pdf)
 
+- Regarding the allotment of premises to the office of the Public Works Department, Sub-division No. 2, Bandra (East).\
+  [202609031653077307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031653077307.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

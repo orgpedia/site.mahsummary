@@ -27,5 +27,8 @@
 - Regarding the temporary promotion from the lower cadre of Superintendent (Group-B) (Non-Gazetted) to the post of Special Superintendent (Group-B) (Gazetted). (Supplementary Selection List for the year 2025-26)\
   [202608311521486327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311521486327.pdf)
 
+- Regarding the transfer of 3.05 hectares of land belonging to the Water Resources Department to the Revenue and Forest Department for the Government Medical College and Hospital at Dharashiv.\
+  [202609031503046427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031503046427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

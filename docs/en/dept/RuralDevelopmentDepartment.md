@@ -19,6 +19,12 @@
 - Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Ranamata Temple, Suradevi, Taluka Kamptee, District Nagpur.\
   [202609021454394420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021454394420.pdf)
 
+- Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) for Shri Lingeshwar Maharaj Math, Alasand, Taluka Khanapur, District Sangli.\
+  [202609021454375520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021454375520.pdf)
+
+- Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B): Shri Kshetra Balyachi Pahadi, Niharwani, Taluka Mouda, District Nagpur.\
+  [202609021454433820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021454433820.pdf)
+
 ## Miscellaneous
 - Regarding the revised procedure of House Building Advance (HBA ) grants distribution to Zilla Parishad employees\
   [202608311036099020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311036099020.pdf)

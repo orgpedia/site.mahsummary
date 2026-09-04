@@ -16,6 +16,9 @@
 - Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Tribe Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
   [202609021855044008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021855044008.pdf)
 
+- Regarding the approval to sanction funds amounting to 5 crore for launching the Five-Year Integrated Post-Graduate Programme in Transdisciplinary Liberal Studies (Bharat Vidya) at the Deccan College Post-Graduate and Research Institute, Pune.\
+  [202609031834241208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031834241208.pdf)
+
 ## Miscellaneous
 - Regarding approval to start Government recognized skill based diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Hon Mohan Mane College of ADMLT, Shirol, Dist.Kolhapur)\
   [202608311912462808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311912462808.pdf)
@@ -142,6 +145,36 @@
 
 - Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Rajeshbhaiyya Tope College of B.Pharm., Nipani, Bhalgaon, Chhatrapati Sambhajinagar)\
   [202609021611243508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021611243508.pdf)
+
+- Regarding approval to start the Government recognized skill based diploma course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (GK Paramedical College of the late Parasram Education Society, Gondia)\
+  [202609031932241108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031932241108.pdf)
+
+- Regarding approval to start Government recognized Skill Based Diploma Course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Shri Samarth Mauli Welfare Foundations Institute of Fire Safety and Environment, Bhandara)\
+  [202609031927211208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031927211208.pdf)
+
+- Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Sushrut Institute of Skill Development, Thane)\
+  [202609031851101208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031851101208.pdf)
+
+- Regarding the grant of approval to commence government-recognized, skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Gadchiroli Paramedical College, Gadchiroli  run by Shrihari Bahuuddeshiya Shikshan Sanstha)\
+  [202609031929452708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031929452708.pdf)
+
+- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Shri Sai Polytechnic, Chandrapur  run by Late M.D. Yergude Memorial Shikshan Prasarak Mandal)\
+  [202609031934525308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031934525308.pdf)
+
+- With regard to approving the commencement of skill-based diploma courses under the jurisdiction of the Maharashtra State Board of Technical Education from the academic year 2026-27. (AYUSHMANS MULTISPECIALTY HOSPITAL  RESEARCH CENTER)\
+  [202609031923587208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031923587208.pdf)
+
+- Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Swamiji Technical Institute, Beed  run by Vai. Acharya Swami Ganeshanand Sevabhavi Sanstha)\
+  [202609031853353908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031853353908.pdf)
+
+- Regarding approval of changes in the government recognized skill based diploma curriculum under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Lt. Sumantai Gujar Multipurpose Institution National College of Fire and Safety, Nagpur\
+  [202609031943370908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031943370908.pdf)
+
+- Regarding approval to start short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Padmini College of Pharmacy of Indrabhagya Krishi and Rural Development Institute, Sangli)\
+  [202609031848502808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031848502808.pdf)
+
+- Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Devgiri Pratishthans Tulsi College of D.M.L.T., Beed)\
+  [202609031941098808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031941098808.pdf)
 
 ## Personnel
 - Regarding the approval to change the name of the institutes management, as well as the name and address of the college, for the existing Diploma in Pharmacy course, in accordance with the approval granted by the Pharmacy Council of India, New Delhi, effective from the academic year 2026-27.\

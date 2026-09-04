@@ -58,6 +58,21 @@
 - Regarding the sanction of funds under the scheme Assigned amounts of Motor Vehicle Tax payable by the State to Urban Local Bodies  Road Grant (Mandatory) for the year 2026-27 (under Budget Head 3604 1054) for Devgad-Jamsande Nagar Panchayat, District Sindhudurg: Amount: Rs. 50.00 lakh.\
   [202609021647111925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021647111925.pdf)
 
+- Regarding the sanction of funds to Municipal Councils under the Special scheme. For Bhor Municipal Council, Dist. Pune Under the financial year 2026-27 budget head (2217 1301) Total amount: Rs. 18.00 crore\
+  [202609031842159425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031842159425.pdf)
+
+- Regarding the State Governments approval for the Detailed Project Report (DPR) and the implementationthrough the Mumbai Metropolitan Region Development Authority (MMRDA)of the Mumbai Metro Line-13 project (total length 25.03 km). This project entails the construction of an integrated structure comprising the Metro line and a six-lane (33) flyover (4.92 km) connecting Panju Island across Vasai Creek (linking Subhash Chandra Bose Stadium, Naigaon).\
+  [202609031532420125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031532420125.pdf)
+
+- Regarding the grant of administrative approval for the water supply project of Risod city under the Urban Upliftment Mega-Campaign.\
+  [202609031433337825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031433337825.pdf)
+
+- Regarding the disbursement of loan amounts received from the National Housing Bank under the Urban Infrastructure Development Fund (UIDF) to Urban Local Bodies (Year 2026-27).\
+  [202609031435291125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031435291125.pdf)
+
+- Regarding the disbursement of funds to Nagar Panchayats under the scheme Assistance for providing civic amenities to newly established Nagar Panchayats. For the year 2022-23 under Budget Head (2217 9492) Kasai-Dodamarg Nagar Panchayat, Dist. Sindhudurg Amount: Rs. 3.00 crore (Corrigendum)\
+  [202609031555257025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031555257025.pdf)
+
 ## Personnel
 - Regarding the designation of the Chief Accounts and Finance Officers (CAFOs) on the establishments of the Kolhapur Municipal Corporation, Sangli-Miraj-Kupwad City Municipal Corporation, and Ichalkaranji Municipal Corporation as Virtual Personal Deposit Account Administrators (VPDAA) for the expeditious disbursement and monitoring of grants-in-aid.\
   [202609021552361825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021552361825.pdf)
