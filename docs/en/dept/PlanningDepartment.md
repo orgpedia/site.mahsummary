@@ -19,6 +19,9 @@
 - Regarding the disbursement of funds sanctioned via re-appropriation for the financial year 2026-27 to the Chhatrapati Shahu Maharaj Research, Training and Human Development Institute (SARTHI), Pune. (Phase-4)\
   [202609021150184016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021150184016.pdf)
 
+- Regarding the allocation of Rs. 5 crore from the District Annual Plan (General) for the implementation of the Aspirational Taluka Programme (2026-27) across 177 identified aspirational talukas in 34 districts (excluding Mumbai City and Mumbai Suburban).\
+  [202609041601387916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041601387916.pdf)
+
 ## Miscellaneous
 - Regarding the provision of a vehicle for the post of Commissioner at the Directorate of Economics and Statistics, Mumbai, under the administrative control of the Planning Department.\
   [202609011151254616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011151254616.pdf)

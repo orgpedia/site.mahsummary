@@ -42,5 +42,8 @@
 - Regarding temporary promotion to vacancies in regular promotion quota of employees in District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-16) Assistant Block Development Officers in Chhatrapati Sambhajinagar Division- (Select List Year 2025-26)Regarding temporary promotion to vacancies in regular promotion quota of employees in District Technical Service (Group C) to the cadre of Maharashtra Development Service, Group B (S-16) Assistant Block Development Officers in Chhatrapati Sambhajinagar Division- (Select List Year 2025-26)\
   [202609021519466420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021519466420.pdf)
 
+- Regarding continuation of temporary posts approved for the office of Divisional Commissioner\
+  [202609041106160620.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041106160620.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

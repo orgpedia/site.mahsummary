@@ -73,9 +73,18 @@
 - Regarding the disbursement of funds to Nagar Panchayats under the scheme Assistance for providing civic amenities to newly established Nagar Panchayats. For the year 2022-23 under Budget Head (2217 9492) Kasai-Dodamarg Nagar Panchayat, Dist. Sindhudurg Amount: Rs. 3.00 crore (Corrigendum)\
   [202609031555257025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031555257025.pdf)
 
+- Release of New Development Bank Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 2A, 2B and 7 Projects (FY 2026-27)\
+  [202609041200295225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041200295225.pdf)
+
+- Disbursement of loan amount received from KfW Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 4 and 4A projects (FY 2026-27)\
+  [202609041157118225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041157118225.pdf)
+
 ## Personnel
 - Regarding the designation of the Chief Accounts and Finance Officers (CAFOs) on the establishments of the Kolhapur Municipal Corporation, Sangli-Miraj-Kupwad City Municipal Corporation, and Ichalkaranji Municipal Corporation as Virtual Personal Deposit Account Administrators (VPDAA) for the expeditious disbursement and monitoring of grants-in-aid.\
   [202609021552361825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021552361825.pdf)
+
+- Continuation of Posts.\
+  [202609041224223125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041224223125.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

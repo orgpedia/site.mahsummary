@@ -176,9 +176,48 @@
 - Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Devgiri Pratishthans Tulsi College of D.M.L.T., Beed)\
   [202609031941098808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031941098808.pdf)
 
+- Regarding approval to start short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Kadam College of Paramedical Science of Sanskriti Multipurpose Institution, Chhatrapati Sambhajinagar.)\
+  [202609041808359208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041808359208.pdf)
+
+- Regarding approval to start short-term vocational oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Sahara DMLT Institute of Savitribai Phule Education and Welfare Society, Parbhani)\
+  [202609041814226608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041814226608.pdf)
+
+- Regarding the approval to modify government-recognized skill-based diploma courses under the jurisdiction of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Dnyanjyot College of Paramedical, Ahilyanagar  run by Dnyanjyot Shikshan Prasarak Mandal)\
+  [202609041527129908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041527129908.pdf)
+
+- Regarding Government approval to start a new postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27, in accordance with the approval granted by the Pharmacy Council of India, New Delhi... (Nanded Pharmacy College, Shyamnagar, Nanded  managed by Shri Sharada Bhavan Education Society)\
+  [202609041749048408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041749048408.pdf)
+
+- Regarding the approval to start new courses at new and existing art institutions offering diploma programs under the Directorate of Art, and to start new batches at existing art institutions on a permanent non-grant basis, effective from the academic year 2026-27.\
+  [202609041449538508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041449538508.pdf)
+
+- Regarding the approval to modify government-recognized skill-based diploma courses under the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (M. N. Patil Technical Institute, Beed  run by The Great Shivmavala Social Foundation)\
+  [202609041524415708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041524415708.pdf)
+
+- Regarding approval to start short-term vocational-oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Yadavrao Tasgaonkar Polytechnic of Saraswati Education Society, Karjat, Dist. Raigad)\
+  [202609041811411308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041811411308.pdf)
+
+- Regarding approval for change in the name of the institution in the government recognized skill based diploma course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (M N Patil Technical Institute, Beed\
+  [202609041532154608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041532154608.pdf)
+
+- Regarding the approval for a change in the name and address of the institute for the government-recognized skill-based diploma courses affiliated with the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Dr. C. H. Kavchale Charitable Trusts Modern Institute of Paramedical Technology, Kolhapur)\
+  [202609041529385108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041529385108.pdf)
+
 ## Personnel
 - Regarding the approval to change the name of the institutes management, as well as the name and address of the college, for the existing Diploma in Pharmacy course, in accordance with the approval granted by the Pharmacy Council of India, New Delhi, effective from the academic year 2026-27.\
   [202609011322525808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011322525808.pdf)
+
+- Regarding government approval to increase the intake capacity of the Bachelor of Pharmacy (B.Pharm) course at the existing pharmacy institutesubject to the approval of the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Institute of Pharmacy and Research, Badnera, Amravati; run by Vidarbha Youth Welfare Society)\
+  [202609041742065308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041742065308.pdf)
+
+- Regarding Government approval to increase the intake capacity of the Bachelor of Pharmacy (B. Pharmacy) course at the existing pharmacy institutesubject to the approval of the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Sudhakarrao Naik Institute of Pharmacy, Pusad, Dist. Yavatmal, run by Janata Shikshan Prasarak Mandal, Pusad)\
+  [202609041738374308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041738374308.pdf)
+
+- Regarding government approval to increase the intake capacity of the Bachelor of Pharmacy (B.Pharm) course at the existing pharmacy institutein accordance with the approval granted by the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Vishal Institute of Pharmaceutical Education and Research, Junnar, Pune; managed by Vishal Junnar Seva Mandal)\
+  [202609041745259008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041745259008.pdf)
+
+- Regarding Government approval to increase the intake capacity for the Bachelor of Pharmacy (B.Pharm) course at the existing pharmacy institutesubject to the approval of the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Nanded Pharmacy College, Shyamnagar, Nanded; managed by Shri Sharada Bhavan Education Society)\
+  [202609041751405408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041751405408.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

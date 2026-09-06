@@ -17,5 +17,18 @@
 - Regarding the implementation of the residential pre-recruitment training scheme for police constables.\
   [202609031722169514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031722169514.pdf)
 
+- Regarding the implementation of the compassionate appointment scheme for the Maharashtra State Waqf Board.\
+  [202609041728531414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041728531414.pdf)
+
+- Regarding the payment of the bill for the event organized at Kharghar, District Raigad, to mark the 350th Martyrdom Centenary (Shaheedi Shatabdi Samagam) of Hind-ki-Chadar Shri Guru Tegh Bahadur Sahib Ji.\
+  [202609041257272914.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041257272914...pdf)
+
+- Regarding the determination of duties and responsibilities of officers and staff at the Minority Commissionerate, Chhatrapati Sambhajinagar, and the District Minority Cell.\
+  [202609041544225014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041544225014.pdf)
+
+## Personnel
+- Regarding the approval to procure the services of two senior consultants from M/s KPMG Advisory Services Pvt Ltd for the Minority Development Department.\
+  [202609041608285114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041608285114.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

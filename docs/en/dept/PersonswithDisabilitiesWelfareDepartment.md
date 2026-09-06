@@ -38,5 +38,9 @@
 - Regarding disbursement of Subsidiary Grants (non-salary) Funds to Non-Governmental Organizations working in the category of intellectually disabled. Blue Flug Education Society, Dhanegaon, Tumsar, District Bhandara Jagruti Divyang Retarded Boys and Girls Residential School, Mauda Distt. Nagpur (2022-23 Non-Salary)\
   [202609021634053035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021634053035.pdf)
 
+## Personnel
+- Regarding selection of rehabilitation homes for mentally ill persons through NGOs.\
+  [202609041536172735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041536172735.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

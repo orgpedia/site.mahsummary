@@ -3,6 +3,10 @@
 **Date Range**: 07 September 2026 - 12 September 2026
 
 
+## Funds
+- Regarding the grant of administrative approval for the extension of the term and the estimated cost for M/s Deloitte, the System Integrator for the CCTNS project.\
+  [202609041611314129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041611314129.pdf)
+
 ## Miscellaneous
 - Regarding the appointment of the Maharashtra State Police Housing and Welfare Corporation Ltd. as the implementing agency and declaring it the developer for police housing projects on land under the jurisdiction of the Police Department across Maharashtra, in accordance with Regulation 33(3)(a) of DCPR-2034.\
   [202609011236510729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011236510729.pdf)
@@ -18,6 +22,12 @@
 
 - Additional Director General of Police, Mr. Res. Regarding making funds available for payment of prizes, computer expenses, advertising and publicity and other expenses to Cyber, Mumbai.\
   [202609021536295429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021536295429.pdf)
+
+- Regarding the creation of necessary new posts (sportsmen-mounted police) for the Mounted Police Unit of the Brihanmumbai Police Force.\
+  [202609041615069829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041615069829.pdf)
+
+- Regarding the grant of administrative approval for the extension of the term of the Project Consultant for the CCTNS project.\
+  [202609041613034829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041613034829.pdf)
 
 ## Personnel
 - Additional Public Prosecutor, Group-A Transfer Requests - 2026\
@@ -40,6 +50,18 @@
 
 - Regarding the transfer of 06 posts in the clerical cadre from closed sub-jails to the respective offices of the Deputy Inspector General of Prisons.\
   [202609021505595629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021505595629.pdf)
+
+- Regular Select List, 2025-2026: Regarding promotion to a post in the cadre of Senior Administrative Officer on the establishment of the Commissioner of Police, Greater Mumbai.\
+  [202609041442527229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041442527229.pdf)
+
+- Regarding the partial modification of the posting of Shri Anand Prahlad Sukhdeve, Additional Public Prosecutor (Group-A), upon his promotion to the post of Assistant Director and Public Prosecutor (Group-A).\
+  [202609041712455529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041712455529.pdf)
+
+- Assistant Public Prosecutor, Group-A Request for Transfer.\
+  [202609041714271829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041714271829.pdf)
+
+- Assistant Director and Public Prosecutor, Group-A Request Transfers - 2026\
+  [202609041716554129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041716554129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

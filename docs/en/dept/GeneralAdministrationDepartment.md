@@ -23,6 +23,21 @@
 - Regarding the appointment as District Guardian Secretary...\
   [202609021446306307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021446306307.pdf)
 
+- Regarding constitution of a high-level committee to conduct an in-depth study of the existing recruitment examination system in the state and to suggest necessary reforms...\
+  [202609051354473307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609051354473307.pdf)
+
+- Regarding the appointment of an Executive Officer on deputation to the establishment of the Shri Vitthal Rukmini Temples Committee, Pandharpur (District Solapur) Shri Shrikant Chakradhar Yadav, Section Officer\
+  [202609041147045807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041147045807.pdf)
+
+- Regarding the grant of administrative approval for the purchase of new vehicles for four newly appointed members of the Office of the Lokayukta, Maharashtra State, at a cost limit of 30.00 lakh per vehicle (excluding Goods and Services Tax, motor vehicle tax, and registration charges).\
+  [202609041621019107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041621019107.pdf)
+
+- Seniority wise list for promotion on the post of Mantralaya Clerk- Typist Group-C as on 01-01-2025 (Final) from Mantralaya Group-D Employees.\
+  [202609041719104807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041719104807.pdf)
+
+- Revised review of vehicles on the establishment of the Office of the Lokayukta, Maharashtra State.\
+  [202609041622544307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041622544307.pdf)
+
 ## Personnel
 - Regarding the implementation in the State of Maharashtra of the nationwide campaign Reform Utsav, aimed at suggesting, evaluating, and ensuring the time-bound implementation of administrative, procedural, technical, and structural reforms through citizen participation.\
   [202609011233422707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011233422707.pdf)
@@ -44,6 +59,15 @@
 
 - Regarding the allotment of premises to the office of the Public Works Department, Sub-division No. 2, Bandra (East).\
   [202609031653077307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031653077307.pdf)
+
+- Maharashtra Group-B (Non-Gazetted) Services Main Examination-2024 Allocation of candidates recommended from the waiting list by the Maharashtra Public Service Commission to the post of Assistant Section Officer in the administrative departments of the Mantralaya.\
+  [202609041722461407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041722461407.pdf)
+
+- Regarding the transfer of an officer from the Mantralaya Section Officer cadre Shri Sanket S. Gaikwad, Section Officer\
+  [202609041145220107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041145220107.pdf)
+
+- Regarding repatriation of Smt. Shital Dadamal, Assistant Section Officer\
+  [202609041725071107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041725071107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
