@@ -1,223 +1,23 @@
 # Higher and Technical Education Department
 
-**Date Range**: 07 September 2026 - 12 September 2026
+**Date Range**: 14 September 2026 - 19 September 2026
 
-
-## Funds
-- Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Caste Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
-  [202609021857157108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021857157108.pdf)
-
-- Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central share) (General Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
-  [202609021851342208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021851342208.pdf)
-
-- Release of fund in Dr.Panjabrao Deshmukh Hostel Maintenance Scheme in 2026-27 (Budget Head 2203 3542)\
-  [202609021736587608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021736587608.pdf)
-
-- Regarding the provision of funds for Management, Monitoring, Evaluation, and Research (MMER) (100 Central Share) (Scheduled Tribe Component) to the State Project Directorate, Rashtriya Uchchatar Shiksha Abhiyan (RUSA), under the Centrally Sponsored Scheme PM-USHA.\
-  [202609021855044008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021855044008.pdf)
-
-- Regarding the approval to sanction funds amounting to 5 crore for launching the Five-Year Integrated Post-Graduate Programme in Transdisciplinary Liberal Studies (Bharat Vidya) at the Deccan College Post-Graduate and Research Institute, Pune.\
-  [202609031834241208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031834241208.pdf)
 
 ## Miscellaneous
-- Regarding approval to start Government recognized skill based diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Hon Mohan Mane College of ADMLT, Shirol, Dist.Kolhapur)\
-  [202608311912462808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311912462808.pdf)
+- Regarding the grant of government approval to start a new postgraduate degree course at the existing pharmacy institute, effective from the academic year 2025-26, in accordance with the approval granted by the Pharmacy Council of India, New Delhi. (Gondia College of Pharmacy, Chulod)\
+  [202609081802434708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081802434708.pdf)
 
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Swaraj Paramedical Institute, Umbraj, Satara)\
-  [202609011917351908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011917351908.pdf)
+- Regarding the grant of approval for new government-recognized, skill-based diploma courses and an increase in intake capacity under the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (ASK Foundations SUDA Institute of Fire and Safety, Shirur, Dist. Pune)\
+  [202609071338004608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071338004608.pdf)
 
-- Regarding Government approval to start a new institute for professional courses from the academic year 2026-27, in accordance with the approval granted by the All India Council for Technical Education (AICTE), New Delhi... (Late Dr. D. B. Dod College of Engineering, Jambhala, Paratwada, Dist. Amravati)\
-  [202608311605527808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311605527808.pdf)
+- Regarding the grant of approval to commence government-recognized, skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (ASK Foundations SUDA Institute of Fire and Safety, Shirur, Dist. Pune)\
+  [202609071341447308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071341447308.pdf)
 
-- Regarding the grant of approval to commence government-recognized, skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Siddhivinayak Training Institute, Sangli)\
-  [202609011914267508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011914267508.pdf)
+- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (College of Fire Engineering and Safety Management, Chhatrapati Sambhajinagar  run by Chandralop Shikshan Prasarak Mandal)\
+  [202609071641588508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071641588508.pdf)
 
-- Regarding the grant of government approval to commence a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27, in accordance with the approval of the Pharmacy Council of India, New Delhi. (Tatyasaheb Kore College of Pharmacy, Warananagar, Dist. Kolhapur)\
-  [202608311612009908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311612009908.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Shram Sadhana Bombay Trust, Jalgaon)\
-  [202608311914314008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311914314008.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Shivshakti Institute of Technology, Chhatrapati Sambhajinagar)\
-  [202608311842370408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311842370408.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Jivandeep Skill Development Institute, Thane)\
-  [202608311911051408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311911051408.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27.  (Purple Technology and Management Institute, Nashik)\
-  [202608311844594708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311844594708.pdf)
-
-- Constitution of State Steering Committee (SSC) for effective implementation of the Multidisciplinary Education and Research Improvement in Technical Education (MERITE) Scheme in the State of Maharashtra.\
-  [202609011338287308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011338287308.pdf)
-
-- Regarding approval to start Government recognized Skill Based Diploma Course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (AMOLAK SKILL DEVELOPMENT CENTER, KADA,TAL-.ASHTI ,DIST-BEED)\
-  [202608311847203108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311847203108.pdf)
-
-- Regarding the grant of government approval to start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27, in accordance with the approval of the Pharmacy Council of India, New Delhi. (PRMS Societys Anuradha College of Pharmacy, Chikhli, Dist. Buldhana)\
-  [202608311609178608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311609178608.pdf)
-
-- Regarding the grant of government approval to commence a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27, in accordance with the approval of the Pharmacy Council of India, New Delhi. (Smt. Kishoritai Bhoyar College of Pharmacy, New Kamptee, Nagpur)\
-  [202608311614539108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311614539108.pdf)
-
-- Regarding the grant of government approval to start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27, in accordance with the approval of the Pharmacy Council of India, New Delhi. (Sandip Institute of Pharmaceutical Sciences, Mahiravani, Nashik)\
-  [202608311616118008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311616118008.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Lalji Mehrotra Technical Institute, Mumbai  Sarla Education Trust)\
-  [202608311858551008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311858551008.pdf)
-
-- Regarding the grant of approval for the purchase of a new vehicle for the office of the District Library Officer, Akola, under the establishment of the Directorate of Libraries...\
-  [202609011400544008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011400544008.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Rashtrasant Vasantji Vijayji Giri Maharaj Education and Medical Foundation Short Term Courses Technical Institute, Nandurbar)\
-  [202609011930408608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011930408608.pdf)
-
-- Regarding the recruitment of Assistant Professors in non-government aided senior colleges affiliated with state public universities...\
-  [202608311317509808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311317509808.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Gyanjyot College of Paramedical, Ahilyanagar)\
-  [202608311849257708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311849257708.pdf)
-
-- Regarding approval to start Government recognized skill based diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Sainamas College of Paramedical, Ahilyanagar)\
-  [202608311915562808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311915562808.pdf)
-
-- Regarding the appointment of an inquiry committee to investigate complaints and irregularities concerning the Fee Regulatory Authority... (Regarding the issuance of a corrigendum...)\
-  [202609011239128908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011239128908.pdf)
-
-- Regarding the approval to increase the intake capacity for government-recognized skill-based diploma courses under the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Late Sumantai Gujar Multipurpose Sansthas National College of Fire and Safety, Nagpur)\
-  [202609011540002508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011540002508.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27. (Swami Vivekananda College of Pharmacy, Udgir, Dist. Latur)\
-  [202608311618507208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311618507208.pdf)
-
-- Regarding the approval to increase the intake capacity for government-recognized, skill-based diploma courses under the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (SP Technical Institute, Patoda, Dist. Beed)\
-  [202608311856430508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311856430508.pdf)
-
-- Regarding the granting of approval for new courses and additional divisions in existing colleges for the academic year 2026-27. (Court Matter)\
-  [202609011214383708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011214383708.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (SP Technical Institute, Patoda, Dist. Beed)\
-  [202608311854429708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311854429708.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27. (Shri Jain Vidya Prasarak Mandals Rasiklal M. Dhariwal Institute of Pharmaceutical Education and Research, Chinchwad, Pune)\
-  [202608311612404008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311612404008.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27. (Sudhakarrao Naik Institute of Pharmacy, Pusad, run by Janata Shikshan Prasarak Mandal)\
-  [202608311617558308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311617558308.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (K.K. Technical Institute, Patoda, Dist. Beed)\
-  [202608311852274808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311852274808.pdf)
-
-- Regarding the approval to increase the intake capacity for government-recognized skill-based diploma courses under the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Sindhu College of Fire and Safety Management, Nashik)\
-  [202609011910052208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011910052208.pdf)
-
-- Regarding approval to increase the accessibility of government recognized skill based diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Amtec Foundations Institute of Paramedical Science  Technology, BEED)\
-  [202608311909194208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311909194208.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (METs Institute of Pharmacy, Adgaon, Nashik)\
-  [202609021600182808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021600182808.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Gokhale Education Societys Sir Dr. M. S. Gosavi College of Pharmaceutical Education and Research, Nashik)\
-  [202609021602565708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021602565708.pdf)
-
-- Regarding approval to start short term vocational oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Vivekananda Institute of Skill Development, Chandrapur)\
-  [202609021450599108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021450599108.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Institute of Pharmacy and Research, Badnera, Dist. Amravati)\
-  [202609021557580108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021557580108.pdf)
-
-- Regarding the expedited approval of new additional batches for specific faculties under exceptional circumstances for the 2026-27 academic year. (Court matter)\
-  [202609021840330308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021840330308.pdf)
-
-- Regarding the announcement of Dr. J.P. Naik Adarsh State Teacher Award for the year 2024-25 and 2025-26.\
-  [202609021158498608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021158498608.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Vishal Institute of Pharmaceutical Education and Research, Junnar, Pune)\
-  [202609021613450008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021613450008.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Annasaheb Dange College of Pharmacy, Ashta, Taluka Walwa, District Sangli)\
-  [202609021555442208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021555442208.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Dr. Rajendra Gode College of Pharmacy, Amravati)\
-  [202609021608493108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021608493108.pdf)
-
-- Regarding the granting of approval for new courses in existing colleges for the academic year 2026-27. (Court matter)\
-  [202609021838186108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021838186108.pdf)
-
-- Regarding the grant of government approvalsubject to the recognition of the Pharmacy Council of India, New Delhito start a new postgraduate degree course or to increase the intake capacity of an existing postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27... (Rajeshbhaiyya Tope College of B.Pharm., Nipani, Bhalgaon, Chhatrapati Sambhajinagar)\
-  [202609021611243508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021611243508.pdf)
-
-- Regarding approval to start the Government recognized skill based diploma course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (GK Paramedical College of the late Parasram Education Society, Gondia)\
-  [202609031932241108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031932241108.pdf)
-
-- Regarding approval to start Government recognized Skill Based Diploma Course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Shri Samarth Mauli Welfare Foundations Institute of Fire Safety and Environment, Bhandara)\
-  [202609031927211208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031927211208.pdf)
-
-- Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Sushrut Institute of Skill Development, Thane)\
-  [202609031851101208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031851101208.pdf)
-
-- Regarding the grant of approval to commence government-recognized, skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Gadchiroli Paramedical College, Gadchiroli  run by Shrihari Bahuuddeshiya Shikshan Sanstha)\
-  [202609031929452708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031929452708.pdf)
-
-- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Shri Sai Polytechnic, Chandrapur  run by Late M.D. Yergude Memorial Shikshan Prasarak Mandal)\
-  [202609031934525308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031934525308.pdf)
-
-- With regard to approving the commencement of skill-based diploma courses under the jurisdiction of the Maharashtra State Board of Technical Education from the academic year 2026-27. (AYUSHMANS MULTISPECIALTY HOSPITAL  RESEARCH CENTER)\
-  [202609031923587208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031923587208.pdf)
-
-- Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Swamiji Technical Institute, Beed  run by Vai. Acharya Swami Ganeshanand Sevabhavi Sanstha)\
-  [202609031853353908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031853353908.pdf)
-
-- Regarding approval of changes in the government recognized skill based diploma curriculum under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Lt. Sumantai Gujar Multipurpose Institution National College of Fire and Safety, Nagpur\
-  [202609031943370908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031943370908.pdf)
-
-- Regarding approval to start short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Padmini College of Pharmacy of Indrabhagya Krishi and Rural Development Institute, Sangli)\
-  [202609031848502808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031848502808.pdf)
-
-- Regarding the grant of approval to commence short-term, vocation-oriented diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Devgiri Pratishthans Tulsi College of D.M.L.T., Beed)\
-  [202609031941098808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031941098808.pdf)
-
-- Regarding approval to start short-term vocationally oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Kadam College of Paramedical Science of Sanskriti Multipurpose Institution, Chhatrapati Sambhajinagar.)\
-  [202609041808359208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041808359208.pdf)
-
-- Regarding approval to start short-term vocational oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Sahara DMLT Institute of Savitribai Phule Education and Welfare Society, Parbhani)\
-  [202609041814226608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041814226608.pdf)
-
-- Regarding the approval to modify government-recognized skill-based diploma courses under the jurisdiction of the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Dnyanjyot College of Paramedical, Ahilyanagar  run by Dnyanjyot Shikshan Prasarak Mandal)\
-  [202609041527129908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041527129908.pdf)
-
-- Regarding Government approval to start a new postgraduate degree course at the existing pharmacy institute, effective from the academic year 2026-27, in accordance with the approval granted by the Pharmacy Council of India, New Delhi... (Nanded Pharmacy College, Shyamnagar, Nanded  managed by Shri Sharada Bhavan Education Society)\
-  [202609041749048408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041749048408.pdf)
-
-- Regarding the approval to start new courses at new and existing art institutions offering diploma programs under the Directorate of Art, and to start new batches at existing art institutions on a permanent non-grant basis, effective from the academic year 2026-27.\
-  [202609041449538508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041449538508.pdf)
-
-- Regarding the approval to modify government-recognized skill-based diploma courses under the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (M. N. Patil Technical Institute, Beed  run by The Great Shivmavala Social Foundation)\
-  [202609041524415708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041524415708.pdf)
-
-- Regarding approval to start short-term vocational-oriented diploma courses under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (Yadavrao Tasgaonkar Polytechnic of Saraswati Education Society, Karjat, Dist. Raigad)\
-  [202609041811411308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041811411308.pdf)
-
-- Regarding approval for change in the name of the institution in the government recognized skill based diploma course under the jurisdiction of Maharashtra State Board of Technical Education from the academic year 2026-27. (M N Patil Technical Institute, Beed\
-  [202609041532154608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041532154608.pdf)
-
-- Regarding the approval for a change in the name and address of the institute for the government-recognized skill-based diploma courses affiliated with the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (Dr. C. H. Kavchale Charitable Trusts Modern Institute of Paramedical Technology, Kolhapur)\
-  [202609041529385108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041529385108.pdf)
-
-## Personnel
-- Regarding the approval to change the name of the institutes management, as well as the name and address of the college, for the existing Diploma in Pharmacy course, in accordance with the approval granted by the Pharmacy Council of India, New Delhi, effective from the academic year 2026-27.\
-  [202609011322525808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011322525808.pdf)
-
-- Regarding government approval to increase the intake capacity of the Bachelor of Pharmacy (B.Pharm) course at the existing pharmacy institutesubject to the approval of the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Institute of Pharmacy and Research, Badnera, Amravati; run by Vidarbha Youth Welfare Society)\
-  [202609041742065308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041742065308.pdf)
-
-- Regarding Government approval to increase the intake capacity of the Bachelor of Pharmacy (B. Pharmacy) course at the existing pharmacy institutesubject to the approval of the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Sudhakarrao Naik Institute of Pharmacy, Pusad, Dist. Yavatmal, run by Janata Shikshan Prasarak Mandal, Pusad)\
-  [202609041738374308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041738374308.pdf)
-
-- Regarding government approval to increase the intake capacity of the Bachelor of Pharmacy (B.Pharm) course at the existing pharmacy institutein accordance with the approval granted by the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Vishal Institute of Pharmaceutical Education and Research, Junnar, Pune; managed by Vishal Junnar Seva Mandal)\
-  [202609041745259008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041745259008.pdf)
-
-- Regarding Government approval to increase the intake capacity for the Bachelor of Pharmacy (B.Pharm) course at the existing pharmacy institutesubject to the approval of the Pharmacy Council of India, New Delhistarting from the academic year 2026-27... (Nanded Pharmacy College, Shyamnagar, Nanded; managed by Shri Sharada Bhavan Education Society)\
-  [202609041751405408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041751405408.pdf)
+- Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Shri Venkatesh Technical and Paramedical Institute, Chhatrapati Sambhajinagar, run by Shri Venkatesh Shikshan Prasarak Mandal)\
+  [202609071335022008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071335022008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

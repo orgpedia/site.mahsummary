@@ -1,18 +1,24 @@
 # Public Works Department
 
-**Date Range**: 07 September 2026 - 12 September 2026
+**Date Range**: 14 September 2026 - 19 September 2026
 
 
 ## Miscellaneous
-- Regarding the grant of administrative approval for the purchase of 03 new inspection vehicles (Jeeps) to replace 03 condemned inspection vehicles (Jeeps) for the offices under the Superintending Engineer, Mumbai Regional Electrical Circle, Public Works Department, Mumbai.\
-  [202609011523385518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011523385518.pdf)
-
-- Regarding the outsourcing of manpower services for 3 drivers for the office of the Port Engineer, Port Engineering Division, Konkan Bhavan, Navi Mumbai, under the Superintending Engineer, Public Works Circle, Raigad.\
-  [202609011532457318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011532457318.pdf)
+- Regarding the provision of toll waivers and other amenities for Ganesh devotees traveling to the Konkan region during the upcoming Ganeshotsav festival.\
+  [202609081707590418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081707590418.pdf)
 
 ## Personnel
-- Transfer/Posting of officers in the Executive Engineer (Civil) cadre.\
-  [202609011659421818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011659421818.pdf)
+- Provisional seniority list of the Assistant Executive Engineer (Civil) cadre in the Public Works Department as of 01.01.2026.\
+  [202609071559496518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071559496518.pdf)
+
+- Final seniority list of the Architect cadre in the Public Works Department as of 01.01.2026.\
+  [202609071556088618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071556088618.pdf)
+
+- Provisional seniority list of the Executive Engineer (Civil) cadre as of 01.01.2026.\
+  [202609071602443618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071602443618.pdf)
+
+- Promotion and posting from the cadre of Executive Engineer (Civil) to the cadre of Superintending Engineer (Civil).\
+  [202609071216244218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071216244218.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

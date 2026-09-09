@@ -1,43 +1,43 @@
 # Law and Judiciary Department
 
-**Date Range**: 07 September 2026 - 12 September 2026
+**Date Range**: 14 September 2026 - 19 September 2026
 
 
 ## Funds
-- Regarding the sanctioning of necessary posts for the new Mazgaon courts under the jurisdiction of the City Civil and Sessions Court, Mumbai.\
-  [202608311645219112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311645219112.pdf)
-
-- Budget Demand No. J-5 for the year 2026-27, 7610 - Loans to Government Employees, etc. - (201)(00)(01) Disbursement of House Building Advance.\
-  [202609011246158612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609011246158612.pdf)
-
-- Allocation of advances for the purchase of new motorcycles/e-scooters/scooters under Budget Grant Demand No. J-5, Major Head 7610 (Loans to Government Servants, etc.), Sub-head (202)(00)(01)  Motor Vehicle Purchase Advances (7610 0481)  for the year 2026-27.\
-  [202609021256182012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021256182012.pdf)
-
-- Administrative Approval Regarding the installation of 411 VRF (air conditioning) units and electrical switchgear in the City Civil and Sessions Court building, Mumbai.\
-  [202609021845412112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021845412112.pdf)
-
-- Regarding the grant of administrative approval for the purchase of one Apple iPad Pro and necessary accessoriessuch as the Apple Pencil, Magic Keyboard, etc.required for the official work of the Hon. Secretary (Law and Legislation).\
-  [202609021731398912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609021731398912.pdf)
-
-- Administrative Approval  - Regarding the construction of a Lawyers Hall (ground floor) within the court premises at Karmala, District Solapur.\
-  [202609031148166812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031148166812.pdf)
-
-- Regarding the grant of administrative approval for the procurement of a total of 800 SCC Online licenses for a period of five yearscomprising the renewal of 700 previously purchased licenses (whose validity has expired) and the purchase of 100 new licensesfor judicial officers in the State of Maharashtra.\
-  [202609031231222812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031231222812.pdf)
-
-- Administrative Approval - Construction of a Vulnerable Witness Deposition Centre (VWDC) at the court building in Patur, District Akola.\
-  [202609031144217312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031144217312.pdf)
-
-- Administrative Approval - Construction of a Vulnerable Witness Deposition Centre (VWDC) at the court building in Barshi Takli, District Akola.\
-  [202609031138547012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031138547012.pdf)
+- For the 2026-27 budget, under Demand No. J-5 and Major Head 7610 (Loans to Government Servants, etc.), the allocation for Motor Vehicle Purchase Advances (7610 0481) falls under sub-head (202)(00)(01).\
+  [202609081846090512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081846090512.pdf)
 
 ## Miscellaneous
-- Regarding opening of 2 separate personal deposit accounts for the amounts in civil and criminal suits in the names of District Judge-1 and Additional Sessions Judge for the District and Additional Sessions Court, Pimpri-Chinchwad, Pune District.\
-  [202609031754353012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031754353012.pdf)
+- Regarding the opening of one separate personal deposit account in the name of the Civil Judge (Senior Division) for the Court of Civil Judge (Senior Division), Ghodnadi (Shirur), District Pune.\
+  [202609081252392312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081252392312.pdf)
 
 ## Personnel
-- Regarding the extension of the term of temporary posts of the Maharashtra State Legal Services Authority up to 28.02.2027.\
-  [202609031224121812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609031224121812.pdf)
+- Continuation of temporary post of District and session Court pune for the period 01/09/2026 to 28/02/2027\
+  [202609081243174012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081243174012.pdf)
+
+- Continuation of temporary posts for the period 01.09.2026 to 28.02.2027 small causes court, Mumbai\
+  [202609081249391312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081249391312.pdf)
+
+- Continuation of temporary posts of District and session Court, Kolhapur for the period 01.09.2026 to 28.02.2027\
+  [202609081239387712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081239387712.pdf)
+
+- Continuation to temporary posts of District Court, Shindhudurg for the period of 01/09/2026 to 28/02/2027\
+  [202609081251209212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081251209212.pdf)
+
+- Continuation of temporary posts for the period 01.09.2026 to 28.02.2027 City Civil and Sessions Court, Mumbai.\
+  [202609081246250912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081246250912.pdf)
+
+- Continuation of temporary posts for the period 01.09.2025 to 28.02.2026 Chief Judicial Magistrate, Mumbai\
+  [202609081248105012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081248105012.pdf)
+
+- Continuation of temporary post of District and session Court Sangli for the period of 01/09/2026 to 28/02/2027\
+  [202609081241487712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081241487712.pdf)
+
+- Continuation of temporary post of District and session Court, Satara for the period 01.09.2026 to 28.02.2027.\
+  [202609081244500712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081244500712.pdf)
+
+- Regarding the establishment of a Court of Civil Judge, Senior Division at Pimpalgoan Baswant, District Nashik and sanctioning posts accordingly.\
+  [202609071256457612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071256457612.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,18 +1,18 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 07 September 2026 - 12 September 2026
+**Date Range**: 14 September 2026 - 19 September 2026
 
 
 ## Funds
-- Regarding the provision of compensation amounting to Rs. 15,79,203/-, in accordance with the Hon. Courts order, in the legal case concerning the vehicle accident involving the late Shri Bhagwat Motiram Malve, Driver, Office of the District Vocational Education and Training Officer, Yavatmal.\
-  [202609041500562603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041500562603.pdf)
+- Regarding the disbursement of funds under the Maharashtra State Innovation and Startup Policy (and program). (Year 2026-27; Demand No. ZA-2; Budget Head 2230 A343)\
+  [202609081258379703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081258379703.pdf)
 
-## Personnel
-- Promotion of officers from the cadre of Skill Development and Entrepreneurship Guidance Officer (Class C) to the post of Skill Development and Entrepreneurship Guidance Officer (Class B) on a temporary basis.\
-  [202608311907026503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202608311907026503.pdf)
+## Miscellaneous
+- Regarding the constitution of a Standing Application Evaluation Committee at the district level for the physical inspection of Centre of Excellence-Skills (CoE-Skills) and Vocational Training Centres (VTC), in accordance with the guidelines of the Ministry of Skill Development and Entrepreneurship (MSDE), Government of India...\
+  [202609081645039703.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081645039703.pdf)
 
-- Regarding the cancellation of the promotion granted to Mr. Ravindra P. SurvaseSkill Development, Employment, and Entrepreneurship Guidance Officer (Group-B)to the cadre of Assistant Commissioner (Group-A).\
-  [202609041104395203.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609041104395203.pdf)
+- Regarding the constitution of a committee to rename Government Industrial Training Institutes and technical schools in the state.\
+  [202609071212512503.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071212512503.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
