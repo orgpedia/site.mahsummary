@@ -11,5 +11,9 @@
 - Regarding the constitution of a committee to bring about uniformity by conducting a comparative study of the schemes implemented for students by the Tribal Development Department and the Social Justice Department.\
   [202609081733443124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081733443124.pdf)
 
+## Personnel
+- Regarding promotion in the Assistant Project Officer/Research Officer and similar posts in the Tribal Development Service, Group-B cadre.\
+  [202609091124255324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091124255324.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

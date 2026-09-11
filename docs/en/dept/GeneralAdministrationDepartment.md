@@ -28,6 +28,9 @@
 - Regarding the constitution of a committee to review the roster (point-wise reservation register) for small cadres under direct recruitment.\
   [202609071250401107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071250401107...pdf)
 
+- Regarding the grant of a one-year extension as a special case to fill posts in the Stenographer cadre, which has been declared a dying cadre.\
+  [202609091726385407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091726385407.pdf)
+
 ## Personnel
 - Regarding continuation of 351 temporary posts in the establishment of General Administration Department (Own) and four other offices under the Department from 1st September, 2026 to 28th February, 2027.....\
   [202609081236391707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081236391707.pdf)
@@ -37,6 +40,9 @@
 
 - Promotion Order 2026 - Higher Grade Stenographer\
   [202609081203410807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081203410807.pdf)
+
+- Regarding the implementation of Seva Sankalp Abhiyan in the state from September 17, 2026 to October 17, 2026\
+  [202609091744173807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091744173807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -46,5 +46,26 @@
 - Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of intellectual disability. Suraj Residential School for Mentally Challenged Boys and Girls, Kachurwahi (Taluka Ramtek, District Nagpur)run by the Matimand Yuvak Vikas Shikshan va Prashikshan Sanstha, Kachurwahi (Taluka Ramtek)for the year 2022-23 (100).\
   [202609081858085835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081858085835.pdf)
 
+- Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the intellectual disability sector. Manavta Residential School for Mentally Challenged Children, Amgaon, Dist. Gondiarun by Priyadarshini Shikshan Sanstha, Khokarla, Bhandara (100 non-salary grant for the years 2023-24 and 2024-25).\
+  [202609091836009635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091836009635.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of intellectual disability. Sankalp Apang va Niradhar Bahu-uddeshiya Shikshan Sansthas Special Education Center for MR Children School, Reltoli, Taluka Gondia (Non-salary grants for the years 2023-24 and 2024-25).\
+  [202609091838191735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091838191735.pdf)
+
+- Regarding the disbursement of non-salary grants/funds to non-governmental organizations working in the sector for the visually impaired. Residential School for the Blind (run by the Organization for the Welfare and Rehabilitation of the Disabled), Ajitha Road, Taluka  District Buldhana. (2021-22 Non-salary)\
+  [202609091840059735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091840059735.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of intellectual disability. Kamayani Udyog Kendra, Gokhale Nagar, District Pune (Year 2024-25: Non-salary)\
+  [202609091708123335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091708123335.pdf)
+
+- Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the field of intellectual disability. Sanmati Non-Residential School for Intellectually Disabled Children, Ichalkaranji, Taluka Hatkanangale, District Kolhapur (Year 2023-24: Non-salary grant).\
+  [202609091710049235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091710049235.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of hearing and speech impairment. Residential School for the Hearing and Speech Impaired (Taluka  District Buldhana), run by the Apang Kalyan va Punarvasan Sanstha (Organization for the Welfare and Rehabilitation of the Disabled), Buldhana (Non-salary funds for the year 2021-22).\
+  [202609091841444635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091841444635.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of orthopaedic disability. Residential School for the Disabled (Taluka  District Buldhana), run by the Apang Kalyan va Punarvasan Sanstha (Organization for the Welfare and Rehabilitation of the Disabled), Buldhana (Non-salary funds for 2021-22).\
+  [202609091843120435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091843120435.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

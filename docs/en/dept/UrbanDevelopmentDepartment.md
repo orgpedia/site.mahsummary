@@ -13,5 +13,8 @@
 - Regarding the disbursement of funds amounting to 7.50 crore to the District Collector, Chandrapur, in accordance with the sanctioned orders under the scheme Provision of Notified Specific Urban Services and Amenities within the Jurisdiction of Urban Local Bodies (Budget Head 3604 1018). Savli Nagar Panchayat, Dist. Chandrapur (192(2)/2025)\
   [202609081313263725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081313263725.pdf)
 
+- Regarding the disbursement of funds amounting to 2.4575 crore to the District Collector, Wardha, in accordance with the orders sanctioned under the scheme Provision of Notified Specific Urban Services and Amenities within the Jurisdiction of Urban Local Bodies (Budget Head 3604 1018). (Government Resolution No. 236/Part-3/20/2022)\
+  [202609091516463925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091516463925.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

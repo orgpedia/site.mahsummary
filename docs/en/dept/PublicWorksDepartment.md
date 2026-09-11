@@ -20,5 +20,8 @@
 - Promotion and posting from the cadre of Executive Engineer (Civil) to the cadre of Superintending Engineer (Civil).\
   [202609071216244218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071216244218.pdf)
 
+- Direct recruitment/appointment to the post of Deputy Engineer (Electrical) in the Maharashtra Electrical Engineering Service, Group-A.\
+  [202609091649274118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091649274118.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
