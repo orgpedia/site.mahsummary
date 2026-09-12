@@ -3,6 +3,13 @@
 **Date Range**: 14 September 2026 - 19 September 2026
 
 
+## Funds
+- Regarding the disbursement of funds to the Maharashtra Research, Advancement, and Training Institute (AMRUT), Pune, under the head 31-Grants-in-Aid (Non-salary) for the financial year 2026-27...\
+  [202609101816451234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101816451234.pdf)
+
+- Regarding the disbursement of funds for scholarship and tuition fee schemes implemented by the department during the financial year 2026-27.\
+  [202609101733128934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101733128934.pdf)
+
 ## Miscellaneous
 - Clarification regarding the Vaishya Vani caste.\
   [202609091444207134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091444207134.pdf)

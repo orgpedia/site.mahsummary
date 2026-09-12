@@ -23,5 +23,11 @@
 - Direct recruitment/appointment to the post of Deputy Engineer (Electrical) in the Maharashtra Electrical Engineering Service, Group-A.\
   [202609091649274118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091649274118.pdf)
 
+- Transfer/Posting of officers in the Executive Engineer (Civil) cadre.\
+  [202609101709126218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101709126218.pdf)
+
+- Transfer/Posting of an officer in the Executive Engineer (Civil) cadre.\
+  [202609101711080318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101711080318.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

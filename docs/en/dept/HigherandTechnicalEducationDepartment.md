@@ -19,5 +19,17 @@
 - Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Shri Venkatesh Technical and Paramedical Institute, Chhatrapati Sambhajinagar, run by Shri Venkatesh Shikshan Prasarak Mandal)\
   [202609071335022008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071335022008.pdf)
 
+- Regarding the approval to increase the intake capacity of government-recognized skill-based diploma courses affiliated with the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Akshay Patil College of Paramedical and Technical Education, Pachora)\
+  [202609101830371608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101830371608.pdf)
+
+- Regarding the approval to increase the intake capacity for government-recognized skill-based diploma courses under the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Anuradha Paramedical College, Bhandara)\
+  [202609101835378908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101835378908.pdf)
+
+- Regarding the approval to increase the intake capacity for government-recognized skill-based diploma courses under the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (Parmanand College of Fire Engineering and Safety Management, Borivali)\
+  [202609101837355508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101837355508.pdf)
+
+- Regarding the approval to increase the intake capacity for government-recognized, skill-based diploma courses under the Maharashtra State Board of Technical Education, effective from the academic year 2026-27. (National Academy of Fire and Safety Engineering, Nagpur)\
+  [202609101833103108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101833103108.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -39,5 +39,17 @@
 - Regarding the establishment of a Court of Civil Judge, Senior Division at Pimpalgoan Baswant, District Nashik and sanctioning posts accordingly.\
   [202609071256457612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071256457612.pdf)
 
+- Continuation  of  temporary  post - District Court, Nandurbar for the period 01/09/2026 to 28.02.2027\
+  [202609101722199212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101722199212.pdf)
+
+- Transfering one post of Head Clerk, Group-C from the Office of Registrar of Partnership Firms, Maharashtra State, Mumbai to the office of Deputy Registrar of Partnership firms Nagpur\
+  [202609101056077612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101056077612.pdf)
+
+- Continuation to temporary posts of District Court, Thane for the period of 01/09/2026 to 28/02/2027\
+  [202609101724027712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101724027712.pdf)
+
+- Continuation to temporary posts of District Court, Ratnagiri for the period of 01/09/2026 to 28/02/2027\
+  [202609101725583512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101725583512.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -67,5 +67,47 @@
 - Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of orthopaedic disability. Residential School for the Disabled (Taluka  District Buldhana), run by the Apang Kalyan va Punarvasan Sanstha (Organization for the Welfare and Rehabilitation of the Disabled), Buldhana (Non-salary funds for 2021-22).\
   [202609091843120435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091843120435.pdf)
 
+- Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the intellectual disability sector. Jai Bajrang Residential School for the Mentally Challenged, Waigaon (Ni), Taluka  District Wardharun by Sukhakarta Bahu Shikshan Sanstha, Deoli, District Wardha (Non-salary grant for the year 2024-25).\
+  [202609101558050535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101558050535.pdf)
+
+- Regarding the disbursement of grant-in-aid (non-salary) funds to non-governmental organizations working in the field of hearing and speech impairment. Kalyan Mukbadhir Vidyalaya, Nagpur (run by Saraswati Mandir, Nagpur)  2021-22 (Non-salary).\
+  [202609101212231835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101212231835.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the Skill and Entrepreneurship Development Center (Intellectually Disabled Category) sector. Swami Parijnanashram Vocational Center for the Mentally Challenged (run by Shree Trust), Bolinj, Virar, Taluka Vasai, District Palghar (Non-salary grants for the years 2023-24 and 2024-25).\
+  [202609101203471835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101203471835.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Residential School for the Hearing and Speech Impaired, Umri (Taluka: Kej, District: Beed)run by Janarth Shikshan Prasarak Mandal, Velamb Ghat (Taluka  District: Beed)for the year 2025-26 (non-salary).\
+  [202609101209341535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101209341535.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the intellectual disability sector. Pratiksha Rehabilitation Center, Sadar, Nagpur, run by Jeevoday Education Society, Nagpur (Years 2019-20 and 2021-22; non-salary component).\
+  [202609101206375135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101206375135.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of orthopaedic disability. Late Chandibai Shikshan Sanstha, Vadad-Mahagaon  Late Thavaraji Naik Residential School for the Disabled, Dhanki (Taluka Umarkhed, District Yavatmal)  Non-salary funds for the year 2024-25.\
+  [202609101208046135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101208046135.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of intellectual disability. Dr. Babasaheb Ambedkar Residential School for the Mentally Challenged, Bhandara (run by Bhondekar Shikshan Sanstha, Bhandara)  Non-salary funds for 2024-25.\
+  [202609101202156635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101202156635.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Residential School for the Hearing and Speech Impaired, Kille Dharur (Taluka Dharur, District Beed), run by Vaishnodevi Shikshan Prasarak Bahu-uddeshiya Mandal, Kalamb (Year 2019-20: Non-salary funds).\
+  [202609101558501035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101558501035.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of intellectual disability. Jivoday Special School for the Mentally Handicapped, Nagpur, run by Jivoday Education Society, Nagpur (Non-salary funds for the years 2020-21 and 2021-22).\
+  [202609101557075335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101557075335.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Residential School for the Hearing and Speech Impaired, Kille Dharur (Taluka Dharur, District Beed), run by Vaishnodevi Shikshan Prasarak Bahu-uddeshiya Mandal, Kalamb (Non-salary grants for the years 2020-21 and 2022-23).\
+  [202609101210558435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101210558435.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of hearing and speech impairment. Vinaykumar Madanmohan Lohia School for the Hearing Impaired, Kolhapur (District Kolhapur), run by The New Education Society, Kolhapur (Year 2019-20: Non-salary grant).\
+  [202609101205091935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101205091935.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of intellectual disability. Carmel School for Mentally Challenged Children, Sawangi Meghe, Taluka  District Wardha (Year 2024-25: Non-salary).\
+  [202609101556082335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101556082335.pdf)
+
+- Regarding the disbursement of grant-in-aid (non-salary) funds to non-governmental organizations (NGOs) working in the Skill and Entrepreneurship Development Center (Intellectually Disabled Category) sector. Ishwarseva Residential Workshop for the Disabled and Mentally Challenged, Palus (Taluka Palus, District Sangli)run by Vishwabala Social Multi-Service Organization, Palus (Year 2021-22, Non-salary).\
+  [202609101555162235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101555162235.pdf)
+
+- Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Rajiv Gandhi Residential School for the Hearing and Speech Impaired, Pulgaon (Taluka Deoli, District Wardha)run by the Late Ujjanabai Kotambkar Rural Development Institute, Kotamba (Year 2024-25: Non-salary grant).\
+  [202609101600093735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101600093735.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
