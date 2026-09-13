@@ -14,5 +14,8 @@
 - Regarding the extension of the term for 508 temporary postscreated for the State Consumer Disputes Redressal Commission (Mumbai), the Nagpur and Aurangabad circuit benches of the State Commission, and the subordinate District Consumer Disputes Redressal Commissionsfor the period from 01.09.2026 to 28.02.2027.\
   [202609101453433906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101453433906.pdf)
 
+- Regarding the extension of the tenure of temporary posts at the State Food Commission, Mumbai office, from 01.09.2026 to 28.02.2027.\
+  [202609111239389206.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111239389206.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

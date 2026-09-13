@@ -14,6 +14,18 @@
 - Regarding the constitution of a committee to bring about uniformity by conducting a comparative study of the schemes implemented for students by the Tribal Development Department and the Social Justice Department.\
   [202609081733443124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081733443124.pdf)
 
+- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Nashik\
+  [202609111802277624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111802277624.pdf)
+
+- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Thane\
+  [202609111804265124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111804265124.pdf)
+
+- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Amravati\
+  [202609111758027724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111758027724.pdf)
+
+- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Nagpur\
+  [202609111800108424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111800108424.pdf)
+
 ## Personnel
 - Regarding promotion in the Assistant Project Officer/Research Officer and similar posts in the Tribal Development Service, Group-B cadre.\
   [202609091124255324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091124255324.pdf)

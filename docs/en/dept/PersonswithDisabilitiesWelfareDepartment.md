@@ -109,5 +109,32 @@
 - Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Rajiv Gandhi Residential School for the Hearing and Speech Impaired, Pulgaon (Taluka Deoli, District Wardha)run by the Late Ujjanabai Kotambkar Rural Development Institute, Kotamba (Year 2024-25: Non-salary grant).\
   [202609101600093735.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101600093735.pdf)
 
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) operating in the Skill and Entrepreneurship Development Centre (Orthopedically Handicapped Category) sector. Punyashlok Ahilyabai Holkar Residential Technical Workshop for Disabled Women, Dhule (run by Vishwakarma Vidya Prasarak Mandal, Nane). (2024-25 Non-salary)\
+  [202609111814375635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111814375635.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of intellectual disability. Sant Gadge Baba Residential School for the Mentally Challenged, Armori, Gadchirolirun by Prabhu Vishwakarma Gramin Bahu-Shikshan Sanstha, Wardha (Non-salary funds for the year 2024-25).\
+  [202609111223535835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111223535835.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Narsingrao Residential School for the Hearing and Speech Impaired, Yelgaon, Dist. Buldhana (run by Samyak Sankalp, Pune). (Non-salary funds for the years 2023-24 and 2024-25)\
+  [202609111216096135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111216096135.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of intellectual disability. Jigyasa Vikas Mandir, School for Intellectually Disabled Children, Kolhapur (Non-salary funds for the years 2021-22 and 2024-25).\
+  [202609111220022435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111220022435.pdf)
+
+- Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Shri Laxmikant Pasarkar School for the Hearing Impaired, Amravatirun by Shri Balwantrao Pasarkar Shikshan Sanstha, Budhwara, Amravati (Non-salary funds for the years 2023-24 and 2024-25 60 of funds).\
+  [202609111218140435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111218140435.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of intellectual disability. Prakash Jyot Vidyalaya (a non-residential school for the intellectually disabled)run by Pannalal Lunkad Charity Trustlocated at Ramoshi Ali, Hadapsar, Pune (Non-salary grant for the year 2024-25).\
+  [202609111221581135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111221581135.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. School for the Hearing and Speech Impaired, Vardhamneri (Taluka Arvi, District Wardha), run by Shri Sant Bhanudas Maharaj Sanstha, Wardha. (Non-salary grant for the year 2024-25)\
+  [202609111811164535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111811164535.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) operating in the Skill and Entrepreneurship Development Centre (Orthopedically Handicapped Category) sector. Punyashlok Ahilyabai Holkar Residential Technical Workshop for Disabled Women, Dhule (run by Vishwakarma Vidya Prasarak Mandal, Nane). (2023-24 Non-salary)\
+  [202609111813064435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111813064435.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of orthopaedic disability. Asthivyang Vidyalaya (School for the Orthopaedically Disabled), Vardhamneri (Taluka Arvi, District Wardha), run by Shri Sant Bhanudas Maharaj Sanstha, Wardha (Year 2024-25: Non-salary funds).\
+  [202609111809317935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111809317935.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

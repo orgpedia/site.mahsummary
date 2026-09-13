@@ -95,5 +95,8 @@
 - Direct Relieve Order - Assistant Section Officer\
   [202609101656383807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101656383807.pdf)
 
+- Regarding the continuation of 9 posts allocated to the Statutory Development Boardsunder the establishment of the Secretary to the Governorfor the period from 01.09.2026 to 28.02.2027.\
+  [202609111110543507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111110543507.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

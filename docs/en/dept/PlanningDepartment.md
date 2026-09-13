@@ -10,5 +10,8 @@
 - Regarding the transfer of the operations of the Jagadjyoti Mahatma Basveshwar Economic Development Corporation from the Other Backward Classes and Bahujan Welfare Department to the Planning Department.\
   [202609091811504316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091811504316.pdf)
 
+- Continuation of Posts.\
+  [202609111502544416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111502544416.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

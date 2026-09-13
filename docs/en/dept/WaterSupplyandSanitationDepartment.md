@@ -16,5 +16,8 @@
 - Regarding the designation of a Virtual Personal Deposit Account Administrator for the Project Planning and Monitoring Cell (Jalswarajya Phase 2) under the Water Supply and Sanitation Department.\
   [202609071224299428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071224299428.pdf)
 
+- Regarding the Formation of a committee to procure various equipment, instruments, chemicals, glassware, laboratory equipment, field testing kits (FTK) etc.  for the implementation of the Water Quality Monitoring  Surveillance Program under the Jal Jeevan Mission, as well as to procure the necessary services for water quality testing.\
+  [202609111101037128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111101037128.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

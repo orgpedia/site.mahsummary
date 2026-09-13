@@ -17,5 +17,11 @@
 - Regarding transfers/ postings of State Police Service officers.\
   [202609091437541029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091437541029.pdf)
 
+- Regarding the revised posting of Mr. Dhananjay Shivshankar Bharle to the post of Deputy Superintendent of Police/Assistant Commissioner of Police, Police Communication and Information Technology Department.\
+  [202609111929398429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111929398429.pdf)
+
+- Regarding the creation of supernumerary posts on the establishment of units under the Director General of Police, Maharashtra State, Mumbai, for police personnel appointed under the Scheduled Tribes category who, however, were unable to submit their caste certificates.\
+  [202609111159364329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111159364329.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

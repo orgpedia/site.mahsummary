@@ -10,9 +10,15 @@
 - Regarding disbursement of funds for Rural Self-Employment Training Institute (RSETI) scheme for the year 2026-27.\
   [202609091705199020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091705199020.pdf)
 
+- Fund distribution of the financial year 2026-2027 for Composite Training Center, Gargoti, Dist. Kolhapur.   Major Account Head - 25150026  3rd installment (Salary)\
+  [202609111225257920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111225257920.pdf)
+
 ## Miscellaneous
 - Regarding the grant of administrative approval and the disbursement of funds for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Category B): Shri Kshetra Dhumkai Devi Mandir (Fort), Vadhzari, Taluka Patoda, District Beed.\
   [202609091219014820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091219014820.pdf)
+
+- Fund distribution of the financial year 2026-2027 for 6 Government Gram Sevak Training Centers and Gram Sevak Training Centre, Kosbad Hill, Gargoti, Amravati  YASHADA Pune.  Major Account Head - 24150624, 24150312, 24150321, 24150339, 24150517.  3rd installment (Salary)\
+  [202609111225213320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111225213320.pdf)
 
 ## Personnel
 - Regarding the extension of the validity of the posts included in the sanctioned staffing pattern of officers and employees implemented in the District Rural Development Agency from                       01.09.2026 to 28.02.2027.\

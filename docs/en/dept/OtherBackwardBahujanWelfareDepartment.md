@@ -14,6 +14,9 @@
 - Clarification regarding the Vaishya Vani caste.\
   [202609091444207134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091444207134.pdf)
 
+- Regarding the opening of a new, separate head of account for interest and other receipts accrued on the unspent balances of the Central and State shares of Centrally Sponsored Schemes implemented under the SNA mechanism on the PFMS system...\
+  [202609111124173234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111124173234.pdf)
+
 ## Personnel
 - Guidelines regarding the implementation of schemessuch as scholarships, tuition fees, and examination feessponsored by the Central and State governments for students belonging to Denotified Tribes (Vimukta Jatis), Nomadic Tribes, Other Backward Classes, and Special Backward Categories, administered through the MahaDBT system since the year 2018-19.\
   [202609081612183534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081612183534.pdf)

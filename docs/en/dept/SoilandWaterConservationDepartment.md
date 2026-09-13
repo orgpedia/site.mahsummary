@@ -62,5 +62,8 @@
 - Guidelines regarding the timely disbursement of wage and material supply payments to beneficiaries under MGNREGA and the Viksit Bharat Employment and Livelihood Guarantee (Rural) Scheme.\
   [202609071807095026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071807095026.pdf)
 
+- Regarding the preparation of an updated list of Heads of Administrative Divisions, Heads of Departments, Heads of Regional Offices, and Heads of Offices within the Soil and Water Conservation Department (Headquarters) and its subordinate offices, in accordance with the Financial Powers Manual (1978), Part I, Sub-section I, Serial Nos. 1 to 3.\
+  [202609111152427826.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111152427826.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
