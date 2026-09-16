@@ -1,27 +1,61 @@
 # Home Department
 
-**Date Range**: 14 September 2026 - 19 September 2026
+**Date Range**: 21 September 2026 - 26 September 2026
 
+
+## Funds
+- Continuation of Posts.\
+  [202609151250380729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151250380729.pdf)
 
 ## Miscellaneous
-- Regarding the dissolution of the Screening Committee constituted to scrutinize proposals under the Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988.\
-  [202609091849006829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091849006829.pdf)
-
-- Regarding the extension of the term for M/s PwC as the consultant for the Pune City CCTV project.\
-  [202609091715468429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091715468429.pdf)
+- Continuation of Posts.\
+  [202609151720017429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151720017429.pdf)
 
 ## Personnel
-- Regarding the transfer of work related to the Police Boat Wing, boats, and associated establishments in the State of Maharashtra to the Special Inspector General of Police (Coastal Security  Security), State Intelligence Department, Maharashtra State, Mumbai.\
-  [202609071813217729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071813217729.pdf)
+- Continuation of Posts.\
+  [202609151310198129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151310198129.pdf)
 
-- Regarding transfers/ postings of State Police Service officers.\
-  [202609091437541029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091437541029.pdf)
+- Regarding the extension of the term for 132 temporary posts under the establishment of the Police Surgeon, J.J. Post-Mortem Centre, Byculla, Mumbai, from 01.09.2026 to 28.02.2027\
+  [202609151731055229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151731055229.pdf)
 
-- Regarding the revised posting of Mr. Dhananjay Shivshankar Bharle to the post of Deputy Superintendent of Police/Assistant Commissioner of Police, Police Communication and Information Technology Department.\
-  [202609111929398429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111929398429.pdf)
+- Regarding the extension of the term-from 01.09.2026 to 28.02.2027-for 62 temporary technical officer posts created for technical supervision and administrative control within the Motor Transport Department.\
+  [202609151728290629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151728290629.pdf)
 
-- Regarding the creation of supernumerary posts on the establishment of units under the Director General of Police, Maharashtra State, Mumbai, for police personnel appointed under the Scheduled Tribes category who, however, were unable to submit their caste certificates.\
-  [202609111159364329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111159364329.pdf)
+- Continuation of Posts.\
+  [202609151300596729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151300596729.pdf)
+
+- Continuation of Posts.\
+  [202609151258267829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151258267829.pdf)
+
+- Regarding the extension of tenure for 37 temporary posts on the establishment of the Maharashtra State Human Rights Commission...\
+  [202609151606090529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151606090529.pdf)
+
+- Continuation of Posts.\
+  [202609151256136729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151256136729.pdf)
+
+- Regarding the extension of the term for 505 temporary posts across 35 constituent offices under the jurisdiction of the Director General of Police, Maharashtra State, Mumbai, for the period from 01.09.2026 to 28.02.2027\
+  [202609151734091029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151734091029.pdf)
+
+- Continuation of Posts.\
+  [202609151306148729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151306148729.pdf)
+
+- Regarding the extension of the term for 1,222 temporary posts under the establishment of the Commissioner of Police, Greater Mumbai, and 116 temporary posts in the Motor Transport Department, from 01.09.2026 to 28.02.2027\
+  [202609151737057529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151737057529.pdf)
+
+- Regarding the extension of the term-from 01.09.2026 to 28.02.2027-for a total of 10 newly created temporary posts in the Handwriting and Photography Division under the State Criminal Investigation Department, Maharashtra State, Pune\
+  [202609151722567829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151722567829.pdf)
+
+- Continuation of Posts.\
+  [202609151307346129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151307346129.pdf)
+
+- Regarding the extension of the term for a total of 20 temporary posts under the establishment of the Director General, Anti-Corruption Bureau, Maharashtra State, Mumbai, from 01.09.2026 to 28.02.2027\
+  [202609151725088029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151725088029.pdf)
+
+- Continuation of Posts.\
+  [202609151303152229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151303152229.pdf)
+
+- Continuation of Posts.\
+  [202609151308575829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151308575829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
