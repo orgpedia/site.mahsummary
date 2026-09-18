@@ -19,5 +19,12 @@
 - Fund disbursement (100 Central share) as an incentive linked to the bonds issued by the Nashik Municipal Corporation (Rs 20.00 crore).\
   [202609151754302825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151754302825.pdf)
 
+- Criteria and guidelines for the distribution of grants to Urban Local Bodies in the state for the years 202631, in accordance with the recommendations of the 16th Central Finance Commission.\
+  [202609161518176025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161518176025....pdf)
+
+## Miscellaneous
+- Regarding the cancellation of Condition No. 1 in the Government Resolution issued for the allotment of land to Shri Venkatesh Shikshan Prasarak Mandal for a school at a nominal rate.\
+  [202609171528588225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171528588225.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

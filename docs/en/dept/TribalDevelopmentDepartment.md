@@ -1,40 +1,17 @@
 # Tribal Development Department
 
-**Date Range**: 14 September 2026 - 19 September 2026
+**Date Range**: 21 September 2026 - 26 September 2026
 
 
 ## Funds
-- Regarding the provision of the State share during the financial year 2026-27, proportionate to the Mother Sanction (Central share) approved by the Central Government on the SNA-SPARSH system under the Centrally Sponsored SchemeGovernment of India Post-Matric Scholarship (MH-Post Matric).\
-  [202609081457494424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081457494424.pdf)
+- To release grant for the scheme of Education Scholarship for Higher Study in Abroad for Tribal Students (Scheme) under the TSP in financial year 2026-27. CRC 2225 4098\
+  [202609171137549824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171137549824.pdf)
 
-- Regarding the distribution of grants-in-aid under the scheme for Government Hostels for boys and girls for the financial year 2026-27, as part of the Tribal Sub-Plan. (Account Head: 222D725) (Item No. 21  Supplies and Materials; Item No. 50  Other Expenses)\
-  [202609101217107224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101217107224.pdf)
+- Allocation of funds through redistribution for the Jal Jeevan Mission scheme under the Tribal Component Programme for the financial year 2026-27.  State Share Head of Account - 2215 A 061  Item No. 35 - Grant for the creation of capital assets.\
+  [202609161713424324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161713424324.pdf)
 
-## Miscellaneous
-- Regarding the constitution of a committee to bring about uniformity by conducting a comparative study of the schemes implemented for students by the Tribal Development Department and the Social Justice Department.\
-  [202609081733443124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081733443124.pdf)
-
-- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Nashik\
-  [202609111802277624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111802277624.pdf)
-
-- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Thane\
-  [202609111804265124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111804265124.pdf)
-
-- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Amravati\
-  [202609111758027724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111758027724.pdf)
-
-- Regarding the selection of institutions/schools to provide education to Scheduled Tribe students in reputed English-medium residential schools during the academic year 2026-27. Additional Commissioner, Tribal Development, Nagpur\
-  [202609111800108424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111800108424.pdf)
-
-## Personnel
-- Regarding promotion in the Assistant Project Officer/Research Officer and similar posts in the Tribal Development Service, Group-B cadre.\
-  [202609091124255324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091124255324.pdf)
-
-- Regarding the extension of the tenure of a total of 388 temporary postslocated in the office of the Commissioner, Tribal Research and Training Institute, Pune, and in the offices of all Scheduled Tribe Certificate Scrutiny Committees under its jurisdictionfrom 01.09.2026 to 28.02.2027.\
-  [202609101223092224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101223092224.pdf)
-
-- Regarding the extension of the term for a total of 7,484 temporary posts under the Commissioner, Tribal Development, Nashik, and subordinate offices, from September 1, 2026, to February 28, 2027...\
-  [202609101221054424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101221054424.pdf)
+- Fund distribution for the Share Capital Contribution to the Maharashtra State Tribal Development Corporation scheme under the Tribal Sub-Plan during the financial year 2026-27 (Head of Account 4425 0472) Item No. 32  Contributions\
+  [202609161713511524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161713511524.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

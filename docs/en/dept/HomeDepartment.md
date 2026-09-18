@@ -11,6 +11,15 @@
 - Continuation of Posts.\
   [202609151720017429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151720017429.pdf)
 
+- The State Governments Whole-of-Government Approach policy to completely eradicate narcotics from Maharashtra by 2029.\
+  [202609161733533429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161733533429.pdf)
+
+- Corrigendum regarding the approval for the distribution of objective-wise funds to the Anti-Narcotics Task Force, Maharashtra State, Pune office, under the accounting head (2055 A319).\
+  [202609171736345129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171736345129.pdf)
+
+- Regarding administrative approval for the Request for Proposal (RFP) received from the Office of the Director General of Police for implementing the One Nation, One e-Challan project in the state, and the constitution of a Project Implementation Committee.\
+  [202609161832547029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161832547029.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202609151310198129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151310198129.pdf)
@@ -56,6 +65,27 @@
 
 - Continuation of Posts.\
   [202609151308575829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151308575829.pdf)
+
+- Continuation of Posts.\
+  [202609171354281829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171354281829.pdf)
+
+- Continuation of Posts.\
+  [202609161228356929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161228356929.pdf)
+
+- Continuation of Posts.\
+  [202609171401118829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171401118829.pdf)
+
+- Continuation of Posts.\
+  [202609161227073029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161227073029.pdf)
+
+- Continuation of Posts.\
+  [202609171358560529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171358560529.pdf)
+
+- Continuation of Posts.\
+  [202609161223323029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161223323029.pdf)
+
+- Continuation of Posts.\
+  [202609171356553529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171356553529.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

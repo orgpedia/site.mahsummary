@@ -1,17 +1,15 @@
 # Planning Department
 
-**Date Range**: 14 September 2026 - 19 September 2026
+**Date Range**: 21 September 2026 - 26 September 2026
 
 
-## Personnel
-- Regarding extension of tenure of a total of 57 temporary posts including 51 temporary posts in the offices of Vidarbha Development Board, Nagpur, Marathwada Development Board, Sambhaji Nagar and Rest of Maharashtra Development Board, Mumbai and 6 temporary posts in the Planning Department (Own) from 01.09.2026 to 28.02.2027\
-  [202609071708459316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071708459316.pdf)
+## Funds
+- Regarding the grant of administrative approval for the Shri Kshetra Aundha (Nagnath), District Hingoli  Pilgrimage Site Development Plan, Phase 2.\
+  [202609171456122716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171456122716.pdf)
 
-- Regarding the transfer of the operations of the Jagadjyoti Mahatma Basveshwar Economic Development Corporation from the Other Backward Classes and Bahujan Welfare Department to the Planning Department.\
-  [202609091811504316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091811504316.pdf)
-
-- Continuation of Posts.\
-  [202609111502544416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111502544416.pdf)
+## Miscellaneous
+- Regarding the reconstitution of the committee to scrutinize findings based on the State sample, as well as the combined data from both State and Central samples, under the National Sample Survey.\
+  [202609171609002816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171609002816.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

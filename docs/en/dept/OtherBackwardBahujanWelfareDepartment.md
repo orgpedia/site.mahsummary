@@ -1,25 +1,21 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 14 September 2026 - 19 September 2026
+**Date Range**: 21 September 2026 - 26 September 2026
 
-
-## Funds
-- Regarding the disbursement of funds to the Maharashtra Research, Advancement, and Training Institute (AMRUT), Pune, under the head 31-Grants-in-Aid (Non-salary) for the financial year 2026-27...\
-  [202609101816451234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101816451234.pdf)
-
-- Regarding the disbursement of funds for scholarship and tuition fee schemes implemented by the department during the financial year 2026-27.\
-  [202609101733128934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609101733128934.pdf)
 
 ## Miscellaneous
-- Clarification regarding the Vaishya Vani caste.\
-  [202609091444207134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609091444207134.pdf)
+- Regarding the determination of the composition and functions of the Executive Committee of the Amrut Sanstha...\
+  [202609171605421834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171605421834...pdf)
 
-- Regarding the opening of a new, separate head of account for interest and other receipts accrued on the unspent balances of the Central and State shares of Centrally Sponsored Schemes implemented under the SNA mechanism on the PFMS system...\
-  [202609111124173234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609111124173234.pdf)
+- Regarding the selection of the school under the scheme Providing education to students from the Gowari community (Special Backward Category) in reputed English-medium residential schools. Acute Public School, Katangikala, Taluka  District Gondia, run by Sanjyot Bahuuddeshiya Shikshan Sanstha, Kudwa, Taluka  District Gondia.\
+  [202609171503385934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171503385934.pdf)
+
+- Regarding the selection of the school under the scheme Providing education to students from the Gowari community (Special Backward Category) in reputed English-medium residential schools. Progressive Convent, Gautamnagar, Civil Lines, Gondia (run by Shrimati Umabai Bahuuddeshiya Shikshan Sanstha, Gondia).\
+  [202609171505526434.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171505526434.pdf)
 
 ## Personnel
-- Guidelines regarding the implementation of schemessuch as scholarships, tuition fees, and examination feessponsored by the Central and State governments for students belonging to Denotified Tribes (Vimukta Jatis), Nomadic Tribes, Other Backward Classes, and Special Backward Categories, administered through the MahaDBT system since the year 2018-19.\
-  [202609081612183534.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609081612183534.pdf)
+- Regarding the implementation of various activities under the Seva Sankalp Abhiyan (Service Pledge Campaign) in VJNT Ashram Schools under the Other Backward Bahujan Welfare Department during the period from September 17, 2026, to October 17, 2026.\
+  [202609161823098334.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161823098334.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
