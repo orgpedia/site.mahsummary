@@ -29,5 +29,9 @@
 - Regarding the approval of works in Beed district for the year 2026-27 under the Bharat Ratna Dr. Babasaheb Ambedkar Social Development Scheme.\
   [202609161513422322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161513422322.pdf)
 
+## Personnel
+- Continuation of Posts.\
+  [202609181446577922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181446577922.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -112,5 +112,32 @@
 - Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Late Chandrabhan Bhau Residential School for the Hearing and Speech Impaired, Chandol (Taluka  District Buldhana), run by Unnati Shikshan Sanstha, Buldhana (Year 2023-24: Non-salary funds).\
   [202609161602172335.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161602172335.pdf)
 
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Vatsalya Mukbadhir Vidyamandir, Kavathe Mahankal, District Sanglirun by the Punyashlok Ahilyadevi Holkar Smarak Samiti, Sangli (Non-salary grant for the year 2019-20).\
+  [202609181731558235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181731558235.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of orthopaedic disability. Sardar Kanhoji Angre Vidyalaya, Shukrawar Peth, Punerun by the Centre for Special Education, Shukrawar Peth, Pune (60 of non-salary grant for the years 2024-25 and 2025-26).\
+  [202609181730189835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181730189835.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of skill and entrepreneurship development for the intellectually disabled category. Pratiksha Rehabilitation Center, Sadar, Nagpur, run by Jeevoday Education Society, Nagpur (Non-salary grants for the years 2018-19 and 2020-21).\
+  [202609181734573635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181734573635.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) operating Skill and Entrepreneurship Development Centers for the intellectually disabled. Shri Gajanan Maharaj Residential Workshop for Intellectually Disabled Adults (Male  Female), Taluka  District Wardha (100 non-salary grant for 2023-24).\
+  [202609181714167035.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181714167035.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of hearing and speech impairment. Dr. Kusumtai Narvane School for the Hearing Impaired, Kandivali (West), Mumbai (Managed by Shri Ramkrishna Shikshan Mandal) (Non-salary funds for the years 2020-21 to 2024-25)\
+  [202609181718373935.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181718373935.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations (NGOs) working in the field of intellectual disability. Dilkhush Special School, Juhu Tara Road, Mumbai Suburban (Pending grants prior to the year 2021-2022; non-salary grants for the period 2021-2022 to 2024-2025)\
+  [202609181717052835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181717052835.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the field of hearing impairment. Sanskardham Vidyalaya for the Hearing Impaired, Goregaon, Mumbai (Years 2023-24 to 2025-26  Non-salary)\
+  [202609181720203235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181720203235.pdf)
+
+- Regarding the disbursement of non-salary grants to non-governmental organizations (NGOs) working in the field of intellectual disability. Bharat Ratna Dr. Babasaheb Ambedkar Special Residential School for Mentally Challenged Boys and Girls, Hinganghat, District Wardharun by the All India Welfare Association, Chandrapur (Non-salary grant for the year 2024-25).\
+  [202609181733316835.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181733316835.pdf)
+
+- Regarding the disbursement of non-salary grant-in-aid funds to non-governmental organizations working in the intellectual disability sector. Jivodaya Special School for the Mentally Handicapped, Nagpur, run by Jivodaya Education Society, Nagpur (Non-salary grants for the years 2018-19 and 2019-20).\
+  [202609181736131635.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181736131635.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

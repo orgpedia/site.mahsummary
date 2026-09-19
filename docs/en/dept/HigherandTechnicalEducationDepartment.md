@@ -41,6 +41,9 @@
 - Regarding the constitution of an expert committee to formulate a policy for admission to professional degree courses in Engineering and Pharmacy...\
   [202609171256034408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171256034408.pdf)
 
+- Regarding the granting of approval for new courses in existing colleges for the academic year 2026-27. (Court matter)\
+  [202609181629430008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181629430008.pdf)
+
 ## Personnel
 - Regarding the grant of approval to start a new institute offering the Diploma in Pharmacy course on a permanent non-aided basis, effective from the academic year 2026-27, in accordance with the approval of the Pharmacy Council of India, New Delhi. (Rajkunwar College of Pharmacy, Dhavda, Tal. Bhokardan, Dist. Jalna)\
   [202609161807125208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161807125208.pdf)

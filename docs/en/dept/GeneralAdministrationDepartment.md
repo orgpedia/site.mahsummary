@@ -30,5 +30,8 @@
 - Transfer Order Mr.Santosh Bidave,  Senior Personal Assistant\
   [202609151744555207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151744555207.pdf)
 
+- Regarding the Extension of the Tenure of Temporary Posts Created at the District/Taluka Level for Election-Related Work under the Jurisdiction of the Election Commission of India.\
+  [202609181301143707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181301143707.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

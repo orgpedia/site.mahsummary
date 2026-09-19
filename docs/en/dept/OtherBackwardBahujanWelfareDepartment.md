@@ -3,6 +3,10 @@
 **Date Range**: 21 September 2026 - 26 September 2026
 
 
+## Funds
+- Regarding the supply of lightning arrester system units to Ashram Schools for the VJNT (Vimukta Jati and Nomadic Tribes) category, which are operated on a grant-in-aid basis under the Department of Other Backward Bahujan Welfare.\
+  [202609181107129234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181107129234.pdf)
+
 ## Miscellaneous
 - Regarding the determination of the composition and functions of the Executive Committee of the Amrut Sanstha...\
   [202609171605421834.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171605421834...pdf)

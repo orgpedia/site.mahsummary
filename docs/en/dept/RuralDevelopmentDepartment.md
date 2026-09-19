@@ -46,6 +46,9 @@
 - Regarding the grant of administrative approval for development works to be undertaken under the Punyashlok Ahilyadevi Holkar Rural Pilgrimage Site Scheme (Class B) at Shri Kshetra Jagdamba Devi (Renuka) Sansthan, Pimpalgaon Devi, Taluka Motala, District Buldhana.\
   [202609151317474320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151317474320.pdf)
 
+- Regarding provision of the Central Share approved as Mother Sanction and corresponding State Share through the Budgetary Distribution System for implementation of the SNA-SPARSH system under the Centrally Sponsored Rashtriya Gram Swaraj Abhiyan (RGSA) Scheme for the year 2026-27  General Component (Account Heads 2053A538 and 2053A547).\
+  [202609181405341520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181405341520.pdf)
+
 ## Miscellaneous
 - Regarding the distribution of subsidy for the New National Biogas and Organic Manure (Compost) Management Programme for the financial year 2024-2025.\
   [202609151317070420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151317070420.pdf)
@@ -68,6 +71,9 @@
 
 - Regarding accelerating the effective implementation of various initiatives under the Mukhyamantri Samruddha Panchayat Raj Abhiyan during the Seva Sankalp Abhiyan period.\
   [202609161127177820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161127177820.pdf)
+
+- Regarding extension of tenure of 43 temporary posts approved for maintaining the provident fund accounts of Zilla Parishad employees\
+  [202609181241492720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609181241492720.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
