@@ -1,91 +1,40 @@
 # Home Department
 
-**Date Range**: 21 September 2026 - 26 September 2026
+**Date Range**: 28 September 2026 - 03 October 2026
 
 
 ## Funds
-- Continuation of Posts.\
-  [202609151250380729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151250380729.pdf)
+- Regarding the payment of fees to the consultancy firm M/s Ernst  Young for work performed as the consultant for the Dial-112 project concerning the modernization of police control rooms in the state.\
+  [202609211704027029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211704027029.pdf)
+
+- Sixty Lakh Forty-Six Thousand Five Hundred and Ninety-One only) incurred towards the rent of private vehicles acquired on a lease basis by the Pune City Police Commissionerate for security/bandobast during the Municipal Corporation Election-2026 and the funeral rites of the late former Deputy Chief Minister, Shri Ajitdada Pawar.\
+  [202609211605144229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211605144229.pdf)
+
+- Regarding the disbursement of funds for the payment of the 19th quarterly installment (March 2026 to May 2026) for the project to modernize police control rooms in the state (Dial-112).\
+  [202609211705432729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211705432729.pdf)
 
 ## Miscellaneous
-- Continuation of Posts.\
-  [202609151720017429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151720017429.pdf)
+- Regarding the creation of one supernumerary post in the Police Constable cadre under the establishment of the Superintendent of Police, Latur... Shri Ramesh Babasaheb Ingle, Police Constable\
+  [202609211804103829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211804103829.pdf)
 
-- The State Governments Whole-of-Government Approach policy to completely eradicate narcotics from Maharashtra by 2029.\
-  [202609161733533429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161733533429.pdf)
+- Final Seniority List Regarding the publication of the final service seniority lists for officers in the cadre of Assistant Director (Group-A) under the establishment of the Directorate of Forensic Science Laboratories, Mumbai, as of 1st January 2021, 1st January 2022, 1st January 2023, and 1st January 2024.\
+  [202609211711308929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211711308929.pdf)
 
-- Corrigendum regarding the approval for the distribution of objective-wise funds to the Anti-Narcotics Task Force, Maharashtra State, Pune office, under the accounting head (2055 A319).\
-  [202609171736345129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171736345129.pdf)
-
-- Regarding administrative approval for the Request for Proposal (RFP) received from the Office of the Director General of Police for implementing the One Nation, One e-Challan project in the state, and the constitution of a Project Implementation Committee.\
-  [202609161832547029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161832547029.pdf)
+- Regarding the approval of the Maharashtra Police Dog Regulations, 2026.\
+  [202609211834112729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211834112729...pdf)
 
 ## Personnel
 - Continuation of Posts.\
-  [202609151310198129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151310198129.pdf)
-
-- Regarding the extension of the term for 132 temporary posts under the establishment of the Police Surgeon, J.J. Post-Mortem Centre, Byculla, Mumbai, from 01.09.2026 to 28.02.2027\
-  [202609151731055229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151731055229.pdf)
-
-- Regarding the extension of the term-from 01.09.2026 to 28.02.2027-for 62 temporary technical officer posts created for technical supervision and administrative control within the Motor Transport Department.\
-  [202609151728290629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151728290629.pdf)
+  [202609211701037929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211701037929.pdf)
 
 - Continuation of Posts.\
-  [202609151300596729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151300596729.pdf)
+  [202609211702287029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211702287029.pdf)
 
 - Continuation of Posts.\
-  [202609151258267829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151258267829.pdf)
-
-- Regarding the extension of tenure for 37 temporary posts on the establishment of the Maharashtra State Human Rights Commission...\
-  [202609151606090529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151606090529.pdf)
+  [202609211659319929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211659319929.pdf)
 
 - Continuation of Posts.\
-  [202609151256136729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151256136729.pdf)
-
-- Regarding the extension of the term for 505 temporary posts across 35 constituent offices under the jurisdiction of the Director General of Police, Maharashtra State, Mumbai, for the period from 01.09.2026 to 28.02.2027\
-  [202609151734091029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151734091029.pdf)
-
-- Continuation of Posts.\
-  [202609151306148729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151306148729.pdf)
-
-- Regarding the extension of the term for 1,222 temporary posts under the establishment of the Commissioner of Police, Greater Mumbai, and 116 temporary posts in the Motor Transport Department, from 01.09.2026 to 28.02.2027\
-  [202609151737057529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151737057529.pdf)
-
-- Regarding the extension of the term-from 01.09.2026 to 28.02.2027-for a total of 10 newly created temporary posts in the Handwriting and Photography Division under the State Criminal Investigation Department, Maharashtra State, Pune\
-  [202609151722567829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151722567829.pdf)
-
-- Continuation of Posts.\
-  [202609151307346129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151307346129.pdf)
-
-- Regarding the extension of the term for a total of 20 temporary posts under the establishment of the Director General, Anti-Corruption Bureau, Maharashtra State, Mumbai, from 01.09.2026 to 28.02.2027\
-  [202609151725088029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151725088029.pdf)
-
-- Continuation of Posts.\
-  [202609151303152229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151303152229.pdf)
-
-- Continuation of Posts.\
-  [202609151308575829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151308575829.pdf)
-
-- Continuation of Posts.\
-  [202609171354281829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171354281829.pdf)
-
-- Continuation of Posts.\
-  [202609161228356929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161228356929.pdf)
-
-- Continuation of Posts.\
-  [202609171401118829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171401118829.pdf)
-
-- Continuation of Posts.\
-  [202609161227073029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161227073029.pdf)
-
-- Continuation of Posts.\
-  [202609171358560529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171358560529.pdf)
-
-- Continuation of Posts.\
-  [202609161223323029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161223323029.pdf)
-
-- Continuation of Posts.\
-  [202609171356553529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171356553529.pdf)
+  [202609211715305129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211715305129....pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
