@@ -1,11 +1,11 @@
 # Housing Department
 
-**Date Range**: 14 September 2026 - 19 September 2026
+**Date Range**: 28 September 2026 - 03 October 2026
 
 
 ## Funds
-- Regarding the disbursement of the cess amount and the government contribution to the Maharashtra Housing and Area Development Authority for credit to the Mumbai Building Repairs and Reconstruction Fund for the financial year 2026-27...\
-  [202609071437356209.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609071437356209.pdf)
+- Regarding the provision of funds to purchase reserved/unreserved plots of land at Gorai and Shimpoli in Borivali from Bharat Sanchar Nigam Limited (BSNL) and Mahanagar Telephone Nigam Limited (MTNL)...\
+  [202609231235456709.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231235456709.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

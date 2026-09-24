@@ -7,5 +7,8 @@
 - Regarding the designation of a Drawing and Disbursing Officer for the detention centre temporarily established at Bhoiwada Central Prison, Mumbai.\
   [202609211654051022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211654051022.pdf)
 
+- Regarding the temporary appointment by nomination to the post of Assistant Commissioner, Social Welfare and Equivalent (Group-A)...\
+  [202609221823180222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221823180222.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,54 +1,34 @@
 # Law and Judiciary Department
 
-**Date Range**: 21 September 2026 - 26 September 2026
+**Date Range**: 28 September 2026 - 03 October 2026
 
 
 ## Funds
-- Regarding the extension of the tenure of two consultants appointed by the notified agency M/S KPMG Advisory Services Pvt. Ltd. for the development of the online system for the Charitable Hospital Assistance Cellfor a period of six months starting from 01.06.2026and granting administrative approval for the associated expenditure.\
-  [202609171437557912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609171437557912.pdf)
+- Revised Administrative Approval Regarding the construction of a new court building at Parner, Dist. Ahilyanagar.\
+  [202609221500017412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221500017412.pdf)
+
+## Miscellaneous
+- Regarding the designation of Drawing and Disbursing Officerswho submit bills for Assistance Grants in M.T.C. Form No. 44 under the jurisdiction of District Courts in the Stateas Virtual Personal Deposit Account Administrators (VPDAA) for the purpose of the speedy disbursement and monitoring of such grants.\
+  [202609221733482712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221733482712.pdf)
+
+- Regarding the designation of Drawing and Disbursing Officers for the Taluka Legal Services Committee, Dharangaon (Dist. Jalgaon) and the Taluka Legal Services Committee, Bodwad (Dist. Jalgaon).\
+  [202609231719466212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231719466212.pdf)
 
 ## Personnel
-- Regarding the designation of the Public Information Officer, Assistant Public Information Officer, and First Appellate Authority for the Law and Judiciary Department (Head Office), Mumbai, under the Right to Information Act, 2005.\
-  [202609151253336712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609151253336712.pdf)
+- Regarding the extension of the term for continuing temporary posts for Gram Nyayalayas. From 01.09.2026 to 28.02.2027.\
+  [202609231603005412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231603005412.pdf)
 
-- Continuation of Posts.\
-  [202609161631521912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161631521912.pdf)
+- Regarding the extension of the term for temporary posts for the period from 01.09.2026 to 28.02.2027. District and Sessions Court and Subordinate Courts in the Washim Judicial District.\
+  [202609221819539312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221819539312.pdf)
 
-- Continuation of Posts.\
-  [202609161618043012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161618043012.pdf)
+- Regarding the extension of the term for temporary judicial officer posts in the City Civil and Sessions Court, Mumbai, for the period from 01.09.2026 to 28.02.2027.\
+  [202609221815047412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221815047412.pdf)
 
-- Continuation of Posts.\
-  [202609161633230112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161633230112.pdf)
+- Regarding the extension of the term of temporary judicial officer posts in the States District and Sessions Courts and their subordinate courts, as well as in the courts of the Chief Metropolitan Magistrate, Mumbai, and the Court of Small Causes, Mumbai, for the period from 01.09.2026 to 28.02.2027.\
+  [202609221816477812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221816477812.pdf)
 
-- Continuation of Posts.\
-  [202609161626028412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161626028412.pdf)
-
-- Continuation of Posts.\
-  [202609161840197312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161840197312.pdf)
-
-- Continuation of Posts.\
-  [202609161620067812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161620067812.pdf)
-
-- Continuation of Posts.\
-  [202609161616134512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161616134512.pdf)
-
-- Continuation of Posts.\
-  [202609161621564812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161621564812.pdf)
-
-- Continuation of Posts.\
-  [202609161623327212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161623327212.pdf)
-
-- Continuation of Posts.\
-  [202609161628536712.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161628536712.pdf)
-
-- Continuation of Posts.\
-  [202609161630146012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161630146012.pdf)
-
-- Continuation of Posts.\
-  [202609161627367012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161627367012.pdf)
-
-- Continuation of Posts.\
-  [202609161843034612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609161843034612.pdf)
+- Continuation of temporary post for the period 01.09.2026 to 28.02.2027 District and session Court,  Ahmednagar.\
+  [202609221738049412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221738049412.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

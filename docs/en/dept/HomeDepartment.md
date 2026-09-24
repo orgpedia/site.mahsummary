@@ -23,6 +23,9 @@
 - Regarding the approval of the Maharashtra Police Dog Regulations, 2026.\
   [202609211834112729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211834112729...pdf)
 
+- Regarding the approval to fill 220 posts on a consolidated honorarium basis-through a contract or outsourcing model for a period of three years-to clear pending cases in the Computer Crime (Cyber) Divisions of laboratories under the Directorate of Forensic Science Laboratories.\
+  [202609221233000929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221233000929.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202609211701037929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211701037929.pdf)
@@ -35,6 +38,15 @@
 
 - Continuation of Posts.\
   [202609211715305129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211715305129....pdf)
+
+- Regarding the extension of the term for a total of 402 temporary posts under the establishment of the Police Commissioner, Pimpri Chinchwad.\
+  [202609221730279129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221730279129.pdf)
+
+- Continuation of Posts.\
+  [202609231136212629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231136212629.pdf)
+
+- Regarding the extension of tenure for temporary posts on the establishment of the Home Department (Mantralaya itself).\
+  [202609231806390129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231806390129.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
