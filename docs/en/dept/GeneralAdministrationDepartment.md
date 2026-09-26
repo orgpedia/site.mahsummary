@@ -7,6 +7,9 @@
 - Financial assistance for soldiers who have laid down their lives or suffered disabilities during war, war-like situations, security-related operations across various sectors of the country, encounters, or overseas missions.\
   [202609231318350707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231318350707.pdf)
 
+- Regarding the payment of compensation to M/s Sai Paper Products for land acquired for Belora Airport in Amravati district, in accordance with the order issued by the Honble Civil Court, Amravati.\
+  [202609241705151307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241705151307.pdf)
+
 ## Miscellaneous
 - Regarding the extension of the term of the expert committee constituted to develop software for the verification of the roster (reservation roster).\
   [202609211239004207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211239004207.pdf)
@@ -41,6 +44,21 @@
 
 - Adhoc promotion to the post of Under Secretary.\
   [202609231610138707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231610138707.pdf)
+
+- Shri. Sameer A. Sawant, Deputy Secretary\
+  [202609241720234107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241720234107.pdf)
+
+- Regarding the transfer of officers belonging to the Mantralaya Section Officer cadre.\
+  [202609241750594007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241750594007.pdf)
+
+- Regarding the withholding of the transfer of officers belonging to the Joint Secretary/ Deputy Secretary cadres\
+  [202609241717506107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241717506107....pdf)
+
+- Ad-hoc Promotion on the Post of Deputy Secretary\
+  [202609241716022907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241716022907.pdf)
+
+- Regarding extension of transfer (A.S.O.)\
+  [202609241827287307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241827287307.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

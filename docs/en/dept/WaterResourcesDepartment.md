@@ -28,5 +28,11 @@
 - Regarding the extension of tenure for posts under the Fixed Temporary Establishment and Converted Temporary Establishment at the office of the Superintending Engineer, Akola Irrigation Circle, Akola, and its subordinate divisional offices, for the period from 01/09/2026 to 28/02/2027.\
   [202609221439281627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221439281627.pdf)
 
+- Regarding the extension of tenure for posts under the Regular Temporary Establishment and Converted Temporary Establishment at the office of the Superintending Engineer, Sangli Irrigation Circle, Sangli, and its subordinate divisional offices, for the period from 01/09/2026 to 28/02/2027.\
+  [202609231441310227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231441310227.pdf)
+
+- Regarding the extension of tenure from 01/09/2026 to 28/02/2027 for posts under the regular temporary establishment and converted temporary establishment in the office under the Superintending Engineer, Maharashtra Engineering Research Institute (MERI), Nashik.\
+  [202609231756492927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231756492927.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

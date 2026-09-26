@@ -3,6 +3,14 @@
 **Date Range**: 28 September 2026 - 03 October 2026
 
 
+## Funds
+- Regarding the disbursement of funds for the Mukhyamantri Majhi Ladki Bahin Yojana during the financial year 2026-27. (Accounting Head 2235 D 767)\
+  [202609241712466822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241712466822.pdf)
+
+## Miscellaneous
+- Regarding the Celebration of World Senior Citizens Day on 1st October.\
+  [202609241218545522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241218545522.pdf)
+
 ## Personnel
 - Regarding the designation of a Drawing and Disbursing Officer for the detention centre temporarily established at Bhoiwada Central Prison, Mumbai.\
   [202609211654051022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211654051022.pdf)

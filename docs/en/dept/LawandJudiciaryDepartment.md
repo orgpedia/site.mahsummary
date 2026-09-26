@@ -30,5 +30,8 @@
 - Continuation of temporary post for the period 01.09.2026 to 28.02.2027 District and session Court,  Ahmednagar.\
   [202609221738049412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221738049412.pdf)
 
+- Regarding the establishment of a District and Additional Sessions Court at Madha, District Solapur, and the sanctioning of posts in connection therewith.\
+  [202609241457527312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241457527312.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

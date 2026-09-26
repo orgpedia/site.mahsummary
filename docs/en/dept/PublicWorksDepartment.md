@@ -23,6 +23,9 @@
 - Guidelines regarding Micro-surfacing to be undertaken as part of Special Maintenance during the Operations and Maintenance period of projects under the Hybrid Annuity Model (HAM) Phase-1.\
   [202609231156045318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231156045318.pdf)
 
+- Regarding the acceptance of the resignation of Mr. Shitalkumar Laxman Mundhe, Executive Engineer (Electrical).\
+  [202609241805484518.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241805484518.pdf)
+
 ## Personnel
 - Regarding the extension of tenure for temporary posts in the offices under the Chief Architect, Maharashtra State, Mumbai, and the Superintending Engineer (Mechanical), Public Works Department, Navi Mumbai.\
   [202609211644251618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211644251618.pdf)
@@ -68,6 +71,21 @@
 
 - Transfer order of Architect, Public Works Department.\
   [202609231707237018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231707237018.pdf)
+
+- Regarding the continuation of temporary posts in offices under the jurisdiction of the Superintending Engineer, Vigilance and Quality Control Circles.\
+  [202609241727453418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241727453418.pdf)
+
+- Regarding the continuation of temporary posts in offices under the jurisdiction of the Chief Engineer, Public Works Regional Division, Nagpur.\
+  [202609241722016718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241722016718.pdf)
+
+- Regarding the continuation of temporary posts in the office under the jurisdiction of the Chief Engineer, Public Works Regional Division, Chhatrapati Sambhajinagar.\
+  [202609241726275018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241726275018.pdf)
+
+- Regarding the continuation of temporary posts in offices under the jurisdiction of the Chief Engineer, Public Works Regional Division, Amravati.\
+  [202609241724586018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241724586018.pdf)
+
+- Regarding the continuation of temporary posts in offices under the jurisdiction of the Chief Engineer, Public Works Regional Division, Mumbai.\
+  [202609241723215818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241723215818.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

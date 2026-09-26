@@ -13,6 +13,15 @@
 - Regarding the disbursement of funds for the payment of the 19th quarterly installment (March 2026 to May 2026) for the project to modernize police control rooms in the state (Dial-112).\
   [202609211705432729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211705432729.pdf)
 
+- Regarding the payment of the bill to M/s PwCappointed as the project consultant for installing CCTV cameras in police stations across the statefor work carried out between 01.02.2026 and 30.04.2026.\
+  [202609241856402929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241856402929.pdf)
+
+- Regarding the grant of a time extension to M/s Mahindra Defence Systems Ltd. for the implementation of the Dial-112 project and the grant of administrative approval for the related proposal amounting to Rs. 56.49 crore (inclusive of GST).\
+  [202609231915384429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609231915384429...pdf)
+
+- Regarding the disbursement of funds for the payment of the bill of M/s Javi Systems India Pvt. Ltd., the project supplier for the Maharashtra State Police Station CCTV Project.\
+  [202609241858311029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241858311029.pdf)
+
 ## Miscellaneous
 - Regarding the creation of one supernumerary post in the Police Constable cadre under the establishment of the Superintendent of Police, Latur... Shri Ramesh Babasaheb Ingle, Police Constable\
   [202609211804103829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211804103829.pdf)
@@ -25,6 +34,21 @@
 
 - Regarding the approval to fill 220 posts on a consolidated honorarium basis-through a contract or outsourcing model for a period of three years-to clear pending cases in the Computer Crime (Cyber) Divisions of laboratories under the Directorate of Forensic Science Laboratories.\
   [202609221233000929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221233000929.pdf)
+
+- Combined Probationary Training Programme (CPTP-12) Regarding the creation of 20 supernumerary posts of Deputy Superintendent of Police / Assistant Commissioner of Police (Unarmed), Group-A...\
+  [202609242023412729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609242023412729.pdf)
+
+- Regarding the amendment to the Government Resolution dated September 16, 2026, concerning the administrative approval of the Request for Proposal (RFP) received from the Office of the Director General of Police for implementing the One Nation, One e-Challan project in the state, and the constitution of the Project Implementation Committee.\
+  [202609241446074129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241446074129.pdf)
+
+- Appointment of retired government officers in the Home Department on a contractual basis as Departmental Inquiry Officers and as assistants to Inquiry Officers.\
+  [202609241616498429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241616498429.pdf)
+
+- Regarding the payment of the bill to M/s PwC, the project consultant for the Thane CCTV project, for work carried out during the period from 01.12.2025 to 30.04.2026.\
+  [202609241853218829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241853218829.pdf)
+
+- Regarding the revival of Group D posts within the establishment of police unit offices in the Maharashtra Police Force for compassionate appointments.\
+  [202609241900222829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241900222829.pdf)
 
 ## Personnel
 - Continuation of Posts.\

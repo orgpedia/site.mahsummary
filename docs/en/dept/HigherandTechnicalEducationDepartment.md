@@ -80,6 +80,9 @@
 - Regarding the grant of approval to commence government-recognized skill-based diploma courses under the aegis of the Maharashtra State Board of Technical Education, starting from the academic year 2026-27. (JMCT Institute of Pharmacy, Nashik)\
   [202609221135511008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221135511008.pdf)
 
+- Regarding the constitution of an expert committee to study and deliberate on matters concerning Student Council elections, in accordance with the provisions of the Maharashtra Public Universities Act, 2016.\
+  [202609241830375308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241830375308.pdf)
+
 ## Personnel
 - Continuation of Posts.\
   [202609211558103808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609211558103808.pdf)
