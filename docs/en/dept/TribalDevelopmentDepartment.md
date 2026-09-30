@@ -1,11 +1,11 @@
 # Tribal Development Department
 
-**Date Range**: 28 September 2026 - 03 October 2026
+**Date Range**: 05 October 2026 - 10 October 2026
 
 
 ## Funds
-- Regarding the disbursement of funds for this Centrally Sponsored Scheme under Central Assistance as per Article 275(1) of the Constitution of India.\
-  [202609221156272424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609221156272424.pdf)
+- Regarding the distribution of funds under the Tribal Sub-Plan for the financial year 2026-27, under the budget head Ashram School Cluster (2225 D 734)  Item No. 50: Other Expenses.\
+  [202609281743553824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609281743553824.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

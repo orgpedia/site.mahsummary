@@ -1,14 +1,14 @@
 # Food, Civil Supplies and Consumer Protection Department
 
-**Date Range**: 28 September 2026 - 03 October 2026
+**Date Range**: 05 October 2026 - 10 October 2026
 
 
 ## Personnel
-- Regarding the direct recruitment and posting of candidates recommended for the post of Inspection Officer (Supply), Group-B (Gazetted), through the State Services Main Examination-2024.\
-  [202609241809431706.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241809431706.pdf)
+- Regarding the extension of the term of temporary posts under the establishment of the Controller of Rationing and Director of Civil Supplies, Mumbai, from 01.09.2026 to 28.02.2027...\
+  [202609281624278906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609281624278906.pdf)
 
-- Regarding the temporary promotion to the post of Manager, Group-B (Gazetted), at the District Consumer Disputes Redressal Forum under the State Consumer Disputes Redressal Commission.\
-  [202609241443302906.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609241443302906.pdf)
+- Regarding the extension of tenure for temporary posts at the divisional, district, and taluka levels within the regional supply system for the period from 01.09.2026 to 28.02.2027.\
+  [202609281627011506.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609281627011506.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
