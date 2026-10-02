@@ -7,6 +7,9 @@
 - Budgetary Grant Demand No. J-5 for the year 2026-27, 7610- Loans to Government Employees, etc. - (201)(00)(01) Disbursement of House Building Advance.\
   [202609281615303312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609281615303312.pdf)
 
+- For the 2026-27 budget, under Demand No. J-5 and Major Head 7610 (Loans to Government Servants, etc.), the allocation for Motor Vehicle Purchase Advances (7610 0481) falls under sub-head (202)(00)(01).\
+  [202610011735064312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202610011735064312.pdf)
+
 ## Miscellaneous
 - Budgetary Grant Demand No. J-5 for the year 2026-27, 7610- Loans to Government Employees, etc. - (201)(00)(01) Disbursement of House Building Advance.\
   [202609301714367212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609301714367212.pdf)

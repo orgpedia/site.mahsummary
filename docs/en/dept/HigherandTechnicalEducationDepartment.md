@@ -31,6 +31,9 @@
 - Regarding the revision of examination fees, service charges, and prize amounts for the Government Drawing and Government Higher Art examinations organized by the Maharashtra State Board of Art Education.\
   [202609301618384708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609301618384708.pdf)
 
+- Regarding the sanction of scholarships for the year 2026-27 under the scheme Scholarship for Meritorious Students from the Economically Weaker Sections of the Open Category for Higher Education Abroad.\
+  [202610011745303508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202610011745303508.pdf)
+
 ## Personnel
 - Regarding the grant of approval to start a new institute offering the Diploma in Pharmacy course on a permanent non-aided basis, effective from the academic year 2026-27, in accordance with the approval of the Pharmacy Council of India, New Delhi. (V. J. Shinde Institute of Pharmacy, Dharashiv)\
   [202609301734389208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609301734389208.pdf)

@@ -13,6 +13,12 @@
 - Regarding the distribution of funds to Zilla Parishads in the state under the Sant Sevalal Maharaj Banjara/Labhana Tanda Samruddhi Yojana budget head (2515 2753).\
   [202609301118199220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609301118199220.pdf)
 
+- Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) 2026-2027 - Central Share and its equivalent State Share funds sanctioned as Mother Sanction on the budgetary distribution system for implementing the SNA-SPARSH.  Social Justice Components  (Account Head 2053A556 and  Account Head 2053A565)\
+  [202610011202372120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202610011202372120.pdf)
+
+- Under Pradhan Mantri Gram Sadak Yojana Part-3 Package no. Haroshi in MH-2784 to Rm. 139 to Javali Dare Road, Mahabaleshwar, Dist.\
+  [202609301721293320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609301721293320.pdf)
+
 ## Miscellaneous
 - Regarding the expansion of the scope of works under the Gram Panchayat within the District Annual Plan scheme titled Special Grant to Gram Panchayats for Public Amenities.\
   [202609291633265920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609291633265920.pdf)

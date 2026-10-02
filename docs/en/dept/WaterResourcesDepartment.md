@@ -75,5 +75,8 @@
 - Continuation of Posts.\
   [202609291516301927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609291516301927.pdf)
 
+- Regarding the grant of an extension from 01.09.2026 to 28.02.2027 for 116 posts on the fixed temporary establishment within the Minor Irrigation Division, Oros-Sindhudurgnagariunder the jurisdiction of the Superintending Engineer, South Konkan Irrigation Project Circle, Oros-Sindhudurgnagariand its five sub-divisional offices.\
+  [202610011459588027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202610011459588027.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

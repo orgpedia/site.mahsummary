@@ -19,5 +19,8 @@
 - Transfer/Posting of officers in the Executive Engineer (Civil) cadre.\
   [202609291501306118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202609291501306118.pdf)
 
+- Posting upon reinstatement in government service: Mr. Ajay Sidram Waghmare, Civil Engineering Assistant.\
+  [202610011200445818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202610011200445818.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
